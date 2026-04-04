@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="list-page">
+
+  {{/* ── Category filter bar ── */}}
+  <nav class="filter-bar">
+    <a class="filter-chip {{ if .IsHome }}filter-chip--active{{ end }}"
+       href="{{ "/" | relLangURL }}">{{ i18n "all_posts" }}</a>
+    {{ range .Site.Taxonomies.categories.ByCount }}
+      <a class="filter-chip" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+    {{ end }}
+  </nav>
+
+  {{/* ── Simple search input (Pagefind) ── */}}
+  <div class="search-wrap">
+    <input id="pagefind-search" type="search" placeholder="{{ i18n "search_placeholder" }}"
+           data-pagefind-ui aria-label="{{ i18n "search_placeholder" }}">
+  </div>
+  <div id="pagefind-results"></div>
+
+  {{/* ── Collect all pages in this context ──
+       On the home page .Pages only returns child *sections* (not individual posts).
+       Use .Site.RegularPages instead so all posts appear directly on the home page.
+       Hugo automatically scopes .Site.RegularPages to the current language.
+  */}}
+  {{ $pages := cond .IsHome .Site.RegularPages .Pages }}
+
+  {{/* ── Group by year using Hugo built-in ── */}}
+  {{ range $pages.GroupByDate "2006" }}
+    {{ $y := .Key }}
+    {{ $yearPages := .Pages }}
+    <section class="year-group" id="year-{{ $y }}">
+      <h2 class="year-heading">
+        <button class="year-toggle" aria-expanded="true" aria-controls="year-posts-{{ $y }}">
+          {{ $y }}
+          <span class="year-count">({{ len $yearPages }})</span>
+        </button>
+      </h2>
+      <ul class="entry-list" id="year-posts-{{ $y }}">
+        {{ range $yearPages }}
+          {{ partial "entry-row.html" . }}
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+
+</div>
+
+<script>
+/* Year collapse toggle */
+document.querySelectorAll('.year-toggle').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', String(!expanded));
+    const target = document.getElementById(btn.getAttribute('aria-controls'));
+    if (target) target.hidden = expanded;
+  });
+});
+</script>
+{{ end }}

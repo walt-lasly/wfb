@@ -1,0 +1,47 @@
+baseURL: "https://example.github.io/fred-pohl-blog/"
+title: "The Way the Future Blogs"
+defaultContentLanguage: ru
+defaultContentLanguageInSubdir: false
+
+languages:
+  ru:
+    languageName: "Русский"
+    languageCode: ru
+    weight: 1
+    title: "The Way the Future Blogs — Фред Пол"
+    params:
+      subtitle: "Блог Фреда Пола (2009–2013) · Архив"
+  en:
+    languageName: "English"
+    languageCode: en
+    weight: 2
+    title: "The Way the Future Blogs — Fred Pohl"
+    params:
+      subtitle: "Fred Pohl's Blog (2009–2013) · Archive"
+
+taxonomies:
+  tag: tags
+  category: categories
+
+params:
+  dateFormat: "2 January 2006"
+  dateFormatRu: "2 января 2006"
+  authorName: "Fred Pohl"
+  archiveSite: "https://web.archive.org"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+  page:
+    - HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  term:
+    - HTML

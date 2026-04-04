@@ -1,0 +1,62 @@
+---
+title: "Why I’m No Pen Pal"
+date: 2009-01-19
+categories: ["Personal", "Writing"]
+tags: ["Medicine"]
+archive_url: "https://web.archive.org/web/20220201000000/http://thewaythefutureblogs.com/2009/01/why-im-no-pen-pal/"
+translated: false
+---
+
+# The Way the Future Blogs
+
+
+Frederik Pohl
+
+
+## Why I’m No Pen Pal
+
+
+{{< figure src="hendrickgoltziusbr.jpg" alt="Goltzius's Right Hand, Hendrick Goltzius, 1588" caption="Goltzius's Right Hand, Hendrick Goltzius, 1588" >}}
+
+
+If you find yourself moved to write me about something, you may reasonably expect to get an answer. That isn’t likely to happen, though, and I’d like to tell you why.
+
+
+Three or four years ago I woke up one morning, showered, dressed, gtabbed a cup of coffee and jumped in my car to go somewhere. That was when I discovered that overnight, without warning, my right hand had so enfeebled itself that I couldn’t turn the key in the ignition. The rest of my body seemed to be all right, so I reached over with my left hand to start the car, meaning to ask my doctor what the hell was going on this time at the next chance I got.
+
+
+I will skip to the chase, omitting a year or so of talking to neurologists and neurosurgeons and being subjected to various high-tech tests. What’s going on appears to be a neurological problem. In order for my brain to tell my fingers to twist an ignition key — or do anything else — it has to send them a message through a nerve which passes along my spinal column. Unfortunately my cervical vertebrae have become so attached to those nerves that they’re squeezing them to death. So the messages don’t get through; lacking orders from above the muscles don’t do anything at all; lacking exercise they atrophy.
+
+
+Fortunately for me, they take their time about it, but they’re pretty thorough. The fingers of my right hand are the worst affected so far. What makes that annoying is that I use that hand for writing. At least the first draft of a lot of my books was written by hand, with a ballpoint pen on lined yellow pads, often while on a train, plane or ship that was going somewhere. That option is no longer open to me, because my handwriting, always atrocious, is now often quite illegible even to me.
+
+
+Remains the computer. That still works for me, but not easily. I can still touch-type with my left hand (in the old days at almost a hundred words a minute) but the right hand can only hunt-and-peck with the forefinger.
+
+
+This is bad news. It’s horribly slow and prone to myriad mistakes, which I have to correct as I go along, and, worst of all, after a page or two my right index finger begins to get pretty painful. So my writing time, whether for books, letters or any other task, is limited. Therefore, at least until I finish a couple of things I really want to write, correspondence time is squeezed even harder than my cervical nerves.
+
+
+And listen, this isn’t a plea for sympathy. Hey, I’m 89 years old. That means that I am far luckier than most of the people I’ve known in being still able to write at all — or, for that matter, to still be breathing. It’s just to say that if you ever happen to think you should properly have had a longer letter from me, or indeed any letter at all, it isn’t that I don’t treasure you, it’s just that my finger hurts.
+
+
+### 18 Comments
+
+- Dave Ihnatsays:I don’t expect you to write back; I don’t even expect you to remember me.  But quite aside from all your work–that has been an enduring pleasure to me for decades now–you are special in my memory for a small, simple act over 20 years ago.It was WindyCon, 1985.  I’d recently been dumped by my then-flame of five years, and was less than festive while celebrating my birthday.  I’d been invited into the author’s party, and when you were pointed out to me, I was motivated by some strange whim to come over, introduce myself to you, and ask if you’d care to have a birthday shot with me.  I had no expectation that you’d do any such thing; instead, you graciously considered the offer, and commented, “I believe I will.  I haven’t had a shot for quite some time.”  And you did.I still cherish that memory.  Such a little thing, overall; yet it was a kindness, a consideration, that meant very much to me at that time, and still does.  I simply wish to thank you again, and let you know I will never forget it.January 19, 2009, 5:53 pm
+- Stefan Jonessays:I would be satisfied if this blog consisted of nothing but the working drafts of pieces which would go into a new version of “The Way the Future Was.”Anything else would be gravy.January 19, 2009, 10:38 pm
+- NelCsays:Have you tried voice recognition software? I have a friend who got carpal tunnel syndrome from excessive typing at university, and she gets by with voice recognition these days. I understand that the software’s a lot better than it was.January 20, 2009, 7:03 am
+- Mary Peedsays:You might try voice recognition software.  I have arthritis and have had some success with it (although it takes some time to train and can be very frustrating in the process).January 20, 2009, 9:31 am
+- Sean Cravensays:My sympathies with your condition. I would also like to suggest voice recognition software — but with a caveat.I’ve got lower back problems that keep me from being able to sit for long enough to do any real writing. In my attempts to find a way around this, I did try voice recognition software.What I found was that I speak in an entirely different fashion than I write — far more discursive and far less grammatical. I think this could have been addressed if I’d stuck with it, though.The hell of it is, is that writing is something that demands your total attention. If you’re going to achieve flow you need to be able to ignore the physical act so as to concentrate on the mental one. Again, my sympathies.January 20, 2009, 12:01 pm
+- Jeffsays:I am less than half your age and have a similar problem with my feet. Some of my toes are quite numb. I have found that drinking water, rather than other soft drinks, coffee or tea helps. But not much.I just wanted to say how much I have enjoyed your books. A good friend of mine sent me a copy of Space Merchants - she had read my books and thought I would enjoy yours, so that is how I discovered you. She was a huge fan of yours, but she died in child birth last year.January 20, 2009, 12:29 pm
+- Bruce Baughsays:In addition to the voice recognition software, for short things like e-mail and notes, you might want to look at handheld devices like the iPhone/iPod Touch and Palm’s upcoming Pre unit. They have lil’ keyboards made for use with the thumbs or a single finger - certainly nothing you’d want to use for extended work, or at least I don’t, but really handy for the small stuff.January 20, 2009, 12:51 pm
+- Romeo Vitellisays:Are you looking into any occupational therapy? Stroke patients get a lot of benefit and are often able to retrain their other hand to do a lot of the work that their dominant hand used to do.  Granted, your condition doesn’t sound that severe but you can discuss rehab options with your doctor.January 20, 2009, 1:42 pm
+- mikeysays:Voice recognition software - Dragonspeak, for example - would be my suggestion as well. It is far from perfect, and still prone to speeling errors and (sometimes) amusing word substitutions, but it can be a real useful tool and practical alternative to TFT (two finger typing). Glad to hear the Independence is still floating, I traveled the Atlantic on her and her sister the Constitution, many moons ago.  Cheers, mikeyJanuary 20, 2009, 3:49 pm
+- Bruce Gillespiesays:Hi, Mr Pohl… We’re not worried if you cannot reply to individual comments — it’s just delightful that you’ve embarked on a blog, and have so many interesting things to say. I’m particularly looking forward to additions to ‘The Way the Future Was’.Best wishes, Bruce Gillespie (editor, SF Commentary)January 20, 2009, 4:15 pm
+- soubriquetsays:No reply sought or necessary.In the late sixties, early seventies, I was a teenager plagued by severe asthma, my escape was in reading. Unable to get out and about in the real world, I roamed the infinity of imaginary worlds, and the library was my hunting-ground.I’d search out those bright yellow Gollancz dust-covers, looking for more and more science-fiction, books which stretched my mind with all the “what-ifs” they generated.I’ve never been one for writing fan-mail, I imagine it becomes a chore for the recipient, but I’d like to take this opportunity to thank you, for a rescue from pain, for a broadening of the mind, and for many, many hours of enjoyyment.Thank you.January 20, 2009, 4:35 pm
+- xenovalentsays:Have you considered the one-handed Dvorak keyboard layouts?  There will certainly be considerable retraining required (which will no doubt be difficult for someone who is 89 years and has likely spent a lifetime typing on QWERTY-style keyboards on various typewriters and keyboards), but they are specifically laid out to facilitate one handed typing.January 20, 2009, 5:39 pm
+- Stephen Peterssays:This makes the fact that you are even taking the time to share things in this blog really special. Thanks for doing that.January 20, 2009, 5:51 pm
+- Shirley Hickssays:Look for Dragon Naturally Speaking. Once installed (and trained to your voice) you can automate many commands… and dictate.We’re looking into it right now for my mom, whose typing has been slowed by arthritis.I was just pointed to your blog. Whee! I gobbled up your stories in primary and middle school and was an unforgiving teenager (and college student) in getting impatient with the going rate of authorial production.January 20, 2009, 6:11 pm
+- Tina Blacksays:Hi Fred –I had a friend who was quadripelegic.  For typing she had an artificial index finger that strapped around her right wrist.  It was a rod that went under her palm and then bent downward like a poised finger at the end of her hand; and it had a little rubber tip like one on a cane, but the size of the tip of my little finger.  She used it to tap keys.Such a tool might help with the tired and pained finger.January 20, 2009, 9:29 pm
+- Gsays:THe experience you are describing was one that resulted in a spinal operation for me and then a full recovery. I hope that you have had a real diagnosis and have decided whether the trauma of surgery is worth the result. Certainly, with age, surgery becomes more dangerous and may not be worthwhile. For me, after 5.5 hours on the table, when I woke up in recovery and had full power in my left hand, it was worth it. In addition, as nerves die, they don’t regenerate, so it’s a decision that needs to be made quickly, after consultation.But of course we don’t expect answers. I am so glad to find your blog through Scalzi and I will read backward and forward and be grateful that someone whose work I have enjoyed all my reading life is speaking to “me”. The Space Merchants has been a favorite book as long as I have been reading SF, and the older I get, the more I understand it.January 21, 2009, 1:04 pm
+- Louise van Hinesays:Hello Fred!I have been a fan of your fiction since forever.  I am delighted to see that not only are you still alive but still publishing - and now blogging!  Sorry to hear about the hand though.  Fortunately, as some of the other commenters have mentioned, technology is catching up.  A friend of mine uses Dragon Naturally Speaking and has nothing but praise for its accuracy and speed.  You’re not out of the game yet!January 21, 2009, 5:57 pm
+- Fathercrowsays:I hate Dragon. Its just not intuative enough. Writing for me was always a fluid thing, hand to pencil, pencil to paper. Its more natural for my thinking process to use my hands to express my thoughts. Then I became a quadriplegic and they gave me Dragon Dictate and I could not write a word. Now I write with a stylus strapped to my hand. Its not as high tech as talking to the computer, but then talking is not writing, at least not for me. So pluck away, friend, as best you can.January 22, 2009, 3:18 pm

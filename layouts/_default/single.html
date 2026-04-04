@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+{{ $translated := .Params.translated | default false }}
+
+{{/* Find the translation counterpart */}}
+{{ $ru := "" }}
+{{ $en := "" }}
+{{ range .AllTranslations }}
+  {{ if eq .Language.Lang "ru" }}{{ $ru = . }}{{ end }}
+  {{ if eq .Language.Lang "en" }}{{ $en = . }}{{ end }}
+{{ end }}
+{{ if eq .Language.Lang "ru" }}{{ $ru = . }}{{ end }}
+{{ if eq .Language.Lang "en" }}{{ $en = . }}{{ end }}
+
+<article class="post">
+
+  {{/* ── Post header ── */}}
+  <header class="post-header">
+    <a class="back-link" href="{{ "/" | relLangURL }}">{{ i18n "back_to_list" }}</a>
+    <h1 class="post-title">
+      {{- if and $ru $en -}}
+        {{ $ru.Title }}
+        {{ if ne $ru.Title $en.Title }}
+          <span class="post-title-en">/ {{ $en.Title }}</span>
+        {{ end }}
+      {{- else -}}
+        {{ .Title }}
+      {{- end -}}
+    </h1>
+    <div class="post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ range .Params.categories }}
+        <a class="meta-category" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end }}
+      {{ range .Params.tags }}
+        <a class="meta-tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>
+      {{ end }}
+      {{ with .Params.archive_url }}
+        <a class="archive-link" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "view_archive" }} ↗</a>
+      {{ end }}
+    </div>
+  </header>
+
+  {{/* ── Bilingual two-column view ── */}}
+  {{ if and $ru $en $translated }}
+  <div class="bilingual-columns" id="bilingual-columns">
+    <div class="col col--ru" id="col-ru" data-pagefind-body>
+      <h2 class="col-label">{{ i18n "translation_label" }}</h2>
+      {{ $ru.Content }}
+    </div>
+    <div class="col col--en" id="col-en">
+      <h2 class="col-label">{{ i18n "original_label" }}</h2>
+      {{ $en.Content }}
+    </div>
+  </div>
+
+  {{/* Mobile language tabs */}}
+  <div class="mobile-tabs" aria-hidden="true">
+    <button class="tab-btn tab-btn--active" data-target="col-ru">{{ i18n "toggle_ru" }}</button>
+    <button class="tab-btn" data-target="col-en">{{ i18n "toggle_en" }}</button>
+  </div>
+
+  {{ else }}
+  {{/* ── Single column (no translation yet) ── */}}
+  <div class="no-translation-banner">
+    <span>{{ i18n "not_translated_note" }}</span>
+  </div>
+  <div class="single-column" data-pagefind-body>
+    {{ .Content }}
+  </div>
+  {{ end }}
+
+</article>
+
+<script src="{{ "js/sync-scroll.js" | relURL }}"></script>
+{{ end }}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="site-title" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+      <span class="site-subtitle">{{ .Site.Params.subtitle }}</span>
+      <nav class="lang-switcher">
+        {{ range .Translations }}
+          <a href="{{ .Permalink }}" class="lang-link">{{ .Language.LanguageName }}</a>
+        {{ end }}
+        {{ range .AllTranslations }}
+          {{ if eq .Language.Lang $.Language.Lang }}
+            <span class="lang-link lang-link--active">{{ .Language.LanguageName }}</span>
+          {{ end }}
+        {{ end }}
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{- block "main" . }}{{- end }}
+  </main>
+
+  <footer class="site-footer">
+    <p>Fred Pohl · "The Way the Future Blogs" · 2009–2013 · Archived from <a href="https://web.archive.org" target="_blank" rel="noopener">Internet Archive</a></p>
+  </footer>
+</body>
+</html>
