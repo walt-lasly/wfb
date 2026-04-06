@@ -300,3 +300,31 @@ img { max-width: 100%; height: auto; display: block; }
   .post-title { font-size: 1.3rem; }
   .entry-date { display: none; }
 }
+
+/* ── Poem shortcode ─────────────────────────────────────────────────────────── */
+.poem-block {
+  margin: 1.5rem auto;
+  padding: 1.2rem 1.6rem;
+  border-left: 3px solid var(--accent, #5b7fa6);
+  background: #f8f9fb;
+  max-width: 44rem;
+  font-style: italic;
+}
+.poem-title {
+  display: block;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.94rem;
+  margin-bottom: 1.1rem;
+  letter-spacing: 0.02em;
+}
+.poem-text {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.97rem;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}

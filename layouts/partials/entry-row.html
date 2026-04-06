@@ -16,10 +16,10 @@
 
   <div class="entry-meta">
     {{ range .Params.categories }}
-      <a class="meta-category" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+      <a class="meta-category" href="{{ printf "%scategories/%s/" $.Site.Home.RelPermalink (. | urlize) }}">{{ . }}</a>
     {{ end }}
     {{ range .Params.tags }}
-      <a class="meta-tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>
+        <a class="meta-tag" href="{{ printf "%stags/%s/" $.Site.Home.RelPermalink (. | urlize) }}">#{{ . }}</a>
     {{ end }}
   </div>
 </li>

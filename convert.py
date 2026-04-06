@@ -100,7 +100,97 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
     """
     lines = []
 
+    def inline_text(node) -> str:
+        """Render inline content of a node to a Markdown string, preserving bold/italic.
+
+        Italic runs are merged: consecutive <i>/<em> tags, bridge NavigableStrings
+        between them, and embedded <a> links are collapsed into a single *...* span
+        to avoid broken CommonMark emphasis from adjacent *A* plaintext *B* patterns.
+        """
+        parts = []
+        children = list(node.children)
+        i = 0
+        while i < len(children):
+            child = children[i]
+            name = getattr(child, "name", None)
+
+            if name in ("i", "em"):
+                # Start an italic group. Greedily consume:
+                #   - consecutive <i>/<em> tags
+                #   - NavigableStrings that bridge two italic tags
+                #   - <a> links (rendered as **bold** inline)
+                buf = child.get_text()
+                j = i + 1
+                while j < len(children):
+                    nc = children[j]
+                    nn = getattr(nc, "name", None)
+                    if nn in ("i", "em"):
+                        buf += nc.get_text()
+                        j += 1
+                    elif nn is None:
+                        # Include a bridge NavigableString only when the next
+                        # sibling is another italic tag (keeps the span unified).
+                        if (j + 1 < len(children) and
+                                getattr(children[j + 1], "name", None) in ("i", "em")):
+                            buf += str(nc)
+                            j += 1
+                        else:
+                            break
+                    elif nn == "a":
+                        # Embed link as **bold** inside the italic span
+                        lt = nc.get_text().strip()
+                        if lt:
+                            buf += f" **{lt}** "
+                        j += 1
+                    else:
+                        break
+                stripped = buf.strip()
+                if stripped:
+                    lead = buf[: len(buf) - len(buf.lstrip())]
+                    trail = buf[len(buf.rstrip()) :]
+                    parts.append(f"{lead}*{stripped}*{trail}")
+                i = j
+                continue
+
+            elif name is None:
+                parts.append(str(child))
+
+            elif name in ("b", "strong"):
+                inner = child.get_text()
+                stripped = inner.strip()
+                if stripped:
+                    lead = inner[: len(inner) - len(inner.lstrip())]
+                    trail = inner[len(inner.rstrip()) :]
+                    parts.append(f"{lead}**{stripped}**{trail}")
+
+            elif name == "br":
+                parts.append("  \n")
+
+            elif name == "p":
+                # <li><p>...</p></li> — recurse into the paragraph
+                parts.append(inline_text(child))
+
+            elif name == "a":
+                text = child.get_text()
+                if text.strip():
+                    parts.append(f"**{text.strip()}**")
+                else:
+                    parts.append(text)
+
+            else:
+                parts.append(child.get_text())
+
+            i += 1
+
+        return "".join(parts)
+
     def process_node(node):
+        if not hasattr(node, "name"):
+            # NavigableString — emit plain text when inside a recursed context
+            text = str(node).strip()
+            if text:
+                lines.append(text)
+            return
         if hasattr(node, "name"):
             tag = node.name
 
@@ -115,30 +205,96 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                 # Check if this paragraph is inside a wp-caption (handled below)
                 if node.parent and "wp-caption" in (node.parent.get("class") or []):
                     return
-                text = node.get_text()
-                if text.strip():
-                    lines.append("\n" + text.strip() + "\n")
-                else:
-                    # Paragraph contains only non-text children (e.g. <img> or <a><img></a>)
+                # Only treat as image-containing if there's a real image (not a 1×1 pixel)
+                real_imgs = [img for img in node.find_all("img")
+                             if Path(img.get("src", "")).suffix.lower()
+                             in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg")]
+                if real_imgs or node.find("object"):
+                    lines.append("")
                     for child in node.children:
                         process_node(child)
+                    lines.append("")
+                elif node.find(["b", "strong", "em", "i"]):
+                    # Paragraph with inline markup — use inline_text to preserve bold/italic
+                    text = inline_text(node).strip()
+                    if text:
+                        lines.append("\n" + text + "\n")
+                else:
+                    text = node.get_text()
+                    if text.strip():
+                        lines.append("\n" + text.strip() + "\n")
 
             elif tag == "blockquote":
-                inner = node.get_text().strip()
-                for bline in inner.splitlines():
-                    lines.append("> " + bline)
-                lines.append("")
+                # Detect poem blockquotes: contain <br> tags (verse line breaks).
+                # Title is the first <strong> or <b> child; stanzas are <p> with <br>.
+                if node.find("br"):
+                    # Extract title
+                    title_el = node.find(["strong", "b"])
+                    title = title_el.get_text(strip=True) if title_el else ""
+                    # Collect stanzas: paragraphs whose text is non-empty
+                    stanzas = []
+                    for p in node.find_all("p"):
+                        stanza_lines = []
+                        for child in p.children:
+                            name = getattr(child, "name", None)
+                            if name == "br":
+                                continue  # line separator
+                            elif name:
+                                line = child.get_text().strip()  # inline tag
+                            else:
+                                line = str(child).strip()  # NavigableString
+                            if line:
+                                stanza_lines.append(line)
+                        if stanza_lines:
+                            stanzas.append("\n".join(stanza_lines))
+                    poem_body = "\n\n".join(stanzas)
+                    title_attr = f' title="{title}"' if title else ""
+                    print(f"      ♦ Poem found: ({title or '(untitled)'})")
+                    lines.append(f'\n{{{{< poem{title_attr} >}}}}\n{poem_body}\n{{{{< /poem >}}}}\n')
+                else:
+                    # Regular prose blockquote — recurse so images are preserved.
+                    start = len(lines)
+                    for child in node.children:
+                        process_node(child)
+                    end = len(lines)
+                    for i in range(start, end):
+                        if lines[i].strip():
+                            lines[i] = "> " + lines[i].lstrip()
+                    lines.append("")
 
             elif tag in ("ul", "ol"):
                 for li in node.find_all("li", recursive=False):
-                    lines.append("- " + li.get_text(strip=True))
+                    if li.find(["b", "strong", "em", "i"]):
+                        lines.append("- " + inline_text(li).strip())
+                    else:
+                        lines.append("- " + li.get_text(strip=True))
                 lines.append("")
+
+            elif tag == "object":
+                # YouTube embed: <object><param name="movie" value="...youtube.../v/VIDEO_ID&...">
+                movie_param = node.find("param", attrs={"name": "movie"})
+                if movie_param:
+                    val = movie_param.get("value", "")
+                    m = re.search(r"youtube(?:-nocookie)?\.com/v/([A-Za-z0-9_-]+)", val)
+                    if m:
+                        print(f"      ▶ YouTube found: {m.group(1)}")
+                        lines.append(f'\n{{{{< youtube {m.group(1)} >}}}}\n')
+                        return
+                # Not a YouTube object — recurse normally
+                for child in node.children:
+                    process_node(child)
+
+            elif tag == "embed":
+                return  # always inside <object>, handled above
 
             elif tag == "img":
                 src = node.get("src", "")
                 alt = node.get("alt", "")
                 title = node.get("title", "")
                 fname = Path(src).name
+                # Skip images with no recognised extension (e.g. Amazon tracking pixels)
+                if Path(fname).suffix.lower() not in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"):
+                    return
                 # Skip Wayback Machine toolbar / UI artefact images
                 if any(skip in fname.lower() for skip in
                        ("wayback", "toolbar", "banner", "header-gg", "_tb_")):
@@ -159,14 +315,89 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                     else:
                         lines.append(f"\n![{alt}]({fname})\n")
 
+            elif tag == "div":
+                # Detect centred poem div: has an inline style with "width:" (e.g.
+                # "width:20em") AND contains a <p> with ≥3 <br> verse-line breaks.
+                # The width requirement distinguishes small poem containers from
+                # general content wrappers like <div class="post-entry">.
+                div_style = node.get("style", "").replace(" ", "")
+                has_width = "width:" in div_style
+                verse_p = (
+                    next(
+                        (p for p in node.find_all("p", recursive=False)
+                         if len(p.find_all("br")) >= 3),
+                        None,
+                    )
+                    if has_width else None
+                )
+                if verse_p:
+                    # Extract title from <strong>/<b> or a bold-styled <span>
+                    title_el = node.find(["strong", "b"])
+                    if not title_el:
+                        for span in node.find_all("span", recursive=False):
+                            style = span.get("style", "").replace(" ", "")
+                            if "font-weight:bold" in style:
+                                title_el = span
+                                break
+                    title = title_el.get_text(strip=True) if title_el else ""
+                    # Collect verse lines (br = line separator)
+                    stanza_lines = []
+                    for child in verse_p.children:
+                        name = getattr(child, "name", None)
+                        if name == "br":
+                            continue
+                        line = child.get_text().strip() if name else str(child).strip()
+                        if line:
+                            stanza_lines.append(line)
+                    poem_body = "\n".join(stanza_lines)
+                    # Append attribution line (—Author) from last <p><em> child
+                    for p in node.find_all("p", recursive=False):
+                        em = p.find("em")
+                        if em:
+                            attr_text = em.get_text().strip()
+                            if attr_text.startswith("—") or attr_text.startswith("--"):
+                                poem_body += f"\n\n{attr_text}"
+                                break
+                    title_attr = f' title="{title}"' if title else ""
+                    print(f"      ♦ Poem found: ({title or '(untitled)'})")
+                    lines.append(f'\n{{{{< poem{title_attr} >}}}}\n{poem_body}\n{{{{< /poem >}}}}\n')
+                else:
+                    # Regular div — recurse into children
+                    for child in node.children:
+                        process_node(child)
+
+            elif tag in ("strong", "b"):
+                # Bold — wrap in ** when encountered during recursion
+                inner = node.get_text()
+                stripped = inner.strip()
+                if stripped:
+                    lead = inner[: len(inner) - len(inner.lstrip())]
+                    trail = inner[len(inner.rstrip()) :]
+                    lines.append(f"{lead}**{stripped}**{trail}")
+
             elif tag in ("em", "i"):
-                pass  # handled by get_text at parent level
+                # Italic — wrap in * when encountered during recursion
+                inner = node.get_text()
+                stripped = inner.strip()
+                if stripped:
+                    lead = inner[: len(inner) - len(inner.lstrip())]
+                    trail = inner[len(inner.rstrip()) :]
+                    lines.append(f"{lead}*{stripped}*{trail}")
 
             elif tag in ("br",):
                 lines.append("  ")
 
             elif tag in ("hr",):
                 lines.append("\n---\n")
+
+            elif tag == "a":
+                text = node.get_text()
+                if text.strip():
+                    lines.append(f"**{text.strip()}**")
+                else:
+                    if hasattr(node, "children"):
+                        for child in node.children:
+                            process_node(child)
 
             else:
                 if hasattr(node, "children"):

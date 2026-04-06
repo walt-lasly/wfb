@@ -16,7 +16,7 @@
 
   {{/* ── Post header ── */}}
   <header class="post-header">
-    <a class="back-link" href="{{ "/" | relLangURL }}">{{ i18n "back_to_list" }}</a>
+    <a class="back-link" href="{{ .Site.Home.RelPermalink }}">{{ i18n "back_to_list" }}</a>
     <h1 class="post-title">
       {{- if and $ru $en -}}
         {{ $ru.Title }}
@@ -30,10 +30,10 @@
     <div class="post-meta">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
       {{ range .Params.categories }}
-        <a class="meta-category" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        <a class="meta-category" href="{{ printf "%scategories/%s/" $.Site.Home.RelPermalink (. | urlize) }}">{{ . }}</a>
       {{ end }}
       {{ range .Params.tags }}
-        <a class="meta-tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>
+        <a class="meta-tag" href="{{ printf "%stags/%s/" $.Site.Home.RelPermalink (. | urlize) }}">#{{ . }}</a>
       {{ end }}
       {{ with .Params.archive_url }}
         <a class="archive-link" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "view_archive" }} ↗</a>

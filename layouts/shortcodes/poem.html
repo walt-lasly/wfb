@@ -1,0 +1,5 @@
+{{- $title := .Get "title" -}}
+<figure class="poem-block">
+  {{- if $title }}<figcaption class="poem-title">{{ $title }}</figcaption>{{ end -}}
+  <pre class="poem-text">{{ .Inner }}</pre>
+</figure>

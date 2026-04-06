@@ -4,7 +4,7 @@
   {{/* ── Category filter bar ── */}}
   <nav class="filter-bar">
     <a class="filter-chip {{ if .IsHome }}filter-chip--active{{ end }}"
-       href="{{ "/" | relLangURL }}">{{ i18n "all_posts" }}</a>
+       href="{{ .Site.Home.RelPermalink }}">{{ i18n "all_posts" }}</a>
     {{ range .Site.Taxonomies.categories.ByCount }}
       <a class="filter-chip" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
     {{ end }}

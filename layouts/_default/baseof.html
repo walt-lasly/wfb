@@ -9,7 +9,7 @@
 <body>
   <header class="site-header">
     <div class="site-header__inner">
-      <a class="site-title" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+      <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
       <span class="site-subtitle">{{ .Site.Params.subtitle }}</span>
       <nav class="lang-switcher">
         {{ range .Translations }}
