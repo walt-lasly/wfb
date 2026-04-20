@@ -12,12 +12,12 @@ translated: false
 
 Frederik Pohl
 
+**Me and the Biz**
+**The Book Place**
 
 ## Day of the Plutoid
 
-
 ![Pluto](pluto.jpg)
-
 
 Today is the anniversary of the day in 1930 when young Clyde Tombaugh, blink-comparing a bunch of astronomical photographs, found a dot that had moved — Pluto — and told the world he had discovered a new planet.  Boy!  What some people won’t say to make themselves look important!
 
@@ -32,3 +32,6 @@ Today is the anniversary of the day in 1930 when young Clyde Tombaugh, blink-com
 - Steven Silversays:Clyde took the first of the three discovery pictures of Pluto on January 20, 1930, and I got to meet him on the fiftieth anniversary of that photograph.  I also had the privilege of carrying out a five year correspondence with him around that time and had a standing invitation to visit whenever I was in his part of New Mexico.His wife has said that Clyde knew that Pluto’s demotion would happen eventually before his death in 1997.February 19, 2009, 2:04 pm
 - PurpleRangersays:And you notice that the move to downgrade Pluto’s status didn’t happen until AFTER Tombaugh’s death?February 20, 2009, 12:15 pm
 - Paul Turnbullsays:I’m not sure what the fuss is about. Tombaugh goes from discovering the 9th planet to discovering the first a whole new class of object. Seems like a win to me.February 23, 2009, 8:13 pm
+
+**WordPress**
+**TWTFB**

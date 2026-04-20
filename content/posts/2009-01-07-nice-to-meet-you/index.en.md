@@ -12,12 +12,12 @@ translated: false
 
 Frederik Pohl
 
+**Sir Arthur and I**
+**Greetings from N19° 44.50′ W156° 06.63′**
 
 ## Nice to Meet You
 
-
-What we’ve got here is actually an introduction, designed to give you some idea of what you’re likely to find in “The Way the Future Blogs” if you are staunch enough to stick around for a while.
-
+![The Way the Future Was](twtfwsm1.jpg)
 
 The reason we need introducing is that I’m new to this, and so I may not get it right just at first. For instance, I understand that many blogs resemble back-and-forth chatting between the blogger and the bloggees, but that’s not what I have in mind. I am thinking of something more like a newspaper column, in which every now and then (at least once a week, maybe more often than that) I write a few hundred words and dispatch them to anybody who cares to tune in. Then again, most blog entries seem to be really short, maybe less than a hundred words. That I can’t promise to do. After a lifetime of getting paid by the word, I’m not so good at short. (But then you can skim if you want to. I do, quite a lot.)
 
@@ -25,7 +25,7 @@ The reason we need introducing is that I’m new to this, and so I may not get i
 So what will I be writing about?
 
 
-Well, if you’ve ever read my experiment in autobiography, The Way the Future Was, you have a pretty good idea of what to expect. Very possibly you haven’t, since it’s been out of print for twenty-odd years (though I have to say that I am continually astonished by the number of battered and dog-eared copies that people produce for me to autograph every time I do a book signing.) So I’ll try to give you an idea.
+Well, if you’ve ever read my experiment in autobiography, *The Way the Future Was,* you have a pretty good idea of what to expect. Very possibly you haven’t, since it’s been out of print for twenty-odd years (though I have to say that I am continually astonished by the number of battered and dog-eared copies that people produce for me to autograph every time I do a book signing.) So I’ll try to give you an idea.
 
 
 Actually, the way this blog began was for two reasons. One was that one of my editors has been coaxing me to do something of the sort for publicity purposes, but the one that tipped the scales was that I’ve been for some time toying with the idea of publishing either an expanded and updated edition of that book or a sequel to it. A big part of this will be talk about sf writers I have known — as clients when I was a literary agent, as contributors when I was editing books or magazines, as collaborators, as traveling companions over a big part of the world — which is basically all of the writers anyone has ever heard of over the last many years. (For a sample of what I mean, see “Sir Arthur and I.”)
@@ -39,7 +39,11 @@ So let’s get on with it. I hope it’ll be fun!
 
 ### 18 Comments
 
-- Bill Higgins-- Beam Jockeysays:Once upon a time, I came across a remainder table where a stack ofThe Way the Future Waswas offered for a dollar apiece.I bought every one.  Even though I already owned a copy.  It’s a terrific book.  Over the years, I have given them away to friends who wondered how science fiction got to be the way it is.   Or what kind of adventures you had along the way.I’m glad to see you’ve started a blog– I always enjoy reading what you write, so I look forward to seeing what you have to say here.January 19, 2009, 4:50 pm
+- Bill Higgins-- Beam Jockey says:
+Once upon a time, I came across a remainder table where a stack of The Way the Future Was was offered for a dollar apiece.  
+I bought every one.  Even though I already owned a copy.  It’s a terrific book.  Over the years, I have given them away to friends who wondered how science fiction got to be the way it is.   Or what kind of adventures you had along the way.
+I’m glad to see you’ve started a blog– I always enjoy reading what you write, so I look forward to seeing what you have to say here.
+January 19, 2009, 4:50 pm
 - Stefan Jonessays:I read “The Way the Future Was” in college . . . cripes, twenty years ago. A great read. I remembered, just the other day, a scene regarding leaving a bag of boiled eggs out for a drifter.January 19, 2009, 10:27 pm
 - Fred Kieschesays:“The Way the Future Was” is one of my favorite SF-autobiographies, along with the one by that Williamson fella. (Which is a hint that I hope you’ll talk about your experiences co-writing with him at some point!)Glad to see you blogging!January 20, 2009, 11:55 am
 - Shirley Hickssays:Talk to Charlie Stroll over at http//www.antipope.org. He test flies a lot of his writing via his blog readership and has grown quite a community of devoted fans.Great to see you joining the blogosphere. I was pointed here from Jame’s Nicoll’s LiveJournal entry.January 20, 2009, 6:15 pm
@@ -47,7 +51,9 @@ So let’s get on with it. I hope it’ll be fun!
 - Matt Tan in Singaporesays:I loved reading my first Fred Pohl novel “Gateway” in the 80s and eagerly read all the sequels. I also loved his collaboration with Isaac Asimov ,”Our Angry Earth”. It’s good to be able to read your thoughts and opinions regularly on the interwebs. Please continue for a long, long time. Thanks.January 20, 2009, 11:00 pm
 - Peter Nelsays:Mr Pohl, we know who you are, and believe me, we are honored to be in your presence. Keep ‘em coming! A blog by you is wonderful news, and it’s going straight into “favorites”.Thank you!January 21, 2009, 2:39 am
 - Zdeslav Benzonsays:I just received Wonder Effect, first paperback edition from 1962. and am waiting for a number of magazines You edited in the sixties (Galaxy and If), before I had even been born. One of my favourite SF books is Space Merchantsand I reread it just last year. So, when I learned that You have a blog Ijust wanted to tell you that I admire how You still live science fictionand how you made my life richer through your writing. I haven’t nearly read all of your writings, but I’ve read  a number of your short stories and novels that have been translated in former Yugoslavia and now in Croatia, and since Iread in English, also a few that were not translated.One of my other favourite writers is Cyril Kornbluth and I bought His Share of Glory with Your introduction a year ago. What a wonderful book.I just want to wish you good luck with your health and may You write this blogfor many years to come.Thank YouJanuary 21, 2009, 4:17 am
-- Iansays:Oh man, this is so cool. “Day Million” remains one of my favorite short science fiction stories ever, along with “The Midas Plague” and “The Gold At Starbow’s End”… Not to mention your novelsGravy Planetand the undersea trilogy you did with Jack Williamson, plusGatewayandMan PlusandThe Years of the City.And lots more I probably forgot.  It’s totally mind-blowing that you’ve got a blog. This qualifies as a must-read, every day.January 21, 2009, 4:48 am
+- Ian says:
+Oh man, this is so cool. “Day Million” remains one of my favorite short science fiction stories ever, along with “The Midas Plague” and “The Gold At Starbow’s End”… Not to mention your novels Gravy Planet and the undersea trilogy you did with Jack Williamson, plus Gateway and Man Plus and The Years of the City. And lots more I probably forgot.  It’s totally mind-blowing that you’ve got a blog. This qualifies as a must-read, every day.
+January 21, 2009, 4:48 am
 - Neal Ashersays:It’s gone straight into my favourites too. Excellent to have one of the SF greats blogging!January 21, 2009, 5:49 am
 - JustAnotherJohnsays:Mr. Pohl, welcome to the blogosphere!  Thanks for writing, I’ll be checking back on you.  Adding this site to my favorites, now.January 21, 2009, 1:13 pm
 - Christopher Hawleysays:Another grateful reader joins the growing mob… Thank you for taking the plunge and writing entries in the same wonderfully readable style as your books!* favorites site *ChrisJanuary 21, 2009, 1:37 pm
@@ -60,3 +66,10 @@ So let’s get on with it. I hope it’ll be fun!
 
 
 ![Feeds](feed-icon-14x14.png)
+
+**Entries (RSS)**
+**Comments (RSS)**
+**(Atom)**
+  
+**WordPress**
+**TWTFB**

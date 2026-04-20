@@ -12,6 +12,7 @@ translated: false
 
 Frederik Pohl
 
+**Nice to Meet You**
 
 ## Sir Arthur and I
 
@@ -28,7 +29,7 @@ He found them in the rather amorphously shaped group that called itself the Hydr
 In the early days Arthur spent a lot of time visiting New York, usually staying at the Chelsea Hotel on West 23d Street, and when possible I would join him for dinner or a drink — that was all expense-account money and happily paid for by my publisher, because I was an editor in those days and eager to publish as much Clarke as I could get my hands on. But by the turn of the millennium our friendship had reduced itself to a desultory correspondence and the odd phone conversation. I had given up editing to concentrate on my own writing. What Arthur had given up was ever leaving his island home in Sri Lanka, where I had never been. (Although I visited a number of other countries, Sri Lanka wasn’t one of them.)
 
 
-Then, in one of his letters in the early part of 2006, Arthur rather off-handedly mentioned that, a couple of years earlier, in a fit of exuberance, he had signed publishing contracts for several books that, he was now convinced, he would never be able to write himself. Most of them he had arranged for some other writer to finish, but there was one, called The Last Theorem, for which he needed a collaborator.
+Then, in one of his letters in the early part of 2006, Arthur rather off-handedly mentioned that, a couple of years earlier, in a fit of exuberance, he had signed publishing contracts for several books that, he was now convinced, he would never be able to write himself. Most of them he had arranged for some other writer to finish, but there was one, called *The Last Theorem,* for which he needed a collaborator.
 
 
 That sounded like a hint, and I took it. I wrote back, “If you really need a collaborator for that unfinished novel, Barkis is probably willin’. I like collaborating and sadly seem to be running out of collaborators.”
@@ -37,7 +38,6 @@ That sounded like a hint, and I took it. I wrote back, “If you really need a c
 I am sorry to say that this was no more than the truth. Of my several score published books nearly a third had been written with collaborators, usually a long-term friend — Isaac Asimov, Lester del Rey, Cyril Kornbluth and Jack Williamson among them, and all four of them have since passed away. It occurred to me that urging him to join a group with such a high mortality rate might not be the best inducement to offer a proposed partner, and indeed as weeks passed and I heard no response from Arthur I began to wonder if I had frightened him out of the notion. But then a letter arrived, not from Arthur himself but from his New York agent, which said that Arthur had passed my offer on to him, and added:
 
 > Since receiving that from Arthur, I’ve been discussing it with his editor, Chris Schluep, and he has been discussing it with his colleagues and bosses at Ballantine/Del Rey. I’m happy to say that they have called me today to say that they would love to proceed…. We sold the material to Ballantine on the basis of some bits and pieces supplied by Arthur, and a brief outline. I assume you would like to see these before you commit to this project.
-
 
 There was no doubt in my mind that I wanted to do the book, but I looked forward to Arthur’s notes. When they arrived they amounted to around a hundred pages of notes and drafts, some sketchy, some quite completely fleshed out.
 
@@ -60,7 +60,7 @@ As I read all this in Arthur’s sketchy notes a small sense of foreboding began
 Well, I told myself, sure they were. The book isn’t really about the theorem. It is about a boy who is determined to rediscover that lost proof and about what happens to him, to his world and even to his galaxy after he does. Besides, there was a lot of great stuff there including a wonderful war-winning weapon that triumphed in battles without ever killing anyone; a moving scene between Ranjit Subramanian, the story’s central figure, and his father, the head priest at a Buddhist temple in Sri Lanka; a couple of exciting races in space; the death of a major character; thumbnail sketches — no, not that big, make-that pinky-nail sketches — of the major characters. Plus much more, including, I was sure, that one other great resource that would fill in all the missing bits and pieces, Arthur himself.
 
 
-So I got off a quick note to Arthur to say that I accepted the quite generous terms of his offer and began doing some research, sublimely confident that this would be a relatively easy book to write. As it happened, I had a novel of my own half written at the time but it was no problem to set it aside to do Arthur’s; I had long since informed Jim Frenkel, my Tor editor, that he would definitely get the book but that I wasn’t going to sign a contract with him until I had it nearly finished since I didn’t want any contractual deadlines nagging at me. And I began to write The Last Theorem.
+So I got off a quick note to Arthur to say that I accepted the quite generous terms of his offer and began doing some research, sublimely confident that this would be a relatively easy book to write. As it happened, I had a novel of my own half written at the time but it was no problem to set it aside to do Arthur’s; I had long since informed Jim Frenkel, my **Tor** editor, that he would definitely get the book but that I wasn’t going to sign a contract with him until I had it nearly finished since I didn’t want any contractual deadlines nagging at me. And I began to write *The Last Theorem.*
 
 
 Every writer has his own idiosyncratic way of getting the words in his head onto paper. Mine is a little unusual in two ways.
@@ -90,10 +90,10 @@ Don’t ask me to explain how this was possible. Arthur himself wasn’t very go
 So I went up to the top deck and watched the river banks go by for a while as I pondered this new development. It was going to mean more work for me — or, more accurately, no more work but a good deal more responsibility.
 
 
-Still, that was not a wholly bad thing. Arthur promised to go over every page as I wrote it and to make comments as useful as he could generate them. This was a new ball game, true. But not necessarily one that I could not enjoy. So I went below for lunch, and as I was finishing my second cup of coffee the ship’s second mate handed me a new email. It was from my own New York agent, and what it said was, “If you’re actually writing The Last Theorem, you should stop. Clarke’s agent has canceled the deal.”
+Still, that was not a wholly bad thing. Arthur promised to go over every page as I wrote it and to make comments as useful as he could generate them. This was a new ball game, true. But not necessarily one that I could not enjoy. So I went below for lunch, and as I was finishing my second cup of coffee the ship’s second mate handed me a new email. It was from my own New York agent, and what it said was, “If you’re actually writing *The Last Theorem,* you should stop. Clarke’s agent has canceled the deal.”
 
 
-When at last the book was finished, and revised to suit Arthur, and re-revised to suit me, and re-re-revised to suit Chris Schluep, our Del Rey editor, I sent Arthur an email announcing the good news and saying, “In all my books I have never encountered one with as many problems as this one. I’m pleased that it has turned out well, but I wouldn’t do it again for anything less than War and Peace.” For that cancellation by Arthur’s New York agent was only the first of a series of unparalleled travails.
+When at last the book was finished, and revised to suit Arthur, and re-revised to suit me, and re-re-revised to suit Chris Schluep, our **Del Rey** editor, I sent Arthur an email announcing the good news and saying, “In all my books I have never encountered one with as many problems as this one. I’m pleased that it has turned out well, but I wouldn’t do it again for anything less than *War and Peace*.” For that cancellation by Arthur’s New York agent was only the first of a series of unparalleled travails.
 
 
 I did not take that first travail very seriously. The incident amounted to little more than a hissy-fit Arthur’s and my own New York agents had got into over the sharing of commissions and I knew that in the long run it wouldn’t stand. All the same it took a good many weeks of back-and-forth negotiating to clear it up and things kept getting worse.
@@ -140,8 +140,9 @@ So von Braun and I maintained a relationship of distant acquaintance. He invited
 
 This did not result in a close friendship. I only ran into von Braun once or twice over the next few years, and then he died. But I’m glad it happened. The Nazis were a great evil … but if some of my grandparents had made somewhat different choices about where they wanted to spend their lives, back around the end of the 19th century, I might easily have been born in Germany instead of in Brooklyn. How I would have dealt with the monstrosity that was Hitler’s Third Reich I cannot say. I hope I would have resisted temptation, but then so did von Braun, up to a point.
 
+![The Last Theorem](thelasttheorem1-196x300.jpg)
 
-In the long run, The Last Theorem turned out well, I think. Arthur’s health did not. He suffered more and more from old men’s disease, that recurring cycle of ailments and infections that tell us our bodies are getting tired if healing up all the injuries we inflict on them. (I am an authority on these matters because I was after all only a couple of years younger than Arthur.) In Arthur’s case some of them were mysterious. One morning he awoke and couldn’t get out of bed. When the doctors arrived all they could tell him was that somehow in his sleep he had managed to crack a couple of his vertebrae, no one could say how. Now (he wrote me) what he was yearning for most in his world was the day when he might get back to the mobility of his custom-built wheelchair.
+*The Last Theorem*
 
 
 After that there was a lot of silence, in stretches which went on for weeks or even a month or two. Now and then. I was told, this was because Arthur had been taken to the hospital, sometimes not allowed to communicate with the outside world. When he was really sick his Sri Lankan house and office staff did their best to close ranks to prevent his being worried about anything but the task of getting well.. It was after a month and more of such silence that I sent him the email mentioned above to tell him that my work was complete and that I wished he would summon up the effort to tell me what he had thought of the final ms., long since in his hands. I think I must have been feeling a bit petulant, because I ended the email with “Please let me hear from you. I know you are old and unwell, but so am I.”
@@ -172,7 +173,11 @@ Because I was privileged to read the detailed and good-humored instructions Arth
 - You Have the Power » Blog Archive » No Recession Here, Alang Shipyard Flourishes | Market News …says:[...] The Way the Future Blogs » Blog Archive » Sir Arthur and I [...]January 20, 2009, 3:40 pm
 - Chris Norrissays:I cannot believe my good fortune in finding this blog. To read the musings first hand of a person who was a hero to me and many others of my generation is a feeling for which I have few words. You and your fellows taught us to dream and made us thirst for creating tomorrow today.January 20, 2009, 5:04 pm
 - Stephen Peterssays:If this is indicative of what you’ll be sharing I look forward to every word. I’m certainly looking forward to hearing about your experiences with others, and even the writing process. And now I’m off to buy “The Last Theorem.”January 20, 2009, 6:15 pm
-- Bill Higgins-- Beam Jockeysays:Steve Baker writes:Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.With all due respect, Steve, I’m afraid I would stare.January 20, 2009, 6:59 pm
+- Bill Higgins-- Beam Jockey says:
+Steve Baker writes:
+Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.
+With all due respect, Steve, I’m afraid I would stare.
+January 20, 2009, 6:59 pm
 - Jerry Wrightsays:I just finished “The Last Theorem”, and found it delightful.  And then Boing Boing sent me to the blog!  A terrific coincidence.January 20, 2009, 9:34 pm
 - Simonsays:What a remarkable occasion today has been. First, Mr Obama is in the White House, and secondly, dear old Mr Pohl is writing a blog! Your account of your final communications with Arthur C Clarke made me moist around the eyes, tempered with the joy that one of my favourite childhood authors (I think I was around 11 or 12 when I first read Gateway and have only recently had the pleasure to revisit it) is on-line to share with us. I blame you sir with corrupting me at an impressionable young age with such fanciful thoughts, and hope you accept this blame in the spirit of which it is given, lovingly and with deep appreciation. You are now in my thoughts (and my favourites list). I too am off to track down a copy of The Last Theorum.January 21, 2009, 2:48 am
 - Bud Webstersays:Fred, this is terrific news!  Now I can pick your brains for information online, and not have to suffer the vagaries of the USPS.I suspect that this is going to be a very popular blog indeed.January 21, 2009, 6:09 pm
@@ -184,3 +189,10 @@ Because I was privileged to read the detailed and good-humored instructions Arth
 
 
 ![Feeds](feed-icon-14x14.png)
+
+**Entries (RSS)**
+**Comments (RSS)**
+**(Atom)**
+  
+**WordPress**
+**TWTFB**

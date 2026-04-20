@@ -12,12 +12,12 @@ translated: false
 
 Frederik Pohl
 
+**The Poetry Corner**
+**Greetings from S17° 32.18′ W149° 34.17′**
 
 ## Seventeen Days of Fox
 
-
 ![Foxed TV](tvred-255x300.gif)
-
 
 As we were departing our last Hawaiian port of call, the captain got on the horn with bad news.  He said the part of the Pacific Ocean we were heading into, which was most of it, was poorly served with American TV.  Therefore CNN and ESPN and all the other feeds that had supplied most of the channels in our stateroom TVs were now but a memory.  They wouldn’t be back until just before we docked in San Diego at the end of the cruise, but he was happy to announce that we wouldn’t be totally deprived of a voice from home.  The Fox channel (which reached the Earth’s surface not from a communications satellite, like everybody else, but through a navigation satellite, which covered everywhere) would be glad to serve us while the real news people were absent.
 
@@ -44,3 +44,6 @@ Each of  these events Fox kept alive for days, perhaps so that they could explic
 - Hell on the high seas « STEVENHARTSITEsays:[...] an intrepid man, found a way to rise above such adversity: Along about the tenth day, I finally figured out that, if I tuned to that channel but turned the [...]February 21, 2009, 6:31 pm
 - Banjosays:You prefer your news slanted left, I take it. Well, there’s no shortage out there. Virtually all the rest of the media is on call, but MSNBC gives you the purest version.February 22, 2009, 12:47 pm
 - Kip Wsays:I’m surprised the ship didn’t go down, with such a pronounced list to starboard.March 9, 2009, 7:16 pm
+
+**WordPress**
+**TWTFB**

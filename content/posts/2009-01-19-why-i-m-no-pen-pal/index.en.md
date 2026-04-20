@@ -12,6 +12,8 @@ translated: false
 
 Frederik Pohl
 
+**Greetings from N19° 44.50′ W156° 06.63′**
+**Happy Inauguration Day, President Obama**
 
 ## Why I’m No Pen Pal
 
@@ -60,3 +62,6 @@ And listen, this isn’t a plea for sympathy. Hey, I’m 89 years old. That mean
 - Gsays:THe experience you are describing was one that resulted in a spinal operation for me and then a full recovery. I hope that you have had a real diagnosis and have decided whether the trauma of surgery is worth the result. Certainly, with age, surgery becomes more dangerous and may not be worthwhile. For me, after 5.5 hours on the table, when I woke up in recovery and had full power in my left hand, it was worth it. In addition, as nerves die, they don’t regenerate, so it’s a decision that needs to be made quickly, after consultation.But of course we don’t expect answers. I am so glad to find your blog through Scalzi and I will read backward and forward and be grateful that someone whose work I have enjoyed all my reading life is speaking to “me”. The Space Merchants has been a favorite book as long as I have been reading SF, and the older I get, the more I understand it.January 21, 2009, 1:04 pm
 - Louise van Hinesays:Hello Fred!I have been a fan of your fiction since forever.  I am delighted to see that not only are you still alive but still publishing - and now blogging!  Sorry to hear about the hand though.  Fortunately, as some of the other commenters have mentioned, technology is catching up.  A friend of mine uses Dragon Naturally Speaking and has nothing but praise for its accuracy and speed.  You’re not out of the game yet!January 21, 2009, 5:57 pm
 - Fathercrowsays:I hate Dragon. Its just not intuative enough. Writing for me was always a fluid thing, hand to pencil, pencil to paper. Its more natural for my thinking process to use my hands to express my thoughts. Then I became a quadriplegic and they gave me Dragon Dictate and I could not write a word. Now I write with a stylus strapped to my hand. Its not as high tech as talking to the computer, but then talking is not writing, at least not for me. So pluck away, friend, as best you can.January 22, 2009, 3:18 pm
+
+**WordPress**
+**TWTFB**

@@ -1,0 +1,33 @@
+---
+title: "Bright Sayings of Bright People, No. 22"
+date: 2012-01-04
+categories: ["Authors", "Science"]
+tags: ["Quotations", "Richard Feynman"]
+archive_url: "https://web.archive.org/web/20251201000000/http://www.thewaythefutureblogs.com/2012/01/bright-sayings-of-bright-people-no-22/"
+translated: false
+---
+
+# The Way the Future Blogs
+
+
+Frederik Pohl
+
+**Cyril Kornbluth, Part 2**
+**We’ll Tak a Cup o’ $224 Billion**
+
+## Bright Sayings of Bright People, No. 22
+
+
+{{< figure src="richardpfeynman.jpg" alt="Richard P. Feynman" caption="Richard Feynman" >}}
+
+**“Science is what we have learned about how to keep from fooling ourselves.”
+—Richard Feynman**
+
+
+### 2 Comments
+
+- Jay Borcherdingsays:Excellent quote, that I don’t recall seeing before.  Thanks for posting.January 5, 2012, 1:18 pm
+- Rolandosays:I once had a dream where jetpacks were commonly used everywhere and then woke up. Thirty minutes later I started looking for my jetpack to go to school until I realized they didn’t actually exist.January 6, 2012, 11:05 am
+
+**WordPress**
+**TWTFB2**

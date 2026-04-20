@@ -12,11 +12,13 @@ translated: false
 
 Frederik Pohl
 
+**Greetings from S17° 32.18′ W149° 34.17′**
+**Me and the Biz**
 
 ## Farewell, Nuku Hiva
 
 
-Which, as you know, is the largest island in the Marquesas group, and the one in whose harbor we are now anchored so that our shipmates may storm ashore in search of tapa cloth and guaranteed authentic ironwood carved war clubs.
+*Which, as you know, is the largest island in the Marquesas group, and the one in whose harbor we are now anchored so that our shipmates may storm ashore in search of tapa cloth and guaranteed authentic ironwood carved war clubs.*
 
 
 {{< figure src="fb-3b2009-300x234.jpg" alt="Betty Anne and I, shipboard, 2009." caption="Betty Anne and I, shipboard, 2009." >}}
@@ -41,3 +43,6 @@ Quite a few of these I have already written about in one form or another and tho
 - Josephsays:This is a great journal, I am looking forward to your stories about all the famous authors, including yourself of course. It is really great!February 12, 2009, 1:53 am
 - Lee Goldsays:It’s a fascinating blog, but…John Campbell as a “non-writer”?  What about “Who Goes There?”?  “Forgetfulness”?  “Cloak of Aesir”?  And what about his monthly editorials?I can see counting them as non-fiction, but surely they still count as writing?And I wish whoever linked Campbell’s name to a webpage had found a more accurate one, one that would credit him with writing “Who Goes There?” rather than with “The Thing from Another World.”  TheWikipedia articleisn’t bad.February 13, 2009, 10:35 pm
 - Tina Bsays:You folks are looking good in that picture.February 14, 2009, 12:54 pm
+
+**WordPress**
+**TWTFB**

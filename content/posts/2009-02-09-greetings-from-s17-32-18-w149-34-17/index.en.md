@@ -12,11 +12,13 @@ translated: false
 
 Frederik Pohl
 
+**Seventeen Days of Fox**
+**Farewell, Nuku Hiva**
 
 ## Greetings from S17° 32.18′ W149° 34.17′
 
 
-Including a little story about Bob Heinlein
+**Including a little story about Bob Heinlein**
 
 
 {{< figure src="moorea.jpg" alt="Moorea. Photo by Duncan Rawlinson, www.thelastminuteblog.com." caption="Moorea. Photo by Duncan Rawlinson." >}}
@@ -40,7 +42,7 @@ Well, the answer to that was simple,  Robert and Ginny hadn’t known I was on t
 {{< figure src="heinlein_tahiti.jpg" alt="Robert and Virginia Heinlein, Tahiti, 1980. Photo by Hayford Peirce." caption="Robert and Virginia Heinlein, Tahiti, 1980. Photo by Hayford Peirce." >}}
 
 
-Then Bob was to be awarded an honorary doctorate in Michigan, and Betty Anne and I grabbed a plane to cheer him on. (The photo of Bob and me in The Way the Future Was was taken there.) The Heinleins had chosen to stay at a hotel some distance from the proceedings; Betty Anne and I drove over to join them one evening and I happened to remember that missed connection on Moorea.
+Then Bob was to be awarded an honorary doctorate in Michigan, and **Betty Anne** and I grabbed a plane to cheer him on. (The photo of Bob and me in *The Way the Future Was* was taken there.) The Heinleins had chosen to stay at a hotel some distance from the proceedings; Betty Anne and I drove over to join them one evening and I happened to remember that missed connection on Moorea.
 
 
 I got an immediate look of extreme displeasure from Ginny.  “Don’t mention that place! It almost killed Robert. Remember that big, steep mountain in the middle of it? Well, we were walking around at the base of it and Robert wanted a good look at the peak. He tipped his head way back. It hurt. He had damaged his carotid artery, and I hope we never see the place again.”
@@ -51,6 +53,14 @@ I got an immediate look of extreme displeasure from Ginny.  “Don’t mention t
 - Paulsays:Ah! I remember a part of this story from a bit in Heinlein’s Expanded Universe!February 9, 2009, 4:32 am
 - Jeffsays:I say to you, Gandalf, beware the inclines of Moorea.February 9, 2009, 8:39 am
 - Squidhelmetsays:This blog is always a great read.  Where else can you get first-hand anecdotes about SF grand masters randomly meeting on the same mysterious island? Tama’a maitai!February 9, 2009, 10:57 am
-- the blog teamsays:Er, randomlynotmeeting…. LAZFebruary 9, 2009, 1:01 pm
+- the blog team says:
+Er, randomly not meeting…. LAZ
+February 9, 2009, 1:01 pm
 - Fathercrowsays:Man I’d love the chance to fall off an island like that, but I’m guessing such climes are not exactly wheelchair accessible. Pity they haven’t come up with anti-gravity boots yet. (G)February 10, 2009, 3:54 pm
-- kittentsays:Thank you for this story.  I hope you are having a wonderful time. You will be missed at Capricon.(I’m halfway throughThe Last Theoremand totally delighted.)February 10, 2009, 8:24 pm
+- kittent says:
+Thank you for this story.  I hope you are having a wonderful time. You will be missed at Capricon.
+(I’m halfway through The Last Theorem and totally delighted.)
+February 10, 2009, 8:24 pm
+
+**WordPress**
+**TWTFB**

@@ -1,0 +1,41 @@
+---
+title: "The Trap Door Spiders"
+date: 2011-06-23
+categories: ["Authors"]
+tags: ["Clubs", "Fletcher Pratt", "Isaac Asimov", "John D. Clark", "Keith P. Graham", "Lester del Rey", "Mildred Clark", "New York"]
+archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2011/06/the-trapdoor-spiders/"
+translated: false
+---
+
+# The Way the Future Blogs
+
+
+Frederik Pohl
+
+**The Rich Get Rich, Part 2**
+**How Well Do You Know Your Bible?**
+
+## The Trap Door Spiders
+
+![trapdoor spider](trapdoor_spider.png)
+
+Keith P. Graham asks if I will do a post on The Trap Door Spiders, a New York City luncheon club for sf writers and people like them, but I have to recuse myself.  Although Wikipedia appears to think I was a member, I never was.
+
+
+The TDS was started by Fletcher Pratt in 1945, that being a time when he and I were not much more than recent acquaintances. Wikipedia says  the club was formed  because Fletcher and other  male friends of John D. “Doc” Clark couldn’t stand Doc’s new wife, Mildred, and hit upon the idea of a men’s-only luncheon club so they could spend time with Doc without Mildred.
+
+
+That sounds plausible.  I didn’t know Mildred well, but she obviously didn’t care much for Doc’s old drinking. buddies. Two of the TDS stalwarts were among my closest friends, Lester del Rey and Isaac Asimov, but neither they nor anyone else ever invited me to join.  The fact that I had said in public that that sort of thing didn’t interest me may have something to do with it.  Or maybe not;  I don’t know.
+
+
+Isaac wrote a bunch of mysteries about a club modeled after the TDS, which I think give a good idea of what it was like.
+
+
+### 3 Comments
+
+- David Goldfarbsays:I have now edited the relevant Wikipedia entries; they no longer claim that you were a member.June 23, 2011, 1:08 am
+- Bill Higgins-- Beam Jockey says:
+Keith P. Graham asks if I will do a post on The Trap Door Spiders,[…] but I have to recuse myself.
+Had you been going for a cheap laugh, you might have written “I have to recluse myself.”
+June 28, 2011, 2:10 pm
+- Kellysays:Funny, Bill, that’s exactly how I read it the first time!July 11, 2011, 10:42 pm

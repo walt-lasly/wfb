@@ -1,0 +1,12 @@
+---
+title: "Bright Sayings of Geniuses, No. 1: Bohr"
+date: 2010-07-31
+categories: ["Science"]
+tags: ["Niels Bohr", "Quotations"]
+archive_url: "https://web.archive.org/web/20161201000000/http://www.thewaythefutureblogs.com/2010/07/bright-sayings-of-geniuses-no-1/"
+translated: false
+---
+
+<!-- ПЕРЕВОД -->
+<!-- Замените эту строку переводом статьи. -->
+<!-- Когда перевод готов, установите translated: true в front matter выше. -->

@@ -1,0 +1,12 @@
+---
+title: "More about Gateways"
+date: 2010-06-14
+categories: ["Books", "Personal"]
+tags: ["Alex Eisenstein", "Ben Bova", "Brian W. Aldiss", "Connie Willis", "Cory Doctorow", "David Brin", "David Marusek", "Editors", "Elisabeth Malartre", "Elizabeth Anne Hull", "Emily Pohl-Weary", "Frank M. Robinson", "Gardner Dozois", "Gateways", "Gene Wolfe", "Greg Bear", "Gregory Benford", "Harry Harrison", "Isaac Asimov", "James Frenkel", "James Gunn", "Joan Slonczewski", "Jody Lynn Nye", "Joe Haldeman", "Larry Niven", "Mike Resnick", "Neil Gaiman", "Phyllis Eisenstein", "Robert J. Sawyer", "Robert Silverberg", "Sherri S. Tepper", "Vernor Vinge"]
+archive_url: "https://web.archive.org/web/20180601000000/http://www.thewaythefutureblogs.com/2010/06/more-about-gateways/"
+translated: false
+---
+
+<!-- ПЕРЕВОД -->
+<!-- Замените эту строку переводом статьи. -->
+<!-- Когда перевод готов, установите translated: true в front matter выше. -->

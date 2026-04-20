@@ -1,0 +1,45 @@
+---
+title: "Betty’s at ICon"
+date: 2015-10-16
+categories: ["News", "Personal", "Travel"]
+tags: ["Conventions", "Elizabeth Anne Hull"]
+archive_url: "https://web.archive.org/web/20260801000000/http://www.thewaythefutureblogs.com/2015/10/bettys-at-icon/"
+translated: false
+---
+
+# The Way the Future Blogs
+
+
+Frederik Pohl
+
+**Betty Goes to Worldcon: Spokane or Bust!**
+**Betty’s Schedule at WindyCon 2015**
+
+## Betty’s at ICon
+
+
+*From the blog team:*
+
+
+{{< figure src="Betty-web.jpg" alt="Elizabeth Anne Hull" caption="Elizabeth Anne Hull" >}}
+
+
+This weekend, Betty is attending ICON 40 in Iowa City, and appearing at these events:
+
+
+Friday, 9 p.m.  
+
+**“Harassment in Fandom and Life”**
+
+
+Saturday,  10 a.m.  
+
+**“Cosplay Is Not Consent”**
+
+
+Saturday,  7 p.m.  
+
+**“Is There Such a Thing as Being ‘Well Read’ in This Day?”**
+
+**WordPress**
+**TWTFB2**

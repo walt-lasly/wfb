@@ -12,6 +12,8 @@ translated: false
 
 Frederik Pohl
 
+**Nice to Meet You**
+**Why I’m No Pen Pal**
 
 ## Greetings from N19° 44.50′ W156° 06.63′
 
@@ -22,7 +24,7 @@ Frederik Pohl
 As all you trained navigators out there know, that latitude and longitude means that my wife, Betty Anne, and I are on a ship, dodging around the islands of Hawai’i. Why? you ask.  Cruising around the Pacific beats staying in Illinois in January, for one excellent reason. Because this is a beautiful part of the world, for another. And because there are things to be seen here, even from shipboard, which are simply unique. We saw one of them last night — an erupting volcano — and not for the first time.
 
 
-Our first occasion for wandering around these islands on a giant cruise ship came more than a dozen years ago. A total solar eclipse was about to occur. Hawai’i would be one of the best places to see it. Omni magazine sent me to cover the event, which we did from the deck of a former transatlantic liner, the Independence, commanded by Captain Richard Haugh. He did a wonderful job for us, too. On eclipse morning, that whole part of the Pacific was overcast with thick clouds, with few and tiny breaks. Captain Haugh was getting minute-by-minute weather reports, though, and he managed to find one opening just in time for a perfect four-minute observation of the whole eclipse (but that’s another story).
+Our first occasion for wandering around these islands on a giant cruise ship came more than a dozen years ago. A total solar eclipse was about to occur. Hawai’i would be one of the best places to see it. Omni magazine sent me to cover the event, which we did from the deck of a former transatlantic liner, the *Independence,* commanded by Captain Richard Haugh. He did a wonderful job for us, too. On eclipse morning, that whole part of the Pacific was overcast with thick clouds, with few and tiny breaks. Captain Haugh was getting minute-by-minute weather reports, though, and he managed to find one opening just in time for a perfect four-minute observation of the whole eclipse (but that’s another story).
 
 
 People on shore on the Big Island saw nothing but the bottoms of the clouds.
@@ -36,8 +38,10 @@ But that wasn’t the actual case. What we were seeing was in fact lava streams 
 
 It is a wonderful — I’ll say it again, a wonderful — sight. If you ever get the chance, I urge you to take it in. You may not need to hurry, either. That flow has been going continuously for fourteen years now and shows no sign of stopping.
 
+![The Boy Who Would Live Forever](boy.jpg)
 
-What may one day stop it once and for all would be for the added weight of that rock to cause the southern end of the Big Island to split off and plunge to the bottom of the sea, creating a huge tsunami. (Readers of the last book in my  Gateway series, The Boy Who Would Live Forever, will remember that this is a plot element in the story. Waste not, want not. That’s what I always say.)
+**Gateway**
+*The Boy Who Would Live Forever,*
 
 
 By the way, we’ve kept in touch with Richard Haugh, though he has moved on to more serious jobs than captaining a cruise ship. Last time his travels took him to the Chicago area, he gave us a call. “Hey, this is Captain Dick!” he cried.
@@ -51,3 +55,6 @@ But it was our daughter Cathy who answered the phone. When she heard that she hu
 - Caitiecatsays:Hello there - I want to say up front, you do not need to answer this.  It’s just a standard “Wow, I like your stuff” comment, and I don’t need a response, honestly.  I just wanted to make sure I told you that I’ve always enjoyed your work, since the day Judith Merrill put a copy of Gateway in my hand lo these many years ago.   I’m sorry to hear you’re having such difficulty with your body; I’m only just beginning to experience the slow fade of my own, here at 42.Hope you enjoy your cruise!CaitJanuary 19, 2009, 11:02 pm
 - jasonmitchellsays:I love Hawaii, and I love cruising (I have not yet done a Hawaiian cruise) - I hope you have an enjoyable trip.I have been a reader of your work for over 20 tears - and look forward to reading ‘The Last Theorem’ -Cheers from chilly ChicagoJanuary 22, 2009, 8:46 am
 - Allisays:While I’ve enjoyed your writing, love to cruise and think the idea of a Pohl blog is great, tis not why I write.Did she really hang up on him?? Those last 2 paragraphs are hilarious; I’m still chuckling.January 22, 2009, 8:40 pm
+
+**WordPress**
+**TWTFB**

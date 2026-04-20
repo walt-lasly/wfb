@@ -12,6 +12,8 @@ translated: false
 
 Frederik Pohl
 
+**Why I’m No Pen Pal**
+**Reality-Testing Response from Fred’s Wife, the Aforementioned College Professor**
 
 ## Happy Inauguration Day, President Obama
 
@@ -54,16 +56,28 @@ So carry on, President Barack Hussein Obama,. There is a huge job ahead of you. 
 
 ### 13 Comments
 
-- Geri Sullivansays:On January 21, 2008, Barack Obama spoke at Ebenezer Baptist Church, Dr. Martin Luther King’s church in Atlanta. Normally, I have a hair-trigger response to politicians using religious terminology — I believe separation of church and state is vitally important to America’s well-being. But this…this was okay. He was in a church. His words fit the setting and the occasion. And I recognized that Barack Obama was a rarity indeed: he was a politician Iwantedto listen to.His phenomenalspeech on racecame a little less than two months later. Utterly brilliant. He said what needed saying. He pointed out in the examples of his grandmother and Rev. Wright the kinds of contradictions present in every human being I know. He spoke clearly about where we were, and he pointed to the path forward. With his election, the American people demonstrated our willingness — our ability — to walk the path toward the more perfect union Obama described. We’re not there yet, we may well not get there in what remains of my lifetime. But we’re considerably further along than we were 10 months ago, and even that progress matches my dreams far closer than it ever matched my expectations.Like you, I celebrate this day and I, too, pledge to help in whatever ways I can to help heal this nation.January 20, 2009, 9:08 am
+- Geri Sullivan says:
+On January 21, 2008, Barack Obama spoke at Ebenezer Baptist Church, Dr. Martin Luther King’s church in Atlanta. Normally, I have a hair-trigger response to politicians using religious terminology — I believe separation of church and state is vitally important to America’s well-being. But this…this was okay. He was in a church. His words fit the setting and the occasion. And I recognized that Barack Obama was a rarity indeed: he was a politician I wanted to listen to.
+His phenomenal speech on race came a little less than two months later. Utterly brilliant. He said what needed saying. He pointed out in the examples of his grandmother and Rev. Wright the kinds of contradictions present in every human being I know. He spoke clearly about where we were, and he pointed to the path forward. With his election, the American people demonstrated our willingness — our ability — to walk the path toward the more perfect union Obama described. We’re not there yet, we may well not get there in what remains of my lifetime. But we’re considerably further along than we were 10 months ago, and even that progress matches my dreams far closer than it ever matched my expectations.
+Like you, I celebrate this day and I, too, pledge to help in whatever ways I can to help heal this nation.
+January 20, 2009, 9:08 am
 - Jeffsays:I honestly never thought the powers that be would let this happen. I dind’t think there would be a peaceful transfer of power. I believed their crimes were too great to ever allow anyone an opportunity to investigate them.So, in my enduring cynicism, I must conclude that either they believe they have successfully covered up the crimes, leaving no evidence, or they believe they will be beyond the reach of any law.January 20, 2009, 12:44 pm
 - Philipsays:Cautiously optimistic. Having a president that can speak English is refreshing. It is amazing that through all the rage engendered by the past eight years I still have hope and good wishes for Mr. Obama. I may be a weary cynic but I am laughing on this day.Mr Pohl thank you for the gift of sharing yourself with us in this forum.January 20, 2009, 2:22 pm
 - stevesays:Mr. Pohl: great to see you blogging. Quantum Cats is a great book.January 20, 2009, 5:30 pm
 - Tina Blacksays:Oh Fred, you will love this:“Obama Chief of Staff puts a stop to pending Bush regulations”January 20, 2009, 9:17 pm
-- Stefan Jonessays:In a blog post today, David Brin noted that Obama’s inauguration speech contained a word that didn’t have to be there. It wasn’t a word found in many political speeches, and certainly not any from the Bush administration.Curiosity.January 20, 2009, 11:12 pm
+- Stefan Jones says:
+In a blog post today, David Brin noted that Obama’s inauguration speech contained a word that didn’t have to be there. It wasn’t a word found in many political speeches, and certainly not any from the Bush administration. 
+Curiosity.
+January 20, 2009, 11:12 pm
 - Debt to the American people | Michael Graflsays:[...] Pohl bloggt. In seinem Eintrag über Obama erläutert er, wieso er sich dafür entschieden hat Obama seine Stimme zu geben, und wieso [...]January 21, 2009, 1:57 am
 - The Way the Future Blogs » Blog Archive » Reality-Testing Response from Fred’s Wife, the Aforementioned College Professorsays:[...] Anne HullJust a quick note to set the record straight. Although it’s a right-wing talking point that usually goes unchallenged, the [...]January 21, 2009, 3:02 am
 - ∂| Fantascienza.com Blog |uno Strano Attrattore » Blog Archive » 1600 Pennsylvania Avenue: prospettiva Obamasays:[...] E, a proposito, ecco gli auspici di un oracolo vivente per ogni lettore di fantascienza: Frederik Pohl. [...]January 21, 2009, 4:16 am
 - coffeesays:Happy Inauguration Day! Obama’s election is truly a reason to be hopeful, and proudJanuary 21, 2009, 4:19 am
 - Emilysays:Hi G-dad!Great to see you blogging (Betty-Anne, too). The Canadian Pohls are pretty happy he’s been instated, too.Hugs, EmJanuary 21, 2009, 1:20 pm
-- Stefan Jonessays:Hey, this is just a thought, but would you consider puttingPractical Politicson the web? Set it free for others to use and update in Web 2.0 fashion.January 21, 2009, 1:28 pm
+- Stefan Jones says:
+Hey, this is just a thought, but would you consider putting Practical Politics on the web? Set it free for others to use and update in Web 2.0 fashion.
+January 21, 2009, 1:28 pm
 - Juliasays:Hi Grandpa Fred!I’m gonna echo what em said, but yeah. Good to see you and the internet are finally friends. We are pretty excited for Obama, hoping we get ourselves one of those really inspirational leaders one of these days. Hope to see more of you online soon!<3JuliaJanuary 22, 2009, 1:37 am
+
+**WordPress**
+**TWTFB**
