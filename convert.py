@@ -86,9 +86,14 @@ def yaml_list(items: list) -> str:
     return f"[{parts}]"
 
 
+def _sc(value: str) -> str:
+    """Escape a value for use inside a Hugo shortcode quoted attribute."""
+    return value.replace('"', '&quot;')
+
+
 def image_markdown(src: str, alt: str, caption: str = "") -> str:
     if caption:
-        return f'{{{{< figure src="{src}" alt="{alt}" caption="{caption}" >}}}}'
+        return f'{{{{< figure src="{_sc(src)}" alt="{_sc(alt)}" caption="{_sc(caption)}" >}}}}'
     return f'![{alt}]({src})'
 
 
@@ -205,10 +210,13 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                 # Check if this paragraph is inside a wp-caption (handled below)
                 if node.parent and "wp-caption" in (node.parent.get("class") or []):
                     return
-                # Only treat as image-containing if there's a real image (not a 1×1 pixel)
-                real_imgs = [img for img in node.find_all("img")
-                             if Path(img.get("src", "")).suffix.lower()
-                             in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg")]
+                # Only treat as image-containing if there's a real (non-pixel) image.
+                # Tracking pixels are 1×1; skip them by checking width/height attrs.
+                real_imgs = [
+                    img for img in node.find_all("img")
+                    if not (img.get("width") == "1" and img.get("height") == "1")
+                    and Path(img.get("src", "")).name not in ("ir",)
+                ]
                 if real_imgs or node.find("object"):
                     lines.append("")
                     for child in node.children:
@@ -226,12 +234,13 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
 
             elif tag == "blockquote":
                 # Detect poem blockquotes: contain <br> tags (verse line breaks).
-                # Title is the first <strong> or <b> child; stanzas are <p> with <br>.
+                # Title is the first <strong> or <b> child; stanzas are <p> with <br>,
+                # or (fallback) direct NavigableString/inline children separated by <br>.
                 if node.find("br"):
                     # Extract title
                     title_el = node.find(["strong", "b"])
                     title = title_el.get_text(strip=True) if title_el else ""
-                    # Collect stanzas: paragraphs whose text is non-empty
+                    # Collect stanzas from <p> children (standard structure)
                     stanzas = []
                     for p in node.find_all("p"):
                         stanza_lines = []
@@ -245,6 +254,26 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                                 line = str(child).strip()  # NavigableString
                             if line:
                                 stanza_lines.append(line)
+                        if stanza_lines:
+                            stanzas.append("\n".join(stanza_lines))
+                    # Fallback: lines are direct blockquote children (NavigableStrings
+                    # separated by <br>), not wrapped in <p> tags.
+                    if not stanzas:
+                        stanza_lines = []
+                        for child in node.children:
+                            name = getattr(child, "name", None)
+                            if name == "br":
+                                continue
+                            elif name in (None,):  # NavigableString
+                                line = str(child).strip()
+                                if line:
+                                    stanza_lines.append(line)
+                            elif name == "p":
+                                pass  # skip empty trailing <p></p>
+                            elif name:
+                                line = child.get_text().strip()
+                                if line:
+                                    stanza_lines.append(line)
                         if stanza_lines:
                             stanzas.append("\n".join(stanza_lines))
                     poem_body = "\n\n".join(stanzas)
@@ -292,8 +321,15 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                 alt = node.get("alt", "")
                 title = node.get("title", "")
                 fname = Path(src).name
-                # Skip images with no recognised extension (e.g. Amazon tracking pixels)
-                if Path(fname).suffix.lower() not in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"):
+                # Skip tiny tracking pixels: 1×1 images with no dimension attributes
+                # are detected by width/height attrs. Also skip known non-image names.
+                w = node.get("width", "")
+                h = node.get("height", "")
+                if w == "1" and h == "1":
+                    return
+                # Skip files with no extension that also look like tracking pixels
+                # (e.g. bare 'ir' files from Amazon)
+                if not Path(fname).suffix and fname in ("ir",):
                     return
                 # Skip Wayback Machine toolbar / UI artefact images
                 if any(skip in fname.lower() for skip in
@@ -311,7 +347,7 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                     alt = img.get("alt", "") or img.get("title", "")
                     fname = Path(src).name
                     if caption_text:
-                        lines.append(f'\n{{{{< figure src="{fname}" alt="{alt}" caption="{caption_text}" >}}}}\n')
+                        lines.append(f'\n{{{{< figure src="{_sc(fname)}" alt="{_sc(alt)}" caption="{_sc(caption_text)}" >}}}}\n')
                     else:
                         lines.append(f"\n![{alt}]({fname})\n")
 
@@ -572,14 +608,22 @@ def convert_file(html_path: Path, force: bool = False):
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     # ── Copy images ────────────────────────────────────────────────────────────
-    if data["files_dir"]:
+    if data["files_dir"] and data["body_div"]:
+        # Collect every filename referenced in an <img> tag so we copy exactly
+        # what is used — including extension-less files like "5216748" (JPEG).
+        used = {
+            Path(img.get("src", "")).name
+            for img in data["body_div"].find_all("img")
+            if img.get("src", "")
+        }
         for img_file in data["files_dir"].iterdir():
-            if img_file.suffix.lower() in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"):
-                # Skip Wayback Machine toolbar artefacts
-                if any(skip in img_file.name.lower() for skip in
-                       ("wayback", "toolbar", "banner", "header-gg", "_tb_")):
-                    continue
-                shutil.copy2(img_file, dest_dir / img_file.name)
+            if img_file.name not in used:
+                continue
+            # Skip Wayback Machine toolbar artefacts
+            if any(skip in img_file.name.lower() for skip in
+                   ("wayback", "toolbar", "banner", "header-gg", "_tb_")):
+                continue
+            shutil.copy2(img_file, dest_dir / img_file.name)
 
     # ── Produce Markdown body ──────────────────────────────────────────────────
     body_md = ""

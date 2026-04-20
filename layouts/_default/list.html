@@ -10,6 +10,29 @@
     {{ end }}
   </nav>
 
+  {{/* ── Tag cloud (collapsible, home page only) ── */}}
+  {{ if .IsHome }}
+  {{ $tags := .Site.Taxonomies.tags }}
+  {{ if $tags }}
+  {{ $max := 1 }}
+  {{ range $tags }}
+    {{ if gt (len .Pages) $max }}{{ $max = len .Pages }}{{ end }}
+  {{ end }}
+  <details class="tagcloud-wrap">
+    <summary class="tagcloud-toggle">{{ i18n "tags_cloud" | default "Tags" }} <span class="year-count">({{ len $tags }})</span></summary>
+    <div class="tagcloud">
+      {{ range $tags.ByCount }}
+        {{ $count := len .Pages }}
+        {{ $size  := div (mul $count 300) $max }}
+        <a class="tagcloud__tag"
+           href="{{ .Page.RelPermalink }}"
+           style="font-size: {{ add 80 (div $size 4) }}%">{{ .Page.Title }}{{ if gt $count 1 }}<sup class="tagcloud__count">{{ $count }}</sup>{{ end }}</a>
+      {{ end }}
+    </div>
+  </details>
+  {{ end }}
+  {{ end }}
+
   {{/* ── Simple search input (Pagefind) ── */}}
   <div class="search-wrap">
     <input id="pagefind-search" type="search" placeholder="{{ i18n "search_placeholder" }}"
