@@ -1,5 +1,5 @@
 ---
-title: "The Way the Future Blogs, an online memoir by science fiction writer Frederik Pohl » Elizabeth Anne Hull"
+title: "Elizabeth Anne Hull"
 date: 2009-01-01
 categories: []
 tags: []

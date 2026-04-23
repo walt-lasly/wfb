@@ -1,9 +1,9 @@
 ---
-title: "The Way the Future Blogs, an online memoir by science fiction writer Frederik Pohl » Elizabeth Anne Hull"
+title: "About This Blog"
 date: 2009-01-01
 categories: []
 tags: []
-archive_url: "https://web.archive.org/web/20160215164306/http://www.thewaythefutureblogs.com/2010/06/more-about-gateways/"
+archive_url: "https://web.archive.org/web/20160310101810/http://www.thewaythefutureblogs.com/2013/12/future-of-frederik-pohls-the-way-the-future-blogs/"
 translated: false
 ---
 

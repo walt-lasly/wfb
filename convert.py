@@ -494,11 +494,24 @@ def parse_html_file(html_path: Path):
         if "archive.org" in src or "wayback" in src.lower():
             script.decompose()
     # ── Title ──────────────────────────────────────────────────────────────────
-    title_el = soup.find(id="reader-title") or soup.find("title")
-    raw_title = title_el.get_text() if title_el else html_path.stem
-    # Collapse whitespace then strip "The Way the Future Blogs » Blog Archive »" prefix
-    raw_title = re.sub(r"[\s\u00a0]+", " ", raw_title).strip()
-    title = re.sub(r"^.*»\s*Blog Archive\s*»\s*", "", raw_title, flags=re.DOTALL).strip()
+    # 1. Standard WordPress entry-title heading (most posts)
+    title_el = (soup.find("h1", class_="entry-title") or
+                soup.find("h2", class_="entry-title"))
+    # 2. First plain <h2> not marked as a widget title (older theme pages)
+    if not title_el:
+        for h2 in soup.find_all("h2"):
+            cls = h2.get("class") or []
+            if "widgettitle" not in cls and "widget-title" not in cls:
+                title_el = h2
+                break
+    if title_el:
+        title = re.sub(r"[\s\u00a0]+", " ", title_el.get_text()).strip()
+    else:
+        # 3. Fall back to id="reader-title" or page <title>
+        fb_el = soup.find(id="reader-title") or soup.find("title")
+        raw_title = fb_el.get_text() if fb_el else html_path.stem
+        raw_title = re.sub(r"[\s\u00a0]+", " ", raw_title).strip()
+        title = re.sub(r"^.*»\s*Blog Archive\s*»\s*", "", raw_title, flags=re.DOTALL).strip()
     if not title:
         title = html_path.stem
     result["title"] = title
@@ -590,7 +603,7 @@ def build_front_matter(title: str, date: datetime, categories: list,
     return "\n".join(lines) + "\n\n"
 
 
-def convert_file(html_path: Path, force: bool = False):
+def convert_file(html_path: Path, force: bool = False, used_folders: set = None):
     print(f"  Processing: {html_path.name}")
 
     data = parse_html_file(html_path)
@@ -599,6 +612,17 @@ def convert_file(html_path: Path, force: bool = False):
     title     = data["title"]
     slug      = slugify(title)
     folder    = f"{date.strftime('%Y-%m-%d')}-{slug}"
+
+    # Disambiguate when two different source files produce the same folder name.
+    # Use the file's sequential number from the filename as a suffix.
+    if used_folders is not None and folder in used_folders:
+        num_m = re.match(r'^(\d+)', html_path.stem)
+        suffix = num_m.group(1) if num_m else html_path.stem
+        folder = f"{folder}-{suffix}"
+        print(f"    ↳ Slug collision — renamed to: {folder}")
+    if used_folders is not None:
+        used_folders.add(folder)
+
     dest_dir  = CONTENT_DIR / folder
 
     if dest_dir.exists() and not force:
@@ -682,8 +706,9 @@ def main():
         sys.exit(0)
 
     print(f"Found {len(html_files)} HTML file(s) in {ARCHIVE_DIR}\n")
+    used_folders: set = set()
     for html_path in html_files:
-        convert_file(html_path, force=args.force)
+        convert_file(html_path, force=args.force, used_folders=used_folders)
 
     print(f"\nDone. Output in: {CONTENT_DIR}")
 
