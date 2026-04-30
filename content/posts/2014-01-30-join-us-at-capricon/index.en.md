@@ -23,10 +23,10 @@ Frederik Pohl
 ![ ](CapFlyer.jpg)
 
 
-Most of the blog team will be at Capricon 34, in Wheeling, Ill., February 6–9. Come and see us!
+Most of the blog team will be at [Capricon 34](https://web.archive.org/web/20160416122523/http://capricon.org/capricon34/), in Wheeling, Ill., February 6–9. Come and see us!
 
 
-**Betty**:
+[Betty](https://web.archive.org/web/20160416122523/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/):
 
 - **“Is Canon a Fading Concept?”**  
 
@@ -37,7 +37,7 @@ With re-makes and re-boots everywhere, canon may be a fading luxury concept. Rep
 
 1 p.m. Saturday, Autograph Table  
 
-Betty will be signing copies of **Gateways**, the [**festschrift anthology**](/posts/2009-01-01-elizabeth-anne-hull/) she edited for Fred’s 90th birthday, and she’ll also have some books Fred signed before he died.
+Betty will be signing copies of [Gateways](https://web.archive.org/web/20160416122523/http://www.amazon.com/gp/product/0765326620?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765326620), the [**festschrift anthology**](/posts/2009-01-01-elizabeth-anne-hull/) she edited for Fred’s 90th birthday, and she’ll also have some books Fred signed before he died.
 - **Reading**  
 
 3:15 p.m. Saturday, Birch A
@@ -53,7 +53,7 @@ David Gerrold has written of the “truly subversive nature of science fiction a
 Authors talk about their feelings on reviewers. Do reviewers serve a useful purpose? What makes a good reviewer or a bad one? Can or should an author ever respond publicly (or even privately) to a reviewer?
 
 
-**Dick**:
+[Dick](https://web.archive.org/web/20160416122523/http://www.dicksmithsoftware.com/):
 
 - **Debate: “Is Fandom Undergoing a Generational Change?”**  
 
@@ -72,7 +72,7 @@ Computers are everywhere, on or desks, in our pockets, inside our televisions an
 Many people hear the words “Fan Writer” or “Fanzine” and think of Fan Fiction, but there are also definitions of those words which have nothing to do with Fan Fiction. This panel discusses the diversity of fannish writing, from fanfic to essays to travelogues, as well as where you can find the best in fan writing, however you define it.
 
 
-**Leah**:
+[Leah](https://web.archive.org/web/20160416122523/http://www.zeldes.com/):
 
 - **“To Tweet or Not to Tweet?”**  
 
@@ -104,10 +104,10 @@ Hope to see you there!
 
 ### One Comment
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20160416122523/http://www.flickr.com/photos/stefan_e_jones/) says:
 I am glad to see that Frederik Pohl’s “Posse” is getting out there.
 I look forward to seeing more posts.
-February 1, 2014, 12:55 pm
+[**February 1, 2014, 12:55 pm**](/posts/2014-01-30-join-us-at-capricon/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416122523/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416122523/http://dicksmithsoftware.com/)

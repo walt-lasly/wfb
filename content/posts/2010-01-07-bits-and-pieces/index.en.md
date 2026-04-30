@@ -23,18 +23,18 @@ Frederik Pohl
 {{< figure src="windfarm.jpg" alt="Wind farm." caption="Wind farm." >}}
 
 - About a quarter of a million American water mains burst every year.
-- **Henry David Thoreau** once started a campfire to cook some fish he had just caught and inadvertently **burned down 300 acres of Connecticut forest**.
-- **Wind energy** employs more people than coal mining.
+- [Henry David Thoreau](https://web.archive.org/web/20111121092026/http://thoreau.eserver.org/) once started a campfire to cook some fish he had just caught and inadvertently [burned down 300 acres of Connecticut forest](https://web.archive.org/web/20111121092026/http://www.boston.com/bostonglobe/ideas/articles/2009/04/12/woods_burner/).
+- [Wind energy](https://web.archive.org/web/20111121092026/http://www.windpoweringamerica.gov/) employs more people than coal mining.
 
 
 ### One Comment
 
 - E. J. Garcia says:
-1.  No wonder the water is so expensive here in Florida, despite being surrounded by seawater in three directions and sitting on top a vast deposit of groundwater.
-2.  Poor bastard (emphasis on bastard, however).  I am currently studying Thoreau and other authors of the “American Romantic Period” at my English class in high school.
-3.  Apparently, the Pickens Plan goes much deeper than I actually thought it did.
+1.  No wonder the water is so expensive here in Florida, despite being surrounded by seawater in three directions *and* sitting on top a vast deposit of groundwater.
+2.  Poor bastard (emphasis on *bastard*, however).  I am currently studying Thoreau and other authors of the [“American Romantic Period”](https://web.archive.org/web/20111121092026/http://en.wikipedia.org/wiki/Romanticism) at my English class in high school.
+3.  Apparently, the [Pickens Plan](https://web.archive.org/web/20111121092026/http://www.pickensplan.com/) goes much deeper than I actually thought it did.
   Just trying to have a little fun, have a nice day!
-January 7, 2010, 9:10 pm
+[**January 7, 2010, 9:10 pm**](/posts/2010-01-07-bits-and-pieces/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111121092026/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111121092026/http://dicksmithsoftware.com/)

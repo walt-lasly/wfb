@@ -33,7 +33,7 @@ I still think science fiction is the poetry of literature, and if you want new i
 If you want something arresting, read a novel by Fred Pohl, which yesterday won the most distinguished award that science fiction has to offer.
 
 
-Pohl: The name of the book is **Gateway** and it won the heaviest damn award I’ve ever had to carry around. *[Editor’s note: It won the Campbell, Nebula and Locus Awards that year, and — two months later — the Hugo Award as well.]*
+Pohl: The name of the book is [Gateway](https://web.archive.org/web/20170619195315/http://www.amazon.com/gp/product/0345475836?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345475836) and it won the heaviest damn award I’ve ever had to carry around. *[Editor’s note: It won the Campbell, Nebula and Locus Awards that year, and — two months later — the Hugo Award as well.]*
 
 
 Bester: Now tell them about the book, because you will be explaining to them, Fred, what I’m talking about, about the freshness of approach, freshness of ideas.
@@ -60,7 +60,7 @@ Then — one of the side benefits that are sometimes given to science-fiction wr
 But I got it sorted out and pieced it together. It was a laborious way of writing a novel and usually I’m much more efficient and linear, but I’m pleased with the way it came out. I have no modesty in this matter.
 
 
-Bester: Fred’s neglected to point out that he has extrapolated our great American disease, which is that success is the be-all and end-all of life and no matter what you do, if you end up rich and successful, it is worth any risk. This was the point that Fred made in the novel, and which is most pertinent — if anyone knows the career of Richard Nixon, for example.
+Bester: Fred’s neglected to point out that he has extrapolated our great American disease, which is that success is the be-all and end-all of life and no matter what you do, if you end up rich and successful, it is worth any risk. This was the point that Fred made in the novel, and which is most pertinent — if anyone knows the career of [Richard Nixon](https://web.archive.org/web/20170619195315/http://www.historyplace.com/unitedstates/impeachments/nixon.htm), for example.
 
 
 But as for that tessellated quality of putting it together, this is the way I do it all the time. I put together these various pieces into a giant mosaic and I constantly have pieces of paper saying, “Now this doesn’t go before that, it goes after that.”
@@ -111,7 +111,7 @@ You’ve got to become thoroughly familiar with the entire field. You’ve got t
 But how do you come up with a new idea?  This is between you and God.
 
 
-Let’s take a tired old theme like time travel. Now **Wells** started the whole shtick with **The Time Machine** and it’s been done over and over again since. So if you want to write a time-travel story, you have to come up with a new idea. How do you know if it’s a new idea unless you’ve read all the time travel stories that have been done before you?
+Let’s take a tired old theme like time travel. Now [Wells](https://web.archive.org/web/20170619195315/http://www.hgwellsusa.50megs.com/) started the whole shtick with [The Time Machine](https://web.archive.org/web/20170619195315/http://manybooks.net/titles/wellshgetext92timem11.html) and it’s been done over and over again since. So if you want to write a time-travel story, you have to come up with a new idea. How do you know if it’s a new idea unless you’ve read all the time travel stories that have been done before you?
 
 
 So in addition to the drudgery of writing, there is first the drudgery of preparation. You must prepare! You can put in years and years of preparation for one story and then you go on preparing for the next story or novel or whatever it is. It is not only tough putting words on paper but the prep is tough too.
@@ -123,7 +123,7 @@ I was never obsessed with this business of Marilyn Monroe saying, “Come into m
 I had a Chicago client, I’ve forgotten the name of the show and the name of my client, but he wrote to my producer on the show, very bitterly, a letter which killed me. He said, “For God’s sake, tell Bester to stop being so original. I just want nice second-rate scripts!”
 
 
-Pohl: Nothing has changed; I’ve just been through two painful television experiences. They asked if I would do a television series, and I said positively not, because all American television is based on series — things like **Star Trek** — you get into the same spaceship every week, you “boldly” go through the infinite and Mr Spock’s ears get a little longer and Captain Kirk gets a little stranger. It gets tiresome.
+Pohl: Nothing has changed; I’ve just been through two painful television experiences. They asked if I would do a television series, and I said positively not, because all American television is based on series — things like [Star Trek](https://web.archive.org/web/20170619195315/http://www.startrek.com/) — you get into the same spaceship every week, you “boldly” go through the infinite and Mr Spock’s ears get a little longer and Captain Kirk gets a little stranger. It gets tiresome.
 
 
 So they said, “Well, what would you propose?”
@@ -147,7 +147,7 @@ I said, “Well, that deprives me of most of my interest in it, but maybe we cou
 We arranged for another meeting and I came to that, and they said, “Your idea has really knocked them dead at NBC with the exception of this one little thing, they want the same characters week after week.”
 
 
-So I went through about four very painful months, at the end of which time I had written a treatment and was supposed to write a script. And I declined to write the script. What is coming out of it is something called **The Clone Master**, which has now been written (by someone else) and filmed, and if it goes on the air, they’ll have to give me money.
+So I went through about four very painful months, at the end of which time I had written a treatment and was supposed to write a script. And I declined to write the script. What is coming out of it is something called [The Clone Master](https://web.archive.org/web/20170619195315/http://www.imdb.com/title/tt0077345/), which has now been written (by someone else) and filmed, and if it goes on the air, they’ll have to give me money.
 
 
 I think it will be done here in the UK, probably on ITV, sometime next fall or next spring, because I think it will be done this fall in America. And when it’s on ITV, if you really like original and brilliant pointed writing with great depth, compassion and interest, I recommend you watch BBC that night.
@@ -164,12 +164,12 @@ I think it will be done here in the UK, probably on ITV, sometime next fall or n
 
 ### 2 Comments
 
-- Richard says:
+- [Richard](https://web.archive.org/web/20170619195315/http://estoreal.blogspot.com/) says:
 I already hate myself for asking this…but I actually did watch The Clone Master the night it aired, and I’d really like to know what it started out being.  Is there any hope Mr. Pohl could be persuaded to revisit that unfortunate experience and share any information about his original idea or the treatment he developed?
-April 1, 2011, 3:29 am
-- Batuhan says:
+[**April 1, 2011, 3:29 am**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
+- [Batuhan](https://web.archive.org/web/20170619195315/http://www.facebook.com/profile.php?id=100003406703046) says:
 Science fiotcin is a  genre of fiotcin that has speculations based on current or future science or technology. Science fiotcin is found in books, art, television, films, games, theater, and other media.Science fiotcin differs from fantasy in that, within the context of the story, its imaginary elements are largely possible within scientifically established or scientifically postulated laws of nature (though some elements in a story might still be pure imaginative speculation).
-September 25, 2012, 7:39 pm
+[**September 25, 2012, 7:39 pm**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619195315/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619195315/http://dicksmithsoftware.com/)

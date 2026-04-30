@@ -26,7 +26,7 @@ Frederik Pohl
 {{< figure src="Betty-web.jpg" alt="Elizabeth Anne Hull" caption="Elizabeth Anne Hull" >}}
 
 
-This weekend, Betty is attending ICON 40 in Iowa City, and appearing at these events:
+This weekend, Betty is attending [ICON 40](https://web.archive.org/web/20160402172805/http://iowa-icon.com/icon40/) in Iowa City, and appearing at these events:
 
 
 Friday, 9 p.m.  
@@ -43,5 +43,5 @@ Saturday,  7 p.m.
 
 **“Is There Such a Thing as Being ‘Well Read’ in This Day?”**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402172805/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402172805/http://dicksmithsoftware.com/)

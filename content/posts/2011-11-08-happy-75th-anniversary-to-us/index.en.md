@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="wollheim-rothman-pohl-miche.jpg" alt="From left, Donald A. Wollheim, Milton A. Rothman, me, John B. Michel, Will Sykora, 1936." caption="From left, Donald A. Wollheim, Milton A. Rothman, me, John B. Michel and Will Sykora in 1936." >}}
 
 
-A congratulations note from Mark Olson reminds me of what I didn’t think of on my own, namely that we just passed the 75th anniversary of that earth-shaking event, the very first science-fiction convention ever, held when a handful of us New Yorkers dared the rail trip to Philadelphia to join with a handful of Philly fans and convene.
+A congratulations note from Mark Olson reminds me of what I didn’t think of on my own, namely that we just passed the 75th anniversary of that earth-shaking event, the very [first science-fiction convention](https://web.archive.org/web/20111115202137/http://fancyclopedia.wikidot.com/first-convention) ever, held when a handful of us New Yorkers dared the rail trip to Philadelphia to join with a handful of Philly fans and convene.
 
 
 Three-quarters of a century!  My, how time flies when you’re having fun!
@@ -33,19 +33,19 @@ Three-quarters of a century!  My, how time flies when you’re having fun!
 
 - David B. Williams says:
 But obviously, the standards of fannish dress have declined precipitously over the past three quarter-centuries.
-November 8, 2011, 9:07 am
+[**November 8, 2011, 9:07 am**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
 - Jay Borcherding says:
 What a dapper group of young men.  You might be G-Men, or Dillinger gang wannabes.  The photo certainly illustrates the precipitous sartorial decline in American society generally, and comic-con/sci-fi-con attendees specifically.
-November 9, 2011, 1:36 am
-- Susan Kaye Quinn says:
+[**November 9, 2011, 1:36 am**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+- [Susan Kaye Quinn](https://web.archive.org/web/20111115202137/http://www.susankayequinn.com/) says:
 I think if your younger self time-traveled to Comic Con, they would think you were straight out of a Marvel Comic. Which would be awesome. 
-November 9, 2011, 7:51 pm
-- jess says:
+[**November 9, 2011, 7:51 pm**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+- [jess](https://web.archive.org/web/20111115202137/http://drfleck.com/) says:
 thats an epic picture, congrats on your 75th anniversary
-November 12, 2011, 7:16 pm
-- Michael Walsh says:
+[**November 12, 2011, 7:16 pm**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+- [Michael Walsh](https://web.archive.org/web/20111115202137/http://www.oldearthbooks.com/) says:
 Of the 10 people at this grand event, three remain with us: the esteemed proprietor of this site, Dave Kyle (who is on Facebook!), and Bob Madle … who is still selling books and mags.
-November 13, 2011, 1:14 pm
+[**November 13, 2011, 1:14 pm**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111115202137/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111115202137/http://dicksmithsoftware.com/)

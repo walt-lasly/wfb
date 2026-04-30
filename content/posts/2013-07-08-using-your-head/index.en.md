@@ -24,7 +24,7 @@ Frederik Pohl
 
 ![helmet](helmet.png)
 
-Philip A. Contos liked riding his 1983 Harley-Davidson motorcycle but didn’t like to be told he had to wear a helmet. So he joined a mass protest on July 1 — 550 bikers demonstrating against New York State’s compulsory helmet law at Onondaga, New York.
+[Philip A. Contos](https://web.archive.org/web/20170707081905/http://abcnews.go.com/US/york-rider-dies-protesting-motorcycle-helmet-law/story?id=13993417) liked riding his 1983 Harley-Davidson motorcycle but didn’t like to be told he had to wear a helmet. So he joined a mass protest on July 1 — 550 bikers demonstrating against New York State’s compulsory helmet law at Onondaga, New York.
 
 
 Unfortunately, Contos hid a bad spot and lost control of his bike.  He flew over the handlebars, hit his head when he landed, and was killed.
@@ -35,13 +35,13 @@ Troopers said he would have survived if he had had a helmet on, but, gosh, that 
 
 ### 2 Comments
 
-- Ken Houghton says:
+- [Ken Houghton](https://web.archive.org/web/20170707081905/http://www.angrybearblog.com/) says:
 There is a reason the technical term for helmetless motorcyclists in hospitals is “donors.”
 I do recall seeing an economics paper about five years ago that discussed the negative impact to neuroscience research of helmet laws.  Personally, I’ll take the trade.
-July 25, 2013, 1:09 pm
-- Sevesteen says:
+[**July 25, 2013, 1:09 pm**](/posts/2013-07-08-using-your-head/)
+- [Sevesteen](https://web.archive.org/web/20170707081905/http://www.sevesteen.com/) says:
 Even with a helmet, motorcycles are far more dangerous than cars–if helmets can be required, why shouldn’t motorcycles be banned?  I almost always wear more safety gear than the law requires–but I still object to being FORCED to, especially in a case like this where the results of my poor choices would not harm others.
-July 25, 2013, 4:45 pm
+[**July 25, 2013, 4:45 pm**](/posts/2013-07-08-using-your-head/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707081905/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707081905/http://dicksmithsoftware.com/)

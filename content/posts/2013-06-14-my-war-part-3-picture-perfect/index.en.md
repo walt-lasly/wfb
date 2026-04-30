@@ -47,7 +47,7 @@ I patted his shoulder.  “You’re doing a great job,”  I told him.  “I’d
 How could he refuse?  I could have made it an order.
 
 
-And the Speed Graphic, I want to mention, was immediate new heir to the title Best Camera in the World as soon as I shot a few seascapes and turned them over to Staff for developing and printing.  The Graphic was a reporter’s kind of camera.  It didn’t have particularly good optics, but what it did have was huge negatives.
+And the [Speed Graphic](https://web.archive.org/web/20170620014951/http://graflex.org/speed-graphic/), I want to mention, was immediate new heir to the title Best Camera in the World as soon as I shot a few seascapes and turned them over to Staff for developing and printing.  The Graphic was a reporter’s kind of camera.  It didn’t have particularly good optics, but what it did have was huge negatives.
 
 
 “Just point and shoot,”  Staff advised me.  “The picture you want will be on that negative somewhere and I’ll find it and vignette it and print it for you.”
@@ -68,11 +68,11 @@ And he would have done it, too, I’m pretty sure, if two sergeants in an MP jee
 
 ### One Comment
 
-- Bruce Arthurs says:
+- [Bruce Arthurs](https://web.archive.org/web/20170620014951/http://undulantfever.blogspot.com/) says:
 In 1972 I was trained as a US Army Photographic Laboratory Technician at Fort Monmouth, NJ (just down the road a ways from you, as I recall, though I never worked up the chutzpah to come knock on your door and ask you to sign a book).  The Speed Graphics were still the default camera used, though we had about one week out of about twelve getting to use a 35mm.  (Most of the Lab Tech training taught developing and darkroom techniques.)
 As you say, the 4×5 inch negatives on the Speed Graphics could produce wonderfully sharp and detailed photos.  Heavy suckers, with a fairly steep learning curve, but I still have a nostalgic respect for them.
 As it turned out, once I graduated from the course, I was sent to fill a Lab Tech slot for a Signal company at another post, where there wasn’t any actual lab work to be done.  After several months mowing lawns, washing trucks, and occasionally firing rifle salutes over the graves of deceased veterans, I managed to get transferred to a truck driving company where I spent the rest of my enlistment as a company clerk.  Never got back into photography until digital cameras came along.
-June 20, 2013, 2:13 am
+[**June 20, 2013, 2:13 am**](/posts/2013-06-14-my-war-part-3-picture-perfect/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620014951/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620014951/http://dicksmithsoftware.com/)

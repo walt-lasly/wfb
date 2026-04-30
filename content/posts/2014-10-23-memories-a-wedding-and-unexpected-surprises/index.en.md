@@ -43,10 +43,10 @@ In particular, Steve Claussen really put the icing on the cake for me.  (Steve a
 - Mike Page says:
 Betty,
 Thanks so much for the shout-out.  The book is approaching the production phase and hopefully will be released sometime next year in the University of Illinois’ “Modern Masters of Science Fiction” series.
-October 23, 2014, 11:21 pm
-- Dan Gollub says:
+[**October 23, 2014, 11:21 pm**](/posts/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
+- [Dan Gollub](https://web.archive.org/web/20160416222829/http://www.dreampattern.com/) says:
 I admired Mr. Pohl for, among other reasons, his concern for the well being of the planetary ecosystem. I read in Science News that the drought in California likely will continue because El Nino won’t come to its rescue. The winds that blow across the Pacific toward California haven’t been strong enough to stir up El Nino. Is there any way to create those stronger winds? If Mr. Pohl were alive, I’d be curious whether and how he might respond to that topic.
-October 30, 2014, 1:19 pm
+[**October 30, 2014, 1:19 pm**](/posts/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416222829/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416222829/http://dicksmithsoftware.com/)

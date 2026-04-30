@@ -30,7 +30,7 @@ Frederik Pohl
 
 - David B. Williams says:
 Well, duh. The absence of any sensation is not felt. This is like saying that you don’t need sunglasses in the dark.
-August 14, 2011, 9:45 am
+[**August 14, 2011, 9:45 am**](/posts/2011-08-14-bright-sayings-of-bright-people-no-18-hertzberg/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707055409/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707055409/http://dicksmithsoftware.com/)

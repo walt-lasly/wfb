@@ -23,13 +23,13 @@ Frederik Pohl
 {{< figure src="lronhubbardcolor.jpg" alt="L. Ron Hubbard" caption="L. Ron Hubbard" >}}
 
 
-All right.  Now I’ve spent pages and pages talking about L. Ron Hubbard and Ron himself hasn’t yet appeared in person on the page even once.  What’s going on here?
+All right.  Now I’ve spent [**pages and pages**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) talking about [L. Ron Hubbard](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html) and Ron himself hasn’t yet appeared in person on the page even once.  What’s going on here?
 
 
-One thing that has gone on is that every time I show up at some Woffie event, they make sure that an interviewer shows up very soon, along with a cameraman and a recordist so they can get a few sound bites from me.  They always have a lot of questions, and they all cluster around one particular subject.  Since I am one of  the few people still around who ever met him in the pre-Scientology days, they want to know what L. Ron Hubbard was really like.
+One thing that has gone on is that every time I show up at some [Woffie](https://web.archive.org/web/20090917042016/http://www.writersofthefuture.com/) event, they make sure that an interviewer shows up very soon, along with a cameraman and a recordist so they can get a few sound bites from me.  They always have a lot of questions, and they all cluster around one particular subject.  Since I am one of  the few people still around who ever met him in the pre-Scientology days, they want to know what L. Ron Hubbard was really like.
 
 
-Unfortunately, there’s a disconnect in logic there.  I do know quite a lot about what Ron did and what sort of person he was, but the reason for that isn’t because he and I spent a lot of time palling around together.  We didn’t.  Oh, we did meet, all right, and we did have other contacts that did not happen to involve breathing the air of the same room at any time.  For one, I was occasionally his editor — or, more accurately, one of his editors — first around 1940, when I was 20 years old and editing two sf magazines for the old Popular Publications — and then half a century later when I was executive editor for Ace Books, and we had a bunch of Ron’s titles on our backlist.  (I might also mention that he dedicated his novel, **Battlefield Earth,** to me.  However, that doesn’t prove much.  He dedicated it to quite a few other people as well.)
+Unfortunately, there’s a disconnect in logic there.  I do know quite a lot about what Ron did and what sort of person he was, but the reason for that isn’t because he and I spent a lot of time palling around together.  We didn’t.  Oh, we did meet, all right, and we did have other contacts that did not happen to involve breathing the air of the same room at any time.  For one, I was occasionally his editor — or, more accurately, one of his editors — first around 1940, when I was 20 years old and editing two sf magazines for the old Popular Publications — and then half a century later when I was executive editor for Ace Books, and we had a bunch of Ron’s titles on our backlist.  (I might also mention that he dedicated his novel, [Battlefield Earth,](https://web.archive.org/web/20090917042016/http://www.amazon.com/gp/product/1592120539?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592120539) to me.  However, that doesn’t prove much.  He dedicated it to quite a few other people as well.)
 
 
 But when those interviewers turn on their cameras I’m afraid I don’t have a lot of personal detail to give them.
@@ -50,16 +50,16 @@ That leaves the 1940s in New York.
 There was at the time a weekly custom of science-fiction writers and and editors getting together for lunch in a private dining room in one of the hotels just off Times Square in New York.  I think it was on Thursdays, and I know Ron attended now and then, as I did.  It’s likely we chatted from time to time, but, if so, I have to say that I don’t remember what about.
 
 
-This leaves only one occasion that is really clear in my mind.  That was a dinner party at the apartment of a retired naval officer — and science fiction writer — named Malcolm Jameson.
+This leaves only one occasion that is really clear in my mind.  That was a dinner party at the apartment of a retired naval officer — and science fiction writer — named [Malcolm Jameson](https://web.archive.org/web/20090917042016/http://www.hycyber.com/SF/jameson_malcolm.html).
 
 
-What I remember most about that party was Jamie’s daughter Vida.  She was good looking and a writer and friendly.  She was also successful at selling her stories to the Saturday Evening Post, which I had never come close to.  So I was glad to have the opportunity to visit the Jameson home and chat her up.
+What I remember most about that party was Jamie’s daughter [Vida](https://web.archive.org/web/20090917042016/http://lists.herald.co.uk/pipermail/lois-bujold/2004-January/001047.html).  She was good looking and a writer and friendly.  She was also successful at selling her stories to the Saturday Evening Post, which I had never come close to.  So I was glad to have the opportunity to visit the Jameson home and chat her up.
 
 
 {{< figure src="astonishing-quicksandsofyouthwardness1.jpg" alt="Astonishing Stories, Oct. 1940" caption="Astonishing Stories, Oct. 1940" >}}
 
 
-Jameson himself was an infrequent writer, but I had published some of his work.  That included a two-part serial of his called **Quicksands of Youthwardness**, which might be viewed as a sort of antecedent to “**The Curious Case of Benjamin Button**.” Anyway, I don’t remember who all was at the party, but I got there early.  Jamie provided me with something to drink, and Vida with someone to talk to.  Things were going swimmingly until the door opened and another guest arrived.
+Jameson himself was an infrequent writer, but I had published some of his work.  That included a two-part serial of his called [Quicksands of Youthwardness](https://web.archive.org/web/20090917042016/http://www.amazon.com/gp/product/B001NRKXPQ?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001NRKXPQ), which might be viewed as a sort of antecedent to “[The Curious Case of Benjamin Button](https://web.archive.org/web/20090917042016/http://www.amazon.com/gp/product/0143105493?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0143105493).” Anyway, I don’t remember who all was at the party, but I got there early.  Jamie provided me with something to drink, and Vida with someone to talk to.  Things were going swimmingly until the door opened and another guest arrived.
 
 
 That was L. Ron Hubbard.
@@ -82,9 +82,9 @@ There were a lot, but one of them stands out, and that is the then editor of Ast
 
 ### One Comment
 
-- Sylvia says:
+- [Sylvia](https://web.archive.org/web/20090917042016/http://www.fearoflanding.com/) says:
 So, I don\’t suppose you know what happened to Vida? Sounds like a story in its own right.
-September 15, 2009, 7:10 pm
+[**September 15, 2009, 7:10 pm**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090917042016/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090917042016/http://dicksmithsoftware.com/)

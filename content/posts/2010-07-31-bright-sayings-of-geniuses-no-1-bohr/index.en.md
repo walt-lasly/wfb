@@ -35,7 +35,7 @@ Bright Sayings of Geniuses, [**No. 2**](/posts/2010-09-15-bright-sayings-of-geni
 
 - Bill Goodwin says:
 Makes sense to me, don’t it?
-August 1, 2010, 12:13 pm
+[**August 1, 2010, 12:13 pm**](/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20140806045648/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20140806045648/http://dicksmithsoftware.com/)

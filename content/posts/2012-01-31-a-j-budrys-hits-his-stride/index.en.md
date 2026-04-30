@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="budrys2.jpg" alt="Algis Budrys" caption="Algis Budrys" >}}
 
 
-Algis Budrys became my client within a matter of just months before, crippled by money troubles, I closed my literary agency’s door forever.  I hadn’t really had enough time to position him in the kind of publications he deserved, but I had made a pretty good start.  I had sold almost all of his backlog of science-fiction short stories and novelettes.  I got him contracts for paperbound novels — not the genteel old-line kind of publishing house I had envisioned for him, but at least a step in a better direction.  And then I turned him loose.
+[**Algis Budrys**](/posts/2010-07-26-a-j/) became my client within a matter of just months before, crippled by money troubles, I [**closed my literary agency’s door**](/posts/2010-11-28-what-my-clients-thought/) forever.  I hadn’t really had enough time to position him in the kind of publications he deserved, but I had made a pretty good start.  I had sold almost all of his backlog of science-fiction short stories and novelettes.  I got him contracts for paperbound novels — not the genteel old-line kind of publishing house I had envisioned for him, but at least a step in a better direction.  And then I turned him loose.
 
 
 By then A J had begun to have a certain reputation.  He negotiated a few contracts on his own, he got a film offer for one of them and successfully saw it through all the log-jams that lie between an expression of interest and an actual movie that people buy tickets to and then watch in a real motion-picture theater.  It wasn’t big money, but it was a sign of success denied to almost all of his colleagues.
@@ -38,7 +38,7 @@ I should describe A J’s work habits, because they were a bit unusual. Every ev
 You must understand that by the words “an editor,” what I mean is me.  The Budrys house in Monmouth County. New Jersey, was no more than a twenty-minute drive from mine, and on “story days,” the ones on which typing had produced a salable manuscript, A J, having phoned to make sure I was going into the office the next day, would bring in the story and sit in my third-floor office while I read it.
 
 
-Truthfully, the act of reading A J’s stories was little more than a formality.  I never rejected one.  I had no reason to do so; AJ was hot.  And the next morning I would pop the manuscript into my briefcase, along with anything else I wanted to buy and their purchase orders, take the Jersey Central train to New York and my little fraction of the offices of Bob Guinn, the man who owned Galaxy.
+Truthfully, the act of reading A J’s stories was little more than a formality.  I never rejected one.  I had no reason to do so; AJ was hot.  And the next morning I would pop the manuscript into my briefcase, along with anything else I wanted to buy and their purchase orders, take the Jersey Central train to New York and my little fraction of the offices of [Bob Guinn](https://web.archive.org/web/20120422034804/http://books.google.com/books?id=2qkmF8HvP_gC&lpg=PA34&ots=1Rzl4Pfbv4&dq=robert%20M.%20Guinn%20galaxy&pg=PA34#v=onepage&q=robert%20M.%20Guinn%20galaxy&f=false), the man who owned Galaxy.
 
 
 I had long ago convinced Bob that writers weren’t like printing-supply vendors.  Each one had his own peculiar ways, and A J’s weird trait was punctuality.  That is, he would give me first look at everything he wrote as long as he could get the check to pay for it *the next day.*  So that’s what he got,  By the time I got home for dinner AJ would be sitting in Carol’s kitchen, with a cup of her coffee in his hand, the other hand poised to accept the check.
@@ -59,24 +59,24 @@ It was, for both of us, a pretty smooth-running machine, most of the time.
 
 ### 4 Comments
 
-- TAD says:
+- [TAD](https://web.archive.org/web/20120422034804/http://www.tadsbackupplan.blogspot.com/) says:
 Fred: This was great, thanks for sharing it. I’ve been a fan of Budrys’ writing ever since reading his book reviews in the pages of the old GALAXY….
-January 31, 2012, 3:22 am
-- Angie says:
-A J’s weird trait was punctuality. That is, he would give me first look at everything he wrote as long as he could get the check to pay for it the next day.
-LOL!  Try that trick now and see how hard they laugh.   
+[**January 31, 2012, 3:22 am**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+- [Angie](https://web.archive.org/web/20120422034804/http://angiesdesk.blogspot.com/) says:
+*A J’s weird trait was punctuality. That is, he would give me first look at everything he wrote as long as he could get the check to pay for it the next day.*
+LOL!  Try that trick *now* and see how hard they laugh.   
 Angie
-January 31, 2012, 5:51 pm
-- Larry Kollar says:
+[**January 31, 2012, 5:51 pm**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+- [Larry Kollar](https://web.archive.org/web/20120422034804/http://farmanor.blogspot.com/) says:
 I remember reading some of his short work. It was kind of atmospheric, wasn’t it? Taking you gently by the hand and leading you into the unknown.
-January 31, 2012, 8:21 pm
+[**January 31, 2012, 8:21 pm**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
 - Andre says:
 Mr. Pohl,
 At one point, Mr. Budrys became involved with L. Ron Hubbards’s Writers of the Future contest. Apparently, he would teach a course to finalists that relied heavily on Hubbard’s ideas about story construction. Do you know anything about this? Was Mr. Budrys ever a fan of Hubbard’s ideas on writing.
 I enjoy reading this web site immensely. Keep up the good work!
 All the best,
 Andre
-February 19, 2012, 1:54 am
+[**February 19, 2012, 1:54 am**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120422034804/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120422034804/http://dicksmithsoftware.com/)

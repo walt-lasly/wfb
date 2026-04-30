@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Walt G says:
 Certainly true for me.
-January 15, 2012, 10:59 am
+[**January 15, 2012, 10:59 am**](/posts/2012-01-15-bright-sayings-of-bright-people-no-23/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120525221948/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120525221948/http://dicksmithsoftware.com/)

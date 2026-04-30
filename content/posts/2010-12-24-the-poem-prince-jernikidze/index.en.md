@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="josephfreeman.jpg" alt="Joseph Freeman" caption="Joseph Freeman" >}}
 
 
-I came across this poem somewhere when I was about 17 or 18 and still a YCLer, with every hope that most of the brutal and inexcusable things about the Soviet Union that I was reading every day in the New York Post or Times were just typical untrue capitalist press slanders — of which, I was well aware, there was a good supply at all times.
+I came across this poem somewhere when I was about 17 or 18 and still a [YCLer](https://web.archive.org/web/20150919065630/http://www.yclusa.org/), with every hope that most of the brutal and inexcusable things about the Soviet Union that I was reading every day in the New York Post or Times were just typical untrue capitalist press slanders — of which, I was well aware, there was a good supply at all times.
 
 
 The poem touched me where I was vulnerable.  It described a post-Revolution USSR that had made peace with its bloody wars and managed to incorporate the class enemy into normal society.  I didn’t think the poem described anything like contemporary reality — I was not *that* naïve.  But I took it as a sort of science-fiction glimpse of where the Soviet Union was going to grow to.
@@ -69,11 +69,12 @@ Keeps accounts for the working class.
 
 - bruce says:
 Fred- off topic, but I\’d like to know what parallels you see between the world of \’The Cool War\’ and today.
-December 24, 2010, 10:08 am
-- deadprogrammer says:
-This reminded me of “Count Aleksey Tolstoy”, a famous Soviet author who along with H.G. Wells and Hugo Gernsback was one of my first exposures to science fiction (for whatever reason I’ve read Gernsback’s now forgotten l Ralph 124C 41+ around the same time as Tolstoy’s
-“Aelita” and Well’s “Time Machine”).  In any case, Aleksey Tolstoy was pejoratively known as “Red Count\”, “Worker and Peasant’s Count”, “Comrade Count”, etc. A popular anecdote about him featured his lackey interrupting a meeting with readers with “your illustriousness, you are needed at the party meeting”.
-December 25, 2010, 9:29 am
+[**December 24, 2010, 10:08 am**](/posts/2010-12-24-the-poem-prince-jernikidze/)
+- [deadprogrammer](https://web.archive.org/web/20150919065630/http://www.deadprogrammer.com/) says:
+This reminded me of “Count Aleksey Tolstoy”, a famous Soviet author who along with H.G. Wells and Hugo Gernsback was one of my first exposures to science fiction (for whatever reason I’ve read Gernsback’s now forgotten l Ralph 124C 41+ around the same time as Tolstoy’s  
 
-**WordPress**
-**TWTFB2**
+“Aelita” and Well’s “Time Machine”).  In any case, Aleksey Tolstoy was pejoratively known as “Red Count\”, “Worker and Peasant’s Count”, “Comrade Count”, etc. A popular anecdote about him featured his lackey interrupting a meeting with readers with “your illustriousness, you are needed at the party meeting”.
+[**December 25, 2010, 9:29 am**](/posts/2010-12-24-the-poem-prince-jernikidze/)
+
+[WordPress](https://web.archive.org/web/20150919065630/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150919065630/http://dicksmithsoftware.com/)

@@ -30,7 +30,7 @@ Frederik Pohl
 {{< /poem >}}
 
 
-Quoted in an interview with Fred and Betty at Litstack.com that we haven’t linked before.
+Quoted in an [interview with Fred and Betty at Litstack.com](https://web.archive.org/web/20160402160945/http://litstack.com/interview-with-frederick-pohl-and-elizabeth-anne-hull/%20target=) that we haven’t linked before.
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402160945/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402160945/http://dicksmithsoftware.com/)

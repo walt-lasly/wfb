@@ -23,13 +23,13 @@ Frederik Pohl
 {{< figure src="schneirwalter.jpg" alt="Walter Schneir" caption="Walter Schneir" >}}
 
 
-Admit it, you have no idea who Walter Schneir (who died of thyroid cancer at the age of 83 on 11 April) was.  I’ll never forget him, though.
+Admit it, you have no idea who [Walter Schneir](https://web.archive.org/web/20120821112640/http://www.nytimes.com/2009/04/26/us/26schneir.html) (who died of thyroid cancer at the age of 83 on 11 April) was.  I’ll never forget him, though.
 
 
-In 1965, along with his wife. Miriam, he had published a Doubleday book, **Invitation to an Inquest**, about **Julius and Ethel Rosenberg**, the New York couple who had been tried as spies who had given atomic-bomb secrets to the Soviet Union, convicted and executed in the electric chair at Sing Sing. The book, which argued that the Rosenbergs hadn’t received a fair trial and might well have been innocent of the charges, came to the attention of **Long John Nebel**, who ran an all-night radio talk show in New York.
+In 1965, along with his wife. Miriam, he had published a Doubleday book, [Invitation to an Inquest](https://web.archive.org/web/20120821112640/http://www.amazon.com/gp/product/0140033335?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0140033335), about [Julius and Ethel Rosenberg](https://web.archive.org/web/20120821112640/http://www.law.umkc.edu/faculty/projects/FTrials/rosenb/ROSENB.HTM), the New York couple who had been tried as spies who had given atomic-bomb secrets to the Soviet Union, convicted and executed in the electric chair at Sing Sing. The book, which argued that the Rosenbergs hadn’t received a fair trial and might well have been innocent of the charges, came to the attention of [Long John Nebel](https://web.archive.org/web/20120821112640/http://www.ufomystic.com/wake-up-down-there/art-bell-long-john-nebel-parnormal-radio/), who ran an all-night radio talk show in New York.
 
 
-He invited the Schneirs to appear on his show, along with  Roy Cohn, the former McCarthy aide who had been involved in the Rosenberg prosecution, and me.  (Why me?   Because I was a pretty good talker and rarely turned John down when he asked … and because I loathed Roy Cohn for what he had done as Senator Joe McCarthy’s pit bull and couldn’t resist the chance to meet him in person.  It was that sort of attitude that put me in front of John’s microphones dozens of times when I would have been better advised to stay home and get a good night’s sleep.)
+He invited the Schneirs to appear on his show, along with  [Roy Cohn](https://web.archive.org/web/20120821112640/http://www.maryellenmark.com/text/magazines/life/905W-000-035.html), the former McCarthy aide who had been involved in the Rosenberg prosecution, and me.  (Why me?   Because I was a pretty good talker and rarely turned John down when he asked … and because I loathed Roy Cohn for what he had done as Senator Joe McCarthy’s pit bull and couldn’t resist the chance to meet him in person.  It was that sort of attitude that put me in front of John’s microphones dozens of times when I would have been better advised to stay home and get a good night’s sleep.)
 
 
 {{< figure src="rosenberg2wb1.jpg" alt="The Rosenbergs" caption="Julius and Ethel Rosenberg" >}}
@@ -38,7 +38,7 @@ He invited the Schneirs to appear on his show, along with  Roy Cohn, the former 
 After forty-odd years, the only clear memory I have of Cohn is as a very efficient killing machine.  He never sat still and he never stopped talking.
 
 
-The Schneirs had done an admirable job of collecting evidence that the Rosenbergs had not received a fair trial in many ways: The judge allowed the prosecution improper liberties; their defense attorney had no experience in that sort of case; witnesses changed their stories on crucial elements; worst of all, the case against Ethel Rosenberg in particular rested on the unsupported testimony of just one witness, her brother, David Greenglass. (Who much later confessed to writer Sam Roberts that he had given false testimony, as told in Roberts’ book **The Brother**.)
+The Schneirs had done an admirable job of collecting evidence that the Rosenbergs had not received a fair trial in many ways: The judge allowed the prosecution improper liberties; their defense attorney had no experience in that sort of case; witnesses changed their stories on crucial elements; worst of all, the case against Ethel Rosenberg in particular rested on the unsupported testimony of just one witness, her brother, David Greenglass. (Who much later confessed to writer Sam Roberts that he had given false testimony, as told in Roberts’ book [The Brother](https://web.archive.org/web/20120821112640/http://www.amazon.com/gp/product/0375500138?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0375500138).)
 
 
 All those things and more the Schneirs said into Long John’s mikes, but how much the radio audience heard I cannot say. Cohn talked right over them, never stopping, never conceding a point. So a lot of people  — everyone from Bertrand Russell and the Pope to Pablo Picasso — thought the Rosenberg trial was unfair? So what? Those people hadn’t been in the courtroom, and the verdict was in.
@@ -68,19 +68,21 @@ And wonders will never cease.
 ### 3 Comments
 
 - Neil in Chicago says:
-When those Russian archives opened up at the beginning of the 90′s, Harvard sent flying teams of historians to go through them as fast and thoroughly as possible.  Which was a good idea, since the archives have gotten less open than they were.
-According to one of the books which came out of the Harvard project, J. Edgar Hoover told President Eisenhower to his face that Ethel Rosenberg was completely innocent, but she got the chair anyway.  (I’m not sure what box the book is in right now, so my citation can’t be more specific.)
+When those Russian archives opened up at the beginning of the 90′s, Harvard sent flying teams of historians to go through them as fast and thoroughly as possible.  Which was a good idea, since the archives have gotten less open than they were.  
+
+According to one of the books which came out of the Harvard project, J. Edgar Hoover told President Eisenhower to his face that Ethel Rosenberg was completely innocent, but she got the chair anyway.  (I’m not sure what box the book is in right now, so my citation can’t be more specific.)  
+
 ((Don’t start me on the trial of the Haymarket anarchists unless you’ve set a time limit up front.  I’ve never heard of another trial where the prosecutor told the jury, on the record, that there was no evidence connecting the accused to the crime, but they talk about that sort of thing, so let’s kill them.))
-June 15, 2009, 10:48 am
-- Dr. Psycho says:
+[**June 15, 2009, 10:48 am**](/posts/2009-06-15-r-i-p-walter-schneir/)
+- [Dr. Psycho](https://web.archive.org/web/20120821112640/http://doctorpsycho1960.blogspot.com/) says:
 I grew up in a family that was far enough to the left to have heard of the Rosenbergs, and I always suspected that one or both of them might have been guilty, but in any event, they had not received a fair trial and were, as depicted in “The Public Burning”, lynched as scapegoats.
 Alas, the Rosenbergs’ defenders usually did not treat them as human beings, either.  To almost everyone, they were symbols and tools rather than human beings who should have been treated that way.
 And I agree that the best and most appropriate fate for any spy is extradition to the country they were serving.  In almost every case, whether they were shipped off to the USSR or Saudi Arabia or Canada, they would get what they deserve.
-June 15, 2009, 12:04 pm
-- Robert Nowall says:
+[**June 15, 2009, 12:04 pm**](/posts/2009-06-15-r-i-p-walter-schneir/)
+- [Robert Nowall](https://web.archive.org/web/20120821112640/http://www.robertnowall.com/) says:
 I used to buy into these things when I was younger…but over the years I’ve been hit by a seemingly endless number of things were I came to feel I was lied to by those on the political left.  The Rosenberg case is one of them.
 I think it’s sad when nothing can change some minds.  Even the facts.
-June 17, 2009, 8:32 am
+[**June 17, 2009, 8:32 am**](/posts/2009-06-15-r-i-p-walter-schneir/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120821112640/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120821112640/http://dicksmithsoftware.com/)

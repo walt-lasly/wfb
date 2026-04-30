@@ -42,12 +42,15 @@ Since they are really naught but saps.
 
 - Kyle McAbee says:
 Bob Madle, co-founder of the Philadelphia Science Fiction Society and member of First Fandom, taught me a version in 1980 with a slightly different ending. Bob said he got it from Wollheim:
-Along mahogany streets they ooze
-And never go out save in twos
-For they’d get lost without their maps
+Along mahogany streets they ooze  
+
+And never go out save in twos  
+
+For they’d get lost without their maps  
+
 Being naught but Homo Saps.
 The final reference is the abbreviation for “Homo sapiens sapiens.” Bob also told me that the Futurians sang these lyrics at Christmas-time on street corners to tease passers-by.
-June 1, 2010, 3:50 pm
+[**June 1, 2010, 3:50 pm**](/posts/2010-05-24-futurian-poetry-i/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120308112311/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120308112311/http://dicksmithsoftware.com/)

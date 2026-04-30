@@ -40,25 +40,25 @@ There are a few, and there are a larger number who, at least, don’t make their
 - Mo says:
 In the UK, legislators have to publicly declare all stockholdings, and if in an area that their work is directly involved with, have to place them in a blind trust. And if they were to pass on price-significant information to a third party, that would be criminal fraud.
 I don’t suppose our legislators are any honester than the US ones, and I’m sure many find ways round it. But certainly a lot fewer of them are millionaires. It seems the abuse you describe could quite easily be reined in, if there was the will.
-April 19, 2012, 3:10 am
-- Larry Kollar says:
+[**April 19, 2012, 3:10 am**](/posts/2012-04-19-dishonest-things-almost-all-congressmen-do/)
+- [Larry Kollar](https://web.archive.org/web/20120508222520/http://farmanor.blogspot.com/) says:
 I’d like to see Congress selected by lottery. Kind of like jury duty: you get picked, you don’t have severe health problems, you go for two years. If you decide you like the job, then you face the equivalent of a recall election.
 There are plenty of drawbacks, not the least of which would be Congress would look a lot more like the general populace. But at least it would look more like the general populace.
-April 19, 2012, 8:59 am
+[**April 19, 2012, 8:59 am**](/posts/2012-04-19-dishonest-things-almost-all-congressmen-do/)
 - David Ratnasabapathy says:
 Larry Kollar, wouldn’t that make congress even more incompetent?  While handing power to unelected bureucracies.
 Politics is hard work.  Just because they’re corrupt and pass stupid, cruel and evil laws doesn’t stop them being good at their job: namely, leadership, administration and representation.  Replacing them with random ignoramuses incapable of any of these would cause worse problems than it solves.
-April 20, 2012, 6:35 pm
+[**April 20, 2012, 6:35 pm**](/posts/2012-04-19-dishonest-things-almost-all-congressmen-do/)
 - Walt G says:
 I’ll support Larry’s idea of a Random House. Excellence at getting elected may be a very different skill set than legislating. 
 Double the size of each district and assign them two representatives; one by ballot and one by lot. Could be a fine way to temper ambition.
-April 25, 2012, 10:29 am
+[**April 25, 2012, 10:29 am**](/posts/2012-04-19-dishonest-things-almost-all-congressmen-do/)
 - Goljerp says:
 How about congress selected by competitive examination?  OK, I admit, I’m stealing the idea from Gilbert and Sullivan… but why not do something where everyone of the proper age takes a test, and then people in the top 10% are selected randomly?  And, um, increase terms so that there’s not as big a learning curve.  And bread and circuses for all!
-April 25, 2012, 8:31 pm
+[**April 25, 2012, 8:31 pm**](/posts/2012-04-19-dishonest-things-almost-all-congressmen-do/)
 - Walt G says:
 Goljerp, something like the Imperial examination in old China?
-April 27, 2012, 12:35 pm
+[**April 27, 2012, 12:35 pm**](/posts/2012-04-19-dishonest-things-almost-all-congressmen-do/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508222520/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508222520/http://dicksmithsoftware.com/)

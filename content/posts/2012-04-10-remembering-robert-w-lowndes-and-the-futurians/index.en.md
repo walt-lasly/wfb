@@ -28,10 +28,10 @@ Frederik Pohl
   
 [**Jack Robins**](/posts/2010-12-28-jack-robins-dr-robins-that-is/)
 
-I recall many things about Robert W. Lowndes, how soft-spoken he was, how much he enjoyed studying old science fiction stories, and how warm and friendly he was.
+I recall many things about [**Robert W. Lowndes**](/posts/2009-05-08-the-quadrumvirate/), how soft-spoken he was, how much he enjoyed studying old science fiction stories, and how warm and friendly he was.
 
 
-I remember one time, when John Michel, Don Wollheim, Lowndes and I were in a bar each drinking something.  Lowndes ordered a white wine, I believe it was Sauternes.  He took a sip and let the small amount of fluid roll over his tongue to relish the flavor and he held it there for a long while before swallowing.  He told me the only way to appreciate wine was to sip it slowly and savor the flavor.  I now think that was just rationalization for not having sufficient funds to order a second glass.  But at the time I was so impressed by his sophistication that for a long time, the only wines I preferred to drink were white wines and I would try to make the flavor last in my mouth a long time.  Many years later, I mentioned this incident to Robert but he said he could not remember it.
+I remember one time, when [John Michel](https://web.archive.org/web/20120508222224/http://fancyclopedia.editme.com/MICHELIS), [**Don Wollheim**](/posts/2011-07-18-donald-a-wollheim-at-seventeen/), Lowndes and I were in a bar each drinking something.  Lowndes ordered a white wine, I believe it was Sauternes.  He took a sip and let the small amount of fluid roll over his tongue to relish the flavor and he held it there for a long while before swallowing.  He told me the only way to appreciate wine was to sip it slowly and savor the flavor.  I now think that was just rationalization for not having sufficient funds to order a second glass.  But at the time I was so impressed by his sophistication that for a long time, the only wines I preferred to drink were white wines and I would try to make the flavor last in my mouth a long time.  Many years later, I mentioned this incident to Robert but he said he could not remember it.
 
 
 Once after a meeting, when we were about to go to our respective homes, Robert surprised me by saying he wanted to go home with me.  I was hesitant.  My parents had no phone at the time so I could not ask my mother if it would be all right.  “I have to,” he told me.  “I have no place to sleep tonight.”  That did it.  I said, “Sure.”
@@ -49,7 +49,7 @@ He said, “Absolutely not.”  I asked him why.  He said, “Isn’t it obvious
 Lowndes used to regale us with quotes from early science fiction stories.  He would stand before us and read paragraphs from stories in old magazines from his or Don Wollheim’s collection, and we would groan at what we thought was bad writing.  One such story that drove us to loud laughter involved a manlike robot that was the house servant.  When providing refreshment, the robot was asked by a visitor to join him in a drink.  The robot declined, stating, “The drink affects the delicate enamel of my teeth and once that is gone, the rest soon follows.”  This sentence was repeated so many times in the story that I doubt any of us listeners could ever forget it.  We thought that the robot was the only thing of merit in the story.  It was not made clear whether the robot was referring to the effect of sugar on the teeth and that once the protective enamel was gone, the rest of the teeth soon followed, or whether, as Lowndes believed, considering what the robot was made of, once the enamel was gone, the rest of the robot would also deteriorate and vanish.
 
 
-In those early days, we were often fond of walking long distances around Flatbush, Brooklyn, finally ending up in an ice cream parlor or candy store for sodas.  The basic group included: Wollheim, Michel, Lowndes, Cyril Kornbluth and me.  Occasionally Dick Wilson would join us.  We continued this ritual even after Michel, Wollheim, Kornbluth and Lowndes had decided to room together in the first apartment they jointly rented.
+In those early days, we were often fond of walking long distances around Flatbush, Brooklyn, finally ending up in an ice cream parlor or candy store for sodas.  The basic group included: Wollheim, Michel, Lowndes, [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) and me.  Occasionally [Dick Wilson](https://web.archive.org/web/20120508222224/http://www.juggle.com/richard-wilson) would join us.  We continued this ritual even after Michel, Wollheim, Kornbluth and Lowndes had decided to room together in the first apartment they jointly rented.
 
 
 During each of these walks, Kornbluth would relate a [**shaggy dog story**](/posts/2010-06-11-what-made-the-futurians-laugh-the-shaggy-dog-story/).  It was about an unemployed, destitute man who sees an ad in a paper left on a park bench, offering a huge reward for a lost shaggy dog.  Just then he sees a huge shaggy dog ambling about and becomes convinced this was the one that was lost.  He grabs the dog and endeavors to return it to the owner.  Unfortunately, he meets up with many difficult and life-threatening obstacles on the way to returning the dog and finally, his clothes in rags, many cuts and bruises all over his face and body, he rings the doorbell of the dog’s owner.  A man, obviously a butler, regards him while sniffing snobbishly and asks what he wanted.  “I’ve found your shaggy dog and I’ve come for the reward,” our hero says.  The butler looks at it with disdain and says, “It’s not *that* shaggy,” and slams the door on the man.  It was a pointless and unappealing story, but the fun was in inventing the obstacles that faced the hero.
@@ -81,16 +81,16 @@ One day in late March, during the period when Lowndes was publishing the fanzine
 
 ### 3 Comments
 
-- TAD says:
+- [TAD](https://web.archive.org/web/20120508222224/http://www.tadsbackupplan.blogspot.com/) says:
 This kind of reminiscence is wonderful. I especially liked Cyril’s “voice portending doom.” More, please….
-April 10, 2012, 1:05 am
+[**April 10, 2012, 1:05 am**](/posts/2012-04-10-remembering-robert-w-lowndes-and-the-futurians/)
 - David B. Williams says:
 What a difference 70 years makes. Imagine today, half a dozen shabby young men prowling the streets of Brooklyn; it would not suggest a group of future writers and editors to the modern eye.
-April 10, 2012, 9:26 am
-- Robert Nowall says:
+[**April 10, 2012, 9:26 am**](/posts/2012-04-10-remembering-robert-w-lowndes-and-the-futurians/)
+- [Robert Nowall](https://web.archive.org/web/20120508222224/http://www.robertnowall.com/) says:
 “Each time we took the walk, Cyril Kornbluth would tell this story in his deep melodious voice that made each word sound like a pronouncement of doom.”
 Now that’s something that the printed page can’t convey…something I didn’t realize…
-April 11, 2012, 7:59 am
+[**April 11, 2012, 7:59 am**](/posts/2012-04-10-remembering-robert-w-lowndes-and-the-futurians/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508222224/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508222224/http://dicksmithsoftware.com/)

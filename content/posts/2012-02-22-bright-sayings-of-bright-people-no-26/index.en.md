@@ -28,13 +28,13 @@ Frederik Pohl
 
 ### 2 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20120318115228/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 The reverse also works.
 Need to justify a war with Iraq? Nooooo problem . . .
-February 22, 2012, 6:12 pm
+[**February 22, 2012, 6:12 pm**](/posts/2012-02-22-bright-sayings-of-bright-people-no-26/)
 - Pat says:
 Law’s Law?
-February 24, 2012, 11:31 am
+[**February 24, 2012, 11:31 am**](/posts/2012-02-22-bright-sayings-of-bright-people-no-26/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120318115228/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120318115228/http://dicksmithsoftware.com/)

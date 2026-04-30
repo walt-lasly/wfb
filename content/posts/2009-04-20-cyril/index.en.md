@@ -23,13 +23,13 @@ Frederik Pohl
 {{< figure src="kornbluthcm-150x127.gif" alt="C.M. Kornbluth" caption="C.M. Kornbluth" >}}
 
 
-I think Cyril Kornbluth knew he wanted to be a writer at the age when most of us did, that is in his early teens.  His first efforts, or at least the first I knew anything about, weren’t stories.  They were poems.
+I think [Cyril Kornbluth](https://web.archive.org/web/20090425195253/http://www.luna-city.com/sf/cmk.htm) knew he wanted to be a writer at the age when most of us did, that is in his early teens.  His first efforts, or at least the first I knew anything about, weren’t stories.  They were poems.
 
 
-He owned a book, written by one of his high-school teachers, I think, which gave the rules for composing every kind of verse I ever heard of.  Cyril and I studied the book and resolved to write one of each.  We made a good start, actually writing a **haiku** (we spelled it “hokku”), a **villanelle**, a **sestina**, two **sonnets** (one Petrarchan and one Shakespearean) and I think a couple of others.  We bogged down when we came to the **chant royal** (the chant royal is *HARD*) and, like most of the other  **Futurians**, we decided to try our luck with science fiction.  At that time, I think Cyril was maybe 14, and I three or four years older.
+He owned a book, written by one of his high-school teachers, I think, which gave the rules for composing every kind of verse I ever heard of.  Cyril and I studied the book and resolved to write one of each.  We made a good start, actually writing a [haiku](https://web.archive.org/web/20090425195253/http://www.toyomasu.com/haiku/#whatishaiku) (we spelled it “hokku”), a [villanelle](https://web.archive.org/web/20090425195253/http://www.poets.org/viewmedia.php/prmMID/5796), a [sestina](https://web.archive.org/web/20090425195253/http://www.poets.org/viewmedia.php/prmMID/5792), two [sonnets](https://web.archive.org/web/20090425195253/http://www.poets.org/viewmedia.php/prmMID/5791) (one Petrarchan and one Shakespearean) and I think a couple of others.  We bogged down when we came to the [chant royal](https://web.archive.org/web/20090425195253/http://www.benybont.co.uk/triolet/chant.htm) (the chant royal is *HARD*) and, like most of the other  Futurians, we decided to try our luck with science fiction.  At that time, I think Cyril was maybe 14, and I three or four years older.
 
 
-If Cyril had favorites among his stories, he didn’t tell me about them.  He did take his work seriously and got really testy when editors messed them up.  (Particularly Horace Gold.)
+If Cyril had favorites among his stories, he didn’t tell me about them.  He did take his work seriously and got really testy when editors messed them up.  (Particularly [Horace Gold](https://web.archive.org/web/20090425195253/http://www.iblist.com/author2749.htm).)
 
 
 Cyril had excellent work habits.  When he sat down to write he wrote.  I am not aware that he ever sat unproductive, staring into space, for more than a few minutes at a time before putting words on paper, and he rarely rewrote.
@@ -37,10 +37,10 @@ Cyril had excellent work habits.  When he sat down to write he wrote.  I am not 
 ![F&SF, Jan. 1959](fsf-5901-eggheads.jpg)
 
   
-**F&SF**
-**Bob Mills**
-**Fritz Leiber’s**
-**The Silver Eggheads**
+[F&SF](https://web.archive.org/web/20090425195253/http://www.fandsf.com/)
+[Bob Mills](https://web.archive.org/web/20090425195253/http://www.thewaythefutureblogs.com/remembering-robert-p-mills/)
+[Fritz Leiber’s](https://web.archive.org/web/20090425195253/http://www.waldeneast.fsnet.co.uk/leibercontents.htm)
+[The Silver Eggheads](https://web.archive.org/web/20090425195253/http://www.amazon.com/gp/product/0345216342?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345216342)
 
 
 Unfortunately Cyril’s health was deteriorating.  Partly this was due to the quantities of coffee, cigarettes, hot pastrami sandwiches and alcohol he had been ingesting since his teens, but mostly it was due to the war.  Cyril’s draft number had come up early, but he caught a break.  He had worked for a time in a machine shop and thus had experience of operating metal-working machinery.   This was just what the artillery people wanted, so they recruited him to work in cannon-repair shops, always located far enough from the front lines that the enemy couldn’t sweep  down in a lightning raid and steal the precious machines.  It was the kind of a safe and cushy job that several million GIs would have traded their right testicle to get, but in 1944 what looked like a better deal came along.
@@ -54,7 +54,7 @@ Cyril applied, was accepted and went happily back to school, though in uniform �
 ![His Share of Glory: The Complete Short Science Fiction of C.M. Kornbluth](kornbluth-600-202x300.jpg)
 
   
-**Battle of the Bulge**
+[Battle of the Bulge](https://web.archive.org/web/20090425195253/http://www.pbs.org/wgbh/amex/bulge)
 
 
 The hypertension won. Cyril’s editorial career was cut short — a pity, because he would have been an outstanding one.  Early in spring of 1958 he had a meeting scheduled with Bob Mills in New York.  It had snowed heavily in Levittown, where Cyril lived.  He had to shovel out his driveway, which made him just barely able to catch his train, so he ran to the train station and died of a heart attack on the platform.
@@ -62,34 +62,34 @@ The hypertension won. Cyril’s editorial career was cut short — a pity, becau
 
 **C.M. Kornbluth works online**
 
-- “**The Only Thing We Learn**” (From Startling Stories, July 1949)
-- “**The Mindworm**” (From Worlds Beyond, December, 1950)
-- “**The Cosmic Expense Account**” (From F&SF, January 1956)
+- “[The Only Thing We Learn](https://web.archive.org/web/20090425195253/http://www.webscription.net/chapters/0671698265/0671698265___7.htm)” (From Startling Stories, July 1949)
+- “[The Mindworm](https://web.archive.org/web/20090425195253/http://www.scifi.com/scifiction/classics/classics_archive/kornbluth/kornbluth1.html)” (From Worlds Beyond, December, 1950)
+- “[The Cosmic Expense Account](https://web.archive.org/web/20090425195253/http://manybooks.net/titles/kornbluthcother08cosmic_expense_account.html)” (From F&SF, January 1956)
 
 
-C.M. Kornbluth on Amazon
+[C.M. Kornbluth on Amazon](https://web.archive.org/web/20090425195253/http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref%255F%3Dnb%255Fss%255Fb%26y%3D0%26field-keywords%3Dc%2520m%2520kornbluth%26url%3Dsearch-alias%253Dstripbooks&tag=7159-20&linkCode=ur2&camp=1789&creative=390957)
 
 
 ### 5 Comments
 
-- steve davidson says:
+- [steve davidson](https://web.archive.org/web/20090425195253/http://www.rimworlds.com/thecrotchetyoldfan) says:
 Fred, thank you very much for sharing this with us.  I’ve loved both Cyril and your writings and am very fond of the novels your wrote together.  It brought me closer to Cyril to learn some things about him that I didn’t know.
-April 20, 2009, 8:49 am
-- Luke McGuff says:
+[**April 20, 2009, 8:49 am**](/posts/2009-04-20-cyril/)
+- [Luke McGuff](https://web.archive.org/web/20090425195253/http://holyoutlaw.livejournal.com/) says:
 Thank you for writing these memories. I, too, count your collaborations among my favorite sf novels from my golden age.
-April 20, 2009, 12:47 pm
-- Stefan Jones says:
-The collection shown (His Share of Glory) is full of wonderful stuff, and highly recommended. Kornbluth was writing satirical fantasy decades before guys like Aspirin and Pratchett made it popular.
+[**April 20, 2009, 12:47 pm**](/posts/2009-04-20-cyril/)
+- [Stefan Jones](https://web.archive.org/web/20090425195253/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) says:
+The collection shown (*His Share of Glory*) is full of wonderful stuff, and highly recommended. Kornbluth was writing satirical fantasy decades before guys like Aspirin and Pratchett made it popular.
 Note to time travelers who might read this: Consider hopping back to 1958, renting a jeep, and offering the guy a lift.
-April 20, 2009, 1:39 pm
-- Elio M. García, Jr. says:
+[**April 20, 2009, 1:39 pm**](/posts/2009-04-20-cyril/)
+- [Elio M. García, Jr.](https://web.archive.org/web/20090425195253/http://www.westeros.org/) says:
 I was just starting junior high school (this would place it about 19 years ago now) when I fell in love with science fiction. I devoured the books my school and local libraries had, and of course it slanted towards novels and collections containing the great, classic authors. Asimov, Heinlein, Clarke… and Kornbluth (and, if I may say so, Pohl). Early on I read a biographical clip about Cyril, and it struck me (even at that young age) as a real tragedy that he died so young when he wrote such wonderful stories. 
 Thank you for sharing your recollections of him.
-April 21, 2009, 2:53 am
+[**April 21, 2009, 2:53 am**](/posts/2009-04-20-cyril/)
 - Scott Hauger says:
 Just a note to let you know that I really appreciate and enjoy reading your blog, especially the biographical memoirs of sf authors.  I am old enough to have read a couple of your collaborations with Cyril Kornbluth when they first came out, (as well as most all the Heinlein \"juveniles\"}.  
 My favorites, though are the Gateway novels.  How did you come by the underlying concept for them?
-April 21, 2009, 9:23 pm
+[**April 21, 2009, 9:23 pm**](/posts/2009-04-20-cyril/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090425195253/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090425195253/http://dicksmithsoftware.com/)

@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Ken says:
 There’s a reason most people don’t smoke a corn cob pipe – you look like an idiot.
-November 19, 2012, 8:05 pm
+[**November 19, 2012, 8:05 pm**](/posts/2012-11-18-bright-sayings-of-bright-people-no-36/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20130128062954/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20130128062954/http://dicksmithsoftware.com/)

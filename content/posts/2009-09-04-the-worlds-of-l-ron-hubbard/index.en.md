@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![Writers of the Future](wotf.jpg)
 
-When people ask me why I became a judge for the “Writers of the Future” contest, I tell them that it was AJ Budrys’s fault.  Until AJ worked his will on me, I was making it a point to stay as far as I could from Dianetics and Scientology and all the other weird things that my hero and mentor John Campbell had chosen to believe in.  (Hieronymus Machine, Dean Drive, et many a c.)
+When people ask me why I became a judge for the “[Writers of the Future](https://web.archive.org/web/20091002073652/http://www.writersofthefuture.com/)” contest, I tell them that it was [AJ Budrys’s](https://web.archive.org/web/20091002073652/http://web.archive.org/web/20070916043153/http://www.writersofthefuture.com/intrview/albudrys/index.htm) fault.  Until AJ worked his will on me, I was making it a point to stay as far as I could from [Dianetics and Scientology](https://web.archive.org/web/20091002073652/http://fancyclopedia.editme.com/SCIENTOL) and all the other weird things that my hero and mentor [John Campbell](https://web.archive.org/web/20091002073652/http://www.empsfm.org/exhibitions/index.asp?articleID=926) had chosen to believe in.  ([Hieronymus Machine](https://web.archive.org/web/20091002073652/http://fancyclopedia.editme.com/HIERONYM), [Dean Drive](https://web.archive.org/web/20091002073652/http://jerrypournelle.com/science/dean.html#deandrive), et many a c.)
 
 
 It wasn’t simply that I didn’t believe in Scientology as a religion.  I didn’t, but then I don’t believe in your religion, either, whatever it happens to be, because I don’t “believe” in anything that has to be taken on faith.  People who take faith-based actions have caused many, probably most, of the world’s messiest disasters, from our present economic catastrophe to most, maybe all, wars.
@@ -30,10 +30,10 @@ It wasn’t simply that I didn’t believe in Scientology as a religion.  I didn
 {{< figure src="budrys2.jpg" alt="Algis Budrys" caption="Algis Budrys" >}}
 
 
-So when AJ phoned me one morning to invite me to become a judge in the new “Writers of the Future” contest sponsored in L. Ron Hubbard’s name by  the Scientologists, I didn’t let him tell me how nicely they would treat me and what a wonderful deal it would be for struggling writers.  I just said no and declined to discuss it.
+So when AJ phoned me one morning to invite me to become a judge in the new “Writers of the Future” contest sponsored in [L. Ron Hubbard’s](https://web.archive.org/web/20091002073652/http://www.gcwillick.com/Spacelight/hubblron.html) name by  the Scientologists, I didn’t let him tell me how nicely they would treat me and what a wonderful deal it would be for struggling writers.  I just said no and declined to discuss it.
 
 
-That’s where it stood for a few months, until AJ got back on the phone.  He reminded me that when I turned him down, he had recruited Theodore Sturgeon to take my place as a judge, and then sorrowfully let me know that it wasn’t working out.  Ted’s health had begun to fail.  He was now hospitalized, at death’s door and with no hope of recovery — or of managing to read the dozen manuscripts that were sitting by his hospital bed, written by the first group of contestants, who had already been waiting far longer than was fair.  So would I please, just this once —?
+That’s where it stood for a few months, until AJ got back on the phone.  He reminded me that when I turned him down, he had recruited [Theodore Sturgeon](https://web.archive.org/web/20091002073652/http://www.gcwillick.com/Spacelight/sturgeon.html) to take my place as a judge, and then sorrowfully let me know that it wasn’t working out.  Ted’s health had begun to fail.  He was now hospitalized, at death’s door and with no hope of recovery — or of managing to read the dozen manuscripts that were sitting by his hospital bed, written by the first group of contestants, who had already been waiting far longer than was fair.  So would I please, just this once —?
 
 
 How could I refuse?  I couldn’t.  I didn’t.  I told AJ to ship me the damn manuscripts.  When they arrived I put everything else aside to read them — I was working as Bantam’s science-fiction editor in those years,  plus writing my own books, and so without a lot of spare time on my hands.  Then I read parts of the stories again.  Then I emailed my votes to Author Services, which is the action wing of “Writers of the Future,” and then I went back to my life, feeling pleased with myself for having given a friend a helping hand in an hour of need.  And then — Well, then things changed.
@@ -60,7 +60,7 @@ Oh, not without occasional qualms.
 I said that the contest is a good thing for writers, which it is, but even good things may have some flaws.  There’s more of the idolatry in the annual awards ceremony than there used to be.  Ron’s name is everywhere, the giant photos of him stare down from the stage and, perhaps most of all, there is the way almost every winner prefaces his remarks with thanks to Ron for making the whole thing possible.  All of that is the unarguable right of the organizers, of course, since they pay the piper, but it strikes me as annoyingly heavy-handed.
 
 
-Nevertheless, when unpublished writers ask for advice about how to get their careers moving I always advise them to enter their stories in the WotF contest.  It’s easy enough to do.  You go to a bookstore and ask them for a copy of **L. Ron Hubbard Presents Writers of the Future**. Each copy contains an entry blank, with the contest’s address, and a copy of the rules and rewards. (Or you can get them off the web, but it’s a good idea to read some of the winning stories.) Type out a nice clean copy of your best story and send it in to that address.  Three months later, do the same with your second best story.  Three months after that, your third best, and you keep on doing that every three months until you run out of stories.  (Which actually you should never do.  You’re still writing, aren’t you?)
+Nevertheless, when unpublished writers ask for advice about how to get their careers moving I always advise them to enter their stories in the WotF contest.  It’s easy enough to do.  You go to a bookstore and ask them for a copy of [L. Ron Hubbard Presents Writers of the Future](https://web.archive.org/web/20091002073652/http://www.amazon.com/gp/product/1592123740?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592123740). Each copy contains an entry blank, with the contest’s address, and a copy of the rules and rewards. (Or you can get them off the web, but it’s a good idea to read some of the winning stories.) Type out a nice clean copy of your best story and send it in to that address.  Three months later, do the same with your second best story.  Three months after that, your third best, and you keep on doing that every three months until you run out of stories.  (Which actually you should never do.  You’re still writing, aren’t you?)
 
 
 The reason for doing it that way is that the contest is organized on a quarterly basis.  Every three months, the staff gathers up all the stories that have accumulated in that period, makes copies for each quarterly judge and ships them out.  When the judges have finished their deliberations, the winner gets $1,000, with lesser amounts for second and third place.  Then, when the fourth quarter has been dealt with, the four quarterly winners go to a different set of judges, who pick the grand winner, who gets another $4,000, to make the total an even Five Large.  (An amount which seemed a lot more impressive twenty-odd years ago than it does now, but, hey, that doesn’t mean it isn’t worth having.)
@@ -89,7 +89,7 @@ I could be wrong, of  course.  But I don’t think so.
 
 Author Services has also reprinted quite a chunk of Ron’s actual 70-some-years-old fiction which, I believe, the students are encouraged to read and learn from.  Read them, sure, if you like.  But I wouldn’t think you want to use any of them as models for your own work.  There’s not much market for 1930s-vintage pulp in this part of the 21st century.  That is, there isn’t unless — sometimes — it happens to be written by L. Ron himself.  
 
-Let me try to explain what I mean by that.  Nearly thirty years ago a book called **Battlefield Earth** appeared under Ron’s byline.   My copy reached me around dinnertime on a day when I had just finished packing for a next-day flight to Europe.  It was a thick book, science fiction, written in Ron’s familiar, over-the-top, buckeye satirical style.  Having finished eating and all the domestic business of putting the kids to bed and so on, I remembered the book and carried it up to my office on the third floor, meaning to look it over when I got back from wherever it was I was going that time.
+Let me try to explain what I mean by that.  Nearly thirty years ago a book called [Battlefield Earth](https://web.archive.org/web/20091002073652/http://www.amazon.com/gp/product/1592120539?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592120539) appeared under Ron’s byline.   My copy reached me around dinnertime on a day when I had just finished packing for a next-day flight to Europe.  It was a thick book, science fiction, written in Ron’s familiar, over-the-top, buckeye satirical style.  Having finished eating and all the domestic business of putting the kids to bed and so on, I remembered the book and carried it up to my office on the third floor, meaning to look it over when I got back from wherever it was I was going that time.
 
 
 But I glanced at the opening pages before I put it on the when-I-get-a-free-minute shelf.  And then I read the next page or two.
@@ -107,7 +107,7 @@ Now, I can’t account for this.  I’ve read a lot of really great books in my 
 I’m not even comfortable in saying that *Battlefield Earth* is a good book.  In many ways it isn’t.  In some qualities, like style and plausibility and depth of characterization, you’d have to say that Ron had a tin ear, but it sold a lot of copies and they weren’t all to devout Scientologists.
 
 
-Is a puzzlement.  Especially when you consider that Ron’s success with *Battlefield Earth* inspired him to sit down and write the longest science-fiction novel in history, and one of the worst, the disastrous ten-volume **Mission Earth**.  That one didn’t keep me up all night to read.  I couldn’t finish even a single volume.
+Is a puzzlement.  Especially when you consider that Ron’s success with *Battlefield Earth* inspired him to sit down and write the longest science-fiction novel in history, and one of the worst, the disastrous ten-volume [Mission Earth](https://web.archive.org/web/20091002073652/http://www.amazon.com/gp/product/1592120229?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592120229).  That one didn’t keep me up all night to read.  I couldn’t finish even a single volume.
 
 
 So what made the difference?
@@ -129,94 +129,97 @@ By the way, collectively the winners of Woffie awards have compiled an impressiv
 
 - susanna says:
 I used to be a subscriber to this blog. I will unsubscribe now.
-September 4, 2009, 3:52 am
+[**September 4, 2009, 3:52 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 - AnonForThis says:
 “…I’ve never heard it said that Scientologists have murdered anyone.”
 You might want to look up Lisa McPherson sometime.
-http://en.wikipedia.org/wiki/Lisa_McPherson
+[http://en.wikipedia.org/wiki/Lisa_McPherson](https://web.archive.org/web/20091002073652/http://en.wikipedia.org/wiki/Lisa_McPherson)
 Normally I post under my real name, but I really don’t want to become Fair Game.  You might want to look up that term, too.
-http://en.wikipedia.org/wiki/Fair_Game_%28Scientology%29
-September 4, 2009, 5:08 am
-- xenovalent says:
+[http://en.wikipedia.org/wiki/Fair_Game_%28Scientology%29](https://web.archive.org/web/20091002073652/http://en.wikipedia.org/wiki/Fair_Game_%28Scientology%29)
+[**September 4, 2009, 5:08 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [xenovalent](https://web.archive.org/web/20091002073652/http://www.r4nger5.com/) says:
 Fred, you never heard that Scientologists murdered anyone? Okay, it’s true that they’ve never been convicted, but there’s certainly been some suspicious goings-on in Clearwater, FL.  Here’s a link an article from the the St. Petersburg Times that perhaps you should read:
-http://pqasb.pqarchiver.com/sptimes/access/23570056.html?dids=23570056:23570056&FMT=FT&FMTS=ABS:FT&date=Dec+7%2C+1997&author=LUCY+MORGAN&pub=St.+Petersburg+Times&edition=&startpage=1.A&desc=For+some+Scientologists%2C+pilgrimage+has+been+fatal+Series%3A+SCIENTOLOGY
-September 4, 2009, 5:09 am
-- SebiMeyer says:
+[http://pqasb.pqarchiver.com/sptimes/access/23570056.html?dids=23570056:23570056&FMT=FT&FMTS=ABS:FT&date=Dec+7%2C+1997&author=LUCY+MORGAN&pub=St.+Petersburg+Times&edition=&startpage=1.A&desc=For+some+Scientologists%2C+pilgrimage+has+been+fatal+Series%3A+SCIENTOLOGY](https://web.archive.org/web/20091002073652/http://pqasb.pqarchiver.com/sptimes/access/23570056.html?dids=23570056:23570056&FMT=FT&FMTS=ABS:FT&date=Dec+7%2C+1997&author=LUCY+MORGAN&pub=St.+Petersburg+Times&edition=&startpage=1.A&desc=For+some+Scientologists%2C+pilgrimage+has+been+fatal+Series%3A+SCIENTOLOGY)
+[**September 4, 2009, 5:09 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [SebiMeyer](https://web.archive.org/web/20091002073652/http://www.sebimeyer.com/) says:
 “On the other hand, they’re not the only religion that has done lousy things, and at least I’ve never heard it said that Scientologists have murdered anyone.”
 No offence, but then you clearly have not been paying any attention.
 A core “belief” in the “church” of Scientology is that anyone who leaves the church has to be punished by the church. Completely destroying peoples lives is as bad as outright murder. But there has been murder as well.
 I am all for freedom of religion, but Scrientology has done so many bad things, it should under no circumstances be understood to be “just another religion.”
-September 4, 2009, 7:19 am
-- Jeff says:
+[**September 4, 2009, 7:19 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Jeff](https://web.archive.org/web/20091002073652/http://jeffcrook.blogspot.com/) says:
 I wish I had gone that route, but when I first started trying to publish my stories, I had never heard of the contest. Too late now.
-September 4, 2009, 8:51 am
-- Robert Nowall says:
+[**September 4, 2009, 8:51 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Robert Nowall](https://web.archive.org/web/20091002073652/http://www.robertnowall.com/) says:
 Maybe some of the stuff I submitted to the WoTF (when I was still doing it) passed by your way at some point.  For which, I just want to say, I’m sorry.
-September 4, 2009, 10:24 am
+[**September 4, 2009, 10:24 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 - Susan says:
 Of course none of us knew Hubbard or Campbell like you did and don’t have any idea what scientology was supposed to be but please do not call it a religion. It is a crime syndicate that uses mind control techniques. Nothing else.
-September 4, 2009, 2:25 pm
+[**September 4, 2009, 2:25 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 - Susan says:
 Please go the the website run by survivors and escapees who were born into it. 
 exscientologykids(dot)com
-September 4, 2009, 2:27 pm
-- Amnon says:
+[**September 4, 2009, 2:27 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Amnon](https://web.archive.org/web/20091002073652/http://www.whyweprotest.net/) says:
 Dear Mr Pohl,
 You write : \"To begin with, there are some pretty unpleasant things that have been said about pernicious practices of Scientology, and I believe that at least some of them are true. On the other hand, they’re not the only religion that has done lousy things, and at least I’ve never heard it said that Scientologists have murdered anyone.\"
-I\’d suggest you to visit
-http://www.lisamcpherson.org/
+I\’d suggest you to visit  
+
+[http://www.lisamcpherson.org/](https://web.archive.org/web/20091002073652/http://www.lisamcpherson.org/)
 And BTW, thank you for your work. I\’ve read your books and will read them again!  
-Yours,
+Yours,  
+
  A.
-September 4, 2009, 2:43 pm
-- Gary Farber says:
+[**September 4, 2009, 2:43 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Gary Farber](https://web.archive.org/web/20091002073652/http://amygdalagf.blogspot.com/) says:
 “…and at least I’ve never heard it said that Scientologists have murdered anyone.”
-Over ten years ago.  
-After years they paid out on that one.
-More.
-Among other things they do is have some of the most systematic campaigns on the planet to try to harass websites to take down anything they perceive as anti-Scientologist.  
+Over [ten years ago](https://web.archive.org/web/20091002073652/http://www.sptimes.com/TampaBay/111498/Scientology_charged_i.html).  
+After years they [paid out](https://web.archive.org/web/20091002073652/http://www.sptimes.com/2004/05/29/Tampabay/Scientologists_settle.shtml) on that one.
+[More](https://web.archive.org/web/20091002073652/http://www.scientology-lies.com/crimesindex.html).
+Among other things they do is have some of the most systematic campaigns on the planet to try to [harass websites](https://web.archive.org/web/20091002073652/http://en.wikipedia.org/wiki/Scientology_controversies#.22Attack_the_Attacker.22_policy) to take down anything they perceive as anti-Scientologist.  
 Their overall strategy is to co-opt famous people in a given field to give them an aura of respectability.  It’s very successful.
-September 5, 2009, 11:16 am
-- Stefan Jones says:
+[**September 5, 2009, 11:16 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Stefan Jones](https://web.archive.org/web/20091002073652/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) says:
 This was a nice meaty entry.
 The WOtT contest strikes me as the least offensive thing associated with Scientology. I remember reading a few of the early collections and enjoying them.
 Scientology, as it exists today, is problematical in two ways. One, it is currently inseparable from a ruthless and avaricious business enterprise. Second, it hasn’t had its sharp edges worn off yet. It would take schisms and time to fix the latter, and some lawsuits and tax avoidance indictments to fix the former.
 I can think of another religion of American origin that has gone from a life-disrupting charismatic cult to something very much like a mainstream protestant denomination. That faith has had its crazy worked out it.
-September 5, 2009, 11:21 pm
-- Lee Battersby says:
+[**September 5, 2009, 11:21 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Lee Battersby](https://web.archive.org/web/20091002073652/http://battersblog.blogspot.com/) says:
 Perhaps another, slightly more ephemeral, part of the WoTF prize should be mentioned– I live in Western Australia, just past where civilized maps tend to end. When I won in 2001, and was shipped over to LA in 2002 to attend the workshops, I was able to do something I never quite imagined I’d be able to do otherwise: meet and converse with writers I’d been reading all my life and whose works had inspired my younger self. I chatted with Jerry Pournelle about computer tech in a hotel corridor; practised forging Virgil Finlay’s signature with Tim Powers while waiting for transport on a Hollywood sidewalk; talked about Star Trek breeding with Larry Niven… I even got to sit next to one Fred Pohl at dinner  
 As far as life experiences go, for me at least, such things have lasted much, *much* longer than the prize money.
-September 6, 2009, 9:41 pm
-- Librarian D.O.A. says:
+[**September 6, 2009, 9:41 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Librarian D.O.A.](https://web.archive.org/web/20091002073652/http://librariandoa.blogspot.com/) says:
 It is so nice to find your blog!  I’ll have the pleasure of reading back through your entries. I’m so glad that someone as thoughtful and distinguished in the field of science fiction as yourself is writing a blog.
 You have so much to share and I thank you for doing so.  Take Care.
-September 9, 2009, 6:59 am
+[**September 9, 2009, 6:59 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 - Marc says:
 What a great entry and truly unique insight into Scientology and WotF.
 I have no fixed abode in terms of religious belief and find “religion” a fascinating subject. Thank you for sharing!
 Scientology certainly is a subject that draws a crowd.
-September 9, 2009, 8:09 am
-- Fred Kiesche says:
+[**September 9, 2009, 8:09 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Fred Kiesche](https://web.archive.org/web/20091002073652/http://theeternalgoldenbraid.blogspot.com/) says:
 My theory was that A.E. van Vogt was tapped for Battlefield Earth, dashed it off and was shocked when it sold so well. I don\\\’t have any theory as to who wrote Mission Earth.
-September 9, 2009, 12:58 pm
-- Lee Battersby says:
-I don’t have any theory as to who wrote Mission Earth.
+[**September 9, 2009, 12:58 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Lee Battersby](https://web.archive.org/web/20091002073652/http://battersblog.blogspot.com/) says:
+*I don’t have any theory as to who wrote Mission Earth.*
 Monkeys. Lots and lots of monkeys.
-September 10, 2009, 12:07 am
+[**September 10, 2009, 12:07 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 - Fabian of the Future says:
 An interesting a moderate approach. Every aspiring writer I’ve met has trepidations about this contest’s associations. Some choose not to enter. Some enter and have a various rationales for doing so.
 It’s a free country and people can believe as they wish. This isn’t to say that the children of scientologykids don’t have legitimate issues with the church.
 The contest is not separate from the church, but the awards appear to be arrived at independently. There is no stigma attached to winning. 
 It reminds me of the sponsors of artists in centuries past. Someone has to bankroll these things, and how they got their money isn’t always snow white. If Rembrandt or Michelangelo refused patronage and starved rather than take tainted money, would the world have lost the art?
 Thanks for the thoughtful article!
-September 22, 2009, 10:54 am
-- Jafafa Hots says:
+[**September 22, 2009, 10:54 am**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [Jafafa Hots](https://web.archive.org/web/20091002073652/http://jafafahots.blogspot.com/) says:
 A religion is not a religion because it’s a crime syndicate? Baloney.
-It’s entirely possible to be both a religion and arguably a criminal enterprise. Look at the official Catholic policy of protecting accused pedophiles and hiding accusations of child rape until 20 years after the victim reaches adulthood - a policy written by the current pope himself. The Catholic church certainly has a profit motive.
+It’s entirely possible to be both a religion and arguably a criminal enterprise. Look at the official Catholic policy of protecting accused pedophiles and hiding accusations of child rape until 20 years after the victim reaches adulthood - a policy written by the current pope himself. The Catholic church certainly has a profit motive.  
+
 Crime syndicate.
 And I’m not picking on the Catholic church to single them out, it’s just that they happen to be particularly powerful and great power gives you opportunity to abuse it. There are horror stories that can be told about the Amish, who have about as positive a public image as a religion can get.
 Don’t look at one religion and claim it doesn’t qualify because of its crimes while overlooking the crimes of others and your own.
-September 23, 2009, 4:04 pm
+[**September 23, 2009, 4:04 pm**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20091002073652/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20091002073652/http://dicksmithsoftware.com/)

@@ -23,10 +23,10 @@ Frederik Pohl
 {{< figure src="jackgillespie.jpg" alt="Jack Gillespie" caption="Jack Gillespie" >}}
 
 
-Jack Gillespie was the shortest of the Futurians and the most likely to be up for any fun idea anyone had.
+Jack Gillespie was the shortest of the [**Futurians**](/posts/2009-05-08-the-quadrumvirate/) and the most likely to be up for any fun idea anyone had.
 
 
-Jack’s parents were divorced.  He lived with his mother, a devotee of, among other composers, Richard Wagner. His father ran a trucking service with an unwonted record of having merchandise fall off the backs of the trucks, so Jack always had plenty of cigarettes and Milky Ways.
+Jack’s parents were divorced.  He lived with his mother, a devotee of, among other composers, [Richard Wagner](https://web.archive.org/web/20170707112302/http://users.utu.fi/hansalmi/wagner.html). His father ran a trucking service with an unwonted record of having merchandise fall off the backs of the trucks, so Jack always had plenty of cigarettes and Milky Ways.
 
 
 Jack and I, having nothing much to do and plenty of time to do it in, would sometimes begin to write three-act plays, and sometimes kill a weekend by hitchhiking to, say, Washington, where my Uncle Les was a motorcycle cop and sometimes was reasonably glad to see us.
@@ -40,9 +40,9 @@ We exchanged letters in regard to a number of little-known American poets for a 
 
 ### One Comment
 
-- Robert Nowall says:
+- [Robert Nowall](https://web.archive.org/web/20170707112302/http://www.robertnowall.com/) says:
 Washington DC or Washington state?  I’m pretty sure of which one, from what I’ve read over the years, but just want to be sure…
-December 30, 2010, 9:03 am
+[**December 30, 2010, 9:03 am**](/posts/2010-12-30-jack-gillespie-elf-among-the-authors/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707112302/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707112302/http://dicksmithsoftware.com/)

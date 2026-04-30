@@ -25,5 +25,5 @@ Frederik Pohl
 **“I want death to find me planting my cabbages, but careless of death, and still more of my unfinished garden.”
 —Michel de Montaigne**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416150848/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416150848/http://dicksmithsoftware.com/)

@@ -43,10 +43,10 @@ For further details, email the blog team at blog@thewaythefutureblogs.com.
 
 - John Armstrong says:
 I’ll be there in spirit. Fred was a huge influence over the last 45 years. He’s greatly missed
-July 14, 2014, 1:46 pm
+[**July 14, 2014, 1:46 pm**](/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/)
 - Carlos Federici says:
 Dear Mrs. Pohl: Thanks for sending the bulletin about the Master’s Memorial. He deserves that hommage and our remembrance. I shared the notice through my “Facebook” account. I do not like the social nets a lot, but in occasions like this I gladly use it. My greetings to you.
-July 19, 2014, 1:25 am
+[**July 19, 2014, 1:25 am**](/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416225831/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416225831/http://dicksmithsoftware.com/)

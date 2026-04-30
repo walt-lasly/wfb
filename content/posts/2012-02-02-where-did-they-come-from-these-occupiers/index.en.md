@@ -43,24 +43,24 @@ The tents and sleeping bags were hauled away in a midnight raid, so that technic
 
 ### 7 Comments
 
-- Grego says:
-The incident where University of California-Davis Police officer and former Marine Sargent Lieutenant John Pike pepper sprayed the seated, nonviolent students happened on the UC Davis campus on Nov 18, 2011.
-Wikipedia has a summary of police epic fails with regard to the Occupy movement, but they miss some lovely stuff like the officer purposely running over a guy and parking his motorcycle on the man’s foot and the  police in Berkeley, CA beating peacefully protesting students, professors and Nobel Laureates.
-February 2, 2012, 2:23 am
-- Robert Nowall says:
+- [Grego](https://web.archive.org/web/20120422090358/http://occupywallst.org/) says:
+The [incident where University of California-Davis Police officer and former Marine Sargent Lieutenant John Pike pepper sprayed the seated, nonviolent students](https://web.archive.org/web/20120422090358/http://en.wikipedia.org/wiki/Occupy_UC_Davis#Pepper_spray_incident) happened on the UC Davis campus on Nov 18, 2011.
+Wikipedia has a [summary of police epic fails with regard to the Occupy movement](https://web.archive.org/web/20120422090358/http://en.wikipedia.org/wiki/Law_enforcement_and_the_Occupy_movement), but they miss some lovely stuff like the [officer purposely running over a guy and parking his motorcycle on the man’s foot](https://web.archive.org/web/20120422090358/http://www.youtube.com/watch?v=5pkV2ZKpyFM) and the  [police in Berkeley, CA beating peacefully protesting students, professors and Nobel Laureates](https://web.archive.org/web/20120422090358/http://www.youtube.com/watch?v=B_f06VQOkI4).
+[**February 2, 2012, 2:23 am**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
+- [Robert Nowall](https://web.archive.org/web/20120422090358/http://www.robertnowall.com/) says:
 I’m gonna say what I should’a said the last time you brought this up.  The next time the Occupy Wall Streeters get caught defecating on someone’s car, may it be yours.
-February 2, 2012, 8:29 am
+[**February 2, 2012, 8:29 am**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
 - Mo says:
 Robert: the next time the regular denizens of Wall St get caught defecating on someone’s economy, may it be yours.
 Oh, but that already happened, didn’t it?
-February 3, 2012, 10:44 am
-- Steven says:
+[**February 3, 2012, 10:44 am**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
+- [Steven](https://web.archive.org/web/20120422090358/http://www.mcneese.edu/) says:
 Of course Robert, ALL Occupy members do that, right? And no one on the other side bombs abortion clinics, shoots doctors, or government buildings. Remember Timothy McVeigh?–and yes, these all represent extreme actions and/or views that do not represent that of the right as a whole, nor even that of the militia or Pro Life movements, but just comparing apples to apples here.
-February 3, 2012, 11:25 am
-- Dan Gollub says:
+[**February 3, 2012, 11:25 am**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
+- [Dan Gollub](https://web.archive.org/web/20120422090358/http://dreampattern.com/) says:
 All power to the party. All power to our revolutionary leaders. All power to our revolutionary followers. Together we shall use our electric toothbrushes and take vitamin C. And then the party will be over.
-February 3, 2012, 2:29 pm
-- Bruce Arthurs says:
+[**February 3, 2012, 2:29 pm**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
+- [Bruce Arthurs](https://web.archive.org/web/20120422090358/http://undulantfever.blogspot.com/) says:
 Robert, the person most likely to shit on your car or other property is a rich person.
 I mean that literally.  For the last three years, I’ve worked security at a very upscale shopping/office development in Scottsdale, AZ.  The customers there are one-percenters and wanna-be one-percenters.  Previous to working there, I did security at mid-range shopping centers, with big-box stores, WalMarts, etc.
 The upscale place is the ONLY place where public defecation has been a problem.  Frequently enough that I call the late-night sweep on the parking garages’ roof levels “The Turd Patrol”.
@@ -68,12 +68,12 @@ I’ve also had to deal with public urination (four times in two hours, one bad 
 Again, these are things I never saw, or saw a lot less frequently, at the middle-range properties.
 It’s an attitude I’ve come to call Scottsdale Syndrome: “I drive a BMW, so fuck you.”  Too much money, too much privilege = too much bad behavior.
 The property management there is moving to an in-house security team, rather than the contracted service I’m part of, so tonight will actually be the last night I’ll be working there.  Don’t know where my next job will be, or when my next paycheck will be, but the strongest feeling I have about leaving there is relief.
-February 5, 2012, 12:22 pm
-- Richard says:
+[**February 5, 2012, 12:22 pm**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
+- [Richard](https://web.archive.org/web/20120422090358/http://estoreal.blogspot.com/) says:
 Robert, someone disagrees with you politically and you literally wish that person excrement.  What’s more, you come around to the blog of someone you disdain purely to harass him and the rest of us.  If this is your attempt to persuade anyone that your views are intelligent and thoughtful, or to persuade us not to dismiss you as a ranting crank, may I suggest you are not your own best advocate?
 (And there ends my first and last feeding of the troll.)
 For the record, anyone else, that guy who took a dump on a police car was almost certainly a mentally ill homeless person hanging around the park at the time — something tragically common in New York City parks.  (Mentally ill people were in fact directed to Zuccotti Park by the police to increase the aggravation factor and to spark conflicts.)  There was never anything linking him to OWS and no one there seems to have known of him, but a conveniently well-timed photo provided a useful visual with which to slur the Occupy movement.  And that’s really all there was to that.
-February 6, 2012, 1:59 am
+[**February 6, 2012, 1:59 am**](/posts/2012-02-02-where-did-they-come-from-these-occupiers/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120422090358/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120422090358/http://dicksmithsoftware.com/)

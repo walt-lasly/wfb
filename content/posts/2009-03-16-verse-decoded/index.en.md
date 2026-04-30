@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![exclamation point](exclam-sm.gif)
 
-A while ago, I gave some early examples of my poetic period (which, roughly, lasted from age 14 to age 19, with a few later relapses).  One was a sort of puzzle, entitled “!” which went like this:
+[**A while ago**](/posts/2009-01-30-the-poetry-corner/), I gave some early examples of my poetic period (which, roughly, lasted from age 14 to age 19, with a few later relapses).  One was a sort of puzzle, entitled “!” which went like this:
 
 
 {{< poem title="!" >}}
@@ -34,11 +34,11 @@ A while ago, I gave some early examples of my poetic period (which, roughly, las
 {{< /poem >}}
 
 
-Some of you managed to interpret this pretty well, but for those who didn’t, I will read it to you:
+[**Some of you**](/posts/2009-01-30-the-poetry-corner/) managed to interpret this pretty well, but for those who didn’t, I will read it to you:
 
 > ![listen](play.gif)
 
-> **“!”**
+> [“!”](https://web.archive.org/web/20090326021758/http://www.thewaythefutureblogs.com/wp-content/uploads/2009/03/frederik-pohl_exclamation-point_2009.mp3)
 
 
 Or “Continue reading” for a translation.
@@ -65,12 +65,12 @@ The words “my frand” are in there only because I was stuck for a rhyme, but 
 ### 2 Comments
 
 - PJ says:
-Cool, a precursor to this: http://poetry.about.com/od/poetryplay/l/blwakawaka.htm
+Cool, a precursor to this: [http://poetry.about.com/od/poetryplay/l/blwakawaka.htm](https://web.archive.org/web/20090326021758/http://poetry.about.com/od/poetryplay/l/blwakawaka.htm)
 You were breaking ground even then 
-March 16, 2009, 10:33 pm
+[**March 16, 2009, 10:33 pm**](/posts/2009-03-16-verse-decoded/)
 - Marcel says:
 This is just beautiful. Genius.
-March 21, 2009, 9:28 pm
+[**March 21, 2009, 9:28 pm**](/posts/2009-03-16-verse-decoded/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090326021758/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090326021758/http://dicksmithsoftware.com/)

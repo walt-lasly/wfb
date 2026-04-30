@@ -31,27 +31,27 @@ Cathy Pizarro, Betty’s oldest daughter, who helps Betty and me deal with compu
 
 ### 6 Comments
 
-- JJ Brannon says:
+- [JJ Brannon](https://web.archive.org/web/20120810061407/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 Congratulations to her.
 You’re both inspirations to those of us who have yet to decide what we’re going to be when we grow up.
 It’s never too late!
 JJB
-May 15, 2012, 11:32 pm
+[**May 15, 2012, 11:32 pm**](/posts/2012-05-15-blog-helper-out-gets-degree/)
 - Paul Wolf says:
 Congratulations!  I hope she feels proud of herself!
-May 16, 2012, 12:12 am
+[**May 16, 2012, 12:12 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
 - Don Sakers says:
 Congratulations, Cathy!
-May 16, 2012, 10:50 am
-- Ken Houghton says:
+[**May 16, 2012, 10:50 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+- [Ken Houghton](https://web.archive.org/web/20120810061407/http://www.angrybearblog.com/) says:
 Mazel tov! (And sadness about why she’s in Chicago instead of New York.)
-May 16, 2012, 1:48 pm
+[**May 16, 2012, 1:48 pm**](/posts/2012-05-15-blog-helper-out-gets-degree/)
 - James Flanagan says:
 Wonderful!!!
-May 17, 2012, 1:38 am
+[**May 17, 2012, 1:38 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
 - Mike Goldberg says:
 Congratulations!
-May 17, 2012, 9:15 am
+[**May 17, 2012, 9:15 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120810061407/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120810061407/http://dicksmithsoftware.com/)

@@ -24,10 +24,10 @@ Frederik Pohl
 A book tour is wearing enough all by itself. I didn’t need any extra aggravation.
 
 
-Unfortunately, I couldn’t avoid it. I could tell something was up right away. It wasn’t only that the famous **Harmonic Convergence** of 1987 converged with my book tour for **Chernobyl**.
+Unfortunately, I couldn’t avoid it. I could tell something was up right away. It wasn’t only that the famous [Harmonic Convergence](https://web.archive.org/web/20160416225228/http://www.ccel.us/newage.ch11.html) of 1987 converged with my book tour for [Chernobyl](https://web.archive.org/web/20160416225228/http://www.amazon.com/gp/product/B00FO6F2Q2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FO6F2Q2&linkCode=as2&tag=twtfb-20).
 
 
-My very first radio show of the tour was on a nighttime program on WGN in Chicago, which also broadcasts the Cubs games. Sure enough, that night the Cubs and the Phillies tied it up in the eighth and went into extra innings. The Cubs managed to lose it in the thirteenth, all right, but by then the airtime for the show was long gone by. So I sat in the studio for a few boring hours and then went home. We never did get on that night.
+My very first radio show of the tour was on a nighttime program on WGN in Chicago, which also broadcasts the Cubs games. Sure enough, that night the Cubs and the Phillies tied it up in the eighth and went into extra innings. The Cubs managed to [lose](https://web.archive.org/web/20160416225228/http://www.billygoattavern.com/legend/curse/) it in the thirteenth, all right, but by then the airtime for the show was long gone by. So I sat in the studio for a few boring hours and then went home. We never did get on that night.
 
 
 Then we took to the road, and it was Wednesday, Washington; Thursday, Detroit; Friday, Cleveland — and Saturday, still Cleveland, because the Harmonic Convergence was nigh. It caused all its thunderclouds to converge right over O’Hare airport (so all flights were canceled and I spent the night in a Cleveland Holiday Inn). Then it dumped all the moisture out of those clouds right on my house, a dozen miles from O’Hare (so some books and papers that were stored low-down in my basement were rebound in slime). Nine and a half inches of rain in twelve hours.
@@ -42,7 +42,7 @@ Nor was that the worst of it.
 See, I live a pretty sheltered life. I spend most of my time either sitting before the keyboard in my office or in the company of my peers at science-fiction cons. So, although I’ve met a lot of pretty weird people (well, didn’t I just say that?), until this tour I actually hadn’t reckoned on the number of loopies going around in what is, for some reason, called the “normal” world. Every city I visited turned up somebody — my airhead driver-escort in one place, a guy who buttonholed me at the hotel registration desk in another — who was not only certain that the Age of Something was upon us because of the Harmonic Convergence, but could not be stopped from telling me about it.
 
 
-I don’t like to get into conversations of that kind. The principal reason is that I’m tenderhearted; I don’t like to be a killjoy. It gives me no pleasure to try to convince a transcendental metaphysics addict that astrology is a fraud; Uri Geller is a faker; there were no Ancient Astronauts and every single  flying-saucer 	story I have been able to investigate (which adds up to a lot of them, over the years) has turned out to be a mistake, a delusion or a plain damn lie.
+I don’t like to get into conversations of that kind. The principal reason is that I’m tenderhearted; I don’t like to be a killjoy. It gives me no pleasure to try to convince a [transcendental metaphysics](https://web.archive.org/web/20160416225228/http://www.geni.com/projects/Metaphysics-Transcendentalism/5817) addict that astrology is a fraud; [Uri Geller](https://web.archive.org/web/20160416225228/http://skepdic.com/geller.html) is a faker; there were no [Ancient Astronauts](https://web.archive.org/web/20160416225228/http://www.skeptic.com/eskeptic/04-04-26/) and every single [flying-saucer](https://web.archive.org/web/20160416225228/http://www.amazon.com/gp/product/B00IJQZWE6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IJQZWE6&linkCode=as2&tag=twtfb-20) 	story I have been able to investigate (which adds up to a lot of them, over the years) has turned out to be a mistake, a delusion or a plain damn lie.
 
 
 But I don’t have any moral objections to someone else’s beliefs. If it gives them pleasure to have their horoscopes, tarot cards or palms read, why should I object?
@@ -81,11 +81,11 @@ Not the chap in the hotel lobby.
 
 ### One Comment
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20160416225228/http://www.flickr.com/photos/stefan_e_jones/) says:
 “The principal reason is that I’m tenderhearted; I don’t like to be a killjoy.”
 Man, that describes me too. I don’t mind mocking and lambasting superstitious goofs in the company of the like-minded, but I can’t bring myself to confront and challenge the beliefs of airheads to their face, out of compassion.
 I would find it a bit harder to keep silent when dealing with an anti-vaccine crank. That particular fluff harms more than the believer.
-March 31, 2014, 10:10 pm
+[**March 31, 2014, 10:10 pm**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416225228/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416225228/http://dicksmithsoftware.com/)

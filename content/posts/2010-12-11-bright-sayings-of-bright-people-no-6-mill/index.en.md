@@ -28,23 +28,24 @@ Frederik Pohl
 
 ### 5 Comments
 
-- R. H. Kanakia says:
+- [R. H. Kanakia](https://web.archive.org/web/20150914163832/http://www.blotter-paper.com/) says:
 Why? I think I’d rather be the satisfied fool. Isn’t satisfaction the point?
-December 11, 2010, 12:48 am
-- Bill Goodwin says:
+[**December 11, 2010, 12:48 am**](/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/)
+- [Bill Goodwin](https://web.archive.org/web/20150914163832/http://771715/) says:
 The point isn’t well-being, but increased-being.  Greater lucidity generally means greater cognizance of life’s shortcomings…but it also allows us to feel more deeply, and perhaps glimpse what makes our suffering worthwhile.
-December 11, 2010, 3:41 pm
+[**December 11, 2010, 3:41 pm**](/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/)
 - Craig says:
 We make our own goals as life (in the sense of an “end condition” or “point”) is unbounded.
-December 12, 2010, 4:14 pm
+[**December 12, 2010, 4:14 pm**](/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/)
 - John H says:
-I can’t think of John Stuart Mill without hearing Monty Python’s “Philosophers Song.”  http://www.youtube.com/watch?v=oMG20rBfkM8
-“John Stuart Mill, of his own free will,
+I can’t think of John Stuart Mill without hearing Monty Python’s “Philosophers Song.”  [http://www.youtube.com/watch?v=oMG20rBfkM8](https://web.archive.org/web/20150914163832/http://www.youtube.com/watch?v=oMG20rBfkM8)
+“John Stuart Mill, of his own free will,  
+
 On half a pint of shandy was particularly ill.”
-December 13, 2010, 7:43 pm
+[**December 13, 2010, 7:43 pm**](/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/)
 - someone says:
 hi i need bright ideas
-December 14, 2010, 6:24 pm
+[**December 14, 2010, 6:24 pm**](/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150914163832/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150914163832/http://dicksmithsoftware.com/)

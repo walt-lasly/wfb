@@ -28,9 +28,9 @@ Frederik Pohl
 
 ### One Comment
 
-- Dan Gollub says:
+- [Dan Gollub](https://web.archive.org/web/20120719084638/http://dreampattern.com/) says:
 If he’d lived in the present time, he might have become an astronomer.
-May 13, 2012, 2:33 pm
+[**May 13, 2012, 2:33 pm**](/posts/2012-05-13-bright-sayings-of-bright-people-no-32/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120719084638/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120719084638/http://dicksmithsoftware.com/)

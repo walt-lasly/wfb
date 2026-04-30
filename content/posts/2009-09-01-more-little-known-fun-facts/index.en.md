@@ -30,7 +30,7 @@ Turns out that cats, like people, have handedness.  Females are more likely to b
 **You’re Never Too Poor to Swindle**
 
 
-The bloodsuckers are up and about and their specialty now is seeking out the people who are already in terrible financial shape, to whom they promise help.  Which, of course, they don’t deliver, preferring to vacuum out and appropriate whatever crumbs of cash the impoverished may have left.  (Bernie Madoff was a great villain, but at least he stole from the rich.)  So I went back through my files and came up with “Financial traps are flourishing: Tough times have bred five costly come-ons” in the March ’09 Consumer Reports.  So if you, or someone you know, has been hit with threats of foreclosure or evaporation of your 401K or the like, you should take a look at it.
+The bloodsuckers are up and about and their specialty now is seeking out the people who are already in terrible financial shape, to whom they promise help.  Which, of course, they don’t deliver, preferring to vacuum out and appropriate whatever crumbs of cash the impoverished may have left.  (Bernie Madoff was a great villain, but at least he stole from the rich.)  So I went back through my files and came up with “[Financial traps are flourishing: Tough times have bred five costly come-ons](https://web.archive.org/web/20091002080940/http://www.consumerreports.org/cro/magazine-archive/march-2009/money/scams/overview/scams-ov.htm)” in the March ’09 Consumer Reports.  So if you, or someone you know, has been hit with threats of foreclosure or evaporation of your 401K or the like, you should take a look at it.
 
 
 I’ll give you just one example.  If all your credit cards had been taken away and nobody would give you a new one, Continental Finance Classic MasterCard was more obliging.  You probably don’t want its help, though.  The maximum chargeable credit line was $300, and by the time the customer got the card $250 had already been taken out of your balance to pay for the account processing fee: $50, and annual membership fee, $200.  The $50 of credit that was left you could use as you liked, bearing in mind that an account management fee would have had to be paid every month, with other fees coming due later.  So beware!
@@ -39,7 +39,7 @@ I’ll give you just one example.  If all your credit cards had been taken away 
 **So long, Fertile Crescent**
 
 
-The Fertile Crescent, which is the land between the Tigris and Euphrates Rivers, is the place in the Middle East where our planet’s civilizations were born.  It was the home of the world’s greatest early cities — Sumer, Ur, Babylon and more — and it fed them from its rich and well watered soil; it is where many of the stories in the Bible took place and where they invented beer.
+The [Fertile Crescent](https://web.archive.org/web/20091002080940/http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=20010), which is the land between the Tigris and Euphrates Rivers, is the place in the Middle East where our planet’s civilizations were born.  It was the home of the world’s greatest early cities — Sumer, Ur, Babylon and more — and it fed them from its rich and well watered soil; it is where many of the stories in the Bible took place and where they invented beer.
 
 
 It is projected to become a full-fledged desert by the end of this century.  There’s a brutal drought going on in the region, but the real enemy is dams — the big ones Turkey has erected  along the Euphrates and the ones Iran has installed along the tributaries of the Tigris.   Both countries have indicated they’ll go right on building them.  Already some of the smaller rivers are running dry.
@@ -59,19 +59,19 @@ Maybe so, but I can’t help thinking it’s more like getting their stories tog
 
 ### 3 Comments
 
-- Robert Nowall says:
+- [Robert Nowall](https://web.archive.org/web/20091002080940/http://www.robertnowall.com/) says:
 On the Fertile Crescent…I suppose sooner or later that’ll mean war over the water.
 On the Bush-Cheney alumni association…I wouldn’t think leaving an armed enemy unfought in your rear would be a particularly good idea, even if you discard violated UN resolutions and numerous threats and promises.
-September 1, 2009, 4:27 pm
-- Jeff says:
+[**September 1, 2009, 4:27 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+- [Jeff](https://web.archive.org/web/20091002080940/http://jeffcrook.blogspot.com/) says:
 I think the answers to those last questions can be found in the writings of Frank Herbert. Afganistan is Selusa Secundis. Iraq is Arrakis. Bush is Rabban, Cheney the Baron, etc. 
 The man was either a prophet, or astutely aware of the inevitable course of human politics.
-September 1, 2009, 8:56 pm
+[**September 1, 2009, 8:56 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
 - John H says:
-but the real enemy is dams — the big ones Turkey has erected along the Euphrates…
+*but the real enemy is dams — the big ones Turkey has erected along the Euphrates…*
 That had me scratching my head because I know the Euphrates flows into Iraq from Syria.  I had to look it up to realize the source is in Turkey.  The Tigris and Euphrates actually begin in nearly the same spot.
 You learn something new every day…
-September 3, 2009, 3:33 pm
+[**September 3, 2009, 3:33 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20091002080940/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20091002080940/http://dicksmithsoftware.com/)

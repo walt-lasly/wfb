@@ -29,13 +29,13 @@ Frederik Pohl
 {{< figure src="bettyhullheadshot-106x150.jpg" alt="Elizabeth Anne Hull. Photo by Barb Knoff." caption="ElizabethAnne Hull" >}}
 
 
-Exciting news from Fred’s granddaughter **Emily Pohl-Weary**: She’s been nominated for another award, the 2014 CBC Bookie, for her  young-adult novel **Not Your Ordinary Wolf Girl**.
+Exciting news from Fred’s granddaughter [Emily Pohl-Weary](https://web.archive.org/web/20160416144408/http://www.emilypohlweary.com/): She’s been nominated for another award, the 2014 CBC Bookie, for her  young-adult novel [Not Your Ordinary Wolf Girl](https://web.archive.org/web/20160416144408/http://www.amazon.com/gp/product/1477816887/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1477816887&linkCode=as2&tag=twtfb-20).
 
 
-You can cast a vote for Emily’s book and (and other amazing Canadian books). You don’t have to be Canadian. You don’t have to register to vote.  It takes less than a minute.
+You can [cast a vote](https://web.archive.org/web/20160416144408/http://www.cbc.ca/books/the-bookies-2014-vote-for-the-best-books-of-the-past-year.html) for Emily’s book and (and other amazing Canadian books). You don’t have to be Canadian. You don’t have to register to vote.  It takes less than a minute.
 
 
-Voting closes Wednesday, Feb. 5, so please buy a copy and vote soon.
+Voting closes Wednesday, Feb. 5, so please [buy a copy](https://web.archive.org/web/20160416144408/http://www.amazon.com/gp/product/1477816887/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1477816887&linkCode=as2&tag=twtfb-20) and [vote](https://web.archive.org/web/20160416144408/http://www.cbc.ca/books/the-bookies-2014-vote-for-the-best-books-of-the-past-year.html) soon.
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416144408/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416144408/http://dicksmithsoftware.com/)

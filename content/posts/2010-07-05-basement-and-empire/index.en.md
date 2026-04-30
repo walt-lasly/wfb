@@ -27,7 +27,7 @@ Frederik Pohl
 
 ![The Early Pohl](earlypohlwb.jpg)
 
-*This arrived without warning from my old friend Andrew Porter, once the editor and publisher of Algol/Science Fiction Chronicle, the only real competition Locus ever had.  Andy didn’t say why he sent it, but I guess he just thought I would like to see it again — it’s a part of a chapter taken from a book of mine called  **The Early Pohl***  *that I haven’t looked at in years.  Well, I did get a kick out of some of it (although other parts did just repeat things I’ve written here and elsewhere).  Considering how many said that you had enjoyed the chapter I inadvertently reprinted from  **The Way the Future Was*** , *some of you might like this, too, so I’m going to take a chance and reprint this as well.  (Having cut out much, though probably not all, of the stuff that already was in the earlier piece.)*
+*This arrived without warning from my old friend Andrew Porter, once the editor and publisher of Algol/Science Fiction Chronicle, the only real competition Locus ever had.  Andy didn’t say why he sent it, but I guess he just thought I would like to see it again — it’s a part of a chapter taken from a book of mine called  [The Early Pohl](https://web.archive.org/web/20110922134338/http://www.amazon.com/gp/product/0891907971?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0891907971)*  *that I haven’t looked at in years.  Well, I did get a kick out of some of it (although other parts did just repeat things I’ve written here and elsewhere).  Considering how many said that you had enjoyed the chapter I inadvertently reprinted from  [The Way the Future Was](https://web.archive.org/web/20110922134338/http://www.amazon.com/gp/product/0345260597?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345260597)* , *some of you might like this, too, so I’m going to take a chance and reprint this as well.  (Having cut out much, though probably not all, of the stuff that already was in the earlier piece.)*
 
 
 *The title of the piece is Andy’s.  (It refers to the fact that if you wanted to start an sf club in New York in the ’30s, it helped to have a basement that you could hold the club’s meetings in.)   It was also Andy’s decision to include a picture of Will Sykora and Willy Ley at the beginning, although only Sykora has anything at all to do with the piece, and then not much.  So I’ll tell you what I’m going to do.  As afterwords I’ll attach a little bit about who they are, and I’ll also tell you a funny, if a bit embarrassing to me, story about The Early Pohl, the book this piece came from.*
@@ -41,31 +41,31 @@ BASEMENT AND EMPIRE
 In the winter of 1933, when I was just turned thirteen, I discovered three new truths.
 
 
-The first truth was that the world was in a hell of a mess. The second was that I really was not going to spend my life being a chemical engineer, no matter what I had told my guidance counselor at Brooklyn Technical High School. And the third was that in my conversion to science fiction as a way of life I Was Not Alone.
+The first truth was that the world was in a hell of a mess. The second was that I really was not going to spend my life being a chemical engineer, no matter what I had told my guidance counselor at [**Brooklyn Technical High School**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/). And the third was that in my conversion to science fiction as a way of life I Was Not Alone.
 
 
-All of these new discoveries were important to me, and in a way they were all related. I had just started the second semester of my freshman year at Brooklyn Tech. It was a cold, grimy winter in the deepest depths of the Great Depression. There was not much joy to be found. Men were selling apples in the streets. The unemployed stood in bread lines and prayed for snow — that meant there would be work shoveling it off the sidewalks. Roosevelt had just been elected President but hadn’t yet taken office — Inauguration Day, still geared to the stagecoach schedules of 1789, had not yet been moved up from March 4. Banks were going broke.
+All of these new discoveries were important to me, and in a way they were all related. I had just started the second semester of my freshman year at [Brooklyn Tech](https://web.archive.org/web/20110922134338/http://www.bths.edu/). It was a cold, grimy winter in the deepest depths of the Great Depression. There was not much joy to be found. Men were selling apples in the streets. The unemployed stood in [bread lines](https://web.archive.org/web/20110922134338/http://minnesota.publicradio.org/collections/special/columns/news_cut/content_images/bread_line_depression.jpg%22) and prayed for snow — that meant there would be work shoveling it off the sidewalks. Roosevelt had just been elected President but hadn’t yet taken office — Inauguration Day, still geared to the stagecoach schedules of 1789, had not yet been moved up from March 4. Banks were going broke.
 
 
-There was not much money around, but on the other hand you didn’t need a lot. Subway fare was a nickel. So was a hot dog at Nedick’s, which was enough for a schoolboy’s lunch. You could go to the movies for a dime or, sometimes, for a can of soup to be donated to the hungry.
+There was not much money around, but on the other hand you didn’t need a lot. Subway fare was a nickel. So was a hot dog at [Nedick’s](https://web.archive.org/web/20110922134338/http://www.barrypopik.com/index.php/new_york_city/entry/always_a_pleasure_nedicks/), which was enough for a schoolboy’s lunch. You could go to the movies for a dime or, sometimes, for a can of soup to be donated to the hungry.
 
 
 Brooklyn Tech was an honor school, which is possibly why I decided to go to it in the first place. Like many of my colleagues, I regret to say that as a kid I was always something of an intellectual snob. (I do not wish to discuss what I am now.) Tech had been born in an ancient factory building, next to the entrance to the Manhattan Bridge in the grimiest part of Brooklyn’s industrial riverside district. It had outgrown that and was now spread around a clutch of decrepit ex-grammar schools in the same area. We commuted from building to building, class to class.
 
 
-I found myself walking from my Mechanical Drawing class in P.S. No. 5 to my Forge and Foundry class in the main building in the company of a tall, skinny kid named Joseph Harold Dockweiler. Along about the third time we crossed Flatbush Avenue together I discovered that we had something of great urgency in common. He, too, was a Science-Fiction Fan, Third Degree. That is, he didn’t merely read the stuff, or even stop at collecting back issues and searching the secondhand bookstores for overlooked works. He, like me, had the firm intention of writing it someday.
+I found myself walking from my Mechanical Drawing class in P.S. No. 5 to my Forge and Foundry class in the main building in the company of a tall, skinny kid named [**Joseph Harold Dockweiler**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/). Along about the third time we crossed Flatbush Avenue together I discovered that we had something of great urgency in common. He, too, was a Science-Fiction Fan, Third Degree. That is, he didn’t merely read the stuff, or even stop at collecting back issues and searching the secondhand bookstores for overlooked works. He, like me, had the firm intention of writing it someday.
 
 
-Six or seven years later Joseph Harold Dockweiler renamed himself Dirk Wylie.  Later still, he and I went partners in a literary agency and later, but tragically not very much later, he died, at the appalling age of twenty-eight, of the aftereffects of his service in the Battle of the Bulge in World War II.
+Six or seven years later Joseph Harold Dockweiler renamed himself Dirk Wylie.  Later still, he and I went partners in a literary agency and later, but tragically not very much later, he died, at the appalling age of twenty-eight, of the aftereffects of his service in the [Battle of the Bulge](https://web.archive.org/web/20110922134338/http://www.pbs.org/wgbh/amex/bulge) in World War II.
 
 
-Dirk was the first person I had found like myself. Having learned that we were not unique, we contemplated the possibility of finding still others who would be able and anxious to compare the merits of Amazing vs. Wonder Stories and discuss the galaxy-ranging glamour of E.E. Smith’s Skylark stories. In a word, we went looking for science-fiction fandom.
+Dirk was the first person I had found like myself. Having learned that we were not unique, we contemplated the possibility of finding still others who would be able and anxious to compare the merits of Amazing vs. Wonder Stories and discuss the galaxy-ranging glamour of [**E.E. Smith’s**](/posts/2009-12-22-doc-skylark-smith/) [Skylark](https://web.archive.org/web/20110922134338/http://manybooks.net/titles/smithee2086920869-8.html) stories. In a word, we went looking for science-fiction fandom.
 
 
 The bad part of that was that fandom did not yet quite exist.
 
 
-The good part was that it was just about to be born, when Wonder Stories started a circulation-boosting correspondence club called the Science Fiction League. We joined instanter, and began attending club meetings as soon as a local chapter was formed, where we met others like ourselves.
+The good part was that it was just about to be born, when Wonder Stories started a circulation-boosting correspondence club called the [**Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/). We joined instanter, and began attending club meetings as soon as a local chapter was formed, where we met others like ourselves.
 
 
 *More to come. . . .*
@@ -88,14 +88,14 @@ The good part was that it was just about to be born, when Wonder Stories started
 
 ### 2 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20110922134338/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Keep ‘em coming!
-My, Willy Ley looks young in that picture! I have a couple of plastic model space ship kits, re-issues of models issued in the late 50s. The boxes (1  , 2) show Willy Ley showing the finished models to neatly dressed kids.
-July 5, 2010, 7:13 pm
-- Bald Guy says:
+My, Willy Ley looks young in that picture! I have a couple of plastic model space ship kits, re-issues of models issued in the late 50s. The boxes ([1](https://web.archive.org/web/20110922134338/http://www.fantastic-plastic.com/SPACE%20TAXI%20PAGE.htm)  , [2](https://web.archive.org/web/20110922134338/http://www.fantastic-plastic.com/MONOGRAM%20PASSENGER%20ROCKET%20PAGE.htm)) show Willy Ley showing the finished models to neatly dressed kids.
+[**July 5, 2010, 7:13 pm**](/posts/2010-07-05-basement-and-empire/)
+- [Bald Guy](https://web.archive.org/web/20110922134338/http://www.irememberjfk.com/) says:
 What Stefan said!
 Mr. Pohl, sometime, could you give a remembrance about Analog? It was good stuff for a young Boomer in the early 70’s…
-July 6, 2010, 4:53 pm
+[**July 6, 2010, 4:53 pm**](/posts/2010-07-05-basement-and-empire/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20110922134338/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20110922134338/http://dicksmithsoftware.com/)

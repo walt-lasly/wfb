@@ -31,12 +31,12 @@ Frederik Pohl
 
 ### 2 Comments
 
-- Bill Goodwin says:
+- [Bill Goodwin](https://web.archive.org/web/20131011192819/http://771715/) says:
 And the truth is merely the least inventive of lies.
-November 10, 2010, 2:26 am
+[**November 10, 2010, 2:26 am**](/posts/2010-11-09-bright-sayings-of-bright-people-no-3-ciardi/)
 - pk1154 says:
 Ah, John Ciardi.  I still miss (these many years later) they way he would “have words” with us on NPR’s Morning Edition.
-November 14, 2010, 8:00 am
+[**November 14, 2010, 8:00 am**](/posts/2010-11-09-bright-sayings-of-bright-people-no-3-ciardi/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20131011192819/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131011192819/http://dicksmithsoftware.com/)

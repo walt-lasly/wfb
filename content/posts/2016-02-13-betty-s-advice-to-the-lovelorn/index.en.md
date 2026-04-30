@@ -30,7 +30,7 @@ Frederik Pohl
 Nearly a year before Fred died, I wrote to a young friend who had recently become engaged in a same-sex relationship.  It was in response to finding out (for the first time; I previously had no idea) that my friend was a lesbian. She told me of the difficulties she and her fiancée expected waiting for the then as-yet unannounced Supreme Court ruling on the unconstitutionality of the California law which had been sanctioned by an expensive referendum (financed in large part by the Mormons, The Church of Jesus Christ of Latter-Day Saints).
 
 
-Before I wrote my response, I discussed the news with Fred, knowing of his interest in same-sex relationships, a situation casually thrown into **Gateway**  which had evoked a continuing fan  response that always surprised him.
+Before I wrote my response, I discussed the news with Fred, knowing of his interest in same-sex relationships, a situation casually thrown into [Gateway](https://web.archive.org/web/20181011071737/http://www.amazon.com/gp/product/0345475836?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345475836)  which had evoked a continuing fan  response that always surprised him.
 
 
 My message follows:
@@ -60,10 +60,10 @@ Long before Fred and I were married, [**Judy Merril**](/posts/2010-11-30-judith-
 Elizabeth, it sounds like your answer appealed to Fred  for the reasons it appeals to me, and probably most others including your original recipient: its straightforward and simple truths. What we share in common, and bring to eachother that’s uncommon, certainly have a lot more bearing on the success of the relationship than simple physical attributes – including the orientation of their genatalia. 
 Why should the gender of the individuals matter to a greater extent than say eye-color?  Those details matter less in the long run, but your shared appreciation of literature could keep you happy for years!
 Happy Valentine’s Day!  Thank you for continuing to inspire!
-February 13, 2016, 5:05 am
-- Gregory Benford says:
+[**February 13, 2016, 5:05 am**](/posts/2016-02-13-betty-s-advice-to-the-lovelorn/)
+- [Gregory Benford](https://web.archive.org/web/20181011071737/http://gregorybenford.com/) says:
 Very smart post! Good to see you back at the podium, Betty.
-February 23, 2016, 8:31 pm
+[**February 23, 2016, 8:31 pm**](/posts/2016-02-13-betty-s-advice-to-the-lovelorn/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20181011071737/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20181011071737/http://dicksmithsoftware.com/)

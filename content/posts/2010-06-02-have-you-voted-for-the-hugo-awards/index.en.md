@@ -37,7 +37,7 @@ We’ve been waiting for Fred to say something, but it appears he’s too modest
 Not only that, but *you* can vote!
 
 
-The deadline is 31 July 2010 and this is the ballot. It will cost you US$50 to join this year’s Worldcon as a supporting member, but that gets you all the convention publications as well as an electronic packet containing works from the other 2010 Hugo Award and John W. Campbell Award for Best New Writer nominees.
+The deadline is 31 July 2010 and [this is the ballot](https://web.archive.org/web/20111110023952/http://www.aussiecon4.org.au/hugoawards/final_ballot.php). It will cost you US$50 to join this year’s Worldcon as a supporting member, but that gets you all the convention publications as well as an electronic packet containing works from the other 2010 Hugo Award and John W. Campbell Award for Best New Writer nominees.
 
 
 As far as we know, Fred is the oldest fan ever to receive this honor (not counting Retro Hugos). He is, we’re sure, the most senior fan or pro to blog.
@@ -48,22 +48,22 @@ Go, Fred!
 
 ### 4 Comments
 
-- Brian says:
+- [Brian](https://web.archive.org/web/20111110023952/http://astoundingartifacts.blogspot.com/) says:
 Thanks for telling us about this! Mr. Pohl, you’re too modest for your own good. I love this blog and look forward to your posts — I can’t think of anyone more deserving of this honor. 
 I also think that there’s something really nice about a fan growing up to be an award-winning author and then continuing on to win an award (I hope!) for writing as a fan. Your nomination reminds us that the pro and fannish sides of science fiction are constantly overlapping, and have done so since the very beginning. The entire community is stronger and more creative and more vibrant because if it. It’s also a lot more fun. 
 Best of luck!
-June 2, 2010, 7:32 pm
-- Michael A. Burstein says:
+[**June 2, 2010, 7:32 pm**](/posts/2010-06-02-have-you-voted-for-the-hugo-awards/)
+- [Michael A. Burstein](https://web.archive.org/web/20111110023952/http://www.mabfan.com/) says:
 I was wondering if someone was going to mention this. Congratulations!
-June 3, 2010, 11:21 am
+[**June 3, 2010, 11:21 am**](/posts/2010-06-02-have-you-voted-for-the-hugo-awards/)
 - Bruce says:
 I can only hope you’re healthy enough to travel to accept the award in Australia!
-June 7, 2010, 8:18 pm
+[**June 7, 2010, 8:18 pm**](/posts/2010-06-02-have-you-voted-for-the-hugo-awards/)
 - Karen Anderson says:
 Ah, I see the comment I put up in the wrong place has been put where it should have been; my thanks to who/whatever took care of it.
 Congratulations on the Fan Hugo nomination! I’d vote for you, if I were going to vote at all. I’m not — dammit — going to Australia; and I can’t see buying a ballot when I’ve seen so few of the works nominated. 
 The only upcoming conventions I’m planning on are local: WesterConChord in Pasadena, where I’ll be filk singing, and LosCon in Los Angeles where I’ll also doubtless be on assorted panels. And, of course, hanging out in the bar by day, partying by night.
-June 22, 2010, 11:58 pm
+[**June 22, 2010, 11:58 pm**](/posts/2010-06-02-have-you-voted-for-the-hugo-awards/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111110023952/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111110023952/http://dicksmithsoftware.com/)

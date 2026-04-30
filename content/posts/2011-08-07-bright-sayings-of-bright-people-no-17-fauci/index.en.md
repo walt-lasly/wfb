@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Dan Gollub says:
 Calorie restriction can slow down the aging process. But it seems very difficult to reduce one’s daily food intake continuously. An easier way is to eat normally most of the week, but then skip five or six consecutive meals. After eating Thursday morning, for example, don’t eat again until Saturday.
-August 18, 2011, 1:56 pm
+[**August 18, 2011, 1:56 pm**](/posts/2011-08-07-bright-sayings-of-bright-people-no-17-fauci/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707065418/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707065418/http://dicksmithsoftware.com/)

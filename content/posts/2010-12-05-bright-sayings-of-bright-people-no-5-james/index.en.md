@@ -28,14 +28,14 @@ Frederik Pohl
 
 ### 2 Comments
 
-- That Neil Guy says:
+- [That Neil Guy](https://web.archive.org/web/20150912193438/http://thatneilguy.blogspot.com/) says:
 Reminds me of Kurt Vonnegut’s idea of a How-to Manual for babies:
 “Hello, babies. Welcome to Earth. It’s hot in the summer and cold in the winter. It’s round and wet and crowded. At the outside, babies, you’ve got about a hundred years here. There’s only one rule that I know of, babies—God damn it, you’ve got to be kind.” 
 It’s from God Bless You, Mr. Rosewater.
-December 5, 2010, 10:00 am
-- Bill Goodwin says:
+[**December 5, 2010, 10:00 am**](/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/)
+- [Bill Goodwin](https://web.archive.org/web/20150912193438/http://771715/) says:
 Yeah, but which kind?
-December 5, 2010, 5:58 pm
+[**December 5, 2010, 5:58 pm**](/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150912193438/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150912193438/http://dicksmithsoftware.com/)

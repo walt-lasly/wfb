@@ -25,11 +25,11 @@ Frederik Pohl
 
 Here’s the schedule for Elizabeth Anne Hull’s upcoming appearances.
 
-- 5–6  June: **Nebula Awards**, autographing and banquet, Chicago.
-- 11–14 June: **Campbell Conference and Awards**, University of Kansas, Lawrence.
-- 19–23 August: **Sasquan**, 73rd **World Science Fiction Convention**, Spokane, Wash.
-- 16–18 October: **Icon**, Cedar Rapids, Iowa.
-- 13–15 November: **Windycon**, Lombard, Ill.
+- 5–6  June: [Nebula Awards](https://web.archive.org/web/20160402194825/http://www.sfwa.org/nebula-awards/nebula-weekend/), autographing and banquet, Chicago.
+- 11–14 June: [Campbell Conference and Awards](https://web.archive.org/web/20160402194825/http://www.sfcenter.ku.edu/campbell-conference.htm), University of Kansas, Lawrence.
+- 19–23 August: [Sasquan](https://web.archive.org/web/20160402194825/http://sasquan.org/), 73rd [World Science Fiction Convention](https://web.archive.org/web/20160402194825/http://worldcon.org/), Spokane, Wash.
+- 16–18 October: [Icon](https://web.archive.org/web/20160402194825/http://iowa-icon.com/), Cedar Rapids, Iowa.
+- 13–15 November: [Windycon](https://web.archive.org/web/20160402194825/http://www.windycon.org/), Lombard, Ill.
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402194825/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402194825/http://dicksmithsoftware.com/)

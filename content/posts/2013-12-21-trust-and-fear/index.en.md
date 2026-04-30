@@ -29,13 +29,13 @@ Frederik Pohl
 {{< figure src="bettyhullheadshot-106x150.jpg" alt="Elizabeth Anne Hull. Photo by Barb Knoff." caption="Elizabeth Anne Hull" >}}
 
 
-Celebrating our first holidays at Gateway without Fred has been bittersweet. (“Gateway” is the name Fred and I gave our house.) Our Christmas decorations are a little more elaborate this year, with some extra lights to make up for the bright spot who isn’t here.
+Celebrating our first holidays at Gateway without Fred has been bittersweet. (“[Gateway](https://web.archive.org/web/20160416151345/http://www.amazon.com/gp/product/0345475836/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345475836&linkCode=as2&tag=twtfb-20)” is the name Fred and I gave our house.) Our Christmas decorations are a little more elaborate this year, with some extra lights to make up for the bright spot who isn’t here.
 
 
 At Thanksgiving last month, we all helped make the major meal, and everyone was stuffed at the end of it.  Tasty and satisfying.   Only eight of us this year; we’ve often  had up to twenty.
 
 
-Before diving in to feast, we all shared what we were most thankful for.  I said I was grateful for knowing Fred for over thirty-five years, and being married to him for more than twenty-nine years, and since Fred wasn’t there to say it, I also said I was grateful that we had begun to negotiate with Iran, and though success isn’t certain, there’s a little more chance for peace in the Middle East and for everyone in the world.
+Before diving in to feast, we all shared what we were most thankful for.  I said I was grateful for knowing Fred for over thirty-five years, and being married to him for more than twenty-nine years, and since Fred wasn’t there to say it, I also said I was grateful that we had begun to [negotiate with Iran](https://web.archive.org/web/20160416151345/http://www.npr.org/blogs/thetwo-way/2013/12/15/251294746/iran-says-it-will-keep-negotiating-despite-tightening-of-sanctions), and though success isn’t certain, there’s a little more chance for peace in the Middle East and for everyone in the world.
 
 
 * * *
@@ -53,20 +53,20 @@ We’re aware that some people cheat or are deadbeats or outright frauds, yet if
 * * *
 
 
-Upon reflection, the thing I probably was most grateful for was that we didn’t get a single annoying phone call all day trying to sell us a home-security system or a device in case “I’ve fallen and I can’t get up.”
+Upon reflection, the thing I probably was most grateful for was that we didn’t get a single annoying phone call all day trying to sell us a home-security system or a device in case “[I’ve fallen and I can’t get up](https://web.archive.org/web/20160416151345/http://www.youtube.com/watch?v=bQlpDiXPZHQ).”
 
 
-I don’t worry so much about our survival as a species and as a country, when I’m not deluged by fear mongers.
+I don’t [**worry so much**](/posts/2013-12-19-my-first-blog-post-in-a-long-time/) about our survival as a species and as a country, when I’m not deluged by fear mongers.
 
 
 ### One Comment
 
-- Angie says:
-I don’t worry so much about our survival as a species and as a country, when I’m not deluged by fear mongers.
+- [Angie](https://web.archive.org/web/20160416151345/http://angiesdesk.blogspot.com/) says:
+*I don’t worry so much about our survival as a species and as a country, when I’m not deluged by fear mongers.*
 That, right there.  Yes.
 So many people — both individuals and companies — do their best every day to stir our fears, usually for their own gain in some way.  Whether they sell papers or magazines, or commercial time on TV, or some product that will supposedly protect us from the fears they’ve magnified or outright created, we’re constantly told that we and our loved ones are in deadly danger, every second of every day.  It’s become part of our society, to the point where the fear-mongering is all but invisible, while the fear it stirs is ubiquitous.  We’d all be a lot better off if the people (and companies) who profit from our fear would just shut the hell up.
 Angie
-December 21, 2013, 6:02 am
+[**December 21, 2013, 6:02 am**](/posts/2013-12-21-trust-and-fear/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416151345/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416151345/http://dicksmithsoftware.com/)

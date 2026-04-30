@@ -25,5 +25,5 @@ Frederik Pohl
 **“Aggressive fighting for the right is the noblest sport the world affords.”
 —Theodore Roosevelt**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508222229/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508222229/http://dicksmithsoftware.com/)

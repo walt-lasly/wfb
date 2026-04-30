@@ -24,13 +24,13 @@ Frederik Pohl
 
 !['The Space Merchants' by Frederik Pohl and C.M. Kornbluth](space-merchants1-183x300.jpg)
 
-**The Space Merchants**
+[The Space Merchants](https://web.archive.org/web/20090324084347/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511)
 
 
 And in the fullness of time, I got a phone call from a man named Arnold Perl.  He said he had just read the book.  He thought it might have some possibilities that might not have occurred to me, and would like to discuss them.  And why didn’t I drop by his house in Alphabet City — a pleasant residential section of the lower East Side at the time, not yet carved into drug kingdoms — and have a chat?
 
 
-If you are a more sophisticated person than I was in the 1950s, you know who **Arnold Perl** was.  I didn’t.  He had to tell me.  He was the fellow who had taken a book of short stories by **Sholem Aleichem**, *Tevye’s Daughters,* made it into  a Jewish theater play … and then encouraged the process,  together with Joseph Stein, Jerry Bock, and Sheldon Harnick, who fiddled with the milkman’s story and added some great songs — and everything else it needed to become *Fiddler on the Roof,* pretty much the biggest and best musical event to hit old Broadway.
+If you are a more sophisticated person than I was in the 1950s, you know who [Arnold Perl](https://web.archive.org/web/20090324084347/http://www.ibdb.com/person.php?id=4250) was.  I didn’t.  He had to tell me.  He was the fellow who had taken a book of short stories by [Sholem Aleichem](https://web.archive.org/web/20090324084347/http://www.myjewishlearning.com/culture/2/Literature/Yiddish_and_Ladino/European_Writing/Sholem_Aleichem.shtml), *Tevye’s Daughters,* made it into  a Jewish theater play … and then encouraged the process,  together with Joseph Stein, Jerry Bock, and Sheldon Harnick, who fiddled with the milkman’s story and added some great songs — and everything else it needed to become *Fiddler on the Roof,* pretty much the biggest and best musical event to hit old Broadway.
 
 
 And what he was wondering, Arnold said, as he poured me another cup of tea, was whether something like that could be done with *The Space Merchants.*
@@ -60,7 +60,7 @@ What did Arnold say when I showed it to him?  He said, “I’m glad to see you�
 Was any of this stuff real story material?  I don’t know, but sometimes I would get a feeling that there were useful images coming along, any minute now.  My big sorrow was that I had to do it all by myself, because Cyril had died some months earlier.  If he had been around, the whole process would have been at least twice as easy and at least twice as good.  But he wasn’t.
 
 
-And then one morning the phone rang at a shockingly early hour, and it was the office of my film agent, H.N. Swanson, on the line.  I don’t mean it was Swanie himself.  It was one of his large number of assistants and associates and assorted other human beings who inhabited the two-story walkup that was his office.
+And then one morning the phone rang at a shockingly early hour, and it was the office of my film agent, [H.N. Swanson](https://web.archive.org/web/20090324084347/http://www.people.com/people/archive/article/0,,20116500,00.html), on the line.  I don’t mean it was Swanie himself.  It was one of his large number of assistants and associates and assorted other human beings who inhabited the two-story walkup that was his office.
 
 
 “Fred?” said the voice on the phone.  “Swanie says some English people called Redifusion Television are offering $750 for the film rights to *The Space Merchants* and what do you want him to do about it?”
@@ -75,5 +75,5 @@ And then one morning the phone rang at a shockingly early hour, and it was the o
 
 [**Me and the Biz, Part II (continued)**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090324084347/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090324084347/http://dicksmithsoftware.com/)

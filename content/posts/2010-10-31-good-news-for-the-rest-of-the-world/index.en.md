@@ -21,10 +21,10 @@ Frederik Pohl
 
 ![Gateways, original stories inspired by Frederik Pohl, edited by Elizabeth Anne Hull](gateways3001-198x300.jpg)
 
-We’re happy to be able to tell you that we love all of you, not just the ones who live in the U. S. of A., but also all of you who happen to live in some place whose current capital is not Washington D.C. as well.  To show that we mean it, we’re going to add our own personal giveaway program for that great new book, [**Gateways**](/posts/2009-01-01-elizabeth-anne-hull/), to the one that was offered by our publisher, Tor, through **GoodReads**.
+We’re happy to be able to tell you that we love all of you, not just the ones who live in the U. S. of A., but also all of you who happen to live in some place whose current capital is not Washington D.C. as well.  To show that we mean it, we’re going to add our own personal giveaway program for that great new book, [**Gateways**](/posts/2009-01-01-elizabeth-anne-hull/), to the one that was offered by our publisher, Tor, through [GoodReads](https://web.archive.org/web/20131011122956/http://www.goodreads.com/book/show/8139064-gateways).
 
 
-So, if you live in any country that is not the USA, from Argentina and Canada to Zanzibar and Zimbabwe, and would like to enter the drawing, e-mail blog @ thewaythefutureblogs.com with your name and snail-mail address.  The winning names will be pulled out of a hat by Gene Wolfe, one of the fine authors represented in the book.  Two of the copies will go to folks in the USA, so you guys can enter, too; all the others will go to people from elsewhere.
+So, if you live in any country that is not the USA, from Argentina and Canada to Zanzibar and Zimbabwe, and would like to enter the drawing, [e-mail blog @ thewaythefutureblogs.com](https://web.archive.org/web/20131011122956/mailto:blog@thewaythefutureblogs.com?subject=Gateways%20Giveaway&body=My%20name%20and%20address:) with your name and snail-mail address.  The winning names will be pulled out of a hat by [Gene Wolfe](https://web.archive.org/web/20131011122956/http://templetongate.tripod.com/genewolfe.htm), one of the fine authors represented in the book.  Two of the copies will go to folks in the USA, so you guys can enter, too; all the others will go to people from elsewhere.
 
 
 If you’ve already forgotten what a great book this is, here’s what the San Diego Union-Tribune said about it:
@@ -38,11 +38,11 @@ And, oh, by the way, just to sweeten the pot, every winning copy will be autogra
 ### 2 Comments
 
 - CaitieCat says:
-One more reason this is such a good blog to read – a US-based blog where the author remembers the rest of the world exists!  You continue to be a standout, sir.   
-November 2, 2010, 9:16 pm
-- Chookie says:
+One more reason this is such a good blog to read – a US-based blog where the author *remembers the rest of the world exists*!  You continue to be a standout, sir.   
+[**November 2, 2010, 9:16 pm**](/posts/2010-10-31-good-news-for-the-rest-of-the-world/)
+- [Chookie](https://web.archive.org/web/20131011122956/http://chookiesbackyard.blogspot.com/) says:
 But I’ve already given a copy to my husband!  And Amen to CaitieCat’s point!
-November 11, 2010, 2:16 am
+[**November 11, 2010, 2:16 am**](/posts/2010-10-31-good-news-for-the-rest-of-the-world/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20131011122956/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131011122956/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 ![Unprotected Texts](unprotected.jpg)
 
 
-Well, maybe it isn’t exactly your Bible, because we’ve got a multiple ethnic world these days, but probably you know which Bible we’re talking about.  Or what Rev. Jennifer Wright Knust is talking about, anyway, because we’ve borrowed some extracts from her new book, **Unprotected Texts**.
+Well, maybe it isn’t exactly your Bible, because we’ve got a multiple ethnic world these days, but probably you know which Bible we’re talking about.  Or what Rev. Jennifer Wright Knust is talking about, anyway, because we’ve borrowed some extracts from her new book, [Unprotected Texts](https://web.archive.org/web/20170707044927/http://www.amazon.com/gp/product/0061725587/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0061725587).
 
 
 So here are four questions for you, all multiple-guess to make it easy, because by the law of averages you should get at least one right:
@@ -41,24 +41,25 @@ All right, pencils down, but wait for the answers until next week when they will
 
 - Margaret says:
 Oh wow!  I believe I covet that book.  Thanks for the pointer.
-June 24, 2011, 8:50 am
-- Shakatany says:
+[**June 24, 2011, 8:50 am**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+- [Shakatany](https://web.archive.org/web/20170707044927/http://shakatany.livejournal.com/) says:
 I think I know the bible rather well even though I’m an atheist. I’ll see how well I did next week.
-June 24, 2011, 10:10 am
-- Ken Houghton says:
+[**June 24, 2011, 10:10 am**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+- [Ken Houghton](https://web.archive.org/web/20170707044927/http://www.angrybearblog.com/) says:
 Is it safe to assume that “all of the above,” or at least multiple answers, may be the correct answer?
 The only one I would swear has only one answer is 4. (The answer, to pun badly, is predictive.)
-June 25, 2011, 9:02 pm
+[**June 25, 2011, 9:02 pm**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
 - H. E. Parmer says:
 “Most people read the Bible in small enough doses to innoculate themselves against the sense of it.”
-June 26, 2011, 10:56 pm
+[**June 26, 2011, 10:56 pm**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
 - joe from brooklyn says:
 1.  All of the above.  And don’t forget St. Paul’s unsavory obsession with young St. Timothy’s foreskin!
 2. C. 
-3.  C.
+3.  C.  
+
 “sex with angels” is def. out — no ambiguity there. Everything else is permitted, or allowed by notable characters.
 4. B. If I were God, blasphemy would be the only sin a gave a good goddamn about.
-June 27, 2011, 6:40 pm
+[**June 27, 2011, 6:40 pm**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707044927/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707044927/http://dicksmithsoftware.com/)

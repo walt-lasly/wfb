@@ -43,11 +43,11 @@ So let’s fool them and pay attention.  What I am doing, for example, is writin
 - Mark Brosius says:
 It’s after midnight and I just finished rereading one of you wonderful books, “The world at the end of time”.  Put it down, got online to see how you are doing.  Was pleased to come across this thought provoking article after just reading about the challenge of regreening of the planet Newman home.  
 thank you for all the works you have done!
-January 16, 2013, 1:25 am
+[**January 16, 2013, 1:25 am**](/posts/2013-01-15-the-election-s-over-now-what/)
 - Ken says:
 Too bad solving this problem requires action from the dysfunctional governments of the world. If it’s not the flavor of the day elected officials can’t be bothered. Guess it’s up to us to make it the flavor of the day. 
 God may not play dice, but politicians most certainly do.
-January 16, 2013, 7:47 pm
+[**January 16, 2013, 7:47 pm**](/posts/2013-01-15-the-election-s-over-now-what/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20140807151219/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20140807151219/http://dicksmithsoftware.com/)

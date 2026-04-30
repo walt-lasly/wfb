@@ -20,7 +20,7 @@ Frederik Pohl
 ## Under Three (or Maybe More) Flags, Part 1
 
   
-**View Larger Map**
+[View Larger Map](https://web.archive.org/web/20150920034357/http://maps.google.com/maps?hl=en&client=firefox-a&q=trieste+map&ie=UTF8&hq=&hnear=Trieste,+Province+of+Trieste,+Friuli-Venezia+Giulia,+Italy&gl=us&t=m&z=12&ll=45.649535,13.777972&source=embed)
 
 When the great world of non-English-speaking science fiction fans began to flex their young muscles and develop their own brand-new sorts of clubs and cons there was o way to slow them down.   So it was no surprise to us Americans that, when there sprang into life an annual science fiction film festival, it was on the other side of an ocean, in a city called Trieste.
 
@@ -86,21 +86,22 @@ So I have to work with just what I remember.
 
 ### 4 Comments
 
-- JJ Brannon says:
+- [JJ Brannon](https://web.archive.org/web/20150920034357/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 You do have a photo, though Fred, in my copy of your autobiography of your stay in Italy during WWII.
 JJB
-January 28, 2013, 11:38 pm
-- Jeff B. says:
+[**January 28, 2013, 11:38 pm**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+- [Jeff B.](https://web.archive.org/web/20150920034357/http://intothedarkdimension.blogspot.com/) says:
 This is a fascinating glimpse not just into science fiction fandom history, but history in general. I was particularly enthralled by your description of that night at Lake Garda with the German military burning off ammo. There is something at once lovely, chilling, and haunting about that imagery.
-January 29, 2013, 1:02 am
+[**January 29, 2013, 1:02 am**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 - Michael Black says:
-I thought “Trieste” was the name of the bathyscape that went into the Challenger Deep, and then was used to look for the submarine Thresher.
+I thought “Trieste” was the name of the bathyscape that went into the Challenger Deep, and then was used to look for the submarine Thresher.  
+
 I remember well the article in National Geograpic about that later search.
   Michael
-January 29, 2013, 12:54 pm
-- Stefan Jones says:
+[**January 29, 2013, 12:54 pm**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+- [Stefan Jones](https://web.archive.org/web/20150920034357/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 I’m looking forward to more of this entry, and more like it!
-January 29, 2013, 3:09 pm
+[**January 29, 2013, 3:09 pm**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150920034357/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150920034357/http://dicksmithsoftware.com/)

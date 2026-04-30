@@ -26,7 +26,7 @@ Frederik Pohl
 {{< figure src="Betty-web.jpg" alt="Elizabeth Anne Hull" caption="Elizabeth Anne Hull" >}}
 
 
-Safe travels to all you fen headed for the World Science Fiction Convention, Sasquan, in Spokane this week! Betty’s winging her way there, too. (Sadly, the rest of the blog team will have to follow con highlights from Chicagoland via Facebook.)
+Safe travels to all you fen headed for the [World Science Fiction Convention,](https://web.archive.org/web/20160402165446/http://worldcon.org/)[Sasquan](https://web.archive.org/web/20160402165446/http://www.sasquan.org/), in Spokane this week! Betty’s winging her way there, too. (Sadly, the rest of the blog team will have to follow con highlights from Chicagoland via [Facebook](https://web.archive.org/web/20160402165446/https://www.facebook.com/pohlemics).)
 
 
 Those of you lucky enough to attend Sasquan, be sure to stop by and see Betty at her **autographing**, Sunday from 11 to 11:45 a.m. in Exhibit Hall B, and take a look at this panel:
@@ -34,7 +34,7 @@ Those of you lucky enough to attend Sasquan, be sure to stop by and see Betty at
 
 ![Sasquan](Worldcon_208x307_Sasquan_logo.png)
 
-> “**Not Always Far Apart: The Mainstream Intersection with SF**,” at 11 a.m. Thursday in Bays 111C, with **Elizabeth Anne Hull**, **Robert Silverberg**, **Rich Horton,****Rick Wilber** and **Gary K. Wolfe**:
+> “**Not Always Far Apart: The Mainstream Intersection with SF**,” at 11 a.m. Thursday in Bays 111C, with [Elizabeth Anne Hull](https://web.archive.org/web/20160402165446/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/), [Robert Silverberg](https://web.archive.org/web/20160402165446/http://www.robert-silverberg.com/), [Rich Horton,](https://web.archive.org/web/20160402165446/http://www.sff.net/people/Richard.Horton/)[Rick Wilber](https://web.archive.org/web/20160402165446/http://rickwilber.net/) and [Gary K. Wolfe](https://web.archive.org/web/20160402165446/http://blogs.roosevelt.edu/gwolfe/):
 
 > *“It used to be that science fiction was considered the outlier. Now, it seems to be part of the mainstream. Is this good for science fiction? Is science fiction still a long ways away from mainstream topics?”*
 
@@ -44,14 +44,14 @@ Sounds fascinating! (Not as fascinating as this year’s Business Meeting will l
 Prof. Betty will spend Thursday afternoon on a busman’s holiday, as one of the coaches in the writers’ workshop. If you’re an entrant, they probably told you when and where it is.
 
 
-Have fun, everyone! Don’t let the Kolektinbugs bite … much.
+Have fun, everyone! Don’t let the [Kolektinbugs](https://web.archive.org/web/20160402165446/http://fancyclopedia.org/kolektinbug) bite … much.
 
 
 ### One Comment
 
 - Jeffrey S. Jones says:
 I’m sorry I missed the panel and the autographing — too much else to do!
-August 27, 2015, 10:42 am
+[**August 27, 2015, 10:42 am**](/posts/2015-08-18-betty-goes-to-worldcon-spokane-or-bust/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402165446/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402165446/http://dicksmithsoftware.com/)

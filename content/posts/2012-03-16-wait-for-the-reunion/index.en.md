@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="isaac-asimov-headwb.jpg" alt="Isaac Asimov" caption="Isaac Asimov" >}}
 
 
-Coming up soon,  we’ll post the science-fiction story I wrote as a gift for Isaac Asimov, and what he thought of it.
+Coming up soon,  we’ll post the science-fiction story I wrote as a gift for [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), and what he thought of it.
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120521005741/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120521005741/http://dicksmithsoftware.com/)

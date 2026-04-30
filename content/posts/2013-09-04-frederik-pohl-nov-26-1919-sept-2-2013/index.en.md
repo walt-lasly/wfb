@@ -85,75 +85,75 @@ Along with his wife, Mr. Pohl is survived by his  daughters, Ann Pohl, Kathy Poh
 
 - FS says:
 Thank you for everything, Fred.  You will be missed.
-September 4, 2013, 10:06 pm
+[**September 4, 2013, 10:06 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - bibosemper says:
 For the past couple of years I’ve had a real blast reading a blog written by a living legend. Many thanks to Mr. Pohl’s family and staff for keeping the lines of communication open between the author and the world for as long as he needed. Many thanks to Mr. Pohl for reminding us that we’re never ready for anything!
-September 4, 2013, 11:25 pm
+[**September 4, 2013, 11:25 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Michael Black says:
 A fairly long obituary (I didn’t notice from where) ran in the Montreal Gazette on Tuesday or Wednesday morning.  It hit the high spots.  It ended with “no information on survivors at this time”, which was amusing since Julia is still here in Montreal as far as I know.
 I think I’ll read Damon Knight’s “The Futurians” again after I finish “Farnham’s Freehold”.
 Fred was only 4 years older than my mother, and he sounded in such good shape in recent years, while my mother has had some bad periods, though right now it seems to be in the past.  Each year is kind of a milestone.
    Michael
-September 5, 2013, 1:03 pm
+[**September 5, 2013, 1:03 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Chris says:
 RIP Fred.  An outstanding life.
-September 5, 2013, 11:17 pm
+[**September 5, 2013, 11:17 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - bv says:
 Thank you.
-September 6, 2013, 5:26 am
+[**September 6, 2013, 5:26 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Barry Traylor says:
 I am going to miss his insights and his memories of early SF.
-September 6, 2013, 6:57 am
+[**September 6, 2013, 6:57 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Esoth says:
 Thank you and Godspeed, FP!  I read his books without ever knowing the rest of the story, so this site was such a wonderful find and will be missed.  I loved his tails of days and people passed, the direct, unadorned way he wrote, and the sound and resonance of his voice, filled with good humor and good spirit.  RIP.
-September 6, 2013, 3:20 pm
+[**September 6, 2013, 3:20 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Neil in Chicago says:
 (nice job, Leah)
-September 6, 2013, 8:03 pm
+[**September 6, 2013, 8:03 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Wayne Simpson says:
 A bit more than 30 years ago, while an undergrad studying Physics at Rutgers College in New Brunswick, I took a literature course in Science Fiction to fulfill an English requirement. One of the books on the reading list was Frederick Pohl’s “Gateway”. Conditioned by years of reading science texts, I was a slow and careful reader, but I finished this book in one evening. I simply couldn’t put it down, and when it was done and the course was over, I collected and read everything else I could get with Fred Pohl’s name on it. This began a life long love affair with Fred’s work. Every year of two, I’d look to see if there was anything new from Fred, hidden among the stacks of Star Wars serials and “sword and breastplate” sagas that Sci Fi has degenerated into. This past summer, I read “All The Lives He Led” and it was like a visit from an old friend.
 I recently discovered this blog, and had intended to write Fred a thank you note for a lifetime of intelligent, thought provoking entertainment, but I see the opportunity for that has passed. Oh well, no matter.
 Thank you Fred, for a lifetime of intelligent, thought provoking entertainment.
-September 6, 2013, 8:16 pm
+[**September 6, 2013, 8:16 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - John Armstrong says:
 We’ll miss you a long, long time, Fred
-September 7, 2013, 3:39 pm
+[**September 7, 2013, 3:39 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - H. E. Parmer says:
 My heartfelt condolences to his family and friends.
 I admired Fred’s ability as a writer long before I stumbled on his blog. It’s been great fun, and quite an education, to learn about his life as a fan and an editor. Humanity and a sly sense of humor informed everything he wrote.
 Fare thee well, Fred.
-September 7, 2013, 10:06 pm
+[**September 7, 2013, 10:06 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Bill Harder says:
 It surprises me not one tiny bit that the number of his offspring rivals that of his novels. Prolific in the best sense and hopefully one will follow his path.
-September 7, 2013, 11:34 pm
-- Stefan Jones says:
+[**September 7, 2013, 11:34 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
+- [Stefan Jones](https://web.archive.org/web/20160402214009/http://www.flickr.com/photos/stefan_e_jones/) says:
 On top of numerous ine remembrances and appreciations, it was nice to see Frederik Pohl remembered in a two-page New York Times obit.
-September 8, 2013, 12:32 am
+[**September 8, 2013, 12:32 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Bill Goodwin says:
 Words can’t express how I’ve benefited from Mr. Pohl’s many labors, from his flights of imagination, and from this blog.  My gratitude goes out to all involved in bringing us the fruits of his fine mind, and my sincerest condolences to his friends and family.  The future was expensive this week.  Let’s do right by it.
-September 8, 2013, 6:21 am
+[**September 8, 2013, 6:21 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Paul Wolf says:
 I always looked forward to reading his latest blog entry; I will miss them.  The world has gotten a little less interesting.  Thank you, Mr. Pohl.
-September 8, 2013, 5:21 pm
+[**September 8, 2013, 5:21 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - RF Kimbro says:
 The earth is a better place for Mr. Pohl having been here.
-September 8, 2013, 7:39 pm
+[**September 8, 2013, 7:39 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Sm says:
 The science-fiction fan in me died a little with him. But I will recover. For aren’t we living in the future already?
-September 9, 2013, 7:28 am
+[**September 9, 2013, 7:28 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Marijan says:
 So long, frederik. let’s hope our atoms will mingle in some star yet unborn.
-September 14, 2013, 6:00 am
+[**September 14, 2013, 6:00 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Rob says:
 A sad day, truly. If I manage an iota of Mr Pohl’s achievements in life, I’ll go a happy man.
-September 30, 2013, 9:09 am
+[**September 30, 2013, 9:09 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - Clay Bonnyman Evans says:
 Thank you, Frederik Pohl.
 I hope the estate will choose to leave this site up for the foreseeable future. I have much more exploration to go!
-October 6, 2013, 4:47 pm
+[**October 6, 2013, 4:47 pm**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 - DRM says:
 Back c. 1980 I interviewed Fred and it was one of highlights of my career in journalism. In addition to SF, we talked about a mutual interest in violin concertos. So sorry to see him leave us.
-October 7, 2013, 7:35 am
+[**October 7, 2013, 7:35 am**](/posts/2013-09-04-frederik-pohl-nov-26-1919-sept-2-2013/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402214009/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402214009/http://dicksmithsoftware.com/)

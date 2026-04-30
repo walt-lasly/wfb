@@ -58,86 +58,89 @@ You’re welcome,
 
 ### 20 Comments
 
-- Marte says:
+- [Marte](https://web.archive.org/web/20130128063353/http://loganbooks.net/) says:
 Be of good cheer. The Koch brothers got caught sending the big bucks to meddle in California politics, and they did it through a couple of shell organizations. Which makes it money laundering. Which makes it a federal crime. The California attorney general (a Democrat like all other major California officeholders) has steam coming out her ears, and soon enough the rest of us are going to be able to sit back and watch the fur fly.
-November 14, 2012, 7:28 pm
+[**November 14, 2012, 7:28 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - LeRoy Pearle says:
 Happy birthday to you! A friend of mine a while ago asked me whatever happened to those good old fashioned liberal science fiction authors, the kind who actually thought and wrote about a better future. I sent him a link to here.
-November 14, 2012, 10:04 pm
+[**November 14, 2012, 10:04 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Paul Wolf says:
 Dear Mr. Pohl,
 I hope it’s a happy one (your birthday, that is)!  And thanks for your thoughts and observations.
 Paul
-November 14, 2012, 11:43 pm
-- Stefan Jones says:
+[**November 14, 2012, 11:43 pm**](/posts/2012-11-14-happy-birthday-to-me/)
+- [Stefan Jones](https://web.archive.org/web/20130128063353/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Happy Birthday in advance!
 The real winner in this election was the Reality Based Community. The shock of losing seems to have thrown the conservative establishment for a loop.
 Of course, we’ve got Romney telling his donors that Obama bribed his way into office with social aid programs . . . and nutters signing petitions for their states to secede . . . but the equanimity of the GOP has been shattered.
 Hell, Grover Norquist actually suggested that a Carbon Tax might be a feasible and acceptable replacement for the income tax. Can you imagine?
 I am hoping that the House leadership is looking for a way to save face.
-November 15, 2012, 12:31 am
-- Greg Costikyan says:
+[**November 15, 2012, 12:31 am**](/posts/2012-11-14-happy-birthday-to-me/)
+- [Greg Costikyan](https://web.archive.org/web/20130128063353/http://playthisthing.com/) says:
 Once found a dead bat on the sidewalk in front of WTC 7. Pre-9/11, obviously. Saddening, though.
-November 15, 2012, 3:08 am
+[**November 15, 2012, 3:08 am**](/posts/2012-11-14-happy-birthday-to-me/)
 - Etienne says:
 Happy birthday mister Pohl!
 Your idea seems very interesting, I’m going to check if we don’t have something like this in France, and we don’t, I’ll add it to my bag of wilderness-preserving-proposals !
-November 15, 2012, 6:14 am
-- Steve Davidson says:
+[**November 15, 2012, 6:14 am**](/posts/2012-11-14-happy-birthday-to-me/)
+- [Steve Davidson](https://web.archive.org/web/20130128063353/http://asmblog.amazingstoriesmag.com/) says:
 Happy almost-birthday Fred.
 For the record, I’ve been listening to you for at least 40 years. Receiving both entertainment AND insight.
-November 15, 2012, 8:08 am
+[**November 15, 2012, 8:08 am**](/posts/2012-11-14-happy-birthday-to-me/)
 - Walt G says:
 Happy birthday, Fred Pohl! You’ve given me much joy over many of those years.
-November 15, 2012, 2:32 pm
+[**November 15, 2012, 2:32 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Lars says:
 Happy Birthday, Fred!
 And there’s nothing wrong with kicking a man when he’s down, if it helps to keep him there.
-November 15, 2012, 3:26 pm
-- Nestor says:
+[**November 15, 2012, 3:26 pm**](/posts/2012-11-14-happy-birthday-to-me/)
+- [Nestor](https://web.archive.org/web/20130128063353/http://www.krazykimchi.com/) says:
 Happy birthday in advance, Mr. Pohl!
-November 15, 2012, 5:21 pm
+[**November 15, 2012, 5:21 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - John Traylor says:
 Happy Birthday Fred and keep fighting the good fight.
-November 15, 2012, 9:20 pm
+[**November 15, 2012, 9:20 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Jim Flanagan says:
 Fred
 It was a privilege and a joy to share some of your cake Saturday. Happy early Birthday.
 Also, Thank you for many years of both entertaining and enlightening reading.
 Jim
-November 16, 2012, 12:18 am
+[**November 16, 2012, 12:18 am**](/posts/2012-11-14-happy-birthday-to-me/)
 - H. E. Parmer says:
 Happy almost-birthday, Fred!
 Don’t worry: When it comes to this poster boy for oblivious, arrogant plutocracy and his soooper-genius sidekick I think a little schadenfreude is justly merited. 
 Besides, nobody needs to feel bad for Romney. He’s had his vanity campaign; even though he’s been rejected by all us moochers and parasites, he’s still got that $100 million IRA and whatever else he’s stashed away in Cuckoo Clock Land and the Caymans to console himself. (The rest of us should be so afflicted.) And Ryan is what passes for an intellectual in those circles: Whenever his congressional career fizzles, I’m sure he has a lifetime place reserved at the Right Wing welfare trough.
 I have to admit, though, the blame-fest has also been great entertainment. So go ahead, enjoy!
-November 16, 2012, 2:17 am
+[**November 16, 2012, 2:17 am**](/posts/2012-11-14-happy-birthday-to-me/)
 - Walter says:
 Happy birthday, Fred.
-Thank you for this blog, for the fannish history, for the
-political insight, for the science, for the ideas and bits
+Thank you for this blog, for the fannish history, for the  
+
+political insight, for the science, for the ideas and bits  
+
 of opinion.  Comfort, strength and happiness to you and yours.
-November 16, 2012, 10:14 am
-- Dan Gollub says:
-How close is the technology which could create holograms of falcons or other predators to warn off birds from buildings?
+[**November 16, 2012, 10:14 am**](/posts/2012-11-14-happy-birthday-to-me/)
+- [Dan Gollub](https://web.archive.org/web/20130128063353/http://dreampattern.com/) says:
+How close is the technology which could create holograms of falcons or other predators to warn off birds from buildings?  
+
 Another way to help animals is the following. Fireflies tend to die off when their habitat is destroyed because they don’t seek new habitat. Perhaps a gene could be identified which would provide a dispersal inclination and perhaps fireflies could be mutated in this manner.
-November 16, 2012, 3:05 pm
+[**November 16, 2012, 3:05 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Scott says:
 Happy birthday, Fred. Your writing has been a continuing source of joy and wisdom for decades.
-November 16, 2012, 3:33 pm
+[**November 16, 2012, 3:33 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Ace Lightning says:
 Happy Birthday, Mr. Pohl! As I’ve mentioned before, I’ve been reading your writing for all but the first couple of years of my life – and I’ll turn 65 a couple of weeks after your birthday. May you enjoy many more beautiful and delicious birthday cakes, and thus many more beautiful and delicious birthdays!  
 About the tax on bright lights on skyscrapers, though. I sympathize with those who look for birds to rescue… but beams of light in the sky *are* beautiful and dramatic to look at. Perhaps there’s another way to create visual appeal, one that doesn’t confuse birds to death (nor require enormous amounts of electricity), which could be encouraged with a tax *credit*?
-November 16, 2012, 5:42 pm
-- Bill Higgins-- Beam Jockey says:
+[**November 16, 2012, 5:42 pm**](/posts/2012-11-14-happy-birthday-to-me/)
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20130128063353/http://beamjockey.livejournal.com/) says:
 I must say that Malcolm Phifer’s cake was the most delicious 93rd-birthday cake I have ever tasted.
-November 16, 2012, 7:09 pm
+[**November 16, 2012, 7:09 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Richard Horton says:
-“Astronomers world-wide are concerned with the disappearing stars in the night sky due to increasing skyglow from uncontrolled urban uplight.”
-November 17, 2012, 6:20 pm
+[“Astronomers world-wide are concerned with the disappearing stars in the night sky due to increasing skyglow from uncontrolled urban uplight.”](https://web.archive.org/web/20130128063353/http://www.assa.org.au/lightpollution)
+[**November 17, 2012, 6:20 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 - Mary Rose says:
 Happy birthday, Mr. Pohl. You are a true treasure. You and James Gunn are two of my heroes! Be well -
-November 26, 2012, 2:45 pm
+[**November 26, 2012, 2:45 pm**](/posts/2012-11-14-happy-birthday-to-me/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20130128063353/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20130128063353/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="wonder_stories_january_1934.jpg" alt="Wonder Stories, Jan. 1934" caption="Donald Wollheim wasn’t satisfied with having his first story published in Wonder Stories. He wanted to be paid, too." >}}
 
 
-Hugo Gernsback wasn’t paying his writers. Johnny Michel had finally collected his five dollars, but not without endless annoyance, and Donald Wollheim had not been paid in full even then. They had come to the Brooklyn Science Fiction League to tell us their stories, and to seek vengeance.
+[**Hugo Gernsback**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/) wasn’t paying his writers. [Johnny Michel](https://web.archive.org/web/20091211211852/http://fancyclopedia.editme.com/MICHELIS) had finally collected his five dollars, but not without endless annoyance, and [Donald Wollheim](https://web.archive.org/web/20091211211852/http://www.gcwillick.com/Spacelight/wollheim.html) had not been paid in full even then. They had come to the Brooklyn [**Science Fiction League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/) to tell us their stories, and to seek vengeance.
 
 
 All this inside information was revelatory to me. It was more exciting than anything that had happened to me before, at least since I discovered science fiction, maybe since I discovered sex. I don’t know what airy-fairy assumptions I had made about the mechanisms by which real authors supported themselves through their work. I suppose, if I thought at all, I guessed that once your work appeared in print, the government, or somebody, handed you a blank checkbook, which you filled out as you needed, or chose to want, their money.
@@ -59,13 +59,13 @@ I could have made that calculation at the time, if I had wanted to. I didn’t w
 Listening to the wisdom that flowed from Johnny Michel and Don Wollheim was like standing on the mountain, staff in hand, while the Voice spoke from the burning bush. I could not believe I was so lucky, and I wanted to be part of it.
 
 
-I came back from the meetings and reported all this Gospel to Dirk Wylie, who cursed his parents for settling in Queens Village, so far from Bay Ridge and the Brooklyn Science Fiction League, and worked out stratagems for making the next meetings with me. We came. We sat at the feet of the masters, in one soda fountain or another, while the ice cream melted in our sodas and our malteds went flat, and we resolved to be just like them.
+I came back from the meetings and reported all this Gospel to [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/), who cursed his parents for settling in Queens Village, so far from Bay Ridge and the Brooklyn Science Fiction League, and worked out stratagems for making the next meetings with me. We came. We sat at the feet of the masters, in one soda fountain or another, while the ice cream melted in our sodas and our malteds went flat, and we resolved to be just like them.
 
 
 And when it turned out that Johnny and Donald were inviting us to join a crusade to set these iniquities aright, we took it as not debatable that we should sign up at once. What Donald proposed was that all we SFL members should secede, start our own clubs, assert our independence of The Evil One, and let the world know him for what he was.
 
 
-It sounded great. We thrilled to the idea of causing so much commotion and trouble for Gernsback that he would perforce reform. Or kill himself. Or be driven from the society of human beings — choice of any or all of the above — and so we entered into the great world of science-fiction feuds.
+It sounded great. We thrilled to the idea of causing so much commotion and trouble for Gernsback that he would perforce reform. Or kill himself. Or be driven from the society of human beings — choice of any or all of the above — and so we entered into the great world of [science-fiction feuds](https://web.archive.org/web/20091211211852/http://fancyclopedia.editme.com/FEUDS).
 
 
 **Related posts:**
@@ -81,17 +81,17 @@ It sounded great. We thrilled to the idea of causing so much commotion and troub
 
 ### 3 Comments
 
-- Scott Hauger says:
+- [Scott Hauger](https://web.archive.org/web/20091211211852/http://www.jscotthauger.com/) says:
 Thank ypu for this fascinating history / autobiography!
-October 19, 2009, 11:57 pm
-- Greg Costikyan says:
+[**October 19, 2009, 11:57 pm**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+- [Greg Costikyan](https://web.archive.org/web/20091211211852/http://playthisthing.com/) says:
 Buenos Aires isn’t so bad….
 But I’ve been in the position of choosing who gets paid, and it’s never easy, when resources are scarce. Failing to pay talent rarely puts you in jail. Failing to pay your accountants or lawyers might.
 Not that I’m a big fan of screwing talent.
-October 20, 2009, 11:03 pm
-- Steve Green says:
+[**October 20, 2009, 11:03 pm**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+- [Steve Green](https://web.archive.org/web/20091211211852/http://shadowlibrary.blogspot.com/) says:
 Back in the mid-1990s, I had similar problems with a couple of magazines which had hired me to provide interviews, reviews, etc. I eventually received every penny I was owed, but many others were left out of pocket. And as you say, there are always plenty of people who will ignore that injustice just to see their name in print.
-December 3, 2009, 9:05 am
+[**December 3, 2009, 9:05 am**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20091211211852/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20091211211852/http://dicksmithsoftware.com/)

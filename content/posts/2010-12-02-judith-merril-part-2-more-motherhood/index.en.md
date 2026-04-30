@@ -23,13 +23,13 @@ Frederik Pohl
 {{< figure src="judithmerrilwb.jpg" alt="Judith Merril" caption="Judith Merril" >}}
 
 
-So, take it all in all, by that part of the ’40s, Judy and I were doing quite well.
+So, take it all in all, by that part of the ’40s, [**Judy**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) and I were doing quite well.
 
 
 Was Judy happy?
 
 
-Well, yes, more or less, in general.  But there were some sources of displeasure.  Judy had been a busy Young Socialist (Fourth International), more easily described as a kid Trotskyite.  Many of our brainwashed citizens have been taught to think that anyone who approves of Socialism is a fool or a villain or worse.  That wasn’t the case for Judy.  (It hadn’t been for me, either, a decade or two earlier.)
+Well, yes, more or less, in general.  But there were some sources of displeasure.  Judy had been a busy Young Socialist ([Fourth International](https://web.archive.org/web/20160416132442/http://www.socialistaction.org/fi.htm)), more easily described as a kid Trotskyite.  Many of our brainwashed citizens have been taught to think that anyone who approves of Socialism is a fool or a villain or worse.  That wasn’t the case for Judy.  (It hadn’t been for me, either, a decade or two earlier.)
 
 
 Most of the people attracted to leftwing parties were driven there by revulsion against white men lynching black ones in the south. And crooked politicians calling their police out to spray strikers with machine-gun fire.  And by about a million other social injustices.  Neither Judy nor I could change any of these things, but writers could say what they needed to say, as long as they said it well.
@@ -69,5 +69,5 @@ Well, it wasn’t a guarantee of peace and harmony.  But we could take a chance,
 
 **Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416132442/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416132442/http://dicksmithsoftware.com/)

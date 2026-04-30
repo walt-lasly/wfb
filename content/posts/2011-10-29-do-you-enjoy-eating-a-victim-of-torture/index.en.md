@@ -43,36 +43,43 @@ So tell me: do you still really enjoy veal?  Or, to look at the problem from a d
 
 - Mo says:
 Veal crates have been banned in the UK for over 20 years, and the European Union as a whole for four years. I think a few of the US states have enacted bans, although I don’t know if that’s actually come into force anywhere yet.
-October 29, 2011, 6:31 am
+[**October 29, 2011, 6:31 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - John Traylor says:
-As I live in a county that has many farms, many of them Amish or Mennonite I long ago saw first hand how the calves are treated and I lost all taste for veal many years ago.
+As I live in a county that has many farms, many of them Amish or Mennonite I long ago saw first hand how the calves are treated and I lost all taste for veal many years ago.  
+
  A very nice post Mr. Pohl.
-October 29, 2011, 8:01 am
-- Shakatany says:
+[**October 29, 2011, 8:01 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
+- [Shakatany](https://web.archive.org/web/20120101205726/http://shakatany.livejournal.com/) says:
 Several years ago I did some research for my friend Amy Hatkoff who was writing her book, “The Inner World of Farm Animals” with stories of the intelligence and personalities of the animals that are forced to suffer in the huge farm factories before they are slaughtered. I haven’t given up meat entirely but now I’m a part-time vegetarian.
-October 29, 2011, 9:07 am
+[**October 29, 2011, 9:07 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Ken Marable says:
 I’m with you and haven’t ate veal since I first found out what it was. Thankfully, I heard the truth when I was only about 12, so I haven’t gone anywhere near veal for decades and have told my kids from day one how horrifying it is.
-October 29, 2011, 10:33 am
+[**October 29, 2011, 10:33 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - pjcamp says:
 Haven’t eaten veal in 30 years. I avoid all the products of factory farms.
-October 30, 2011, 12:43 am
+[**October 30, 2011, 12:43 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - drlloyd11 says:
 Hi,
 It honestly doesn’t bother me in the slightest.  I’m not saying that to be combative or because some right-wing radio jerk said so.  I simply don’t feel any empathetic feeling on this.
-  Now please, before words like “sociopath” get banded about I’m not like this with humans or even house pets.   Heck, I can’t evil choose the “Evil path” in RPGs (Bioware games for example).  But there is no switch that fires in my mind that makes be feel even slightly bad.  I literally mean this in the most basic way.
-   I can get on some soapbox or something and expound on this, but I present this information to explain that
-1) There are some people who will be presented with information on how something they like or use has a negative effect on others and  they just won’t care.
-2)This can be a-lot of things, cigarettes, IPods, cars, pornography, or those cheap shirts at wal mart.
-3)Some people who feel this way may get defensive or make up some conspiracy theory that what they are told is not true, but  those people are just fooling them selves.
+  Now please, before words like “sociopath” get banded about I’m not like this with humans or even house pets.   Heck, I can’t evil choose the “Evil path” in RPGs (Bioware games for example).  But there is no switch that fires in my mind that makes be feel even slightly bad.  I literally mean this in the most basic way.  
+
+   I can get on some soapbox or something and expound on this, but I present this information to explain that  
+
+1) There are some people who will be presented with information on how something they like or use has a negative effect on others and  they just won’t care.  
+
+2)This can be a-lot of things, cigarettes, IPods, cars, pornography, or those cheap shirts at wal mart.  
+
+3)Some people who feel this way may get defensive or make up some conspiracy theory that what they are told is not true, but  those people are just fooling them selves.  
+
 4)I actually dislike immensely the idea of a creature suffering ever, but someone that doesn’t factor into the this.
-So I present myself as a specimen of home-sapiens-carnivorous-no-conscience-foodus . A person who for what ever reason simply feels nothing on this topic, but is not a psychopath or anything like that.
+So I present myself as a specimen of home-sapiens-carnivorous-no-conscience-foodus . A person who for what ever reason simply feels nothing on this topic, but is not a psychopath or anything like that.  
+
   In any event, I hope people reply to this if they disagree .
-October 30, 2011, 7:00 am
+[**October 30, 2011, 7:00 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Smith says:
 Maybe you can order veal from a country with slightly more civilised farming practices?
-http://www.google.co.nz/search?q=new+zealand+veal+farming&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a
-October 31, 2011, 2:18 am
+[http://www.google.co.nz/search?q=new+zealand+veal+farming&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a](https://web.archive.org/web/20120101205726/http://www.google.co.nz/search?q=new+zealand+veal+farming&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a)
+[**October 31, 2011, 2:18 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Jonathan K. Stephens says:
 Hi,
 Yep, sorry Mr. P., I’m with drlloyd11 on this one.  
@@ -83,17 +90,17 @@ In reading this, I was immediately reminded of a quote by one of your old pals, 
 “There are hidden contradictions in the minds of people who ‘love Nature’ while deploring the ‘artificialities’ with which ‘Man has spoiled ‘Nature.’ The obvious contradiction lies in their choice of words, which imply that Man and his artifacts are not part of ‘Nature’ — but beavers and their dams are. But the contradictions go deeper than this prima-facie absurdity. In declaring his love for a beaver dam (erected by beavers for beavers’ purposes) and his hatred for dams erected by men (for the purposes of men) the Naturist reveals his hatred for his own race — i.e., his own self-hatred.”
 All the best,
 JKS
-November 2, 2011, 10:58 pm
+[**November 2, 2011, 10:58 pm**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Joel says:
 Virtually all meat production in the U.S. — not just veal — is horrifically cruel. If you can’t eat veal, you shouldn’t be able to eat any beef, or pork, or chicken produced by a large distributor. Dairy too.
 It sounds extreme, but it’s the reality of factory farming. Not thinking about it doesn’t make the suffering of all of those animals go away.
-November 3, 2011, 4:56 pm
+[**November 3, 2011, 4:56 pm**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Jay Borcherding says:
 I have an affinity for animals in general and mammals in particular, and I deplore cruelty.  Having said that, I also enjoy eating some animals.  
 So long as my omnivorous lifestyle is not fundamentally threatened, I believe it is only reasonable, just, and fair that the creatures who are destined to be human meals be  treated as kindly as possible.  
 The active torment and torture that Fred describes is deplorable, and ought to be banned.  It is a relief that I’ve only rarely eaten veal–I prefer the taste of adults cattle–but it saddens me that such cruel farming practices continue to occur in the U.S.
-November 4, 2011, 8:15 pm
-- JJ Brannon says:
+[**November 4, 2011, 8:15 pm**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
+- [JJ Brannon](https://web.archive.org/web/20120101205726/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 I agree with Dr. Lloyd.  Before hieing with my parents to Alaska to begin my formal education, I lived on a farm.  My kept a pig we named Pinky and I fed her slops, singing to her and scratching the bristles between her ears.
 Then, when she was nicely fattened, we ate her.
 This, by the way, is the story I told the college kids pressing the Ban Veal pamphlets into my hands on South Street, Philly, when I was walking there with my XSO in 1988, before I flicked the pamphlet back into the hands of their callow leader, with the caveat, “Make sure before you arrogantly presume to foist your propaganda on to someone, that the person isn’t one who thinks his childhood pet made the tastiest pork-chops he’s ever eaten.”
@@ -102,21 +109,21 @@ My Dad, with me in tow, also used to shoot Bambi and take the carcass to the sla
 Fred, you’re one of the most gracious authors I’ve had the pleasure to meet but, as in the instance of the crawfish/shrimp farm story earlier, some of us have not been indoctrinated to anthropomorphize our food and cannot agree with your stance.  We can agree that you have a right to your own feelings on the matter but it is entirely unpersuasive.
 There’s an interesting article I read in the few years discussing ethics/morality that considered the hypothetical case of a family eating their own dog that was killed in an accident and how this relates to conservatism vs. liberalism.
 JJB
-November 4, 2011, 9:21 pm
-- JJ Brannon says:
+[**November 4, 2011, 9:21 pm**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
+- [JJ Brannon](https://web.archive.org/web/20120101205726/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 Okay, I forgot to include the link to the articel:
-http://www.edge.org/3rd_culture/haidt08/haidt08_index.html
+[http://www.edge.org/3rd_culture/haidt08/haidt08_index.html](https://web.archive.org/web/20120101205726/http://www.edge.org/3rd_culture/haidt08/haidt08_index.html)
 JJB
-November 4, 2011, 9:24 pm
+[**November 4, 2011, 9:24 pm**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Catherine N. says:
 I have found local humanely-raised veal.  Its fabulous.   I try not to eat meat that is factory-farmed, but eat local as much as possible….
 I do think that the Big Agriculture companies have gone overboard, in treating animals like components in a factory processing system.   The best way to combat this is by eating animals from small, local places, much like doing a CSA, when you buy a share in a local farm’s harvest.
 I just believe that we can eat animals, but we should eat animals raised the way nature intended, with love, and good treatment.   And killed humanely.  And I do my best to do this.  
 See if you can find a local farm that raises their own veal humanely…
-November 9, 2011, 9:51 am
+[**November 9, 2011, 9:51 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 - Skinner says:
 I used to eat veal, but when my girlfriend (now fiance) asked me to simply think for a while about the horrors a veal calf goes through, I decided I’d rather not eat it in future. And now I don’t eat veal. Cheers.
-November 10, 2011, 5:43 am
+[**November 10, 2011, 5:43 am**](/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20120101205726/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20120101205726/http://dicksmithsoftware.com/)

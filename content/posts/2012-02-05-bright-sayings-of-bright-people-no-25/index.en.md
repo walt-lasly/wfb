@@ -28,15 +28,16 @@ Frederik Pohl
 
 ### 2 Comments
 
-- Michelle says:
+- [Michelle](https://web.archive.org/web/20120418191041/http://www.bangyoulater.com/) says:
 Hahaha, this is quite true, but also funny! I know a joke like that: Statistics are like whores, play with them long enough and they’ll do anything for you.
-February 17, 2012, 8:03 am
+[**February 17, 2012, 8:03 am**](/posts/2012-02-05-bright-sayings-of-bright-people-no-25/)
 - Richard Imbro says:
-Hi, been awhile between posts. . .
+Hi, been awhile between posts. . .  
+
 Love the blog, especially reminiscences of the pulp era and its icons, Campbell, Asimov, Budrys, Kornbluth.  
 So.
 You okay?
-February 21, 2012, 9:06 pm
+[**February 21, 2012, 9:06 pm**](/posts/2012-02-05-bright-sayings-of-bright-people-no-25/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120418191041/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120418191041/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="Williamson-1970s.jpg" alt="Jack Williamson" caption="Jack Williamson" >}}
 
 
-**Where we left off:** **MidAmeriCon**, August 1976 — As I gave her a foot rub, **Dr. Hull** said, “I forgot to ask you.  Are you married, Frederik?”
+**Where we left off:** [MidAmeriCon](https://web.archive.org/web/20170619233954/http://fancyclopedia.wikidot.com/midamericon), August 1976 — As I gave her a foot rub, [Dr. Hull](https://web.archive.org/web/20170619233954/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/) said, “I forgot to ask you.  Are you married, Frederik?”
 
 
 “Well,”  I said,  “I guess I am, at least for the next, let me see,  four months.  After that, we’ll see.”
@@ -41,7 +41,7 @@ She didn’t stop outwaiting me, just reached up for the hot coffeepot and refil
 “Or not,”  I said.  “See, this was happening on this last New Year’s Day, when we were making jokey resolutions.  Only when we started making resolutions about staying married, it stopped being a joke.  Shall we hit the SFWA room party now?”
 
 
-We hit it, and once  we got past the guardian at the gate she didn’t need any further help from me. Jack Williamson  and a few other old-timers were looking at some foreign sf magazines near the door, and when she caught sight of him and started toward him, he gave her a big “Hello.”  Turned out they had met at some Midwest thing a year or so before.
+We hit it, and once  we got past the guardian at the gate she didn’t need any further help from me. [**Jack Williamson**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/)  and a few other old-timers were looking at some foreign sf magazines near the door, and when she caught sight of him and started toward him, he gave her a big “Hello.”  Turned out they had met at some Midwest thing a year or so before.
 
 
 I spent the next half hour talking SFWA business with whoever happened by, and just when I was thinking of telling her I needed to leave, she came over to me to say she had to get up in the morning but Jack’s room was on the same floor as hers in that other hotel, and he had offered to walk her home.
@@ -67,7 +67,7 @@ I spent the next half hour talking SFWA business with whoever happened by, and j
 
 - Ken says:
 Yikes, a false ending! I thought the story was concluded with chapter four.
-May 6, 2013, 6:25 pm
+[**May 6, 2013, 6:25 pm**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619233954/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619233954/http://dicksmithsoftware.com/)

@@ -22,14 +22,14 @@ Frederik Pohl
 ![space turkey by Kurt Erichsen](spaceturkey.jpg)
 
 
-**Kurt Erichsen**
-**STET**
+[Kurt Erichsen](https://web.archive.org/web/20160531173439/http://www.kurterichsen.com/)
+[STET](https://web.archive.org/web/20160531173439/http://en.wikipedia.org/wiki/STET_%28fanzine%29)
 
 ### One Comment
 
-- Bill Goodwin says:
+- [Bill Goodwin](https://web.archive.org/web/20160531173439/http://771715/) says:
 Must be on Gravy Planet.
-November 26, 2010, 2:20 am
+[**November 26, 2010, 2:20 am**](/posts/2010-11-25-happy-thanksgiving/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160531173439/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160531173439/http://dicksmithsoftware.com/)

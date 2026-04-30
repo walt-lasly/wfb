@@ -25,5 +25,5 @@ Frederik Pohl
 **“I think of laughter as the sound of comprehension.”
 —Tom Stoppard**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707112516/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707112516/http://dicksmithsoftware.com/)

@@ -31,7 +31,7 @@ Frederik Pohl
 - Richard says:
 Typical pinko leftist.
 (Note to the irony impaired: yes, I do know who Ike was.)
-December 29, 2013, 5:57 pm
+[**December 29, 2013, 5:57 pm**](/posts/2013-12-29-bright-sayings-of-bright-people-no-50-eisenhower/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416144957/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416144957/http://dicksmithsoftware.com/)

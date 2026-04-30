@@ -28,19 +28,20 @@ Frederik Pohl
 
 ### 4 Comments
 
-- Bill Goodwin says:
+- [Bill Goodwin](https://web.archive.org/web/20150922015140/http://771715/) says:
 “To think is to differ.” — Clarence Darrow
-December 19, 2010, 12:39 pm
+[**December 19, 2010, 12:39 pm**](/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/)
 - Kelly says:
-Funny, I guess this is what Sting was paraphrasing in the Soul Cages:
+Funny, I guess this is what Sting was paraphrasing in the Soul Cages:  
+
 Men go crazy in congregations.  They only get better one by one.
-December 26, 2010, 12:22 am
+[**December 26, 2010, 12:22 am**](/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/)
 - John Boland says:
 Mackay’s best known book, published around 1841, is Extraordinary Popular Delusions and the Madness of Crowds. It was  bible on Wall Street; Baruch penned an introduction to a 1932 edition.
-December 30, 2010, 12:02 pm
-- Anton Sherwood says:
+[**December 30, 2010, 12:02 pm**](/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/)
+- [Anton Sherwood](https://web.archive.org/web/20150922015140/http://bendwavy.org/) says:
 “It is not worth an intelligent man’s time to be in the majority. By definition, there are already enough people to do that.” —G H Hardy
-May 14, 2011, 12:28 am
+[**May 14, 2011, 12:28 am**](/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150922015140/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150922015140/http://dicksmithsoftware.com/)

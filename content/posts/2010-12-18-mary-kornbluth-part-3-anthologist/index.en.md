@@ -21,10 +21,10 @@ Frederik Pohl
 
 ![Science Fiction Showcase, edited by Mary Kornbluth](sf-showcase-mary-kornbluth.jpg)
 
-After Cyril’s cremation, I hung around a day or two longer, because there were a couple more things I could do for the Kornbluths.  Cyril had left a few unsalable and unfinished fragments, which Mary pulled out for me.  I could see where he had  given up on them, but I was a more resourceful plotter than Cyril had been.  Besides, most of them had  that wonderful total command of the medium that Cyril had begun to develop.
+After [**Cyril’s cremation**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), I hung around a day or two longer, because there were a couple more things I could do for the Kornbluths.  Cyril had left a few unsalable and unfinished fragments, which Mary pulled out for me.  I could see where he had  given up on them, but I was a more resourceful plotter than Cyril had been.  Besides, most of them had  that wonderful total command of the medium that Cyril had begun to develop.
 
 
-I told Mary that I could find ways of turning most of them into actual stories, and if she liked I would do so and sell them, and we would split the money.  She said she liked, and so I took them home. (One of them, “The Meeting,” won a Hugo Award, the only Hugo Cyril ever got.)
+I told Mary that I could find ways of turning most of them into actual stories, and if she liked I would do so and sell them, and we would split the money.  She said she liked, and so I took them home. (One of them, “[The Meeting](https://web.archive.org/web/20150920042402/http://www.amazon.com/gp/product/0671656201?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671656201),” won a Hugo Award, the only Hugo Cyril ever got.)
 
 
 But I had another, somewhat larger idea. “How,” I asked Mary, “would you like to start a new career as an anthologist?”
@@ -36,7 +36,7 @@ That one she liked a lot.  It was something that she might perhaps be really goo
 But that was my job.  I paid a call on that most decent of editors, Walter I Bradbury at Doubleday.  “It should have a pretty good shot,” I told him. “All of the reviewers know her name, and every one of them liked her husband’s work. There should at least be some sympathy sale, and — ”  But I stopped talking there, because Brad had actually been saying “yes” and “all right” as soon as he heard the name.
 
 
-The book, **Science Fiction Showcase**, happened as planned.  Mary made her choices, I helped her clear the rights.  It came out in 1959.  It sold some copies.  And it disappeared into old-anthology heaven, because what it didn’t have enough personality to make readers want more.  I should have worked on that with Mary. I didn’t, though.
+The book, [Science Fiction Showcase](https://web.archive.org/web/20150920042402/http://www.amazon.com/gp/product/B000GJZCW6?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000GJZCW6), happened as planned.  Mary made her choices, I helped her clear the rights.  It came out in 1959.  It sold some copies.  And it disappeared into old-anthology heaven, because what it didn’t have enough personality to make readers want more.  I should have worked on that with Mary. I didn’t, though.
 
 
 There was one unexpected complication.  I had been planning to ask the contributors to donate their stories for free, so she would get to keep more of the advance.  Mary wouldn’t allow that, though: “No charity.  I Will pay what every other anthologist pays.”  And so it was.
@@ -59,9 +59,9 @@ Most of the more dangerous brushfires that surrounded the Kornbluths now safely 
 
 ### One Comment
 
-- Bill Goodwin says:
+- [Bill Goodwin](https://web.archive.org/web/20150920042402/http://771715/) says:
 And a nice Richard Powers cover, too.  I need to find this one for my collection!
-December 19, 2010, 12:42 pm
+[**December 19, 2010, 12:42 pm**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150920042402/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150920042402/http://dicksmithsoftware.com/)

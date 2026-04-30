@@ -50,39 +50,40 @@ So grind in good health, dear friends, and next time you’re making meatloaf, y
 
 ### 8 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20111106210951/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Even creepier than trays of ground meat:
 “Chubs”
 A fat sausage shaped plug of ground meat, contained in a plastic shell.
 You can just imagine these being filled with the bovine equivalent of Chicken Little.
 You can still have a meat-department butcher make ground beef for you, from selected cuts, but you have to take the time to do it. When you are heading for a friend’s BBQ it is so much easier to get the preformed patties. And the resulting hamburgers are . . . 
 . . . man, I shouldn’t think about this kind of thing on a Monday morning.
-April 12, 2010, 10:53 am
+[**April 12, 2010, 10:53 am**](/posts/2010-04-12-meat-grinding/)
 - John H says:
-And if you really feel adventurous, you should try cow-pooling: http://www.time.com/time/magazine/article/0,9171,1902835,00.html
-April 12, 2010, 1:23 pm
-- John Murphy says:
+And if you really feel adventurous, you should try cow-pooling: [http://www.time.com/time/magazine/article/0,9171,1902835,00.html](https://web.archive.org/web/20111106210951/http://www.time.com/time/magazine/article/0,9171,1902835,00.html)
+[**April 12, 2010, 1:23 pm**](/posts/2010-04-12-meat-grinding/)
+- [John Murphy](https://web.archive.org/web/20111106210951/http://resistentialismincarnate.blogspot.com/) says:
 Oh, those are a lot of fun! Depending on the model you got, there might be an attachment for making your own sausages, which is also well worth trying.
-April 12, 2010, 2:42 pm
+[**April 12, 2010, 2:42 pm**](/posts/2010-04-12-meat-grinding/)
 - Ace Lightning says:
 Fat in meat does contribute somewhat to the flavor, but more important is the fact that fat is what keeps the meat juicy, tender, and moist when cooked, especially if you like your meat medium-well or well done. I love hamburgers, and I wish I could afford a meat grinder - I have been known to fire up the charcoal grill even in the middle of winter. (One memorable New Year’s Eve party was a full-scale barbecue, with the grill just outside the kitchen door so the food could be rushed inside and served before it got cold. I wish I still had the picture of me grilling burgers as snow fell all around…)
-April 13, 2010, 4:07 am
-- Stefan Jones says:
+[**April 13, 2010, 4:07 am**](/posts/2010-04-12-meat-grinding/)
+- [Stefan Jones](https://web.archive.org/web/20111106210951/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 @Ace: If you are patient, pretty much every kitchen gadget appears at Goodwill thrift stores sooner or later.
-April 13, 2010, 5:52 pm
+[**April 13, 2010, 5:52 pm**](/posts/2010-04-12-meat-grinding/)
 - Al Bogdan says:
 My grandfather was a burly Polish butcher in New York city. He always brought home the best kielbasa. Solid pieces if meat without any unidentifiable ground parts. Now the guy also loved his jellied pigs feet, so when he warned us against eating hot dogs, and some other sausages, you know they must contain some nasty stuff.
 I actually started reacting badly to ground beef about five years ago. Only the ground stuff, not steaks. I remembered that my grandfather always ground his own hamburger instead of buying pre-ground, so we started tossing steaks in the Cuisinart. It solved the problem.
 We also try to stick to antibiotic free meats whenever possible.
-April 15, 2010, 6:46 am
+[**April 15, 2010, 6:46 am**](/posts/2010-04-12-meat-grinding/)
 - Neil in Chicago says:
 Kosher remains a contender for those intense enough about this stuff.
 @John H - I don’t know if they’re still there, but at least until recently, small towns had refrigerator/freezer lockers, so when you bought, say, half a steer and had it cut up, you had somewhere to store it while you gradually used the pieces.
-April 17, 2010, 7:53 pm
+[**April 17, 2010, 7:53 pm**](/posts/2010-04-12-meat-grinding/)
 - Ace Lightning says:
-@Stefan Jones:
-I thought I had one of the hand-cranked kind that clamps onto the edge of a table, “Grandmother’s” meat grinder, but it appears that my grown son (who is a serious foodie himself) took it. I want a powered one anyway… but it occurs to me that I already own a venerable KitchenAid mixer with the power takeoff, and there’s a meat-grinder attachment for that. Now I just have to be able to *afford* it…
-April 19, 2010, 2:36 am
+@Stefan Jones:  
 
-**WordPress**
-**TWTFB**
+I thought I had one of the hand-cranked kind that clamps onto the edge of a table, “Grandmother’s” meat grinder, but it appears that my grown son (who is a serious foodie himself) took it. I want a powered one anyway… but it occurs to me that I already own a venerable KitchenAid mixer with the power takeoff, and there’s a meat-grinder attachment for that. Now I just have to be able to *afford* it…
+[**April 19, 2010, 2:36 am**](/posts/2010-04-12-meat-grinding/)
+
+[WordPress](https://web.archive.org/web/20111106210951/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111106210951/http://dicksmithsoftware.com/)

@@ -25,5 +25,5 @@ Frederik Pohl
 **“Power concedes nothing without a demand.  It never did and it never will.”
 —Frederick Douglass**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508222804/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508222804/http://dicksmithsoftware.com/)

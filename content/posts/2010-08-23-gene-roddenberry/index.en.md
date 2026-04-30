@@ -29,7 +29,7 @@ The Man Who Launched the *Enterprise*
 {{< figure src="geneandmajelroddenberrywb.jpg" alt="Majel Barrett and Gene Roddenberry." caption="Majel Barrett and Gene Roddenberry." >}}
 
 
-I was pretty satisfied with **Tricon**, the Worldcon in Cleveland in 1966. When it was over, I had had a chance to hang with many old friends, I had had a few talks with writers I wanted to juice up for the magazines I was editing, Galaxy and If, and I had picked up another **Hugo Award** — this one a “Best Magazine” award for If.  I was aware that there was a lot of stuff going on that I had missed — like the showing of the pilot episode of something called *Star Trek* — but I had received an information package about it from its producer, somebody named **Gene Roddenberry**, and he had described it as “a kind of **Wagon Train** in space.”  That didn’t awaken in my soul any desire to see it.
+I was pretty satisfied with [Tricon](https://web.archive.org/web/20131010195428/http://www.fanac.org/worldcon/Tricon/w66-rpt.html), the Worldcon in Cleveland in 1966. When it was over, I had had a chance to hang with many old friends, I had had a few talks with writers I wanted to juice up for the magazines I was editing, Galaxy and If, and I had picked up another [Hugo Award](https://web.archive.org/web/20131010195428/http://www.thehugoawards.org/hugo-faq/) — this one a “Best Magazine” award for If.  I was aware that there was a lot of stuff going on that I had missed — like the showing of the pilot episode of something called *Star Trek* — but I had received an information package about it from its producer, somebody named [Gene Roddenberry](https://web.archive.org/web/20131010195428/http://www.roddenberry.com/corporate-gene-biography), and he had described it as “a kind of [Wagon Train](https://web.archive.org/web/20131010195428/http://www.museum.tv/eotvsection.php?entrycode=wagontrain) in space.”  That didn’t awaken in my soul any desire to see it.
 
 
 True, Roddenberry himself sounded sort of interesting: A B-17 pilot with 89 missions in the South Pacific in World War II, later a sergeant in the Los Angeles Police Department, who began writing TV scripts in his spare time.  But by then I had had a fair number of dealings with TV people on my own, and they hadn’t impressed me with the breed.  I wasn’t enough interested to offer to buy him a drink.
@@ -62,7 +62,7 @@ I didn’t, and for a prop Gene picked his Hugo from the Worldcon off the shelf 
 Gene had invited me to try writing a script for the series.  I did try, but without much luck.  Perhaps the problem was that I didn’t really like the idea of another barrier between me and the audience — that is, a director and a bunch of actors — or perhaps I just wasn’t into network television, having already had my share of disillusioning experiences with it.  Anyway, for some reason I just was no good at it.  Still, that — and the hope that Engulf and Destroy might ultimately come up with the okay for us to do some of the stories — meant that I was in the habit of visiting Gene every time I hit L.A., which was always a pleasure. . . .
 
 
-Well, almost always.  There was the time when he invited me up to his home for lunch, high over Hollywood, where he lived with his wife, better known as Majel Barrett when she had appeared as Nurse Chapel in the series.  It was a handsome house, with a grand view of the city spread out below.  The furnishing was handsome, too, including the deep-pile, snow-white carpeting in the room we were in.  Majel asked me whether I preferred white wine or red.  I took the red.  Then I almost immediately knocked the glass over, spilling the whole glass of that deep red wine onto the still deep-pile, but no longer snow-white, carpeting.
+Well, almost always.  There was the time when he invited me up to his home for lunch, high over Hollywood, where he lived with his wife, better known as [Majel Barrett](https://web.archive.org/web/20131010195428/http://www.roddenberry.com/corporate-majel-biography) when she had appeared as Nurse Chapel in the series.  It was a handsome house, with a grand view of the city spread out below.  The furnishing was handsome, too, including the deep-pile, snow-white carpeting in the room we were in.  Majel asked me whether I preferred white wine or red.  I took the red.  Then I almost immediately knocked the glass over, spilling the whole glass of that deep red wine onto the still deep-pile, but no longer snow-white, carpeting.
 
 
 Majel was a sweet-tempered woman.  The proof of that is that she didn’t snatch up one of the cheese knives and cut my throat on the spot.
@@ -95,16 +95,16 @@ One of the confederates turned out to be me.  To find out more about it, however
 
 - Grego says:
 Thanks for the cliffhanger, Fred.  I look forward to more of your story!
-August 23, 2010, 1:23 am
-- Jerry says:
+[**August 23, 2010, 1:23 am**](/posts/2010-08-23-gene-roddenberry/)
+- [Jerry](https://web.archive.org/web/20131010195428/http://triplanetary.blogspot.com/) says:
 It’s too bad you didn’t have any luck writing episodes for the show. I always liked the ones Sturgeon did and I’m sure yours would have been just as enjoyable.
-August 23, 2010, 9:01 pm
+[**August 23, 2010, 9:01 pm**](/posts/2010-08-23-gene-roddenberry/)
 - Neil in Chicago says:
-That may be the most enormous To be continued. . . .  in history.
-August 29, 2010, 4:44 pm
+That may be the most enormous *To be continued. . . .*  in history.
+[**August 29, 2010, 4:44 pm**](/posts/2010-08-23-gene-roddenberry/)
 - Alex Dering says:
 Great story. I will think of it every time I see a white carpet.
-September 6, 2010, 10:35 am
+[**September 6, 2010, 10:35 am**](/posts/2010-08-23-gene-roddenberry/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20131010195428/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131010195428/http://dicksmithsoftware.com/)

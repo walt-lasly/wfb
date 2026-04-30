@@ -25,5 +25,5 @@ Frederik Pohl
 **“First you’re young, then you’re middle-aged, then you’re wonderful.”  
 —Alice Roosevelt Longworth**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707002408/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707002408/http://dicksmithsoftware.com/)

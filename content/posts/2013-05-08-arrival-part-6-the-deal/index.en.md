@@ -23,13 +23,13 @@ Frederik Pohl
 {{< figure src="Carol-Metcalf-Ulf-Stanton-P.jpg" alt="Carol Poh " caption="Carol Pohl" >}}
 
 
-When I realized how much I had told this Dr. Hull of the sort of things I had made a point of keeping quiet about, I couldn’t help wondering why she hadn’t at least smelled my breath before letting me talk about all the things I hadn’t been willing to tell anyone else about the deal Carol and I had made.
+When I realized how much I had told this [Dr. Hull](https://web.archive.org/web/20170620003130/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/) of the sort of things I had made a point of keeping quiet about, I couldn’t help wondering why she hadn’t at least smelled my breath before letting me talk about all the things I hadn’t been willing to tell anyone else about the deal Carol and I had made.
 
 
 Or, I should say, The Deal, because talking about terminating our marriage certainly was a big enough thing in our lives to be worth capital letters.  Almost twenty-five years.  Four kids — very parent-conscious ones, too, because they were accustomed to a (singular) Mom and a (singular) Dad, never mind that the biological facts of life were really more complicated than that for at least the first two of them.
 
 
-Backflash: When it began to look as though my custody differences with Judy (my daughter Annie’s original mother, remember?), would only get official if we argued them out in a court of law, and in that event if Carol and I married we would have a pretty good-sized legal argument if only because we had a stable home life — that is, not flitting per whim all over the place.  You follow my argument?  Carol and I, plaintiffs, legally married, Judy and What’s-His-Name — Walter Miller  — the writer she was roaming the country with, openly unmarried but acting as though they were.
+Backflash: When it began to look as though my [**custody differences**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/) with [**Judy**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) (my daughter [**Annie’s**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/) original mother, remember?), would only get official if we argued them out in a court of law, and in that event if Carol and I married we would have a pretty good-sized legal argument if only because we had a stable home life — that is, not flitting per whim all over the place.  You follow my argument?  Carol and I, plaintiffs, legally married, Judy and What’s-His-Name — [Walter Miller](https://web.archive.org/web/20170620003130/http://www.kirjasto.sci.fi/wmiller.htm)  — the writer she was roaming the country with, openly unmarried but acting as though they were.
 
 
 So I had asked Carol, “Care for getting married one day soon?” and she said sure.  With quite a few added reservations and qualifications, it is true, of the “Like this” or “Like that” kind, but acceptable ones.  For instance, if she inadvertently became pregnant we had to rethink the whole thing, which I agreed to at once.  And what it all added up to, it seemed to me, — finally — was a quite nice life for at least the next year.
@@ -53,5 +53,5 @@ All clear?  Well, no.
 - [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
 - [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620003130/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620003130/http://dicksmithsoftware.com/)

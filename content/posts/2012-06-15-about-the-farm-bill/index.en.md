@@ -37,26 +37,27 @@ If you feel moved to write your congressman about this, all you need say is “s
 
 ### 6 Comments
 
-- Leah A. Zeldes says:
-Even more worrisome are devastating cuts to food stamps that are part of the bill. http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html
-June 15, 2012, 1:18 pm
-- Larry Sanderson says:
+- [Leah A. Zeldes](https://web.archive.org/web/20160416230121/http://www.zeldes.comm/) says:
+Even more worrisome are devastating cuts to food stamps that are part of the bill. [http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html](https://web.archive.org/web/20160416230121/http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html)
+[**June 15, 2012, 1:18 pm**](/posts/2012-06-15-about-the-farm-bill/)
+- [Larry Sanderson](https://web.archive.org/web/20160416230121/http://lsanderson.net/) says:
 Hey! I like my farm subsidies! Besides, you can’t grow no greens in NoDak…
-June 16, 2012, 9:40 am
+[**June 16, 2012, 9:40 am**](/posts/2012-06-15-about-the-farm-bill/)
 - Howard Brazee says:
 The farm bill is not about food, it is about Big Business which buys politicians. 
 (Competing with other Big Business)
-June 18, 2012, 7:36 am
+[**June 18, 2012, 7:36 am**](/posts/2012-06-15-about-the-farm-bill/)
 - John says:
 Can we just stop with the darn subsidies?
-June 19, 2012, 1:02 pm
+[**June 19, 2012, 1:02 pm**](/posts/2012-06-15-about-the-farm-bill/)
 - John Behnken says:
-Right on, Mr. Pohl.  Already done.
-We might also mention that the majority of corn that is grown goes to feed cows and grow them BIG, which produces BIG beef.   We should let the cows eat grass, like they were born to do, and use the unsubsidized corn industry to feed people.  One might even say that the corn subsidy is truly a beef subsidy. But that sounds too much like a conspiracy.  
-June 21, 2012, 9:17 am
-- Eric says:
-I read your books in an attempt to avoid thinking about the horrible decline of American politics. It works quite marvelously in the short term.
-July 21, 2012, 12:41 pm
+Right on, Mr. Pohl.  Already done.  
 
-**WordPress**
-**TWTFB2**
+We might also mention that the majority of corn that is grown goes to feed cows and grow them BIG, which produces BIG beef.   We should let the cows eat grass, like they were born to do, and use the unsubsidized corn industry to feed people.  One might even say that the corn subsidy is truly a beef subsidy. But that sounds too much like a conspiracy.  
+[**June 21, 2012, 9:17 am**](/posts/2012-06-15-about-the-farm-bill/)
+- [Eric](https://web.archive.org/web/20160416230121/http://orbitalmass.com/) says:
+I read your books in an attempt to avoid thinking about the horrible decline of American politics. It works quite marvelously in the short term.
+[**July 21, 2012, 12:41 pm**](/posts/2012-06-15-about-the-farm-bill/)
+
+[WordPress](https://web.archive.org/web/20160416230121/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416230121/http://dicksmithsoftware.com/)

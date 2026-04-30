@@ -29,7 +29,7 @@ Back in the late 1970s, I got a call from a scientist friend I had last seen at 
 I said it:  “What’s the catch?”
 
 
-“I thought you would ask that,”  he said.  “Well, it’s the Reverend Sun Myung Moon’s, what he calls a Conference on the Unity of the Sciences.”
+“I thought you would ask that,”  he said.  “Well, it’s the Reverend [Sun Myung Moon’s](https://web.archive.org/web/20111014233543/http://www.nndb.com/people/745/000022679/), what he calls a Conference on the Unity of the Sciences.”
 
 
 That was a pretty big catch.  I’m not fond of weird made-up religions in the first place (I’m personally an infrequent Unitarian) and of Moon’s in particular, because I think he is an evil man, with his relentlessly right-wing Washington Times and unpleasant doctrines, not to mention that I had been buttonholed in airports by too many of his zombie saved souls to be impartial.
@@ -53,7 +53,7 @@ What had been the lobby was now divided into lanes and divisions like a Motor Ve
 While I was waiting for my train I looked through the documents.  The air tickets seemed all right: New York to Tokyo, Tokyo to Seoul on Japan Air Lines, which I had flown before and liked.  The program seemed to have some of the promised interesting sessions — Asian space programs, urban systems, etc, though I didn’t know many of the speakers.  There was one welcoming speech by Moon himself, talking about something he called his International Peace Highway, whatever that was, and a note welcoming me and inviting me to add a guest of my own.
 
 
-That was an unexpected opportunity.  After some thought — and after the first two or three people I asked couldn’t make it or wouldn’t — I settled on my friend Sakyo Komatsu, sometimes called the Arthur C. Clarke of Japan for his stature as an sf writer and his grasp of non-fiction sciences, and he said yes.
+That was an unexpected opportunity.  After some thought — and after the first two or three people I asked couldn’t make it or wouldn’t — I settled on my friend [Sakyo Komatsu](https://web.archive.org/web/20111014233543/http://www.nippon2007.us/GOH/Lipsett_tribute_to_Komatsu.php), sometimes called the Arthur C. Clarke of Japan for his stature as an sf writer and his grasp of non-fiction sciences, and he said yes.
 
 
 On the appointed day I got on the appointed four-engine JAL jet, and quite a few hours later got off at Seoul’s new and handsome airport, with a tiny worry on my mind.  The worry was caused by the fact that, when giving me my tickets, the woman who handed them to me said,  “By the way, when you get to the airport, it’s better that you don’t say you’re going to the Conference.”  I should have asked why, but I didn’t.  When I got to the Immigration clerk I obediently said I was there as a tourist, whereupon he looked me in the eye and said,  “You’re going to the Unity of the Sciences Conference, aren’t you?”
@@ -80,7 +80,7 @@ I took one last look through the program as everyone was getting up to leave, an
 {{< figure src="soleri.jpg" alt="Paolo Soleri" caption="Paolo Soleri" >}}
 
 
-That one I didn’t go to, having decided I had seen about enough of Moonies (and of Philadelphia) to last me for a while.  But I kept getting invitations to the annual event and a few years later, when it was scheduled to be in Chicago, I accepted the offer.  It wasn’t that I had felt the need for more of Moon’s teachings, simply that I was then courting a Chicago-area college professor named Betty Anne Hull and a free airline ticket to see her over a weekend was welcome.  But I did take in part of the proceedings.  I’m glad I did, too, because it gave me a chance to meet Paolo Soleri, the arcologist.
+That one I didn’t go to, having decided I had seen about enough of Moonies (and of Philadelphia) to last me for a while.  But I kept getting invitations to the annual event and a few years later, when it was scheduled to be in Chicago, I accepted the offer.  It wasn’t that I had felt the need for more of Moon’s teachings, simply that I was then courting a Chicago-area college professor named [Betty Anne Hull](https://web.archive.org/web/20111014233543/http://www.nippon2007.us/participants/hulle_participant.php) and a free airline ticket to see her over a weekend was welcome.  But I did take in part of the proceedings.  I’m glad I did, too, because it gave me a chance to meet [Paolo Soleri](https://web.archive.org/web/20111014233543/http://www.arcosanti.org/project/background/soleri/main.html), the arcologist.
 
 
 What is an arcologist ?  It is a person whose studies concern ways to house human beings with the least possible cost in land and carbon footprint (a term Soleri didn’t use because it hadn’t been invented yet), and thus a kind of studies that we desperately need since we keep on so avidly making more and more babies every year.  As an arcologist, Soleri designs arcologies — houses to do what I just said — and has even been building one, located in Arizona about 70 miles north of Phoenix for some time.  By “some time”  I mean he started building it in 1970 and it still is not complete.
@@ -99,34 +99,34 @@ Soleri’s a brilliant man with good ideas, but somebody should have whispered i
 
 ### 7 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20111014233543/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Man, you get the most interesting gigs!
 Somewhere in the 80s the term “arcology” got repurposed, from “dense sustainable housing integrated into an environment” to “gigantic mixed-use megastructure cut off from surrounding area.”
-It might have been that Niven & Pournelle novel, or Neuromancer.
-January 3, 2010, 9:30 pm
+It might have been that Niven & Pournelle novel, or *Neuromancer*.
+[**January 3, 2010, 9:30 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Tom says:
 The moonies have been found guilty of swindling hundreds of millions, likely billions, of dollars from the Japanese, literally targeting widows with their scams. They have doing it for decades and arrests continue because they will not stop. They see Japan as the “Eve” nation that must fund Moon’s political activities and intel gathering for his movement and its friends as part of “God’s” plan.
 So how easy is it to rationalize using money to fund your “trips” that was made conning widows? Just look the other way or as your article reflects, you have no clue who Moon is or what he is about? You just find a way to rationalize your own involvement and then never learn enough to find out how foolish you were? Or for that matter, Moon brags about how the WT helps him gain intel from around the world. How much help did you and the others give him? Seriously, do you know enough about him to tell why he had you there? Or did you buy that he was just a good old soul looking to help the world? hah
 Most rationalizers claim that no one tried to “convert” them so who cares, right?
 Watch this video - this is a quote from it. It’s James Whelan, the first editor of the WT, he has a message for you.
- http://tinyurl.com/yqqbmz 
+ [http://tinyurl.com/yqqbmz](https://web.archive.org/web/20111014233543/http://tinyurl.com/yqqbmz) 
 “They (the Moonies) are subverting our political system. They’re doing it through front organizations–most of them disguised–and through their funding of independent organizations–through the placement of volunteers in the inner sanctums of hard-pressed organizations. In every instance–in every instance–those who attend their conferences, those who accept their money or their volunteers, delude themselves that there is no loss of virtue because the Moonies have not proselytized. That misses the central, crucial point: the Moonies are a political movement in religious clothing. Moon seeks power, not the salvation of souls. To achieve that, he needs religious fanatics as his palace guard and shock troops. But more importantly, he needs secular conscripts–seduced by money, free trips, free services, seemingly endless bounty and booty–in order to give him respectability and, with it, that image of influence which translates as power.”
-January 4, 2010, 4:03 pm
-- Robert Nowall says:
+[**January 4, 2010, 4:03 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+- [Robert Nowall](https://web.archive.org/web/20111014233543/http://www.robertnowall.com/) says:
 Mistrust of the Moonies has kept me away from the Washington Times…much as mistrust of the Scientologists has kept me away from the Writers of the Future.  I’m leery of certain people or groups, whatever their ideological orientation.
-January 5, 2010, 7:57 am
-- Johnny Pez says:
+[**January 5, 2010, 7:57 am**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+- [Johnny Pez](https://web.archive.org/web/20111014233543/http://johnnypez9.blogspot.com/) says:
 New rule: Philadelphia must now be pronounced “Fladdleflah” because the Reverend Moon says so.
-January 7, 2010, 5:45 am
+[**January 7, 2010, 5:45 am**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Tina Black says:
 Hey, at least Moon doesn’t drag in Space Aliens.
-January 7, 2010, 3:04 pm
+[**January 7, 2010, 3:04 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Joe Fodor says:
 yes, Tom — By eating sushi in the US you also support Moon’s world domination plans, or so I’ve heard from similarly concerned folk. Having the planet completely controlled by Moon and his family seems a small price to pay for a steady supply of fresh tuna roll, in my opinion.  Though I guess it’s bad for the environment and I should be eating more tilapia and farm-raised catfish instead.
-January 8, 2010, 10:30 am
+[**January 8, 2010, 10:30 am**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Cap'n Bob says:
 If we could get the Moonies and Scientologists to fight each other for world domination, it would be wonderful.
-August 18, 2011, 4:40 pm
+[**August 18, 2011, 4:40 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111014233543/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111014233543/http://dicksmithsoftware.com/)

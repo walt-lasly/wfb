@@ -26,8 +26,8 @@ Our continued reminiscences of Isaac Asimov, and we must be getting somewhere ne
 
 [**Isaac**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)
 [**Gertrude**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
-**David**
-**Robyn**
+[David](https://web.archive.org/web/20131011223123/http://www.sfgate.com/cgi-bin/article.cgi?f=/e/a/1998/03/15/METRO15371.dtl)
+[Robyn](https://web.archive.org/web/20131011223123/http://wikibin.org/articles/robyn-asimov.html)
 
 
 Still, Gertrude wasn’t entirely happy.  She knew that her husband was getting quite well known, you could almost even use the word “famous,” with all those books and all those people who kept wanting him to come and speak to their groups.  But she was a normal Brooklyn girl who read the gossip columns, and the kind of fame that she really wanted for her husband came with a special flavor that could come only from Broadway.
@@ -60,7 +60,7 @@ When I last saw Isaac in the days before World War II moved Isaac in one directi
 But by the latter ’60s, he had become a good deal more adventurous.  On meeting an attractive woman — one who was not obviously the Most Significant Other of some male friend — he was inclined to touch her … not immediately on any Off Limits part of her anatomy but in a fairly fondling way.  (When I called him on it once, he said,  “It’s like the old saying.  You get slapped a lot, but you get laid a lot, too.”)
 
 
-Remember, we were former Futurians, and thus not above now and then playing little jokes on each other.  My chance for a good one along these lines came once when Isaac and I were booked on some TV show together.  We weren’t the only guests.
+Remember, we were former [**Futurians**](/posts/2009-05-08-the-quadrumvirate/), and thus not above now and then playing little jokes on each other.  My chance for a good one along these lines came once when Isaac and I were booked on some TV show together.  We weren’t the only guests.
 
 
 Along with us, the show had booked a group of three transsexuals, former males who had elected to be reconstructed as females.  What made them particularly interesting is that all three were former football players, all over six feet tall and weighing no less than two hundred pounds.  They also had perfected all the appropriate female mannerisms — the tentative touch of the hairdo to make sure it hadn’t come apart, the acceptance of a man’s help to get up the steps to the interview platform — and they were all beautifully made up.
@@ -83,47 +83,52 @@ And the smile froze and the right hand began to pull back, and extend again, and
 
 ### 11 Comments
 
-- Bill Goodwin says:
-A Boston professor (by day)
-Was a skillful undresser (they say)
-Ever keen for new clover
-When classes were over
-The sort where a man goes
+- [Bill Goodwin](https://web.archive.org/web/20131011223123/http://771715/) says:
+A Boston professor (by day)  
+
+Was a skillful undresser (they say)  
+
+Ever keen for new clover  
+
+When classes were over  
+
+The sort where a man goes  
+
 To lay
-November 10, 2010, 3:14 am
+[**November 10, 2010, 3:14 am**](/posts/2010-11-10-isaac-part-6/)
 - Q says:
 You\’re a wicked man, Mr. Pohl  
-November 10, 2010, 6:11 am
+[**November 10, 2010, 6:11 am**](/posts/2010-11-10-isaac-part-6/)
 - Josh says:
 Ha!
-November 10, 2010, 8:59 am
-- Robert Nowall says:
+[**November 10, 2010, 8:59 am**](/posts/2010-11-10-isaac-part-6/)
+- [Robert Nowall](https://web.archive.org/web/20131011223123/http://www.robertnowall.com/) says:
 I’m afraid my opinion of Asimov lowered some when I learned of his “affairs,” after his death.  (It isn’t the only thing.)  I suppose I made the journey from idolatry to hero-worship to role-modeling, and eventually down to just awe and respect.
 The “Gittel?  Is it really you?” story *was* in Asimov’s memoirs, in slightly different form…as I recall, he cited it as a warning notice on the fickleness of his own fame…
-November 10, 2010, 4:52 pm
-- Chookie says:
+[**November 10, 2010, 4:52 pm**](/posts/2010-11-10-isaac-part-6/)
+- [Chookie](https://web.archive.org/web/20131011223123/http://chookiesbackyard.blogspot.com/) says:
 I’m going to be laughing all day about that one!
-November 10, 2010, 8:46 pm
+[**November 10, 2010, 8:46 pm**](/posts/2010-11-10-isaac-part-6/)
 - Tina Black says:
 You are a wicked man, Fred!  But it really was too good a chance to miss.
-November 11, 2010, 3:39 pm
+[**November 11, 2010, 3:39 pm**](/posts/2010-11-10-isaac-part-6/)
 - Rich Rostrom says:
 He hadn’t noticed they were all >6′/200 lbs?
 Or if he did, what did he think they were?
-November 11, 2010, 7:44 pm
+[**November 11, 2010, 7:44 pm**](/posts/2010-11-10-isaac-part-6/)
 - Dwight Decker says:
 In perusing a few pulp magazines, I’ve gotten the impression that circa 1941, Asimov had some reputation in letter-column controversies for being a woman-hater. I haven’t as yet seen the letters where he got that reputation, however, and I’m basing this on considerably removed replies to replies. I would guess that young Isaac was actually objecting to the old pulp convention of stories including crowbarred-in romances, in which the young sprout hero not only saved the Earth but met the love of his life along the way. Maybe Asimov was arguing it’s enough in a story for the hero to discover that just a slight amount of excess beryllium will make a planet unsuitable for colonization, and he doesn’t need to meet and woo the chief scientist’s beautiful daughter while he’s at it to make the reader happy, and that was interpreted as being anti-female… but I’m just guessing.
-November 11, 2010, 10:55 pm
-- Paula Helm Murray says:
+[**November 11, 2010, 10:55 pm**](/posts/2010-11-10-isaac-part-6/)
+- [Paula Helm Murray](https://web.archive.org/web/20131011223123/http://kc.rr.com/) says:
 That, sir, was delectable. Especially about the trans-gendered.
 I love all this, thanks for your reporting!  Keep it up!
-November 18, 2010, 9:27 pm
-- Catherine Barber aka 'CatBar' says:
+[**November 18, 2010, 9:27 pm**](/posts/2010-11-10-isaac-part-6/)
+- [Catherine Barber aka 'CatBar'](https://web.archive.org/web/20131011223123/http://www.fanfiction.net/~catbar) says:
 Really enjoyed this.  Though I always reckoned old Ise would be a bit of a nerd with women: kind of liked the idea of them but wouldn’t know how to handle them sort of thing.  And also would be quite prudish about sex and things sexy.  From reading his books he NEVER ever struck me as a sensual, visceral or visual person – truly a man of intellect and ideas.
-May 15, 2011, 2:33 am
-- Manuel Royal says:
+[**May 15, 2011, 2:33 am**](/posts/2010-11-10-isaac-part-6/)
+- [Manuel Royal](https://web.archive.org/web/20131011223123/http://donnetowntoday.blogspot.com/) says:
 Hate to say it, but maybe it’s just as well Isaac and Rebecca Watson weren’t contemporaries ….
-August 1, 2012, 2:37 pm
+[**August 1, 2012, 2:37 pm**](/posts/2010-11-10-isaac-part-6/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20131011223123/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131011223123/http://dicksmithsoftware.com/)

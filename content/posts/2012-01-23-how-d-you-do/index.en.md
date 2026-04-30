@@ -26,9 +26,9 @@ Frederik Pohl
 **Citizenship test answers:**
 
 - Name one of your Senators.  (If you have none say why.)
-**Answer** correct for answerer.
+[Answer](https://web.archive.org/web/20120513023932/http://www.senate.gov/general/contact_information/senators_cfm.cfm) correct for answerer.
 - What is the number of your Congressional district?  (If you have none say why.)
-**Answer** correct for answerer.
+[Answer](https://web.archive.org/web/20120513023932/http://nationalatlas.gov/mld/cgd112p.html) correct for answerer.
 - What does the President’s Cabinet do?Advise the President.
 - Name two Cabinet-level offices.Secretaries of Agriculture, Commerce, Defense, Education,  Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Labor, State, Transportation, Treasury and Veterans Affairs.  Attorney General and Vice President.
 - Under our Constitution some powers are reserved to the federal government.  Name one of these powers.To print money, to declare war, to create an army and to make treaties.
@@ -42,10 +42,10 @@ Two quibbles.
 #3 is an incomplete answer.  Cabinet officers also run the Departments of the Executive Branch, reporting to the President.
 #4 has one glitch.  The Vice President ranks above the Cabinet, and the Office of the Vice President is not a Cabinet Department.  
 The Vice President is usually a member of the Cabinet, but not every VP has been included.  Unlike the President and Vice President, the Cabinet Secretaries do not hold elected offices required by the Constitution.  The actual make-up of the Cabinet varies, at the discretion of the President.
-January 23, 2012, 10:46 pm
+[**January 23, 2012, 10:46 pm**](/posts/2012-01-23-how-d-you-do/)
 - zeph says:
 “To coin money”, not to print money. The Supreme Court ruled that the government may print money but, it’s not actually a power conveyed directly by the Constitution.
-January 24, 2012, 2:34 am
+[**January 24, 2012, 2:34 am**](/posts/2012-01-23-how-d-you-do/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120513023932/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120513023932/http://dicksmithsoftware.com/)

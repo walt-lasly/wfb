@@ -26,16 +26,16 @@ Frederik Pohl
 ![The Demolished Man](demolished_man-pb250jpg.jpg)
 
 
-Pohl: Now, getting back to where ideas come from, I’d like to hear from you, Alfie. I want to know where you get your ideas from. Specifically I want to know where you get the ideas for something like **The Demolished Man**. What persuaded you to write it in the first place?
+Pohl: Now, getting back to where ideas come from, I’d like to hear from you, Alfie. I want to know where you get your ideas from. Specifically I want to know where you get the ideas for something like [The Demolished Man](https://web.archive.org/web/20170619223452/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD). What persuaded you to write it in the first place?
 
 
-Bester: Horace Gold! I kind of remember that story vaguely. I was writing the Nick Carter show, and I was having a rough time. I was having trouble with his agent. I was having all kinds of problems. It was a tough show to write, but it was a nice check, so you don’t complain about that.
+Bester: [Horace Gold](https://web.archive.org/web/20170619223452/http://www.gcwillick.com/Spacelight/gold_hl.html)! I kind of remember that story vaguely. I was writing the [Nick Carter show](https://web.archive.org/web/20170619223452/http://www.freeotrshows.com/otr/n/Nick_Carter_Master_Detective.html), and I was having a rough time. I was having trouble with his agent. I was having all kinds of problems. It was a tough show to write, but it was a nice check, so you don’t complain about that.
 
 
 Horace Gold had just started Galaxy, and he called me. I’d known Horace for years. He said, “Alfie, I want you to write for me,” and I said, “Oh, Horace, come on, will you? I’m so involved with this show, it’s eating up my time.”
 
 
-He said, “No, I want you to write for me,” and I said, “Come on, you’ve got the greats, you’ve got Fred Pohl, you’ve got Heinlein, you’ve got Ted Sturgeon, and I’m not in their class.”
+He said, “No, I want you to write for me,” and I said, “Come on, you’ve got the greats, you’ve got Fred Pohl, you’ve got [**Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/), you’ve got [Ted Sturgeon](https://web.archive.org/web/20170619223452/http://www.gcwillick.com/Spacelight/sturgeon.html), and I’m not in their class.”
 
 
 He said, “No, no, no, come on,” and he would keep on noodging me week in week out. We’d talk on the phone and stuff, and finally I said “All right, Horace.” I’ve got to get him off my back, I’ll submit some ideas. Now I submitted four or five ideas — I can’t remember all of them, it’s so long ago.
@@ -44,7 +44,7 @@ He said, “No, no, no, come on,” and he would keep on noodging me week in wee
 I should explain first that I’ve been trained as a detective-story writer and adventure writer and a comic-book writer and so on — always to do it the hard way. You do it the hard way, if you want A to get to Z, he just can’t get there, he’s got to hit conflict B off which he caroms into conflict C, D, E, F, G and so on. What you do is you set up an impossible situation for you as a writer and then you solve it, and that makes a story. So I set up some impossible situations.
 
 
-This was very early in radio and television writing, and I practically invented for myself the open-story technique. The closed-story technique is the Agatha Christie-type  murder mystery, in which a murder is committed and whoever the detective is goes around picking up clues from various people. You don’t know what the hell is going on and at the very end the big surprise comes and he, the butler, whatever, dunnit. That’s the closed mystery.
+This was very early in radio and television writing, and I practically invented for myself the open-story technique. The closed-story technique is the [Agatha Christie](https://web.archive.org/web/20170619223452/http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fentity%2FAgatha-Christie%2FB000APENBC&tag=twtfb-20&linkCode=ur2&camp=1789&creative=390957)-type  murder mystery, in which a murder is committed and whoever the detective is goes around picking up clues from various people. You don’t know what the hell is going on and at the very end the big surprise comes and he, the butler, whatever, dunnit. That’s the closed mystery.
 
 
 At the time, I had got rather tired of it. I was carrying too many shows and stealing my own scripts from myself, and looking through my file of scripts, I found one which I thought I could pinch for the other show, and reading through it I thought, “Jesus Christ, I’ve written all the wrong scenes. I have not written the action as it happened — I have written the result of the action and the detective’s puzzlement in how to interpret the result of the action.”
@@ -80,13 +80,13 @@ And so the book developed and developed. Months and months of talk back and fort
 This goddamn book was six months in preparation before I actually began to write it. And that’s how *The Demolished Man* came about.
 
 
-But going back to how ideas are generated, one of my favorites was a story called “Fondly Fahrenheit.” I’m going to give you the genesis of that story. I remember this vividly, point by point.
+But going back to how ideas are generated, one of my favorites was a story called “[Fondly Fahrenheit](https://web.archive.org/web/20170619223452/http://www.amazon.com/gp/product/1568492499?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1568492499).” I’m going to give you the genesis of that story. I remember this vividly, point by point.
 
 
-I was reading [**Mark Twain’s**](/posts/2010-09-04-mark-twain-and-the-law-of-the-raft/) **Life on the Mississippi**. He mentioned that a Negro slave had been executed in Missouri for molesting, criminally assaulting and murdering a young girl. He had been hung for it, and Twain went on to say that this Negro slave had committed the same crime in Virginia and his owner had levanted him out of Virginia to Mississippi because the slave was too valuable to be destroyed.
+I was reading [**Mark Twain’s**](/posts/2010-09-04-mark-twain-and-the-law-of-the-raft/) [Life on the Mississippi](https://web.archive.org/web/20170619223452/http://manybooks.net/titles/twainmaretext95lmiss12.html). He mentioned that a Negro slave had been executed in Missouri for molesting, criminally assaulting and murdering a young girl. He had been hung for it, and Twain went on to say that this Negro slave had committed the same crime in Virginia and his owner had levanted him out of Virginia to Mississippi because the slave was too valuable to be destroyed.
 
 
-And I thought, “There’s a hell of a story in that, I don’t know what it is, but there’s a hell of a story.” So I very carefully listed it in my “Gimmick” book and that was that.
+And I thought, “There’s a hell of a story in that, I don’t know what it is, but there’s a hell of a story.” So I very carefully listed it in my [“Gimmick” book](https://web.archive.org/web/20170619223452/http://dmznyc.com/html/gimmick%20books.html) and that was that.
 
 
 I have hundreds and hundreds of fragments of ideas in this Gimmick book that I’ve been keeping all my life as a writer. And I leaf through the book all the time, looking for various things. I came across this months later, looked at it, and I was open at the time so I started to write the story. I got through the first scene or so and then I was hung up.
@@ -128,10 +128,10 @@ Because science fiction has the word *science* in it, it often has some relation
 But I’m a kind of fan of science — the World Cup doesn’t mean anything to me. I would just as soon they didn’t have it on TV at all. But science is the greatest spectator sport in the world. I mean I love to watch what these people are doing; they’re sending these multimillion-dollar rockets up just to entertain me. They’re putting men on the moon and sending pictures and I appreciate it!
 
 
-Bester: I did a book on the space program — the scientific satellites. I was down at Goddard, and one of the engineers I’d interviewed came up with this as a charming and true story. He said that he had a problem with one of the particular satellites he was designing. It hung him up for weeks and he couldn’t figure out how to break this problem. Finally, in despair, he gave up. He went home and figured he’d take the weekend off, so that Saturday he took his kid out fishing.
+Bester: I did a [book on the space program](https://web.archive.org/web/20170619223452/http://www.amazon.com/gp/product/B000JVTRMM/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000JVTRMM) — the scientific satellites. I was down at [Goddard](https://web.archive.org/web/20170619223452/http://www.nasa.gov/centers/goddard/home/index.html), and one of the engineers I’d interviewed came up with this as a charming and true story. He said that he had a problem with one of the particular satellites he was designing. It hung him up for weeks and he couldn’t figure out how to break this problem. Finally, in despair, he gave up. He went home and figured he’d take the weekend off, so that Saturday he took his kid out fishing.
 
 
-He said, “Believe it or not, my boy made his first cast and I looked at his rod and his reel” — he had a level-wind reel which threads the line back and forth as you reel in — “and,”  he said,  “it solved my problem!”
+He said, “Believe it or not, my boy made his first cast and I looked at his rod and his reel” — he had a [level-wind reel](https://web.archive.org/web/20170619223452/http://www.youtube.com/watch?v=NpHQb-vmUds) which threads the line back and forth as you reel in — “and,”  he said,  “it solved my problem!”
 
 
 And he went right back to Goddard and used the level-wind principle to solve his engineering problem.
@@ -155,24 +155,24 @@ So ideas come from everywhere if you are open to them.
 Fascinating stuff from Bester.
 Love the blog.
 Thanks!
-March 30, 2011, 8:00 am
+[**March 30, 2011, 8:00 am**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - sm says:
 This is one of the best things you’ve blogged — the back and forth between you and Bester is great!
-March 30, 2011, 12:39 pm
+[**March 30, 2011, 12:39 pm**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - H. E. Parmer says:
 It’s probably more than 30 years since I last read “Fondly Fahrenheit”, but — although I’m a bit embarassed to admit I didn’t remember Alfie was the author — it made enough of an impression to instantly summon up the plot.
 Thanks for sharing these wonderful insights into how a great writer works.
-March 30, 2011, 5:43 pm
-- A.L. Sirois says:
+[**March 30, 2011, 5:43 pm**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+- [A.L. Sirois](https://web.archive.org/web/20170619223452/http://www.alsirois.com/) says:
 I re-read “Fondly Fahrenheit” just a few days ago, in volume 1 of The Science Fiction Hall of Fame, so this post came along at a wonderful time for me. It’s always been one of my favorite sf stories, let alone one of my favorite Bester stories. I only met Bester once, at a Lunacon back in the 70s. He was a charming man, very approachable and good-humored. As I recall, he delivered an informative and funny lecture but I don’t recall the topic.
-March 31, 2011, 8:32 am
+[**March 31, 2011, 8:32 am**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - gottacook says:
 Delighted to read more and more of this 1978 conversation, but it should be noted that the 1976 Bester omnibus Starlight: The Great Short Fiction of Alfred Bester includes an essay on the writing of “Fondly Fahrenheit” that touches on many of the same points he makes in this transcript.
 (Starlight is a Bester collection that any fan should seek out because of the very entertaining story notes – particularly concerning the influence of Dianetics on John W. Campbell Jr. and how this affected his attitude toward Bester’s story “Oddy and Id” – but he ought not to have rewritten his late-’50s story “The Pi Man” for this collection; even the names of the two named characters were changed, and not for the better.)
-March 31, 2011, 4:08 pm
-- Chookie says:
+[**March 31, 2011, 4:08 pm**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+- [Chookie](https://web.archive.org/web/20170619223452/http://chookiesbackyard.blogspot.com/) says:
 Wonderful story!
-April 2, 2011, 9:18 pm
+[**April 2, 2011, 9:18 pm**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619223452/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619223452/http://dicksmithsoftware.com/)

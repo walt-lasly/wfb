@@ -23,7 +23,7 @@ Frederik Pohl
 ![No guns allowed](no-guns.png)
 
 
-The comments in response to the post on the shooting of the Congresswoman were pretty vigorous, so we left it up top for a week to make sure everybody got his say.  I think there’s a lot to be learned from the discussion, and so I’ll try to come back to it soon.
+The comments in response to [**the post on the shooting of the Congresswoman**](/posts/2011-01-13-mass-murder-courtesy-of-the-nra/) were pretty vigorous, so we left it up top for a week to make sure everybody got his say.  I think there’s a lot to be learned from the discussion, and so I’ll try to come back to it soon.
 
 
 Meanwhile, though, I think two things, first that we’re beginning to repeat ourselves a bit more than we like, and second that it’s about time we got back to the mix of topics that most of you seem to prefer.
@@ -37,5 +37,5 @@ This Correspondence Is Closed
 
 —at least for the time being, but we will definitely come back to some related materials in the reasonably near future!
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170718035649/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170718035649/http://dicksmithsoftware.com/)

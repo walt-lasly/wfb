@@ -23,10 +23,10 @@ Frederik Pohl
 {{< figure src="superscience1.jpg" alt="Super Science Stories, No. 1, yours truly, Editor." caption="Popular Publications ’ Super Science Stories, No. 1 &mash; yours truly, Editor." >}}
 
 
-If you made a right turn at Jane Littell’s door you found yourself in the business wing of the company’s offices, where people took care of distribution, billing, advertising and all the other grubbier parts of the publishing business.  At least I suppose that’s what they did.  In the four years I worked for Popular Publications I never once went there.  Turn to the left. though, and you were at the pulsing heart of the pulp-paper experience.
+If you made a right turn at [**Jane Littell’s**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/) door you found yourself in the business wing of the company’s offices, where people took care of distribution, billing, advertising and all the other grubbier parts of the publishing business.  At least I suppose that’s what they did.  In the four years I worked for Popular Publications I never once went there.  Turn to the left. though, and you were at the pulsing heart of the pulp-paper experience.
 
 
-Turning that way meant you were then heading north, paralleling the adjacent East River.  On your right would be an expanse of blank wall, then two sets of office doors, then another several yards of blank walls before you came to any normal-sized office.  At that point you would have passed the two king-sized offices that were the private lairs of the two makers and shakers who owned and ran Popular Publications, Harold S. Goldsmith and Harry Steeger.
+Turning that way meant you were then heading north, paralleling the adjacent East River.  On your right would be an expanse of blank wall, then two sets of office doors, then another several yards of blank walls before you came to any normal-sized office.  At that point you would have passed the two king-sized offices that were the private lairs of the two makers and shakers who owned and ran Popular Publications, Harold S. Goldsmith and [Harry Steeger](https://web.archive.org/web/20170620012424/http://homepage.mac.com/cdkalb/spider/legend/steeger.html).
 
 
 What, exactly, either of them did in their throne rooms each day I can’t imagine.  I am quite sure that neither of them read any appreciable number of the stories their editors bought.
@@ -38,7 +38,7 @@ Goldsmith did sign checks, I knew, but that accounted for no more than twenty or
 The other thing that I know Steeger’s office to have been used for was conferences with his editors, generally to tell them that their newsstand sales figures were unsatisfactory and to discuss what to do about it.  (Which was usually to fire the editor and give the work to someone else.  Or, alternatively, to give the editor under discussion a little more money, in salary or budget — or both — in the hope that that will encourage him to make the magazine better.  I had all three types of meetings with him at one time or another.)
 
 
-Next, heading northward from the executive offices on that arm of the T, was an office intermediate in size between the White-Pohl-Littell cubbyholes and the grand palaces of Steeger and Goldsmith.  This one was the property of Rogers Terrill.  Rog’s official title was Editor in Chief, Popular Publications, but actually he had little to do — in a day-to-day sense, almost nothing — with any of the publications I’ve mentioned so far.
+Next, heading northward from the executive offices on that arm of the T, was an office intermediate in size between the White-Pohl-Littell cubbyholes and the grand palaces of Steeger and Goldsmith.  This one was the property of [Rogers Terrill](https://web.archive.org/web/20170620012424/http://books.google.com/books?id=Oy8_5S8hMjAC&lpg=PA46&ots=7W4KxMolBW&dq=Rogers%20Terrill&pg=PA46#v=onepage&q=Rogers%20Terrill&f=false).  Rog’s official title was Editor in Chief, Popular Publications, but actually he had little to do — in a day-to-day sense, almost nothing — with any of the publications I’ve mentioned so far.
 
 
 My belief is that Rogers Terrill had at one time been much more important in shaping Harry Steeger’s policies than he had become by 1939, when I went to work for Popular Publications … and Harry Steeger had gained a little more self-confidence. (A few years later when White, too, was history, some say that Steeger edited a few manuscripts, anonymously, himself.)
@@ -60,20 +60,20 @@ Both of them, in fact, more or less ran their own publishing companies, with ten
 
 ### 4 Comments
 
-- Mike Bullock says:
+- [Mike Bullock](https://web.archive.org/web/20170620012424/http://www.pulp.runemasterstudios.com/) says:
 It\’s amazing how what most likely seemed mundane at the time you experienced it is now fascinating to so many who enjoy reading and/or writing pulp stories these days. Thanks for the journey and please don\’t stop.
-June 13, 2011, 5:49 am
+[**June 13, 2011, 5:49 am**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 - JohnArmstrong says:
 Does Martin Goodman rear his head at any point in your pulp career, Fred?
 And, PS – just finished All The Lives He Led Last Night – fine story, with all those beautiful, throwaway world-building touches guys like me struggle to come up with …. still laughing at Stannish fly
 when’s the next one out?
-June 13, 2011, 7:24 pm
-- Bill Higgins-- Beam Jockey says:
+[**June 13, 2011, 7:24 pm**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170620012424/http://beamjockey.livejournal.com/) says:
 Someday, this will be valuable research detail to some author who will be writing a novel set in a pulp-magazine firm circa 1940…
-June 14, 2011, 1:15 pm
+[**June 14, 2011, 1:15 pm**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 - willow says:
 He is my all time favorite author. Love reading his books & finding this just made my day. He’s still got it that’s for sure.
-July 7, 2011, 7:11 pm
+[**July 7, 2011, 7:11 pm**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620012424/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620012424/http://dicksmithsoftware.com/)

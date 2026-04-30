@@ -25,5 +25,5 @@ Frederik Pohl
 **“All in turn feel the lash of censure in a country where, as every baby is allowed to carry a whip, no person can escape.”
 —Hester Lynch Piozzi**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707094517/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707094517/http://dicksmithsoftware.com/)

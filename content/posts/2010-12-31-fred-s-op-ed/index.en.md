@@ -72,65 +72,72 @@ You did promise transparency in your administration, did you not, Mr. President?
 
 - John Traylor says:
 Very well said Mr. Pohl and I could not agree with you more.
-December 31, 2010, 6:49 am
+[**December 31, 2010, 6:49 am**](/posts/2010-12-31-fred-s-op-ed/)
 - bob sykes says:
 Worthy of Iowahawk.
-December 31, 2010, 9:00 am
+[**December 31, 2010, 9:00 am**](/posts/2010-12-31-fred-s-op-ed/)
 - Daniel says:
 Wouldn’t it be better for Obama to address the legitimate criticism, rather than aim at a strawman?
 Should Reagan have gone out and answered letters from lunatics claiming that he was out to take over the country? And would doing so have proven anything.
 There are plenty of legitimate criticisms of Obama from the left, the right and the center. Hollow grandstanding won’t save the day for him. Honestly dealing with those criticisms will.
-December 31, 2010, 9:06 am
+[**December 31, 2010, 9:06 am**](/posts/2010-12-31-fred-s-op-ed/)
 - Stefan Jones says:
 You know, Mr. Pohl, you could submit that to the NYTimes.
 Or Salon.com.
 Either should be proud to publish it.
-I know people who should know far better who believe alarmist nonsense about death panels and sinister plots against America. People who don’t deserve to have this tsouris.
-December 31, 2010, 9:11 am
-- Bradley W. Schenck says:
+I know people who should know far better who believe alarmist nonsense about death panels and sinister plots against America. People who don’t *deserve* to have this tsouris.
+[**December 31, 2010, 9:11 am**](/posts/2010-12-31-fred-s-op-ed/)
+- [Bradley W. Schenck](https://web.archive.org/web/20170718084650/http://www.webomator.com/) says:
 The most perplexing thing about the Obama presidency is that he showed such a great talent for communication during his campaign, but once elected he seemed to forget everything he knew about talking to the country.  So in addition to the example you mention about his birth, we’ve seen conservatives given a free hand to reduce complicated issues to one or two word labels that scare the heck out of people – and have nothing to do with their subject.
 We’ve seen “net neutrality” described as government censorship, “Death Panels\”, and other frightening reductions.  This is a technique that conservatives have perfected over the years.  My historic favorite is the “Death Tax!”, because it’s an inheritance tax that was actually created by a Republican president for moral purposes.
 If Obama has a hope of success I think he needs to do as good a job as the Right does at creating populist descriptions of what the issues really are, without resorting to the same distortions that the Right uses so well.  That’s what I was sure he’d do once he was sworn in.  I’m still wondering when his gift for communication is going to show itself again.
-December 31, 2010, 9:37 am
+[**December 31, 2010, 9:37 am**](/posts/2010-12-31-fred-s-op-ed/)
 - Nate Whilk says:
 A good idea. That way he wouldn’t have to field stupid questions and rebuttals from wingnuts like Charles Krauthammer.
-January 1, 2011, 1:26 am
-- Rob Hansen says:
+[**January 1, 2011, 1:26 am**](/posts/2010-12-31-fred-s-op-ed/)
+- [Rob Hansen](https://web.archive.org/web/20170718084650/http://www.fiawol.org.uk/FanStuff) says:
 While I’d love to see Obama use the White House as a bully pulpit, or even revive the ‘fireside chats’, I don’t think that’s who he is. By nature, he’s a conciliator and even after two years of snubs from Republicans I don’t see that changing, alas.
-January 1, 2011, 10:51 am
+[**January 1, 2011, 10:51 am**](/posts/2010-12-31-fred-s-op-ed/)
 - Kat says:
 How can you blame the economic crisis on a past Republican president when it was Democrat Jimmy Carter who put all of this into motion (via “Community Reinvestment”)?   Let’s not be intellectually dishonest here.  
 Ever gotten a job from a poor man?  I haven’t.
 Think redistribution of wealth works?  Look at modern Europe, the former USSR and China.  Cuba’s economy is a shambles and Venezuela’s is headed that way because of government control of the economy.  North Korea’s population is living in the dark.
 Do you really want to give government such total control over your lives and fortunes?
-January 1, 2011, 1:08 pm
-- Stefan Jones says:
+[**January 1, 2011, 1:08 pm**](/posts/2010-12-31-fred-s-op-ed/)
+- [Stefan Jones](https://web.archive.org/web/20170718084650/http://www.flickr.com/photos/stefan_e_jones/) says:
 Oh, fooey.
 The Community Reinvestment Act is a convenient scapegoat. Massive deregulation (under presidents of both parties) and shameless, unethical behavior by banks and mortgage brokers and ratings agencies and investment firms turned a workable system into a ruinous bubble.
 Go look up the 2004 Republican National Platform. There’s a big section praising the rise in minority “homeownership” and touting zero-down-payment loans as a way to make even more people homeowners.
-January 2, 2011, 4:46 pm
+[**January 2, 2011, 4:46 pm**](/posts/2010-12-31-fred-s-op-ed/)
 - Neil in Chicago says:
-sorry
-I had high hopes, and tried and tried to keep them.
-When Obama’s first appointment was the reptilian Rahm Emanuel, I said, “He’s reaching out to the Hilary-ites!  Great!”
-When he appointed his economics guys, and I checked their bios (Summers: “tax cuts for the rich” over and over; Geithner: “Kissinger Associates”, Treasury Department International Affairs division), the strongest language I used was “uh-oh” and “huh?”
-But he has sold us out on every significant issue.  There never was an Obama Health Care Bill, just vague gestures for congress to Do Something.  Single-payer proponents were physically excluded.
-And on and on.
+sorry  
+
+I had high hopes, and tried and tried to keep them.  
+
+When Obama’s first appointment was the reptilian Rahm Emanuel, I said, “He’s reaching out to the Hilary-ites!  Great!”  
+
+When he appointed his economics guys, and I checked their bios (Summers: “tax cuts for the rich” over and over; Geithner: “Kissinger Associates”, Treasury Department International Affairs division), the strongest language I used was “uh-oh” and “huh?”  
+
+But he has sold us out on every significant issue.  There never was an Obama Health Care Bill, just vague gestures for congress to Do Something.  Single-payer proponents were physically excluded.  
+
+And on and on.  
+
 And now, a couple of weeks ago, for the first time ever, he strong-armed Congress.  In order to get the Democrats to pass a Republican tax bill.
 Sorry, he’s working for the financiers who originally financed his campaign.  For the people who voted for him, he’s a Quisling.
-My worst fears are being realized.  Obama is in position to do damage the Republicans can’t.  He was elected, in significant part, by motivating demographics who wouldn’t otherwise have voted at all.  He has the potential to convince them that they wasted their time, and there really isn’t  any point in voting against the plutocrats’ outright puppets.  And he’s doing it.
+My worst fears are being realized.  Obama is in position to do damage the Republicans can’t.  He was elected, in significant part, by motivating demographics who wouldn’t otherwise have voted at all.  He has the potential to convince them that they wasted their time, and there really isn’t  any point in voting against the plutocrats’ outright puppets.  And he’s doing it.  
+
 If a generation of potential voters, who might actually vote their and their communities’ own interests, are convinced not to bother again, that’s another spike in the coffin of the Republic.
-January 2, 2011, 7:47 pm
+[**January 2, 2011, 7:47 pm**](/posts/2010-12-31-fred-s-op-ed/)
 - rgl says:
 I believe  Mr Pohl was referring to the real world and a president more recent than Carter.
 “Community Reinvestment” required that the lenders operate in a manner consistent with safe and sound operation, which is not consistent with what created the current economic mess.
 As for your three other points, I have worked for a poor man although not for any great pay , redistribution of wealth has worked after a fashion for as long as there have been modern government, and some control over our lives seems necessary for civil society and the burden of government on personal freedoms in Canada* does not seem to be as onerous as opponents perceive it to be.
 rgl  (red tory)
 *the United States appears to have less imposition on personal freedoms, without obviously increasing effective freedom
-January 2, 2011, 9:52 pm
+[**January 2, 2011, 9:52 pm**](/posts/2010-12-31-fred-s-op-ed/)
 - zonmoy says:
 problem with obama is that he was bought and paid for by the malfactors with wealth from before the very first day that the mainstream media started singing his praises, the ones they havent bought the mainstream media wont touch with a ten foot pole except maybe to bring down the politician the malfactors have told them to set up to take a dive in the election.
-January 6, 2011, 9:23 pm
+[**January 6, 2011, 9:23 pm**](/posts/2010-12-31-fred-s-op-ed/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170718084650/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170718084650/http://dicksmithsoftware.com/)

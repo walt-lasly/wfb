@@ -28,9 +28,9 @@ Frederik Pohl
 
 ### One Comment
 
-- Bill Higgins-- Beam Jockey says:
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170707102557/http://beamjockey.livejournal.com/) says:
 Did you ever get into Studio 54, Fred?
-April 22, 2013, 11:19 am
+[**April 22, 2013, 11:19 am**](/posts/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707102557/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707102557/http://dicksmithsoftware.com/)

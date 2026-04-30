@@ -23,13 +23,13 @@ Frederik Pohl
 {{< figure src="silverberg-by-rotslerwb.jpg" alt="Robert Silverberg" caption="Robert Silverberg" >}}
 
 
-Although **Robert Silverberg** was born (in [**Brooklyn**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/), home of literary giants) in 1935, his first novel, a juvenile entitled **Revolt on Alpha C**, was not published until 1955.  Asked to explain this prolonged period with no new book appearing, Silverberg is quick to respond.  “What do you think, I’m some kind of freak who never has periods when he just can’t seem to get words on paper?  I’m human, you know.  Just last week I had a really scary episode of writer’s block that lasted from about 10:45 in the morning almost till lunch.”
+Although [Robert Silverberg](https://web.archive.org/web/20170620022647/http://www.majipoor.com/) was born (in [**Brooklyn**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/), home of literary giants) in 1935, his first novel, a juvenile entitled [Revolt on Alpha C](https://web.archive.org/web/20170620022647/http://www.amazon.com/gp/product/059005435X/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=059005435X), was not published until 1955.  Asked to explain this prolonged period with no new book appearing, Silverberg is quick to respond.  “What do you think, I’m some kind of freak who never has periods when he just can’t seem to get words on paper?  I’m human, you know.  Just last week I had a really scary episode of writer’s block that lasted from about 10:45 in the morning almost till lunch.”
 
 
 Nevertheless he carries on.  His current total is 245 books — sorry, 246 books and more than — no, make that 249 books, as the latest one was a trilogy. . . .
 
 
-Well. perhaps some of that is slightly exaggerated, but it’s true that Silverbob has an almost pathological craving to produce books at very near an Isaac Asimovian pace.  For some time the more critical (read j-e-a-l-o-u-s) members of the field of science fiction’s commentators contented themselves by sneering that most of his output was pure pulp and thus was not to be taken seriously.  However, when science fiction began to be taken seriously indeed, in the decade of the 1960s, Silverberg began to write a new kind of science fiction.  The volume became somewhat less, but the stories themselves — “Nightwings,” “Passengers,” “Good News from the Vatican” and many more — began to reveal a color, an intensity and a probing of values of kinds seldom revealed in his earlier work, and the Nebulas and Hugos began to accumulate,
+Well. perhaps some of that is slightly exaggerated, but it’s true that Silverbob has an almost pathological craving to produce books at very near an [**Isaac Asimovian**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) pace.  For some time the more critical (read j-e-a-l-o-u-s) members of the field of science fiction’s commentators contented themselves by sneering that most of his output was pure pulp and thus was not to be taken seriously.  However, when science fiction began to be taken seriously indeed, in the decade of the 1960s, Silverberg began to write a new kind of science fiction.  The volume became somewhat less, but the [stories themselves](https://web.archive.org/web/20170620022647/http://www.amazon.com/gp/product/0671834975/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0671834975) — “Nightwings,” “Passengers,” “Good News from the Vatican” and many more — began to reveal a color, an intensity and a probing of values of kinds seldom revealed in his earlier work, and the Nebulas and Hugos began to accumulate,
 
 
 I think I can claim a tiny fraction of the responsibility for Robert’s development over that period, for reasons which I don’t think either of us has made public before. . . .   Although science fiction had always been his primary field of writing, it wasn’t the only kind of writing he did.  He had schooled himself to be a money writer.  When science-fiction publishing prospered, Bob wrote largely science fiction.  When sf markets cooled off a little, he switched to action pulps, juveniles or, now and then, a leavening of porn.  His income remained stable and comfortably high.
@@ -68,32 +68,33 @@ Even that never happened.  After some years my time to edit those magazines ran 
 
 ### 7 Comments
 
-- Adam Lipkin says:
+- [Adam Lipkin](https://web.archive.org/web/20170620022647/http://yendi.livejournal.com/) says:
 Given how much Silverberg I read in high school and college (particularly the Lord Valentine books, Dying Inside, and The Book of Skulls), I’m incredibly grateful that you made that deal.
-May 2, 2011, 5:12 pm
-- Robert Nowall says:
+[**May 2, 2011, 5:12 pm**](/posts/2011-05-02-robert-silverberg/)
+- [Robert Nowall](https://web.archive.org/web/20170620022647/http://www.robertnowall.com/) says:
 Silverberg is one of those writers whose work, when it does cross my view, remains worth a look.  So few SF writers, so little in the SF magazines, does for me these days.
 (Did I mention I bought “All the Lives He Lead” last week, but haven’t gotten around to reading it yet?)
-May 3, 2011, 4:43 pm
+[**May 3, 2011, 4:43 pm**](/posts/2011-05-02-robert-silverberg/)
 - Michael Habif says:
 Robert Silverberg is by far my favorite writer of all time. Please write a million posts about him.
-May 3, 2011, 8:17 pm
+[**May 3, 2011, 8:17 pm**](/posts/2011-05-02-robert-silverberg/)
 - Kat says:
 I remember to this day my first Silverberg:  ‘Across a Billion Years’.  I read it when I was 9 or 10;  I’m almost 40 years past that now and do good to remember what I did last weekend.
-May 3, 2011, 10:27 pm
+[**May 3, 2011, 10:27 pm**](/posts/2011-05-02-robert-silverberg/)
 - Gregory Benford says:
-Agberg is a fine writer, and I’ve always wondered why he’s not more broadly known, and sells better, than many writers his inferior.
+Agberg is a fine writer, and I’ve always wondered why he’s not more broadly known, and sells better, than many writers his inferior.  
+
 Any thoughts, Fred?
-May 6, 2011, 2:20 pm
-- Frederik Pohl says:
+[**May 6, 2011, 2:20 pm**](/posts/2011-05-02-robert-silverberg/)
+- [Frederik Pohl](https://web.archive.org/web/20170620022647/http://www.thewaythefutureblogs.com/) says:
 I suspect Agbob hurts his sales some simply because he’s too prolific, and I think I have some of that problem myself.  If you don’t allow a new book to build up an audience, the next book cuts its sales off by coming out too soon.
 He has a different theory, though, or he had once when we were talking about that problem some years ago.  At that time he had just made the mistake of writing and publishing a book of limited commercial appeal not for money but for love; it sold relatively poorly, and that cut into his next book’s sales because when the dealers decide how many copies of a new Silverberg (or Pohl, or  Benford) to order the number they pick is the number they sold of your last book.  Bob had in fact — very unlike himself — just published a for-love book, and his sales on the few plummeted accordingly.
 But, really, it’s a mystery.
 fred
-May 8, 2011, 5:13 pm
+[**May 8, 2011, 5:13 pm**](/posts/2011-05-02-robert-silverberg/)
 - Joe says:
 I was a fan since “Flies” the first Silverberg I read.  It was a brilliant mixture of science fiction & horror.  Always loved his dead serious tone that would suddenly shift into hilarious sardonic comedy, then back again, And he has one of the best SF minds since Wells.  Though I’ve pretty much stopped reading SF in the last few years, I want to thank Mr. Silverberg for all the great memories & his complete craftsmanship, and also thank you, Fred, for nurturing & encouraging that talent in his transition from “pulp” writer to serious wordsmith.
-May 13, 2011, 11:06 am
+[**May 13, 2011, 11:06 am**](/posts/2011-05-02-robert-silverberg/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620022647/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620022647/http://dicksmithsoftware.com/)

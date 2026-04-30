@@ -23,7 +23,7 @@ Frederik Pohl
 ![stop-fracking1](stop-fracking1-e1377156353149.jpg)
 
 
-Fracking the shale that holds America’s “inexhaustible” store of hydrocarbons destroys our greatest treasure of aquifers of clean, pure water by poisoning it with deadly chemicals.
+Fracking the shale that holds America’s “inexhaustible” store of hydrocarbons destroys our greatest treasure of aquifers of clean, pure water by [poisoning](https://web.archive.org/web/20160416130605/http://ecowatch.com/2013/duke-study-gas-water-wells-marcellus-fracking/) it with deadly chemicals.
 
 
 We don’t dare mine, refine and use it all anyway, because that would push the volume of  awful weather disasters past the point of survival for many of the things we cherish.  The only way we  can give our grandchildren a chance for a nearly decent life is to stop the reckless and deadly habit of mining every molecules of carbon that will burn, and using it to pollute and ultimately destroy the world’s treasure of clean air and water.
@@ -36,7 +36,7 @@ We’ve already driven thousands of species of living things into extinction.  D
 
 - John Armstrong says:
 Honestly, I can see us not really taking this seriously until far too late, like the man who jumped off the Empire State Building … “So far, so good”… our children will curse us
-August 24, 2013, 6:54 pm
+[**August 24, 2013, 6:54 pm**](/posts/2013-08-22-why-stop-fracking/)
 - Greg C. says:
 Well, respectfully, I’d suggest that further research is required before making so blanket a statement. And as Fred is someone who researched UFOs before coming down on the “this is bunk” side, perhaps it would be advisable to spend the same effort.
 On the negative side:
@@ -50,12 +50,12 @@ The real problem:
 Not enough research has been done into how to accomplish fracking safely. And the fear of its opponents is (reasonably) fanned by the opacity and defensiveness of industry.
 The point is: This is a promising technology with some positive benefits. It should neither be opposed nor mindlessly supported; it should be supported, with reasonable safeguards in place.
 The difficulty is that, in this political climate, it’s almost impossible to do what’s sensible; supporters seek to suppress any sort of control, opponents seek to suppress any implementation. This is, objectively, nuts.
-August 24, 2013, 9:05 pm
-- John C. Boland says:
+[**August 24, 2013, 9:05 pm**](/posts/2013-08-22-why-stop-fracking/)
+- [John C. Boland](https://web.archive.org/web/20160416130605/http://www.perfectcrimebooks.com/) says:
 Dear Fred,
 I’m going to start thinking of you as “Fred the Baptist.”
 Best wishes nonetheless.
-August 25, 2013, 5:11 pm
+[**August 25, 2013, 5:11 pm**](/posts/2013-08-22-why-stop-fracking/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416130605/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416130605/http://dicksmithsoftware.com/)

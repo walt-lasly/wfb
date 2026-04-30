@@ -21,10 +21,10 @@ Frederik Pohl
 
 ![Secret Squirrel](squirrel.gif)
 
-I have one more little story that I want to tell you about our Custody Wars, and then we can leave that unpleasant subject forever.  It concerns the way in which Judy was able to make people who should have been neutral declare loyalty to her.
+I have one more little story that I want to tell you about our [**Custody Wars**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), and then we can leave that unpleasant subject forever.  It concerns the way in which Judy was able to make people who should have been neutral declare loyalty to her.
 
 
-I was working in my Fifth Avenue literary agency one day when the door opened and a man named Sam walked in.  (His name wasn’t actually Sam, but I see no reason to tell you what his real name was, although there are quite a few people around who would have no trouble guessing it.)  Sam said the reason he had come was that he had been working for the Scott Meredith agency, Scott had fired him and he needed a job.  Would I like to hire him?
+I was working in my Fifth Avenue literary agency one day when the door opened and a man named Sam walked in.  (His name wasn’t actually Sam, but I see no reason to tell you what his real name was, although there are quite a few people around who would have no trouble guessing it.)  Sam said the reason he had come was that he had been working for the [Scott Meredith](https://web.archive.org/web/20150921185203/http://www.scottmeredith.com/pages/history.html) agency, Scott had fired him and he needed a job.  Would I like to hire him?
 
 
 Such a thought had never occurred to me but, you know, it wasn’t a totally bad idea.  To some extent the earnings of the agency depended on how much time I devoted to making sales.  I didn’t trust anybody but myself with the major sales, but there were all those routine ones that required no more than putting a manuscript in an envelope with a friendly covering letter, and getting it onto the desk of somebody who might buy it.
@@ -70,9 +70,9 @@ Remember what I said about Judy’s phenomenal ability to attract loyalty from o
 
 ### One Comment
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20150921185203/http://www.flickr.com/photos/stefan_e_jones/) says:
 I imagine it’s rough going over this stuff, but these are the things great and honest biographies are made of.
-December 15, 2010, 10:46 pm
+[**December 15, 2010, 10:46 pm**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150921185203/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150921185203/http://dicksmithsoftware.com/)

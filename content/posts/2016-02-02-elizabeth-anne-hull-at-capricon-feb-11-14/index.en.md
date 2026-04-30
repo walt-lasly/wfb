@@ -26,7 +26,7 @@ Frederik Pohl
 {{< figure src="Betty-web.jpg" alt="Elizabeth Anne Hull" caption="Elizabeth Anne Hull" >}}
 
 
-Betty’s next public appearances will be at Capricon XXXVI, Feb. 11–14 in Wheeling, Ill. See her at these events:
+Betty’s next public appearances will be at [Capricon XXXVI](https://web.archive.org/web/20160402203122/http://capricon.org/capricon36/), Feb. 11–14 in Wheeling, Ill. See her at these events:
 
 - **Autographing**  
 
@@ -56,5 +56,5 @@ How minor changes in the history of your world can drastically alter it and crea
 
 *—the blog team*
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402203122/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402203122/http://dicksmithsoftware.com/)

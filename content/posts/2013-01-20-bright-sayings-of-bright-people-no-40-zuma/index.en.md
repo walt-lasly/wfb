@@ -28,9 +28,9 @@ Frederik Pohl
 
 ### One Comment
 
-- Nestor says:
+- [Nestor](https://web.archive.org/web/20140917210738/http://www.krazykimchi.com/) says:
 Unfortunately Mr. Zuma isn’t always so wise if his other declarations are anything to go by.
-January 21, 2013, 8:52 am
+[**January 21, 2013, 8:52 am**](/posts/2013-01-20-bright-sayings-of-bright-people-no-40-zuma/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20140917210738/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20140917210738/http://dicksmithsoftware.com/)

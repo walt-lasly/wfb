@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![Better to Have Loved: The Life of Judith Merril](better-to-have-loved-merril.jpg)
 
-After Judy Merril and I realized that the one thing we both most wanted from the life we had been living was to have a baby, we started looking for someone to marry us so the baby would be legitimate.  Judy quickly found someone.  I’ve forgotten his name, but he was a fairly well-known lefty New York Justice of the Peace.
+After [**Judy Merril**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) and I realized that the one thing we both most wanted from the life we had been living was to have a baby, we started looking for someone to marry us so the baby would be legitimate.  Judy quickly found someone.  I’ve forgotten his name, but he was a fairly well-known lefty New York Justice of the Peace.
 
 
 So we were married in 1948. Then we began the process of knocking Judy up.  It didn’t take long.  Judy handled pregnancy quite well, so we simply went on with our lives.
@@ -30,7 +30,7 @@ So we were married in 1948. Then we began the process of knocking Judy up.  It d
 Which, at the time, were actually quite nice.  We still both had our jobs and were therefore well fixed for money.  I had bought a car — secondhand, a giant Cadillac eight-seater that Jack Gillespie said was a gangster car and quite possibly once had been.  It was very easy to imagine half a dozen criminals with tommy-guns shooting up an enemy’s hangout out of its windows.
 
 
-We used it to roam around the countryside, and to transport friends to cons if they wanted to go.  We’d driven it up to Toronto for the 1948 Worldcon with a party of half a dozen or so passengers — George O. Smith, I think Chan Davis and his wife, and I don’t remember who else.  (The reason I clearly remember George O. is that as we passed through Niagara Falls George got out of the car, ambled over to the railing and fulfilled a lifelong ambition by urinating into the Falls.)
+We used it to roam around the countryside, and to transport friends to cons if they wanted to go.  We’d driven it up to Toronto for the 1948 [Worldcon](https://web.archive.org/web/20150910162144/http://www.smofinfo.com/LL/TheLongList.html) with a party of half a dozen or so passengers — [George O. Smith](https://web.archive.org/web/20150910162144/http://www.isfdb.org/cgi-bin/ea.cgi?George_O._Smith), I think [Chan Davis](https://web.archive.org/web/20150910162144/http://web.archive.org/web/20070707215250/http://www.math.uregina.ca/basterfield/davis.html) and his wife, and I don’t remember who else.  (The reason I clearly remember George O. is that as we passed through Niagara Falls George got out of the car, ambled over to the railing and fulfilled a lifelong ambition by urinating into the Falls.)
 
 
 And then, all of a sudden we had come to the time when Judy’s belly was as big as a washtub and we needed to watch for signs of needing to get to French Hospital for the birthing.
@@ -63,13 +63,16 @@ You now know the exact reason my marriage to Judy suffered a mortal blow.
 She wanted an open marriage, and I couldn’t live with it.  That’s what led to all the strife and hard feelings that marked our relationship for the next years.
 
 
-Now over the next months — or whatever time it takes — I’m going to tell you about that strife, which mostly revolved around the question of the custody of Ann, and finally I am going to tell about the good friendship Judy and I wound up with in the end.  But you have just read the last I am going to tell you about the nastier parts of our breakup.
-.
- 
-However, two things: The first is that Judy at the end of her life began to write her own memoir; it was completed by our joint granddaughter, Emily Pohl-Weary, and as a matter of fact won a Hugo Award.  Judy was quite willing to be candid in her memoir, so you can read that, and I so don’t have to be.
+Now over the next months — or whatever time it takes — I’m going to tell you about that strife, which mostly revolved around the question of the custody of Ann, and finally I am going to tell about the good friendship Judy and I wound up with in the end.  But you have just read the last I am going to tell you about the nastier parts of our breakup.  
+
+.  
+
+   
+
+However, two things: The first is that Judy at the end of her life began to write her own [memoir](https://web.archive.org/web/20150910162144/http://www.amazon.com/gp/product/1896357571?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1896357571); it was completed by our joint granddaughter, [Emily Pohl-Weary](https://web.archive.org/web/20150910162144/http://www.emilypohlweary.com/), and as a matter of fact won a Hugo Award.  Judy was quite willing to be candid in her memoir, so you can read that, and I so don’t have to be.
 
 
-And the other thing is that, against the odds — and bad luck for the weasel if he ever has the impudence to suggest I’m lying — there is another person alive who knows exactly how Judy’s demand for an open marriage destroyed ours.  I give this person permission to go public with the story if he wants.  Or, if he likes, to run over the things I am about to tell and report whether I’m telling the truth.
+And the other thing is that, against the odds — and bad luck for [**the weasel**](/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) if he ever has the impudence to suggest I’m lying — there is another person alive who knows exactly how Judy’s demand for an open marriage destroyed ours.  I give this person permission to go public with the story if he wants.  Or, if he likes, to run over the things I am about to tell and report whether I’m telling the truth.
 
 
 *To be continued.*
@@ -82,16 +85,16 @@ And the other thing is that, against the odds — and bad luck for the weasel if
 
 ### 3 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20150910162144/http://www.flickr.com/photos/stefan_e_jones/) says:
 I can see that the new edition is going to tell a more complex story.
 George O. Smith attended a Lunacon I went to in the early 80s. He passed away shortly afterwards. I remember being shocked at how rudely one smartass fan treated him while on a panel.
-December 4, 2010, 11:53 pm
+[**December 4, 2010, 11:53 pm**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
 - Jim Worrad says:
 George O should have urinated on him.
-December 5, 2010, 4:44 am
+[**December 5, 2010, 4:44 am**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
 - krjames says:
 Stefan’s comment puts me in mind of Harlan Ellison’s well-known lecture (whose title, however, I can’t recall) on fan nutjobbery at SF conventions.  This recent “weasel” episode suggests a prime example of that particularly obnoxious brand of sociopathy.
-December 5, 2010, 8:01 am
+[**December 5, 2010, 8:01 am**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150910162144/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150910162144/http://dicksmithsoftware.com/)

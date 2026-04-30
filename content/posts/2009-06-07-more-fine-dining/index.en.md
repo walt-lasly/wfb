@@ -37,17 +37,17 @@ Serves 4 with leftovers.
 
 - James says:
 Bingo!  You’ve given me a great recipe to try next time I have ham.  Thank you!
-June 7, 2009, 11:32 pm
+[**June 7, 2009, 11:32 pm**](/posts/2009-06-07-more-fine-dining/)
 - James says:
 Oh yes, I forgot to ask - what do you do with the bone?  Toss it in, or use it in another recipe? My wife and I make ham bone and dumplings, which is great on a cold day.
-June 7, 2009, 11:35 pm
+[**June 7, 2009, 11:35 pm**](/posts/2009-06-07-more-fine-dining/)
 - Tina Black says:
 Yes, I’m a saltophile.  Big time.
 This recipe sounds almost right for winter.  I spend 4 months making pot after pot of soup, and I saved the recipes.  Cabbage was often a major ingredient, as well as carrots and potatoes.
-June 15, 2009, 8:52 pm
+[**June 15, 2009, 8:52 pm**](/posts/2009-06-07-more-fine-dining/)
 - Kirk Snavely says:
 Tried it and liked it.  Didn’t know whether I was supposed to cut up the vegetables, but did anyway.  Next time might try it with uncooked pork butt rather than smoked ham shanks.  Thanks!
-July 6, 2009, 11:55 am
+[**July 6, 2009, 11:55 am**](/posts/2009-06-07-more-fine-dining/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090821145731/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090821145731/http://dicksmithsoftware.com/)

@@ -26,7 +26,7 @@ Frederik Pohl
 It could happen to a nicer guy—
 
 
-Listeners report that there are empty spots in Rush Limbaugh’s daily outpouring of venom where there used to be commercials, but now there’s just dead air because advertisers have been drawn away—
+Listeners report that there are empty spots in Rush Limbaugh’s daily outpouring of venom where there used to be commercials, but now there’s just dead air because [advertisers have been drawn away](https://web.archive.org/web/20120713043640/http://www.dailykos.com/story/2012/04/08/1081661/-Rush-Limbaugh-talk-show-fallout-spreads-to-music-formats)—
 
 
 —but it wouldn’t.
@@ -36,7 +36,7 @@ Listeners report that there are empty spots in Rush Limbaugh’s daily outpourin
 
 - Jay Borcherding says:
 I hope this represents a tipping point.  Yes, Rush can still deliver a significant audience, but the wise advertiser has to consider the implied endorsement that advertising on a given show represents.  Is it really worth alienating sane and decent people in order to reach an audience of ignorant bigots, however large?  I would think not, and I’m pleased that corporate PR people are finally vetoing the ad buyers who covet the sexist yahoo demographic that Rush excels at delivering.
-May 11, 2012, 11:01 pm
+[**May 11, 2012, 11:01 pm**](/posts/2012-05-10-consequences/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120713043640/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120713043640/http://dicksmithsoftware.com/)

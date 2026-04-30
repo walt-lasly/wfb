@@ -26,7 +26,7 @@ Frederik Pohl
 That’s the headline we should have run days ago.  I started to write something at the time, but it kept getting longer and longer and isn’t finished yet.  I hope to post it tomorrow
 
 
-Meanwhile, the New York Times published an even longer obit.  (It looks like it began on Page 1, although when you read your morning paper on a Kindle, it’s not easy to be sure.)  The story was by staff Times writer Douglas Martin, who couldn’t help poking a little fun at the deceased in his opening paragraphs:
+Meanwhile, the [New York Times published](https://web.archive.org/web/20160617153134/http://www.nytimes.com/2012/08/18/books/harry-harrison-a-prolific-writer-of-satiric-science-fiction-dies-at-87.html) an even longer obit.  (It looks like it began on Page 1, although when you read your morning paper on a Kindle, it’s not easy to be sure.)  The story was by staff Times writer Douglas Martin, who couldn’t help poking a little fun at the deceased in his opening paragraphs:
 
 > “‘Incompetent, unlettered, unskilled writers sell to unexacting editors.  All of this is going completely unnoticed by an incompetent readership.’
 
@@ -46,18 +46,18 @@ Meanwhile, the New York Times published an even longer obit.  (It looks like it 
 
 ### 4 Comments
 
-- An Infinitude of Tortoises says:
-Alas — and unsurprisingly — the Times obituary did not start on A1 of the print edition (see http://www.nytimes.com/images/2012/08/17/nytfrontpage/scan.jpg).  Glad to see, however, that I wasn’t the only one who noticed that gratuitous snub of SF with which Mr. Martin saw fit to begin his piece.  Can’t let a good feces-flinging opportunity pass, eh?  Harry deserved much better than that — though, as you observe, the quality picked up after that awful start.
-August 21, 2012, 7:46 pm
-- Michael Walsh says:
-Christopher Priest wrote a very good obituary: http://www.guardian.co.uk/books/2012/aug/15/harry-harrison
-August 21, 2012, 10:48 pm
+- [An Infinitude of Tortoises](https://web.archive.org/web/20160617153134/http://www.zazzle.com/infinitudetortoises?rf=238757806594649553) says:
+Alas — and unsurprisingly — the *Times obituary did not* start on A1 of the print edition (see [http://www.nytimes.com/images/2012/08/17/nytfrontpage/scan.jpg](https://web.archive.org/web/20160617153134/http://www.nytimes.com/images/2012/08/17/nytfrontpage/scan.jpg)).  Glad to see, however, that I wasn’t the only one who noticed that gratuitous snub of SF with which Mr. Martin saw fit to begin his piece.  Can’t let a good feces-flinging opportunity pass, eh?  Harry deserved much better than that — though, as you observe, the quality picked up after that awful start.
+[**August 21, 2012, 7:46 pm**](/posts/2012-08-21-harry-harrison-dead-at-87/)
+- [Michael Walsh](https://web.archive.org/web/20160617153134/http://www.oldearthbooks.com/) says:
+Christopher Priest wrote a very good obituary: [http://www.guardian.co.uk/books/2012/aug/15/harry-harrison](https://web.archive.org/web/20160617153134/http://www.guardian.co.uk/books/2012/aug/15/harry-harrison)
+[**August 21, 2012, 10:48 pm**](/posts/2012-08-21-harry-harrison-dead-at-87/)
 - Brett Dellinger says:
 I enjoyed Harry Harrison a great deal. As an avid reader, a testament to my librarian grandmother, several books went to sea with me in the 80’s when it was my shipmates and I’s turn to crew the Henry L. Stimson. The Stainless Steel Rat went to sea with me and while my shipmates watched another movie they had already seen a dozen times, I was ready to enjoy some of his unique humor.
-August 22, 2012, 1:42 pm
+[**August 22, 2012, 1:42 pm**](/posts/2012-08-21-harry-harrison-dead-at-87/)
 - John Armstrong says:
 I have always had a special place in my affections for Bill, The Galactic Hero and Make Room
-August 23, 2012, 7:00 pm
+[**August 23, 2012, 7:00 pm**](/posts/2012-08-21-harry-harrison-dead-at-87/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160617153134/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160617153134/http://dicksmithsoftware.com/)

@@ -30,13 +30,13 @@ Frederik Pohl
 
 - Ken says:
 Perhaps the people were smarter in T.J.’s day. People today get the facts but somehow still make the stupidest decisions regarding their own government – i.e the poor and middle class voting Republican.
-December 2, 2012, 8:07 pm
+[**December 2, 2012, 8:07 pm**](/posts/2012-12-02-bright-sayings-of-bright-people-no-38/)
 - Enrico says:
 Ken, I don’t think they were smarter, but they were better informed — just as Jefferson’s quote suggests. Today we have tremendous amounts of misinformation and ‘spin’ put out by billionaire media masters, and of course people now have the ability to filter out any and all opposing viewpoints by visiting only web information sources that agree with whatever they already think.
-December 4, 2012, 11:42 pm
+[**December 4, 2012, 11:42 pm**](/posts/2012-12-02-bright-sayings-of-bright-people-no-38/)
 - Carole Humphreys says:
 In T.J.’s day, only land-owning white males (the educated elite) were allowed to vote.
-December 19, 2012, 11:15 am
+[**December 19, 2012, 11:15 am**](/posts/2012-12-02-bright-sayings-of-bright-people-no-38/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20130128063433/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20130128063433/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 **Swanson and the Brits**
 
 
-There is a story about H.N. Swanson making a phone call to a producer that goes like this:
+There is a story about [H.N. Swanson](https://web.archive.org/web/20090327075222/http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D6133BF930A35755C0A967958260) making a phone call to a producer that goes like this:
 
 
 {{< figure src="swanson250.jpg" alt="H.N. Swanson" caption="H.N. Swanson" >}}
@@ -62,7 +62,7 @@ When I called Swanie’s office the next morning, he wasn’t surprised that the
 And when I checked into my Denver hotel, they were at $22,500, and at $27,500 in Seattle, and by the time I was home the price was up over $30,000, and British Redifusion was trying to beat some sense into me — “Swanie is going to ruin the whole thing for you, you know.  We can just walk away.” — and failing to beat sense into me.
 
 
-Even Arnold Perl was showing some concern:  “You did say that the Kornbluth family had some money concerns.  It could be quite a while before our negotiations began to reach this kind of number.”
+Even [**Arnold Perl**](/posts/2009-03-18-me-and-the-biz-part-ii/) was showing some concern:  “You did say that the Kornbluth family had some money concerns.  It could be quite a while before our negotiations began to reach this kind of number.”
 
 
 And when I called Swanie the next day, he said, “They’re at $50,000.  What do you want me to do?”
@@ -74,7 +74,7 @@ I said — or screamed — “I want you to deal with it!  Take it, leave it, wh
 “Well,” he said, “I am encountering some resistance.  I could go for $100,000, but I think it’s better to take the $50,000.”
 
 
-How much is the $50,000 of the 1950s?
+[How much](https://web.archive.org/web/20090327075222/http://www.coinnews.net/tools/cpi-inflation-calculator/%20target=) is the $50,000 of the 1950s?
 
 
 It’s enough that my share paid for a convertible, our first color TV, a dining-room chandelier that my then-wife Carol had her heart set on, and a few other odds and ends.  I should say that $50,000 then was worth at least a quarter of a million now, but for the Kornbluths, the story was somewhat different.  That great loving Mom that is the state of New York makes sure that the needy among us is cared for by rigorous laws, especially if they are lawyers.  Since Cyril had not planned on dying but had let himself go intestate, the New York government appointed a lawyer to protect his interests — by which I mean the lawyer’s interests.  So the Kornbluth half was not quite as big as my half. . . .
@@ -92,9 +92,9 @@ And if I had it to do over again, I’m not sure how I would do it.
 
 ### One Comment
 
-- Sharon E. Dreyer says:
+- [Sharon E. Dreyer](https://web.archive.org/web/20090327075222/http://www.eloquentbooks.com/LongJourneyToRneadal.html) says:
 Sounds as if the bidding war was a good thing in the 1950s! And as a first time author I wouldn’t be opposed to a bidding war right now!
-March 20, 2009, 8:32 am
+[**March 20, 2009, 8:32 am**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090327075222/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090327075222/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 ![Chernobyl by Frederik Pohl](Chernobyl-wb.jpg)
 
 
-In 1987, I spent some weeks pushing my (then) new book, **Chernobyl**. It was an unusual tour mdash; only six states, but a total of four countries mdash; and even more hectic than most of its kind, partly because some of it took place in and around the famous **Harmonic Convergence** that year.
+In 1987, I spent some weeks pushing my (then) new book, [Chernobyl](https://web.archive.org/web/20160416141935/http://www.amazon.com/gp/product/B00FO6F2Q2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FO6F2Q2&linkCode=as2&tag=twtfb-20). It was an unusual tour mdash; only six states, but a total of four countries mdash; and even more hectic than most of its kind, partly because some of it took place in and around the famous [Harmonic Convergence](https://web.archive.org/web/20160416141935/http://www.ccel.us/newage.ch11.html) that year.
 
 
 I’ve said from time to time that the main difference between science fiction, which is supposed to depict things which might actually happen, and reality, which is the sum of the things that do happen, is that reality is a lot less plausible than the author of even the trashiest imaginable science-fiction story would ever dare. I always like it when something I’ve said turns out to be true, so let’s take a look at that implausibility, the 16th of August of ’87, when six hundred thousand people are said to have saved the world by humming in unison.
@@ -32,19 +32,19 @@ I’ve said from time to time that the main difference between science fiction, 
 Let’s start a little way back.
 
 
-A decade or so before that, a more than ordinarily fuzzy-brained motion-picture producer got hold of a 1974 book called **The Jupiter Effect**.  It went to his head. He decided that he wanted to make it as a feature film. Then, thinking creatively, he realized the book didn’t have any actual story in it that could be filmed, so he decided that he wanted a novel written from which the film could be adapted.
+A decade or so before that, a more than ordinarily fuzzy-brained motion-picture producer got hold of a 1974 book called [The Jupiter Effect](https://web.archive.org/web/20160416141935/http://www.amazon.com/gp/product/0394715748/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0394715748&linkCode=as2&tag=twtfb-20).  It went to his head. He decided that he wanted to make it as a feature film. Then, thinking creatively, he realized the book didn’t have any actual story in it that could be filmed, so he decided that he wanted a novel written from which the film could be adapted.
 
 
 Then, for my sins, they came after me to write the novel.
 
 
-The thesis of the “Jupiter Effect” was that on a date in the early summer of 1979, all the major planets would be in the same general direction from the Sun. The book said that this could really ruin your day, because the combined gravitational attraction of all those lopsided planets would disturb the core of the Sun. That would somehow accelerate its rate of nuclear fusion and so increase the Sun’s radiation. Then all hell would break loose on the Earth. Among other things, friction between the heated atmosphere and all those mountain tops in the Rockies and Cascades would trigger earthquakes.
+The thesis of the “[Jupiter Effect](https://web.archive.org/web/20160416141935/http://drtimball.com/2011/profit-in-spreading-fear/)” was that on a date in the early summer of 1979, all the major planets would be in the same general direction from the Sun. The book said that this could really ruin your day, because the combined gravitational attraction of all those lopsided planets would disturb the core of the Sun. That would somehow accelerate its rate of nuclear fusion and so increase the Sun’s radiation. Then all hell would break loose on the Earth. Among other things, friction between the heated atmosphere and all those mountain tops in the Rockies and Cascades would trigger earthquakes.
 
 
 As a result, the book said, Southern California would fall into the sea.
 
 
-(I hope you’re paying enough attention to understand that I’m not describing the plot of a science-fiction story. This was supposed to be real. This interesting prediction didn’t come from somebody’s chance encounter with an alien saucerer from the planet Clarion, but from the work of a couple of — otherwise — pretty reliable physicists.)
+(I hope you’re paying enough attention to understand that I’m not describing the plot of a science-fiction story. This was supposed to be real. This interesting prediction didn’t come from somebody’s chance encounter with an alien saucerer from the planet Clarion, but from the work of a couple of — otherwise — pretty reliable [physicists](https://web.archive.org/web/20160416141935/http://www.americanscientist.org/bookshelf/pub/john-gribbin).)
 
 
 So I went and took my meeting, as they say, with the prospective producers and publishers. They explained all this scientific stuff to me, and I knew at once what I had to do. (I have my standards, after all.) I said, “No way, José.”
@@ -71,7 +71,7 @@ That’s what happened here. They coaxed, and they kept increasing the money off
 Exclamations of amazed delight from all; contracts drawn up instantly; the ball was in my court.
 
 
-So I went home and wrote the book. It is called **Syzygy** and, although I did my best on it, and even think some parts of it are pretty good, I wish I hadn’t written it. The good parts would have been even better in another novel, and the bad parts are intrinsic to the dumb basic idea.
+So I went home and wrote the book. It is called [Syzygy](https://web.archive.org/web/20160416141935/http://www.amazon.com/gp/product/0553205277/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0553205277&linkCode=as2&tag=twtfb-20) and, although I did my best on it, and even think some parts of it are pretty good, I wish I hadn’t written it. The good parts would have been even better in another novel, and the bad parts are intrinsic to the dumb basic idea.
 
 
 In the event, my skepticism turned out to be justified on two counts: I didn’t believe Southern California would slide into the sea that weekend, and it didn’t; I didn’t believe the movie would ever be made, and it wasn’t. And, although the book sold a fair number of copies, it has given me very little joy.
@@ -108,17 +108,17 @@ I really thought I could stay out of this one, but the Harmonic Convergence conv
 
 ### 3 Comments
 
-- Stefan Jones says:
-I was just starting to become a skeptic when The Jupiter Effect came out. In fact, it might have been one of the straws that broke the camel’s back. 
-I look forward to reading about the making of Chernobyl. I read it once, back when it came out, and still recall some parts vividly.
-March 13, 2014, 9:57 pm
+- [Stefan Jones](https://web.archive.org/web/20160416141935/http://www.flickr.com/photos/stefan_e_jones/) says:
+I was just starting to become a skeptic when *The Jupiter Effect* came out. In fact, it might have been one of the straws that broke the camel’s back. 
+I look forward to reading about the making of *Chernobyl*. I read it once, back when it came out, and still recall some parts vividly.
+[**March 13, 2014, 9:57 pm**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/)
 - Ace Lightning says:
 When the Harmonic Convergence was being endlessly promoted, the repetition of the phrase eventually caused me to hear it as “Harmonica Virgins”. I told this to some friends of mine, and one said “Band name!” I realized that a band called the Harmonica Virgins would be something like this: An all-female hard-rock (or even heavy metal) band, dressed in the sluttiest, skimpiest, kinkiest outfits they can get away with. As they take the stage, the venue’s announcer screams, “Ladies and gentlemen… THE HARMONICA VIRGINS!”. The lead singer of the band steps up to the mike and waits for the applause to die down a little, then says, “And none of us play the harmonica, either. Hit it, girls!”
-March 14, 2014, 5:34 am
-- JJ Brannon says:
+[**March 14, 2014, 5:34 am**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/)
+- [JJ Brannon](https://web.archive.org/web/20160416141935/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 It’s always fascinating to re-ride through events, but seen from Fred’s insightful and self-deprecatingly amused perspective.
 JJB
-March 14, 2014, 7:19 pm
+[**March 14, 2014, 7:19 pm**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416141935/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416141935/http://dicksmithsoftware.com/)

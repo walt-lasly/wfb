@@ -28,12 +28,12 @@ Frederik Pohl
 
 ### 2 Comments
 
-- Bill Higgins-- Beam Jockey says:
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170707112008/http://beamjockey.livejournal.com/) says:
 My man!
-June 17, 2013, 11:52 am
-- Dan Gollub says:
+[**June 17, 2013, 11:52 am**](/posts/2013-06-16-bright-sayings-of-bright-people-no-47-fermi/)
+- [Dan Gollub](https://web.archive.org/web/20170707112008/http://www.dreampattern.com/) says:
 But is life more likely in the oceans of Titan or Europa? Perhaps theory can answer this, or maybe only direct measurement will provide the answer.
-June 18, 2013, 8:33 am
+[**June 18, 2013, 8:33 am**](/posts/2013-06-16-bright-sayings-of-bright-people-no-47-fermi/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707112008/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707112008/http://dicksmithsoftware.com/)

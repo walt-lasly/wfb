@@ -21,16 +21,16 @@ Frederik Pohl
 
 ![Rubik"s Cube](rubik-wb.png)
 
-He was English, the fellow in the lobby. He had come from London the day before to see some kindred enlightened souls in Cincinnati, Ohio. Now he was on his way to certain other centers of adepts before reaching the Grand Canyon focal point of the Harmonic Convergence. (Not, thank God, on my flight.)
+He was English, the fellow in the lobby. He had come from London the day before to see some kindred enlightened souls in Cincinnati, Ohio. Now he was on his way to certain other centers of adepts before reaching the Grand Canyon focal point of the [Harmonic Convergence](https://web.archive.org/web/20160416223603/http://www.ccel.us/newage.ch11.html). (Not, thank God, on my flight.)
 
 
-This flake was the kind I like least. He had learned every buzzword there was in every discipline known to man — his conversation was full of **Descartes** and expert systems and quarks — and had managed not to understand any of them. And when I managed to point out to him, for example, that “**Cogito ergo sum**” did not imply the existence of a Divine Being, he responded every time by shifting the universe of discourse to another subject, from molecular biology to **Rubik’s Cube**. (Lots of people, he told me loftily, could solve **Rubik’s Cube**; there was nothing remarkable in that. But when you had evolved as far as he had you could do it in your head. Actually, that sounded like a pretty impressive feat to me. But when I asked him if he could then take a real cube and quickly match up all the colors so other people could see, he looked at me with pity. Of course he could do that. But he would never bother. It would simply be too boring to him.)
+This flake was the kind I like least. He had learned every buzzword there was in every discipline known to man — his conversation was full of [Descartes](https://web.archive.org/web/20160416223603/http://plato.stanford.edu/entries/descartes/) and expert systems and quarks — and had managed not to understand any of them. And when I managed to point out to him, for example, that “[Cogito ergo sum](https://web.archive.org/web/20160416223603/http://www.phrases.org.uk/meanings/cogito-ergo-sum.html)” did not imply the existence of a Divine Being, he responded every time by shifting the universe of discourse to another subject, from molecular biology to [Rubik’s Cube](https://web.archive.org/web/20160416223603/http://www.amazon.com/gp/product/B004FG0ZWI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004FG0ZWI&linkCode=as2&tag=twtfb-20). (Lots of people, he told me loftily, could solve [Rubik’s Cube](https://web.archive.org/web/20160416223603/http://uk.rubiks.com/history); there was nothing remarkable in that. But when you had evolved as far as he had you could do it in your head. Actually, that sounded like a pretty impressive feat to me. But when I asked him if he could then take a real cube and quickly match up all the colors so other people could see, he looked at me with pity. Of course he could do that. But he would never bother. It would simply be too boring to him.)
 
 
 There was another odd thing about him. I had noticed he was wearing earphones. In those pre-iPod days, I assumed it was some kind of industrial-strength hearing aid. It wasn’t. After a while I saw that he kept fumbling with some sort of gadget in a pocket, and discovered that he was taping everything we said. But before I could find out why he was doing that my transportation arrived, and I was out of there.
 
 
-Of course, all of this is nonsense. I am not about to believe that when the ancient Mayans devised their calendar they were somehow able to foretell that a hot, wet Sunday in August would be the turning point for mankind. (If they were so smart, why did they let Cortes wipe them out?) I think the whole thing is pretty blackly, depressingly comical.
+Of course, all of this is nonsense. I am not about to believe that when the ancient Mayans devised their [calendar](https://web.archive.org/web/20160416223603/http://www.webexhibits.org/calendars/calendar-mayan.html) they were somehow able to foretell that a hot, wet Sunday in August would be the turning point for mankind. (If they were so smart, why did they let [Cortes](https://web.archive.org/web/20160416223603/http://www.bbc.co.uk/history/historic_figures/cortes_hernan.shtml) wipe them out?) I think the whole thing is pretty blackly, depressingly comical.
 
 
 I also think it’s sad, though, because, my God, here are all those people who believe this nonsense, What’s more, they act on it. According to the papers some hundreds of thousands of people took anywhere from a few hours to a couple of weeks out of their lives simply to chant and relate to each and go, “ooooom.”
@@ -45,7 +45,7 @@ These aren’t bad people. They don’t blow up abortion clinics or sell handgun
 All they want is to make the world peaceful, loving and as nearly stress-free as a human world can get and, gosh, I’m for all those things, too.
 
 
-Even the airhead and the Brit, although their grasp on reality was tenuous, seemed sincere in saying that they wished no human being any possible harm at all, only the best of all that’s possible for everyone in the world. And if you add to them the Scientologists and the ests, the Moonies and the Hare Krishnas, the Jehovah’s Witnesses and the transcendental meditators — all the people, in the aggregate the many millions of people, whose deepest desire is to clean up the mess in their own heads and then go on to help others to do the same — what a dedicated work force we are allowing to piddle away its energies on fantasies!
+Even the [**airhead**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/) and the Brit, although their grasp on reality was tenuous, seemed sincere in saying that they wished no human being any possible harm at all, only the best of all that’s possible for everyone in the world. And if you add to them the [**Scientologists**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) and the [ests](https://web.archive.org/web/20160416223603/http://skepdic.com/est.html), the [**Moonies**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/) and the [Hare Krishnas](https://web.archive.org/web/20160416223603/http://harekrishnacultexposed.blogspot.com/), the [Jehovah’s Witnesses](https://web.archive.org/web/20160416223603/http://www.cultwatch.com/jw.html) and the [transcendental meditators](https://web.archive.org/web/20160416223603/http://skepdic.com/tm.html) — all the people, in the aggregate the many millions of people, whose deepest desire is to clean up the mess in their own heads and then go on to help others to do the same — what a dedicated work force we are allowing to piddle away its energies on fantasies!
 
 
 Just imagine what it would be like if each one of them would, say, expend all that energy on some worthwhile social project (by which, of course, I mean one I approve of) — for instance, teaching remedial English to American high-school graduating classes, so that the kids would learn how to spell, punctuate and parse and my wife wouldn’t spend her time swearing to herself as she corrects their freshman compositions. Illiteracy would disappear overnight.
@@ -57,7 +57,7 @@ And we’re letting them go to waste.
 Do you see what I mean about reality being less plausible than science fiction? None of us would dare make up a race as lunacy-prone as *Genus homo* for a science-fiction story. No editor would buy it. No reader would believe it.
 
 
-The Harmonic Convergence wasn’t the only thing of interest in that summer’s **Chernobyl**.  book tour.
+The Harmonic Convergence wasn’t the only thing of interest in that summer’s [Chernobyl](https://web.archive.org/web/20160416223603/http://www.amazon.com/gp/product/B00FO6F2Q2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FO6F2Q2&linkCode=as2&tag=twtfb-20).  book tour.
 
 
 Whether such things actually sell any books or not I have never really known, with such chronic miseries as short sleep and lousy food eaten on the fly. They are kind of educational, though. This one, for example, taught me three new maxims to organize my life around:
@@ -67,19 +67,19 @@ Whether such things actually sell any books or not I have never really known, wi
 - Never wait in a hotel lobby for them to call you for the airport limo. They won’t, and you’ll miss your flight.
 
 
-You do, however, meet some interesting people. On this trip, after the weirdos and the annoyances it was a refreshing return to sanity to encounter Bobby Seale, who was doing the same shows I was doing but in a different order, in Cleveland.
+You do, however, meet some interesting people. On this trip, after the weirdos and the annoyances it was a refreshing return to sanity to encounter [Bobby Seale](https://web.archive.org/web/20160416223603/http://www.bobbyseale.com/), who was doing the same shows I was doing but in a different order, in Cleveland.
 
 
-You remember Bobby Seale. He was the Black Panther guy who was one of the “Chicago Eight” that made a Marx Brothers skit out of their trial for disorderly conduct and general mopery after the 1968 Chicago Democratic Convention riots. Seale was the black one in the chains, straitjacket and gag, whom the judge ordered so restrained that he couldn’t say, “1 demand my constitutional rights,” anymore, but only, “Mph, mph, mph'” through the gag.
+You remember Bobby Seale. He was the Black Panther guy who was one of the “[Chicago Eight](https://web.archive.org/web/20160416223603/http://www.history.com/this-day-in-history/bobby-seale-gagged-during-his-trial)” that made a Marx Brothers skit out of their trial for disorderly conduct and general mopery after the 1968 Chicago Democratic Convention riots. Seale was the black one in the chains, straitjacket and gag, whom the judge ordered so restrained that he couldn’t say, “1 demand my constitutional rights,” anymore, but only, “Mph, mph, mph'” through the gag.
 
 
-The good thing about running into Bobby Seale was that he restored my faith in sanity and the American Way. His purpose in appearing on all these programs was not to urge the revolution on. He was simply doing what every good American does when he gets a chance to appear on radio and TV. It turned out that Seale had just written a cookbook of barbecue recipes, and what he was doing was pushing his book.
+The good thing about running into Bobby Seale was that he restored my faith in sanity and the American Way. His purpose in appearing on all these programs was not to urge the revolution on. He was simply doing what every good American does when he gets a chance to appear on radio and TV. It turned out that Seale had just written a [cookbook](https://web.archive.org/web/20160416223603/http://www.amazon.com/gp/product/0898152429/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0898152429&linkCode=as2&tag=twtfb-20) of barbecue recipes, and what he was doing was pushing his book.
 
 
 I had never been an admirer of Bobby Seale, but I feel a little more charitable to him now. He had at least three good things going for him. He didn’t talk my ear off, he didn’t mess up my schedule … and he never once mentioned the Harmonic Convergence.
 
 
-*An earlier version of this article appeared in  **Science Fiction Chronicle**  in 1988.*
+*An earlier version of this article appeared in  [Science Fiction Chronicle](https://web.archive.org/web/20160416223603/http://www.sf-encyclopedia.com/entry/science_fiction_chronicle)  in 1988.*
 
 
 **Related posts:**
@@ -89,21 +89,22 @@ I had never been an admirer of Bobby Seale, but I feel a little more charitable 
 
 ### 3 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20160416223603/http://www.flickr.com/photos/stefan_e_jones/) says:
 In the past, balderdash of the sort that Fred describes above was marginalized. Something we could laugh at, and maybe feel smug about, but in the end it wouldn’t do any real harm.
 Now woo and superstition and faddish medicine are, thanks to the web, able to “have legs” and effect policy and practice. Whole cable networks cater to balderdash, providing little in the way of opposing views and, worse, displacing quality programs about health, nature, technology and science.
 Sad, and dismaying.
-April 11, 2014, 4:57 pm
-- Alan Robson says:
+[**April 11, 2014, 4:57 pm**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+- [Alan Robson](https://web.archive.org/web/20160416223603/http://tyke.net.nz/) says:
 Spot on as always. Kooks and crazies can sometimes be fun (but always in VERY small doses). And your travel advice reflects my own experiences. Well said!
-—
+—  
+
 -Alan
-April 13, 2014, 12:05 am
+[**April 13, 2014, 12:05 am**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
 - H. E. Parmer says:
-He had learned every buzzword there was in every discipline known to man […] and had managed not to understand any of them.
+*He had learned every buzzword there was in every discipline known to man […] and had managed not to understand any of them.*
 IOW, he’s a stupid person’s idea of what a smart person should sound like. He’s hoping if he can just dazzle you with his pseudo-intellectual footwork, you won’t notice he’s a feather-weight pretending to be an Ali. You run into this sort in all walks of life, and the one absolute imperative is that you should never, ever put them in a position of real responsibility. Frankly, the fact that more and more of them seem to be cropping up in our ruling elites seems to me to be the clearest sign yet that our civilization’s headed for a fall.
 I mean, in this guy it’s just sort of mildly annoying, but when you’re a kook who also happens to have a $100 billion *cough*Koch Bros*cough* your “quirky” convictions can cause major damage.
-April 18, 2014, 3:13 pm
+[**April 18, 2014, 3:13 pm**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416223603/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416223603/http://dicksmithsoftware.com/)

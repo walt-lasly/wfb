@@ -20,7 +20,7 @@ Frederik Pohl
 ## Answers to Bible Quiz
 
 
-Here are the answers to last week’s Bible quiz:
+Here are the answers to last week’s [**Bible quiz**](/posts/2011-06-24-how-well-do-you-know-your-bible/):
 
 
 {{< figure src="ron-paul.jpg" alt="Ron Paul" caption="Sodomite?" >}}
@@ -31,20 +31,20 @@ Here are the answers to last week’s Bible quiz:
 - c.  “Sodomy,” as a term for gay male sex, began to be used only in the 11th century and would have surprised many early religious commentators.  They attributed Sodom’s problems with God to many different causes, including idolatry, threats toward strangers and general lack of compassion for the downtrodden.  Ezekiel 16:49 suggests that Sodomites had “pride, excess of food, and prosperous ease, but did not aid the poor and needy.”
 
 
-How’d you do?  If you didn’t get at least one right, go to the nearest bookstore, pick up a copy of  Rev. Knust’s book and study, study, study.
+How’d you do?  If you didn’t get at least one right, go to the nearest bookstore, pick up a copy of  [Rev. Knust’s book](https://web.archive.org/web/20150922131616/http://www.amazon.com/gp/product/0061725587/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0061725587) and study, study, study.
 
 
-And have a thought for all those poor Tea Party legislators, currently holding back on approval of the raise in the federal debt limit unless great cuts are made in programs meant to aid “the poor and needy.”  They probably don’t even know that they’re Sodomites.
+And have a thought for all those poor Tea Party legislators, currently holding back on approval of the [raise in the federal debt limit](https://web.archive.org/web/20150922131616/http://www.greeleygazette.com/press/?p=9865) unless great cuts are made in programs meant to aid “the poor and needy.”  They probably don’t even know that they’re Sodomites.
 
 
 ### 2 Comments
 
 - Rick York says:
 I think we ought to make the press always call right wing Republicans and Tea Partiers Sodomites.
-June 30, 2011, 6:34 pm
+[**June 30, 2011, 6:34 pm**](/posts/2011-06-30-answers-to-bible-quiz/)
 - Tina Black says:
 Yes, your answer got me to thinking that the Tea Party agenda belongs smack in Sodom…not that this is  any surprise.  No god I favor would look upon their plans with a smile.
-July 2, 2011, 12:41 pm
+[**July 2, 2011, 12:41 pm**](/posts/2011-06-30-answers-to-bible-quiz/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150922131616/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150922131616/http://dicksmithsoftware.com/)

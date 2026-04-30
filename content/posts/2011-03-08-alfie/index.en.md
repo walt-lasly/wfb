@@ -29,19 +29,19 @@ When the Air Force decided they wouldn’t need my services in order to accompli
 I answered three help-wanted ads in the Sunday Times employment section.  One of them, a small Madison Avenue advertising agency, Thwing & Altman, took me on as a copywriter.
 
 
-It didn’t pay as well as I had thought a Mad Ave. advertising job would, but otherwise it was a likable enough job.  Its good features included location.  Within the perimeter of a circle with a ten-block radius there were literally hundreds of quite good restaurants where I could get a lunch of almost any school and ethnicity.  I quickly learned that, even with all that variety available, there were a handful that I kept returning to, and one of those was in the lobby of the Columbia radio (not yet TV) network’s then New York headquarters, the present skyscraper not yet having been built.  The restaurant was frequently used by people from the network, and one of the reasons I liked it was that every once in a while I would run into Alfie Bester, also looking to grab a lunch there, and we would have a nice meal together, spiced with shop talk.
+It didn’t pay as well as I had thought a Mad Ave. advertising job would, but otherwise it was a likable enough job.  Its good features included location.  Within the perimeter of a circle with a ten-block radius there were literally hundreds of quite good restaurants where I could get a lunch of almost any school and ethnicity.  I quickly learned that, even with all that variety available, there were a handful that I kept returning to, and one of those was in the lobby of the Columbia radio (not yet TV) network’s then New York headquarters, the present skyscraper not yet having been built.  The restaurant was frequently used by people from the network, and one of the reasons I liked it was that every once in a while I would run into [Alfie Bester](https://web.archive.org/web/20170619215634/http://www.empsfm.org/exhibitions/index.asp?articleID=922), also looking to grab a lunch there, and we would have a nice meal together, spiced with shop talk.
 
 
 The thing to remember about the career of Alfred J. Bester is that he was first and foremost a money writer.  He had the talent to do that well.  He could write almost anything — science-fiction stories, comics, radio-serial scripts, you name it, and he could do them all at the top of his form — and what particular kind of thing he did write, depending on how the vagaries of the market fluctuated at any given moment, was whichever one of them was paying the most dollars per hour of punching typewriter keys.
 
 
-Alfie had begun writing science fiction, back in the ’30s, because he had a number of friends — including Horace L. Gold and Mort Weisinger — who worked as editors at Standard Magazines, publishers of, among many other pulps, the magazine Thrilling Wonder Stories.  They coached him in the writing of sf, and bought his practice stories.  (Well, they didn’t buy all of them.  A very few they rejected, and of those I bought one or two when, as a teenage editor, I was editing Astonishing and Super Science Stories).
+Alfie had begun writing science fiction, back in the ’30s, because he had a number of friends — including [Horace L. Gold](https://web.archive.org/web/20170619215634/http://www.iblist.com/author2749.htm) and [Mort Weisinger](https://web.archive.org/web/20170619215634/http://comicattack.net/2010/04/twcmweisinger/) — who worked as editors at Standard Magazines, publishers of, among many other pulps, the magazine Thrilling Wonder Stories.  They coached him in the writing of sf, and bought his practice stories.  (Well, they didn’t buy all of them.  A very few they rejected, and of those I bought one or two when, as a teenage editor, I was editing Astonishing and Super Science Stories).
 
 
 Then Alfie discovered that comics were paying better than sf just then, so he tried his luck at comics, discovered that they were as easy to write as sf — for him — and switched his personal production line to comics.
 
 
-Then he got a tip from his wife, Rolly, that changed everything.
+Then he got a tip from his wife, [Rolly](https://web.archive.org/web/20170619215634/http://www.enotes.com/topic/Rolly_Bester), that changed everything.
 
 
 Rolly was an actress.  I don’t mean she was a name-in-lights star, but sometimes she got parts in Broadway plays, and sometimes bits in movies, and lately she had been doing a lot of acting for radio dramas.  In the studio, she heard that the programs were having trouble getting good scripts, a report she passed on to her husband.  Who thought that was worth a trial, so he tried it, and found he could do that as well as any other kind of writing, and the money was even better than you got for comics.
@@ -74,7 +74,7 @@ But Horace did not have all the writers he wanted in his magazine.  Particularly
 What Horace wanted from Alfie wasn’t just any old serial.  It was a particular story, a serial idea the two of them had talked about.  And talked and talked about it and kept on talking about it.
 
 
-Horace may not have been the best editor science fiction science fiction ever had, although he certainly he was right there close after [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), but he was just about the most persistent.  If Horace wanted a story out of you, he generally got it.  And what he did at last get from Alfie Bester was a three-part serial called **The Demolished Man**.
+Horace may not have been the best editor science fiction science fiction ever had, although he certainly he was right there close after [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), but he was just about the most persistent.  If Horace wanted a story out of you, he generally got it.  And what he did at last get from Alfie Bester was a three-part serial called [The Demolished Man](https://web.archive.org/web/20170619215634/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD).
 
 
 *To be continued.*
@@ -92,7 +92,7 @@ Horace may not have been the best editor science fiction science fiction ever ha
 “The Demolished Man” is one of those books I re-read every few years, and always find something new to admire in it. That, and of course “The Stars My Destination”.
 Besides Bester’s wide-ranging imagination and immense skill as a storyteller, I gotta admit: it takes some amazing chutzpah to lift your plots from Dostoevsky and Dumas respectively. And I don’t mean that in a bad way, just that those are some pretty high standards to set yourself. And he succeeded brilliantly. (TSMD in particular seems to get more relevant with each passing year.)
 Thanks for sharing this. I’m keenly anticipating your next installment.
-March 10, 2011, 12:29 am
+[**March 10, 2011, 12:29 am**](/posts/2011-03-08-alfie/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619215634/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619215634/http://dicksmithsoftware.com/)

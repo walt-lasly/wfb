@@ -23,7 +23,7 @@ Frederik Pohl
 **From the blog team:**
 
 
-By popular request, here is the table of contents for **Gateways**, an anthology of original stories inspired by Frederik Pohl, edited by Elizabeth Anne Hull, and due out this summer from Tor:
+By popular request, here is the table of contents for [Gateways](https://web.archive.org/web/20120304202130/http://www.amazon.com/gp/product/0765326620?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765326620), an anthology of original stories inspired by Frederik Pohl, edited by Elizabeth Anne Hull, and due out this summer from Tor:
 
 ![Gateways, original stories inspired by Frederik Pohl, edited by Elizabeth Anne Hull](gateways3001.jpg)
 
@@ -62,19 +62,19 @@ By popular request, here is the table of contents for **Gateways**, an anthology
 
 - David Goldfarb says:
 That’s a pretty impressive table of contents.
-June 14, 2010, 12:52 am
+[**June 14, 2010, 12:52 am**](/posts/2009-01-01-elizabeth-anne-hull/)
 - John H says:
 That’s an awesome lineup!
-June 14, 2010, 4:50 pm
-- John D. says:
+[**June 14, 2010, 4:50 pm**](/posts/2009-01-01-elizabeth-anne-hull/)
+- [John D.](https://web.archive.org/web/20120304202130/http://www.sfsignal.com/) says:
 [Draw drops at awesome lineup]
-June 14, 2010, 9:26 pm
+[**June 14, 2010, 9:26 pm**](/posts/2009-01-01-elizabeth-anne-hull/)
 - Jen says:
 Very impressive, to say the least.  It must still feel a little bit odd to know how much you’ve influenced everything that we read…with a few very exceptions, that anthology covers most of my favourite authors in the field.
-June 15, 2010, 10:01 am
+[**June 15, 2010, 10:01 am**](/posts/2009-01-01-elizabeth-anne-hull/)
 - D. Post says:
 I will make SURE my library orders this! Can’t wait!
-July 11, 2010, 10:14 pm
+[**July 11, 2010, 10:14 pm**](/posts/2009-01-01-elizabeth-anne-hull/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120304202130/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120304202130/http://dicksmithsoftware.com/)

@@ -27,5 +27,5 @@ Frederik Pohl
 
 **—Lord Dunsany***(quoted by Martin Gardner)*
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707032855/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707032855/http://dicksmithsoftware.com/)

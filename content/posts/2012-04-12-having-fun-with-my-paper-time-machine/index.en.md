@@ -43,30 +43,30 @@ How quickly things do change.
 
 ### 7 Comments
 
-- Robert Nowall says:
+- [Robert Nowall](https://web.archive.org/web/20120508223215/http://www.robertnowall.com/) says:
 Many’s the time events have happened, and I’ve gone back to old newspapers and news magazines, looking to see if there was some clue that should have warned me something would happen.  Sometimes there was (there were some clear indicators in the leadup to Saddam Hussein’s takeover of Kuwait), but, mostly, there’s nothing.
 On the other hand, I have picked up on a couple of things.  A short note in Science News gave me almost a year’s jump on the seriousness of the AIDS problem…while Time Magazine went on about herpes being the new Scarlet “H.”
 However…you may be hearing from some of these names the next time around in 2016, maybe.
-April 12, 2012, 8:30 am
-- Shakatany says:
+[**April 12, 2012, 8:30 am**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+- [Shakatany](https://web.archive.org/web/20120508223215/http://shakatany.livejournal.com/) says:
 Hopefully this time next year it’ll be who’s Romney.
-April 12, 2012, 11:05 am
-- TAD says:
+[**April 12, 2012, 11:05 am**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+- [TAD](https://web.archive.org/web/20120508223215/http://www.tadsbackupplan.blogspot.com/) says:
 Doesn’t Michelle Bachmann look like a deer caught in the headlights? I remember before the Iowa caucuses when she was proud to say as a native Iowan that her campaign was going to take Iowa … and then she didn’t win a single precinct. She was as out of touch as any of the others….
-April 13, 2012, 4:20 am
+[**April 13, 2012, 4:20 am**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
 - john miller says:
 Hmm, I’m not sure whether it’s the crazy eyes or the rictus grin, but something makes me want to hide behind the sofa…
-April 13, 2012, 12:14 pm
+[**April 13, 2012, 12:14 pm**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
 - john miller says:
 P.S. john miller is 57 years old, so on the basis that advanced age makes you less fearful (I bet Fred’s not afraid of anything…) that really shows how scary is Michelle.
-April 13, 2012, 12:18 pm
+[**April 13, 2012, 12:18 pm**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
 - John Traylor says:
 I seem to recall reading that Bachmann’s family took farm subsidy dollars for their farms (or something like that)funny how wealthy people are so anti-goverment but still take handouts from it.
-April 14, 2012, 6:56 am
+[**April 14, 2012, 6:56 am**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
 - H. E. Parmer says:
 Actually, rather than a deer in the headlights, that picture of Bachmann makes me think of these lines from a certain famous movie:
-And, you know, the thing about a shark… he’s got lifeless eyes. Black eyes. Like a doll’s eyes. When he comes at ya, doesn’t seem to be living… until he bites ya, and those black eyes roll over white …
-April 18, 2012, 12:08 am
+*And, you know, the thing about a shark… he’s got lifeless eyes. Black eyes. Like a doll’s eyes. When he comes at ya, doesn’t seem to be living… until he bites ya, and those black eyes roll over white …*
+[**April 18, 2012, 12:08 am**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508223215/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508223215/http://dicksmithsoftware.com/)

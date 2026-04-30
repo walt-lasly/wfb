@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![Dhalgren by Samuel R. Delany](dhalgren.jpg)
 
-The characteristics of [**Samuel R. “Chip” Delany’s**](/posts/2010-11-20-chip-delany/) novel **Dhalgren**. were that it was long, it was densely written, it was a hard read and it was highly, not to say obsessively, erotic.  It appeared to be set in the fairly near future, and it certainly took place in an America that did not seem to be the same country that the rest of us lived in.  Was it science fiction?  For sure it was not any kind of science fiction that anyone else was writing.
+The characteristics of [**Samuel R. “Chip” Delany’s**](/posts/2010-11-20-chip-delany/) novel [Dhalgren](https://web.archive.org/web/20170620010028/http://www.amazon.com/gp/product/0375706682?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0375706682). were that it was long, it was densely written, it was a hard read and it was highly, not to say obsessively, erotic.  It appeared to be set in the fairly near future, and it certainly took place in an America that did not seem to be the same country that the rest of us lived in.  Was it science fiction?  For sure it was not any kind of science fiction that anyone else was writing.
 
 
 But it didn’t fit in any other category, either, and if, as Bantam Books’ science-fiction editor, I chose to publish it, who was authorized  to question my decision?
@@ -33,7 +33,7 @@ The answer to that question is,  “Nobody.”  But that is not to say that that
 It was a Bantam custom to Xerox multiple copies of every new accepted manuscript as it was signed, and as those copies began to circulate, I began to have one particular conversation, over and over, every time I chose to come in to the office.  One of my colleagues would stop me in a hallway, placatory smile on his or her face, and say something like,  “You know, Fred, I certainly would never dream of questioning your editorial decisions, you know that. But I was just wondering — well, why, exactly, did you buy that book?”
 
 
-I finally figured out an answer that satisfied them.  I said,  “Because it’s the first book that told me anything I didn’t know about sex since **Story of O**.”
+I finally figured out an answer that satisfied them.  I said,  “Because it’s the first book that told me anything I didn’t know about sex since [Story of O](https://web.archive.org/web/20170620010028/http://www.amazon.com/gp/product/1562010352?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1562010352).”
 
 
 It was not, by the way, any of the boss editors who asked me that question.  If any of them had reservations about my sanity, they kept them to themselves.  I suppose that if the book had turned out to be a disastrous flop I would have had to face some unenjoyable conversations.
@@ -48,7 +48,7 @@ Another one of Bantam’s customs was to have an annual sales meeting at which a
 But I wanted to be there for two reasons.  First, because *Dhalgren* was a very unusual book.  I thought it would sell well enough, but I didn’t think that your average route salesman would be able to figure out why that was likely by reading it — as though they would — or by having one of the higher-up editors tell them its plot.  I thought I could tell them what to say to get the orders, and I thought I needed to tell them that myself, in person.
 
 
-So next time I was in the office, I grabbed **Marc Jaffe**, the editor in chief,  and told him that I had to be at the sales meeting so I could tell them that *Dhalgren* was Delany’s masterwork, that it was odd but it was what his readers wanted from him, that it was his first new work in years and they were waiting for it, and if the salesmen just got the book into the stores his devotees would find it and come in and buy it.  And if Marc would see that I got an official invitation that would be nice, but if he didn’t want to do that I’d be willing to book the trip myself and pay for it out of my expense account.
+So next time I was in the office, I grabbed [Marc Jaffe](https://web.archive.org/web/20170620010028/http://brainspiral.com/clients/editorialdirection.com/about/), the editor in chief,  and told him that I had to be at the sales meeting so I could tell them that *Dhalgren* was Delany’s masterwork, that it was odd but it was what his readers wanted from him, that it was his first new work in years and they were waiting for it, and if the salesmen just got the book into the stores his devotees would find it and come in and buy it.  And if Marc would see that I got an official invitation that would be nice, but if he didn’t want to do that I’d be willing to book the trip myself and pay for it out of my expense account.
 
 
 And he thought for a moment and then said,  “Oh, all right.”  And so I did, and so they did, and when the book was at last printed and distributed to the stores that first printing sold out briskly, and so did the next, and the next, and the next.  If I remember correctly we went through sixteen or seventeen printings in that first year, and it didn’t stop there.
@@ -57,7 +57,7 @@ And he thought for a moment and then said,  “Oh, all right.”  And so I did, 
 Shows what a genius editor I was, right?  One word from me and a dog in the market, a manuscript that had been rejected 20 or 30 times before I offered a contract on it, was instantly transmuted into a runaway bestseller.
 
 
-Well, all that’s true, but there are other truths that dull some of the glitter of that record.  There’s another book I bought for Bantam called **The Female Man**.  It’s by **Joanna Russ**, and it’s a very good book about lesbian issues, set in a science-fiction framework.  I tried to do for *The Female Man the same thing I had done for Dhalgren*.  I failed.  It had its first printing, it sold a moderate number of copies, and then it folded its hands and passed into eternal rest.
+Well, all that’s true, but there are other truths that dull some of the glitter of that record.  There’s another book I bought for Bantam called [The Female Man](https://web.archive.org/web/20170620010028/http://www.amazon.com/gp/product/0807062995?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807062995).  It’s by [Joanna Russ](https://web.archive.org/web/20170620010028/http://www.nndb.com/people/553/000029466/), and it’s a very good book about lesbian issues, set in a science-fiction framework.  I tried to do for *The Female Man the same thing I had done for Dhalgren*.  I failed.  It had its first printing, it sold a moderate number of copies, and then it folded its hands and passed into eternal rest.
 
 
 I have a sort of explanation for this.  I think that if you try a lot of weird ideas, and if you’re lucky, now and then one of them will work — magnificently, sometimes.  But it’s very rare that they will work a second time.
@@ -66,7 +66,7 @@ I have a sort of explanation for this.  I think that if you try a lot of weird i
 I’m not really sure, by the way, of how much profit *Dhalgren* put into Bantam’s bank account in the final analysis.  Maybe a few percentage points less than one might predict on the basis of actual sales, because about twice a month Chip’s spies would tell him when I was in the office, and he would race in to plead with me to open up the forms to make some tiny, but essential, correction.  That sort of thing is cheap enough if you do it at the stage of galleys, but if you wait until the book is on the rotary presses it becomes a real luxury item.  But I humored him — the first eight or nine times it happened.
 
 
-And then, I didn’t linger at Bantam long after the *Dhalgren* triumph.  The science-fiction line was taken over by an editor named **Lou Aronica**.  Lou was a good editor and a smart one, but at the time, he didn’t have much of a feel for science fiction.  Worse, he didn’t know that he didn’t.  This proved expensive.
+And then, I didn’t linger at Bantam long after the *Dhalgren* triumph.  The science-fiction line was taken over by an editor named [Lou Aronica](https://web.archive.org/web/20170620010028/http://www.fictionstudio.com/Fiction_Studio_site/Home.html).  Lou was a good editor and a smart one, but at the time, he didn’t have much of a feel for science fiction.  Worse, he didn’t know that he didn’t.  This proved expensive.
 
 
 About the first thing he did was to sign Chip Delany up for two more novels — wondering, I am sure, just what the devil was wrong with me that I hadn’t done this myself, long since.  Since Chip was now a bestseller author, Lou thought it reasonable to write the contracts to include a bestseller-sized advance — and then, when the first book manuscript was delivered, to order a hardcover edition with a bestseller-sized print order.  This turned out to be bad news, because the new books were not *Dhalgren*-sized bestsellers, or anywhere near it.  They sold, I think, somewhat better than Chip’s previous Ace books, but nowhere near enough to justify those vast advances and print orders.
@@ -78,7 +78,7 @@ To be sure, one presumably good feature of the boom was that Chip had some reall
 And then there’s my own case, because the pestilence didn’t spare me.  Lou Aronica called me up one day.  The overprinting of Chip’s first contracted sf novel for Lou was bearing its poisoned fruit.  The book dealers were shipping back floods of unsold books.  The whole Bantam hardcover science fiction program was endangered.
 
 
-“And,”  as Lou said, sounding really dejected,  “there’s this new one of yours that we signed, **The Coming of the Quantum Cats**. The contract calls for both a hardcover and a paper edition, but, Fred, the sales guys are reporting real resistance to our hardcover sf now.  Would you give us permission to omit the hardcover edition?”
+“And,”  as Lou said, sounding really dejected,  “there’s this new one of yours that we signed, [The Coming of the Quantum Cats](https://web.archive.org/web/20170620010028/http://www.amazon.com/gp/product/0553763393?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0553763393). The contract calls for both a hardcover and a paper edition, but, Fred, the sales guys are reporting real resistance to our hardcover sf now.  Would you give us permission to omit the hardcover edition?”
 
 
 So I said,  “All right.”  Thus giving away maybe ten thousand dollars.
@@ -96,126 +96,138 @@ Don’t ask me why.  About some things I am pretty smart, but not about all.
 
 - Ann M. says:
 Thank you so much for your fascinating posts! I was hoping you could share your insight about the publication of Delany’s Neveryon series by Bantam. Charles Platt wrote an essay in Interzone in Sept-Oct 1988 called “Two Tales of Censorship” where he says that major bookstore chains reduced or returned their orders of the Neveryon books due to “gay content.” It sounds unbelievable today, but did B. Dalton and Barnes & Noble really make such decisions that affected printing and sales like this?
-January 10, 2011, 1:11 pm
+[**January 10, 2011, 1:11 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Lou Aronica says:
 Fred, 
 Just to set the record straight, the high-priced Chip Delany novels were under contract long before I got involved in Bantam’s SF program. There were at least two editors between you and me. In addition, we’d had several successes with hardcover SF in the time surrounding the publication of the first of those Delany books, and even the Delany did fairly well. In fact, it was these successes that led to the formation of Spectra, an imprint that recently celebrated its 25th anniversary. For someone without much of a feel for science fiction (and I admit that my grasp was limited when I started), I managed to put together a program filled with award winners and bestsellers. From 1994 to 1999, I acquired and/or edited five Hugo Best Novels, so you at least have to admit that I was a fast learner. 
 What happened with QUANTUM CATS was that the upper management at Bantam at that time only wanted hardcovers for which they could print big numbers. This greatly limited the number of hardcovers I could do, and it took me years to talk them into letting me publish a larger hardcover list. As I’m sure you recall, we even did one of your books, CHERNOBYL (a novel I love, by the way), in hardcover.
-Best,
+Best,  
+
 Lou
-January 10, 2011, 4:28 pm
-- Bruce Arthurs says:
+[**January 10, 2011, 4:28 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Bruce Arthurs](https://web.archive.org/web/20170620010028/http://undulantfever.blogspot.com/) says:
 I, for one, thought Lou Aronica did an outstanding job when he was in charge of Bantam Spectra.  Enough that I pretty much bought the entire Spectra line as it came out, because I knew I’d rarely be disappointed.
 Then Lou moved up into more management/executive positions, and I began to be disappointed in the Spectra books, until they were “just another imprint”.
 (Come back to editing, Lou!  All the adulation you can eat, and I’ve got an old refrigerator carton you can live in!)
-January 11, 2011, 11:39 am
-- Steve Boyett says:
+[**January 11, 2011, 11:39 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Steve Boyett](https://web.archive.org/web/20170620010028/http://www.steveboy.com/) says:
 Thank you so much for this. I cannot imagine that you didn’t have to battle nonstop to get DHALGREN published. Then again, I had no idea the MS had been bounced 20 or 30 times, though despite its brilliance it’s not surprising, given how challenging it is for most people to read. That is sold hugely continues to amaze me. But then again I feel that way about Umberto Eco — who the hell is reading this in droves?
 I have heard that when DHALGREN was published you could see people reading it all over Manhattan, and I wonder if Delany’s mythical, apocalyptic, and astonishingly concrete depiction of a city that seems largely based on Manhattan was an initial contributor to his success. I lived in Florida when it came out, and I had no idea that his “Emboriky’s” department store was clearly Macy’s (according to a friend).
 I think the cover and the flap copy played a large role, too — one of the most intriguing covers I’ve ever seen, and the BEST flap copy ever, period. I’d love to know more about how those came about, if you’re inclined to talk about it.
 Thank you again!
-January 11, 2011, 7:10 pm
-- P.E. Coristine says:
+[**January 11, 2011, 7:10 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [P.E. Coristine](https://web.archive.org/web/20170620010028/http://pcoristi.blogspot.com/) says:
 I read Dhalgren when I was 17 and loved it. I don’t think I understood it completely (particularly the ending), but I loved the post apocalypse world and the relationship between the two character. 
 About 10 years later I went to my first science fiction convention. I was listening to a panel of sci-fi writers talk about their genre and Dhalgren came up. Imagine my horror when they all seemed to agree that it was one of the worst sci-fi books ever written. I don’t remember if I said anything, but I do remember the credibility of those particular writers (whoever they were) flew right out the window.
-January 12, 2011, 11:55 am
+[**January 12, 2011, 11:55 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - jack morava says:
 I am a pretty heterosexual guy but I deeply love and respect Joanna Russ and her work. `The Female Man’ could have been titled, `The Female Mensch’; it’s in many ways like Lois Gould’s `A Sea Change’. 
 I just want to put in a word of thanks for your support for her. [`The Two of Them’ is another of her books that’s not well enough known.]
-January 12, 2011, 12:52 pm
+[**January 12, 2011, 12:52 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Ann Pohl says:
 I love Chernobyl as well: it presents awesomely readable, mega-important knowledge about current environmental and political issues. It deserves it’s hard cover.  It is an important reference book as well as an engrossing story. Much like some of Howard Fast’s and E. L. Doctorow’s work (among others), to my mind. 
 My Dad might get some historic sequencing a bit muddled (as he already acknowledged in earlier post). A person is entitled to conflate relatively minor events after nearly a century of life experience. His mind is certainly clear enough, because he gets his main points across on complex subjects that are fraught with divergent truths. Thus his truth is easy to grasp, and it is an important part of this whole, of interest to many readers.
-January 12, 2011, 1:56 pm
+[**January 12, 2011, 1:56 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Bete says:
 Dear Mr. Pohl, 
 I had no idea I had you to thank for making sure two of my favorite books were put out into the world and thus introducing me to two of my favorite authors.  I was about 14 when Dhalgren was published, and by chance I grabbed it off the shelf of the airport book store because it was the thickest book and I had a long, slow summer ahead of me.  I devoured it and decades later, the imagery and sensations it conjured up for still linger.  In college, I started diving down the side corridor of SF/Fantasy of female writers and stumbled upon The Female Man.  I probably read the entire works of Delaney and Russ much too early in my SF exploration and I’m sure I missed out on many nuances, but those two books remain at the top of my list when I’m asked, “What books would you recommend?”  
 I’m delighted you took those chances and I can’t thank you enough.
 – Bete
-January 12, 2011, 6:31 pm
+[**January 12, 2011, 6:31 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Steven E. McDonald says:
 Per Lou’s comment, one of the editors between you and he was Sydny Weinberg, who bought my first novel, although she moved on fairly quickly, leading to her assistant, whose name I forget, being elevated to the position of managing the science fiction and fantasy line. At that time Bantam had apparently developed an odd policy of not sending SF books back to print when they sold out, which affected a number of books from 1980-1982 as I remember it.
-January 13, 2011, 2:00 am
+[**January 13, 2011, 2:00 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Samuel R. Delany says:
-Since Dhalgren’s publishing history still elicits minimal interest, let me try to straighten some of it out.  Fred, you came to see us in our three-room second-floor Paddington Street flat in London, twice, once when we weren’t in and our upstairs neighbor was baby-sitting for not-quite-year-old Iva; then you came back, a second time, when Marilyn and I were both there. That’s when I told you about Dhalgren—and probably exaggerated the number of times and places it had been submitted. Initially it had been contracted to Avon Books as a pentology—I’d signed a contract for five interconnected far-future adventure novels. But after four years, what I delivered was one humongous 350-thousand word near-future psychological mystery-with-no-solution. Politely, George Ernstberger at Avon said, “No,” and that he would release me from the contract as soon as we found another buyer. My agent, Henry Morrison, had talked to as many as a dozen editors to ask if they’d be interested in looking at the manuscript:  Dhalgren was a near future tale. It was not particularly heavy on action or conflict. It was very long, and it could not easily come apart into a trilogy or tetrology. On that much description, basically the editors Henry had talked to had said, “No.” They would to pass it by.
-      Almost certainly Henry’s account of those dozen odd conversations was the source of the “20 or 30 rejections”—but these were “rejections” by editors who never read it or even had the MS in their office. Their decisions were made on a combination of genre and general unwieldiness. Five years before, Doubleday had published Nova and had done well with it: The paperback sale to Bantam, at the time, had been a record advance. On the strength of that, young Doubleday editor Marc Heafele asked to see Dhalgren, read it, and, on Friday afternoon, phoned my agent to say, most enthusiastically, he wanted to buy it. The following Tuesday, a shame-faced Heafele phoned Henry to say that he had to retract his offer. Higher ups at Doubleday had simply said that the book was too big. They had never published an SF novel that size—add the fact that it was also border-line SF and, for a conservative publisher such as Doubleday, it made the project economically unfeasible. Undoubtedly this is the story I told Fred the evening he dropped in unexpectedly to say hello (along with the tale of Iva’s befuddled citizenship problems), as we sat chatting for an hour or so with my infant daughter’s blue- quilted baby basket on the rug between our feet, in front of the electric fire.  Fred can be wonderfully warm hearted, and I think he took to the young expatriate couple: he said he’d like to take a look at the MS (which I believe, at the time, was sitting on our living room table).
-	Marilyn asked if he were sure.
-	Fred said he was—and shortly left.
-	The next day I wrote my agent, Henry Morrison, back in America to send a copy to Bantam—and I believe Fred and Betty were soon on their way back to the States, anyway.
+Since Dhalgren’s publishing history still elicits minimal interest, let me try to straighten some of it out.  Fred, you came to see us in our three-room second-floor Paddington Street flat in London, twice, once when we weren’t in and our upstairs neighbor was baby-sitting for not-quite-year-old Iva; then you came back, a second time, when Marilyn and I were both there. That’s when I told you about Dhalgren—and probably exaggerated the number of times and places it had been submitted. Initially it had been contracted to Avon Books as a pentology—I’d signed a contract for five interconnected far-future adventure novels. But after four years, what I delivered was one humongous 350-thousand word near-future psychological mystery-with-no-solution. Politely, George Ernstberger at Avon said, “No,” and that he would release me from the contract as soon as we found another buyer. My agent, Henry Morrison, had talked to as many as a dozen editors to ask if they’d be interested in looking at the manuscript:  Dhalgren was a near future tale. It was not particularly heavy on action or conflict. It was very long, and it could not easily come apart into a trilogy or tetrology. On that much description, basically the editors Henry had talked to had said, “No.” They would to pass it by.  
+
+      Almost certainly Henry’s account of those dozen odd conversations was the source of the “20 or 30 rejections”—but these were “rejections” by editors who never read it or even had the MS in their office. Their decisions were made on a combination of genre and general unwieldiness. Five years before, Doubleday had published Nova and had done well with it: The paperback sale to Bantam, at the time, had been a record advance. On the strength of that, young Doubleday editor Marc Heafele asked to see Dhalgren, read it, and, on Friday afternoon, phoned my agent to say, most enthusiastically, he wanted to buy it. The following Tuesday, a shame-faced Heafele phoned Henry to say that he had to retract his offer. Higher ups at Doubleday had simply said that the book was too big. They had never published an SF novel that size—add the fact that it was also border-line SF and, for a conservative publisher such as Doubleday, it made the project economically unfeasible. Undoubtedly this is the story I told Fred the evening he dropped in unexpectedly to say hello (along with the tale of Iva’s befuddled citizenship problems), as we sat chatting for an hour or so with my infant daughter’s blue- quilted baby basket on the rug between our feet, in front of the electric fire.  Fred can be wonderfully warm hearted, and I think he took to the young expatriate couple: he said he’d like to take a look at the MS (which I believe, at the time, was sitting on our living room table).  
+
+	Marilyn asked if he were sure.  
+
+	Fred said he was—and shortly left.  
+
+	The next day I wrote my agent, Henry Morrison, back in America to send a copy to Bantam—and I believe Fred and Betty were soon on their way back to the States, anyway.  
+
 	That’s the actual story. But I can see the places misunderstandings might have crept in. Possibly I made more or those conversations between the editors and my agent than I might have. The truth is, yes, Dhalgren was rejected by its initial contractor—Avon—but it was bought by the third publishers who actually had it in hand (Fred at Bantam): and almost bought by the second (Haefele at Doubleday): It’s not as good a story as the chance taken after twenty or thirty rejections. But it’s closer to the facts.
-January 13, 2011, 4:45 pm
+[**January 13, 2011, 4:45 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Steven says:
-I note that both The Female Man and Dhalgren were up for the Nebula against each other. Something by Joe Haldeman called The Forever War won.
-January 14, 2011, 1:21 pm
+I note that both *The Female Man and Dhalgren were up for the Nebula against each other. Something by Joe Haldeman called The Forever War* won.
+[**January 14, 2011, 1:21 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - John-Henri Holmberg says:
-Happily, The Female Man has not folded its hands and passed into eternal rest; it’s still in print in the US as well as in other countries, has been the subject of at least one doctoral dissertation even in Sweden. I published it in Swedish in 1996; there have been several other translations. And parenthetically, I wouldn’t agree that it’s about lesbian issues; rather, I believe, about human issues. Even regardless of that, in my opinion it remains one of the extremely few sf novels written that are also genuine works of literary art, and I applaud you for publishing it.
+Happily, The Female Man has not folded its hands and passed into eternal rest; it’s still in print in the US as well as in other countries, has been the subject of at least one doctoral dissertation even in Sweden. I published it in Swedish in 1996; there have been several other translations. And parenthetically, I wouldn’t agree that it’s about lesbian issues; rather, I believe, about human issues. Even regardless of that, in my opinion it remains one of the extremely few sf novels written that are also genuine works of literary art, and I applaud you for publishing it.  
+
 As for Dhalgren, I will never forget the yards-high piles of manuscript (as I recall, a separate pile per chapter) circling the walls of the room in London where Chip was writing it and where I saw it when visiting so many years ago, just after starting my first job as an acquiring editor in Stockholm and contracting for the Swedish edition of Nova. But Dhalgren I’ve never been able to publish in translation, much as I would have liked to; translation costs alone have prevented it.
-January 14, 2011, 1:31 pm
-- supergee says:
+[**January 14, 2011, 1:31 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [supergee](https://web.archive.org/web/20170620010028/http://www.maroney.org/hlavaty/) says:
 Ann M: The bookstore censorship thing never happened. The chains wanted a sequel to Stars in My Pocket, rather than another Neveryon book, a decision I agree with and obviously not based on homophobia.
-January 14, 2011, 2:09 pm
-- Wordweaverlynn says:
+[**January 14, 2011, 2:09 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Wordweaverlynn](https://web.archive.org/web/20170620010028/http://wordweaverlynn.dreamwidth.org/) says:
 If you had done nothing else in your life, you’d make it into heaven for bringing the world THE FEMALE MAN and DHALGREN. 
 I was a smart, queer kid from a narrow fundamentalist farming village. Those books saved my life. Literally.
 Thank you.
-January 14, 2011, 2:10 pm
-- Tom Whitmore says:
+[**January 14, 2011, 2:10 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Tom Whitmore](https://web.archive.org/web/20170620010028/http://tswhitmore.com/) says:
 Interesting that Doubleday would say they’d never published any SF that long, when they’d brought out the hardcover of STAND ON ZANZIBAR several years before. That’s at least of a similar length — I don’t have copies to hand to compare them, however. Same order of “highly outsized for the current market SF novel with sex”, though.
 Fascinating story all around, though!
-January 14, 2011, 3:28 pm
+[**January 14, 2011, 3:28 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Christopher Adams says:
 Since you mentioned THE COMING OF THE QUANTUM CATS, I think I ought to say that it’s one of the SF books that really and truly made an impact on me. It’s probably fair to say that it instilled in me a love for alternate history fiction *and* gave me a sometimes-troubling habit of dwelling on just how contingent the path of our history really is.
 I was only five years old when it was first serialised, but I read it in a second-hand paperback when I was eleven or so, and I still have that battered old book somewhere. So thank you for that story.
-January 14, 2011, 3:46 pm
+[**January 14, 2011, 3:46 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Ross Presser says:
 @Ann M., considering such decisions about gay content are STILL affecting publishing and sales at Amazon, yes, it’s believable.  (Yes, Amazon, what you do with Kindles is publishing, not distribution, in almost every meaningful sense.)
-January 14, 2011, 5:36 pm
-- Fran Friel says:
+[**January 14, 2011, 5:36 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Fran Friel](https://web.archive.org/web/20170620010028/http://www.franfriel.com/) says:
 Thank you all for the brilliant conversation. I feel privileged to have the opportunity to listen in. SF history, intrigue, opinion–delicious!
-January 15, 2011, 9:26 am
+[**January 15, 2011, 9:26 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Neil in Chicago says:
-Re Dhalgren, you once gave me one of my finest moments of fannish egoboo ever.
-There was a tiny con in Lacrosse Wisconsin called Couleecon.  Twice actually, although the two are conflated in memory.  George R. R. Martin had a room party putatively selling and autographing his books, though I thought it was just to make the con a write-off.
-In my recollection, you were lying across the head of the king sized bed, against the wall.  The conversation got around to your notorious purchase of Dhalgren, allegedly the longest novel published in the English language in the year it came out, and it’s unusual characteristics.
-I said, “OK, Dhalgren doesn’t have some of the things a ‘novel’ is expected to, and I’m not going to argue the point, but there are parts of everyday life I never realized I’d never seen in a novel until I saw them in Dhalgren.”
+Re *Dhalgren*, you once gave me one of my finest moments of fannish egoboo ever.  
+
+There was a tiny con in Lacrosse Wisconsin called Couleecon.  Twice actually, although the two are conflated in memory.  George R. R. Martin had a room party putatively selling and autographing his books, though I thought it was just to make the con a write-off.  
+
+In my recollection, you were lying across the head of the king sized bed, against the wall.  The conversation got around to your notorious purchase of *Dhalgren*, allegedly the longest novel published in the English language in the year it came out, and it’s unusual characteristics.  
+
+I said, “OK, *Dhalgren doesn’t have some of the things a ‘novel’ is expected to, and I’m not going to argue the point, but there are parts of everyday life I never realized I’d never seen in a novel until I saw them in Dhalgren*.”  
+
 You slapped the bedspread and said, “Yeah, right!”
-January 16, 2011, 4:28 pm
-- Todd Mason says:
+[**January 16, 2011, 4:28 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Todd Mason](https://web.archive.org/web/20170620010028/http://www.socialistjazz.blogspot.com/) says:
 And, for what it’s worth, the Bantam editions (note plural) of THE FEMALE MAN did better than Frederik Pohl gives himself credit for…at least two different covers were issued over multiple printings (not simultaneous multiple covers)…and I agree (and if you reread it, Mr. Pohl, you’d agree, too) with John-Henri that it’s not solely a book about lesbians and/or lesbianism…though they are key to it, in a variety of ways. Russ’s novel has been pretty consistently in print in the US, at least, since Bantam let it go, albeit the Feminist Press edition was pretty poorly packaged; someone else has it out now.
 And it is indeed brilliant, funny, challenging and a work of art. And it helped “Wordweverlynn” cope.  Hell, it helped me out, too, even as a het male in a fairly cosmopolitan area at the time.
-January 16, 2011, 6:45 pm
-- Michael Walsh says:
+[**January 16, 2011, 6:45 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Michael Walsh](https://web.archive.org/web/20170620010028/http://www.oldearthbooks.com/) says:
 re: Female Man.  It’s been in print since 2000 from Beacon Press (isbn: 0807062995).  Easy enough to obtain these days.
-January 17, 2011, 10:47 am
+[**January 17, 2011, 10:47 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - sean says:
 Dang Fred,look at whom all reads your blog!You still got it man.
-January 19, 2011, 11:35 pm
-- Gary Farber says:
+[**January 19, 2011, 11:35 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Gary Farber](https://web.archive.org/web/20170620010028/http://amygdalagf.blogspot.com/) says:
 “Another one of Bantam’s customs was to have an annual sales meeting at which all of its sales force flocked in from their territories all over the country to hear Bantam’s editors tell them about the books they would be persuading stores to order for the next season.”
 Of course, every mass market publisher has done this since… long before that, and ever since, although recently this whole internet thing has….
 This is terrific stuff to finally read; I’m so glad you wrote this up, Fred (may I call you “Fred”?  You wouldn’t know me from a hole in the wall, we’ve never been introduced, but we’ve been at the same room parties numerous times, and many other rooms together at sf cons, since 1973. :-))
-January 21, 2011, 3:40 am
+[**January 21, 2011, 3:40 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Gregory Feeley says:
 Chip Delany’s description of the “five interconnected far-future adventure novels” sold to Avon answers a tiny mystery that has been niggling in the back of my head for, my gosh, forty years.  In 1970 I was a serious fifteen-year-old science fiction fan, and I looked for advance news of books by my favorite authors.  The best source (aside from Locus, then a mimeo’d bi-weekly) was “Books in Print,” a periodical for public libraries that would list information about current and soon-to-appear titles.  Whenever one came out, I would ask my local librarians for a copy and would peruse it for forthcoming titles by Blish, Delany, Disch, Ellison, Russ, Zelazny.
 I have a distinct recollection of coming upon a title by Samuel R. Delany, to be published by Avon in late 1970, called “Mirror and Lens.”  It never appeared (I certainly kept my eye open for it), and since Delany was never an Avon author, I half-wondered if I had radically misread something.  But when “Dhalgren” appeared five years later, one of its sections was entitled “Mirror, Prism, Lens,” so I knew that there had been =something= to that entry.
 Thanks for clearing that up, Chip.
-January 21, 2011, 7:35 am
+[**January 21, 2011, 7:35 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Gregory Feeley says:
 Actually, I think the publication was called “Forthcoming Books.”  “Books in Print” was a different publication.  Both were published for librarians and booksellers, and came in a format that resembled telephone books.
-January 21, 2011, 8:30 am
+[**January 21, 2011, 8:30 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Darrell Schweitzer says:
 Fred, I have to admit I am not particularly among DHALGREN’S fans, though I have read it all the way to the end. What I wanted to say was that I really respect the editorial courage you displayed in publishing both this and THE FEMALE MAN. Editors have to take bold, intuitive leaps like that every once in a while. We need editors actually willing to do it. They are not common. Either one of those books, if they tanked badly enough, could have presumably cost you your job. Instead, both books are still in print and being read by people who were not even born when they were first published. Clearly your intuition was correct, and it is time for DHALGREN detractors to take another look. Critics, I have always maintained, are at a distinct disadvantage trying to explain to people who have already enjoyed a book why they shouldn’t have.
-January 21, 2011, 11:29 pm
+[**January 21, 2011, 11:29 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Samuel R. Delany says:
-Supergee–Such situations are always oversimplified by one and two sentence synopses. But the idea that no homophobia was involved with Bantam and Barns & Noble is about the most extreme oversimplification that I have yet heard of the situation.
+Supergee–Such situations are always oversimplified by one and two sentence synopses. But the idea that no homophobia was involved with Bantam and Barns & Noble is about the most extreme oversimplification that I have yet heard of the situation.  
+
 You use words like “obvious” but look at what happened. Over half a dozen odd years, Bantam published the first three of a series–the Neveryon books–each of which went into two or three printings: the third, *Flight from Neveryon,* about AIDS, sold 85-thousand and went back for a 15 thousand second printing. Then the publisher returned the fourth volume in the series to the agent, without even reading it–and you really think *nothing* in the content of the series up till then put off the publishers and the buyers? When the fourth volume was subsequently shown to Tor, Tom Dougherty called up Barnes & Nobel to find out how many they would likely take and was told: “We’re not taking any more books of any sort from Delany. He’s now writing books about gay material?” and you still don’t think anything approaching homophobia between the publisher and bookstore outlet was involved . . .? A very brave David Hartwell changed the name of the fourth book from Return to Neveryon to *The Bridge of Lost Desire* to disassociate it in the mind of book buyers from the “Neveryon” series–and it did quite as well as the previous three had done; and half a dozen years later the entire quartet was picked up by a University Press, with whom it is still in print. But not even reading the book that the writer submits, in a commercially successful series, is such an “obvious” way for a publisher to make the writer want to finish another book that’s a sequal to one they want, isn’t it . . .? And I could add half a dozen confirming anecdotes to this one.
-January 22, 2011, 2:24 pm
+[**January 22, 2011, 2:24 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - Josh Lukin says:
 Chip, are you sure you don’t mean “B. Dalton” by “Barnes & Noble”? I thought the whole problem was resolved after B&N had bought B. Dalton, and the myth that there never was such a problem arose in the wake of the Gaylacticans protesting B&N two years after that resolution.
-January 28, 2011, 9:05 am
-- Gary Farber says:
-Trivially, Chip, it’s “Tom Doherty,” and “Barnes & Noble.”  I know you like to get it right.  Not to mention that your manuscript for Bridge of Lost Desire went through my hands was David was 8 floors up at Morrow/Arbor House, and Avon was 8 floors down when we were all Hearst. 
-January 29, 2011, 5:40 pm
+[**January 28, 2011, 9:05 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
+- [Gary Farber](https://web.archive.org/web/20170620010028/http://amygdalagf.blogspot.com/) says:
+Trivially, Chip, it’s “Tom Doherty,” and “Barnes & Noble.”  I know you like to get it right.  Not to mention that your manuscript for *Bridge of Lost Desire* went through my hands was David was 8 floors up at Morrow/Arbor House, and Avon was 8 floors down when we were all Hearst. 
+[**January 29, 2011, 5:40 pm**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 - JohnStephenWalsh says:
 Hello,
 I’m a first-timer here, just discovered the site.  I encountered Mr. Pohl as a boy at the only SF convention I ever went to, in Boston in 1980, where I was pleased to see Mr. Delany on the stage giving one of the Hugo awards.
@@ -225,7 +237,7 @@ Reading, and rereading, this book, my mind was ACTIVE the whole time, thinking a
 After reading it, I went looking for more books like it.  I’m still looking, thirty years later.  (I recommend Mr. Delany’s DARK REFLECTIONS, by the way.)
 Sorry to drone on.  Among many influences on my life and my own writing and minimal success in selling stories for publication, DHALGREN is a powerful one.  I wasn’t the same person after reading it that I was before.
 Thank you for sharing your story, Mr. Pohl.
-June 26, 2011, 5:36 am
+[**June 26, 2011, 5:36 am**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620010028/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620010028/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="isaacgertrudeasimovwb.jpg" alt="Gertrude and Isaac Asimov" caption="Gertrude and Isaac Asimov. (Photo by Jay Kay Klein.)" >}}
 
 
-When World War II ended, Isaac Asimov’s stint as a war research scientist came to an end.  Then he said good-bye (or at least *au revoir* to his associate researchers, because he was pretty sure to be seeing at least **Robert Heinlein** and **L. Sprague de Camp** again) and headed for the normalcy of a return to civilian life.
+When World War II ended, Isaac Asimov’s stint as a war research scientist came to an end.  Then he said good-bye (or at least *au revoir* to his associate researchers, because he was pretty sure to be seeing at least [Robert Heinlein](https://web.archive.org/web/20111014235156/http://www.heinleinsociety.org/rah/biographies.html) and [L. Sprague de Camp](https://web.archive.org/web/20111014235156/http://www.lspraguedecamp.com/bio.html) again) and headed for the normalcy of a return to civilian life.
 
 
 That, however, was not to be. His draft board had other ideas.  His work at the Philadelphia Navy Yard had preserved him from being called up as long as he was doing the work.  Now he wasn’t doing it any more.  He was quickly promoted to become classified 1A in the Selective Service’s eyes, and shortly thereafter promoted again, now becoming  Asimov, Pvt Isaac.
@@ -56,7 +56,7 @@ Her name was Gertrude Blugerman.  If you picked out the letters D-E-A-R-E-S-T on
 I think that tells you an important fact about Isaac right there.  Oh, of course it was only dumb luck that gave Isaac’s girl an endearing phone number.  That sort of pure chance could have happened to anyone.  But if it had happened to almost any other young man, it is likely that neither he nor the girl would ever have known.  It takes a certain kind of mind to ring up changes on all the numbers and phrases and facts that come one’s way — the kind of mind that Isaac Asimov was born with, and that made him the writer he was.
 
 
-All this time, of course, Isaac was writing science fiction, mostly for John Campbell but now and then for others.  He had already established the two main currents in his fiction: The positronic robot stories (Why were they positronic?  I asked him that once and he said, “Because the positron had just been added to the list of particles and no one knew what it could and couldn’t do.”) and the Foundation series.
+All this time, of course, Isaac was writing science fiction, mostly for [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) but now and then for others.  He had already established the two main currents in his fiction: The [positronic robot stories](https://web.archive.org/web/20111014235156/http://www.amazon.com/gp/product/0553803700?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0553803700) (Why were they positronic?  I asked him that once and he said, “Because the positron had just been added to the list of particles and no one knew what it could and couldn’t do.”) and the [Foundation](https://web.archive.org/web/20111014235156/http://www.amazon.com/gp/product/0553382578?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0553382578) series.
 
 
 So what else can I tell you about Isaac Asimov at this stage?  His favorite breakfast was a can of Campbell’s vegetable-beef soup.   As far as his general dietary choices were concerned, his family didn’t keep kosher but were not very adventurous in diet.  But Isaac liked to try new things when he and I ate out together.  Not all experiments were successes,  When the two of us lunched one day and discovered the restaurant was offering soft-shell crabs, which neither of us had ever tried, we gave them a shot.  Once was enough for me — I didn’t like their slippery feel in my mouth — but Isaac’s verdict was that he didn’t really like them but might give them another chance some time.
@@ -73,41 +73,42 @@ So what else can I tell you about Isaac Asimov at this stage?  His favorite brea
 
 ### 10 Comments
 
-- sm says:
+- [sm](https://web.archive.org/web/20111014235156/http://tinyurl.com/avjvz/) says:
 I love this series!
-February 11, 2010, 8:14 pm
-- Michael Pritchard says:
+[**February 11, 2010, 8:14 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
+- [Michael Pritchard](https://web.archive.org/web/20111014235156/http://www.cold-frontier.com/) says:
 This is fantastic! Asimov remains an inspiration to us all.
-February 12, 2010, 3:05 am
+[**February 12, 2010, 3:05 am**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
 - Mike Fink says:
 Thank you, sir, for your memory and the wonderful stories from that Golden age. Please keep telling us about the Good Doctor, and of course, yourself and others, as well.
-February 12, 2010, 10:13 am
-- Paula Helm Murray says:
+[**February 12, 2010, 10:13 am**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
+- [Paula Helm Murray](https://web.archive.org/web/20111014235156/http://kc.rr.com/) says:
 Thank you!  As long as we remember, they live!  And in passing on the stories, they will go forward in memory\’s sight.
-February 14, 2010, 11:32 am
-- David Bosman says:
+[**February 14, 2010, 11:32 am**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
+- [David Bosman](https://web.archive.org/web/20111014235156/http://davidbosman.fr/) says:
 Thank you so much for sharing your memories with us.
-February 14, 2010, 2:09 pm
-- Robert Gruver says:
+[**February 14, 2010, 2:09 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
+- [Robert Gruver](https://web.archive.org/web/20111014235156/http://robertgruver.org/) says:
 I am really enjoying this series about Issac, Fred. Its such an interesting look into his life, by someone who was there through parts of it! I love his writing, and yours! Please keep it up for as long as the fates allow!
-February 15, 2010, 12:56 pm
+[**February 15, 2010, 12:56 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
 - EM says:
 Great stuff! Thank you for remembering and for writing. I hope there’s more!
-February 21, 2010, 8:26 pm
+[**February 21, 2010, 8:26 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
 - Dick says:
 I’m just a technical guy, but how come no nitpicking sciffy fan has bothered to point out that there were no telephone keyboards in those days… just rotary dials.  Touchtone, and those twelve buttons that are still with us, came much later.
-March 9, 2010, 7:12 pm
-- Stephen Dale says:
+[**March 9, 2010, 7:12 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
+- [Stephen Dale](https://web.archive.org/web/20111014235156/http://groups.yahoo.com/group/Pohl/) says:
 Hi All,
 I would like to inform you that I have set up a Yahoo Group devoted to discussion of Mr. Pohl and his works. It only has 3 members so far so, if you’ve a mind to, Come join! 
-http://groups.yahoo.com/group/Pohl/
+[http://groups.yahoo.com/group/Pohl/](https://web.archive.org/web/20111014235156/http://groups.yahoo.com/group/Pohl/)
 Hope all is well with you and yours,
 Stephen
-April 9, 2010, 6:09 pm
+[**April 9, 2010, 6:09 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
 - Jim Flanagan says:
-Thought you’d be interested in a post that David Brinn recently made about Robert Heinlein.
-http://davidbrin.blogspot.com/2010/04/concerning-robert-heinlein-and-more.html
-April 24, 2010, 8:11 pm
+Thought you’d be interested in a post that David Brinn recently made about Robert Heinlein.  
 
-**WordPress**
-**TWTFB**
+[http://davidbrin.blogspot.com/2010/04/concerning-robert-heinlein-and-more.html](https://web.archive.org/web/20111014235156/http://davidbrin.blogspot.com/2010/04/concerning-robert-heinlein-and-more.html)
+[**April 24, 2010, 8:11 pm**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
+
+[WordPress](https://web.archive.org/web/20111014235156/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111014235156/http://dicksmithsoftware.com/)

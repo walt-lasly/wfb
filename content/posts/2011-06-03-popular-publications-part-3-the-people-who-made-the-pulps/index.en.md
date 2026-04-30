@@ -29,13 +29,13 @@ The thing to remember about those pulp magazines of the 1920s and ’30s is that
 Curiously, however, in terms of spelling, punctuation and grammar, pulp editors were supposed to be almost as irreproachable as the New York Times, and actually came fairly close.  Better than the average American college graduate, anyway.  Even the writers, on average, were reasonably good at such matters., though the actual stories they framed in these grammatical and well spelled terms came about as close to mindless as any literature ever can.
 
 
-You will remember, though, that I mentioned honorable exceptions to the rule of pure trash, and there were some.  One was the crime pulp Black Mask, edited by Ken White from the cubicle next to my own.
+You will remember, though, that I mentioned honorable exceptions to the rule of pure trash, and there were some.  One was the crime pulp [Black Mask](https://web.archive.org/web/20170620010510/http://www.blackmaskmagazine.com/history.html), edited by Ken White from the cubicle next to my own.
 
 
 Well, let’s slow down a moment here so I can paint you a word picture. The entire suite of Popular Publications’ offices on the top, or 20th, floor of the structure called the Bartholomew Building was in the approximate shape of a capital letter T, which someone had pushed over so it was lying on its side.  The down stroke of the T, which now ran east and west,  was shortened, leaving on one side just room for three small offices and on the other side the wall that kept visitors penned in the waiting room until our receptionist-switchboard girl, Ethel Klock, said they could go on in.  The cross-stroke of the T, now running north and south and thus paralleling the nearby East River, housed  all the rest of Popular’s employees except for the two on the (former) downstroke, which is to say Ken White, with his Black Mask, and me.  (I believe a deceased pulp called Railroad Stories had once been edited from the now-vacant third of those downstroke offices.)
 
 
-Although Ken White was my nearest neighbor, we seldom spoke.  He was rarely in his office, apparently doing most of his work at home.  He was, I believe, the magazine’s third working editor, and he was charged with keeping the magazine as outstanding for quality and innovation as it had been made by his predecessors.  That was no light responsibility.  Black Mask had been started by the team of H.L. Mencken and George Jean Nathan as publishers, and they had turned it over to “Cap” Joseph Shaw to edit.  Shaw had done wonders, recruiting writers like Dashiell Hammet and Raymond Chandler to reinvent the crime story for him.  Unfortunately for Ken White, those two were no longer pounding the typewriter keys to fill the pulps, so it was a tough assignment.
+Although Ken White was my nearest neighbor, we seldom spoke.  He was rarely in his office, apparently doing most of his work at home.  He was, I believe, the magazine’s third working editor, and he was charged with keeping the magazine as outstanding for quality and innovation as it had been made by his predecessors.  That was no light responsibility.  Black Mask had been started by the team of [H.L. Mencken](https://web.archive.org/web/20170620010510/http://www.io.com/~gibbonsb/mencken.htm) and [George Jean Nathan](https://web.archive.org/web/20170620010510/http://www.arts.cornell.edu/english/awards/nathan/bio.html) as publishers, and they had turned it over to [“Cap” Joseph Shaw](https://web.archive.org/web/20170620010510/http://briandrake88.blogspot.com/2010/05/joseph-t-cap-shaw.html) to edit.  Shaw had done wonders, recruiting writers like [Dashiell Hammet](https://web.archive.org/web/20170620010510/http://www.pbs.org/wnet/americanmasters/episodes/dashiell-hammett/about-dashiell-hammett/625/) and [Raymond Chandler](https://web.archive.org/web/20170620010510/http://www.detnovel.com/Chandler.html) to reinvent the crime story for him.  Unfortunately for Ken White, those two were no longer pounding the typewriter keys to fill the pulps, so it was a tough assignment.
 
 
 White and I had the only offices in use on that abbreviated leg of the lazy-T.  Everything else was on the T’s crossbar.  Backtracking to where the crossbar of the T sat on the stumpy vertical, there was the office of Jane Littell, who edited Popular’s love pulps.
@@ -100,31 +100,38 @@ No other time ever came.
 
 - LeRoy Pearle says:
 Thanks so much for these great stories, Fred! It’s wonderful to get an inside view of the pulp industry and the early years of science fiction. I have a question.. since the worlds of pulps and comic books so often intersected, and you clearly had a good eye for an opportunity – were you involved in the early years of comics as well? I’m thinking of all the pulp and sci fi authors who did have comic book careers such as Harry Harrison, Manly Wade Wellman, etc and just scratching my head wondering if I had ever come across a Frederik Pohl story in the comics.
-June 3, 2011, 5:55 am
-- Stefan Jones says:
+[**June 3, 2011, 5:55 am**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+- [Stefan Jones](https://web.archive.org/web/20170620010510/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Great details on a lost world!
 How was art handled? Entirely freelance?
-June 3, 2011, 12:25 pm
-- Bill Goodwin says:
-A carnival equestrienne
-Now crafted flatter fantasy,
-But that was too pedestrian
-A romance for a man like me,
-I needed space: the airless kind,
-She needed love: the freelance type,
-I left her unrush pile behind,
+[**June 3, 2011, 12:25 pm**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+- [Bill Goodwin](https://web.archive.org/web/20170620010510/http://771715/) says:
+A carnival equestrienne  
+
+Now crafted flatter fantasy,  
+
+But that was too pedestrian  
+
+A romance for a man like me,  
+
+I needed space: the airless kind,  
+
+She needed love: the freelance type,  
+
+I left her unrush pile behind,  
+
 She was a peach! But overripe.
-June 4, 2011, 3:11 pm
-- Bill Higgins-- Beam Jockey says:
+[**June 4, 2011, 3:11 pm**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170620010510/http://beamjockey.livejournal.com/) says:
 Give that man two dollars!
-June 6, 2011, 9:26 am
-- steve davidson says:
+[**June 6, 2011, 9:26 am**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+- [steve davidson](https://web.archive.org/web/20170620010510/http://www.rimworlds.com/thecrotchetyoldfan) says:
 Your mention here of ‘buying stories from yourself’ reminded me that I found inspiration and a paycheck from your original mentioning of this trick in The Way the Future Was.  I took a job editing a retail magazine on very low pay based on my knowledge that if I followed your lead I could pad the pay with checks from articles I wrote myself.  And yes, it worked.  Thanks for that, Fred.
-June 10, 2011, 6:40 am
-- michael Walsh says:
+[**June 10, 2011, 6:40 am**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+- [michael Walsh](https://web.archive.org/web/20170620010510/http://www.oldearthbooks.com/) says:
 A little poking of the web with Mr Google reveals that it is likely that the “Black Mask” Ken White was the same Ken White who became a literary agent.  And one of his clients was H. Beam Piper.
 Sadly, White’s sudden death led to a world of financial woe for Piper, causing Piper to take his own life
-June 13, 2011, 4:32 pm
+[**June 13, 2011, 4:32 pm**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620010510/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620010510/http://dicksmithsoftware.com/)

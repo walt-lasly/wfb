@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="9-23-10-fred-receiving-his.jpg" alt="Elizabeth Anne Hull, me, the Hugo and Steven Silver. (Photo by Cathy Pizarro.)" caption="Elizabeth Anne Hull, me, the Hugo and Steven Silver. (Photo by Cathy Pizarro.)" >}}
 
 
-I didn’t get over to the Worldcon in Australia, so when I won the Hugo Award for Best Fan Writer, my friend Bob Silverberg accepted it for me. Here is what he said at the ceremony:
+I didn’t get over to the Worldcon in Australia, so when I won the Hugo Award for Best Fan Writer, my friend [Bob Silverberg](https://web.archive.org/web/20131009235256/http://www.majipoor.com/) accepted it for me. Here is what he said at the ceremony:
 
 > “‘Of all the goddamn crazy things. Here we are in 2010, you are 90 years old, I’m no kid myself, the worldcon is in Australia, and you are sending me some kind of newfangled electronic message about the possibility that you might win the Best Fan Writer Hugo. What would Sam Moskowitz say about all this? Don Wollheim? Hugo Himself? Are we both trapped in the future, swept off into this nonsense by some inexorable force? Of course I will accept that Hugo for you. It will be one of the great moments of my life.’
 
@@ -32,43 +32,45 @@ I didn’t get over to the Worldcon in Australia, so when I won the Hugo Award f
 After Silverbob accepted the Hugo Award, the trophy was ferried back to Chicago by Helen Montgomery, who passed it along to Steven Silver, who brought it over last week. Thanks to everyone concerned!
 
 
-Thanks, also, to everyone for all the congratulatory messages, of which this one from Encyclopedia Britannica might be the most extraordinary. I wrote their entry on Tiberius in the 1960s!
+Thanks, also, to everyone for all the congratulatory messages, of which [this one from Encyclopedia Britannica](https://web.archive.org/web/20131009235256/http://www.britannica.com/blogs/2010/9/congratulations-to-britannica-contributor-and-2010-hugo-award-winner-frederik-pohl) might be the most extraordinary. I wrote their entry on Tiberius in the 1960s!
 
 
 ### 9 Comments
 
-- the blog team says:
+- [the blog team](https://web.archive.org/web/20131009235256/http://thewaythefutureblogs.com/) says:
 Broken link is fixed now. Thanks to those who let us know.
-October 1, 2010, 12:03 am
+[**October 1, 2010, 12:03 am**](/posts/2010-09-30-got-it/)
 - Ross Presser says:
-I *read* that “Ernst Mason” book Tiberius about a decade ago. I enjoyed it immensely.  Started me on a binge of reading about the Roman Emperors that lasted about five years.  I thank you very much for that!
-October 1, 2010, 6:20 am
-- Steve Boyko says:
+I *read* that “Ernst Mason” book *Tiberius* about a decade ago. I enjoyed it immensely.  Started me on a binge of reading about the Roman Emperors that lasted about five years.  I thank you very much for that!
+[**October 1, 2010, 6:20 am**](/posts/2010-09-30-got-it/)
+- [Steve Boyko](https://web.archive.org/web/20131009235256/http://www.traingeek.ca/) says:
 I’m late in saying this, but congratulations! Well deserved. And thank you for writing here.
-October 1, 2010, 7:09 am
-- Sara Davis says:
+[**October 1, 2010, 7:09 am**](/posts/2010-09-30-got-it/)
+- [Sara Davis](https://web.archive.org/web/20131009235256/http://sarajdavis.net/) says:
 Your blog is always a bright spot in my day. Its more than the history you share. I consider yours a successful life.  And your blog reminds me of the importance of meeting people who share my interests, of always keeping in touch with what is happening in the world and of contributing something worthwhile to the world until your last breath.  Too many people stop the contribution part when they retire and discover too late that its a huge part of what makes life worth living. Retirement is for weenies.
-October 1, 2010, 2:02 pm
+[**October 1, 2010, 2:02 pm**](/posts/2010-09-30-got-it/)
 - Tina Black says:
 There you go — Britannica is still proud of co-opting you for their article, and in all this time has not found anything better suited.
 I am sure that you really will remain a fan — a fan of sf, life, curiosities, odd trains of thought, and one who shares liberally with the rest of us.
 Bless you, Fred.
-October 2, 2010, 12:39 pm
+[**October 2, 2010, 12:39 pm**](/posts/2010-09-30-got-it/)
 - John Armstrong says:
 Congratulations, Fred. Do you have the record for Hugos in the most categories?
-October 2, 2010, 11:28 pm
-- Bald Guy says:
+[**October 2, 2010, 11:28 pm**](/posts/2010-09-30-got-it/)
+- [Bald Guy](https://web.archive.org/web/20131009235256/http://www.irememberjfk.com/) says:
 Hearty congrats, Mr. Pohl. You earned this one!  
-October 3, 2010, 6:34 pm
-- betsydornbusch says:
+[**October 3, 2010, 6:34 pm**](/posts/2010-09-30-got-it/)
+- [betsydornbusch](https://web.archive.org/web/20131009235256/http://electricspec.com/) says:
 Congratulations, Mr. Pohl. Well deserved!
-October 5, 2010, 8:39 pm
+[**October 5, 2010, 8:39 pm**](/posts/2010-09-30-got-it/)
 - Steven says:
 @John Armstrong:  As far as I can tell, Fred is tied for most different categories with Connie Willis and David Langford with Hugos in four categories apiece.
-Fred: Novel, Short Story, Professional Magazine, Fan Writer
-Connie: Novel, Novella, Novelette, Short Story
-David: Short Story, Semiprozine, Fanzine, Fan Writer
-October 7, 2010, 2:34 pm
+Fred: Novel, Short Story, Professional Magazine, Fan Writer  
 
-**WordPress**
-**TWTFB2**
+Connie: Novel, Novella, Novelette, Short Story  
+
+David: Short Story, Semiprozine, Fanzine, Fan Writer
+[**October 7, 2010, 2:34 pm**](/posts/2010-09-30-got-it/)
+
+[WordPress](https://web.archive.org/web/20131009235256/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131009235256/http://dicksmithsoftware.com/)

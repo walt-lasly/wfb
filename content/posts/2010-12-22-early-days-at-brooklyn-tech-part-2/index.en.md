@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="brooklyntech.jpg" alt="Brooklyn Tech: The fabled new building." caption="Brooklyn Tech: The fabled new building." >}}
 
 
-In New York City, the school year, up through the end of high school, came in two parts, fall term and spring term.  I had entered Brooklyn Tech in September 1932 — fall term — which would end in February 1933.  By then, rumor whispered, we might move over to the new building.
+In New York City, the school year, up through the end of high school, came in two parts, fall term and spring term.  I had entered [**Brooklyn Tech**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/) in September 1932 — fall term — which would end in February 1933.  By then, rumor whispered, we might move over to the new building.
 
 
 That is not what happened.  We moved to a different building, but it wasn’t the shiny Amazing-Stories kind of construction I’d been hoping for.  It was not only not new, it was the very opposite of new.  Our home for the next term had begun life as P.S. No. 1, the oldest school building still in use in the Brooklyn system.  Actually, it had been retired as no longer inhabitable a few years earlier, but then it had been resuscitated when Tech had to have space.
@@ -62,7 +62,7 @@ Remember, the Great Depression was still with us and money was scarce.  Few of u
 The *specialite du jour* of my own most frequent choice for a filling luncheon was fried potato sandwiches.  They were fried in lard, to be sure, and certainly were no one’s choice for a balanced diet, nor yet the sort of delicacy you begged your mother to make as a treat, but a lot of  calories for a dime.  For those who wanted something a bit more upscale, there was an actual hotel nearby, the Mills, and it had its own restaurant attached.  None of this should be mistaken for luxury, though.  The Mills was part of a chain of rock-bottom-priced hotels that were for men who were down on their luck but not yet far enough down to be driven to a Bowery 25¢-a-night flophouse, and the menu in the restaurant was appropriate for its circumstances.
 
 
-Another flaw in that neighborhood was its lack of after-school entertainment.  Along the way I had made a friend, Dirk Wylie — not his birth name but the one he had chosen for a pseudonym when, like me, he had begun trying to write his own science-fiction stories.  We were both latch-key kids, only children with working mothers, so there was no particular reason for us to hurry home after school.
+Another flaw in that neighborhood was its lack of after-school entertainment.  Along the way I had made a friend, [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/) — not his birth name but the one he had chosen for a pseudonym when, like me, he had begun trying to write his own science-fiction stories.  We were both latch-key kids, only children with working mothers, so there was no particular reason for us to hurry home after school.
 
 
 Of course, there was little that was interesting enough for us to bother with in Tech’s neighborhood.
@@ -83,5 +83,5 @@ And then that year was over, and we had learned how to read a slide rule and pre
 - [**When I Graduated from High School (After 73 Years)**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - **Early Days at Brooklyn Tech,** [**Part 1**](/posts/2010-12-21-early-days-at-brooklyn-tech/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150914221346/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150914221346/http://dicksmithsoftware.com/)

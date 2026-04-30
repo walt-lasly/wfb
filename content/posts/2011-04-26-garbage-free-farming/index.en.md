@@ -26,27 +26,28 @@ Frederik Pohl
 The idea started with Chinese rice farmers long ago  They had learned that rice grew best when they flooded the fields, then drained them to harvest the crop at the end of the season.  That was good farming, but why waste all that water that was doing nothing for all those months?  One of them got the idea of throwing a bucketful of baby tilapia into the fields when they planted the rice seedlings, and, sure enough, then when they harvested the rice they also harvested a handsome crop of eating-sized fish,
 
 
-That was what first started the tilapia boom a couple of decades ago, but an Illinois city farmer named John Edel has carried the idea a lot of steps farther.  When tilapia eat they also excrete, and the water is fouled; when the are marketed they have to be degutted and beheaded, producing more waste.  Edel  puts the waste water and its polluters in a tank that he seeds with bacteria.  The bacteria eat the waste and turn it into high-grade fertilizer  … which, of course, is what closes the circle by making his next year’s rice crop grow so abundantly.
+That was what first started the tilapia boom a couple of decades ago, but an Illinois city farmer named [John Edel](https://web.archive.org/web/20170718045423/http://www.plantchicago.com/?page_id=36) has carried the idea a lot of steps farther.  When tilapia eat they also excrete, and the water is fouled; when the are marketed they have to be degutted and beheaded, producing more waste.  Edel  puts the waste water and its polluters in a tank that he seeds with bacteria.  The bacteria eat the waste and turn it into high-grade fertilizer  … which, of course, is what closes the circle by making his next year’s rice crop grow so abundantly.
 
 
 His objective, as Edel puts it from his indoor factory farm, The Plant, in Chicago’s old Stockyards district, is,  “Nothing leaves the plant but food.”
 
 
-If you happen to be in Chicago on May 7, you can tour the place, during its open house.
+If you happen to be in Chicago on May 7, you can tour the place, during its [open house](https://web.archive.org/web/20170718045423/http://www.plantchicago.com/?p=350).
 
 
 ### 2 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20170718045423/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Wouldn’t it be delicious if, in a messed-up depressed future USA, city dwellers had to defend themselves and their food plants against hordes of starving country folk whose chemical-and-fossil fuel dependent farm industry had collapsed?
 First time I read about tilapia:
-The fish is mentioned in Harry Harrison’s Make Room, Make Room. A vendor in a market shouts that her stock is fresh from Lake Ronkonkoma.
+The fish is mentioned in Harry Harrison’s *Make Room, Make Room*. A vendor in a market shouts that her stock is fresh from Lake Ronkonkoma.
 Even though I grew up on LI, that was also the first time I heard about Lake Ronkonkoma (we were Nassau Country people).
-April 26, 2011, 5:36 pm
+[**April 26, 2011, 5:36 pm**](/posts/2011-04-26-garbage-free-farming/)
 - Jim Flanagan says:
-Thanks Frederik,
-Interesting place and a great idea.
-April 26, 2011, 5:37 pm
+Thanks Frederik,  
 
-**WordPress**
-**TWTFB2**
+Interesting place and a great idea.
+[**April 26, 2011, 5:37 pm**](/posts/2011-04-26-garbage-free-farming/)
+
+[WordPress](https://web.archive.org/web/20170718045423/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170718045423/http://dicksmithsoftware.com/)

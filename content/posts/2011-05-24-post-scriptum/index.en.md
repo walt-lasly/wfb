@@ -23,10 +23,10 @@ Frederik Pohl
 {{< figure src="zhou-qi1.jpg" alt="Zhou Qi, Betty Anne and me." caption="Zhou Qi, Betty Anne and me." >}}
 
 
-Back in Chengdu, after Yang Xiao had finished writing up that story about World SF for her magazine, her next major production was to give birth to a son.  She did that very well, too.
+Back in Chengdu, after Yang Xiao had finished writing up [**that story about World SF**](/posts/2011-05-23-travels-with-robert-silverberg/) for her magazine, her next major production was to give birth to a son.  She did that very well, too.
 
 
 Now Zhou Qi — or Michael, as his language-handicapped friends are allowed to call him — is twenty years old and lives in Australia,.  There he pursues an advanced degree part of the time and teaches mathematics the rest of it.  And a few weeks ago, on a visit to the States, he stopped by our house to visit us, and we snapped this picture.
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707063158/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707063158/http://dicksmithsoftware.com/)

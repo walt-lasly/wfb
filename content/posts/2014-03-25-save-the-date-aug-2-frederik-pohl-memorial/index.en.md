@@ -29,7 +29,7 @@ Frederik Pohl
 Plans are under way for a celebration in memory of Fred, to be held August 2, 2014, at the Wojcik Conference Center at William Rainey Harper College in Palatine, Illinois.
 
 
-Please save the date and join us if you can. If you’d like to participate in the program, please let me know as soon as possible.
+Please save the date and join us if you can. If you’d like to participate in the program, please [let me know](https://web.archive.org/web/20160404035021/mailto:blog@thewaythefutureblogs.com) as soon as possible.
 
 
 In future, I’ll be posting more details about the program, as well as suggestions for accommodations for out-of-towners and other activities in conjunction with this event.
@@ -39,10 +39,10 @@ In future, I’ll be posting more details about the program, as well as suggesti
 
 - Alfred Kaye says:
 Please keep me up to date on the plans for the celebration in memory of Fred Pohl. Thanks
-March 28, 2014, 2:05 pm
+[**March 28, 2014, 2:05 pm**](/posts/2014-03-25-save-the-date-aug-2-frederik-pohl-memorial/)
 - Theo J. Williams says:
 I profoundly wish I could be there. Fred’s book THE WAY THE FUTURE WAS impressed me so much that I asked him to autograph it at an Orycon, which he most graciously did. I found him to be a gentleman.
-March 28, 2014, 9:29 pm
+[**March 28, 2014, 9:29 pm**](/posts/2014-03-25-save-the-date-aug-2-frederik-pohl-memorial/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160404035021/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160404035021/http://dicksmithsoftware.com/)

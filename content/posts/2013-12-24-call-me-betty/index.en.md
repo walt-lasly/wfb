@@ -27,10 +27,10 @@ Frederik Pohl
 {{< figure src="bettyhullheadshot-106x150.jpg" alt="Elizabeth Anne Hull. Photo by Barb Knoff." caption="ElizabethAnne Hull" >}}
 
 
-Today I’m thinking about names.  Fred’s was one he generally enjoyed, uncommon enough to be distinctive but not so rare as to be a unique identifier.  He was no Beyonce or Liberace or Oprah. Though a lifelong anglophile, Fred liked the spelling of his name — the way the Danish kings did, with no C, rather than the most common English and Continental way — even though throughout his life he suffered from the indignities of having people, and later spellcheck programs, hypercorrect it for him.
+Today I’m thinking about names.  Fred’s was one he generally enjoyed, uncommon enough to be distinctive but not so rare as to be a unique identifier.  He was no Beyonce or Liberace or Oprah. Though a lifelong anglophile, Fred liked the spelling of his name — the way the [Danish kings](https://web.archive.org/web/20160502195051/http://dkks.dk/the-kings-of-denmark) did, with no C, rather than the most common English and Continental way — even though throughout his life he suffered from the indignities of having people, and later spellcheck programs, hypercorrect it for him.
 
 
-What he didn’t like was the middle name on his birth certificate, George, but when he joined the U.S. military in World War II, he allowed the officials to give him the name Fred G. Pohl, Jr.  He especially despised “Junior.” Fred was quite thoroughly estranged from his father, since his teenage years, and he always tried to be his own version of what he thought a man should be. He published consistently (when he didn’t use a pseudonym) as Frederik Pohl.
+What he didn’t like was the middle name on his birth certificate, George, but when he joined the U.S. military in World War II, he allowed the officials to give him the name Fred G. Pohl, Jr.  He especially despised “Junior.” Fred was quite thoroughly estranged from his father, since his teenage years, and he always tried to be his own version of what he thought a man should be. He published consistently (when he didn’t use a [**pseudonym**](/posts/2010-05-14-fred-s-pen-names/)) as Frederik Pohl.
 
 
 My own name, the one my mother, obsessed with the British royal family, gave me, combines two English queens. So I spell my middle name with an E, as did Queen Anne.
@@ -42,7 +42,7 @@ Fred and I had trouble from the day we ordered our wedding invitations, which we
 Not too surprisingly I dropped my troublesome middle name when I went to college.  At home, I had always been Betty Anne, to distinguish me from my mother Betty and my aunt Betty.  But I thought the compound name sounded too childish and precious, and kept Betty as the name people who met me after high school would use.
 
 
-Betty Anne was reserved for my family and childhood friends — there are too few of them left, alas.  (We generally assume that callers who ask to speak to Elizabeth are those who never met me and are probably trying to sell me something.  On the other hand, old friend Larry Niven always calls me Elizabeth.)
+Betty Anne was reserved for my family and childhood friends — there are too few of them left, alas.  (We generally assume that callers who ask to speak to Elizabeth are those who never met me and are probably trying to sell me something.  On the other hand, old friend [Larry Niven](https://web.archive.org/web/20160502195051/http://www.larryniven.org/larry.shtml) always calls me Elizabeth.)
 
 
 Although my family name is patronymic, I’ve consistently used the full name Elizabeth Anne Hull whenever I publish anything, and for people who don’t know me.  I never took Fred’s name, so I assume callers who ask for “Mrs. Pohl” are probably people I don’t really want to talk to anyway.
@@ -63,7 +63,7 @@ To most friends, though, I am Betty, and I hope you reading this will feel frien
 I’m sure that, like Fred and I, most people prefer to have their names spelled correctly.  It shows respect.  The use of computers has seemed to bring more inadvertent errors by writers who ought to know better, through a combination of haste, hypercorrection and spellcheck programs that think they know what you want better than you do.
 
 
-My spellcheck used to regularly offer to correct Newt Gingrich’s name to “gibberish.”  Who says programmers have no sense of humor?
+My spellcheck used to regularly offer to correct [**Newt Gingrich’s**](/posts/2012-01-21-newt-the-mewtant/) name to “gibberish.”  Who says programmers have no sense of humor?
 
 
 ### 2 Comments
@@ -71,13 +71,14 @@ My spellcheck used to regularly offer to correct Newt Gingrich’s name to “gi
 - Tara D says:
 Hi Betty,
 I want to thank you for carrying on Fred’s blog; as a long time lover of SF, I have found it very fascinating as a peek into history. Oh, and thank you for “hypercorrection”, a word I shall be sure to use.
-Happy Holidays,
+Happy Holidays,  
+
 ~*~ Tara
-December 24, 2013, 1:26 pm
+[**December 24, 2013, 1:26 pm**](/posts/2013-12-24-call-me-betty/)
 - David Edmeades says:
 I totally understand!  My wife’s name also starts with “Ed”, so many people’s eyes slide over the rest of mine and assume it’s the same.  
 Even now, she has gotten flak from strangers for not having taken my name. But like you, she can whip out the Dr. if presented with a bellicose adversary 
-December 26, 2013, 11:28 am
+[**December 26, 2013, 11:28 am**](/posts/2013-12-24-call-me-betty/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160502195051/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160502195051/http://dicksmithsoftware.com/)

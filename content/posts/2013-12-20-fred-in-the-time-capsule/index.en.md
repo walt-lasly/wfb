@@ -23,11 +23,11 @@ Frederik Pohl
 {{< figure src="1987-Pohl_Wolverton-WoTF.jpg" alt="Frederik Pohl and Dave Wolverton, 1987." caption="Fred with Dave Wolverton at the 1987 Writers of the Future Awards." >}}
 
 
-Over at Paleofuture, Matt Novak turned up a letter Fred wrote for a 1987 Writers of the Future time capsule. Novak writes:
+Over at [Paleofuture](https://web.archive.org/web/20160416221612/http://paleofuture.gizmodo.com/rip-sci-fi-author-frederik-pohl-his-1987-predictions-f-1241239510), Matt Novak turned up a letter Fred wrote for a 1987 [**Writers of the Future**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) time capsule. Novak writes:
 
 > “One of the predictions was from Pohl, who I contacted through email to ask about his letter to the future. There were over a dozen letters in the time capsule from people like Orson Scott Card and Isaac Asimov. But it was Pohl’s letter that really caught my eye because it hinted at a skepticism surrounding the entire practice of prediction — in particular, a reference to the work of cold readers and other charlatans who would have you believe that they can see into the future with certainty.”
 
-After the opening of the time capsule last year, Novak asked Fred what he thought about it.  Check out Paleofuture for Fred’s 2012 comments on his predictions of a quarter-century earlier. Here’s Fred’s 1987 letter:
+After the opening of the time capsule last year, Novak asked Fred what he thought about it.  Check out [Paleofuture](https://web.archive.org/web/20160416221612/http://paleofuture.gizmodo.com/rip-sci-fi-author-frederik-pohl-his-1987-predictions-f-1241239510) for Fred’s 2012 comments on his predictions of a quarter-century earlier. Here’s Fred’s 1987 letter:
 
 > Dear People of the Future,
 
@@ -49,5 +49,5 @@ After the opening of the time capsule last year, Novak asked Fred what he though
 
 *The blog team*
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416221612/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416221612/http://dicksmithsoftware.com/)

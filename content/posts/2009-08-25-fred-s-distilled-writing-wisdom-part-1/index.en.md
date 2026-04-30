@@ -59,30 +59,31 @@ V. Good luck!
 
 ### 5 Comments
 
-- Phoenix says:
+- [Phoenix](https://web.archive.org/web/20091002084306/http://twobar.com/starshipearth) says:
 “If you are a good-looking woman, do not include pictures of yourself in a bikini.”
 I’m afraid to ask this, but is there a story behind this bit? And wouldn’t bikini pictures of people who aren’t good-looking women be worse?
 I haven’t commented here before, so as long as I’m doing so I’d like to mention that I discovered your work last year or so and became an immediate fan. Still haven’t read very many of your books, but I’m remedying that as fast as I can and love the ones I have read. I also very much enjoy this blog and am always happy to see it updated. Thanks for helping make my world a better place.
 -Phoenix, who’s stuck trying to master part I. 2.
-August 25, 2009, 2:58 pm
+[**August 25, 2009, 2:58 pm**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/)
 - EdS says:
 And if you can figure out how to number the manuscript pages then you’re probably also smart enough to find and use the spell checker.
-August 26, 2009, 11:10 pm
-- John Murphy says:
-I wish I had read this yesterday — I just sent off my first story to a magazine this very morning and it never occurred to me to paperclip the stamp on the SASE.  I will have to remember this in the future, because that does seem like a very considerate thing to do!
+[**August 26, 2009, 11:10 pm**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/)
+- [John Murphy](https://web.archive.org/web/20091002084306/http://resistentialismincarnate.blogspot.com/) says:
+I wish I had read this yesterday — I just sent off my first story to a magazine this very morning and it never occurred to me to paperclip the stamp on the SASE.  I will have to remember this in the future, because that does seem like a very considerate thing to do!  
+
 (Thankfully, I did indeed remember to number the damn pages, but I have to admit that I only thought of it just before printing the final copy)
-August 29, 2009, 2:22 pm
+[**August 29, 2009, 2:22 pm**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/)
 - Tina Black says:
 “If you are a good-looking woman, do not include pictures of yourself in a bikini. Make it as brief as you can.”
 Less, eh?  I have to get rid of that visual.
-August 29, 2009, 7:26 pm
-- Gary Farber says:
+[**August 29, 2009, 7:26 pm**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/)
+- [Gary Farber](https://web.archive.org/web/20091002084306/http://amygdalagf.blogspot.com/) says:
 “And if you can figure out how to number the manuscript pages then you’re probably also smart enough to find and use the spell checker.”
-Which if you rely on it, will lead to homophone errors; you need to proof by eye to avoid all the errors a spell-checker will leave you with anyway, or which the spell-checker will even helpfully generate for you if you follow its suggestions, and you’re better off practicing your proofing by eye so as to increase your practice.
+Which if you rely on it, will lead to homophone errors; you need to proof by eye to avoid all the errors a spell-checker will leave you with *anyway,* or which the spell-checker will even helpfully generate for you if you follow its suggestions, and you’re better off practicing your proofing by eye so as to increase your practice.
 People who are dyslexic, or with sight problems, of course, don’t fall in the category of people who might benefit from this advice.  
 Spell-checkers are an example of techonology that frequently cause far more problems than they solve.  Train your own brain and eye to proofread, and if that’s not sufficient — most folks aren’t at all consistently up to professional level — and seriously wish to avoid errors, find a fellow human who is.  
 If you want to be almost sure to have errors, just use a spell-checker, and skip using a competent human proofreader.
-August 29, 2009, 9:45 pm
+[**August 29, 2009, 9:45 pm**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20091002084306/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20091002084306/http://dicksmithsoftware.com/)

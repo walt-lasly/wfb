@@ -22,5 +22,5 @@ Frederik Pohl
 ![20141024-205158.jpg](20141024-205158.jpg)
 
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402194956/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402194956/http://dicksmithsoftware.com/)

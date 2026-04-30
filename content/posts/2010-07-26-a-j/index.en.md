@@ -53,10 +53,10 @@ Well, that’s not so strange, is it?  Happens all the time.  A couple introduce
 Well, sure, but what’s unusual about this particular event, at least among my crowd, is that these two *stayed* married, through four sons and more than fifty years, until 2008, when a long illness finally carried A J off.  Hey, I’m some matchmaker!  When I make a match it stays made.
 
 
-Algirdas Jonas Budrys  was born in 1931 in Lithuania, but he didn’t stay there long.  His father was an official in Lithuania’s diplomatic corps and while A J was still small the family was posted to Konigsberg in the German province of East Prussia.  A J, who had just about got a good handle on the Lithuanian language, began to learn German.  His adult memories of East Prussia — which, like the rest of Germany, had been Nazified with the accession of Adolf Hitler a few years earlier — were troublesome.
+[Algirdas Jonas Budrys](https://web.archive.org/web/20141009083442/http://www.gcwillick.com/Spacelight/budrys.html)  was born in 1931 in Lithuania, but he didn’t stay there long.  His father was an official in Lithuania’s diplomatic corps and while A J was still small the family was posted to Konigsberg in the German province of East Prussia.  A J, who had just about got a good handle on the Lithuanian language, began to learn German.  His adult memories of East Prussia — which, like the rest of Germany, had been Nazified with the accession of Adolf Hitler a few years earlier — were troublesome.
 
 
-He particularly recalled Hitler himself parading right past the Budrys apartment when he was five, he told Mark Williams in an **interview** shortly before he died.  “After the **Hitlerjugend** walked through, Hitler came by in an open black Mercedes with his arm propped up.”  The crowds made “indescribable” sounds.  Men lost control of their bowels and had to race for the bushes or writhed and rolled on the ground.
+He particularly recalled Hitler himself parading right past the Budrys apartment when he was five, he told Mark Williams in an [interview](https://web.archive.org/web/20141009083442/http://www.andyross.net/budrys.htm) shortly before he died.  “After the [Hitlerjugend](https://web.archive.org/web/20141009083442/http://www.shoaheducation.com/HJ.html) walked through, Hitler came by in an open black Mercedes with his arm propped up.”  The crowds made “indescribable” sounds.  Men lost control of their bowels and had to race for the bushes or writhed and rolled on the ground.
 
 
 Not long after that, the Budrys family was redeployed to New York.  That was a much better posting, especially for a young boy who was beginning to read American children’s stories, but then everything changed.
@@ -68,13 +68,13 @@ The Soviet Union occupied all three of the Baltic countries; the Lithuanian dipl
 In fact, while attending college, A J began writing stories of his own in English, and even managed to sell a few. Then one day he turned up at my Fifth Avenue literary-agency office to ask if I would take on his representation.
 
 
-I did.  Unfortunately for A J, though — and not all that nicely for me — he came along at a time when I was getting seriously over-extended and in increasingly deep money trouble.  In what may have been A J’s last public talk, at the Heinlein Centennial in 2007, the hundredth anniversary of Robert Heinlein’s birth, A J reminisced about those days.  “Fred made some great sales for me,”  he said.  “He even sold John Campbell a story that Campbell had already rejected when I sent it to him myself.  But then when Fred sent me his check for the story, it bounced.”
+I did.  Unfortunately for A J, though — and not all that nicely for me — he came along at a time when I was getting seriously over-extended and in increasingly deep money trouble.  In what may have been A J’s last public talk, at the [Heinlein Centennial](https://web.archive.org/web/20141009083442/http://www.heinleincentennial.com/) in 2007, the hundredth anniversary of [**Robert Heinlein’s**](/posts/2010-05-03-working-with-robert-a-heinlein/) birth, A J reminisced about those days.  “Fred made some great sales for me,”  he said.  “He even sold [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) a story that Campbell had already rejected when I sent it to him myself.  But then when Fred sent me his check for the story, it bounced.”
 
 
 (I regret to say that that’s a true story, though not one I enjoy.  Maybe one day I’ll write about my literary-agent days for this blog, but not right now.  They were only fifty or sixty years ago and still too painful.)
 
 
-I couldn’t go on like that.  I took the hard decision and packed the agency in, turned all the writers loose and began working to earn the money to pay back the $30,000 I had lost.  Mostly I was doing it by writing but, when Horace Gold’s health made him unable to go on editing Galaxy and If, and Bob Guinn offered me the job, I took it.  And, of course, A J was one of my principal contributors.
+I couldn’t go on like that.  I took the hard decision and packed the agency in, turned all the writers loose and began working to earn the money to pay back the $30,000 I had lost.  Mostly I was doing it by writing but, when [Horace Gold’s](https://web.archive.org/web/20141009083442/http://www.iblist.com/author2749.htm) health made him unable to go on editing Galaxy and If, and [Bob Guinn](https://web.archive.org/web/20141009083442/http://books.google.com/books?id=2qkmF8HvP_gC&lpg=PA34&ots=1Rzl4Pfbv4&dq=robert%20M.%20Guinn%20galaxy&pg=PA34#v=onepage&q=robert%20M.%20Guinn%20galaxy&f=false) offered me the job, I took it.  And, of course, A J was one of my principal contributors.
 
 
 By then A J and Edna were not only married but in the next year or so expecting their first child.  They had moved out of the city and into a small apartment in Red Bank, less than half a mile from my own house.  That was convenient for A J.  When he finished a story for me he could whip the last page out of the typewriter, walk out his door and in ten or fifteen minutes walk it over to my house for, when necessary, an immediate read followed by my trip to the Galaxy office in New York the next morning to bring back Bob Guinn’s check for the story.
@@ -98,7 +98,7 @@ Sometimes he hadn’t quite finished the stories when he turned them in, especia
 He said, unhappily, “I can’t.  I just know it’s what I wanted to write.”
 
 
-I was leafing through the manuscript.  “All right,”  I said at last,  “Here in the first couple of pages there are some phrases that I like,  One is ‘wall of crystal’ and the other is ‘eye of night.’  How about calling it ‘Wall of Crystal, Eye of Night’?”
+I was leafing through the manuscript.  “All right,”  I said at last,  “Here in the first couple of pages there are some phrases that I like,  One is ‘wall of crystal’ and the other is ‘eye of night.’  How about calling it ‘[Wall of Crystal, Eye of Night](https://web.archive.org/web/20141009083442/http://www.amazon.com/gp/product/0425038610?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0425038610)’?”
 
 
 He gave me a pop-eyed look.  “What does it mean?”
@@ -107,7 +107,7 @@ He gave me a pop-eyed look.  “What does it mean?”
 I said,  “I don’t know, but I promise you that if we do, no one will ever ask you that question.”  And no one ever did.
 
 
-I have been asked which of A J’s stories were written in this hard-driving way, and I don’t know the answer.  He had begun writing novels by then and my guess is that that was the system for two of them, probably **Who?** and **Rogue Moon**, but it’s only a guess.  I don’t think it was many, perhaps not any, of the pieces I published, with the possible exception of the one of his novels that I ran as a three-part serial,  **The Iron Thorn**.
+I have been asked which of A J’s stories were written in this hard-driving way, and I don’t know the answer.  He had begun writing novels by then and my guess is that that was the system for two of them, probably [Who?](https://web.archive.org/web/20141009083442/http://www.amazon.com/gp/product/158776010X?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=158776010X) and [Rogue Moon](https://web.archive.org/web/20141009083442/http://www.amazon.com/gp/product/0449014746?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0449014746), but it’s only a guess.  I don’t think it was many, perhaps not any, of the pieces I published, with the possible exception of the one of his novels that I ran as a three-part serial,  [The Iron Thorn](https://web.archive.org/web/20141009083442/http://www.amazon.com/gp/product/0006154107?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0006154107).
 
 
 Which nearly resulted in a homicide.
@@ -142,38 +142,38 @@ But I never did that again.
 
 - Paul Owens says:
 Thanks for this. I’ve read Rogue Moon so many times my copy is falling apart. It’s a terrific, haunting piece of writing that hasn’t really dated at all. A classic.
-July 26, 2010, 3:34 am
-- Bald Guy says:
+[**July 26, 2010, 3:34 am**](/posts/2010-07-26-a-j/)
+- [Bald Guy](https://web.archive.org/web/20141009083442/http://www.irememberjfk.com/) says:
 Ashamed to say I’ve never heard of Algis Budrys. But I’ll certainly keep an eye out for him.
-July 26, 2010, 4:18 pm
+[**July 26, 2010, 4:18 pm**](/posts/2010-07-26-a-j/)
 - TechSlave says:
 AJ’s writing was always awesome, and I loved Who?. It was such a piece of it’s place and time, and in a good way. I enjoy the idea of driving all night, tape recorder going. Must’ve required a special set of ‘key words’ for “Wait, no, strike that entire paragraph, I hate it” and figuring out ways to deal with it when he wanted to work on a new chapter or skip a section, much less return and revise. 
 Great as always to hear your memories!
-July 26, 2010, 4:32 pm
+[**July 26, 2010, 4:32 pm**](/posts/2010-07-26-a-j/)
 - Neil in Chicago says:
-Michaelmas is one of the very tiny handful of stories which were really prescient about the info revolution . . .
-July 26, 2010, 6:58 pm
-- Stefan Jones says:
+*Michaelmas* is one of the very tiny handful of stories which were really prescient about the info revolution . . .
+[**July 26, 2010, 6:58 pm**](/posts/2010-07-26-a-j/)
+- [Stefan Jones](https://web.archive.org/web/20141009083442/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Thank you for the background. I always figured him for a British ex-pat.
-July 27, 2010, 10:27 pm
+[**July 27, 2010, 10:27 pm**](/posts/2010-07-26-a-j/)
 - Major Wootton says:
 Who? and Rogue Moon are wonderful books, and so thank you for this profile of an author I don’t hear about often.  Who? should be filmed in black and white as a really good noirish picture, with nothing in the story, characters or setting being changed.  Rogue Moon is an outstanding example of how science fiction supplies us with the fascination of the Sublime.  Meaning no pretentiousness, I’m thinking of the eighteenth-century author Edmund Burke’s treatise on the beautiful and the sublime.  You can go through the checklist of things that Burke says evoke the sense of the sublime, such as darkness, vastness, etc. and see them in many of the best works in the sf genre.  I also believe that the evocation of the sublime is one of the reasons people read things like “Heart of Darkness.”  They think they are reading it for Conrad’s take on colonialism, racism, etc.  But I think that sense of the sublime has a lot to do with the story’s appeal.  Budrys really nails it in Rogue Moon.
-August 5, 2010, 4:21 pm
+[**August 5, 2010, 4:21 pm**](/posts/2010-07-26-a-j/)
 - Major Wootton says:
 PS Your own novel Gateway racks up Sublime points!  Were you acquainted with Burke when you wrote it?  Someone could write a whole paper on how the Sublime is the key to what makes that novel work!
-August 5, 2010, 4:23 pm
+[**August 5, 2010, 4:23 pm**](/posts/2010-07-26-a-j/)
 - Major Wootton says:
 I should fill that out about the Sublime just a little.  It’s the sense of awe or terror evoked by darkness, vastness, the impression of immense power, by great height or, even more, great depth, by suddenness, by the thought of severe pain, by loud noises, etc.  Burke was writing in a pre-sf age and yet he could have been writing something intended to inspire everyone from Lovecraft to Pohl.  I have a hypothesis that mainstream fiction has largely forgone such material.  Many readers, however, have a recurrent attraction to the Sublime, which may show up early in life, and that tends to draw them to some sf.  I wonder how many people who read modern horror, with its endless accounts of carnage, really like that stuff, but read it because it provides the sense of Sublime as evoked by the elements mentioned above aside from the pain one.  SF often provides Sublime material without wallowing in gore.  Broadhead’s sufferings were of the soul…
-August 5, 2010, 7:27 pm
-- Anton Sherwood says:
-Weekly salary? The only employers that ever gave me weekly paychecks were temp agencies.
-August 9, 2010, 5:15 pm
+[**August 5, 2010, 7:27 pm**](/posts/2010-07-26-a-j/)
+- [Anton Sherwood](https://web.archive.org/web/20141009083442/http://ogre.nu/) says:
+Weekly salary? The only employers that ever gave me *weekly* paychecks were temp agencies.
+[**August 9, 2010, 5:15 pm**](/posts/2010-07-26-a-j/)
 - paul de vinny says:
 I saw photo of Algis Budrys  holding an airplane in his garage and was somehow struck by it. I read here’s a “hands-on” creative person — there’s more to him than writing science fiction. I JUST GOT that impression. (Will follow it up.)
-April 6, 2011, 6:19 pm
+[**April 6, 2011, 6:19 pm**](/posts/2010-07-26-a-j/)
 - Paul De Vinny says:
 Does anyone have any John W. Campbell meets Algis Budrys stories?  Just doing some reserch on Campbell and was wondering if such a “collision” took place.
-July 22, 2011, 7:30 pm
+[**July 22, 2011, 7:30 pm**](/posts/2010-07-26-a-j/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20141009083442/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20141009083442/http://dicksmithsoftware.com/)

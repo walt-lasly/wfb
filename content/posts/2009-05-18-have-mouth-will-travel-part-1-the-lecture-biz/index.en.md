@@ -36,10 +36,10 @@ And what did I talk about to these junior captains of industry? That took a litt
 Fortunately for my career, there was a lot of funny stuff going on in scientific research if you knew where to look for it. I did know. Science has always been my favorite amusement and I kept up with what was going on. Besides reading all three of the major science news weeklies —  *Science, Nature and New Scientist* — and assorted other magazines and journals, I was lucky enough to have a lot of friends who were scientists and were generally happy enough to take a little time to tell me what they, and others in their fields, were doing.
 
 
-At the Harvard-Smithsonian in Cambridge, Massachusetts, one astronomer was figuring out what Stonehenge in England had been built for, all those thousands of years ago, while another had — for fun — converted all the ancient sightings of Mars that Tycho Brahe had given to Johannes Kepler, and Kepler had used, by 1609, to establish that the planet’s orbit was not a circle but an ellipse. (Reconciling those data points took Kepler over seven years. My Harvard-Smithsonian friend did the arithmetic on a computer, and it took about seven and a half seconds.) Meanwhile, less than a mile away, at MIT, a kid named Marvin Minsky was trying to build an Asimovian robot one part at a time — an arm here, an eye there, a hand somewhere else.
+At the [Harvard-Smithsonian](https://web.archive.org/web/20090726214427/http://cfa-www.harvard.edu/) in Cambridge, Massachusetts, one astronomer was figuring out what Stonehenge in England had been built for, all those thousands of years ago, while another had — for fun — converted all the ancient sightings of Mars that [Tycho Brahe](https://web.archive.org/web/20090726214427/http://www.nada.kth.se/~fred/tycho/index.html) had given to [Johannes Kepler](https://web.archive.org/web/20090726214427/http://kepler.nasa.gov/johannes/), and Kepler had used, by 1609, to establish that the planet’s orbit was not a circle but an ellipse. (Reconciling those data points took Kepler over seven years. My Harvard-Smithsonian friend did the arithmetic on a computer, and it took about seven and a half seconds.) Meanwhile, less than a mile away, at MIT, a kid named [Marvin Minsky](https://web.archive.org/web/20090726214427/http://web.media.mit.edu/~minsky/) was trying to build an Asimovian robot one part at a time — an arm here, an eye there, a hand somewhere else.
 
 
-That was not the only thing going on at MIT’s computer lab, either. Earlier still, so early that it may actually have been even before Marvin Minsky, someone had produced what they called the Spacewar game. It ran off a PDP-1 computer (think of a couple of side-by-side file cabinets with a screen the size of a lady’s pocket handkerchief). The screen displayed two quarter-inch rocket ships, shaped more or less like artillery shells and not at all like anything I ever saw at Star City or the Cape.
+That was not the only thing going on at MIT’s computer lab, either. Earlier still, so early that it may actually have been even before Marvin Minsky, someone had produced what they called the [Spacewar](https://web.archive.org/web/20090726214427/http://www.wheels.org/spacewar/decuscope.html) game. It ran off a PDP-1 computer (think of a couple of side-by-side file cabinets with a screen the size of a lady’s pocket handkerchief). The screen displayed two quarter-inch rocket ships, shaped more or less like artillery shells and not at all like anything I ever saw at Star City or the Cape.
 
 
 Each ship came with a hand controller with four buttons — one to make the ship go forward, one each to turn it left or right, and the fourth to fire a space torpedo in whatever direction the ship was aligned with when you pressed the firing button. The object of the game was to torpedo the other guy’s spaceship before he torpedoed yours.
@@ -56,21 +56,21 @@ And if any one of us (for instance, I) had had the presence of mind to put a cal
 
 ### 3 Comments
 
-- Bill Higgins-- Beam Jockey says:
-As I was just saying elsewhere on the Net, Stewart Brand wrote a tremendous Rolling Stone article in 1972, “Spacewar: Fanatic Life and Symbolic Death Among the Computer Bums.”  You can read it here: http://www.wheels.org/spacewar/stone/rolling_stone.html
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20090726214427/http://beamjockey.livejournal.com/) says:
+As I was just saying elsewhere on the Net, Stewart Brand wrote a tremendous *Rolling Stone* article in 1972, “Spacewar: Fanatic Life and Symbolic Death Among the Computer Bums.”  You can read it here: [http://www.wheels.org/spacewar/stone/rolling_stone.html](https://web.archive.org/web/20090726214427/http://www.wheels.org/spacewar/stone/rolling_stone.html)
 Brand reported on Spacewar and the people who created it, and also tried to take the measure of the smaller, somewhat more personalized computers that were beginning to appear.  And other technology that came with them:
 “At present some 20 major computer centers are linked on the two-year-old ARPA Net.”
 Much later, after another couple of generations of hardware had passed by, I acquired a GCE Vectrex, a console game first marketed in 1982.  It had a vector-type display and one of its cartridges was a program to play Spacewar.  It was as close to having a PDP-1 in a fifty-dollar portable box as anything ever came.  I still take it out and play it sometimes.
-May 18, 2009, 7:44 pm
-- Stefan Jones says:
+[**May 18, 2009, 7:44 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+- [Stefan Jones](https://web.archive.org/web/20090726214427/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) says:
 Trivia:
-In one scene in Soylent Green, the “furniture girls” are seen playing the arcade version of Spacewar.
+In one scene in *Soylent Green*, the “furniture girls” are seen playing the arcade version of Spacewar.
 I should really rewatch that movie . . . it has Edward G. Robinson bitching about the greenhouse effect and finding a Soylent Corporation research study that shows that krill have all died off.
-May 19, 2009, 1:47 pm
+[**May 19, 2009, 1:47 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 - Marc says:
 Fabulous post. I wasn’t alive in the PDP-1 era but watching the clip has been a nice trip down video game memory lane tonight. The fascinating thing for me is the real world physics MIT programmed into the Spacewar. I can’t recall seeing any commercially available video games that came close to that level of realism until the backend of the 1980’s!
 I was tempted after watching the Spacewar clip to commit the cardinal video game sin and fire up a ZX80 classic or two from my childhood but suspect those games are… definitely best viewed through rose tinted glasses!
-May 21, 2009, 5:59 pm
+[**May 21, 2009, 5:59 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090726214427/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090726214427/http://dicksmithsoftware.com/)

@@ -23,7 +23,7 @@ Frederik Pohl
 ![Galaxy, June 1952, with Gravy Planet by Pohl & Kornbluth](Galaxy-June_1952-Gravy_Plan.jpg)
 
 
-Cyril Kornbluth and I had collaborated on a few not very good (but sold and published anyway) stories before the war changed everything.  He wasn’t doing a lot of writing now, because he had determined to go straight with his life, by which he meant get a college education.  Accordingly, he had moved to Chicago with his new wife, Mary, and signed up at the University of Illinois with the financial help of the GI Bill of Rights.  He had time to write very little, but what he had written (and I instantly sold for him through the Dirk Wylie agency) was getting better and better.
+[**Cyril Kornbluth**](/posts/2009-04-20-cyril/) and I had collaborated on a few not very good (but sold and published anyway) stories before the war changed everything.  He wasn’t doing a lot of writing now, because he had determined to go straight with his life, by which he meant get a college education.  Accordingly, he had moved to Chicago with his new wife, [**Mary**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), and signed up at the University of Illinois with the financial help of the GI Bill of Rights.  He had time to write very little, but what he had written (and I instantly sold for him through the [**Dirk Wylie agency**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)) was getting better and better.
 
 
 I thought he could be tempted.  As he had just turned up at our house for a visit, it was easy to put that to the test, so I showed him the partial manuscript, and he was hooked.  When Cyril went home, he took the fragment with him.  He did some tidying up on that first third of the book, then wrote a draft of the next third on his own and came back to show it to me.
@@ -45,5 +45,5 @@ I could not have been more wrong.
 
 - **The Story of The Space Merchants**, [**Part 1**](/posts/2013-12-18-the-story-of-the-space-merchants/), [**Part 2**](/posts/2013-12-23-the-story-of-the-space-merchants-part-2/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416122354/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416122354/http://dicksmithsoftware.com/)

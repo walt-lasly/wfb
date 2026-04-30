@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![flames](flames.jpg)
 
-Cyril Kornbluth’s death came as a very bad thing that had suddenly happened to all of us, but it wasn’t really a surprise.  Cyril’s doctors had told him, definitely and explicitly, that his heart had been worn out in the Bulge. It was barely able to continue to pump blood around its system.
+[**Cyril Kornbluth’s**](/posts/2009-04-20-cyril/) death came as a very bad thing that had suddenly happened to all of us, but it wasn’t really a surprise.  Cyril’s doctors had told him, definitely and explicitly, that his heart had been worn out in the [Bulge](https://web.archive.org/web/20150920031819/http://www.pbs.org/wgbh/amex/bulge). It was barely able to continue to pump blood around its system.
 
 
 It wouldn’t go on doing it, either, unless Cyril made some revolutionary changes in his lifestyle.  Step One: no more cigarettes, coffee or alcohol — ever — for the rest of his life.  Very, very limited amounts of spicy foods, and even more limited amounts of salt.  Any deviation from any of this, ever, would have about the same effect as putting a gun to his temple and pulling the trigger.  He would very quickly die.
@@ -39,7 +39,7 @@ And he went home, but, of course, Cyril just couldn’t live that way.
 He stuck it out as long as he could, perhaps as long as a couple of months, and then he decided that he’d rather be dead than living like that.  So back came the booze and the cigarettes and the salt shaker and all the other things that made Cyril’s life worth living and sure enough, next thing you know, his limbs were jerking and his eyes were rolled up in his head and he was busily dying on the train station platform.
 
 
-All right.  End of story for Cyril.  The new major characters were Mary and the boys.
+All right.  End of story for Cyril.  The new major characters were [**Mary**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) and the boys.
 
 
 Cyril and I had had our ups and downs, but we had been through too much together for me to even consider walking away from their needs.  I got dressed and jumped in the car and drove, as fast I could, through the hundred miles or so of rush-hour traffic between Red Bank and Levittown.  Mary was waiting for me at the door, quite distraught — but, blessedly, sober.
@@ -84,15 +84,16 @@ At some point Mary got a cardboard carton, not unlike the packaging that your mi
 ### 3 Comments
 
 - Eric says:
-Dear Fred,
+Dear Fred,  
+
 Having recently lost someone who was significantly linked to my love of SF, this post has been really touching. Though we’ve never met, I consider you and Mr. Kornbluth old friends – “Search the Sky” was one of the first SF books I went out and got for myself over 30 years ago. You’re a fundamental part of why I love SF.
-December 16, 2010, 4:45 am
-- Shakatany says:
+[**December 16, 2010, 4:45 am**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
+- [Shakatany](https://web.archive.org/web/20150920031819/http://shakatany.livejournal.com/) says:
 In a way Cyril and his family were fortunate. Several years ago there were a few scandals involving crematoriums that would cremate several bodies together then divide the ashes. I remember when my aunt passed on in 1998 she’d already made arrangements to be cremated at a special crematorium where you could view the body and see that the crematorium was empty then a curtain was drawn and a few hours later we returned for her ashes. So what was old is now new again.
-December 16, 2010, 12:00 pm
+[**December 16, 2010, 12:00 pm**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
 - Taint says:
 Thanks you, Fred, for your memoirs.  I find them extraordinarily gripping. Looking forward to Part 3 about your friend Cyril.
-December 16, 2010, 12:23 pm
+[**December 16, 2010, 12:23 pm**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150920031819/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150920031819/http://dicksmithsoftware.com/)

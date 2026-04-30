@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Ken says:
 McConnell and Reid must be the truest of friends.
-January 27, 2013, 2:57 pm
+[**January 27, 2013, 2:57 pm**](/posts/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150922065730/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150922065730/http://dicksmithsoftware.com/)

@@ -48,18 +48,18 @@ Welcome to the world, Max!
 
 ### 4 Comments
 
-- Jeff says:
+- [Jeff](https://web.archive.org/web/20090427003812/http://jeffcrook.blogspot.com/) says:
 Congratulations!
-April 22, 2009, 8:32 am
+[**April 22, 2009, 8:32 am**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Anon says:
 Fabulous! Congratulations to the parents.
-April 22, 2009, 10:43 am
+[**April 22, 2009, 10:43 am**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Patricia says:
 Congratulations Mr. Pohl! I\’m glad everything turned out well (your newest great-grandchild? How many do you have?).
-April 22, 2009, 6:12 pm
+[**April 22, 2009, 6:12 pm**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - James says:
 Woohoo!  Welcome indeed, Max!
-April 24, 2009, 7:24 am
+[**April 24, 2009, 7:24 am**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090427003812/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090427003812/http://dicksmithsoftware.com/)

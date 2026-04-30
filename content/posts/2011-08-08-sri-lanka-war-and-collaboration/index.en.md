@@ -23,10 +23,10 @@ Frederik Pohl
 ![The Last Theorem](thelasttheorem1.jpg)
 
 
-When I was writing **The Last Theorem** with Sir [**Arthur Clarke**](/posts/2009-01-05-sir-arthur-and-i/), I found it necessary in the story, for plot purposes, to have the hero, Ranjit Subramanian, spend a prolonged period in a jail, in solitary confinement.
+When I was writing [The Last Theorem](https://web.archive.org/web/20170619213153/http://www.amazon.com/gp/product/0345470214?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0345470214) with Sir [**Arthur Clarke**](/posts/2009-01-05-sir-arthur-and-i/), I found it necessary in the story, for plot purposes, to have the hero, Ranjit Subramanian, spend a prolonged period in a jail, in solitary confinement.
 
 
-The obvious way to get that to happen was to have Ranjit get tangled up in the Sri Lankan civil war between the governing Sinhalese, who had been in the habit of keeping all the positions of power for themselves, and the rebellious Tamil Tigers, who wanted to share in the governance.  (Both Sinhalese and Tamils were uninvited  immigrants from India.  The Sinhalese, however, had arrived earlier.)
+The obvious way to get that to happen was to have Ranjit get tangled up in the [Sri Lankan civil war](https://web.archive.org/web/20170619213153/http://www.globalsecurity.org/military/world/para/ltte.htm) between the governing Sinhalese, who had been in the habit of keeping all the positions of power for themselves, and the rebellious Tamil Tigers, who wanted to share in the governance.  (Both Sinhalese and Tamils were uninvited  immigrants from India.  The Sinhalese, however, had arrived earlier.)
 
 
 The war was ongoing and bloody,and it dovetailed nicely with my general plans for the novel, so I happily wrote some ten or twenty thousand words embodying that material. I got quite a few pages further along in the story,  sending twenty- or thirty-page chunks on to Arthur as I finished them for his comments, suggestions and approval.
@@ -60,19 +60,19 @@ That’s how collaboration works, my children.  You get to have the literary ski
 
 - BTS says:
 History remains to decide if Bush was really the worst president ever. Right now I’d say he was a damn sight better than the current occupant of the White House who couldn’t lead a gold fish inside a bowl. But we’ll see.
-August 8, 2011, 9:08 am
+[**August 8, 2011, 9:08 am**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
 - David B. Williams says:
 Worst? Do you really want Bush to hold the honor of first place on any list? What about Andrew Johnson?
-August 8, 2011, 9:11 am
+[**August 8, 2011, 9:11 am**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
 - James Davis Nicoll says:
 James Buchanon has to rate worse than Bush; he let the US fall apart on his watch. Every other President to date, even Baby Bush, can say “Well, at least I didn’t hand the next guy a Civil War like James Buchanon did.”
 He was also the genius responsible for the Utah War.
-August 9, 2011, 12:18 am
-- Robert Nowall says:
+[**August 9, 2011, 12:18 am**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
+- [Robert Nowall](https://web.archive.org/web/20170619213153/http://www.robertnowall.com/) says:
 I kinda figured our comments might zero in on that one comment.  I could dispute it—I do, in fact—or talk at length about the deficiencies of several other occupants of the Presidency.
 I have a better idea.  We’ve seen your pick for “worst President ever.”  How about “best President ever”?  Don’t forget to justify it, with examples…
 Also, despite the comment, I enjoyed the commentary on Arthur C. Clarke…
-August 11, 2011, 8:33 am
+[**August 11, 2011, 8:33 am**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619213153/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619213153/http://dicksmithsoftware.com/)

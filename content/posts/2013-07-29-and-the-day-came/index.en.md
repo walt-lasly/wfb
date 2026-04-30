@@ -26,7 +26,7 @@ Frederik Pohl
 I was getting almost accustomed to being almost single again.
 
 
-That is, I don’t mean that there were no female people in my life.  There was Carolie Ulf, taking care of the kids just as though her daughter and I were still obsessively married.
+That is, I don’t mean that there were no female people in my life.  There was Carolie Ulf, taking care of the kids just as though her [**daughter**](/posts/2012-09-11-l-jerome-stanton/) and I were still obsessively married.
 
 
 Then there was Marge, the surgical nurse who supervised the operation on my nose and didn’t seem to mind, or even notice, the way it smelled while it was healing, and Bea from the folk-dance group I had begun taking my kids to now and then.  Take them all in all, it was surprising how many basically single but not unavailable youngish women I turned out to know once my wife Carol was no longer obscuring the view.
@@ -41,16 +41,16 @@ I was as surprised as anybody.  In my own world of bookselling dreams I had thou
 That was quite a good feeling to have.  I found myself spending a little more time in the office to enjoy it., maybe three days a week instead of one or two.
 
 
-At the same time, this now being the fall season when science-fictional and other literary and cultural groups came to life, my social calendar was picking up. A fan group in the Milford area asked me to come to speak to them, a slightly larger one on the lower Jersey shore were having a con and wanted me to come.  And the Encyclopedia Britannica was about to publish its first new edition in quite a while, to which I had contributed the entry on the Roman emperor Tiberius.  They were planning to celebrate the occasion by having a modest (but classy) luncheon in New York for contributors, to which I was of course invited.
+At the same time, this now being the fall season when science-fictional and other literary and cultural groups came to life, my social calendar was picking up. A fan group in the Milford area asked me to come to speak to them, a slightly larger one on the lower Jersey shore were having a con and wanted me to come.  And the [Encyclopedia Britannica](https://web.archive.org/web/20170620024447/http://www.britannica.com/) was about to publish its first new edition in quite a while, to which I had contributed the [entry on the Roman emperor Tiberius](https://web.archive.org/web/20170620024447/http://www.britannica.com/EBchecked/topic/594862/Tiberius).  They were planning to celebrate the occasion by having a modest (but classy) luncheon in New York for contributors, to which I was of course invited.
 
 
-What I didn’t like was going to such events without having Carol (or some available substitute) on my arm, so I began inviting some of the availables to join me now and then.  The Bolshoi Ballet group came to town, and I took Jennine, from the office, with me to watch Spartacus hold off all of Rome’s legions in dance. That was a great date, but I was well more than 50 and she was 28, and I was unwilling to try to bridge the age gap in any more durable way.
+What I didn’t like was going to such events without having Carol (or some available substitute) on my arm, so I began inviting some of the availables to join me now and then.  The [Bolshoi Ballet](https://web.archive.org/web/20170620024447/http://www.bolshoi.ru/en/) group came to town, and I took Jennine, from the office, with me to watch Spartacus hold off all of Rome’s legions in dance. That was a great date, but I was well more than 50 and she was 28, and I was unwilling to try to bridge the age gap in any more durable way.
 
 
 Elsie, whom I invited to the Britannica lunch, was impressed by cultural status and  thrilled by the chance to eat with the people who  made that supreme authority supreme, as the date of one of them.  It turned out, in fact, to be even culturaler than she had thought.
 
 
-As people straggled in to the event, the first familiar face I saw belonged to [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/).  He didn’t see anyone else he wanted to sit with either, so we had at least a party of three.  Then, while Isaac was looking up his own entry among the volumes racked up by the wall (I of course don’t mean entries he had written himself but the one that someone else had written *about* Asimov, Isaac), in came **Carl Sagan**, alone, as unfamiliar with the scores of other guests as ourselves and as glad to see us.
+As people straggled in to the event, the first familiar face I saw belonged to [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/).  He didn’t see anyone else he wanted to sit with either, so we had at least a party of three.  Then, while Isaac was looking up his own entry among the volumes racked up by the wall (I of course don’t mean entries he had written himself but the one that someone else had written *about* Asimov, Isaac), in came [Carl Sagan](https://web.archive.org/web/20170620024447/http://www.carlsagan.com/), alone, as unfamiliar with the scores of other guests as ourselves and as glad to see us.
 
 
 So now we had a happy little sub-party of four, the only problem being that other people had been arriving and choosing seats, and the only table that had four available seats together was the head table, occupied by the editor, the after-lunch speaker and a couple of their own friends.
@@ -77,7 +77,7 @@ The speaker tried to continue, then crumpled the rest of his speech in his hand.
 And so he did.  Did it all quite well, in fact, and when he was finished he got quite a nice round of applause from the audience — as much for his gameness as for content, I might speculate.
 
 
-By then the world was approaching the end of the year — the year, that is, in which Carol and I had undertaken to make up our minds once and forever on the alternatives of divorce or making our marriage work.
+By then the world was approaching the end of the year — the year, that is, in which Carol and I had [**undertaken**](/posts/2013-07-29-and-the-day-came/) to make up our minds once and forever on the alternatives of divorce or making our marriage work.
 
 
 Well. I guess we did, although not in exactly the way I thought we would.  I had supposed that we would go off by ourselves and have a long, long talk and then decide.  I hadn’t thought that the long talk would be on the telephone, with me in our home in Red Bank and Carol off somewhere a few thousand miles away in the Canadian prairie provinces.
@@ -108,7 +108,7 @@ Had we come to any solution?  Of course not.  But, I thought grimly, not that fa
 
 - Eric M says:
 Amazing…you’ve got me hooked on a story again, and once again it’s non-fiction. Keep ’em coming!
-July 29, 2013, 9:24 pm
+[**July 29, 2013, 9:24 pm**](/posts/2013-07-29-and-the-day-came/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620024447/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620024447/http://dicksmithsoftware.com/)

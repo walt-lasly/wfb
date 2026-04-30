@@ -26,5 +26,5 @@ Frederik Pohl
 
 —[**Kenneth Conrad Frey**](/posts/2013-01-15-the-election-s-over-now-what/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416225429/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416225429/http://dicksmithsoftware.com/)

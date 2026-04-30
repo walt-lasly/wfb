@@ -35,12 +35,12 @@ Fred
 
 ### 2 Comments
 
-- travelgirl says:
+- [travelgirl](https://web.archive.org/web/20111130040649/http://www.parkgallery.org/) says:
 happy name day, son!  thank you for entertaining me through the decades 
-November 25, 2011, 3:34 pm
+[**November 25, 2011, 3:34 pm**](/posts/2011-11-25-you-re-invited-help-me-celebrate-my-birthday/)
 - Armrow says:
 Happy Birthday.
-November 27, 2011, 12:54 am
+[**November 27, 2011, 12:54 am**](/posts/2011-11-25-you-re-invited-help-me-celebrate-my-birthday/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111130040649/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111130040649/http://dicksmithsoftware.com/)

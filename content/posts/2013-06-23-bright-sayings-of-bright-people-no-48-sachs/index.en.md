@@ -25,5 +25,5 @@ Frederik Pohl
 **“Much of the world is already in water crisis, and that crisis will only continue to grow.”
 —Jeffrey Sachs**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619193606/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619193606/http://dicksmithsoftware.com/)

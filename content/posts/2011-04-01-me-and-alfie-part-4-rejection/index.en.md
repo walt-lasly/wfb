@@ -24,13 +24,13 @@ Frederik Pohl
 
 ![The Space Merchants](space-merchants-pb250.jpg)
 
-Bester: I’m curious, Fred.  Where did you get the idea for **The Space Merchants**?
+Bester: I’m curious, Fred.  Where did you get the idea for [The Space Merchants](https://web.archive.org/web/20170707054351/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511)?
 
 
 Pohl: *The Space Merchants* has a long history. During World War II, I was with the American Air Force in Italy.  I got a little homesick, and I’d brought my typewriter with me. I’d carried that damn thing all over World War II hoping some time to find a use for it and I did.
 
 
-I thought I’d write a novel about New York City to make me feel a little better. And the most exciting thing I could think of to write about in New York City was the advertising business — which was a glamorous sort of thing —-and I wrote this novel for some 300 pages or so, called *For Some We Loved.* It’s a quotation from **Omar Khayyam**. I was 23 years old, what did I know?
+I thought I’d write a novel about New York City to make me feel a little better. And the most exciting thing I could think of to write about in New York City was the advertising business — which was a glamorous sort of thing —-and I wrote this novel for some 300 pages or so, called *For Some We Loved.* It’s a quotation from [Omar Khayyam](https://web.archive.org/web/20170707054351/http://manybooks.net/titles/fitzgereldeetext95rubai10.html). I was 23 years old, what did I know?
 
 
 And then the war was over and I got back home, and I looked at the novel and perceived there was something wrong with it. What was wrong with it was that I didn’t know anything about the advertising business, and I had written this whole novel that dealt with it.  But I knew how to solve that problem. I looked in the Sunday New York Times, classified advertising section, and I saw three or four help-wanted ads for advertising copywriters. I’d never been an advertising copywriter, but it looked easy. So I answered a couple of the ads and one of them hired me, and I spent a couple of years there.
@@ -51,13 +51,13 @@ Bester: Oh, Fred, no! That’s terrible.
 Pohl: It was awful. The concept was painful … but the novel itself was agonizing.  I had no choice.
 
 
-So here I had all this knowledge of advertising and no longer had a book to put it in.  Also Fred Wakeman had come out with **The Hucksters** by then, so it was no longer really a fresh idea for a regular mainstream novel.  Then it occurred to me to make a science-fiction novel about advertising, and I began tentatively putting words on paper — a little bit at a time, because by then I had a full-time job running a literary agency.  And when I had put about 20,000 words on paper over about a year or two, I showed it to **Horace Gold**.
+So here I had all this knowledge of advertising and no longer had a book to put it in.  Also Fred Wakeman had come out with [The Hucksters](https://web.archive.org/web/20170707054351/http://www.amazon.com/gp/product/B0007F0670?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0007F0670) by then, so it was no longer really a fresh idea for a regular mainstream novel.  Then it occurred to me to make a science-fiction novel about advertising, and I began tentatively putting words on paper — a little bit at a time, because by then I had a full-time job running a literary agency.  And when I had put about 20,000 words on paper over about a year or two, I showed it to [Horace Gold](https://web.archive.org/web/20170707054351/http://www.gcwillick.com/Spacelight/gold_hl.html).
 
 
 Bester: What did Horace have to say?
 
 
-Pohl: He said, “I am now running Alfie Bester’s **The Demolished Man**—”
+Pohl: He said, “I am now running Alfie Bester’s [The Demolished Man](https://web.archive.org/web/20170707054351/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD)—”
 
 
 Bester: Leave me out of this, will you?
@@ -72,7 +72,7 @@ And I said, “There’s no way I can do that. I have a full-time job with the a
 And he said, “I don’t care whether you can do it or not, the printers will be waiting.”
 
 
-So I went back to my home in New Jersey where my old friend Cyril Kornbluth, with whom I’d written a lot of stories before, was staying with me. He read over the part I’d written, the first third or so and said, “Yeah, yeah, we can do something with that.” So he rewrote that and added some, and I rewrote that and added some, and we barely got it into print, but actually the first part was being set before the last was written.
+So I went back to my home in New Jersey where my old friend [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), with whom I’d written a lot of stories before, was staying with me. He read over the part I’d written, the first third or so and said, “Yeah, yeah, we can do something with that.” So he rewrote that and added some, and I rewrote that and added some, and we barely got it into print, but actually the first part was being set before the last was written.
 
 
 Bester: My God, you were living dangerously, Fred!
@@ -99,7 +99,7 @@ Bester: So was *The Demolished Man,* sir! It was bounced by everybody.
 Pohl: Well, I think it’s the same story.
 
 
-So, there was no publisher left to offer it to. Then Ian Ballantine started up his own company, and he was so inexperienced as a publisher that he didn’t know this was unpublishable. So he published it! You know, it’s been translated into 45 languages now.
+So, there was no publisher left to offer it to. Then [**Ian Ballantine**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/) started up his own company, and he was so inexperienced as a publisher that he didn’t know this was unpublishable. So he published it! You know, it’s been translated into 45 languages now.
 
 
 Bester: It shows you, the greatest books in the world can be bounced by anybody. Look at Fred’s!  The greatest science fiction novel of all time. Bounced by everybody! It’s preposterous!
@@ -116,25 +116,25 @@ Bester: It shows you, the greatest books in the world can be bounced by anybody.
 
 ### 5 Comments
 
-- Richard says:
+- [Richard](https://web.archive.org/web/20170707054351/http://estoreal.blogspot.com/) says:
 The repartee is terrific.  I’m so envious of the audience at that cinema in Newcastle!
-April 1, 2011, 3:24 am
+[**April 1, 2011, 3:24 am**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
 - David B. Williams says:
 Hilarious. Reminds me of Dune. Poor Frank Herbert couldn’t find a book publisher for several years after the magazine serialization, until he finally sold it to a company that specialized in printing catalogues or something. Then the paperback editions, the sequels, and the estate in Hawaii.
-April 1, 2011, 8:55 am
+[**April 1, 2011, 8:55 am**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
 - Mike Goldberg says:
 More, please!
-April 2, 2011, 8:41 am
-- Michael Walsh says:
+[**April 2, 2011, 8:41 am**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+- [Michael Walsh](https://web.archive.org/web/20170707054351/http://www.oldearthbooks.com/) says:
 @David B Williams: Dune was acquired by Chilton, publisher of primarily automotive repair manuals.  They also published “Wild and Outside” – an SF baseball novel by Allen Kim Lang.  
 The description from the publisher: “A hilarious blend of baseball, exobiology, extra-terrestrial ethnology, slam-bang adventure, and pure fun — the story of baseball’s introduction to an alien planet.”
 I may be wrong, but I think he was an editor at Chilton.
-April 2, 2011, 12:15 pm
+[**April 2, 2011, 12:15 pm**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
 - Lars says:
 I’ve thought for a long time that “The Space Merchants” is the finest libertarian SF novel ever written. 
 Not in the sense that libertarians would like, of course. More like “We” of “1984” are quintessential collectivist novels – showing the logical outcomes of particular ideologies. “The Space Merchants” show what the libertarian right would enable. 
 Still, you’d think that the Prometheus people would be honest enough to reconize Mr. Pohl and Mr. Kornbluth as Grand Masters.
-April 4, 2011, 5:07 pm
+[**April 4, 2011, 5:07 pm**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707054351/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707054351/http://dicksmithsoftware.com/)

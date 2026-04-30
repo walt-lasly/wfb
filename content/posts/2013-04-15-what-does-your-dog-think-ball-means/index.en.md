@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="fred-millie.jpg" alt="Frederik Pohl and Milly" caption="Me and Milly" >}}
 
 
-Psychologist Emile van der Zee, at the University of Lincoln in the U.K., is studying how dogs perceive differences between objects.  When a human being hears the word “ball” he forms a visual image of something marked by its roundness — the most marked trait he observes by looking at it and handling it.
+Psychologist [Emile van der Zee](https://web.archive.org/web/20170707111747/http://staff.lincoln.ac.uk/evanderzee), at the University of Lincoln in the U.K., is [studying](https://web.archive.org/web/20170707111747/http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0049382) how dogs perceive differences between objects.  When a human being hears the word “ball” he forms a visual image of something marked by its roundness — the most marked trait he observes by looking at it and handling it.
 
 
 His dog, however, does not rely on those inputs.  Its principal source of information is its mouth, and it isn’t clear what traits it considers most significant when dogs handle things with their mouths, which seems to suggest that size and texture are more important.
@@ -34,10 +34,10 @@ Researchers taught a collie dog named Gable made-up names for some objects, one 
 
 ### One Comment
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20170707111747/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 All of the “nouns” my dog knows are really commands to do something in relation to the object.
-Hoop = jump through a hoop (Really! http://www.flickr.com/photos/stefan_e_jones/4797532985/in/set-72157624384568387)
+Hoop = jump through a hoop (Really! [http://www.flickr.com/photos/stefan_e_jones/4797532985/in/set-72157624384568387](https://web.archive.org/web/20170707111747/http://www.flickr.com/photos/stefan_e_jones/4797532985/in/set-72157624384568387))
 Bed = go to her bed
 Car = run to the car to go for a ride
 Kira is an adopted dog. If I started with a puppy I might try teaching him or her about specific objects, but she is pretty set in her ways.
-April 17, 2013, 6:00 pm
+[**April 17, 2013, 6:00 pm**](/posts/2013-04-15-what-does-your-dog-think-ball-means/)

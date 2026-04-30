@@ -47,7 +47,7 @@ Betty moderates this panel with Dale Cozort, Mark Huston and Jody Lynn Nye.
 ## Where will Betty be next?
 
 
-**Operacon with Somtow Sucharitkul**, March 12–15, Milwaukee, Wis., a very unusual relaxacon — with music!
+[Operacon with Somtow Sucharitkul](https://web.archive.org/web/20160402091435/http://fijagdh.com/operacon/), March 12–15, Milwaukee, Wis., a very unusual relaxacon — with music!
 
 
 *—The blog team*
@@ -56,9 +56,10 @@ Betty moderates this panel with Dale Cozort, Mark Huston and Jody Lynn Nye.
 ### One Comment
 
 - Carlos Federici says:
-Dear Mrs. Hull: I received your most appreciated Christmas card (no matter the delay when the sentiment is sincere, as you so wisely pointed out. Ireplied by e-mail, since I seldom (or never)use post mail these days. I hope it reached you, for it carried my thanks for your kindness and my own greetings to you for year 2015.
-Your work is amazing, as is your permanent tribute to our dear departed (but nevertheless always here)Fred.
-March 1, 2015, 11:42 pm
+Dear Mrs. Hull: I received your most appreciated Christmas card (no matter the delay when the sentiment is sincere, as you so wisely pointed out. Ireplied by e-mail, since I seldom (or never)use post mail these days. I hope it reached you, for it carried my thanks for your kindness and my own greetings to you for year 2015.  
 
-**WordPress**
-**TWTFB2**
+Your work is amazing, as is your permanent tribute to our dear departed (but nevertheless always here)Fred.
+[**March 1, 2015, 11:42 pm**](/posts/2015-02-13-elizabeth-anne-hull-s-appearances/)
+
+[WordPress](https://web.archive.org/web/20160402091435/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402091435/http://dicksmithsoftware.com/)

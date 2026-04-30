@@ -26,7 +26,7 @@ Frederik Pohl
 The East-West Homegoing crossing, from the Bay of Naples, down around Sicily and its somber dark-red-lit volcanic peaks and out into the stormy Atlantic, was a lot more exciting than the voyage out, even though we weren’t scanning for the  snorkels of enemy submarines from the time of departing Port of New York to arriving at the wreckage-strewn harbor of Naples.  The difference was weather.  Going out in midsummer we hadn’t had any.  Coming back, we had one of the worst winter storms on record.
 
 
-Making the run from England to Boston a thousand miles north of where we were crossing in the bouncing, swinging little **Marion McKinley Bovard**,  the **Queen Elizabeth** lost part of her bridge to wave action, nearly a hundred feet above the waterline.  Months later, I ran into an Army nurse who had been on that run.  When I asked her what it was like, she stared into space, shook her head and finally said,  “Have you ever seen 2,400 men and women all puking at once?”
+Making the run from England to Boston a thousand miles north of where we were crossing in the bouncing, swinging little [Marion McKinley Bovard](https://web.archive.org/web/20170620024149/http://www.skylighters.org/troopships/libertyships.html),  the [Queen Elizabeth](https://web.archive.org/web/20170620024149/http://www.ocean-liners.com/ships/queenelizabeth.asp) lost part of her bridge to wave action, nearly a hundred feet above the waterline.  Months later, I ran into an Army nurse who had been on that run.  When I asked her what it was like, she stared into space, shook her head and finally said,  “Have you ever seen 2,400 men and women all puking at once?”
 
 
 But down where we were, a thousand miles south, we were only in a brutally fierce, but not record-breaking storm.  As soon as I saw a mimeograph standing idle, I had volunteered to put out a ship’s newspaper, so I had the run of the ship, barring a few places where I might hurt myself or fall overboard.
@@ -71,10 +71,10 @@ And then we were dead-slowing into the Hampton Roads docks, and before you knew 
 
 ### One Comment
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20170620024149/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 For some reason you don’t hear a lot of WWII stories about transport trips . . . I guess it was just boredom mixed with seasickness for most of the guys.
 Keep ’em coming!
-June 20, 2013, 1:06 pm
+[**June 20, 2013, 1:06 pm**](/posts/2013-06-20-my-war-part-4-homegoing/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620024149/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620024149/http://dicksmithsoftware.com/)

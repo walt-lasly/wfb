@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="william-lindsay-gresham.jpg" alt="William Lindsay Gresham" caption="William L. Gresham" >}}
 
 
-By the third or fourth year of the Ipsy, the great house in Highlands had pupped a fair-sized litter of clones.  There was me and my family in Red Bank, the del Reys a quarter of a mile away, George and Dona Smith in Rumson and, at least briefly, the Kornbluths in Long Branch and the Budryses in Oceanport … and, perhaps most important, the Laurence Mannings in Highlands itself, next door to the Ipsy-Wipsy itself.
+By the third or fourth year of the [**Ipsy**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), the great house in Highlands had pupped a fair-sized litter of clones.  There was me and my family in Red Bank, the [**del Reys**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/) a quarter of a mile away, [George](https://web.archive.org/web/20170619230707/http://www.isfdb.org/cgi-bin/ea.cgi?George_O._Smith) and Dona Smith in Rumson and, at least briefly, the [**Kornbluths**](/posts/2009-04-20-cyril/) in Long Branch and the [**Budryses**](/posts/2010-07-26-a-j/) in Oceanport … and, perhaps most important, the [Laurence Mannings](https://web.archive.org/web/20170619230707/http://www.isfdb.org/cgi-bin/ea.cgi?Laurence_Manning) in Highlands itself, next door to the Ipsy-Wipsy itself.
 
 
 When Laurence Manning  — Fletcher’s long ago collaborator from the days when science-fiction magazines had the square footage of telephone books (no, not in the number of pages, of course!) — and his family came out for a weekend, they loved the location as well as the company.  And when Laurence mentioned that he was looking for a house to buy and move to, Fletcher was quick to say that when he and Inga had bought the Ipsy, they’d bought more acres of land than they had any use for, and the Pratts would be happy to hive off a few acres to sell to the Mannings if they’d care to build a house next door.  Which they did, and so the Pratts and the Mannings were next-door neighbors.
@@ -38,13 +38,13 @@ He knew everything about home plantings, which made him a useful resource for th
 Remember that I once said that, with all the social drinking that went on of an Ipsy weekend, I had only once seen anyone unpleasantly drunk?
 
 
-This was the once.  The man in question I did not know well, though I had read some of his work.  His name was William Lindsay Gresham.
+This was the once.  The man in question I did not know well, though I had read some of his work.  His name was [William Lindsay Gresham](https://web.archive.org/web/20170619230707/http://thehoundblog.blogspot.com/2009/04/william-lindsay-gresham.html).
 
 
-To discuss William Lindsay Gresham, I must first ask if you have ever seen the **play** or **film** *Shadowlands*?  Gresham never appears in it, but he is a very significant character all the same.
+To discuss William Lindsay Gresham, I must first ask if you have ever seen the [play](https://web.archive.org/web/20170619230707/http://www.amazon.com/gp/product/1580812465?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1580812465) or [film](https://web.archive.org/web/20170619230707/http://www.amazon.com/gp/product/0783113315?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0783113315) *Shadowlands*?  Gresham never appears in it, but he is a very significant character all the same.
 
 
-You see, *Shadowlands* is the story of **C.S. Lewis** — yes, the **Screwtape Letters** man — and his tragical love for the American poet **Joy Davidman**.  What made that love tragic was William Gresham.
+You see, *Shadowlands* is the story of [C.S. Lewis](https://web.archive.org/web/20170619230707/http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fentity%2FC.-S.-Lewis%2FB000APXBPG%3Fie%3DUTF8%26ref_%3Dsr_tc_ep%26qid%3D1298051041&tag=twtfb-20&linkCode=ur2&camp=1789&creative=390957) — yes, the [Screwtape Letters](https://web.archive.org/web/20170619230707/http://www.amazon.com/gp/product/0060652896?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0060652896) man — and his tragical love for the American poet [Joy Davidman](https://web.archive.org/web/20170619230707/http://www.boundless.org/2005/articles/a0001188.cfm).  What made that love tragic was William Gresham.
 
 
 Davidman had been married to and then, after two children, divorced from Gresham. Jewish by birth, then atheist while she was growing up, she became a Christian, converted by reading Lewis’s persuasive and enjoyable books.  And she fell in love with Lewis the man, as totally and unquestioningly as he with her. But Lewis could not marry her.
@@ -59,10 +59,10 @@ To begun with, sex outside of marriage.was, for him, the very definition of sin.
 Unfortunately, Lewis’s religious beliefs held that marriages were for life, and “divorce” was a legal fiction.  Marriages were irrevocably till-death-do-us-part contracts, no exceptions, and nothing that some judge may have said in a court gave a once-married person the freedom to marry again.  Only the death of the partner could accomplish that.
 
 
-When I heard that William Gresham would be present at the Ipsy that evening, I was pleased to have the chance to talk to him, which we had somehow never managed to have on his previous visits..  The title of his signature book was **Nightmare Alley**, a brutal but brilliant novel of life among the carnival workers, which I had enjoyed and respected.  But my notion of author-to-author chatting with the man didn’t work out.  Gresham was too drunk for chatting, and too aggressively foulmouthed for any civilized kind of talk at all.
+When I heard that William Gresham would be present at the Ipsy that evening, I was pleased to have the chance to talk to him, which we had somehow never managed to have on his previous visits..  The title of his signature book was [Nightmare Alley](https://web.archive.org/web/20170619230707/http://www.amazon.com/gp/product/1590173481?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590173481), a brutal but brilliant novel of life among the carnival workers, which I had enjoyed and respected.  But my notion of author-to-author chatting with the man didn’t work out.  Gresham was too drunk for chatting, and too aggressively foulmouthed for any civilized kind of talk at all.
 
 
-Remember the somewhat quaint and actually endearing pass-the-port-to-the-left fantasy that Fletcher had erected around Ipsy-Wipsy weekends?  Gresham’s presence showed how a single drunk could destroy a fantasy.  I left early that night.
+Remember the somewhat quaint and actually endearing [**pass-the-port-to-the-left**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/) fantasy that Fletcher had erected around Ipsy-Wipsy weekends?  Gresham’s presence showed how a single drunk could destroy a fantasy.  I left early that night.
 
 
 And I never saw the man again.
@@ -82,27 +82,28 @@ I did hear about him from time to time, and then,  some years later, the tabloid
 
 ### 6 Comments
 
-- Chookie says:
-Wikipedia suggests the impediment was more that a divorcee was an unacceptable choice to the Anglicans of the time.  In my diocese (Sydney, which is theologically conservative), ministers still have to ask the Archbishop’s permission to celebrate the marriage of a divorcee.
+- [Chookie](https://web.archive.org/web/20170619230707/http://chookiesbackyard.blogspot.com/) says:
+Wikipedia suggests the impediment was more that a divorcee was an unacceptable choice to the Anglicans of the time.  In my diocese (Sydney, which is theologically conservative), ministers still have to ask the Archbishop’s permission to celebrate the marriage of a divorcee.  
+
 Lewis and Davidman did marry eventually, but some of their friends (notably Tolkien, a Catholic) disapproved, again on the grounds that marriage was for life.  Gresham’s adultery must have been hushed up, because that would have been seen as proper grounds for divorce.
-February 23, 2011, 5:43 am
+[**February 23, 2011, 5:43 am**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/)
 - David B. Williams says:
 It’s endlessly fascinating, how people can screw up their lives with abstract belief systems.
 You couldn’t write a story in which the characters had these motivations, because no one would think it was believable.
-February 23, 2011, 11:02 am
-- Mr. Rice says:
+[**February 23, 2011, 11:02 am**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/)
+- [Mr. Rice](https://web.archive.org/web/20170619230707/http://divorcerates.info/) says:
 I never thought I would find Fletcher Pratt interesting
-February 23, 2011, 1:12 pm
-- Michael Walsh says:
+[**February 23, 2011, 1:12 pm**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/)
+- [Michael Walsh](https://web.archive.org/web/20170619230707/http://www.oldearthbooks.com/) says:
 The Kornbluths live in Long Branch?  Jeeze, so did my late aunt: Joline Ave near Ocean Ave.
-February 24, 2011, 4:21 pm
+[**February 24, 2011, 4:21 pm**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/)
 - Terry O'Brien says:
 William Lindsey Gresham? I certainly didn’t expect to see that name here.
 I encountered Gresham, albeit from an oblique angle, way back in (I think) 1969. It was an article entitled “Secrets of the Sleep Merchants” that was included as part of an English reading lesson program. It was about the carny tricks stage hypnotists would use to on volunteers to make them more “suggestible”. For years afterward I tried to find the original publication but all I could remember was that it originally appeared in “True, the Men’s Magazine” sometime about 1955. It took a web search just a few years ago to discover the author (Gresham) and his agent, and a letter to the agent provided the actual publication information. After that, I simply kept checking eBay until that issue of the magazine appeared for sale and bought it at the first chance I had.
-February 26, 2011, 12:09 am
-- Bill Goodwin says:
+[**February 26, 2011, 12:09 am**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/)
+- [Bill Goodwin](https://web.archive.org/web/20170619230707/http://771715/) says:
 It’s endlessly fascinating, how people can screw up their belief-systems with the fickle passions of mere life.  You couldn’t write a popular story where people aspired to higher things, because no one vulgar would find it believable….
-February 28, 2011, 2:58 am
+[**February 28, 2011, 2:58 am**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170619230707/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619230707/http://dicksmithsoftware.com/)

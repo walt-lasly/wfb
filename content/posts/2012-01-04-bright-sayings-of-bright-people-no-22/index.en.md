@@ -30,10 +30,10 @@ Frederik Pohl
 
 - Jay Borcherding says:
 Excellent quote, that I don’t recall seeing before.  Thanks for posting.
-January 5, 2012, 1:18 pm
+[**January 5, 2012, 1:18 pm**](/posts/2012-01-04-bright-sayings-of-bright-people-no-22/)
 - Rolando says:
 I once had a dream where jetpacks were commonly used everywhere and then woke up. Thirty minutes later I started looking for my jetpack to go to school until I realized they didn’t actually exist.
-January 6, 2012, 11:05 am
+[**January 6, 2012, 11:05 am**](/posts/2012-01-04-bright-sayings-of-bright-people-no-22/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120519030247/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120519030247/http://dicksmithsoftware.com/)

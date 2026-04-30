@@ -30,7 +30,7 @@ Frederik Pohl
 
 - MCBarrett says:
 This is particularly poignant in the current outrage over the plight of a Seattle landmark, Bauhaus Books and Coffee.  It’s been there for two decades, serving as a hub of the Capitol Hill community from dawn ’til midnight.  It’s to be closed and demolished within a year, to be replaced by a modern multi-use structure with, of course, paid underground parking.  Soon there will be nothing left for people to walk to, the community scraped clean to bring in retail dollars from people who are happily dependent on automobiles.
-April 8, 2012, 8:02 pm
+[**April 8, 2012, 8:02 pm**](/posts/2012-04-08-bright-sayings-of-bright-people-no-27/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508222434/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508222434/http://dicksmithsoftware.com/)

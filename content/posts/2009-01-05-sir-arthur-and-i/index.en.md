@@ -21,13 +21,13 @@ Frederik Pohl
 {{< figure src="clarke-245x300.jpg" alt="Arthur C. Clarke, photo by Amy Marash, www.marash.tv" caption="Sir Arthur C. Clarke at home in Sri Lanka, 2005. Photo by Amy Marash." >}}
 
 
-I first met Arthur C. Clarke in the 1950s, on the occasion of his first cross-Atlantic visit to New York City By then Arthur had established himself as a first-rate science-fiction writer and he did what sf writers do in a strange city: He looked for other sf writers to talk to.
+I first met [Arthur C. Clarke](https://web.archive.org/web/20090123111018/http://www.arthurcclarke.net/) in the 1950s, on the occasion of his first cross-Atlantic visit to New York City By then Arthur had established himself as a first-rate science-fiction writer and he did what sf writers do in a strange city: He looked for other sf writers to talk to.
 
 
-He found them in the rather amorphously shaped group that called itself the Hydra Club, where I was one of the nine heads that had been its founders. We became friends. We stayed that way for all of the half century that remained of Arthur’s life. We met when chance arranged it — at a film festival in Rio de Janeiro, at an occasional scientific meeting, at assorted “cons” — sf-speak for science-fiction gatherings — in many places at many times.
+He found them in the rather amorphously shaped group that called itself the [Hydra Club](https://web.archive.org/web/20090123111018/http://jophan.org/mimosa/m25/kyle.htm), where I was one of the nine heads that had been its founders. We became friends. We stayed that way for all of the half century that remained of Arthur’s life. We met when chance arranged it — at a film festival in Rio de Janeiro, at an occasional scientific meeting, at assorted “cons” — sf-speak for science-fiction gatherings — in many places at many times.
 
 
-In the early days Arthur spent a lot of time visiting New York, usually staying at the Chelsea Hotel on West 23d Street, and when possible I would join him for dinner or a drink — that was all expense-account money and happily paid for by my publisher, because I was an editor in those days and eager to publish as much Clarke as I could get my hands on. But by the turn of the millennium our friendship had reduced itself to a desultory correspondence and the odd phone conversation. I had given up editing to concentrate on my own writing. What Arthur had given up was ever leaving his island home in Sri Lanka, where I had never been. (Although I visited a number of other countries, Sri Lanka wasn’t one of them.)
+In the early days Arthur spent a lot of time visiting New York, usually staying at the Chelsea Hotel on West 23d Street, and when possible I would join him for dinner or a drink — that was all expense-account money and happily paid for by my publisher, because I was an editor in those days and eager to publish as much Clarke as I could get my hands on. But by the turn of the millennium our friendship had reduced itself to a desultory correspondence and the odd phone conversation. I had given up editing to concentrate on my own writing. What Arthur had given up was ever leaving his island home in [Sri Lanka](https://web.archive.org/web/20090123111018/https://www.cia.gov/library/publications/the-world-factbook/geos/ce.html), where I had never been. (Although I visited a number of other countries, Sri Lanka wasn’t one of them.)
 
 
 Then, in one of his letters in the early part of 2006, Arthur rather off-handedly mentioned that, a couple of years earlier, in a fit of exuberance, he had signed publishing contracts for several books that, he was now convinced, he would never be able to write himself. Most of them he had arranged for some other writer to finish, but there was one, called *The Last Theorem,* for which he needed a collaborator.
@@ -36,14 +36,14 @@ Then, in one of his letters in the early part of 2006, Arthur rather off-handedl
 That sounded like a hint, and I took it. I wrote back, “If you really need a collaborator for that unfinished novel, Barkis is probably willin’. I like collaborating and sadly seem to be running out of collaborators.”
 
 
-I am sorry to say that this was no more than the truth. Of my several score published books nearly a third had been written with collaborators, usually a long-term friend — Isaac Asimov, Lester del Rey, Cyril Kornbluth and Jack Williamson among them, and all four of them have since passed away. It occurred to me that urging him to join a group with such a high mortality rate might not be the best inducement to offer a proposed partner, and indeed as weeks passed and I heard no response from Arthur I began to wonder if I had frightened him out of the notion. But then a letter arrived, not from Arthur himself but from his New York agent, which said that Arthur had passed my offer on to him, and added:
+I am sorry to say that this was no more than the truth. Of my several score published books nearly a third had been written with collaborators, usually a long-term friend — [Isaac Asimov](https://web.archive.org/web/20090123111018/http://www.asimovonline.com/), [Lester del Rey](https://web.archive.org/web/20090123111018/http://www.nndb.com/people/208/000085950), [Cyril Kornbluth](https://web.archive.org/web/20090123111018/http://www.luna-city.com/sf/cmk.htm) and [Jack Williamson](https://web.archive.org/web/20090123111018/http://www.sfwa.org/news/2006/jwilliamson.htm) among them, and all four of them have since passed away. It occurred to me that urging him to join a group with such a high mortality rate might not be the best inducement to offer a proposed partner, and indeed as weeks passed and I heard no response from Arthur I began to wonder if I had frightened him out of the notion. But then a letter arrived, not from Arthur himself but from his New York agent, which said that Arthur had passed my offer on to him, and added:
 
 > Since receiving that from Arthur, I’ve been discussing it with his editor, Chris Schluep, and he has been discussing it with his colleagues and bosses at Ballantine/Del Rey. I’m happy to say that they have called me today to say that they would love to proceed…. We sold the material to Ballantine on the basis of some bits and pieces supplied by Arthur, and a brief outline. I assume you would like to see these before you commit to this project.
 
 There was no doubt in my mind that I wanted to do the book, but I looked forward to Arthur’s notes. When they arrived they amounted to around a hundred pages of notes and drafts, some sketchy, some quite completely fleshed out.
 
 
-The novel was to be called “The Last Theorem” as a reference to a celebrated scribble by the 18th-century French mathematician Pierre Fermat. Fermat had been thinking about a well known mathematical problem. If you square the sides of a right triangle and add them together, their sum equals the square of the triangle’s hypotenuse. The smallest triangle that this works for in whole numbers has sides of three and four units and a hypotenuse of five. Three squared, or nine, plus four squared, or 16, equals 25, which is the square of the five units that the hypotenuse measured.
+The novel was to be called “The Last Theorem” as a reference to a celebrated scribble by the 18th-century French mathematician [Pierre Fermat](https://web.archive.org/web/20090123111018/http://www.simonsingh.net/Pierre_de_Fermat.html). Fermat had been thinking about a well known mathematical problem. If you square the sides of a right triangle and add them together, their sum equals the square of the triangle’s hypotenuse. The smallest triangle that this works for in whole numbers has sides of three and four units and a hypotenuse of five. Three squared, or nine, plus four squared, or 16, equals 25, which is the square of the five units that the hypotenuse measured.
 
 
 That of course is not really much of a problem so far. Everybody who cares at all knows that.
@@ -61,7 +61,7 @@ As I read all this in Arthur’s sketchy notes a small sense of foreboding began
 Well, I told myself, sure they were. The book isn’t really about the theorem. It is about a boy who is determined to rediscover that lost proof and about what happens to him, to his world and even to his galaxy after he does. Besides, there was a lot of great stuff there including a wonderful war-winning weapon that triumphed in battles without ever killing anyone; a moving scene between Ranjit Subramanian, the story’s central figure, and his father, the head priest at a Buddhist temple in Sri Lanka; a couple of exciting races in space; the death of a major character; thumbnail sketches — no, not that big, make-that pinky-nail sketches — of the major characters. Plus much more, including, I was sure, that one other great resource that would fill in all the missing bits and pieces, Arthur himself.
 
 
-So I got off a quick note to Arthur to say that I accepted the quite generous terms of his offer and began doing some research, sublimely confident that this would be a relatively easy book to write. As it happened, I had a novel of my own half written at the time but it was no problem to set it aside to do Arthur’s; I had long since informed Jim Frenkel, my **Tor** editor, that he would definitely get the book but that I wasn’t going to sign a contract with him until I had it nearly finished since I didn’t want any contractual deadlines nagging at me. And I began to write *The Last Theorem.*
+So I got off a quick note to Arthur to say that I accepted the quite generous terms of his offer and began doing some research, sublimely confident that this would be a relatively easy book to write. As it happened, I had a novel of my own half written at the time but it was no problem to set it aside to do Arthur’s; I had long since informed Jim Frenkel, my [Tor](https://web.archive.org/web/20090123111018/http://us.macmillan.com/Tor.aspx) editor, that he would definitely get the book but that I wasn’t going to sign a contract with him until I had it nearly finished since I didn’t want any contractual deadlines nagging at me. And I began to write *The Last Theorem.*
 
 
 Every writer has his own idiosyncratic way of getting the words in his head onto paper. Mine is a little unusual in two ways.
@@ -94,7 +94,7 @@ So I went up to the top deck and watched the river banks go by for a while as I 
 Still, that was not a wholly bad thing. Arthur promised to go over every page as I wrote it and to make comments as useful as he could generate them. This was a new ball game, true. But not necessarily one that I could not enjoy. So I went below for lunch, and as I was finishing my second cup of coffee the ship’s second mate handed me a new email. It was from my own New York agent, and what it said was, “If you’re actually writing *The Last Theorem,* you should stop. Clarke’s agent has canceled the deal.”
 
 
-When at last the book was finished, and revised to suit Arthur, and re-revised to suit me, and re-re-revised to suit Chris Schluep, our **Del Rey** editor, I sent Arthur an email announcing the good news and saying, “In all my books I have never encountered one with as many problems as this one. I’m pleased that it has turned out well, but I wouldn’t do it again for anything less than *War and Peace*.” For that cancellation by Arthur’s New York agent was only the first of a series of unparalleled travails.
+When at last the book was finished, and revised to suit Arthur, and re-revised to suit me, and re-re-revised to suit Chris Schluep, our [Del Rey](https://web.archive.org/web/20090123111018/http://www.randomhouse.com/delrey) editor, I sent Arthur an email announcing the good news and saying, “In all my books I have never encountered one with as many problems as this one. I’m pleased that it has turned out well, but I wouldn’t do it again for anything less than *War and Peace*.” For that cancellation by Arthur’s New York agent was only the first of a series of unparalleled travails.
 
 
 I did not take that first travail very seriously. The incident amounted to little more than a hissy-fit Arthur’s and my own New York agents had got into over the sharing of commissions and I knew that in the long run it wouldn’t stand. All the same it took a good many weeks of back-and-forth negotiating to clear it up and things kept getting worse.
@@ -130,10 +130,10 @@ I don’t know whether NASA got what it was looking for from the conference. Wha
 There were fifty or sixty invited guests, each one a headliner in some technological or scientific area, including some dear old friends like Marvin Minsky, MIT’s head man in robotics and artificial intelligence, and great new ones like the Apollo astronaut Ed Mitchell, the one who had tried to send telepathic messages from the surface of the Moon to associates back on Earth. All of them had interesting things to say. It wasn’t just the formal program that was great, either. Early on Arthur and I discovered some bicycles no one was using so we got some of the others to join us in bicycle-jousting, me pedaling while Arthur was on the handlebars fighting off the foes. (In my birthday message I asked him, “Remember when we were spry?”)
 
 
-And then, for me, there was the matter of Wernher von Braun.
+And then, for me, there was the matter of [Wernher von Braun](https://web.archive.org/web/20090123111018/http://history.msfc.nasa.gov/vonbraun/bio.html).
 
 
-For years mutual friends, mainly Willy Ley and a few other transplanted German scientists, had been trying to persuade me to make friends with von Braun. I was reluctant. I could not readily forgive him for having been an officer in the Nazi SS who used slave labor to build his rockets. True, as the title of his book said, he had always aimed at the stars, but what he had hit had been London.
+For years mutual friends, mainly [Willy Ley](https://web.archive.org/web/20090123111018/http://www.nndb.com/people/375/000083126) and a few other transplanted German scientists, had been trying to persuade me to make friends with von Braun. I was reluctant. I could not readily forgive him for having been an officer in the Nazi SS who used slave labor to build his rockets. True, as the title of his book said, he had always aimed at the stars, but what he had hit had been London.
 
 
 So von Braun and I maintained a relationship of distant acquaintance. He invited me to some major launches at the Cape, but I had never had a one-on-one conversation with him until that NASA conference. There, at the close of business one day, a bunch of us had been invited to a cookout on the far side of the island. There was a transportation problem, though. The island had a limited number of cars. Only three were available to us, with a nominal seating capacity of maybe 15, but there were already twenty-odd of us lined up and hungry. There was only one possible solution. We doubled up. So for the next half-hour or so, as we crossed the island, I had von Braun sitting in my lap and conversation was inevitable.
@@ -166,75 +166,78 @@ Because I was privileged to read the detailed and good-humored instructions Arth
 
 ### 17 Comments
 
-- David Dyer-Bennet says:
+- [David Dyer-Bennet](https://web.archive.org/web/20090123111018/http://dd-b.net/) says:
 I’m in the midst of reading Sir Arthur’s _Astounding Days_, and just stumbled across your story of collaborating with him on _The Last Theorem_, and it fit right in somehow.  I also have very fond memories of your memoir that you’ve named this blog after.
 It’s probably not an important part of the story, and you probably already know, but Fermat’s last theorem WAS finally proved in 1995.  A lot of people do think that he didn’t actually have a proof; at least the proofs we have so far are very unlikely to have been one he had (though the first one certainly would NOT fit in that margin!)
 I’ve read your entry about your right hand problems, and related typing problems, and am not expecting you to use your scarce writing time on me!
-January 19, 2009, 11:23 pm
-- File 770 » Blog Archive » Fred Pohl Arrives in the Future says:
+[**January 19, 2009, 11:23 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [File 770 » Blog Archive » Fred Pohl Arrives in the Future](https://web.archive.org/web/20090123111018/http://file770.com/?p=789) says:
 [...] of Pohl’s first posts explains how he started collaborating with Arthur C. Clarke on The Last [...]
-January 20, 2009, 12:04 am
+[**January 20, 2009, 12:04 am**](/posts/2009-01-05-sir-arthur-and-i/)
 - Daniel Boone says:
 Thanks ever so much for this bit of memoir!  A book of Arthur Clarke’s was I think the second-ever volume of science fiction to fall into my hands about thirty years ago, and it wasn’t a young volume then.  It’s good to hear he was himself to the end.
-January 20, 2009, 12:28 am
+[**January 20, 2009, 12:28 am**](/posts/2009-01-05-sir-arthur-and-i/)
 - steve baker says:
 Enjoyed many of your books over the years. Years when sci-fiction was still fantasy. Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.
-January 20, 2009, 11:13 am
+[**January 20, 2009, 11:13 am**](/posts/2009-01-05-sir-arthur-and-i/)
 - Anne Kamper says:
 Reply not expected, reading optional.  
-  You will be your last collaborator and therefor complete the
- “lethality of collaborating on a book with Fred Pohl” record.
+  You will be your last collaborator and therefor complete the  
+
+ “lethality of collaborating on a book with Fred Pohl” record.  
+
  However I beg you not to rush to this conclusion. May your body hold up for you until you are ready. Thank you for the wonderful worlds you create.
-January 20, 2009, 2:17 pm
-- You Have the Power » Blog Archive » No Recession Here, Alang Shipyard Flourishes | Market News … says:
+[**January 20, 2009, 2:17 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [You Have the Power » Blog Archive » No Recession Here, Alang Shipyard Flourishes | Market News …](https://web.archive.org/web/20090123111018/http://power.trippinpipe.com/no-recession-here-alang-shipyard-flourishes-market-news/) says:
 [...] The Way the Future Blogs » Blog Archive » Sir Arthur and I [...]
-January 20, 2009, 3:40 pm
+[**January 20, 2009, 3:40 pm**](/posts/2009-01-05-sir-arthur-and-i/)
 - Chris Norris says:
 I cannot believe my good fortune in finding this blog. To read the musings first hand of a person who was a hero to me and many others of my generation is a feeling for which I have few words. You and your fellows taught us to dream and made us thirst for creating tomorrow today.
-January 20, 2009, 5:04 pm
-- Stephen Peters says:
+[**January 20, 2009, 5:04 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [Stephen Peters](https://web.archive.org/web/20090123111018/http://poptrope.blogspot.com/) says:
 If this is indicative of what you’ll be sharing I look forward to every word. I’m certainly looking forward to hearing about your experiences with others, and even the writing process. And now I’m off to buy “The Last Theorem.”
-January 20, 2009, 6:15 pm
-- Bill Higgins-- Beam Jockey says:
+[**January 20, 2009, 6:15 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20090123111018/http://beamjockey.livejournal.com/) says:
 Steve Baker writes:
-Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.
+*Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.*
 With all due respect, Steve, I’m afraid I would stare.
-January 20, 2009, 6:59 pm
-- Jerry Wright says:
+[**January 20, 2009, 6:59 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [Jerry Wright](https://web.archive.org/web/20090123111018/http://www.bewilderingstories.com/) says:
 I just finished “The Last Theorem”, and found it delightful.  And then Boing Boing sent me to the blog!  A terrific coincidence.
-January 20, 2009, 9:34 pm
+[**January 20, 2009, 9:34 pm**](/posts/2009-01-05-sir-arthur-and-i/)
 - Simon says:
 What a remarkable occasion today has been. First, Mr Obama is in the White House, and secondly, dear old Mr Pohl is writing a blog! Your account of your final communications with Arthur C Clarke made me moist around the eyes, tempered with the joy that one of my favourite childhood authors (I think I was around 11 or 12 when I first read Gateway and have only recently had the pleasure to revisit it) is on-line to share with us. I blame you sir with corrupting me at an impressionable young age with such fanciful thoughts, and hope you accept this blame in the spirit of which it is given, lovingly and with deep appreciation. You are now in my thoughts (and my favourites list). I too am off to track down a copy of The Last Theorum.
-January 21, 2009, 2:48 am
+[**January 21, 2009, 2:48 am**](/posts/2009-01-05-sir-arthur-and-i/)
 - Bud Webster says:
 Fred, this is terrific news!  Now I can pick your brains for information online, and not have to suffer the vagaries of the USPS.
 I suspect that this is going to be a very popular blog indeed.
-January 21, 2009, 6:09 pm
+[**January 21, 2009, 6:09 pm**](/posts/2009-01-05-sir-arthur-and-i/)
 - Gardner Dozois says:
 Great to “see” you here, Fred, or whatever it is we’re doing, “wherever” it is we are.  It’s a strange world we live in, isn’t it?
 Was recently reminded that you were one of the few SF writers to predict anything even remotely like today’s internet world, in AGE OF THE PUSSYFOOT.
-January 21, 2009, 8:26 pm
-- Linkblogging for 22/01/09 « Sci-Ence! Justice Leak! says:
+[**January 21, 2009, 8:26 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [Linkblogging for 22/01/09 « Sci-Ence! Justice Leak!](https://web.archive.org/web/20090123111018/http://andrewhickey.info/2009/01/22/linkblogging-for-220109/) says:
 [...] Pohl’s started blogging. Here’s the story of his recent book, a collaboration with the late Arthur C [...]
-January 22, 2009, 1:19 pm
-- John Wright says:
+[**January 22, 2009, 1:19 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [John Wright](https://web.archive.org/web/20090123111018/http://www.sff.net/people/John-c-wright/) says:
 It is indeed a strange world we live in. A beautiful, puzzling, intricate and logically-constructed world, but a strange one. Arthur Clarke was one of the men who, in my misspent youth, first convinced me of that. He will be missed. 
 Heh. You and my lovely and talented wife have the same editor, good ol’ Jim Frenkel.
-January 22, 2009, 2:55 pm
+[**January 22, 2009, 2:55 pm**](/posts/2009-01-05-sir-arthur-and-i/)
 - Allan Maurer says:
-I loved THE WAY THE FUTURE WAS, and when I heard about your blog in Locus, looked forward to reading it. Both the Pohl/Kornbluth novels of the 1950s and your editing of Galaxy and IF, not to mention your occasional non-fiction, remain high on my list of good reads. Its as good as I expected and I hope you live another 89 years (c’mon, biotech, catch up with SF).
+I loved THE WAY THE FUTURE WAS, and when I heard about your blog in Locus, looked forward to reading it. Both the Pohl/Kornbluth novels of the 1950s and your editing of Galaxy and IF, not to mention your occasional non-fiction, remain high on my list of good reads. Its as good as I expected and I hope you live another 89 years (c’mon, biotech, catch up with SF).  
+
 You might want to try using one of the speech recognition systems to do some writing. They’re better than they used to be.
-January 22, 2009, 3:30 pm
-- Soon Lee says:
+[**January 22, 2009, 3:30 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+- [Soon Lee](https://web.archive.org/web/20090123111018/http://soon-lee.livejournal.com/) says:
 Thank you, sir, for sharing your experiences.
-January 22, 2009, 4:47 pm
+[**January 22, 2009, 4:47 pm**](/posts/2009-01-05-sir-arthur-and-i/)
 
 
 ![Feeds](feed-icon-14x14.png)
 
-**Entries (RSS)**
-**Comments (RSS)**
-**(Atom)**
+[Entries (RSS)](https://web.archive.org/web/20090123111018/http://www.thewaythefutureblogs.com/feed/)
+[Comments (RSS)](https://web.archive.org/web/20090123111018/http://www.thewaythefutureblogs.com/comments/feed/)
+[(Atom)](https://web.archive.org/web/20090123111018/http://www.thewaythefutureblogs.com/feed/atom/)
   
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090123111018/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090123111018/http://dicksmithsoftware.com/)

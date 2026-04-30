@@ -23,7 +23,7 @@ Frederik Pohl
 ![Sense of Wonder](q)
 
 
-**Sense of Wonder**  
+[Sense of Wonder](https://web.archive.org/web/20111004133811/http://www.amazon.com/gp/product/1434430790/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=1434430790)  
 
                                               A Century of Science Fiction  
 
@@ -41,15 +41,15 @@ And there is a way of overcoming the book’s typographical defects.  That is to
 
 ### 2 Comments
 
-- Swordsmith says:
+- [Swordsmith](https://web.archive.org/web/20111004133811/http://swordsmith.com/) says:
 Thanks for the kind words. There will indeed be an ebook version very shortly.
 A lot of the text is set very small - in 8 point type, though with short columns to keep it readable. The idea was to fit as many stories as possible while keeping the book inexpensive for the college students who will be its main audience. Luckily, they have 20-year-old eyes; I thought they would appreciate having a $50 textbook with small type over a $150 one with larger type. At approximately 2 million words, I think it’s the largest single-volume SF anthology out there.
 I want to thank you again for your contributions to the book, both direct (the story and blog excerpt you kindly gave permission to use) and indirect (the huge “mentoring” role that so many of the books and magazines you edited played in how I went about editing this book). I wanted to convey the relationship between writing, editing, and fandom that’s so vital to the field but tends to get left out of other SF texts.
-October 1, 2011, 2:06 pm
+[**October 1, 2011, 2:06 pm**](/posts/2011-10-01-a-wonderful-but-barely-legible-book/)
 - Megazver says:
 The suggested tags are certainly something.
 The book itself sounds great, but it does seem to cry out for a Kindle edition. Thank you.
-October 1, 2011, 5:52 pm
+[**October 1, 2011, 5:52 pm**](/posts/2011-10-01-a-wonderful-but-barely-legible-book/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111004133811/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111004133811/http://dicksmithsoftware.com/)

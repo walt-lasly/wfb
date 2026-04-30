@@ -23,14 +23,14 @@ Frederik Pohl
 {{< figure src="466181main_gulfcoast_ali_201.jpg" alt="Oil slick around Mississippi Barrier Islands (NASA E0-1 Satellite photo)." caption="Oil slick around Mississippi Barrier Islands (NASA E0-1 Satellite photo)." >}}
 
 
-Years ago, in collaboration with [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), I wrote a book on the environment called **Our Angry Earth**.  It wasn’t particularly successful.  I have to admit that it wasn’t quite as good a book as I could have wished, either.  Isaac got sick almost at the very moment we agreed to do it, and so he wasn’t able to do anywhere near as much of the writing as I had expected — to the detriment of the book.
+Years ago, in collaboration with [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), I wrote a book on the environment called [Our Angry Earth](https://web.archive.org/web/20140811004342/http://www.amazon.com/gp/product/0812520963?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0812520963).  It wasn’t particularly successful.  I have to admit that it wasn’t quite as good a book as I could have wished, either.  Isaac got sick almost at the very moment we agreed to do it, and so he wasn’t able to do anywhere near as much of the writing as I had expected — to the detriment of the book.
 
 ![Our Angry Earth](our-angry-earth.jpg)
 
 But there were several parts of the book that were all mine and had always been intended to be so.  One of those was the section that demonstrated that many of the problems associated with pollution and environmental damage were simply a matter of bad bookkeeping.
 
 
-For example. Between 1947 and 1977, General Electric dumped some 1.3 million pounds of extremely toxic polychlorinated biphenyls (PCBs), waste products from the manufacture of electronic devices in two of its factories, into the upper reaches of the Hudson River.  GE did this because, although safe disposal of the PCBs was quite possible, it would have added significantly to the manufacturing cost of the devices.  Dumping the PCBs in the river cost General Electric little more than the charge for trucking them to the river’s edge.
+For example. Between 1947 and 1977, General Electric dumped some 1.3 million pounds of extremely toxic [polychlorinated biphenyls](https://web.archive.org/web/20140811004342/http://www.atsdr.cdc.gov/tfacts17.html) (PCBs), waste products from the manufacture of electronic devices in two of its factories, into the upper reaches of the [Hudson River](https://web.archive.org/web/20140811004342/http://www.riverkeeper.org/campaigns/stop-polluters/pcbs/).  GE did this because, although safe disposal of the PCBs was quite possible, it would have added significantly to the manufacturing cost of the devices.  Dumping the PCBs in the river cost General Electric little more than the charge for trucking them to the river’s edge.
 
 
 This is not to say that there were no costs involved in the dumping.  There were many costs, and some of them were quite high.  The pollution of the river made its fish inedible, causing the cash loss of a commercial fishing industry.  The restrictions on even sport fishing meant that fewer vacationers spent their summers there, to the loss of tourism.  The health of people living nearby was compromised, at an incalculable cost.  Real estate prices dropped as the area lost some of its attractiveness.  Put them all together and there were real costs amounting to millions of dollars for the dumping.  All those costs, though, were what accountants call “externals.”
@@ -48,10 +48,10 @@ And thus, if it were common practice to make enterprises pay for their externals
 It is not only manufacturers that foist their external costs off on the public.  The extractive industries, among others, are at least equally blameworthy if not more so.  In the oil and coal industries we have only to look at the Gulf of Mexico to see what external costs British Petroleum has imposed on the nearby population.  (It is true that President Obama is forcing them to pay billions of dollars in restitution, but it is impossible to make some of the losses whole.  Even BP doesn’t have that much money.)
 
 
-And, of course, the Gulf oil spill is only one, if so far the most severe, among many such disasters.  Some of us will recall the **Exxon Valdez** back in 1989, but in fact there has been at least one major spill — “major” meaning at least tens of thousands, and all too often tens of millions, gallons of oil spilled — somewhere in the world almost every year.
+And, of course, the Gulf oil spill is only one, if so far the most severe, among many such disasters.  Some of us will recall the [Exxon Valdez](https://web.archive.org/web/20140811004342/http://www.marinij.com/opinion/ci_15574868) back in 1989, but in fact there has been at least one major spill — “major” meaning at least tens of thousands, and all too often tens of millions, gallons of oil spilled — somewhere in the world almost every year.
 
 
-Major oil spills in waterways, last five years, as supplied by Infoplease:
+Major oil spills in waterways, last five years, as supplied by [Infoplease](https://web.archive.org/web/20140811004342/http://www.infoplease.com/ipa/A0001451.html):
 
 - **2010:**  BP, *Deepwater Horizon,* Gulf of Mexico
 - **2010:**  Tanker *Eagle Otome,* Port Arthur, TX
@@ -67,7 +67,7 @@ Major oil spills in waterways, last five years, as supplied by Infoplease:
 (Before that, the list is very long.)
 
 
-All the same, it’s obvious that the costs of an oil well blowing out dwarf other oil spills.  BP’s *Deepwater Horizon’s* oil spill — so far — is estimated at over 160 million gallons.  The only other spill that came even close was the **Ixtoc**. of 1979, also in the Gulf of Mexico.  That one spilled 140 million gallons over the three months before it got stopped — by drilling a relief well next to it  And there too the party responsible for the disaster was an oil company, Mexico’s Pemex.
+All the same, it’s obvious that the costs of an oil well blowing out dwarf other oil spills.  BP’s *Deepwater Horizon’s* oil spill — so far — is estimated at over 160 million gallons.  The only other spill that came even close was the [Ixtoc](https://web.archive.org/web/20140811004342/http://www.incidentnews.gov/incident/6250). of 1979, also in the Gulf of Mexico.  That one spilled 140 million gallons over the three months before it got stopped — by drilling a relief well next to it  And there too the party responsible for the disaster was an oil company, Mexico’s Pemex.
 
 
 So much for oil.  What about coal?
@@ -94,7 +94,7 @@ It’s called politics.  If those among us who would like to see less corruption
 What do you have to do to get a little bit involved?
 
 
-You give up *Dancing with the Stars* for one evening and go to the next **League of Woman Voters**-sponsored candidates’ debate scheduled in your neighborhood.  (They’re listed in your local paper.  If you can’t find one, call up the League yourself and ask them what they’ve got.
+You give up *Dancing with the Stars* for one evening and go to the next [League of Woman Voters](https://web.archive.org/web/20140811004342/http://www.lwv.org/)-sponsored candidates’ debate scheduled in your neighborhood.  (They’re listed in your local paper.  If you can’t find one, call up the League yourself and ask them what they’ve got.
 
 
 When you see a candidate you’d like to vote for, introduce yourself and ask if he needs a volunteer to stuff envelopes or the like now and then.  Then, if later on, you decide you don’t like it, or don’t like the candidate, you can always just walk away.  It’s a free country, after all.
@@ -108,37 +108,41 @@ Those among us who don’t want to be active in politics because it’s a dirty 
 
 ### 7 Comments
 
-- Michael A. Burstein says:
+- [Michael A. Burstein](https://web.archive.org/web/20140811004342/http://www.mabfan.com/) says:
 Thank you for promoting involvement in local politics.  Nine years ago, I decided to get involved and I ran for my local Town Meeting; six years ago, I ran for Library Trustee. I still hold both positions, and I’m very proud of my involvement.
 As for the question of why we let oil and coal companies get away with so much, I will point out one problem you didn’t really touch on.  We as consumers want cheap energy, and until we convince people to support alternative energy resources, and possibly become willing to spend more on energy, the problem will continue to exist.
-July 23, 2010, 8:21 am
+[**July 23, 2010, 8:21 am**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
 - Kirk says:
 Thanks for mentioning the LWV sponsored debates.  I wasn’t aware of these, so got on the League’s email list to see when local debates might be held.
-July 23, 2010, 11:32 am
-- Stefan Jones says:
+[**July 23, 2010, 11:32 am**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
+- [Stefan Jones](https://web.archive.org/web/20140811004342/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Free market economists and manufacturers DO know how to deal with externalities.
 They ignore them, mock the people who are concerned about them, and fight tooth and nail against politicians who’d force them to pay attention to them.
-In the case of BP, they’re hiring up all the scientists who might testify against them in environmental liability suits. External costs? What’s that? Hey, look, our new commercial shows happy dolphins and manatees juggling balls to form the BP logo. See, BP really cares!
-July 23, 2010, 4:30 pm
+In the case of BP, they’re hiring up all the scientists who might testify against them in environmental liability suits. External costs? What’s that? Hey, look, our new commercial shows happy dolphins and manatees juggling balls to form the BP logo. See, BP *really cares!*
+[**July 23, 2010, 4:30 pm**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
 - Owen Glendower says:
 Well-said, sir.  We perhaps need more laws specifying “cradle to grave” responsibility for certain pollutants.  Laws like these have done much to counter the “bad bookkeeping” to which you refer.
 Another example of bad bookkeeping: Most if not all of the time, we have a naval presence in the Persian Gulf.  I doubt that all of that cost shows up in the price at the pump.
-July 28, 2010, 11:03 am
+[**July 28, 2010, 11:03 am**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
 - Tat Wood says:
 Sorry to nitpick, but referring to BP as ‘British Petroleum’ is inaccurate and unhelpful. It’s not been that since around the time of the Amoco takeover. Well over 3/4 of the staff are Americans (although they helpfully retained an imbecile with an English accent to take the flack). A British-run BP would have had a board of directors who had grown up with the aftermath of the Torrey Canyon disaster and various other Welsh and Scottish beaches devastated by oil spills and would, not to put too fine a point on it,have a clue about safety and environmental risk.
-August 7, 2010, 5:16 pm
+[**August 7, 2010, 5:16 pm**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
 - greggarious says:
-In the book, The Untold Story of Milk, I’m told about a massive deliver of dairy cow feed that contained PBB’s (whatever; another highly toxic chemical). The cows and their milk were contaminated far beyond acceptable levels, but the FDA and the Michigan state department of agriculture first underplayed, then under-managed the problem. Their main interest was to protect the big feed supplier’s corporate market share, liability and image. The contamination continued for years, with many cows sick and underproducing or dead, and many people, including the farmers and the customers for the milk, also sick or dead.
-How could the agencies responsible for containing and managing such catastrophes do such a poor job of protecting the public and the small dairy farmers? Same as with BP: the FDA and state agency policy is to in fact protect the corporate interests that pay into their campaign funds and in other ways buy their favors (that’s right, bribery).
-We in the US often see media stories of the corruption in government in developing countries. Can there be any worse corruption of government than here in the US?
-It seems a whole sub-genre of science fiction is emerging, that depicts the old premise of ‘If this (corporate dominance of politics) continues.’ Paulo Bacibalupi’s Windup Girl winning awards is a sure sign of recognition for this sub-genre. Not so much post-apocalyptic, as post-total corporate dominance of the world.
+In the book, The Untold Story of Milk, I’m told about a massive deliver of dairy cow feed that contained PBB’s (whatever; another highly toxic chemical). The cows and their milk were contaminated far beyond acceptable levels, but the FDA and the Michigan state department of agriculture first underplayed, then under-managed the problem. Their main interest was to protect the big feed supplier’s corporate market share, liability and image. The contamination continued for years, with many cows sick and underproducing or dead, and many people, including the farmers and the customers for the milk, also sick or dead.  
+
+How could the agencies responsible for containing and managing such catastrophes do such a poor job of protecting the public and the small dairy farmers? Same as with BP: the FDA and state agency policy is to in fact protect the corporate interests that pay into their campaign funds and in other ways buy their favors (that’s right, bribery).  
+
+We in the US often see media stories of the corruption in government in developing countries. Can there be any worse corruption of government than here in the US?  
+
+It seems a whole sub-genre of science fiction is emerging, that depicts the old premise of ‘If this (corporate dominance of politics) continues.’ Paulo Bacibalupi’s Windup Girl winning awards is a sure sign of recognition for this sub-genre. Not so much post-apocalyptic, as post-total corporate dominance of the world.  
+
 The true stories beneath the thin media crust are all around us and worsening. Molly Ivins ascribed to the cockroach theory: for every one crawling around out in the open, there are a hundred hiding in the wall. The BP spill is a drop in the bucket.
-August 8, 2010, 10:54 pm
-- Anton Sherwood says:
+[**August 8, 2010, 10:54 pm**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
+- [Anton Sherwood](https://web.archive.org/web/20140811004342/http://ogre.nu/) says:
 Once upon a time (so I’ve heard), someone successfully sued a manufacturer for externalizing into a river; whereupon Congress, horrified that anyone other than itself should presume to stand in the way of Progress, forbade private lawsuits for pollution.
 Environmental regulation since then has been patches on patches, to mitigate that key blunder.
 Liability for oil spills is legislatively capped at some absurdly low figure.  Of course no one (but an economist, and who listens to them?) could ever have predicted that such legislation might affect the behavior of oil companies.
-August 9, 2010, 1:15 pm
+[**August 9, 2010, 1:15 pm**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20140811004342/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20140811004342/http://dicksmithsoftware.com/)

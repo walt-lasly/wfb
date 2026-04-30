@@ -37,20 +37,20 @@ We do apologize for forgetting to announce the winners of the [**drawing**](/pos
 
 - Mike Goldberg says:
 Thanks, Fred!
-June 18, 2011, 8:11 am
+[**June 18, 2011, 8:11 am**](/posts/2011-06-18-and-the-winners-are/)
 - David Ratnasabapathy says:
 Oh well.  Congratulations, winners!
-I console myself with the Frederik Pohl bundles available at Baen Webscriptions.  Thanks for putting them up!
-June 18, 2011, 2:03 pm
-- Chris says:
+I console myself with the Frederik Pohl bundles available at [Baen Webscriptions.](https://web.archive.org/web/20170707092547/http://www.webscription.net/s-238-frederik-pohl.aspx)  Thanks for putting them up!
+[**June 18, 2011, 2:03 pm**](/posts/2011-06-18-and-the-winners-are/)
+- [Chris](https://web.archive.org/web/20170707092547/http://www.lahatte.blogspot.com/) says:
 Thank you very much!
-June 19, 2011, 12:26 am
+[**June 19, 2011, 12:26 am**](/posts/2011-06-18-and-the-winners-are/)
 - Mike Goldberg says:
 Oops! What I really meant to say was: thanks to everyone involved, especially to Elizabeth Anne Hull, the book’s editor.
-June 19, 2011, 5:48 am
-- Bjorn says:
+[**June 19, 2011, 5:48 am**](/posts/2011-06-18-and-the-winners-are/)
+- [Bjorn](https://web.archive.org/web/20170707092547/http://www.undo.com/bjorn) says:
 Thank you! So looking forward to this!
-June 19, 2011, 8:17 am
+[**June 19, 2011, 8:17 am**](/posts/2011-06-18-and-the-winners-are/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707092547/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707092547/http://dicksmithsoftware.com/)

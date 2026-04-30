@@ -25,5 +25,5 @@ Frederik Pohl
 **“Against other things it is possible to obtain security, but when it comes to death we human beings all live in an unwalled city.”
 —Epicurus**
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111105153203/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111105153203/http://dicksmithsoftware.com/)

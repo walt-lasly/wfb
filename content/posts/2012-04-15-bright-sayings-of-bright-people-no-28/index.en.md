@@ -30,10 +30,10 @@ Frederik Pohl
 
 - Henning Andersen says:
 You have to know the past, if you want to understand the present in order to make plans for the future
-April 15, 2012, 10:58 am
-- Larry Kollar says:
+[**April 15, 2012, 10:58 am**](/posts/2012-04-15-bright-sayings-of-bright-people-no-28/)
+- [Larry Kollar](https://web.archive.org/web/20120508222603/http://farmanor.blogspot.com/) says:
 I’ve adopted Carole King’s “These are the good old days” as my own watchphrase.
-April 17, 2012, 9:21 pm
+[**April 17, 2012, 9:21 pm**](/posts/2012-04-15-bright-sayings-of-bright-people-no-28/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20120508222603/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20120508222603/http://dicksmithsoftware.com/)

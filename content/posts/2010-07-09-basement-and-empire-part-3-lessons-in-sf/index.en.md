@@ -21,10 +21,10 @@ Frederik Pohl
 
 ![Wonder Stories, April 1933](wonder_stories_193304.jpg)
 
-I don’t know what kind of a writer I would have been if I hadn’t met Dirk Wylie and, through him and with him, the whole world of science-fiction fandom. Much the same, I imagine. I almost certainly would have been some kind of a writer — I’m hardly fit for anything else. And I had been trying to write sf at least a year before I met Dirk, in idle moments in classes in the eighth grade. But it would have taken a lot longer.
+I don’t know what kind of a writer I would have been if I hadn’t met [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/) and, through him and with him, the whole world of science-fiction fandom. Much the same, I imagine. I almost certainly would have been some kind of a writer — I’m hardly fit for anything else. And I had been trying to write sf at least a year before I met Dirk, in idle moments in classes in the eighth grade. But it would have taken a lot longer.
 
 
-I owe a lot to fandom. From Don Wollheim, John Michel, Doc Lowndes — and later from Cyril Kornbluth, Dick Wilson, Isaac Asimov and others — I learned something about what they were learning about writing; we all showed each other our stories, when we weren’t actually collaborating on them. In the fan mags, I acquired the skills necessary to prepare something for public viewing — and the courage to permit it.
+I owe a lot to fandom. From [Don Wollheim](https://web.archive.org/web/20110922133749/http://www.gcwillick.com/Spacelight/wollheim.html), [John Michel](https://web.archive.org/web/20110922133749/http://fancyclopedia.editme.com/MICHELIS), [**Doc Lowndes**](/posts/2009-05-08-the-quadrumvirate/) — and later from [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), [Dick Wilson](https://web.archive.org/web/20110922133749/http://www.juggle.com/richard-wilson), [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and others — I learned something about what they were learning about writing; we all showed each other our stories, when we weren’t actually collaborating on them. In the fan mags, I acquired the skills necessary to prepare something for public viewing — and the courage to permit it.
 
 
 What I am not as sure of is whether all the things we learned then were worth learning.
@@ -57,7 +57,7 @@ Nobody else was telling us about these things, either. A decade or two later sci
 And truthfully we weren’t looking for threats. We were looking for beauty and challenge. When we couldn’t find them on Earth, we looked outside for prettier, more satisfying places. Mars. Venus. The made-up planets of invented stars somewhere off in the middle of the galaxy, or in galaxies farther away still.
 
 
-I think we all believed as an article of faith that there were other intelligent races in the universe than our own, plenty of them. (I still believe it! What puzzles me is why we haven’t seen any of them as visitors. I wish I could swallow the flying-saucer stories — I can’t; the evidence just isn’t good. But the absence of hard facts hasn’t shaken my faith that **Osnomians and Fenachrone** are out there *somewhere*.) If polled, I am sure we would have agreed that wherever there’s a planet, there’s life — or used to be, or will be.
+I think we all believed as an article of faith that there were other intelligent races in the universe than our own, plenty of them. (I still believe it! What puzzles me is why we haven’t seen any of them as visitors. I wish I could swallow the flying-saucer stories — I can’t; the evidence just isn’t good. But the absence of hard facts hasn’t shaken my faith that [Osnomians and Fenachrone](https://web.archive.org/web/20110922133749/http://manybooks.net/titles/smithee2086920869-8.html) are out there *somewhere*.) If polled, I am sure we would have agreed that wherever there’s a planet, there’s life — or used to be, or will be.
 
 
 Now, alas, we know that the odds are not as good as we had hoped, especially for our own solar system. The local real estate is pretty low quality. Mercury is too hot and has too little air; Venus is too hot and has too much, and poisonous at that. Mars is still a possibility, but not by any means a good one — and what else is there? But in the mid-thirties we didn’t know as much as we do now. The big telescopes hadn’t yet been completed, and of course no spaceship had yet brought a TV camera to Mars or the Moon.
@@ -86,16 +86,16 @@ But we believed.
 
 ### 2 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20110922133749/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 It’s kind of sad that now-a-days that the young folk have no somewhat-realistic “out there” to look forward to.
 Tropes of the pulps, like flying cars and robot servants, are  for the most part ironic jokes today.
 Some folks look forward to The Singularity, but that seems more and more like a messianic impulse.
-July 9, 2010, 1:55 pm
+[**July 9, 2010, 1:55 pm**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
 - Beka C. says:
-Mercury is too hot and has too little air; Venus is too hot and has too much, and poisonous at that.
+*Mercury is too hot and has too little air; Venus is too hot and has too much, and poisonous at that.*
 Ooo, but think of the possibilities of life that THRIVES in those environments!  I refuse to believe that the kind of life we recognise on Earth is the only kind of life possible in the universe.
 Other life is out there, somewhere.  Maybe they’re debating whether or not we exist, too.
-July 11, 2010, 2:09 pm
+[**July 11, 2010, 2:09 pm**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20110922133749/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20110922133749/http://dicksmithsoftware.com/)

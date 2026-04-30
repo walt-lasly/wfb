@@ -28,21 +28,21 @@ Frederik Pohl
 
 ### 5 Comments
 
-- Matt says:
+- [Matt](https://web.archive.org/web/20130128063339/http://www.ofinteresttome.com/) says:
 One of my favourite quotes.
-November 26, 2012, 10:41 am
-- Aleks says:
+[**November 26, 2012, 10:41 am**](/posts/2012-11-25-bright-sayings-of-bright-people-no-37/)
+- [Aleks](https://web.archive.org/web/20130128063339/http://fantlab.ru/) says:
 Happy bithday, Mr Pohl!
-November 26, 2012, 1:15 pm
+[**November 26, 2012, 1:15 pm**](/posts/2012-11-25-bright-sayings-of-bright-people-no-37/)
 - Fyodor says:
 Dear Mr Pohl! With all my heart I wish you many happy returns of the day! Thank you very much for brilliant, highly intelligent and fascinating stories you give us!
-November 28, 2012, 3:15 am
-- Andrii says:
+[**November 28, 2012, 3:15 am**](/posts/2012-11-25-bright-sayings-of-bright-people-no-37/)
+- [Andrii](https://web.archive.org/web/20130128063339/http://trytolearnmore.com/) says:
 Religion is all about perception. People want to believe what they want to believe.
-November 28, 2012, 1:15 pm
+[**November 28, 2012, 1:15 pm**](/posts/2012-11-25-bright-sayings-of-bright-people-no-37/)
 - Jay Borcherding says:
 A fine one-liner.  And honestly, even a casual perusal of, say, Leviticus, bears out the truth of the observation.
-November 28, 2012, 11:56 pm
+[**November 28, 2012, 11:56 pm**](/posts/2012-11-25-bright-sayings-of-bright-people-no-37/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20130128063339/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20130128063339/http://dicksmithsoftware.com/)

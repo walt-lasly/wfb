@@ -20,14 +20,14 @@ Frederik Pohl
 ## How Much of a FAVOR Can You Afford to Do Me?
 
 
-Some good friends and blog people have been telling me that, while they’re all totally on my side in my struggle with the forces of evil, they made up their minds long ago, and they wish I would stop talking about those hateful libels and lies.  I am proud and happy to tell you that — with your help — I may have found a real way of accomplishing that.
+Some good friends and blog people have been telling me that, while they’re all totally on my side in my struggle with the [**forces of evil**](/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/), they made up their minds long ago, and they wish I would stop talking about those hateful libels and lies.  I am proud and happy to tell you that — with your help — I may have found a real way of accomplishing that.
 
 
 It isn’t hard, either.  It takes just two actions, one by you and one by me.
 
 ![The Way the Future Was](twtfwsm-177x300.jpg)
 
-Part One, my part, is the part that’s not  exactly easy because it’s going to take a lot of work from me, but I’ve already started it. That is to prepare a new edition of **The Way the Future Was**  to clear up a lot of the parts that were unclear in the first edition.  The reason they were unclear was that, although I did my best to Tell All about my own actions, even the ones I wished I hadn’t done, there were parts where I couldn’t Tell All about me without Also Telling All about some other person, and that I wasn’t ready to do.
+Part One, my part, is the part that’s not  exactly easy because it’s going to take a lot of work from me, but I’ve already started it. That is to prepare a new edition of [The Way the Future Was](https://web.archive.org/web/20150912131755/http://www.amazon.com/gp/product/0345260597?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345260597)  to clear up a lot of the parts that were unclear in the first edition.  The reason they were unclear was that, although I did my best to Tell All about my own actions, even the ones I wished I hadn’t done, there were parts where I couldn’t Tell All about me without Also Telling All about some other person, and that I wasn’t ready to do.
 
 
 Please understand me.  I’m not going to tell about who was sleeping with whom for the sake of sexual excitement but things like why it was that one famous author pulled a gun on me and aimed it at my face, after which we wound up in a fist fight. And things like that.
@@ -43,121 +43,129 @@ What I am asking you to do is, whenever you attend a party, a con or whatever an
 Can you do that for me?
 
 
-I know it would cost you money to buy a copy if you don’t have one already. But it would make it possible for me to get off this distasteful subject.  Please.
+I know it would cost you money to [buy a copy](https://web.archive.org/web/20150912131755/http://www.amazon.com/gp/product/0765326620?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765326620) if you don’t have one already. But it would make it possible for me to get off this distasteful subject.  Please.
 
 
 ### 28 Comments
 
 - Scott Hauger says:
-Its a deal
+Its a deal  
+
 Scott
-December 3, 2010, 12:58 am
-- Bill Goodwin says:
+[**December 3, 2010, 12:58 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Bill Goodwin](https://web.archive.org/web/20150912131755/http://771715/) says:
 Done.  With pleasure.
-December 3, 2010, 1:07 am
-- Ralan says:
+[**December 3, 2010, 1:07 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Ralan](https://web.archive.org/web/20150912131755/http://www.ralan.com/) says:
 It’s a deal! I’ve placed Gateways on my holiday wish list. If no one gives me a copy, I’ll buy it myself right after the holiday. Looking forward to reading it and learning who that gun-totting writer was.
-December 3, 2010, 4:48 am
+[**December 3, 2010, 4:48 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Pat says:
 I never see anyone in SF in real life but if I ever see someone dissing you on the internet I will calmly correct them. If I could buy a Gateways I would. I dont think they are available on this side of the pond yet.
 Are threats with guns followed by punch-ups common in the US? I’ll definitely buy the new autobiography with those sort of addenda.
-December 3, 2010, 7:41 am
-- TK Kenyon says:
+[**December 3, 2010, 7:41 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [TK Kenyon](https://web.archive.org/web/20150912131755/http://www.tkkenyon.com/) says:
 Will do. 
 Would have done anyway. 
 Looking forward to the new, expanded edition of TWTFW, too. 
 TK Kenyon
-December 3, 2010, 8:00 am
-- Mike Ransom says:
+[**December 3, 2010, 8:00 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Mike Ransom](https://web.archive.org/web/20150912131755/http://tulsatvmemories.com/) says:
 I just added “Gateways” to my Amazon wish list for Christmas. I’m looking forward to the new TWTFW, too. TWTFB is my favorite blog.
-December 3, 2010, 9:10 am
+[**December 3, 2010, 9:10 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Ken says:
 Excellent plan Fred, I look forward to that new edition of The Way the Future Was. As soon as I am done writing this I am going to sew a bigger back pocket on my jeans so I can instantly whip out my copy of Gateways and refute the forces of evil!
 Ken
-December 3, 2010, 9:17 am
+[**December 3, 2010, 9:17 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Jim Braiden says:
 Dear Mr.Pohl,
-It’s said that you can judge a man not just by his friends but by his enemies.
-From what I have read here it would appear that you are  a winner on both fronts.
+It’s said that you can judge a man not just by his friends but by his enemies.  
+
+From what I have read here it would appear that you are  a winner on both fronts.  
+
 I have ordered my copy of Gateways and look forward to the new edition of TWTFW- it can sit on the shelf beside my old edition which I bought at Seacon back in 1979 and which you were kind enough to sign for me.
 Jim Braiden
-December 3, 2010, 10:00 am
+[**December 3, 2010, 10:00 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Ross Presser says:
 But nobody ever invites me to parties.
-December 3, 2010, 10:43 am
+[**December 3, 2010, 10:43 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Taint says:
 Well, I read Judith’s memoir of the incident about the gun in your face, and I must say, while it did leave my jaw dropped a bit, it pales to the other wild & crazy story about SF authors & guns – Harlan Ellison & Ted White & “The Bet.”  I think that’s when the Ellison fan in me finally died.
-December 3, 2010, 1:39 pm
+[**December 3, 2010, 1:39 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - john miller says:
 I think it is a measure of you as an author and a man that your fans cannot understand why a giant would be concerned about a flea.
 So, having given the offensive flea a swat and a scratch, please divert your attention back to those of us who appreciate you for what you are, as opposed to those who vilify you for what you are not.
-December 3, 2010, 2:22 pm
-- J. says:
+[**December 3, 2010, 2:22 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [J.](https://web.archive.org/web/20150912131755/http://betweendrafts.com/) says:
 Wilco.
-December 3, 2010, 6:24 pm
+[**December 3, 2010, 6:24 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - John N says:
 “Gateways” is in my cart.  Also looking forward to the new edition — which will sit next to the various books you graciously signed for me in Chicago in 1998.
 … I can think of one famous science fiction author who is quite capable of that behavior.  Whoever it was, I hope you made him regret it!
-December 3, 2010, 9:23 pm
+[**December 3, 2010, 9:23 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Tracey C. says:
 Done, and with pleasure, although I do wish that your creative energies were able to be put to better use than having to answer falsehoods and libels about your life from some hack.
-December 3, 2010, 10:29 pm
+[**December 3, 2010, 10:29 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Jo Walton says:
 I own GATEWAYS but it’s a hefty hardcover and it would slow me down considerably to carry it around all the time just in case I need it to refute idiots. Can I just cite it if necessary? And I doubt it will be necessary, because I doubt many people are going to pay attention to that idiot and his libels. I was at SFContario a couple of weeks ago, and the only conversations I was in concerning you were all about how delighted we were you’d won the Fanwriter Hugo and how much we like this blog.
-December 4, 2010, 8:00 am
-- Alan Robson says:
+[**December 4, 2010, 8:00 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Alan Robson](https://web.archive.org/web/20150912131755/http://tyke.net.nz/) says:
 I thoroughly enjoyed reading “Gateways” and I’ve enjoyed reading your many novels, stories and memoires as well. I’ll be happy and proud to keep my part of this bargain.
-December 4, 2010, 1:16 pm
+[**December 4, 2010, 1:16 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Tina Black says:
 Fred, I don’t think I have ever heard anyone say anything negative about you, no less libelous.  Ah, the innocence of living in the midwest and staying away from SMOFdom.
-December 4, 2010, 1:39 pm
-- Joe Iriarte says:
+[**December 4, 2010, 1:39 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Joe Iriarte](https://web.archive.org/web/20150912131755/http://joeicarus.blogspot.com/) says:
 It’s added to my Amazon wishlist. It might be a few weeks before I can buy it, but I will. I look forward to reading it. 
-December 4, 2010, 7:31 pm
+[**December 4, 2010, 7:31 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - grs1961 says:
 Right – get “Gateways”, and, when it comes out, get new edition of “The Way the Future Was.”
 Hmm, probably should get a of “Better to Have Loved: The Life of Judith Merril” (if I can find a copy) to bookend the ancient copy of TWTFW!
-December 4, 2010, 9:02 pm
-- Stefan Jones says:
+[**December 4, 2010, 9:02 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Stefan Jones](https://web.archive.org/web/20150912131755/http://www.flickr.com/photos/stefan_e_jones/) says:
 Just ordered “Gateways” and the Jack Vance tribute anthology. They will be me Christmas vacation reading.
-December 5, 2010, 12:02 am
-- Bill Goodwin says:
-A glitch
-in the dark
-An itch
-and a bark
-But Rich?
+[**December 5, 2010, 12:02 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Bill Goodwin](https://web.archive.org/web/20150912131755/http://771715/) says:
+A glitch  
+
+in the dark  
+
+An itch  
+
+and a bark  
+
+But Rich?  
+
 No, not Mark
-December 5, 2010, 2:44 am
+[**December 5, 2010, 2:44 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Il says:
-Why should what \"reputable people\" say be an argument? It\’s a fallacy (appeal to authority: see http://en.wikipedia.org/wiki/Appeal_to_authority). Frankly, I\’m starting to feel your treatment of this matter (such as asking people to buy a book and repeat what they do not personally know much about) is slightly distasteful. Nobody ever had any reason to believe what Mark Rich wrote (and I still don\’t), but it\’s becoming increasingly obvious you do have some unseemly characteristics.
-December 5, 2010, 6:23 am
+Why should what \"reputable people\" say be an argument? It\’s a fallacy (appeal to authority: see [http://en.wikipedia.org/wiki/Appeal_to_authority](https://web.archive.org/web/20150912131755/http://en.wikipedia.org/wiki/Appeal_to_authority)). Frankly, I\’m starting to feel your treatment of this matter (such as asking people to buy a book and repeat what they do not personally know much about) is slightly distasteful. Nobody ever had any reason to believe what Mark Rich wrote (and I still don\’t), but it\’s becoming increasingly obvious you do have some unseemly characteristics.
+[**December 5, 2010, 6:23 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Tim Bartik says:
 I disagree with the previous poster’s tone. No, Fred Pohl has no obligation to provide a detailed critique of Mark Rich’s book. I can quite understand why he may feel he does not have the time or energy needed to do so. There is nothing “unseemly” about Pohl not providing this detailed critique.
 I still find it very strange that Mr. Rich did not interview Mr. Pohl for his biography. It seems to me that this failure to interview Mr. Pohl must cast some serious doubt on the biography’s credibility.
 However, I still think that if you REALLY want to set the historical record straight, someone in the Pohl camp should make a list of what they see as the 10 most important  errors in Rich’s book, and correct these errors. That is, on p. x , Rich says the following, but this is wrong, and the truth is this.
 I don’t think a new edition of TWTFW substitutes for this critique.
-December 6, 2010, 12:24 pm
+[**December 6, 2010, 12:24 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - Carl Glover says:
 For the record, I have not read Mark Rich’s book and thus have no opinion about the accuracy of anything contained therein.  I have no personal knowledge of any of the events or individuals involved.
 But, since Mr. Pohl has chosen to question some of Rich’s assertions, it is incumbent upon him to provide evidence to the contrary.  One cannot simply say, “This is not true,” and leave it at that.  As I understand libel law, the burden of proof rests with the plaintiff in such cases.  A point-by-point refutation is the minimum legal requirement.  I agree that, for his present purposes, Mr. Pohl has no obligation to present such evidence.  His blog is not a legal document and his readers are not the jury.  Nevertheless, I, for one, would like to see him come forward with more of a defense than he has provided thus far.  Failing to do so simply leaves too much room for  doubt as to his own personal veracity. 
 Understand that I am taking no one’s side in this matter.  I have no personal axe to grind.  But, because I have enjoyed some of Mr. Pohl’s stories does not automatically make me rise to his defense, as appears to be true for a number of responders here.  This is precisely the sort of “proof” which is sure to lose a libel case.  In the event, I would advise Mr. Pohl to either file such a lawsuit or drop the issue.  As it stands, his pleas for others to take up his banner is unworthy of him, and, indeed, rather embarrassing.
-December 7, 2010, 8:18 am
-- Mike Ransom says:
+[**December 7, 2010, 8:18 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Mike Ransom](https://web.archive.org/web/20150912131755/http://tulsatvmemories.com/) says:
 Relax, Il and Carl. Mr. Pohl has already promised to discuss these issues in more detail. If you don’t like what he says, you can then revisit your concerns about Appeal to Authority and libel law.
-December 8, 2010, 3:05 am
+[**December 8, 2010, 3:05 am**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - barbara (kitten) says:
 I have the first edition of TWTFW and am looking forward to the new edition.  Brought “better to have loved” home from Torcon 3.  and got Gateways for my Kindle while i was at Windycon 2010.
 As for Rich, F*ck him if he can’t take a joke…just forget about him…he isn’t worth your time.
 *hugs*
-December 8, 2010, 3:51 pm
+[**December 8, 2010, 3:51 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 - John J. Pierce says:
 Don’t get out to parties and stuff much, especially right now, as I am laid up with a busted shoulder from a hit-and-run accident. And I hadn’t even know about the GATEWAYS anthology, but now that I do, I’ll get it.
 One bit of fodder for your autobio: I confirmed a couple of years ago that Lester del Rey really was Leonard Knapp. I found him as a child in the 1920 census (no del Reys in the area), and also found an obit for another member of the family. I talked briefly to a younger sister, who said he’d hated growing up in a poor family and was desperate to get away. He wasn’t nice to them, but under his new identity he was nice to me and a lot of other people.
-December 14, 2010, 8:18 pm
-- Cliff Winnig says:
+[**December 14, 2010, 8:18 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
+- [Cliff Winnig](https://web.archive.org/web/20150912131755/http://cliffwinnig.com/) says:
 Absolutely!  I already have my copy of Gateways, and I’m happy to show it off as needed.  In addition to all the nice things folks have said about you in Gateways, I will continue to tell stories about how nice you were whenever I met you at WorldCons and other conventions.
-December 21, 2010, 6:07 pm
+[**December 21, 2010, 6:07 pm**](/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20150912131755/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20150912131755/http://dicksmithsoftware.com/)

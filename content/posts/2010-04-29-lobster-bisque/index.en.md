@@ -33,5 +33,5 @@ What’s left on the table is a mass of what look like lobster intestines still 
 
 Oh, I bet it does, but, you know, I’m not as hungry as I thought I was.  I’ll just have the small green salad.
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20100501005952/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20100501005952/http://dicksmithsoftware.com/)

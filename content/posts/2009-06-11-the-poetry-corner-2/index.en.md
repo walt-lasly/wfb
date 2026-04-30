@@ -45,25 +45,25 @@ And stinky little pants.
 {{< /poem >}}
 
 
-**Related posts**
+[Related posts](https://web.archive.org/web/20090821145736/http://www.thewaythefutureblogs.com/tag/poetry/)
 
 
 ### 4 Comments
 
-- Shakatany says:
+- [Shakatany](https://web.archive.org/web/20090821145736/http://shakatany.livejournal.com/) says:
 aureuscid????
-June 11, 2009, 9:39 am
-- Stefan Jones says:
+[**June 11, 2009, 9:39 am**](/posts/2009-06-11-the-poetry-corner-2/)
+- [Stefan Jones](https://web.archive.org/web/20090821145736/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) says:
 I love the Gym Class piece. It makes me think of Daniel Pinkwater’s nutty kids’ fiction.
 I presume that it is copyright . . . is there a place to ask permission to use it?
-June 11, 2009, 12:08 pm
+[**June 11, 2009, 12:08 pm**](/posts/2009-06-11-the-poetry-corner-2/)
 - Bud Webster says:
 I am SO glad you guys didn’t stop there.
-June 15, 2009, 2:54 am
+[**June 15, 2009, 2:54 am**](/posts/2009-06-11-the-poetry-corner-2/)
 - Gary Farber says:
 “the first from the smallest fanzine ever published”
 Bob Tucker used to publish a postcard fanzine.
-July 7, 2009, 11:12 am
+[**July 7, 2009, 11:12 am**](/posts/2009-06-11-the-poetry-corner-2/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090821145736/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090821145736/http://dicksmithsoftware.com/)

@@ -26,10 +26,10 @@ I don’t want to give you the impression that all my lecture subjects came from
 {{< figure src="mcconnell2-110x150.jpg" alt="James V. McConnell" caption="James V. McConnell" >}}
 
 
-The planarian worms were the province of **Dr. James V. McConnell** of the psychology department of the University of Michigan. They weren’t much to look at — tiny, thin, the color of milk — but the important thing about planarians (about *Dugesia dorotocephala*, if you’d like a formal introduction) was that, although they were pretty dumb even as worms in general go, they were not totally ineducable.
+The planarian worms were the province of [Dr. James V. McConnell](https://web.archive.org/web/20090722100831/http://www.goodreads.com/author/show/279827.James_V_McConnell) of the psychology department of the University of Michigan. They weren’t much to look at — tiny, thin, the color of milk — but the important thing about planarians (about *Dugesia dorotocephala*, if you’d like a formal introduction) was that, although they were pretty dumb even as worms in general go, they were not totally ineducable.
 
 
-Given an experimenter with a significant amount of patience they could be trained to acquire a Pavlovian conditioned reflex to certain kinds of stimuli, and Jim McConnell had that patience. Other factors that made planarians attractive research animals included the facts that they were easy to raise and not at all  cuddly, so they didn’t have the legions of defenders of, say, gerbils or bunnies. They were also pretty cheap, all of which qualities added up to the fact that McConnell had large quantities of the creatures to experiment on.
+Given an experimenter with a significant amount of patience they could be trained to acquire a Pavlovian conditioned reflex to certain kinds of stimuli, and Jim McConnell had that patience. Other factors that made planarians attractive research animals included the facts that they were easy to raise and not at all  cuddly, so they didn’t have the [legions of defenders](https://web.archive.org/web/20090722100831/http://www.planarianman.com/whos-who/) of, say, gerbils or bunnies. They were also pretty cheap, all of which qualities added up to the fact that McConnell had large quantities of the creatures to experiment on.
 
 
 And he did in fact experiment, in many ways, employing large numbers of  planarians. One series of experiments — don’t ask me how he got on to this train of thought, because I don’t know — produced some quite curious results. It goes like this:
@@ -47,10 +47,10 @@ You might imagine that even a planarian worm could have objections to cannibalis
 Both WELL-FEDs and CONTROLs learned to do their assigned reflexes as they were supposed to, but there was a difference. The WELL-FEDs learned faster. They acquired their new reflexes after significantly fewer repetitions than the CONTROLs. To Dr. McConnell that could mean only one thing. Some learning was being passed along through the digestive system. Part of what the WELL-FEDs “knew” came not from what they had been taught but from what they had had to eat.
 
 
-As you can imagine, I had a lot of fun with that idea, particularly with college audiences and especially when senior members of the faculty were right there in the room — and in particular when they were old friends like Jack Williamson. I got a lot of mileage out of those dim-witted little creatures. (By which, of course, I mean to refer to the planarian worms.) Sadly it has begun to seem that the effects McConnell (and I) described may have been illusory, because when other experimenters tried to replicate his results they failed.
+As you can imagine, I had a lot of fun with that idea, particularly with college audiences and especially when senior members of the faculty were right there in the room — and in particular when they were old friends like [Jack Williamson](https://web.archive.org/web/20090722100831/http://www.nytimes.com/1993/07/09/obituaries/t-d-clareson-66-a-leading-scholar-on-science-fiction.html). I got a lot of mileage out of those dim-witted little creatures. (By which, of course, I mean to refer to the planarian worms.) Sadly it has begun to seem that the effects McConnell (and I) described may have been illusory, because when other experimenters tried to replicate his results they failed.
 
 
-That’s not to say that no one took McConnell’s work seriously, though. There was at least one person who evidently did, and that was a troubled recluse by the name of Theodore Kaczynski, better known to American history as the “Unabomber.” Apparently Kaczynski didn’t care for what McConnell was doing with the planarians, because he sent one of his bombs McConnell’s way. It didn’t kill anyone, but the noise of the explosion left McConnell partially deaf for the rest of his life,
+That’s not to say that no one took McConnell’s work seriously, though. There was at least one person who evidently did, and that was a troubled recluse by the name of Theodore Kaczynski, better known to American history as the “[Unabomber](https://web.archive.org/web/20090722100831/http://www.fbi.gov/page2/april08/unabomber_042408.html).” Apparently Kaczynski didn’t care for what McConnell was doing with the planarians, because he sent one of his bombs McConnell’s way. It didn’t kill anyone, but the noise of the explosion left McConnell partially deaf for the rest of his life,
 
 
 But by then I had moved on to other subjects anyway, because a generous Providence had dropped in my lap a whole new comedic (and serious) topic to talk about.
@@ -58,18 +58,18 @@ But by then I had moved on to other subjects anyway, because a generous Providen
 
 ### 4 Comments
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20090722100831/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) says:
 Larry Niven used the “memory RNA” notion in one of his better stories. “The Fourth Profession” I believe.
-May 21, 2009, 3:18 pm
-- Marc says:
+[**May 21, 2009, 3:18 pm**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
+- [Marc](https://web.archive.org/web/20090722100831/http://plato.stanford.edu/entries/ockham/) says:
 Memory RNA and its possible uses is a beautiful concept. Sadly? it ‘seems’ Ockham’s razor (my favour law, which I use daily with great glee) triumphs again. Ironically Ockham’s “Theory of knowledge” touched remarkably close to memory RNA back in medieval times.
-May 23, 2009, 6:54 am
+[**May 23, 2009, 6:54 am**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 - Nix says:
 Maybe Niven used it in _The Fourth Profession_ (transferrable memory yes, not sure about memory RNA, and I’m fairly sure that can’t give you the ability to do miracles), but memory RNA was *definitely* used in  _Rammer_, which became the first part of _A World Out Of Time_. Definitely one of Niven’s better works, gave me sensawunda like nothing he’d done since _Ringworld_.
-May 23, 2009, 4:32 pm
+[**May 23, 2009, 4:32 pm**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 - Bruce says:
 I hadn’t thought about planaria since my biology course in high school. At first I thought “The Planarians” was a parody science fiction fan club… Back on topic: it’s too bad learning by eating didn’t pan out. That whole concept struck me as a little “off” when I heard about it, but it would’ve been so convenient to rationalize some ancient human traditions about gaining the power of your prey by eating it.
-May 25, 2009, 6:15 am
+[**May 25, 2009, 6:15 am**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090722100831/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090722100831/http://dicksmithsoftware.com/)

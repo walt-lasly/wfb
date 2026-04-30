@@ -50,74 +50,80 @@ And listen, this isn’t a plea for sympathy. Hey, I’m 89 years old. That mean
 I don’t expect you to write back; I don’t even expect you to remember me.  But quite aside from all your work–that has been an enduring pleasure to me for decades now–you are special in my memory for a small, simple act over 20 years ago.
 It was WindyCon, 1985.  I’d recently been dumped by my then-flame of five years, and was less than festive while celebrating my birthday.  I’d been invited into the author’s party, and when you were pointed out to me, I was motivated by some strange whim to come over, introduce myself to you, and ask if you’d care to have a birthday shot with me.  I had no expectation that you’d do any such thing; instead, you graciously considered the offer, and commented, “I believe I will.  I haven’t had a shot for quite some time.”  And you did.
 I still cherish that memory.  Such a little thing, overall; yet it was a kindness, a consideration, that meant very much to me at that time, and still does.  I simply wish to thank you again, and let you know I will never forget it.
-January 19, 2009, 5:53 pm
-- Stefan Jones says:
+[**January 19, 2009, 5:53 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [Stefan Jones](https://web.archive.org/web/20090125012821/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) says:
 I would be satisfied if this blog consisted of nothing but the working drafts of pieces which would go into a new version of “The Way the Future Was.” 
 Anything else would be gravy.
-January 19, 2009, 10:38 pm
+[**January 19, 2009, 10:38 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - NelC says:
 Have you tried voice recognition software? I have a friend who got carpal tunnel syndrome from excessive typing at university, and she gets by with voice recognition these days. I understand that the software’s a lot better than it was.
-January 20, 2009, 7:03 am
+[**January 20, 2009, 7:03 am**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - Mary Peed says:
 You might try voice recognition software.  I have arthritis and have had some success with it (although it takes some time to train and can be very frustrating in the process).
-January 20, 2009, 9:31 am
-- Sean Craven says:
+[**January 20, 2009, 9:31 am**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [Sean Craven](https://web.archive.org/web/20090125012821/http://seancraven.blogspot.com/) says:
 My sympathies with your condition. I would also like to suggest voice recognition software — but with a caveat.
 I’ve got lower back problems that keep me from being able to sit for long enough to do any real writing. In my attempts to find a way around this, I did try voice recognition software.
 What I found was that I speak in an entirely different fashion than I write — far more discursive and far less grammatical. I think this could have been addressed if I’d stuck with it, though.
 The hell of it is, is that writing is something that demands your total attention. If you’re going to achieve flow you need to be able to ignore the physical act so as to concentrate on the mental one. Again, my sympathies.
-January 20, 2009, 12:01 pm
-- Jeff says:
+[**January 20, 2009, 12:01 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [Jeff](https://web.archive.org/web/20090125012821/http://jeffcrook.blogspot.com/) says:
 I am less than half your age and have a similar problem with my feet. Some of my toes are quite numb. I have found that drinking water, rather than other soft drinks, coffee or tea helps. But not much.
 I just wanted to say how much I have enjoyed your books. A good friend of mine sent me a copy of Space Merchants - she had read my books and thought I would enjoy yours, so that is how I discovered you. She was a huge fan of yours, but she died in child birth last year.
-January 20, 2009, 12:29 pm
+[**January 20, 2009, 12:29 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - Bruce Baugh says:
 In addition to the voice recognition software, for short things like e-mail and notes, you might want to look at handheld devices like the iPhone/iPod Touch and Palm’s upcoming Pre unit. They have lil’ keyboards made for use with the thumbs or a single finger - certainly nothing you’d want to use for extended work, or at least I don’t, but really handy for the small stuff.
-January 20, 2009, 12:51 pm
-- Romeo Vitelli says:
+[**January 20, 2009, 12:51 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [Romeo Vitelli](https://web.archive.org/web/20090125012821/http://drvitelli.typepad.com/) says:
 Are you looking into any occupational therapy? Stroke patients get a lot of benefit and are often able to retrain their other hand to do a lot of the work that their dominant hand used to do.  Granted, your condition doesn’t sound that severe but you can discuss rehab options with your doctor.
-January 20, 2009, 1:42 pm
-- mikey says:
+[**January 20, 2009, 1:42 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [mikey](https://web.archive.org/web/20090125012821/http://www.lightlink.com/mikey) says:
 Voice recognition software - Dragonspeak, for example - would be my suggestion as well. It is far from perfect, and still prone to speeling errors and (sometimes) amusing word substitutions, but it can be a real useful tool and practical alternative to TFT (two finger typing). Glad to hear the Independence is still floating, I traveled the Atlantic on her and her sister the Constitution, many moons ago.  Cheers, mikey
-January 20, 2009, 3:49 pm
+[**January 20, 2009, 3:49 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - Bruce Gillespie says:
-Hi, Mr Pohl… We’re not worried if you cannot reply to individual comments — it’s just delightful that you’ve embarked on a blog, and have so many interesting things to say. I’m particularly looking forward to additions to ‘The Way the Future Was’.
+Hi, Mr Pohl… We’re not worried if you cannot reply to individual comments — it’s just delightful that you’ve embarked on a blog, and have so many interesting things to say. I’m particularly looking forward to additions to ‘The Way the Future Was’.  
+
 Best wishes, Bruce Gillespie (editor, SF Commentary)
-January 20, 2009, 4:15 pm
-- soubriquet says:
-No reply sought or necessary.
-In the late sixties, early seventies, I was a teenager plagued by severe asthma, my escape was in reading. Unable to get out and about in the real world, I roamed the infinity of imaginary worlds, and the library was my hunting-ground.
-I’d search out those bright yellow Gollancz dust-covers, looking for more and more science-fiction, books which stretched my mind with all the “what-ifs” they generated.
-I’ve never been one for writing fan-mail, I imagine it becomes a chore for the recipient, but I’d like to take this opportunity to thank you, for a rescue from pain, for a broadening of the mind, and for many, many hours of enjoyyment.
+[**January 20, 2009, 4:15 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [soubriquet](https://web.archive.org/web/20090125012821/http://gmail.com/) says:
+No reply sought or necessary.  
+
+In the late sixties, early seventies, I was a teenager plagued by severe asthma, my escape was in reading. Unable to get out and about in the real world, I roamed the infinity of imaginary worlds, and the library was my hunting-ground.  
+
+I’d search out those bright yellow Gollancz dust-covers, looking for more and more science-fiction, books which stretched my mind with all the “what-ifs” they generated.  
+
+I’ve never been one for writing fan-mail, I imagine it becomes a chore for the recipient, but I’d like to take this opportunity to thank you, for a rescue from pain, for a broadening of the mind, and for many, many hours of enjoyyment.  
+
 Thank you.
-January 20, 2009, 4:35 pm
+[**January 20, 2009, 4:35 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - xenovalent says:
 Have you considered the one-handed Dvorak keyboard layouts?  There will certainly be considerable retraining required (which will no doubt be difficult for someone who is 89 years and has likely spent a lifetime typing on QWERTY-style keyboards on various typewriters and keyboards), but they are specifically laid out to facilitate one handed typing.
-January 20, 2009, 5:39 pm
-- Stephen Peters says:
+[**January 20, 2009, 5:39 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [Stephen Peters](https://web.archive.org/web/20090125012821/http://poptrope.blogspot.com/) says:
 This makes the fact that you are even taking the time to share things in this blog really special. Thanks for doing that.
-January 20, 2009, 5:51 pm
-- Shirley Hicks says:
+[**January 20, 2009, 5:51 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [Shirley Hicks](https://web.archive.org/web/20090125012821/http://www.velochic.ca/) says:
 Look for Dragon Naturally Speaking. Once installed (and trained to your voice) you can automate many commands… and dictate.
 We’re looking into it right now for my mom, whose typing has been slowed by arthritis.
 I was just pointed to your blog. Whee! I gobbled up your stories in primary and middle school and was an unforgiving teenager (and college student) in getting impatient with the going rate of authorial production. 
-January 20, 2009, 6:11 pm
+[**January 20, 2009, 6:11 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - Tina Black says:
 Hi Fred –
 I had a friend who was quadripelegic.  For typing she had an artificial index finger that strapped around her right wrist.  It was a rod that went under her palm and then bent downward like a poised finger at the end of her hand; and it had a little rubber tip like one on a cane, but the size of the tip of my little finger.  She used it to tap keys.
 Such a tool might help with the tired and pained finger.
-January 20, 2009, 9:29 pm
-- G says:
-THe experience you are describing was one that resulted in a spinal operation for me and then a full recovery. I hope that you have had a real diagnosis and have decided whether the trauma of surgery is worth the result. Certainly, with age, surgery becomes more dangerous and may not be worthwhile. For me, after 5.5 hours on the table, when I woke up in recovery and had full power in my left hand, it was worth it. In addition, as nerves die, they don’t regenerate, so it’s a decision that needs to be made quickly, after consultation.
+[**January 20, 2009, 9:29 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
+- [G](https://web.archive.org/web/20090125012821/http://bigappletobigbear.blogspot.com/) says:
+THe experience you are describing was one that resulted in a spinal operation for me and then a full recovery. I hope that you have had a real diagnosis and have decided whether the trauma of surgery is worth the result. Certainly, with age, surgery becomes more dangerous and may not be worthwhile. For me, after 5.5 hours on the table, when I woke up in recovery and had full power in my left hand, it was worth it. In addition, as nerves die, they don’t regenerate, so it’s a decision that needs to be made quickly, after consultation.  
+
 But of course we don’t expect answers. I am so glad to find your blog through Scalzi and I will read backward and forward and be grateful that someone whose work I have enjoyed all my reading life is speaking to “me”. The Space Merchants has been a favorite book as long as I have been reading SF, and the older I get, the more I understand it.
-January 21, 2009, 1:04 pm
+[**January 21, 2009, 1:04 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - Louise van Hine says:
 Hello Fred!
 I have been a fan of your fiction since forever.  I am delighted to see that not only are you still alive but still publishing - and now blogging!  Sorry to hear about the hand though.  Fortunately, as some of the other commenters have mentioned, technology is catching up.  A friend of mine uses Dragon Naturally Speaking and has nothing but praise for its accuracy and speed.  You’re not out of the game yet!
-January 21, 2009, 5:57 pm
+[**January 21, 2009, 5:57 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 - Fathercrow says:
 I hate Dragon. Its just not intuative enough. Writing for me was always a fluid thing, hand to pencil, pencil to paper. Its more natural for my thinking process to use my hands to express my thoughts. Then I became a quadriplegic and they gave me Dragon Dictate and I could not write a word. Now I write with a stylus strapped to my hand. Its not as high tech as talking to the computer, but then talking is not writing, at least not for me. So pluck away, friend, as best you can.
-January 22, 2009, 3:18 pm
+[**January 22, 2009, 3:18 pm**](/posts/2009-01-19-why-i-m-no-pen-pal/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20090125012821/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090125012821/http://dicksmithsoftware.com/)

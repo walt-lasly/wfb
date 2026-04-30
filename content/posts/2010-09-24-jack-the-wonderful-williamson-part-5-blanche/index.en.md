@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="jackblanchewilliamson-1979.jpg" alt="Jack and Blanche Williamson at Seacon, 1979 (Photo by Frank Olynyk.)" caption="Jack and Blanche Williamson at Seacon, 1979 (Photo by Frank Olynyk.)" >}}
 
 
-Jack Williamson, of course, had become a civilian again along with all the rest of us.  His plan was to go back to the college education he had been forced to abandon long before because he didn’t have the money to continue it.  Now there was this wonderful new law, called the GI Bill of Rights, which would give any veteran who wanted to go to school money to pay the tuition and all the other expenses and a few bucks extra each month as a stipend.  With that to make it possible, Jack signed up at Eastern New Mexico University, right there in Portales, New Mexico, quite close to the small community called Pep, where the Williamson family ranch was located.
+[Jack Williamson](https://web.archive.org/web/20131008215720/http://www.gcwillick.com/Spacelight/williamson.html), of course, had become a civilian again along with all the rest of us.  His plan was to go back to the college education he had been forced to abandon long before because he didn’t have the money to continue it.  Now there was this wonderful new law, called the [GI Bill of Rights](https://web.archive.org/web/20131008215720/http://www.gibill.va.gov/gi_bill_info/history.htm), which would give any veteran who wanted to go to school money to pay the tuition and all the other expenses and a few bucks extra each month as a stipend.  With that to make it possible, Jack signed up at [Eastern New Mexico University](https://web.archive.org/web/20131008215720/http://www.enmu.edu/academics/williamson/index.shtml), right there in Portales, New Mexico, quite close to the small community called [Pep](https://web.archive.org/web/20131008215720/http://maps.google.com/maps?q=pep+new+mexico&oe=utf-8&client=firefox-a&ie=UTF8&hq=&hnear=Pep,+Roosevelt,+New+Mexico&gl=us&ei=Ij6aTL34C5LkngemvojSDg&ved=0CBgQ8gEwAA&ll=34.3389,-103.304443&spn=1.392432,3.532104&z=8), where the Williamson family ranch was located.
 
 
 In his writing career, he hit the ground running, turning out  kinds of stories that were, if anything, better and more mature than before.  He had everything he needed.  He could stay in the large house that dominated the family ranch, where there was always a room for him.
@@ -56,15 +56,15 @@ Jack did not make the same mistake twice.  He courted her at once, married her a
 
 ### 2 Comments
 
-- Robert Nowall says:
+- [Robert Nowall](https://web.archive.org/web/20131008215720/http://www.robertnowall.com/) says:
 In a way, it’s sad that this fine reminiscence runs commentless while politics gathers up thirty-eight (so far) comments.
 But…(1) We live in interesting times, (2) I only know of Jack Williamson, and that only through constant and obsessive reading, and (3) I’ve got nothing I can add other than this.
-September 28, 2010, 4:18 am
+[**September 28, 2010, 4:18 am**](/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
 - Dwight Decker says:
 Mr. Nowall would like to see more comments about the reminsicences… Well, let’s see. Wildside Press recently reprinted SCIENCE STORIES #1 from 1953 (with an absolutely crazed editorial by I presume Ray Palmer that has to be read to be disbelieved), which has a Williamson story, and Mr. Williamson himself contributed some autobiographical remarks that are of interest:
 “After the war, I came back to the county-seat town of Portales, New Mexico, served a short hitch as a wire editor, and married Blanche — whom I’ve known since we were in the sixth grade together. She hadn’t waited for me the first time: consequently we now have a son who is a Navy frogman, a married daughter, and two grandchildren who are usually very charming.”
 I liked that “usually” qualification…
-October 5, 2010, 6:13 pm
+[**October 5, 2010, 6:13 pm**](/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20131008215720/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131008215720/http://dicksmithsoftware.com/)

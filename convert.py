@@ -188,15 +188,20 @@ def html_to_markdown(content_div, slug_dir: Path, link_map: dict = None) -> str:
                         else:
                             break
                     elif nn == "a":
-                        # Embed link as **bold** inside the italic span,
-                        # with an internal link if the href maps to a known post.
+                        # Embed link inside the italic span.
+                        # Internal blog links become [**bold**](url); external
+                        # links become [text](wayback-url); no href → bold only.
                         lt = nc.get_text().strip()
                         if lt:
                             url_key = extract_blog_path(nc.get("href", ""))
                             if url_key and link_map and url_key in link_map:
                                 buf += f" [**{lt}**]({link_map[url_key]}) "
                             else:
-                                buf += f" **{lt}** "
+                                raw_href = nc.get("href", "").strip()
+                                if raw_href:
+                                    buf += f" [{lt}]({raw_href}) "
+                                else:
+                                    buf += f" **{lt}** "
                         j += 1
                     else:
                         break
@@ -228,21 +233,22 @@ def html_to_markdown(content_div, slug_dir: Path, link_map: dict = None) -> str:
 
             elif name == "a":
                 text = child.get_text()
-                href = child.get("href", "")
+                href = child.get("href", "").strip()
                 url_key = extract_blog_path(href)
                 if url_key and link_map and url_key in link_map:
                     if text.strip():
                         parts.append(f"[**{text.strip()}**]({link_map[url_key]})")
                     else:
                         parts.append(text)
+                elif href and text.strip():
+                    parts.append(f"[{text.strip()}]({href})")
                 else:
-                    if text.strip():
-                        parts.append(f"**{text.strip()}**")
-                    else:
-                        parts.append(text)
+                    parts.append(text)
 
             else:
-                parts.append(child.get_text())
+                # Unknown inline tag (e.g. <cite>, <small>, <span>) — recurse
+                # so that nested <a> links are preserved rather than dropped.
+                parts.append(inline_text(child))
 
             i += 1
 
@@ -281,8 +287,9 @@ def html_to_markdown(content_div, slug_dir: Path, link_map: dict = None) -> str:
                     for child in node.children:
                         process_node(child)
                     lines.append("")
-                elif node.find(["b", "strong", "em", "i"]):
-                    # Paragraph with inline markup — use inline_text to preserve bold/italic
+                elif node.find(["b", "strong", "em", "i", "a"]):
+                    # Paragraph with inline markup or links — use inline_text to
+                    # preserve bold/italic and convert internal <a> links.
                     text = inline_text(node).strip()
                     if text:
                         lines.append("\n" + text + "\n")
@@ -487,7 +494,7 @@ def html_to_markdown(content_div, slug_dir: Path, link_map: dict = None) -> str:
 
             elif tag == "a":
                 text = node.get_text()
-                href = node.get("href", "")
+                href = node.get("href", "").strip()
                 url_key = extract_blog_path(href)
                 if url_key and link_map and url_key in link_map:
                     if text.strip():
@@ -496,13 +503,12 @@ def html_to_markdown(content_div, slug_dir: Path, link_map: dict = None) -> str:
                         if hasattr(node, "children"):
                             for child in node.children:
                                 process_node(child)
+                elif href and text.strip():
+                    lines.append(f"[{text.strip()}]({href})")
                 else:
-                    if text.strip():
-                        lines.append(f"**{text.strip()}**")
-                    else:
-                        if hasattr(node, "children"):
-                            for child in node.children:
-                                process_node(child)
+                    if hasattr(node, "children"):
+                        for child in node.children:
+                            process_node(child)
 
             else:
                 if hasattr(node, "children"):

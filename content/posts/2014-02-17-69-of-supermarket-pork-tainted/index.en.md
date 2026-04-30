@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="Pig-roast-by-Zeldes.jpg" alt="Pig-roast-by-Leah A. Zeldes" caption="Cook pork well to avoid disease. (Photo by Leah A. Zeldes.)" >}}
 
 
-Apparently largely because farmers feed regular doses of antibiotic to pigs to make them grow to salable weights faster, many pigs harbor the food-poisoning bacterium **Yersinia enterocolitica**. One **study** found that some some 69 percent of supermarket pork was tainted with *Yersinia*.
+Apparently largely because farmers feed regular doses of antibiotic to pigs to make them grow to salable weights faster, many pigs harbor the food-poisoning bacterium [Yersinia enterocolitica](https://web.archive.org/web/20160416130305/http://www.cdc.gov/healthypets/diseases/yersinia.htm). One [study](https://web.archive.org/web/20160416130305/http://abcnews.go.com/blogs/health/2012/11/27/study-finds-most-pork-contaminated-with-yersinia-bacteria/) found that some some 69 percent of supermarket pork was tainted with *Yersinia*.
 
 
 How to protect against infection?  Always cook pork to at least 145 degrees F. That’s not so high as the 170 degrees that used to be recommended for cooking pork to when Trichinosis was a serious threat.
@@ -31,11 +31,11 @@ How to protect against infection?  Always cook pork to at least 145 degrees F. T
 
 ### One Comment
 
-- Stefan Jones says:
+- [Stefan Jones](https://web.archive.org/web/20160416130305/http://www.flickr.com/photos/stefan_e_jones/) says:
 Antibiotic overuse is going to bite us back something awful.
-The thing is, it won’t only effect us humans. The arrogant, short-sided livestock industry is going to get hit hard. Mass die-offs of critters are not out of the question.
+The thing is, it won’t only effect us *humans*. The arrogant, short-sided livestock industry is going to get hit hard. Mass die-offs of critters are not out of the question.
 Charging a special tax that supports research into new antibiotics might be a good move. And if “big data” can be used to keep track of us, why not of livestock health and bacterial strains? Grab samples of waste and flesh, and do genetic assays of it all.
-February 17, 2014, 10:00 pm
+[**February 17, 2014, 10:00 pm**](/posts/2014-02-17-69-of-supermarket-pork-tainted/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416130305/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416130305/http://dicksmithsoftware.com/)

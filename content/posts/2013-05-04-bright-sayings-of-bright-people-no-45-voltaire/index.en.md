@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Ken says:
 Voltaire must have played the stock market.
-May 6, 2013, 6:38 pm
+[**May 6, 2013, 6:38 pm**](/posts/2013-05-04-bright-sayings-of-bright-people-no-45-voltaire/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707064106/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707064106/http://dicksmithsoftware.com/)

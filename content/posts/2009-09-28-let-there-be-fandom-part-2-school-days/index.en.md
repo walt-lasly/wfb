@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="ps9.jpg" alt="Public School 9, Brooklyn (Photo by calculat0r)" caption="Public School 9, Brooklyn (Photo by calculat0r)" >}}
 
 
-I had, as it happened, met one or two fellow fans before encountering the Science Fiction League.
+I had, as it happened, met one or two fellow fans before encountering the [**Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/).
 
 
 One was a boy in my eighth-grade class in Public School 9 in Brooklyn. That was a close-knit class to begin with, because we were all united in a bond of common terror. Our teacher, Maude Mary Mahlman, was nine feet tall, ferocious of mien, and possessed of compound eyes, like a fly, so that even when she seemed to be looking at the blackboard or a student across the room, at least one facet was always and unwinkingly fixed on *me.*
@@ -32,7 +32,7 @@ One was a boy in my eighth-grade class in Public School 9 in Brooklyn. That was 
 She told us that herself, and I believed every word she said. For a time. Then my courage came back. By the end of the term, I had learned to look industrious when daydreaming, and I actually wrote a short science-fiction story, my very first, under her eyes on a drowsy May morning in English class. (The story had something to do with Atlantis. That’s all I remember, except that it was awful.)
 
 
-In the same class, Owen Jordan sat nearby, and lived near my home. We would walk home together and sometimes stop off at his house or mine to play chess, and he was the one who tuned me in to the existence of the magazine I had not previously known existed, Astounding. The first issue he loaned me had a cover illustrating the story “Manape the Mighty,” and so naive (or despairing) was I that I read only that story and returned it to him before he pointed out that all the other stories in the issue were science fiction, too.  But we lost touch shortly after that. We graduated from grammar school, and I went off to Brooklyn Tech.
+In the same class, Owen Jordan sat nearby, and lived near my home. We would walk home together and sometimes stop off at his house or mine to play chess, and he was the one who tuned me in to the existence of the magazine I had not previously known existed, Astounding. The [first issue](https://web.archive.org/web/20091204223407/http://www.archive.org/details/Astounding_Stories_of_Super_Science_1931) he loaned me had a cover illustrating the story “Manape the Mighty,” and so naive (or despairing) was I that I read only that story and returned it to him before he pointed out that all the other stories in the issue were science fiction, too.  But we lost touch shortly after that. We graduated from grammar school, and I went off to [**Brooklyn Tech**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/).
 
 
 There was no high school specializing in science fiction, which is what really interested me. There was not yet even a High School of Science, and perhaps that’s a pity, because I think I might have liked being a physicist or an astronomer. What there was, was Brooklyn Technical High School. It was said to give many courses in science, which I recognized as being some part of science fiction, and besides, it was an honor school, requiring a special examination for entrance, which appealed to my twelve-year-old snob soul.
@@ -47,7 +47,7 @@ In my second term, my homeroom was in Annex 1, identified as Brooklyn PS 1 at th
 Fortunately, only a few of my classes were in Annex 1. In midmorning I shifted to Annex 5, a much newer, nicer school next to a playground, six or seven face-frozen blocks away. Then in the afternoon I had classes in the Main Building, the whilom factory, just on the other side of the constant truck rumble of Flatbush Avenue Extension.
 
 
-After the first few days I noticed that I was dodging the trucks in the company of the same tall, skinny guy with glasses — he looked quite a lot like me, or actually quite a lot handsomer than me — and he turned out to be a science-fiction fan. His name was Joseph Harold Dockweiler, but he wasn’t terribly pleased with it, and a few years later he changed it to Dirk Wylie.
+After the first few days I noticed that I was dodging the trucks in the company of the same tall, skinny guy with glasses — he looked quite a lot like me, or actually quite a lot handsomer than me — and he turned out to be a science-fiction fan. His name was Joseph Harold Dockweiler, but he wasn’t terribly pleased with it, and a few years later he changed it to [Dirk Wylie](https://web.archive.org/web/20091204223407/http://www.philsp.com/homeville/ISFAC/s86.htm#A1206).
 
 
 Dirk was the sort of best friend every young person should have. Our interests were similar, but not identical. We were much of the same age, and almost identically of the same stage of growth, so that we discovered the same things about the world at the same time: girls, smoking, drinking, reading, science fiction. If you mapped a schematic diagram of Dirk onto one of me, nearly all the points at the centers of our personalities would match exactly. Off to one side was my growing interest in politics and society, which Dirk found unexciting; off to another, his in weapons and cars, which I shared at most tepidly.
@@ -86,18 +86,20 @@ But the excitement of the world outside never waned.
 Fred, old friend and neighbor from Hance Rd in NJ stopping by to say hello.
 I haven’t seen you since the Science Fiction Convention in Boston like late 60s’, early 70s’  And the party afterwards was great.
 faith
-fmikelsons@yahoo.com
-September 28, 2009, 7:53 am
-- Stefan Jones says:
+[fmikelsons@yahoo.com](https://web.archive.org/web/20091204223407/mailto:fmikelsons@yahoo.com)
+[**September 28, 2009, 7:53 am**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [Stefan Jones](https://web.archive.org/web/20091204223407/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Good entry, and I hope to read more like it.
 It’s interesting to read how, at least in places like NYC, there have been “magnet schools” for going on a century. (My cousins went to the Stuvuysant braniac school . . . I’m guessing that was too far for you?)
-September 28, 2009, 12:49 pm
+[**September 28, 2009, 12:49 pm**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
 - Mark Morris says:
 Mr. Pohl,
-I really enjoy reading these stories. These reminiscences about the past are so fascinating. Life was so different back then when you were a kid.
-I am forty eight years old and it amazes me how much has changed in thirty years.
-I read your autobiography and enjoyed it too.
-September 29, 2009, 9:26 pm
+I really enjoy reading these stories. These reminiscences about the past are so fascinating. Life was so different back then when you were a kid.  
 
-**WordPress**
-**TWTFB**
+I am forty eight years old and it amazes me how much has changed in thirty years.  
+
+I read your autobiography and enjoyed it too.
+[**September 29, 2009, 9:26 pm**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+
+[WordPress](https://web.archive.org/web/20091204223407/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20091204223407/http://dicksmithsoftware.com/)

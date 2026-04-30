@@ -26,12 +26,12 @@ Part 2 of Review of the Campbell-Swisher Letters
 {{< figure src="campbell300wb.jpg" alt="John W. Campbell in 1957 (from efanzines.com)" caption="John W. Campbell in 1957 (from efanzines.com)" >}}
 
 
-**Fantasy Commentator**  
+[Fantasy Commentator](https://web.archive.org/web/20111226103442/http://www.lulu.com/product/paperback/fantasy-commentator/15530424?productTrackingContext=search_results/search_shelf/center/1)  
 
 **Sam Moskowitz and A. Langley Searles Memorial Issue, Special Double Issue, Nos. 59 & 60.**
 
 
-On October 5, 1937, John W. Campbell’s world changed.  The powers at Street & Smith, on F. Orlin Tremaine’s advice, appointed him to replace Tremaine as editor of Astounding Stories.  That must have been a shock to Campbell, who’d been worriedly wondering who would get the job, as well as a solution to the worst of his money worries.
+On October 5, 1937, [**John W. Campbell’s**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) world changed.  The powers at Street & Smith, on [**F. Orlin Tremaine’s**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/) advice, appointed him to replace Tremaine as editor of Astounding Stories.  That must have been a shock to Campbell, who’d been worriedly wondering who would get the job, as well as a solution to the worst of his money worries.
 
 
 I had guessed elsewhere the his weekly paycheck was probably $35, but I was wrong.  Actually it was $30.  Yet that was a sum the young Campbells had only dreamed of having — was enough,  indeed, to permit him to buy a Ford (presumably on the installment plan), and thus to manage, among other things, that long desired trip back to New England to visit old friends.  But that didn’t happen right away.  Getting used to his new job kept him jumping
@@ -49,7 +49,7 @@ What John did with the submissions that kept coming in was first to give each on
 There are two points in the letters where John talks about dealings with me.  Both of them are wrong.   In the first one, he says I bragged to him that my Astonishing Stories  sold more copies than his Astounding.  That’s incorrect, though.  I didn’t know about the difference in sales figures or I certainly would have bragged about it all over town.
 
 
-The other is in the discussion about putting a non-Jewish pen name on the stories by Milt Rothman  that I sold him as Milt’s agent.  In the letters, John says he thought it better not to tell me about his reasoning because it might cause misunderstandings.  But he did tell me.  That led to my advising Milt to do what he said, in fact.  On that one, I do have a theory to explain it.  I think when he wrote the letter he hadn’t told me his reasoning, but then changed his mind and on a later occasion did tell me.
+The other is in the discussion about putting a non-Jewish pen name on the stories by [Milt Rothman](https://web.archive.org/web/20111226103442/http://www.isfdb.org/cgi-bin/ea.cgi?241)  that I sold him as Milt’s agent.  In the letters, John says he thought it better not to tell me about his reasoning because it might cause misunderstandings.  But he did tell me.  That led to my advising Milt to do what he said, in fact.  On that one, I do have a theory to explain it.  I think when he wrote the letter he hadn’t told me his reasoning, but then changed his mind and on a later occasion did tell me.
 
 
 Well, this got longer and more detailed than a review should.  I apologize for that, and in general for taking so long, when all I really wanted to say was if (1) you want to be an editor, or (2) if you’re interested in Campbell as a person, or (3) if you just like a good read on a science-fiction subject — why, then, this is a book for you.
@@ -66,14 +66,14 @@ Well, this got longer and more detailed than a review should.  I apologize for t
 
 - Grego says:
 Fred, your reminisces are relevant and interesting, and given those, not at all too long.  Thank you again for sharing your knowledge and memories with us.
-October 24, 2011, 1:43 am
+[**October 24, 2011, 1:43 am**](/posts/2011-10-24-campbell-gets-the-magazine/)
 - Jay Borcherding says:
 I suppose their dogma is no more implausible than that of any devout monotheist, but I have special contempt for devout believers of Hubbard’s unique brand of nonsense.  Is it mere bias on my part, or is it rational to easily forgive Graham Greene’s Catholicism, for example, but to be reluctant to forgive Campbell’s fervent embrace of Dianetics?
 New religions have a disadvantage in that their outrageous claims are less familiar than those of old religions, but I still can’t shake the conviction that there’s a more profound silliness in being a Scientologist than there is in being a Jew, Christian, or Muslim.
-October 26, 2011, 1:07 am
-- Chris says:
+[**October 26, 2011, 1:07 am**](/posts/2011-10-24-campbell-gets-the-magazine/)
+- [Chris](https://web.archive.org/web/20111226103442/http://none/) says:
 Love your writing, Mr. Pohl! It’s never “too long” when one is trying to make sure that people and history of any sort are not forgotten. Thoroughly enjoyed the details and info in the last two posts! Thank you -
-October 27, 2011, 9:10 am
+[**October 27, 2011, 9:10 am**](/posts/2011-10-24-campbell-gets-the-magazine/)
 
-**WordPress**
-**TWTFB**
+[WordPress](https://web.archive.org/web/20111226103442/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20111226103442/http://dicksmithsoftware.com/)

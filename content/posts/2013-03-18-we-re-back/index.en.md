@@ -32,47 +32,48 @@ But now we’re back, healthier and happier than ever — so give us a look and 
 
 ### 12 Comments
 
-- Bill Higgins-- Beam Jockey says:
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170620031543/http://beamjockey.livejournal.com/) says:
 Fred, you’ve become a cyborg– and as such, you appear to be vulnerable to diseases of both man and machine.
 So the augmentation of humanity has a downside.  Man Minus, so to speak.
-March 18, 2013, 12:14 pm
+[**March 18, 2013, 12:14 pm**](/posts/2013-03-18-we-re-back/)
 - ironchefoklahoma says:
 Glad you’re back on the air. Good health, sir.
-March 18, 2013, 12:39 pm
+[**March 18, 2013, 12:39 pm**](/posts/2013-03-18-we-re-back/)
 - Daniel says:
 Good to have y’all back!
-March 18, 2013, 1:03 pm
-- Joseph Nebus says:
+[**March 18, 2013, 1:03 pm**](/posts/2013-03-18-we-re-back/)
+- [Joseph Nebus](https://web.archive.org/web/20170620031543/http://nebushumor.wordpress.com/) says:
 I noticed, and am quite relieved to see you back.  
 I did notice your quiet began at almost the same time that “Asia”  and former “Buggles” keyboardist Geoffrey Downes stopped tweeting, and I had never suspected that you might be the same person.  (Although, come to think of it, the Buggles songs should have been a clue.  “Take me to Vermillion Sands”?  Or about a monorail,  “Oh, my, my, you are so sci-fi”?)
-March 18, 2013, 2:26 pm
+[**March 18, 2013, 2:26 pm**](/posts/2013-03-18-we-re-back/)
 - Lars says:
 Glad to see you back.
-March 18, 2013, 4:07 pm
+[**March 18, 2013, 4:07 pm**](/posts/2013-03-18-we-re-back/)
 - Paul Wolf says:
-Welcome back!  Yes, I did notice.  Sorry you were bothered by “bugs” (both you and your computer), but am very glad you’re doing better now.
+Welcome back!  Yes, I did notice.  Sorry you were bothered by “bugs” (both you and your computer), but am very glad you’re doing better now.  
+
 Paul
-March 18, 2013, 4:12 pm
+[**March 18, 2013, 4:12 pm**](/posts/2013-03-18-we-re-back/)
 - Soph says:
 Glad you got rid of all the bugs! Welcome back.
-March 18, 2013, 5:03 pm
+[**March 18, 2013, 5:03 pm**](/posts/2013-03-18-we-re-back/)
 - H. E. Parmer says:
-We didn’t get any of the more popular brands …
+*We didn’t get any of the more popular brands …*
 I can assure you, from personal experience with the new norovirus, you missed not a thing. Worst. 48. Hours. Ever. 
 Welcome back. (And be sure to wash your hands frequently.)
-March 18, 2013, 11:03 pm
-- Robert Nowall says:
+[**March 18, 2013, 11:03 pm**](/posts/2013-03-18-we-re-back/)
+- [Robert Nowall](https://web.archive.org/web/20170620031543/http://www.robertnowall.com/) says:
 I just figured you were busy again.
-March 19, 2013, 3:36 am
+[**March 19, 2013, 3:36 am**](/posts/2013-03-18-we-re-back/)
 - Bruce says:
 Welcome back!  Been checking every day.  Glad to hear your “bugs” have left the building.
-March 19, 2013, 6:35 am
+[**March 19, 2013, 6:35 am**](/posts/2013-03-18-we-re-back/)
 - Cathy W says:
 Glad to hear everything is okay – I did notice you were gone, and I was mildly alarmed. Here’s to hoping plague season is over for both man and machine…
-March 20, 2013, 7:33 am
-- TulsaTV says:
+[**March 20, 2013, 7:33 am**](/posts/2013-03-18-we-re-back/)
+- [TulsaTV](https://web.archive.org/web/20170620031543/http://tulsatvmemories.com/) says:
 Great to have you back!
-March 22, 2013, 6:10 pm
+[**March 22, 2013, 6:10 pm**](/posts/2013-03-18-we-re-back/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170620031543/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620031543/http://dicksmithsoftware.com/)

@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Walt says:
 Hear, hear!
-May 22, 2011, 1:31 pm
+[**May 22, 2011, 1:31 pm**](/posts/2011-05-21-bright-sayings-of-bright-people-no-14-churchill/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707084118/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707084118/http://dicksmithsoftware.com/)

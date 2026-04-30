@@ -29,7 +29,7 @@ Frederik Pohl
 {{< figure src="Betty-web.jpg" alt="Elizabeth Anne Hull" caption="Elizabeth Anne Hull" >}}
 
 
-Blogger/writer **Rudy Rucker** called **Dave Eggers**’ **The Circle** “a page-turner,” explaining,  “I plowed through it in two days, thinking a lot about the characters and the ideas, and when it was done, I missed having it to read.”  When I read the novel last spring, my reaction my reaction was almost exactly the same, although my feelings were more complex.  Other critics have called it a dystopian novel.  It centers on a company called the Circle, a Twitter / Google / Amazon /Microsoft / Apple / Facebook / LinkedIn / YouTube mash-up, a company hell-bent on making us all one people, like it or not.
+Blogger/writer [Rudy Rucker](https://web.archive.org/web/20160416162510/http://www.rudyrucker.com/blog/about/) called [Dave Eggers](https://web.archive.org/web/20160416162510/http://www.amazon.com/Dave-Eggers/e/B001H6UAH4/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=twtfb-20&linkId=2R4IH5JFED7VZZF4)’ [The Circle](https://web.archive.org/web/20160416162510/http://www.amazon.com/gp/product/0345807294/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345807294&linkCode=as2&tag=twtfb-20&linkId=QIOZ4IKWNNQ6HCV7) “a page-turner,” explaining,  “I plowed through it in two days, thinking a lot about the characters and the ideas, and when it was done, I missed having it to read.”  When I read the novel last spring, my reaction my reaction was almost exactly the same, although my feelings were more complex.  Other critics have called it a dystopian novel.  It centers on a company called the Circle, a Twitter / Google / Amazon /Microsoft / Apple / Facebook / LinkedIn / YouTube mash-up, a company hell-bent on making us all one people, like it or not.
 
 
 The protagonist, Mae Holland, lands her dream job at a relatively new and small but potentially powerful Southern California tech company and becomes an expert at her job of finding out what other people want and giving 100-percent satisfaction to them. Her transformation over the space of more than 400 pages is compelling.
@@ -40,5 +40,5 @@ Pleasing customers is only the beginning of what she must learn; she also must b
 
 *The Circle*  raises questions about keeping up with the latest in technology as well as the issues of privacy, vulnerability, transparency, being in control of one’s destiny, our social and moral responsibility to others, and the blessing/curse of the permanence of the Cloud, and facing the consequences of decisions we make all too innocently, all of which are now in the news.  These are all women’s issues, but they are more than that:  they are human concerns.
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160416162510/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416162510/http://dicksmithsoftware.com/)

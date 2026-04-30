@@ -41,7 +41,7 @@ It is therefore clear that to make the predictions above is to bet recklessly ag
 It’s still a good bet, though.
 In fact, I don’t see how I can lose it. Anyone opening the capsule to read these lines will have to agree that my low-probability predictions pretty well describe the actual turn of events…because if the high-probability ones of mass destruction and species suicide should prevail no one is likely to be around to read them.
 Here’s hoping your thoughts are as well-reasoned 5 years from now, as they were 25 years ago.
-August 6, 2012, 7:16 pm
+[**August 6, 2012, 7:16 pm**](/posts/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160729012120/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160729012120/http://dicksmithsoftware.com/)

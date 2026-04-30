@@ -28,13 +28,13 @@ Oh, won’t you give it to me?
 When the seafood comes to me. . . .* 
 [*****](/posts/2011-03-05-want-some-seafood-mama/)
 
-A few months ago, in the interests of full disclosure, we published a gourmet recipe for lobster bisque which may have made it unlikely that some of our readers will ever eat lobster bisque again.  We now turn our attention to shrimp, perhaps the fastest-growing foodstuff we obtain from the seas in this 21st Century of ours.
+A few months ago, in the interests of full disclosure, we published a gourmet recipe for [**lobster bisque**](/posts/2010-04-29-lobster-bisque/) which may have made it unlikely that some of our readers will ever eat lobster bisque again.  We now turn our attention to shrimp, perhaps the fastest-growing foodstuff we obtain from the seas in this 21st Century of ours.
 
 
 If you’re not eating a lot more shrimp in your family’s diet these days you are out of step with the rest of the world.  Shrimp are not only as tasty as all get-out and a great source of protein but they have proved beautifully easy to farm; over the last few decades the world’s farmed shrimp production has grown from under 100,000 tons a year to well over 3,000,000.
 
 
-That is, it’s easy if you don’t trouble yourself about “externals” — that is to say, that sometimes large class of business costs that businessmen don’t usually worry much about, since they aren’t the ones who have to pay the bill.  (For example, smoke damage to public health or fish-killing runoff from old-fashioned factories.  See my essay on the subject, “Fossil Fuels and Bad Bookkeepimg.”)
+That is, it’s easy if you don’t trouble yourself about “externals” — that is to say, that sometimes large class of business costs that businessmen don’t usually worry much about, since they aren’t the ones who have to pay the bill.  (For example, smoke damage to public health or fish-killing runoff from old-fashioned factories.  See my essay on the subject, “[**Fossil Fuels and Bad Bookkeepimg**](/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/).”)
 
 
 In the case of the shrimp farms, almost all of which are set up in warm climates on the shore of a saltwater bay, the two biggest externals are ocean pollution (China’s coastal waters receive 4 billion tons of wastewater from industry every year — and 43 billion tons from shrimp farms) and destruction of mangrove forests, which are cut down to provide sites for the shrimp farms.  (A bad business tactic.  Those mangrove forests are where many kinds of food fish avoid predators in their earliest youth.  Absent the forests, the baby fish die.)
@@ -74,47 +74,47 @@ Fats Waller and His Rhythm, “Hold Tight (Want Some Seafood, Mama),” 1939. Mu
 
 - John Traylor says:
 This is the reason why if I eat shrimp at all I buy wild caught ones. My wife hates when I tell her things like you speak of as  she says I spoil her appetite.
-March 5, 2011, 6:55 am
+[**March 5, 2011, 6:55 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - Theophylact says:
 Good thing most people don’t keep Kosher.
-March 5, 2011, 10:37 am
+[**March 5, 2011, 10:37 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - Gerry Quinn says:
 I heard that in the past, people would take human excrement, put it in the ground, and stir in a sauce of beneficial plant seeds, which would turn it into “vegetables”.
-March 7, 2011, 3:28 am
+[**March 7, 2011, 3:28 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - Perry says:
 The word you were looking for, from the field of economics, is “externalities”, not “externals”.
-March 7, 2011, 11:36 am
-- Bill Goodwin says:
+[**March 7, 2011, 11:36 am**](/posts/2011-03-05-want-some-seafood-mama/)
+- [Bill Goodwin](https://web.archive.org/web/20170707083907/http://771715/) says:
 Well, the purpose of life is to convert unorganized matter into dung.  That’s what we’re up to: slowly turning the entire universe into dung–at which point God, who is a tremendous dung beetle, will arrive on the scene and roll it away.  So that doesn’t bother me.
 The problem with shrimp is that they’re bugs.  SEETHING MILLIONS OF SOFT, SQUIRMING, PINCHING, MULTI-LIMBED, ANTENNAE-WAVING BUGS!
-March 8, 2011, 2:06 am
+[**March 8, 2011, 2:06 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - Kat says:
 Got to eat a little dirt before you die.
-March 8, 2011, 9:28 am
+[**March 8, 2011, 9:28 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - Dave Bell says:
 It is my custom not to eat anything which, from its appearance, might have a mother capable of deploying thermonuclear weapons from orbit.
-March 9, 2011, 2:46 pm
+[**March 9, 2011, 2:46 pm**](/posts/2011-03-05-want-some-seafood-mama/)
 - H. E. Parmer says:
 I suppose you could think of it as just cutting out all the ecological middlemen, and anyone who tries to create a sealed and self-sustaining habitat is going to face the same issues, but still …
 I think I’ll stick with the ocean-caught shrimp, thank you very much.
-March 10, 2011, 12:45 am
+[**March 10, 2011, 12:45 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - JJ Brannon says:
 I can’t be sure, Fred, but that looks like a prawn.
 JJB
-March 10, 2011, 6:56 pm
+[**March 10, 2011, 6:56 pm**](/posts/2011-03-05-want-some-seafood-mama/)
 - Bruce says:
 Here’s a question: exactly what do you folks think ocean shrimp eat? Although the young feed primarily on algae, the adults are bottom scavengers that will eat anything organic. Does it make you feel better that they eat fish poop instead of their own poop? And at least the bottom of the fish-farm tank isn’t laced with petrochemicals and polluted run-off from the Mississippi the way the bottom of the Gulf of Mexico is.
 Wikipedia: “They have a high tolerance to toxins in polluted areas, and may contribute to high toxin levels in their predators.” …”The highest rates of incidental catch of non-target species is associated with shrimp trawling. In 1997, the FAO documented the estimated bycatch and discard levels from shrimp fisheries around the world. They found discard rates as high as 20 pounds for every pound of shrimp, with a world average of 5.7 pounds for every pound of shrimp.”
-March 13, 2011, 3:57 pm
-- Bill Goodwin says:
+[**March 13, 2011, 3:57 pm**](/posts/2011-03-05-want-some-seafood-mama/)
+- [Bill Goodwin](https://web.archive.org/web/20170707083907/http://771715/) says:
 I was a shrimp myself in school, and I ate all sorts of unhealthy stuff.
-March 14, 2011, 1:24 am
+[**March 14, 2011, 1:24 am**](/posts/2011-03-05-want-some-seafood-mama/)
 - Zeph says:
 I’m a little baffled. Did we think that shrimp were born immaculately frozen in shrink-wrapped packages in the grocery store? Humanity is not about CHOAM food factories right now. I suspect they’ll have to add FDA-approved bacteria if we ever run that way.
-April 15, 2011, 11:50 pm
-- Anton Sherwood says:
+[**April 15, 2011, 11:50 pm**](/posts/2011-03-05-want-some-seafood-mama/)
+- [Anton Sherwood](https://web.archive.org/web/20170707083907/http://bendwavy.org/) says:
 There’s no externality in taking shrimp or fish from the ocean, right?  The cod will be there forever.
-February 14, 2012, 3:48 pm
+[**February 14, 2012, 3:48 pm**](/posts/2011-03-05-want-some-seafood-mama/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170707083907/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170707083907/http://dicksmithsoftware.com/)

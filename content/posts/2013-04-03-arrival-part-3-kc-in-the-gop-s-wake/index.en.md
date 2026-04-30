@@ -51,7 +51,7 @@ But, of course, they didn’t know that at the time.  Exuberant after hearing th
 When we had all got ourselves seated and placed our orders I found myself sitting next to the blonde member of the pair of young women, whose name (I gathered from overheard fragments of conversation) was Betty Something.  She was still  embarrassingly good-looking and depressingly young, but she was holding out a sheet of typing paper.   “Did you ever actually get this?”  she asked.
 
 
-It was a carbon copy of a letter, addressed to me at the Bantam Books office and signed by one Elizabeth Anne Hull, Ph. D.  It came from place called William Rainey Harper Community College and what it was about was inviting me to take part in a panel discussion of science fiction in January of the next year, 1977, to be held under the auspices of the outfit whose members I had been mingling with, the Science Fiction Research Association.
+It was a carbon copy of a letter, addressed to me at the Bantam Books office and signed by one [Elizabeth Anne Hull](https://web.archive.org/web/20170620000530/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/), Ph. D.  It came from place called [William Rainey Harper Community College](https://web.archive.org/web/20170620000530/http://www.harpercollege.edu/) and what it was about was inviting me to take part in a panel discussion of science fiction in January of the next year, 1977, to be held under the auspices of the outfit whose members I had been mingling with, the [Science Fiction Research Association](https://web.archive.org/web/20170620000530/http://sfra.org/sfra.html).
 
 
 I finished scanning it and said,  “Never saw it before.  Wait a minute.”  I took another, more careful look and then said,  “I can tell you why I never did.  It doesn’t say anything about paying a lecture fee or even expenses, Dr. — I mean, Betty.  I’m not in the office every day, so my assistant takes care of my mail and messages.  If they mention money she makes sure I get them.  If not they’re pretty likely to get lost.”
@@ -72,7 +72,7 @@ Now she looked curious.  “Do they do that for their editors?”
 She said,  “Thank you,” very nicely, and then she demonstrated her capacity for attention to important detail by saying,  “They’re picking up the menus.  If we want to eat we’d better give them our orders,” and captured enough of a waiter’s attention to deliver her order for a salad and a cup of coffee.
 
 
-Then, when I had ordered a BLT and, also, coffee, I asked her which party she was planning to hit next.  She looked troubled. “I don’t know,”  she said.  “What I really want to do is meet writers, so I can drop the name into conversations with my class.  You know.  ‘Gordie Dickson?  Oh, yes, wonderful writer but when he comes to a con he takes a nice big room and stays in it, and anyone he wants to see gets invited to the room, because he never comes out.'”
+Then, when I had ordered a BLT and, also, coffee, I asked her which party she was planning to hit next.  She looked troubled. “I don’t know,”  she said.  “What I really want to do is meet writers, so I can drop the name into conversations with my class.  You know.  ‘[Gordie Dickson](https://web.archive.org/web/20170620000530/http://www.nndb.com/people/729/000023660/)?  Oh, yes, wonderful writer but when he comes to a con he takes a nice big room and stays in it, and anyone he wants to see gets invited to the room, because he never comes out.'”
 
 
 I found myself laughing.  “Sounds like you’ve been doing your homework already.”
@@ -81,7 +81,7 @@ I found myself laughing.  “Sounds like you’ve been doing your homework alrea
 “Not really.  Another teacher told me that story.  She also told me that the really big writers don’t go to room parties.”
 
 
-I was beginning to respect this woman’s capacity for getting right to the point..  “Well, that’s pretty true.  At least of some of them.    Would you like to go to a room party that’s bound to have writer, because it’s the writers’ own?  It’s called the Sifwa suite, because the con gives one to the trade union, the Science Fiction Writers of America.”
+I was beginning to respect this woman’s capacity for getting right to the point..  “Well, that’s pretty true.  At least of some of them.    Would you like to go to a room party that’s bound to have writer, because it’s the writers’ own?  It’s called the Sifwa suite, because the con gives one to the trade union, the [Science Fiction Writers of America](https://web.archive.org/web/20170620000530/http://www.sfwa.org/).”
 
 
 She looked suddenly entranced.  “Yes!  Will they let me in?
@@ -105,38 +105,42 @@ I said,  “Members can bring guests.  Let’s give it a look.”
 
 ### 8 Comments
 
-- Robert Nowall says:
+- [Robert Nowall](https://web.archive.org/web/20170620000530/http://www.robertnowall.com/) says:
 Never let anyone who’s out there politicking to sign for anything—make ’em pay cash.  This goes for either party.
-April 7, 2013, 9:42 am
-- Michael Walsh says:
+[**April 7, 2013, 9:42 am**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [Michael Walsh](https://web.archive.org/web/20170620000530/http://www.oldearthbooks.com/) says:
 MidAmeriCon was my second Worldcon (Discon II being the first) and of of my memories is a place near the hotel called the Pioneer Grill that kept late hours. It was where the hookers hung out between, er … dates. They apparently were glad that most of fandom were not interested or in need of their services, having been quite busy with some prior convention.
-April 7, 2013, 12:07 pm
+[**April 7, 2013, 12:07 pm**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Ken says:
 Even though I think I know the ending, the suspense is killing me!
-April 8, 2013, 8:08 pm
+[**April 8, 2013, 8:08 pm**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Raja Thiagarajan says:
 Hello again Mr. Pohl! I’m waiting with bated breath to hear more of this story 😉
-April 10, 2013, 2:01 pm
+[**April 10, 2013, 2:01 pm**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - H. E. Parmer says:
-[The Republican delegates] laid waste to Kansas City’s entertainment industry in a blizzard of bum checks and invalid credit cards …
+*[The Republican delegates] laid waste to Kansas City’s entertainment industry in a blizzard of bum checks and invalid credit cards …*
 And a mere four years later, they were able to do the same to the entire country!
-April 11, 2013, 12:30 am
-- Bill Higgins-- Beam Jockey says:
+[**April 11, 2013, 12:30 am**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170620000530/http://beamjockey.livejournal.com/) says:
 I can’t wait to see how this turns out.
-April 11, 2013, 5:35 pm
+[**April 11, 2013, 5:35 pm**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - John Armstrong says:
 Keep it coming Fred – love reading these
 PS – lost your personal email. I’d like to send you the first bit of my new book, so you can see the dedication. Not enough book involved to put you in harm’s way re: legal stuff.
 Best,
 John
-April 13, 2013, 3:23 pm
+[**April 13, 2013, 3:23 pm**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Neil in Chicago says:
-I’ve been to two Worldcons which followed Republican national conventions, and the hotel staff were really glad to see us . . .
-That SFRA conference sounds like the one where Beverly Friend put me on my first-ever panel.  Me, Phyllis and Alex Eisenstein, Buck and Juanita Coulson, and a guy from the University of Maine (I think), telling a score of high school teachers how to do a science fiction class.
-Of course, there’s really only one crucial piece of advice:  The first day of class, look at the students carefully.  There will be one (maybe two) with glowing eyes.  GET HIM ON YOUR SIDE.  He knows more about it than you ever will, and he can make or break you.  (“He” because it’s almost certainly a male person.)
-And then we filled the rest of the time until it was time for questions.
-One of the high school teachers asked, What about taking a class to one of these science fiction conventions, for something like a field trip?  We sat in boggled silence until Buck, bless his soul, said, “Only if you have tenure!”
-May 2, 2013, 9:35 pm
+I’ve been to two Worldcons which followed Republican national conventions, and the hotel staff were really glad to see us . . .  
 
-**WordPress**
-**TWTFB2**
+That SFRA conference sounds like the one where Beverly Friend put me on my first-ever panel.  Me, Phyllis and Alex Eisenstein, Buck and Juanita Coulson, and a guy from the University of Maine (I think), telling a score of high school teachers how to do a science fiction class.  
+
+Of course, there’s really only one crucial piece of advice:  The first day of class, look at the students carefully.  There will be one (maybe two) with glowing eyes.  GET HIM ON YOUR SIDE.  He knows more about it than you ever will, and he can make or break you.  (“He” because it’s almost certainly a male person.)  
+
+And then we filled the rest of the time until it was time for questions.  
+
+One of the high school teachers asked, What about taking a class to one of these science fiction conventions, for something like a field trip?  We sat in boggled silence until Buck, bless his soul, said, “Only if you have tenure!”
+[**May 2, 2013, 9:35 pm**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+
+[WordPress](https://web.archive.org/web/20170620000530/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170620000530/http://dicksmithsoftware.com/)

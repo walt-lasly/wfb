@@ -41,7 +41,7 @@ But we can avoid that.  There is something we can do that doesn’t need deadly 
 We can use the tactics of the right wing to destroy those evil-doers who are now  trying to destroy some sacred and essential parts of our political system, including the ability — *and requirement* —  of Congress to cooperate fairly with members of opposing parties.
 
 
-Sign the pledge!  Send a copy to every elected Republican in your district! Teach them a lesson!
+[**Sign the pledge**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)!  Send a copy to every elected Republican in your district! Teach them a lesson!
 
 
 ### One Comment
@@ -49,7 +49,7 @@ Sign the pledge!  Send a copy to every elected Republican in your district! Teac
 - David Strom says:
 What weapons?
 It’s the Tea Party types, and various right-wingers and libertarians, that are likely to be NRA members.
-December 5, 2011, 2:46 pm
+[**December 5, 2011, 2:46 pm**](/posts/2011-12-05-god-bless-the-occupiers/)
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20170717154052/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170717154052/http://dicksmithsoftware.com/)

@@ -25,7 +25,7 @@ Frederik Pohl
 
 ![Betty Hull](bettyhullnewpic180x270.jpg)
 
-This weekend, Betty is attending Windycon 42 this weekend in Lombard, Illinois. The convention runs from Friday November 13th to Sunday the 15th.
+This weekend, Betty is attending [Windycon 42](https://web.archive.org/web/20160402212610/http://www.windycon.org/%22) this weekend in Lombard, Illinois. The convention runs from Friday November 13th to Sunday the 15th.
 
 
 She is appearing at these events:
@@ -57,5 +57,5 @@ Sunday 11:00
 
 **Autographing (Hallway)**
 
-**WordPress**
-**TWTFB2**
+[WordPress](https://web.archive.org/web/20160402212610/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402212610/http://dicksmithsoftware.com/)
