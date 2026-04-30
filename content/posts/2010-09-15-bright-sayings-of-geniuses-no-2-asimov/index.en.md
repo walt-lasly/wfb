@@ -4,6 +4,10 @@ date: 2010-09-15
 categories: ["Authors"]
 tags: ["Isaac Asimov", "Quotations"]
 archive_url: "https://web.archive.org/web/20151001000000/http://www.thewaythefutureblogs.com/2010/09/bright-sayings-of-geniuses-no-2/"
+prev_post_url: "/posts/2010-09-10-thank-you-fandom/"
+prev_post_title: "Thank You, Fandom!"
+next_post_url: "/posts/2010-09-16-newton-and-me/"
+next_post_title: "Newton and Me"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Thank You, Fandom!**
-**Newton and Me**
 
 ## Bright Sayings of Geniuses, No. 2: Asimov
 
@@ -26,12 +28,14 @@ Frederik Pohl
 
 **Related posts:**  
 
-Bright Sayings of Geniuses, **No. 1**
+Bright Sayings of Geniuses, [**No. 1**](/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/)
 
 
 ### One Comment
 
-- Bill Goodwinsays:Haploidy’s a bore, diploidy a chore, and the transition only leaves you wanting more.September 27, 2010, 1:22 am
+- Bill Goodwin says:
+Haploidy’s a bore, diploidy a chore, and the transition only leaves you wanting more.
+September 27, 2010, 1:22 am
 
 **WordPress**
 **TWTFB2**

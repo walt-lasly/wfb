@@ -4,6 +4,10 @@ date: 2009-09-28
 categories: ["Authors", "Books", "Personal"]
 tags: ["Academics", "Dirk Wylie", "New York", "Prozines"]
 archive_url: "https://web.archive.org/web/20171201000000/http://www.thewaythefutureblogs.com/2009/09/let-there-be-fandom-part-2-school-days/"
+prev_post_url: "/posts/2009-09-25-some-feedback-finally/"
+prev_post_title: "Some Feedback. Finally"
+next_post_url: "/posts/2009-10-01-deborah-webster-s-solution/"
+next_post_title: "Deborah Webster’s Solution"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Some Feedback. Finally**
-**Deborah Webster’s Solution**
 
 ## Let There Be Fandom, Part 2: School Days
 
@@ -68,21 +70,34 @@ But the excitement of the world outside never waned.
 
 **Related posts:**
 
-- The Quadrumvirate
-- When I Graduated from High School (After 73 Years)
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 6: The Pros!
-- Let There Be Fandom, Part 7: The Crusade
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**When I Graduated from High School (After 73 Years)**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
 
 
 ### 3 Comments
 
-- Faith Mikelsonssays:Fred, old friend and neighbor from Hance Rd in NJ stopping by to say hello.I haven’t seen you since the Science Fiction Convention in Boston like late 60s’, early 70s’  And the party afterwards was great.faithfmikelsons@yahoo.comSeptember 28, 2009, 7:53 am
-- Stefan Jonessays:Good entry, and I hope to read more like it.It’s interesting to read how, at least in places like NYC, there have been “magnet schools” for going on a century. (My cousins went to the Stuvuysant braniac school . . . I’m guessing that was too far for you?)September 28, 2009, 12:49 pm
-- Mark Morrissays:Mr. Pohl,I really enjoy reading these stories. These reminiscences about the past are so fascinating. Life was so different back then when you were a kid.I am forty eight years old and it amazes me how much has changed in thirty years.I read your autobiography and enjoyed it too.September 29, 2009, 9:26 pm
+- Faith Mikelsons says:
+Fred, old friend and neighbor from Hance Rd in NJ stopping by to say hello.
+I haven’t seen you since the Science Fiction Convention in Boston like late 60s’, early 70s’  And the party afterwards was great.
+faith
+fmikelsons@yahoo.com
+September 28, 2009, 7:53 am
+- Stefan Jones says:
+Good entry, and I hope to read more like it.
+It’s interesting to read how, at least in places like NYC, there have been “magnet schools” for going on a century. (My cousins went to the Stuvuysant braniac school . . . I’m guessing that was too far for you?)
+September 28, 2009, 12:49 pm
+- Mark Morris says:
+Mr. Pohl,
+I really enjoy reading these stories. These reminiscences about the past are so fascinating. Life was so different back then when you were a kid.
+I am forty eight years old and it amazes me how much has changed in thirty years.
+I read your autobiography and enjoyed it too.
+September 29, 2009, 9:26 pm
 
 **WordPress**
 **TWTFB**

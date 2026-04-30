@@ -4,6 +4,10 @@ date: 2013-07-25
 categories: ["Miscellaneous"]
 tags: ["Academics", "Allen R. Sanderson", "Economics", "John Maynard Keynes", "Politics"]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2013/07/what-we-learn-in-economics/"
+prev_post_url: "/posts/2013-07-22-what-should-we-occupiers-occupy/"
+prev_post_title: "What Should We Occupiers Occupy?"
+next_post_url: "/posts/2013-07-29-and-the-day-came/"
+next_post_title: "And the Day Came"
 translated: false
 ---
 

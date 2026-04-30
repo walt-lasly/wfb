@@ -4,6 +4,10 @@ date: 2010-04-25
 categories: ["Authors"]
 tags: ["Artists", "Carlo Rotella", "Conventions", "Dan Simmons", "Editors", "Frank Herbert", "Henry James", "Horace L. Gold", "Hugo Awards", "Isaac Asimov", "Italo Calvino", "Jack Gaughan", "Jack Vance", "James Branch Cabell", "Marcel Proust", "Media", "Michael Chabon", "Norma Vance", "Poul Anderson", "Prozines", "Robert Guinn", "Science Fiction Research Association", "World War II"]
 archive_url: "https://web.archive.org/web/20160101000000/http://www.thewaythefutureblogs.com/2010/04/jack-vance-the-master-of-the-dragons/"
+prev_post_url: "/posts/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/"
+prev_post_title: "Here Come the Clowns: Senator Richard Shelby (R-AL)"
+next_post_url: "/posts/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/"
+next_post_title: "Fred’s Distilled Writing Wisdom, Part 2: Collaboration"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Here Come the Clowns: Senator Richard Shelby (R-AL)**
-**Fred’s Distilled Writing Wisdom, Part 2: Collaboration**
 
 ## Jack Vance: The Master of the Dragons
 
@@ -96,7 +98,9 @@ Since then we do keep in some sort of touch by the occasional phone call, and I 
 - Kevin Standlee says:
 The reason that The Dragon Masters won for “short story” was that the 1963 Hugo Awards had only two categories for written fiction: Novel and Short Fiction. Anything that wasn’t a novel was considered “short fiction,” so Vance’s work, which was shorter than a novel, fell into the “short fiction” category. Nowadays, of course, there are four written fiction categories ranging from short story to Novel, but the definitions of the Hugo Award categories get changed over time and from year to year, such as the addition of Graphic Story category ratified last year.
 April 25, 2010, 1:49 pm
-- Briansays:I’ve been slow to get into Jack Vance’s work, though a number of people have told me I’d really enjoy it. Your post has pretty much tipped me over the edge; I guess it’s time for me to play catch up. Better late than never, right? Thanks for the push!April 25, 2010, 7:35 pm
+- Brian says:
+I’ve been slow to get into Jack Vance’s work, though a number of people have told me I’d really enjoy it. Your post has pretty much tipped me over the edge; I guess it’s time for me to play catch up. Better late than never, right? Thanks for the push!
+April 25, 2010, 7:35 pm
 - Stefan Jones says:
 I haven’t read anything by Vance in years . . . because I read it all, several times over, and it is so vivid I’m not sure if I have to re-read it. I feel like I could follow Cugel the Clever’s route across the Dying Earth by the landscape directions alone.
 Well, I do need to catch up on some of the very latest few books. I should really hit up Amazon and take care of that.
@@ -104,10 +108,25 @@ And man, those names of his; the evocation of a world with a few sentences! That
 * * *
 The New York Times profile of Vance was wonderful. I felt like laminating it on a paddle and whacking it over the head of a certain college “creative writing” teacher who sneered at science fiction. I actually read a passage from “The Moon Moth” in her class as an example of writing I admired. Stupid snob!
 April 25, 2010, 9:47 pm
-- Dan Goodmansays:In a later year, a collection of Charles Addams cartoons won the Best Nonfiction Hugo.April 26, 2010, 1:08 pm
-- Luis Guillermosays:Greeting from Spain, Mr. Pohl. As a european Vance fan, i must say here are published few of his books, That’s why i learned english. yes, i learned english why i wished to be able to read the Vance books. And, if i remember well, The Dragon Masters never has been published in Spain.  And a few weeks ago, i put my hands in the Galaxy issue with the story in.Wonderful piece of work. Wonderful story. Pure enjoyment. Vance was the writer who make me a SF reader. And i thank to him for this,And to you, Mr. Pohl, for publish The Dragon Masters.P.S.: Sorry for the typos and all the spelling mistakes.April 27, 2010, 3:50 am
-- David B. Williamssays:Didn’t you also do some tinkering with the epigraphs that opened most chapters in the “Demon Prince” novel series (The Star King and The Palace of Love were serialized in Galaxy/IF).Jack lost what little vision he had from a laser surgery for glaucoma in the late 1980s.  He was already using word processing, and for the next 15 years or so he wrote with an increasingly elaborate computer system, first with enlarged fonts on a big screen, then finally with a voice synthasizer to read back what he has written.  This was painfully slow, and it took him several years to finish his last novel (Lurulu).  He gave up writing in 2004 (I may have been there when it happened; he and Norma had moved back to the house he had given to his son, his work station was set up, and Norma told me that she had been urging him to press his nose back on the grindstone, but Jack was avoiding it).Then, out of the blue, last year he published an autobiography - dictated onto tape and transcribed by his live-in helper.April 27, 2010, 11:43 am
-- Stefan Jonessays:Aha, thank you David! I didn’t realize that the bio had been published:http://www.amazon.com/This-Me-Jack-Vance/dp/1596062452After reading an interview with Mr. Vance several years back, I formed a picture of him in my head, based on a character in “Seinfeld:” The curmudgeonly, adventurous, bullshit-intolerant father of Elaine Benes. I’m going to get that autobiography, if only to see how close that image is to the truth.April 27, 2010, 10:55 pm
+- Dan Goodman says:
+In a later year, a collection of Charles Addams cartoons won the Best Nonfiction Hugo.
+April 26, 2010, 1:08 pm
+- Luis Guillermo says:
+Greeting from Spain, Mr. Pohl. As a european Vance fan, i must say here are published few of his books, That’s why i learned english. yes, i learned english why i wished to be able to read the Vance books. And, if i remember well, The Dragon Masters never has been published in Spain.  And a few weeks ago, i put my hands in the Galaxy issue with the story in.
+Wonderful piece of work. Wonderful story. Pure enjoyment. Vance was the writer who make me a SF reader. And i thank to him for this,
+And to you, Mr. Pohl, for publish The Dragon Masters.
+P.S.: Sorry for the typos and all the spelling mistakes.
+April 27, 2010, 3:50 am
+- David B. Williams says:
+Didn’t you also do some tinkering with the epigraphs that opened most chapters in the “Demon Prince” novel series (The Star King and The Palace of Love were serialized in Galaxy/IF).
+Jack lost what little vision he had from a laser surgery for glaucoma in the late 1980s.  He was already using word processing, and for the next 15 years or so he wrote with an increasingly elaborate computer system, first with enlarged fonts on a big screen, then finally with a voice synthasizer to read back what he has written.  This was painfully slow, and it took him several years to finish his last novel (Lurulu).  He gave up writing in 2004 (I may have been there when it happened; he and Norma had moved back to the house he had given to his son, his work station was set up, and Norma told me that she had been urging him to press his nose back on the grindstone, but Jack was avoiding it).
+Then, out of the blue, last year he published an autobiography - dictated onto tape and transcribed by his live-in helper.
+April 27, 2010, 11:43 am
+- Stefan Jones says:
+Aha, thank you David! I didn’t realize that the bio had been published:
+http://www.amazon.com/This-Me-Jack-Vance/dp/1596062452
+After reading an interview with Mr. Vance several years back, I formed a picture of him in my head, based on a character in “Seinfeld:” The curmudgeonly, adventurous, bullshit-intolerant father of Elaine Benes. I’m going to get that autobiography, if only to see how close that image is to the truth.
+April 27, 2010, 10:55 pm
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,10 @@ date: 2011-11-01
 categories: ["Authors"]
 tags: ["Agents", "Artists", "Carmine Infantino", "Charles N. Brown", "Clubs", "Comics", "Editors", "Elizabeth Anne Hull", "Fanzines", "Gardner Fox", "Julius Schwartz", "Mort Weisinger", "New York", "Pulps", "Science Fiction League", "World War II"]
 archive_url: "https://web.archive.org/web/20150601000000/http://www.thewaythefutureblogs.com/2011/11/julie-schwartz/"
+prev_post_url: "/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/"
+prev_post_title: "Do You Enjoy Eating a Victim of Torture?"
+next_post_url: "/posts/2011-11-03-how-to-publish-a-fanzine/"
+next_post_title: "How to Publish a Fanzine"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Do You Enjoy Eating a Victim of Torture?**
-**How to Publish a Fanzine**
 
 ## Julie Schwartz
 
@@ -104,16 +106,48 @@ And for how many people can any of us make that same claim?
 
 ### 10 Comments
 
-- Robert Nowallsays:I’ve read some comics but never been a big fan—not like SF.  But I picked up Julius Schwartz’s memoirs, and was impressed by his comment that, late in life at (I think) the World Fantasy Convention, he was the only one there who had known H. P. Lovecraft personally.  (Not just that, but he was his agent, too.)The whole memoir, much like “The Way the Future Was,” was a fun read…November 1, 2011, 7:43 am
-- Michael Rawdonsays:I saw Julie at a science fiction convention in the late 90s, where he mostly talked about his days as an agent for SF writers.  He easily filled the hour-plus of the panel, and probably would have just kept going if the next panel hadn’t kicked us out of the room.  If I recall correctly, he said he sold Ray Bradbury’s first story?  And also that he recruited Alfred Bester to write Green Lantern, where Bester came up with the familiar oath for the character.I could probably go look all this up, since I recall that most of his talk went into his later autobiography, Man of Two Worlds, but of course my copy of that is at home and I’m at work!I do remember him talking up Bester’s novels, and for reasons I don’t recall he picked on me to ask if I’d read them (maybe that’s what I get for sitting in the front row), which I hadn’t.  He admonished me to go read them, so I did, and The Demolished Man is now one of my favorite novels.That’s the only time I ever saw him, but he was so much fun I always urged my fannish friends to go see him speak if they ever had a chance to do so.November 1, 2011, 12:45 pm
-- Stefan Jonessays:Julie Schwartz was a regular at I-Con, a campus SF convention I frequently volunteered at. Great guy, as I recall. (We also had Sam Moskowitz and Raymond Z. Gallun out many times.)I once walked Schwartz and Stan Lee to my car for a ride back to the hotel. It was fun hearing them banter. At one point I addressed Lee as “Mr. Lee,” and they both laughed. Still kids at heart, I guess!November 1, 2011, 12:49 pm
-- Kurt Busieksays:One minor correction:Julie was never editor-in-chief at DC. I don’t think they ever had anyone with that title until recently, actually, but back in 1986, when Julie retired, the equivalent was Dick Giordano, who was VP/Executive Editor, and in charge of the whole editorial department.But Julie was certainly the longest-tenured and most-respected editor there, and it was always a treat to see him at cons thereafter as DC’s “goodwill ambassador.”November 1, 2011, 1:14 pm
-- CaitieCatsays:What better legacy can a human leave, than being loved by other humans?  Thanks for this loving portrait, sir.November 2, 2011, 2:46 pm
-- JohnArmstrongsays:Did Julie ever suggest you might write some comics? DC had several long-running sf anthology books -November 2, 2011, 4:41 pm
-- Jay Borcherdingsays:While I enjoy all of Fred’s reminiscences, this one struck me as particularly poignant.It is hard to say precisely why, as I’d never heard of Julie previously, and as he evidently lived a long and happy life.  Best to chalk it up to the sweetness of the subject and the deft and sensitive writing of Mr. Pohl.Thank you, Fred.November 5, 2011, 3:01 am
-- Kim Gibbssays:Another small correction, Weisinger started at DC in 1941 with a break from around 1942 to 1946 while he served in the army.  So Schwartz actually followed Weisinger.November 5, 2011, 10:30 pm
-- Rich Lynchsays:I\’m not entirely sure that The Scienceers was the first-ever science fiction fan club.  From what I\’ve read it dates back to 1930, but so does another New York fan club, the Science Correspondence Club (which is credited with publication of the first science fiction fanzine, The Comet).November 6, 2011, 10:53 am
-- Keith Raysays:Julius Schwarz’s vacation slides from the comic “Son of Ambush Bug #6″:(quote fromhttp://www.fourhman.com/ambushbug/)“FEB 08 04: Julius Schwartz - comic book legend and one of the architects of DC’s Silver Age - has passed away at the age of 88. Julie was Ambush Bug’s editor during his heyday and was often featured in the books. We salute you, Julie. You are missed. (So let’s all take one last look at Julie’s vacation slides!)\"http://www.fourhman.com/ambushbug/julie-vaca.htmNovember 7, 2011, 3:21 pm
+- Robert Nowall says:
+I’ve read some comics but never been a big fan—not like SF.  But I picked up Julius Schwartz’s memoirs, and was impressed by his comment that, late in life at (I think) the World Fantasy Convention, he was the only one there who had known H. P. Lovecraft personally.  (Not just that, but he was his agent, too.)
+The whole memoir, much like “The Way the Future Was,” was a fun read…
+November 1, 2011, 7:43 am
+- Michael Rawdon says:
+I saw Julie at a science fiction convention in the late 90s, where he mostly talked about his days as an agent for SF writers.  He easily filled the hour-plus of the panel, and probably would have just kept going if the next panel hadn’t kicked us out of the room.  If I recall correctly, he said he sold Ray Bradbury’s first story?  And also that he recruited Alfred Bester to write Green Lantern, where Bester came up with the familiar oath for the character.
+I could probably go look all this up, since I recall that most of his talk went into his later autobiography, Man of Two Worlds, but of course my copy of that is at home and I’m at work!
+I do remember him talking up Bester’s novels, and for reasons I don’t recall he picked on me to ask if I’d read them (maybe that’s what I get for sitting in the front row), which I hadn’t.  He admonished me to go read them, so I did, and The Demolished Man is now one of my favorite novels.
+That’s the only time I ever saw him, but he was so much fun I always urged my fannish friends to go see him speak if they ever had a chance to do so.
+November 1, 2011, 12:45 pm
+- Stefan Jones says:
+Julie Schwartz was a regular at I-Con, a campus SF convention I frequently volunteered at. Great guy, as I recall. (We also had Sam Moskowitz and Raymond Z. Gallun out many times.)
+I once walked Schwartz and Stan Lee to my car for a ride back to the hotel. It was fun hearing them banter. At one point I addressed Lee as “Mr. Lee,” and they both laughed. Still kids at heart, I guess!
+November 1, 2011, 12:49 pm
+- Kurt Busiek says:
+One minor correction:
+Julie was never editor-in-chief at DC. I don’t think they ever had anyone with that title until recently, actually, but back in 1986, when Julie retired, the equivalent was Dick Giordano, who was VP/Executive Editor, and in charge of the whole editorial department.
+But Julie was certainly the longest-tenured and most-respected editor there, and it was always a treat to see him at cons thereafter as DC’s “goodwill ambassador.”
+November 1, 2011, 1:14 pm
+- CaitieCat says:
+What better legacy can a human leave, than being loved by other humans?  Thanks for this loving portrait, sir.
+November 2, 2011, 2:46 pm
+- JohnArmstrong says:
+Did Julie ever suggest you might write some comics? DC had several long-running sf anthology books -
+November 2, 2011, 4:41 pm
+- Jay Borcherding says:
+While I enjoy all of Fred’s reminiscences, this one struck me as particularly poignant. 
+It is hard to say precisely why, as I’d never heard of Julie previously, and as he evidently lived a long and happy life.  Best to chalk it up to the sweetness of the subject and the deft and sensitive writing of Mr. Pohl. 
+Thank you, Fred.
+November 5, 2011, 3:01 am
+- Kim Gibbs says:
+Another small correction, Weisinger started at DC in 1941 with a break from around 1942 to 1946 while he served in the army.  So Schwartz actually followed Weisinger.
+November 5, 2011, 10:30 pm
+- Rich Lynch says:
+I\’m not entirely sure that The Scienceers was the first-ever science fiction fan club.  From what I\’ve read it dates back to 1930, but so does another New York fan club, the Science Correspondence Club (which is credited with publication of the first science fiction fanzine, The Comet).
+November 6, 2011, 10:53 am
+- Keith Ray says:
+Julius Schwarz’s vacation slides from the comic “Son of Ambush Bug #6″:  
+(quote from http://www.fourhman.com/ambushbug/)
+“FEB 08 04: Julius Schwartz - comic book legend and one of the architects of DC’s Silver Age - has passed away at the age of 88. Julie was Ambush Bug’s editor during his heyday and was often featured in the books. We salute you, Julie. You are missed. (So let’s all take one last look at Julie’s vacation slides!)\"
+http://www.fourhman.com/ambushbug/julie-vaca.htm
+November 7, 2011, 3:21 pm
 
 **WordPress**
 **TWTFB**

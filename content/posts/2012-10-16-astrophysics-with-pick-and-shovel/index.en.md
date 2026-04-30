@@ -4,6 +4,10 @@ date: 2012-10-16
 categories: ["Science", "Space"]
 tags: ["Moon"]
 archive_url: "https://web.archive.org/web/20190701000000/http://www.thewaythefutureblogs.com/2012/10/astrophysics-with-pick-and-shovel/"
+prev_post_url: "/posts/2012-10-01-early-editors/"
+prev_post_title: "Early Editors"
+next_post_url: "/posts/2012-10-30-a-vote-for-the-gop-is-a-vote-against-the-earth/"
+next_post_title: "A vote for the GOP is a vote against the Earth"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Early Editors**
-**A vote for the GOP is a vote against the Earth**
 
 ## Astrophysics with Pick and Shovel
 
@@ -47,15 +49,37 @@ So, if you want to learn the secrets of or galaxy, don’t bother with big teles
 
 ### 9 Comments
 
-- Joshua Zuckersays:That’s really cool!  I didn’t know that about iron-60.I think your orbital period is off by a factor of a few, though — more like 240 million years for one trip around the galactic center.October 16, 2012, 5:08 pm
-- Bill Goodwinsays:There are ten thousand reasons for us be walking, crawling and roving all over the moon, and only two reasons that we’re not: ignorance and apathy.  It’s time to choose which qualities define us!October 17, 2012, 11:18 pm
-- H. E. Parmersays:That first link, though, was pretty worthless. It reminded me of Roz Chast’s cartoon of a Bad-Translationese version of Peter Pan: “Peter Pan — what is? Is pan with not-want-growing-up feeling.” (Accompanied, of course, with an illustration featuring a winged frying pan.) You know I’m not going to be able to rest until I find out what “hondruly” and “hondrulah” are.Still, I didn’t see anything in the link to the article about the Iron-60 found in deep-sea rocks which states that more than one supernova was responsible for the deposit. So that’s no indication the local neighborhood was all that different, 2.8 to 3.1 million years previous. I also imagine someone, somewhere is even now “running the film back” and looking for a supernova remnant within 100 to 200 light years of where the solar system was, a little over 1/100th of a galactic revolution ago.October 18, 2012, 2:49 pm
-- H. E. Parmersays:Oops. That should have been “looking for a supernova remnant *which was* within 100 to 200 light years of where the solar system was [around 3 million years ago].” Which I imagine both complicates the search and expands the amount of real estate you have to sift through.October 18, 2012, 3:00 pm
-- Bill Higgins-- Beam Jockeysays:I have a shovel in the garage.  Let’s go!October 19, 2012, 11:26 am
-- Nestorsays:I think the helium 3 mining might be a better sell for the man on the street and the politician on the hill, even if it probably is a bit of a crock. But who knows, perhaps Neil deGrasse Tyson can pull it off…October 19, 2012, 7:45 pm
-- H. E. Parmersays:Not, mind you, that I have anything against going back to the Moon. And the science we could do is just one of the excellent reasons we should. (Plus I’d feel a bit more optimistic about our species’ chances of survival.)October 24, 2012, 3:28 pm
-- Marc Marinosays:I really shouldn’t comment  too much up here, I’ll make myself look stupid.  So I’ll mostly read and learn about science.I didn’t know they think the galaxies are constantly moving and I don’t know how iron60 is different than other iron. And I don’t know how it would benefit us.  but hey, I’ve always felt we should pursue space exploration.  I’ts a more worthwhile activity than  many other things our government spends money on. And I hope the rest of you don’t think I’m a luna tic!October 25, 2012, 3:48 pm
-- Nestorsays:>ignorance and apathy. It’s time to choose which qualities define us!Well for me it’s mostly apathy, with a side helping of ignorance.October 28, 2012, 6:32 am
+- Joshua Zucker says:
+That’s really cool!  I didn’t know that about iron-60.
+I think your orbital period is off by a factor of a few, though — more like 240 million years for one trip around the galactic center.
+October 16, 2012, 5:08 pm
+- Bill Goodwin says:
+There are ten thousand reasons for us be walking, crawling and roving all over the moon, and only two reasons that we’re not: ignorance and apathy.  It’s time to choose which qualities define us!
+October 17, 2012, 11:18 pm
+- H. E. Parmer says:
+That first link, though, was pretty worthless. It reminded me of Roz Chast’s cartoon of a Bad-Translationese version of Peter Pan: “Peter Pan — what is? Is pan with not-want-growing-up feeling.” (Accompanied, of course, with an illustration featuring a winged frying pan.) You know I’m not going to be able to rest until I find out what “hondruly” and “hondrulah” are.
+Still, I didn’t see anything in the link to the article about the Iron-60 found in deep-sea rocks which states that more than one supernova was responsible for the deposit. So that’s no indication the local neighborhood was all that different, 2.8 to 3.1 million years previous. I also imagine someone, somewhere is even now “running the film back” and looking for a supernova remnant within 100 to 200 light years of where the solar system was, a little over 1/100th of a galactic revolution ago.
+October 18, 2012, 2:49 pm
+- H. E. Parmer says:
+Oops. That should have been “looking for a supernova remnant *which was* within 100 to 200 light years of where the solar system was [around 3 million years ago].” Which I imagine both complicates the search and expands the amount of real estate you have to sift through.
+October 18, 2012, 3:00 pm
+- Bill Higgins-- Beam Jockey says:
+I have a shovel in the garage.  Let’s go!
+October 19, 2012, 11:26 am
+- Nestor says:
+I think the helium 3 mining might be a better sell for the man on the street and the politician on the hill, even if it probably is a bit of a crock. But who knows, perhaps Neil deGrasse Tyson can pull it off…
+October 19, 2012, 7:45 pm
+- H. E. Parmer says:
+Not, mind you, that I have anything against going back to the Moon. And the science we could do is just one of the excellent reasons we should. (Plus I’d feel a bit more optimistic about our species’ chances of survival.)
+October 24, 2012, 3:28 pm
+- Marc Marino says:
+I really shouldn’t comment  too much up here, I’ll make myself look stupid.  So I’ll mostly read and learn about science.
+  I didn’t know they think the galaxies are constantly moving and I don’t know how iron60 is different than other iron. And I don’t know how it would benefit us.  but hey, I’ve always felt we should pursue space exploration.  I’ts a more worthwhile activity than  many other things our government spends money on. And I hope the rest of you don’t think I’m a luna tic!
+October 25, 2012, 3:48 pm
+- Nestor says:
+>ignorance and apathy. It’s time to choose which qualities define us!
+Well for me it’s mostly apathy, with a side helping of ignorance. 
+October 28, 2012, 6:32 am
 
 **WordPress**
 **TWTFB2**

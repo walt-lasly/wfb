@@ -4,6 +4,10 @@ date: 2013-05-21
 categories: ["Personal"]
 tags: ["Italy", "World War II"]
 archive_url: "https://web.archive.org/web/20201201000000/http://www.thewaythefutureblogs.com/2013/05/my-war-part-2-flying-a-desk/"
+prev_post_url: "/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
+prev_post_title: "My War: The Night of the Invasion of Southern France"
+next_post_url: "/posts/2013-05-22-did-you-get-any/"
+next_post_title: "Did You Get Any?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**My War: The Night of the Invasion of Southern France**
-**Did You Get Any?**
 
 ## My War, Part 2:  Flying a desk
 
@@ -41,14 +43,18 @@ As a resident of the Eremo, I had my own room with my own sheeted and pillowed b
 
 **Related posts:**
 
-- **My War**, **Part 1**
-- Hal Clement: Major Harry Stubbs
-- How I Lost My Oldest Friend (and Gained a Literary Agency)
+- **My War**, [**Part 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+- [**Hal Clement: Major Harry Stubbs**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
+- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### One Comment
 
-- Stefan Jonessays:Great stuff, keep it coming.Recreational hotel? Dang. Actual accounts of war show a much more complex picture than fiction.In modern times you’d be the editor of the squadron website.May 21, 2013, 12:01 pm
+- Stefan Jones says:
+Great stuff, keep it coming.
+Recreational hotel? Dang. Actual accounts of war show a much more complex picture than fiction.
+In modern times you’d be the editor of the squadron website.
+May 21, 2013, 12:01 pm
 
 **WordPress**
 **TWTFB2**

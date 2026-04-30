@@ -4,6 +4,10 @@ date: 2010-11-23
 categories: ["Authors", "Travel"]
 tags: ["Carl Sagan", "Conventions", "Isaac Asimov", "Katherine Anne Porter", "Norman Mailer", "Robert A. Heinlein"]
 archive_url: "https://web.archive.org/web/20150501000000/http://www.thewaythefutureblogs.com/2010/11/the-ship-of-foolishness-part-2/"
+prev_post_url: "/posts/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/"
+prev_post_title: "The Ship of Foolishness, Part 1: The Foreplay"
+next_post_url: "/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/"
+next_post_title: "The Ship of Foolishness, Part 3: Apollo 17"
 translated: false
 ---
 

@@ -4,6 +4,10 @@ date: 2010-12-21
 categories: ["Books", "Personal", "Science"]
 tags: ["Academics", "Great Depression", "New York", "Samuel Mersereau"]
 archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2010/12/early-days-at-brooklyn-tech/"
+prev_post_url: "/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/"
+prev_post_title: "Judith Merril, Part 9: Friends Again Before the End"
+next_post_url: "/posts/2010-12-22-early-days-at-brooklyn-tech-part-2/"
+next_post_title: "Early Days at Brooklyn Tech, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Judith Merril, Part 9: Friends Again Before the End**
-**Early Days at Brooklyn Tech, Part 2**
 
 ## Early Days at Brooklyn Tech
 
@@ -51,14 +53,18 @@ But then I read the book and discovered that ‘industrial processes’  meant t
 
 **Related posts:**
 
-- Let There Be Fandom, Part 2: School Days
-- When I Graduated from High School (After 73 Years)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**When I Graduated from High School (After 73 Years)**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 
 
 ### 2 Comments
 
-- Orinsays:I went to a Kosciusko Primary in Australia (Kosciusko also being the continent’s tallest mountain) – pronounced here Kozzie-OzkoDecember 21, 2010, 7:05 am
-- Dwight Deckersays:I have a facsimile reprint of the pulp magazine MIRACLE SCIENCE & FANTASY STORIES #2 from 1931, and there’s a full-page ad for the Coyne Electrical School in Chicago. Even then, Coyne was offering instruction in not only electrical and radio but television technology as well. The ad shows a photo captioned, “Student working on television transmitter in Coyne Radio Shop” and there’s an optimistic blurb: “And now Television is here!” I know TV research was going on in the ’20s, but it’s a little astonishing to see things were that far along as early as 1931. Who knew it would take more than fifteen years after that for TV to even begin to penetrate the mass market…?December 21, 2010, 8:38 pm
+- Orin says:
+I went to a Kosciusko Primary in Australia (Kosciusko also being the continent’s tallest mountain) – pronounced here Kozzie-Ozko
+December 21, 2010, 7:05 am
+- Dwight Decker says:
+I have a facsimile reprint of the pulp magazine MIRACLE SCIENCE & FANTASY STORIES #2 from 1931, and there’s a full-page ad for the Coyne Electrical School in Chicago. Even then, Coyne was offering instruction in not only electrical and radio but television technology as well. The ad shows a photo captioned, “Student working on television transmitter in Coyne Radio Shop” and there’s an optimistic blurb: “And now Television is here!” I know TV research was going on in the ’20s, but it’s a little astonishing to see things were that far along as early as 1931. Who knew it would take more than fifteen years after that for TV to even begin to penetrate the mass market…?
+December 21, 2010, 8:38 pm
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2013-04-03
 categories: ["Authors", "Personal", "Travel"]
 tags: ["Academics", "Clubs", "Conventions", "Editors", "Elizabeth Anne Hull", "Gerald Ford", "Gordon R. Dickson", "Jimmy Carter", "Politics", "Publishing", "Science Fiction Research Association", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20160801000000/http://www.thewaythefutureblogs.com/2013/04/arrival-part-3-kc-in-the-gops-wake/"
+prev_post_url: "/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/"
+prev_post_title: "Bright Sayings of Bright People, No. 43: Garcia"
+next_post_url: "/posts/2013-04-15-what-does-your-dog-think-ball-means/"
+next_post_title: "What Does Your Dog Think ‘Ball’ Means?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 43: Garcia**
-**What Does Your Dog Think ‘Ball’ Means?**
 
 ## Arrival, Part 3: KC in the GOP’s Wake
 
@@ -93,27 +95,48 @@ I said,  “Members can bring guests.  Let’s give it a look.”
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 6: The Deal
-- Arrival, Part 7: Departure
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-08-arrival-part-6-the-deal/)
 
 
 ### 8 Comments
 
-- Robert Nowallsays:Never let anyone who’s out there politicking to sign for anything—make ’em pay cash.  This goes for either party.April 7, 2013, 9:42 am
-- Michael Walshsays:MidAmeriCon was my second Worldcon (Discon II being the first) and of of my memories is a place near the hotel called the Pioneer Grill that kept late hours. It was where the hookers hung out between, er … dates. They apparently were glad that most of fandom were not interested or in need of their services, having been quite busy with some prior convention.April 7, 2013, 12:07 pm
-- Kensays:Even though I think I know the ending, the suspense is killing me!April 8, 2013, 8:08 pm
-- Raja Thiagarajansays:Hello again Mr. Pohl! I’m waiting with bated breath to hear more of this story 😉April 10, 2013, 2:01 pm
+- Robert Nowall says:
+Never let anyone who’s out there politicking to sign for anything—make ’em pay cash.  This goes for either party.
+April 7, 2013, 9:42 am
+- Michael Walsh says:
+MidAmeriCon was my second Worldcon (Discon II being the first) and of of my memories is a place near the hotel called the Pioneer Grill that kept late hours. It was where the hookers hung out between, er … dates. They apparently were glad that most of fandom were not interested or in need of their services, having been quite busy with some prior convention.
+April 7, 2013, 12:07 pm
+- Ken says:
+Even though I think I know the ending, the suspense is killing me!
+April 8, 2013, 8:08 pm
+- Raja Thiagarajan says:
+Hello again Mr. Pohl! I’m waiting with bated breath to hear more of this story 😉
+April 10, 2013, 2:01 pm
 - H. E. Parmer says:
 [The Republican delegates] laid waste to Kansas City’s entertainment industry in a blizzard of bum checks and invalid credit cards …
 And a mere four years later, they were able to do the same to the entire country!
 April 11, 2013, 12:30 am
-- Bill Higgins-- Beam Jockeysays:I can’t wait to see how this turns out.April 11, 2013, 5:35 pm
-- John Armstrongsays:Keep it coming Fred – love reading thesePS – lost your personal email. I’d like to send you the first bit of my new book, so you can see the dedication. Not enough book involved to put you in harm’s way re: legal stuff.Best,JohnApril 13, 2013, 3:23 pm
-- Neil in Chicagosays:I’ve been to two Worldcons which followed Republican national conventions, and the hotel staff were really glad to see us . . .That SFRA conference sounds like the one where Beverly Friend put me on my first-ever panel.  Me, Phyllis and Alex Eisenstein, Buck and Juanita Coulson, and a guy from the University of Maine (I think), telling a score of high school teachers how to do a science fiction class.Of course, there’s really only one crucial piece of advice:  The first day of class, look at the students carefully.  There will be one (maybe two) with glowing eyes.  GET HIM ON YOUR SIDE.  He knows more about it than you ever will, and he can make or break you.  (“He” because it’s almost certainly a male person.)And then we filled the rest of the time until it was time for questions.One of the high school teachers asked, What about taking a class to one of these science fiction conventions, for something like a field trip?  We sat in boggled silence until Buck, bless his soul, said, “Only if you have tenure!”May 2, 2013, 9:35 pm
+- Bill Higgins-- Beam Jockey says:
+I can’t wait to see how this turns out.
+April 11, 2013, 5:35 pm
+- John Armstrong says:
+Keep it coming Fred – love reading these
+PS – lost your personal email. I’d like to send you the first bit of my new book, so you can see the dedication. Not enough book involved to put you in harm’s way re: legal stuff.
+Best,
+John
+April 13, 2013, 3:23 pm
+- Neil in Chicago says:
+I’ve been to two Worldcons which followed Republican national conventions, and the hotel staff were really glad to see us . . .
+That SFRA conference sounds like the one where Beverly Friend put me on my first-ever panel.  Me, Phyllis and Alex Eisenstein, Buck and Juanita Coulson, and a guy from the University of Maine (I think), telling a score of high school teachers how to do a science fiction class.
+Of course, there’s really only one crucial piece of advice:  The first day of class, look at the students carefully.  There will be one (maybe two) with glowing eyes.  GET HIM ON YOUR SIDE.  He knows more about it than you ever will, and he can make or break you.  (“He” because it’s almost certainly a male person.)
+And then we filled the rest of the time until it was time for questions.
+One of the high school teachers asked, What about taking a class to one of these science fiction conventions, for something like a field trip?  We sat in boggled silence until Buck, bless his soul, said, “Only if you have tenure!”
+May 2, 2013, 9:35 pm
 
 **WordPress**
 **TWTFB2**

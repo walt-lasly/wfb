@@ -4,6 +4,10 @@ date: 2010-02-26
 categories: ["Authors", "Personal", "Science", "Space"]
 tags: ["Capitalism", "Ecology", "Isaac Asimov", "John Diebold", "John Lindsay", "Mars", "New York", "Politics", "Predictions"]
 archive_url: "https://web.archive.org/web/20140801000000/http://www.thewaythefutureblogs.com/2010/02/isaac-part-4-and-some-other-guys/"
+prev_post_url: "/posts/2010-02-18-picc-up-question/"
+prev_post_title: "PICC-up Question"
+next_post_url: "/posts/2010-03-05-isaac-part-5-in-our-continuing-series/"
+next_post_title: "Isaac,Part 5 in our continuing series"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**PICC-up Question**
-**Isaac, Part 5 in our continuing series**
 
 ## Isaac,Part 4, and some other guys
 
@@ -89,26 +91,87 @@ Lindsay had been plausible and persuasive, and he fairly nearly convinced me I w
 
 **Related posts**:
 
-- **Isaac,** **Part 1**, **Part 2**, **Part 3**, **Part 5**, **Part 6**, **Part 7**
-- Russians, Jews and Isaac
+- **Isaac,** [**Part 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 2**](/posts/2010-01-31-isaac-part-2-of-many/), [**Part 3**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/), [**Part 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Part 6**](/posts/2010-11-10-isaac-part-6/), [**Part 7**](/posts/2010-11-15-isaac-part-7/)
+- [**Russians, Jews and Isaac**](/posts/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 13 Comments
 
-- RABsays:Perhaps the Corporate Leisure Time scenario can be considered a useful mistake rather than stupidity?  Maybe your proposal made one or two businessmen in the audience believe things really were going to work out that way, and act accordingly.  That is, someone in that audience may have undertaken some specific act of corporate philanthropy in the mistaken belief that this was the wave of the future and he would benefit personally from being seen as a leader in that direction.   Clearly it didn’t work out on the larger scale, but wouldn’t it have been something if it had become a self-fulfilling prophecy this way?February 26, 2010, 9:31 pm
-- Jeff Gondeksays:Mr. Pohl,While I think your predictions may not have hit the nail on the head exactly, I think in one case you’re more right than you think, and in the other, it’s still really interesting why the prediction was wrong.With the GM talk, it showed how they had planned on being nimble, but in their success and assumptions about how to be nimble, they actually blinded themselves as to what it would take to actually be nimble and react to stuff like rising health care costs. The unions kind of take a bullet too for lack of foresight because they really lost sight of that factor too. The employees were more expensive, so they lost jobs, so they influence, etc etc vicious circle. If nothing else, it makes a really great lesson, no?As for the corporation using marginal time to do interesting stuff, Google actually is pretty close to hitting that mark. They do a 20% program, where that much of their time can be dedicated to pursuing whatever the employee is interested in. While the acts themselves aren’t directly altruistic products, according to this info graph (http://royal.pingdom.com/2010/02/24/google-facts-and-figures-massive-infographic/), half of Google’s offerings came from these 20% time projects, and that contributes to Google’s success. And with that success, Google does do a lot of community healthy altruistic works, so I think you actually get a win there. What do you think?JeffFebruary 26, 2010, 9:56 pm
+- RAB says:
+Perhaps the Corporate Leisure Time scenario can be considered a useful mistake rather than stupidity?  Maybe your proposal made one or two businessmen in the audience believe things really were going to work out that way, and act accordingly.  That is, someone in that audience may have undertaken some specific act of corporate philanthropy in the mistaken belief that this was the wave of the future and he would benefit personally from being seen as a leader in that direction.   Clearly it didn’t work out on the larger scale, but wouldn’t it have been something if it had become a self-fulfilling prophecy this way?
+February 26, 2010, 9:31 pm
+- Jeff Gondek says:
+Mr. Pohl,
+While I think your predictions may not have hit the nail on the head exactly, I think in one case you’re more right than you think, and in the other, it’s still really interesting why the prediction was wrong.
+With the GM talk, it showed how they had planned on being nimble, but in their success and assumptions about how to be nimble, they actually blinded themselves as to what it would take to actually be nimble and react to stuff like rising health care costs. The unions kind of take a bullet too for lack of foresight because they really lost sight of that factor too. The employees were more expensive, so they lost jobs, so they influence, etc etc vicious circle. If nothing else, it makes a really great lesson, no?
+As for the corporation using marginal time to do interesting stuff, Google actually is pretty close to hitting that mark. They do a 20% program, where that much of their time can be dedicated to pursuing whatever the employee is interested in. While the acts themselves aren’t directly altruistic products, according to this info graph ( http://royal.pingdom.com/2010/02/24/google-facts-and-figures-massive-infographic/ ), half of Google’s offerings came from these 20% time projects, and that contributes to Google’s success. And with that success, Google does do a lot of community healthy altruistic works, so I think you actually get a win there. What do you think?
+Jeff
+February 26, 2010, 9:56 pm
 - Ross Presser says:
 In The Bicentennial Man collection, Asimov mentions how he got drunk on two grasshoppers. “A year or so later during the course of a science fiction convention, Judy-Lynn persuaded me to have two grasshoppers and I was instantly reduced to a kind of wild drunken merriment, and since then no one lets me have grasshoppers any more. Just as well!”  From the context this would have been about 1969 or 1970.
 February 27, 2010, 12:08 am
-- David S.says:Mars 3 was a Soviet probe, not American, that landed on Mars on Dec 2 1971 and stopped transmitting information 14.5 seconds later. Could your meeting have been on Dec 2 rather than Dec 12 1971?The first American probe to land on Mars was Viking 1, on July 20 1975.February 27, 2010, 12:59 am
-- Lee Goldsays:Viking 1 landed on July 20, 1976, not 1975, according not only to a song I wrote about it some years later (at the request of a friend who worked at JPL and was upset that nobody remembered the Viking 1 landing) but also to the Wikipedia article.THE TWENTIETH OF JULYby Lee Gold, Copyright October, 1989to the tune of “The Rising of the Moon” (aka “The Wearing of the Green”)[Viking I landed on Mars July 20, 1976 and sent back observations until November of 1982.  Three years earlier the Soviet Mars 4 had landed on Mars and sent back a few seconds worth of observations before falling silent.]Oh, we dreamed and planned and built her, and we watched her rocket flare,And we waited as she spiraled on her course from here to there.And then finally she landed, and we realized with a sighThat nobody would recall her, on the twentieth of July.CHORUS:On the twentieth of July!The twentieth of July!Our first soft Martian landingWas the twentieth of July.Oh, she cast off all her lens caps, and her cameras purred like new,And we had to tell the film lab that the sky was pink, not blue.Oh, she ran all our experiments — and nothing went awry,But there’s nobody recalls her on the twentieth of July.CHORUSNow we’re not grudging credit to the Eagle’s gallant men;Let’s hope that someday NASA gets us back up there again.But when you count up countdowns, don’t let this one go by.The Viking 1 softlanded on the twentieth of July.CHORUSFebruary 27, 2010, 10:09 am
-- Matt McIrvinsays:Viking 1 landed in 1976.  The originally scheduled landing date was July 4, for the Bicentennial; it was delayed slightly to July 20, the seventh anniversary of the Apollo 11 landing.February 27, 2010, 2:35 pm
-- steve davidsonsays:Mr. Pohl,I’ve been greatly enjoying this series - thank you very much for working on it.Just a quick note about Bell Labs.  I was working there when they replaced the head of the division (think it was Penzias) - a research scientist - with someone who came from the marketing side.  We were all appalled to hear them discuss how they were going to concentrate on ‘results-based research’;  the sub text was ‘not gonna waste any more money on pure research’.  Those of us familiar with the history of the labs were quick to point out that most everything the labs had excelled at had its origins in ‘pure research’, but the mental climate had changed.  It was the beginning of thinking about short term profits ahead of long term growth.February 27, 2010, 3:57 pm
-- Derek Lsays:The first soft landing (which was also the first American landing) was in 1976, not 1971, and wasn\\\’t carried live or even capable of imaging its descent anyhow.Mars 3 (which reached Mars on Dec 2 1971) also had no capability to image its descent, as its cameras were housed until after its (hard) landing.Martian craters were discovered in 1965 by Mariner 4.February 27, 2010, 4:47 pm
-- John Armstrongsays:I’ll bet that conversation with Lindsay sounded a bit like some passages in Years of the City, which I just read. You have no idea how happy it makes me to find a book of yours that I’ve yet to read. You’re going to have to start cranking them out a little quicker though - I’m catching up.Also, “friendlily” is about the ugliest word I’ve ever read. Why would you use it - sheer pity? You felt sorry for it?Best wishes,JohnFebruary 28, 2010, 12:47 am
-- Giles Bsays:Isaac Asimov mentions having several whisky sours forced on him by his lab partners following his successful PhD. defence. It’s in one of the volumes of The Early Asimov.I’m delighted to be posting to the blog of an author that I really admire. Thanks for your reminiscences!February 28, 2010, 1:45 am
-- Jeffsays:Would that be the same Diebold as was previously in the business of making unverifiable, easily-hacked electronic voting machines?It’s a vastly different corporate world out there. I’m not certain that your predictions wouldn’t have turned out right, had things continued as they were going. But at some point, the bean counters took over because American industry discovered it could make more money gambling on wall street than making things people want to buy.March 1, 2010, 1:38 pm
-- Michael Walshsays:Jeff,If you were to click the link for John Diebold at the beginning of the article you would get his NY Times obit, with this correction:“An obituary on Dec. 27 about John Diebold, a businessman and engineer who helped shape modern industrial development in America, misstated a business venture of John Diebold Inc., an investment firm he founded in 1967. It did not finance Diebold Election Systems, a maker of polling machines that, despite its name, has no connection to John Diebold.”March 3, 2010, 4:52 pm
+- David S. says:
+Mars 3 was a Soviet probe, not American, that landed on Mars on Dec 2 1971 and stopped transmitting information 14.5 seconds later. Could your meeting have been on Dec 2 rather than Dec 12 1971? 
+The first American probe to land on Mars was Viking 1, on July 20 1975.
+February 27, 2010, 12:59 am
+- Lee Gold says:
+Viking 1 landed on July 20, 1976, not 1975, according not only to a song I wrote about it some years later (at the request of a friend who worked at JPL and was upset that nobody remembered the Viking 1 landing) but also to the Wikipedia article.  
+THE TWENTIETH OF JULY
+by Lee Gold, Copyright October, 1989
+to the tune of “The Rising of the Moon” (aka “The Wearing of the Green”)
+	[Viking I landed on Mars July 20, 1976 and sent back observations until November of 1982.  Three years earlier the Soviet Mars 4 had landed on Mars and sent back a few seconds worth of observations before falling silent.]
+Oh, we dreamed and planned and built her, and we watched her rocket flare,
+And we waited as she spiraled on her course from here to there.
+And then finally she landed, and we realized with a sigh
+That nobody would recall her, on the twentieth of July.
+CHORUS:
+On the twentieth of July!
+The twentieth of July!
+Our first soft Martian landing
+Was the twentieth of July.
+Oh, she cast off all her lens caps, and her cameras purred like new,
+And we had to tell the film lab that the sky was pink, not blue.
+Oh, she ran all our experiments — and nothing went awry,
+But there’s nobody recalls her on the twentieth of July.
+	CHORUS
+Now we’re not grudging credit to the Eagle’s gallant men;
+Let’s hope that someday NASA gets us back up there again.
+But when you count up countdowns, don’t let this one go by.
+The Viking 1 softlanded on the twentieth of July.
+	CHORUS
+February 27, 2010, 10:09 am
+- Matt McIrvin says:
+Viking 1 landed in 1976.  The originally scheduled landing date was July 4, for the Bicentennial; it was delayed slightly to July 20, the seventh anniversary of the Apollo 11 landing.
+February 27, 2010, 2:35 pm
+- steve davidson says:
+Mr. Pohl,
+I’ve been greatly enjoying this series - thank you very much for working on it.
+Just a quick note about Bell Labs.  I was working there when they replaced the head of the division (think it was Penzias) - a research scientist - with someone who came from the marketing side.  We were all appalled to hear them discuss how they were going to concentrate on ‘results-based research’;  the sub text was ‘not gonna waste any more money on pure research’.  Those of us familiar with the history of the labs were quick to point out that most everything the labs had excelled at had its origins in ‘pure research’, but the mental climate had changed.  It was the beginning of thinking about short term profits ahead of long term growth.
+February 27, 2010, 3:57 pm
+- Derek L says:
+The first soft landing (which was also the first American landing) was in 1976, not 1971, and wasn\\\’t carried live or even capable of imaging its descent anyhow.
+Mars 3 (which reached Mars on Dec 2 1971) also had no capability to image its descent, as its cameras were housed until after its (hard) landing.
+Martian craters were discovered in 1965 by Mariner 4.
+February 27, 2010, 4:47 pm
+- John Armstrong says:
+I’ll bet that conversation with Lindsay sounded a bit like some passages in Years of the City, which I just read. You have no idea how happy it makes me to find a book of yours that I’ve yet to read. You’re going to have to start cranking them out a little quicker though - I’m catching up.
+Also, “friendlily” is about the ugliest word I’ve ever read. Why would you use it - sheer pity? You felt sorry for it?
+Best wishes,
+John
+February 28, 2010, 12:47 am
+- Giles B says:
+Isaac Asimov mentions having several whisky sours forced on him by his lab partners following his successful PhD. defence. It’s in one of the volumes of The Early Asimov.
+I’m delighted to be posting to the blog of an author that I really admire. Thanks for your reminiscences!
+February 28, 2010, 1:45 am
+- Jeff says:
+Would that be the same Diebold as was previously in the business of making unverifiable, easily-hacked electronic voting machines? 
+It’s a vastly different corporate world out there. I’m not certain that your predictions wouldn’t have turned out right, had things continued as they were going. But at some point, the bean counters took over because American industry discovered it could make more money gambling on wall street than making things people want to buy.
+March 1, 2010, 1:38 pm
+- Michael Walsh says:
+Jeff,
+If you were to click the link for John Diebold at the beginning of the article you would get his NY Times obit, with this correction:
+“An obituary on Dec. 27 about John Diebold, a businessman and engineer who helped shape modern industrial development in America, misstated a business venture of John Diebold Inc., an investment firm he founded in 1967. It did not finance Diebold Election Systems, a maker of polling machines that, despite its name, has no connection to John Diebold.”
+March 3, 2010, 4:52 pm
 - Johnny Pez says:
 Fred doesn’t mention it, but his collaboration with Isaac resulted in a book called Our Angry Earth.  It is — unfortunately — even more relevant now than when it came out in 1991, so go ahead and get a copy and read it (though not from Amazon, because they suck).
 March 4, 2010, 10:12 pm

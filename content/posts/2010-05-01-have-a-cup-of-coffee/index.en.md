@@ -4,6 +4,10 @@ date: 2010-05-01
 categories: ["Miscellaneous", "Science"]
 tags: ["Food"]
 archive_url: "https://web.archive.org/web/20261201000000/http://www.thewaythefutureblogs.com/2010/05/have-a-cup-of-coffee/"
+prev_post_url: "/posts/2010-04-29-lobster-bisque/"
+prev_post_title: "Lobster Bisque"
+next_post_url: "/posts/2010-05-03-working-with-robert-a-heinlein/"
+next_post_title: "Working with Robert A. Heinlein"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Lobster Bisque**
-**Working with Robert A. Heinlein**
 
 ## Have a Cup of Coffee?
 
@@ -47,16 +49,38 @@ And — yes — here too, I think I’ll just have some tea.
 
 ### 10 Comments
 
-- some call me Timsays:Ulrg. That may just possible be worse than the preceding bisque story. I think I’ll stick to my Folgers , thanks.May 1, 2010, 5:08 am
-- Shakatanysays:I can\’t help wondering who was the first person to make coffee out of the remnants of cat poop? Why oh why did s/he do it?May 1, 2010, 2:04 pm
-- Sarasays:See, this is why its better to drink diet coke.  You know that everything in DC is entirely organic free, so there is no possible way that it came from the digestive tract of a civet.May 1, 2010, 3:00 pm
-- Pat Butlersays:No wonder the Mormons don’t drink coffee.May 1, 2010, 10:52 pm
-- qiihoskehsays:Fortunately, the world’s most expensive coffee isn’t necessarily the best. I doubt the cheap but good locally packaged coffee is processed using any kind of cat or even rat (although I wouldn’t put it past the cockroaches to provide input; they get into everything).May 1, 2010, 10:55 pm
-- Bill Goodwinsays:All memory of these facts must be erased from the Memory of Man.May 2, 2010, 10:41 am
-- John Hsays:Seeing as how I loathe coffee anyway, the prospects of me drinking ‘cat poop’ coffee are rather remote. In fact, you couldn’t pay me enough money to drink that ‘crap’…May 3, 2010, 1:26 pm
-- Brucesays:I have to think all of these weird food concoctions have to be borne out of necessity. I can just see some 19th century British soldiers lost in the jungles of India, with their head officer going through caffeine withdrawal and demanding a pot of coffee. Suddenly they find a nice batch of well-preserved coffee beans embedded in–cat poop? “Rinse it off and the old bastid’ll nevah know!”  And then the stunt backfires on the soldiers when it turns out they’ve discovered a new delicacy, and have to search for coffee-laced cat poop for the remainder of their jungle excursion.Kind of like eating rotten milk (cheese, yogurt) in Europe, or raw fish in Japan, only moreso.May 3, 2010, 6:31 pm
-- David Molessays:I’ve had it. It was… pleasantly mild. Not something I’d pay $10/cup for more than once, but I’m not a connoisseur.May 5, 2010, 3:37 am
-- Larssays:Niggling, I realize, but civets aren’t cats. They belong to a different family. Related to the Felidae, true, but not cats, nonetheless.No true cat would eat a berry anyway.May 6, 2010, 7:00 pm
+- some call me Tim says:
+Ulrg. That may just possible be worse than the preceding bisque story. I think I’ll stick to my Folgers , thanks.
+May 1, 2010, 5:08 am
+- Shakatany says:
+I can\’t help wondering who was the first person to make coffee out of the remnants of cat poop? Why oh why did s/he do it?
+May 1, 2010, 2:04 pm
+- Sara says:
+See, this is why its better to drink diet coke.  You know that everything in DC is entirely organic free, so there is no possible way that it came from the digestive tract of a civet.
+May 1, 2010, 3:00 pm
+- Pat Butler says:
+No wonder the Mormons don’t drink coffee.
+May 1, 2010, 10:52 pm
+- qiihoskeh says:
+Fortunately, the world’s most expensive coffee isn’t necessarily the best. I doubt the cheap but good locally packaged coffee is processed using any kind of cat or even rat (although I wouldn’t put it past the cockroaches to provide input; they get into everything).
+May 1, 2010, 10:55 pm
+- Bill Goodwin says:
+All memory of these facts must be erased from the Memory of Man.
+May 2, 2010, 10:41 am
+- John H says:
+Seeing as how I loathe coffee anyway, the prospects of me drinking ‘cat poop’ coffee are rather remote. In fact, you couldn’t pay me enough money to drink that ‘crap’…
+May 3, 2010, 1:26 pm
+- Bruce says:
+I have to think all of these weird food concoctions have to be borne out of necessity. I can just see some 19th century British soldiers lost in the jungles of India, with their head officer going through caffeine withdrawal and demanding a pot of coffee. Suddenly they find a nice batch of well-preserved coffee beans embedded in–cat poop? “Rinse it off and the old bastid’ll nevah know!”  And then the stunt backfires on the soldiers when it turns out they’ve discovered a new delicacy, and have to search for coffee-laced cat poop for the remainder of their jungle excursion.
+Kind of like eating rotten milk (cheese, yogurt) in Europe, or raw fish in Japan, only moreso.
+May 3, 2010, 6:31 pm
+- David Moles says:
+I’ve had it. It was… pleasantly mild. Not something I’d pay $10/cup for more than once, but I’m not a connoisseur.
+May 5, 2010, 3:37 am
+- Lars says:
+Niggling, I realize, but civets aren’t cats. They belong to a different family. Related to the Felidae, true, but not cats, nonetheless.
+No true cat would eat a berry anyway.
+May 6, 2010, 7:00 pm
 
 **WordPress**
 **TWTFB**

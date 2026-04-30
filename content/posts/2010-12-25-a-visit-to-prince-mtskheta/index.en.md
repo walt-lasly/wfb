@@ -4,6 +4,10 @@ date: 2010-12-25
 categories: ["Personal", "Travel"]
 tags: ["Communism", "Edward VII", "Ferdinand Foch", "Florence Nightingale", "Georges Clemenceau", "Heinrich Himmler", "Joseph Stalin", "Nikita Khrushchev", "Russia"]
 archive_url: "https://web.archive.org/web/20140701000000/http://www.thewaythefutureblogs.com/2010/12/a-visit-to-prince-mtskheta/"
+prev_post_url: "/posts/2010-12-24-the-poem-prince-jernikidze/"
+prev_post_title: "The Poem ‘Prince Jernikidze’"
+next_post_url: "/posts/2010-12-26-stoning-sinners-and-other-symptoms-of-evil/"
+next_post_title: "Stoning Sinners … and Other Symptoms of Evil"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Poem ‘Prince Jernikidze’**
-**Stoning Sinners … and Other Symptoms of Evil**
 
 ## A Visit to Prince Mtskheta
 
@@ -125,13 +127,39 @@ And it was much later, long after I’d learned the poem “Prince Jernikidze,�
 
 ### 7 Comments
 
-- Nicholas Whytesays:That’s a wonderful story. I have been to Mtskheta with its stunning churches (as shown in your illustration) a couple of times in the last few years, though not yet to Gori with its Stalin shrines.I’m pretty sure that your nobleman was the famous florist Mikhail (or Mikheil) Mamulashvili. Various internet sources suggest that he was born in 1873 and lived until a few weeks before his hundredth birthday in 1973. There is a documentary about him, made in 1959 (when he would have been 86) on Youtube in two parts:http://www.youtube.com/watch?v=IZZds16ogJMandhttp://www.youtube.com/watch?v=clDW1jTvrA8It is in Georgian without subtitles but the music and flowers are fantastic.Thank you for posting this, and indeed for all your posts over the last two years!December 25, 2010, 2:03 am
-- Jim Flanagansays:Merry Christmas, Frederik!  Your books, stories and blog have given me much pleasure over the years and your continued energy in the face of old-man time continues to give me hope as I begin to battle him in earnest as I start to get older.Thank YouJimDecember 25, 2010, 9:53 am
-- Kirksays:Great Christmas story, have a good holiday!December 25, 2010, 3:24 pm
-- Jack Deightonsays:Nice story. You got about a lot didn’t you?The Prince of Wales you mentioned would become Edward VII – or, if you’re Scottish, Edward I. The previous six Edwards were only ever Kings of England (which also encompassed Wales, bits of France and sometimes Ireland) and not of the UK as a whole.As a US citizen you’re quite right not to care about any of this.December 26, 2010, 2:55 pm
-- Chrissays:You touch on the role of the Georgian tamada who is in charge of the dinner party. This is a serious role, of toastmaster but with the added requirement of being good host, to ensure that all eat and drink well, but not too well, that he must be articulate and even a poet if needed. It is an ancient and honourable role, and one we could emulate. But your blog post has an element of poetry too, and perhaps in century 21 the tamada is a blogmaster too.December 26, 2010, 4:08 pm
-- Rich Rostromsays:Fascinating story.I never knew that Himmler ever visited the USSR. It must have been during the period of the Hitler-Stalin Pact, as German forces never reached that part of Georgia.December 30, 2010, 2:44 am
-- Robert Leylandsays:Fascinating, and really delightful.  Man’s “inhumanity” to man is so sad.Thanks you for sharing.January 3, 2011, 6:19 pm
+- Nicholas Whyte says:
+That’s a wonderful story. I have been to Mtskheta with its stunning churches (as shown in your illustration) a couple of times in the last few years, though not yet to Gori with its Stalin shrines.
+I’m pretty sure that your nobleman was the famous florist Mikhail (or Mikheil) Mamulashvili. Various internet sources suggest that he was born in 1873 and lived until a few weeks before his hundredth birthday in 1973. There is a documentary about him, made in 1959 (when he would have been 86) on Youtube in two parts:
+http://www.youtube.com/watch?v=IZZds16ogJM
+and
+http://www.youtube.com/watch?v=clDW1jTvrA8
+It is in Georgian without subtitles but the music and flowers are fantastic.
+Thank you for posting this, and indeed for all your posts over the last two years!
+December 25, 2010, 2:03 am
+- Jim Flanagan says:
+Merry Christmas, Frederik!  Your books, stories and blog have given me much pleasure over the years and your continued energy in the face of old-man time continues to give me hope as I begin to battle him in earnest as I start to get older.
+Thank You
+Jim
+December 25, 2010, 9:53 am
+- Kirk says:
+Great Christmas story, have a good holiday!
+December 25, 2010, 3:24 pm
+- Jack Deighton says:
+Nice story. You got about a lot didn’t you?
+The Prince of Wales you mentioned would become Edward VII – or, if you’re Scottish, Edward I. The previous six Edwards were only ever Kings of England (which also encompassed Wales, bits of France and sometimes Ireland) and not of the UK as a whole.
+As a US citizen you’re quite right not to care about any of this.
+December 26, 2010, 2:55 pm
+- Chris says:
+You touch on the role of the Georgian tamada who is in charge of the dinner party. This is a serious role, of toastmaster but with the added requirement of being good host, to ensure that all eat and drink well, but not too well, that he must be articulate and even a poet if needed. It is an ancient and honourable role, and one we could emulate. But your blog post has an element of poetry too, and perhaps in century 21 the tamada is a blogmaster too.
+December 26, 2010, 4:08 pm
+- Rich Rostrom says:
+Fascinating story.
+I never knew that Himmler ever visited the USSR. It must have been during the period of the Hitler-Stalin Pact, as German forces never reached that part of Georgia.
+December 30, 2010, 2:44 am
+- Robert Leyland says:
+Fascinating, and really delightful.  Man’s “inhumanity” to man is so sad.
+Thanks you for sharing.
+January 3, 2011, 6:19 pm
 
 **WordPress**
 **TWTFB2**

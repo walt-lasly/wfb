@@ -4,6 +4,10 @@ date: 2010-02-11
 categories: ["Authors", "Books", "Travel"]
 tags: ["Anti-Semitism", "Food", "Gertrude Asimov", "Isaac Asimov", "Jay Kay Klein", "John W. Campbell", "L. Sprague de Camp", "Medicine", "Robert A. Heinlein", "World War II"]
 archive_url: "https://web.archive.org/web/20230801000000/http://www.thewaythefutureblogs.com/2010/02/isaac-part-3-of-quite-a-few/"
+prev_post_url: "/posts/2010-02-03-let-s-play-a-game/"
+prev_post_title: "Let’s Play a Game"
+next_post_url: "/posts/2010-02-13-william-tenn-aka-phil-klass-1920-2010/"
+next_post_title: "William Tenn aka Phil Klass (1920–2010)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Let’s Play a Game**
-**William Tenn aka Phil Klass (1920–2010)**
 
 ## Isaac,Part 3 of quite a few
 
@@ -65,22 +67,47 @@ So what else can I tell you about Isaac Asimov at this stage?  His favorite brea
 
 **Related posts**:
 
-- **Isaac,** **Part 1**, **Part 2**, **Part 4**, **Part 5**, **Part 6**, **Part 7**
-- Russians, Jews and Isaac
+- **Isaac,** [**Part 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 2**](/posts/2010-01-31-isaac-part-2-of-many/), [**Part 4**](/posts/2010-02-26-isaac-part-4-and-some-other-guys/), [**Part 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Part 6**](/posts/2010-11-10-isaac-part-6/), [**Part 7**](/posts/2010-11-15-isaac-part-7/)
+- [**Russians, Jews and Isaac**](/posts/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 10 Comments
 
-- smsays:I love this series!February 11, 2010, 8:14 pm
-- Michael Pritchardsays:This is fantastic! Asimov remains an inspiration to us all.February 12, 2010, 3:05 am
-- Mike Finksays:Thank you, sir, for your memory and the wonderful stories from that Golden age. Please keep telling us about the Good Doctor, and of course, yourself and others, as well.February 12, 2010, 10:13 am
-- Paula Helm Murraysays:Thank you!  As long as we remember, they live!  And in passing on the stories, they will go forward in memory\’s sight.February 14, 2010, 11:32 am
-- David Bosmansays:Thank you so much for sharing your memories with us.February 14, 2010, 2:09 pm
-- Robert Gruversays:I am really enjoying this series about Issac, Fred. Its such an interesting look into his life, by someone who was there through parts of it! I love his writing, and yours! Please keep it up for as long as the fates allow!February 15, 2010, 12:56 pm
-- EMsays:Great stuff! Thank you for remembering and for writing. I hope there’s more!February 21, 2010, 8:26 pm
-- Dicksays:I’m just a technical guy, but how come no nitpicking sciffy fan has bothered to point out that there were no telephone keyboards in those days… just rotary dials.  Touchtone, and those twelve buttons that are still with us, came much later.March 9, 2010, 7:12 pm
-- Stephen Dalesays:Hi All,I would like to inform you that I have set up a Yahoo Group devoted to discussion of Mr. Pohl and his works. It only has 3 members so far so, if you’ve a mind to, Come join!http://groups.yahoo.com/group/Pohl/Hope all is well with you and yours,StephenApril 9, 2010, 6:09 pm
-- Jim Flanagansays:Thought you’d be interested in a post that David Brinn recently made about Robert Heinlein.http://davidbrin.blogspot.com/2010/04/concerning-robert-heinlein-and-more.htmlApril 24, 2010, 8:11 pm
+- sm says:
+I love this series!
+February 11, 2010, 8:14 pm
+- Michael Pritchard says:
+This is fantastic! Asimov remains an inspiration to us all.
+February 12, 2010, 3:05 am
+- Mike Fink says:
+Thank you, sir, for your memory and the wonderful stories from that Golden age. Please keep telling us about the Good Doctor, and of course, yourself and others, as well.
+February 12, 2010, 10:13 am
+- Paula Helm Murray says:
+Thank you!  As long as we remember, they live!  And in passing on the stories, they will go forward in memory\’s sight.
+February 14, 2010, 11:32 am
+- David Bosman says:
+Thank you so much for sharing your memories with us.
+February 14, 2010, 2:09 pm
+- Robert Gruver says:
+I am really enjoying this series about Issac, Fred. Its such an interesting look into his life, by someone who was there through parts of it! I love his writing, and yours! Please keep it up for as long as the fates allow!
+February 15, 2010, 12:56 pm
+- EM says:
+Great stuff! Thank you for remembering and for writing. I hope there’s more!
+February 21, 2010, 8:26 pm
+- Dick says:
+I’m just a technical guy, but how come no nitpicking sciffy fan has bothered to point out that there were no telephone keyboards in those days… just rotary dials.  Touchtone, and those twelve buttons that are still with us, came much later.
+March 9, 2010, 7:12 pm
+- Stephen Dale says:
+Hi All,
+I would like to inform you that I have set up a Yahoo Group devoted to discussion of Mr. Pohl and his works. It only has 3 members so far so, if you’ve a mind to, Come join! 
+http://groups.yahoo.com/group/Pohl/
+Hope all is well with you and yours,
+Stephen
+April 9, 2010, 6:09 pm
+- Jim Flanagan says:
+Thought you’d be interested in a post that David Brinn recently made about Robert Heinlein.
+http://davidbrin.blogspot.com/2010/04/concerning-robert-heinlein-and-more.html
+April 24, 2010, 8:11 pm
 
 **WordPress**
 **TWTFB**

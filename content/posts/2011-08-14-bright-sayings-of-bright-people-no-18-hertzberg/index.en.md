@@ -4,6 +4,10 @@ date: 2011-08-14
 categories: ["Miscellaneous"]
 tags: ["Hendrik Hertzberg", "Quotations"]
 archive_url: "https://web.archive.org/web/20150701000000/http://www.thewaythefutureblogs.com/2011/08/bright-sayings-of-bright-people-no-18/"
+prev_post_url: "/posts/2011-08-10-sf-publishing-through-the-ages-with-fred/"
+prev_post_title: "SF Publishing Through the Ages(With Fred)"
+next_post_url: "/posts/2011-08-16-popular-publications-part-5-there-and-back-again/"
+next_post_title: "Popular Publications, Part 5: There and Back Again"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**SF Publishing Through the Ages(With Fred)**
-**Popular Publications, Part 5: There and Back Again**
 
 ## Bright Sayings of Bright People, No. 18: Hertzberg
 
@@ -26,7 +28,9 @@ Frederik Pohl
 
 ### One Comment
 
-- David B. Williamssays:Well, duh. The absence of any sensation is not felt. This is like saying that you don’t need sunglasses in the dark.August 14, 2011, 9:45 am
+- David B. Williams says:
+Well, duh. The absence of any sensation is not felt. This is like saying that you don’t need sunglasses in the dark.
+August 14, 2011, 9:45 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2010-07-05
 categories: ["Authors", "Books", "Personal"]
 tags: ["Andrew I. Porter", "Clubs", "Dirk Wylie", "Fanzines", "Food", "Franklin Delano Roosevelt", "Great Depression", "Media", "New York", "Prozines", "Science Fiction League", "The Early Pohl", "The Way the Future Was", "Will Sykora", "Willy Ley", "World War II"]
 archive_url: "https://web.archive.org/web/20030301000000/http://www.thewaythefutureblogs.com/2010/07/basement-and-empire/"
+prev_post_url: "/posts/2010-07-02-our-planet-bottom-to-top/"
+prev_post_title: "Our Planet, Bottom to Top"
+next_post_url: "/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
+next_post_title: "Basement and Empire, Part 2: Science Fiction Meetings"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Our Planet, Bottom to Top**
-**Basement and Empire, Part 2: Science Fiction Meetings**
 
 ## Basement and Empire
 
@@ -71,23 +73,29 @@ The good part was that it was just about to be born, when Wonder Stories started
 
 **Related posts:**
 
-- Basement and Empire, Part 2: Science Fiction Meetings
-- Basement and Empire, Part 3: Lessons in SF
-- Basement and Empire, Afterwords
-- The Quadrumvirate
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 6: The Pros!
-- Let There Be Fandom, Part 7: The Crusade
+- [**Basement and Empire, Part 2: Science Fiction Meetings**](/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
+- [**Basement and Empire, Part 3: Lessons in SF**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+- [**Basement and Empire, Afterwords**](/posts/2010-07-12-basement-and-empire-afterwords/)
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### 2 Comments
 
-- Stefan Jonessays:Keep ‘em coming!My, Willy Ley looks young in that picture! I have a couple of plastic model space ship kits, re-issues of models issued in the late 50s. The boxes (1,2) show Willy Ley showing the finished models to neatly dressed kids.July 5, 2010, 7:13 pm
-- Bald Guysays:What Stefan said!Mr. Pohl, sometime, could you give a remembrance about Analog? It was good stuff for a young Boomer in the early 70’s…July 6, 2010, 4:53 pm
+- Stefan Jones says:
+Keep ‘em coming!
+My, Willy Ley looks young in that picture! I have a couple of plastic model space ship kits, re-issues of models issued in the late 50s. The boxes (1  , 2) show Willy Ley showing the finished models to neatly dressed kids.
+July 5, 2010, 7:13 pm
+- Bald Guy says:
+What Stefan said!
+Mr. Pohl, sometime, could you give a remembrance about Analog? It was good stuff for a young Boomer in the early 70’s…
+July 6, 2010, 4:53 pm
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,10 @@ date: 2012-08-23
 categories: ["Authors", "Travel"]
 tags: ["Brian W. Aldiss", "Clubs", "Conventions", "Harry Harrison", "Sam J. Lundwall", "Vasili Zakharchenko", "World SF", "Yuli Kagarlitski"]
 archive_url: "https://web.archive.org/web/20250101000000/http://www.thewaythefutureblogs.com/2012/08/harry-harrison-part-2-of-farewell/"
+prev_post_url: "/posts/2012-08-22-another-good-one-gone-harry-harrison-1925-2012/"
+prev_post_title: "Another good one gone — Harry Harrison, 1925–2012"
+next_post_url: "/posts/2012-08-30-greetings-chicon-visitors/"
+next_post_title: "Greetings, Chicon Visitors"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Another good one gone — Harry Harrison, 1925–2012**
-**Greetings, Chicon Visitors**
 
 ## Harry Harrison (Part 2 of Farewell)
 
@@ -36,7 +38,7 @@ And as soon as he got home he began talking to some friendly Irish diplomats.  T
 So Harry immediately set about creating one.
 
 
-When Harrycon happened, it was a blast.  A couple of dozen top sf writers showed up, as well as numbers of editors, fans and general hangers-on from all sorts of European, North American and South American countries.  And from the Soviet Union, among others, my own personal best Russian friend, **Yuli Kagarlitsky**, author of the USSR’s only scholarly book on science fiction, *Shto eta fantastika*, and **Vasili Zakharchenko**, editor of a boys’ magazine that sometimes published translated American sf stories, and paid for them, in rubles and kopecks, in cash.  And when it was over four of us — Harry and I, plus Brian W. Aldiss and Sam Lundwall — kept wishing we could do it regularly, and among the four of us, we thought up a way  of getting it done.
+When Harrycon happened, it was a blast.  A couple of dozen top sf writers showed up, as well as numbers of editors, fans and general hangers-on from all sorts of European, North American and South American countries.  And from the Soviet Union, among others, my own personal best Russian friend, [**Yuli Kagarlitsky**](/posts/2010-06-25-russians-jews-and-isaac/), author of the USSR’s only scholarly book on science fiction, *Shto eta fantastika*, and **Vasili Zakharchenko**, editor of a boys’ magazine that sometimes published translated American sf stories, and paid for them, in rubles and kopecks, in cash.  And when it was over four of us — Harry and I, plus Brian W. Aldiss and Sam Lundwall — kept wishing we could do it regularly, and among the four of us, we thought up a way  of getting it done.
 
 
 The USSR, and indeed almost all the Stalinite countries, wouldn’t let their people go abroad just for fun.  But if the purpose was to be delegates to some world literary or scientific societies, well, certainly they wanted the hammer and sickle flag displayed on the world stage.
@@ -56,15 +58,21 @@ Harry was a good and crowd-pleasing writer.  He was also a human being who did h
 
 **Related Posts:**
 
-- Harry Harrison, Part 1
-- Harry Harrison Dead at 87
+- [**Harry Harrison, Part 1**](/posts/2012-08-22-another-good-one-gone-harry-harrison-1925-2012/)
+- [**Harry Harrison Dead at 87**](/posts/2012-08-21-harry-harrison-dead-at-87/)
 
 
 ### 3 Comments
 
-- John Armstrongsays:I think the hardest thing about getting older is the amount of goodbyes we have to sayAugust 25, 2012, 11:04 am
-- john a healysays:Great story.  He will be missed.August 25, 2012, 11:36 am
-- Bill Goodwinsays:If there’s an sf heaven, Make Room, Make Room!August 29, 2012, 7:15 am
+- John Armstrong says:
+I think the hardest thing about getting older is the amount of goodbyes we have to say
+August 25, 2012, 11:04 am
+- john a healy says:
+Great story.  He will be missed.
+August 25, 2012, 11:36 am
+- Bill Goodwin says:
+If there’s an sf heaven, Make Room, Make Room!
+August 29, 2012, 7:15 am
 
 **WordPress**
 **TWTFB2**

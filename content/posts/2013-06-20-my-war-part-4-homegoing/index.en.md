@@ -4,6 +4,10 @@ date: 2013-06-20
 categories: ["Travel"]
 tags: ["History", "Meteorology", "World War II"]
 archive_url: "https://web.archive.org/web/20261201000000/http://www.thewaythefutureblogs.com/2013/06/my-war-part-4-homegoing/"
+prev_post_url: "/posts/2013-06-18-hey-occupy-take-aim-at-the-nra/"
+prev_post_title: "Hey, Occupy! Take aim at the NRA"
+next_post_url: "/posts/2013-06-23-bright-sayings-of-bright-people-no-48-sachs/"
+next_post_title: "Bright Sayings of Bright People, No. 48: Sachs"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Hey, Occupy! Take aim at the NRA**
-**Bright Sayings of Bright People, No. 48: Sachs**
 
 ## My War, Part 4: Homegoing
 
@@ -62,14 +64,17 @@ And then we were dead-slowing into the Hampton Roads docks, and before you knew 
 
 **Related posts:**
 
-- **My War**, **Part 1**, **Part 2**, **Part 3**
-- Hal Clement: Major Harry Stubbs
-- How I Lost My Oldest Friend (and Gained a Literary Agency)
+- **My War**, [**Part 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/), [**Part 2**](/posts/2013-05-21-my-war-part-2-flying-a-desk/), [**Part 3**](/posts/2013-06-14-my-war-part-3-picture-perfect/)
+- [**Hal Clement: Major Harry Stubbs**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
+- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### One Comment
 
-- Stefan Jonessays:For some reason you don’t hear a lot of WWII stories about transport trips . . . I guess it was just boredom mixed with seasickness for most of the guys.Keep ’em coming!June 20, 2013, 1:06 pm
+- Stefan Jones says:
+For some reason you don’t hear a lot of WWII stories about transport trips . . . I guess it was just boredom mixed with seasickness for most of the guys.
+Keep ’em coming!
+June 20, 2013, 1:06 pm
 
 **WordPress**
 **TWTFB2**

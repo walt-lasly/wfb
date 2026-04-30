@@ -4,6 +4,10 @@ date: 2009-05-26
 categories: ["Science"]
 tags: ["Cryonics", "Long John Nebel", "Prozines", "Radio", "Robert Ettinger"]
 archive_url: "https://web.archive.org/web/20250701000000/http://www.thewaythefutureblogs.com/2009/05/have-mouth-will-travel-part-3-inventing-cryonics/"
+prev_post_url: "/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
+prev_post_title: "Have Mouth, Will Travel, Part 2: The Planarians"
+next_post_url: "/posts/2009-05-29-food-for-thought/"
+next_post_title: "Food for Thought"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Have Mouth, Will Travel, Part 2: The Planarians**
-**Food for Thought**
 
 ## Have Mouth, Will Travel, Part 3: Inventing Cryonics
 
@@ -50,10 +52,25 @@ Fortunately I did. I had the hundreds of thousands of insomniacs who were addict
 
 ### 4 Comments
 
-- DBsays:When Terry Carr read about cryogenics, his response was to write the story “Ozymandias”, published in Again, Dangerous Visions.  I haven’t been able to forget that one ever since, and that’s why the notion doesn’t appeal.May 27, 2009, 10:19 am
-- Stefan Jonessays:Cryonics was to SF in the 60s what the Singularity was to SF a few years ago: A suddenly popular notion that is used both *in* stories and is the *subject* of them.A commenter mentioned A World Out of Time in the last post. That story used cryonics to propel a 20th century guy (actually, his memories . . . his brain gets diced up to extract the info to reprogram a criminal) into a future where he can steal a spaceship. But cryonics isn’t really the point of the story.Age of the Pussyfoot is more cryonics-centered, in that it is used to allow multiple deaths and resurrection.The nastiest, and probably most realistic, cryonics story was in one of Warren Ellis’ Spider Jerusalem (Transmetropolitan) comics. Journalist Jerusalem tells the story of one of the resurrected corpsicles who wander the streets of the city in a perpetual future-shocked freakout. They live in a shelter, get handouts, and worst of all kind find anyone to listen and care.May 28, 2009, 1:31 pm
-- theophylactsays:You really have to listen to this installment of This American Life, in which we find out how things really worked out:http://www.thisamericanlife.org/Radio_Episode.aspx?sched=1291May 29, 2009, 10:03 am
-- Curt Phillipssays:Interesting article on cryonics.  I remember 35 years ago  that the most obvious problem in making cryonics into a practical thing was the seemingly irrepairable damage caused to cellular membranes during the freezing process.  It never occured to me then that advances in genetic studies during my lifetime would at least make it conceivable that DNA could potentially be reconstructed even after such cellular damage.  It’s actually a very John W. Campbell sort of solution to the problem, isn’t it?  You encounter an apparently immovable obstacle to the project; find a way around it by *thinking* in a new direction.Walt Disney rather famously had himself (or part of himself…) cryogenicly frozen after his death in the 60’s, but do we know of anyone associated with the science fiction world who did the same, or who at least persued it with any degree of seriousness?  Somehow it seems to me that Robert A. Heinlein might have been attracted to cryogenics.  And though I don’t suppose we know for certain what happened to L. Ron Hubbard’s mortal remains, it wouldn’t surprise me very much to learn that the Church of Scientology had Hubbard frozen.It might someday turn out to be very surprising indeed to see who really has the last laugh after all.Curt PhillipsJune 5, 2009, 10:20 pm
+- DB says:
+When Terry Carr read about cryogenics, his response was to write the story “Ozymandias”, published in Again, Dangerous Visions.  I haven’t been able to forget that one ever since, and that’s why the notion doesn’t appeal.
+May 27, 2009, 10:19 am
+- Stefan Jones says:
+Cryonics was to SF in the 60s what the Singularity was to SF a few years ago: A suddenly popular notion that is used both *in* stories and is the *subject* of them.
+A commenter mentioned A World Out of Time in the last post. That story used cryonics to propel a 20th century guy (actually, his memories . . . his brain gets diced up to extract the info to reprogram a criminal) into a future where he can steal a spaceship. But cryonics isn’t really the point of the story.
+Age of the Pussyfoot is more cryonics-centered, in that it is used to allow multiple deaths and resurrection.
+The nastiest, and probably most realistic, cryonics story was in one of Warren Ellis’ Spider Jerusalem (Transmetropolitan) comics. Journalist Jerusalem tells the story of one of the resurrected corpsicles who wander the streets of the city in a perpetual future-shocked freakout. They live in a shelter, get handouts, and worst of all kind find anyone to listen and care.
+May 28, 2009, 1:31 pm
+- theophylact says:
+You really have to listen to this installment of This American Life, in which we find out how things really worked out:
+http://www.thisamericanlife.org/Radio_Episode.aspx?sched=1291
+May 29, 2009, 10:03 am
+- Curt Phillips says:
+Interesting article on cryonics.  I remember 35 years ago  that the most obvious problem in making cryonics into a practical thing was the seemingly irrepairable damage caused to cellular membranes during the freezing process.  It never occured to me then that advances in genetic studies during my lifetime would at least make it conceivable that DNA could potentially be reconstructed even after such cellular damage.  It’s actually a very John W. Campbell sort of solution to the problem, isn’t it?  You encounter an apparently immovable obstacle to the project; find a way around it by *thinking* in a new direction.  
+   Walt Disney rather famously had himself (or part of himself…) cryogenicly frozen after his death in the 60’s, but do we know of anyone associated with the science fiction world who did the same, or who at least persued it with any degree of seriousness?  Somehow it seems to me that Robert A. Heinlein might have been attracted to cryogenics.  And though I don’t suppose we know for certain what happened to L. Ron Hubbard’s mortal remains, it wouldn’t surprise me very much to learn that the Church of Scientology had Hubbard frozen.  
+   It might someday turn out to be very surprising indeed to see who really has the last laugh after all.
+Curt Phillips
+June 5, 2009, 10:20 pm
 
 **WordPress**
 **TWTFB**

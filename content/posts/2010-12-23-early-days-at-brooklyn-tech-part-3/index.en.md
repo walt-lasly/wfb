@@ -4,6 +4,10 @@ date: 2010-12-23
 categories: ["Personal", "Science"]
 tags: ["Academics", "American Revolution", "Dirk Wylie", "Great Depression", "John Brunner", "New York", "Theater"]
 archive_url: "https://web.archive.org/web/20150914221244/http://www.thewaythefutureblogs.com/2010/12/brooklyn-tech-part-3/"
+prev_post_url: "/posts/2010-12-22-early-days-at-brooklyn-tech-part-2/"
+prev_post_title: "Early Days at Brooklyn Tech, Part 2"
+next_post_url: "/posts/2010-12-24-the-poem-prince-jernikidze/"
+next_post_title: "The Poem ‘Prince Jernikidze’"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Early Days at Brooklyn Tech, Part 2**
-**The Poem ‘Prince Jernikidze’**
 
 ## Early Days at Brooklyn Tech, Part 3
 
@@ -50,9 +52,9 @@ And so I did.  But I still treasure those three years and the things I learned a
 
 **Related posts:**
 
-- Let There Be Fandom, Part 2: School Days
-- When I Graduated from High School (After 73 Years)
-- **Early Days at Brooklyn Tech,** **Part 1**, **Part 2**
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**When I Graduated from High School (After 73 Years)**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+- **Early Days at Brooklyn Tech,** [**Part 1**](/posts/2010-12-21-early-days-at-brooklyn-tech/), [**Part 2**](/posts/2010-12-22-early-days-at-brooklyn-tech-part-2/)
 
 **WordPress**
 **TWTFB2**

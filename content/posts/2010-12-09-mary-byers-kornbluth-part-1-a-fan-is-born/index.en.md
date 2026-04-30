@@ -4,6 +4,10 @@ date: 2010-12-09
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Clubs", "David Kornbluth", "Futurians", "Horace L. Gold", "Ian and Betty Ballantine", "Isaac Asimov", "John Kornbluth", "Mary Kornbluth", "World War II"]
 archive_url: "https://web.archive.org/web/20150920030606/http://www.thewaythefutureblogs.com/2010/12/mary-byers-kornbluth-part-1-a-fan-is-born/"
+prev_post_url: "/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/"
+prev_post_title: "Judith Merril, Part 5:A Good, Successful Novel All of Her Own"
+next_post_url: "/posts/2010-12-10-judith-merril-part-6-our-house/"
+next_post_title: "Judith Merril, Part 6: Our House"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Judith Merril, Part 5: A Good, Successful Novel All of Her Own**
-**Judith Merril, Part 6: Our House**
 
 ## Mary Byers Kornbluth, Part 1: A Fan is Born
 
@@ -71,15 +73,29 @@ Cyril had had to go into New York for a business meeting that morning, but it ha
 
 **Related posts:**
 
-- **Mary Kornbluth,** **Part 2**, **Part 3**
-- Cyril
+- **Mary Kornbluth,** [**Part 2**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), [**Part 3**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
+- [**Cyril**](/posts/2009-04-20-cyril/)
 
 
 ### 3 Comments
 
-- richard Molpussays:Mr. Pohl:do you have any other biographical details on Mary Byers Kornbluth? My mother’s primary family line is Byers – from Ohio (Springfield, in fact), and we still have a few (now remote) cousins still on the family farm.I enjoyed “The Way the Future Was” when I read it as a new release, and hope that you’ll re-release it, with updates, before long. Re-releasing your tome on local politics ( maybe in a dual volume with Robert Heinlein’s ‘Take back Your Country’ [that’d be the Ace Double of all time!]) would be fantastic.thank you;Richard G. Molpusrgmolpus@flash.netDecember 9, 2010, 1:02 am
-- Anton Sherwoodsays:“astonishingly unlike Cyril ways” — might one say un-Cyrillic ways?May 13, 2011, 11:20 am
-- Douglas Robillard, Jr.says:Dear Mr. Pohl,Recently, my father and I were rereading Damon Knight’s THE FUTURIANS and got to talking about one of our favorite writers, C. M. Kornbluth. This evening I discovered your blog quite by accident, by “googling” Kornbluth. I am delighted that you have extended THE WAY THE FUTURE WAS in this format and look forward to reading more installments.All the best,DougJuly 31, 2011, 10:31 pm
+- richard Molpus says:
+Mr. Pohl:
+do you have any other biographical details on Mary Byers Kornbluth? My mother’s primary family line is Byers – from Ohio (Springfield, in fact), and we still have a few (now remote) cousins still on the family farm.
+I enjoyed “The Way the Future Was” when I read it as a new release, and hope that you’ll re-release it, with updates, before long. Re-releasing your tome on local politics ( maybe in a dual volume with Robert Heinlein’s ‘Take back Your Country’ [that’d be the Ace Double of all time!]) would be fantastic. 
+thank you;
+Richard G. Molpus
+rgmolpus@flash.net
+December 9, 2010, 1:02 am
+- Anton Sherwood says:
+“astonishingly unlike Cyril ways” — might one say un-Cyrillic ways?
+May 13, 2011, 11:20 am
+- Douglas Robillard, Jr. says:
+Dear Mr. Pohl,
+Recently, my father and I were rereading Damon Knight’s THE FUTURIANS and got to talking about one of our favorite writers, C. M. Kornbluth. This evening I discovered your blog quite by accident, by “googling” Kornbluth. I am delighted that you have extended THE WAY THE FUTURE WAS in this format and look forward to reading more installments. 
+All the best,
+Doug
+July 31, 2011, 10:31 pm
 
 **WordPress**
 **TWTFB2**

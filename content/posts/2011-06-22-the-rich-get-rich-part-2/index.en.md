@@ -4,6 +4,10 @@ date: 2011-06-22
 categories: ["Miscellaneous"]
 tags: ["Economics", "Robert B. Reich"]
 archive_url: "https://web.archive.org/web/20240201000000/http://www.thewaythefutureblogs.com/2011/06/the-rich-get-rich-part-2/"
+prev_post_url: "/posts/2011-06-21-my-kind-of-guy/"
+prev_post_title: "My Kind of Guy"
+next_post_url: "/posts/2011-06-23-the-trap-door-spiders/"
+next_post_title: "The Trap Door Spiders"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**My Kind of Guy**
-**The Trap Door Spiders**
 
 ## The Rich Get Rich, Part 2
 
@@ -33,14 +35,20 @@ But how many are running the same kind of scams and getting away with it?
 
 **Related post:**  
 
-**The Rich Get Rich**
+[**The Rich Get Rich**](/posts/2011-01-28-the-rich-get-rich/)
 
 
 ### 3 Comments
 
-- milieusays:You should read “Perfectly Legal”, by David Cay Johnson (http://www.amazon.com/Perfectly-Legal-Campaign-Rich-Everybody/dp/1591840694/)…if you can.  I made it only five chapters in.  Not because it was badly written or inaccurate (it’s extremely well-written), but because my blood pressure spiked every time I read it.  I always knew the game was fixed, but I never imagined how bad it really was.June 22, 2011, 3:25 pm
-- Katsays:That’s why the US needs the Fair Tax.  Get rid of IRS code that even confuses the IRS.June 22, 2011, 5:05 pm
-- Waltsays:Fixating on rates obscures the fact that the rich pay most of the income taxes collected.June 25, 2011, 11:13 am
+- milieu says:
+You should read “Perfectly Legal”, by David Cay Johnson (http://www.amazon.com/Perfectly-Legal-Campaign-Rich-Everybody/dp/1591840694/)…if you can.  I made it only five chapters in.  Not because it was badly written or inaccurate (it’s extremely well-written), but because my blood pressure spiked every time I read it.  I always knew the game was fixed, but I never imagined how bad it really was.
+June 22, 2011, 3:25 pm
+- Kat says:
+That’s why the US needs the Fair Tax.  Get rid of IRS code that even confuses the IRS.
+June 22, 2011, 5:05 pm
+- Walt says:
+Fixating on rates obscures the fact that the rich pay most of the income taxes collected.
+June 25, 2011, 11:13 am
 
 **WordPress**
 **TWTFB2**

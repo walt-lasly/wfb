@@ -4,6 +4,10 @@ date: 2013-07-02
 categories: ["Personal"]
 tags: ["New York"]
 archive_url: "https://web.archive.org/web/20190301000000/http://www.thewaythefutureblogs.com/2013/07/brooklyn-queens-and-me/"
+prev_post_url: "/posts/2013-06-28-why-the-greedy-old-party-needs-a-licking/"
+prev_post_title: "Why the Greedy Old Party Needs a Licking"
+next_post_url: "/posts/2013-07-08-using-your-head/"
+next_post_title: "Using Your Head"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Why the Greedy Old Party Needs a Licking**
-**Using Your Head**
 
 ## Brooklyn, Queens and me
 
@@ -34,8 +36,13 @@ That little house at 1404 Cross Bay Boulevard had an unusual distinction  Its fr
 
 ### 2 Comments
 
-- Theophylactsays:Hey, I live in DC, and I can get to Rock Creek Park on the Metro. It’s a National Park, twice the size of Central Park, and it’s got more wildlife than it can stand, including a deer population of about 300.July 25, 2013, 11:45 am
-- JJ Brannonsays:Fred, while I come here primarily to enjoy your trenchant wit and reminisces, this post practically echoes the one from mid-May, except that apparently JFK International was operating during the 1930s, when here I thought Idlewild had been built after WWII.JJBJuly 25, 2013, 11:12 pm
+- Theophylact says:
+Hey, I live in DC, and I can get to Rock Creek Park on the Metro. It’s a National Park, twice the size of Central Park, and it’s got more wildlife than it can stand, including a deer population of about 300.
+July 25, 2013, 11:45 am
+- JJ Brannon says:
+Fred, while I come here primarily to enjoy your trenchant wit and reminisces, this post practically echoes the one from mid-May, except that apparently JFK International was operating during the 1930s, when here I thought Idlewild had been built after WWII.
+JJB
+July 25, 2013, 11:12 pm
 
 **WordPress**
 **TWTFB2**

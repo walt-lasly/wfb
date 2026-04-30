@@ -4,6 +4,10 @@ date: 2009-03-16
 categories: ["Personal", "Writing"]
 tags: ["Audio", "Poetry", "Radio"]
 archive_url: "https://web.archive.org/web/20090326021758/http://www.thewaythefutureblogs.com/2009/03/verse-decoded/"
+prev_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
+prev_post_title: "Shipboard Book Reports, Part II"
+next_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+next_post_title: "Me and the Biz, Part II"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Shipboard Book Reports, Part II**
-**Me and the Biz, Part II**
 
 ## Verse Decoded
 
@@ -57,13 +59,18 @@ The words “my frand” are in there only because I was stuck for a rhyme, but 
 
 **Related post:**  
 
-**The Poetry Corner**
+[**The Poetry Corner**](/posts/2009-01-30-the-poetry-corner/)
 
 
 ### 2 Comments
 
-- PJsays:Cool, a precursor to this:http://poetry.about.com/od/poetryplay/l/blwakawaka.htmYou were breaking ground even thenMarch 16, 2009, 10:33 pm
-- Marcelsays:This is just beautiful. Genius.March 21, 2009, 9:28 pm
+- PJ says:
+Cool, a precursor to this: http://poetry.about.com/od/poetryplay/l/blwakawaka.htm
+You were breaking ground even then 
+March 16, 2009, 10:33 pm
+- Marcel says:
+This is just beautiful. Genius.
+March 21, 2009, 9:28 pm
 
 **WordPress**
 **TWTFB**

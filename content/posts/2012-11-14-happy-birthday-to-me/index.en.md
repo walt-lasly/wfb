@@ -4,6 +4,10 @@ date: 2012-11-14
 categories: ["Personal", "Science"]
 tags: ["Ann Romney", "Conventions", "Ecology", "Economics", "Mitt Romney", "Politics"]
 archive_url: "https://web.archive.org/web/20250601000000/http://www.thewaythefutureblogs.com/2012/11/happy-birthday-to-me/"
+prev_post_url: "/posts/2012-11-05-if-you-re-old-and-sick-and-can-t-afford-doctors/"
+prev_post_title: "If You’re Old and Sick and Can’t Afford Doctors—"
+next_post_url: "/posts/2012-11-17-how-one-little-factory-is-hiring-more-workers/"
+next_post_title: "How One Little Factory is Hiring More Workers"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**If You’re Old and Sick and Can’t Afford Doctors—**
-**How One Little Factory is Hiring More Workers**
 
 ## Happy Birthday to me!
 
@@ -56,26 +58,86 @@ You’re welcome,
 
 ### 20 Comments
 
-- Martesays:Be of good cheer. The Koch brothers got caught sending the big bucks to meddle in California politics, and they did it through a couple of shell organizations. Which makes it money laundering. Which makes it a federal crime. The California attorney general (a Democrat like all other major California officeholders) has steam coming out her ears, and soon enough the rest of us are going to be able to sit back and watch the fur fly.November 14, 2012, 7:28 pm
-- LeRoy Pearlesays:Happy birthday to you! A friend of mine a while ago asked me whatever happened to those good old fashioned liberal science fiction authors, the kind who actually thought and wrote about a better future. I sent him a link to here.November 14, 2012, 10:04 pm
-- Paul Wolfsays:Dear Mr. Pohl,I hope it’s a happy one (your birthday, that is)!  And thanks for your thoughts and observations.PaulNovember 14, 2012, 11:43 pm
-- Stefan Jonessays:Happy Birthday in advance!The real winner in this election was the Reality Based Community. The shock of losing seems to have thrown the conservative establishment for a loop.Of course, we’ve got Romney telling his donors that Obama bribed his way into office with social aid programs . . . and nutters signing petitions for their states to secede . . . but the equanimity of the GOP has been shattered.Hell, Grover Norquist actually suggested that a Carbon Tax might be a feasible and acceptable replacement for the income tax. Can you imagine?I am hoping that the House leadership is looking for a way to save face.November 15, 2012, 12:31 am
-- Greg Costikyansays:Once found a dead bat on the sidewalk in front of WTC 7. Pre-9/11, obviously. Saddening, though.November 15, 2012, 3:08 am
-- Etiennesays:Happy birthday mister Pohl!Your idea seems very interesting, I’m going to check if we don’t have something like this in France, and we don’t, I’ll add it to my bag of wilderness-preserving-proposals !November 15, 2012, 6:14 am
-- Steve Davidsonsays:Happy almost-birthday Fred.For the record, I’ve been listening to you for at least 40 years. Receiving both entertainment AND insight.November 15, 2012, 8:08 am
-- Walt Gsays:Happy birthday, Fred Pohl! You’ve given me much joy over many of those years.November 15, 2012, 2:32 pm
-- Larssays:Happy Birthday, Fred!And there’s nothing wrong with kicking a man when he’s down, if it helps to keep him there.November 15, 2012, 3:26 pm
-- Nestorsays:Happy birthday in advance, Mr. Pohl!November 15, 2012, 5:21 pm
-- John Traylorsays:Happy Birthday Fred and keep fighting the good fight.November 15, 2012, 9:20 pm
-- Jim Flanagansays:FredIt was a privilege and a joy to share some of your cake Saturday. Happy early Birthday.Also, Thank you for many years of both entertaining and enlightening reading.JimNovember 16, 2012, 12:18 am
-- H. E. Parmersays:Happy almost-birthday, Fred!Don’t worry: When it comes to this poster boy for oblivious, arrogant plutocracy and his soooper-genius sidekick I think a little schadenfreude is justly merited.Besides, nobody needs to feel bad for Romney. He’s had his vanity campaign; even though he’s been rejected by all us moochers and parasites, he’s still got that $100 million IRA and whatever else he’s stashed away in Cuckoo Clock Land and the Caymans to console himself. (The rest of us should be so afflicted.) And Ryan is what passes for an intellectual in those circles: Whenever his congressional career fizzles, I’m sure he has a lifetime place reserved at the Right Wing welfare trough.I have to admit, though, the blame-fest has also been great entertainment. So go ahead, enjoy!November 16, 2012, 2:17 am
-- Waltersays:Happy birthday, Fred.Thank you for this blog, for the fannish history, for thepolitical insight, for the science, for the ideas and bitsof opinion.  Comfort, strength and happiness to you and yours.November 16, 2012, 10:14 am
-- Dan Gollubsays:How close is the technology which could create holograms of falcons or other predators to warn off birds from buildings?Another way to help animals is the following. Fireflies tend to die off when their habitat is destroyed because they don’t seek new habitat. Perhaps a gene could be identified which would provide a dispersal inclination and perhaps fireflies could be mutated in this manner.November 16, 2012, 3:05 pm
-- Scottsays:Happy birthday, Fred. Your writing has been a continuing source of joy and wisdom for decades.November 16, 2012, 3:33 pm
-- Ace Lightningsays:Happy Birthday, Mr. Pohl! As I’ve mentioned before, I’ve been reading your writing for all but the first couple of years of my life – and I’ll turn 65 a couple of weeks after your birthday. May you enjoy many more beautiful and delicious birthday cakes, and thus many more beautiful and delicious birthdays!About the tax on bright lights on skyscrapers, though. I sympathize with those who look for birds to rescue… but beams of light in the sky *are* beautiful and dramatic to look at. Perhaps there’s another way to create visual appeal, one that doesn’t confuse birds to death (nor require enormous amounts of electricity), which could be encouraged with a tax *credit*?November 16, 2012, 5:42 pm
-- Bill Higgins-- Beam Jockeysays:I must say that Malcolm Phifer’s cake was the most delicious 93rd-birthday cake I have ever tasted.November 16, 2012, 7:09 pm
-- Richard Hortonsays:“Astronomers world-wide are concerned with the disappearing stars in the night sky due to increasing skyglow from uncontrolled urban uplight.”November 17, 2012, 6:20 pm
-- Mary Rosesays:Happy birthday, Mr. Pohl. You are a true treasure. You and James Gunn are two of my heroes! Be well -November 26, 2012, 2:45 pm
+- Marte says:
+Be of good cheer. The Koch brothers got caught sending the big bucks to meddle in California politics, and they did it through a couple of shell organizations. Which makes it money laundering. Which makes it a federal crime. The California attorney general (a Democrat like all other major California officeholders) has steam coming out her ears, and soon enough the rest of us are going to be able to sit back and watch the fur fly.
+November 14, 2012, 7:28 pm
+- LeRoy Pearle says:
+Happy birthday to you! A friend of mine a while ago asked me whatever happened to those good old fashioned liberal science fiction authors, the kind who actually thought and wrote about a better future. I sent him a link to here.
+November 14, 2012, 10:04 pm
+- Paul Wolf says:
+Dear Mr. Pohl,
+I hope it’s a happy one (your birthday, that is)!  And thanks for your thoughts and observations.
+Paul
+November 14, 2012, 11:43 pm
+- Stefan Jones says:
+Happy Birthday in advance!
+The real winner in this election was the Reality Based Community. The shock of losing seems to have thrown the conservative establishment for a loop.
+Of course, we’ve got Romney telling his donors that Obama bribed his way into office with social aid programs . . . and nutters signing petitions for their states to secede . . . but the equanimity of the GOP has been shattered.
+Hell, Grover Norquist actually suggested that a Carbon Tax might be a feasible and acceptable replacement for the income tax. Can you imagine?
+I am hoping that the House leadership is looking for a way to save face.
+November 15, 2012, 12:31 am
+- Greg Costikyan says:
+Once found a dead bat on the sidewalk in front of WTC 7. Pre-9/11, obviously. Saddening, though.
+November 15, 2012, 3:08 am
+- Etienne says:
+Happy birthday mister Pohl!
+Your idea seems very interesting, I’m going to check if we don’t have something like this in France, and we don’t, I’ll add it to my bag of wilderness-preserving-proposals !
+November 15, 2012, 6:14 am
+- Steve Davidson says:
+Happy almost-birthday Fred.
+For the record, I’ve been listening to you for at least 40 years. Receiving both entertainment AND insight.
+November 15, 2012, 8:08 am
+- Walt G says:
+Happy birthday, Fred Pohl! You’ve given me much joy over many of those years.
+November 15, 2012, 2:32 pm
+- Lars says:
+Happy Birthday, Fred!
+And there’s nothing wrong with kicking a man when he’s down, if it helps to keep him there.
+November 15, 2012, 3:26 pm
+- Nestor says:
+Happy birthday in advance, Mr. Pohl!
+November 15, 2012, 5:21 pm
+- John Traylor says:
+Happy Birthday Fred and keep fighting the good fight.
+November 15, 2012, 9:20 pm
+- Jim Flanagan says:
+Fred
+It was a privilege and a joy to share some of your cake Saturday. Happy early Birthday.
+Also, Thank you for many years of both entertaining and enlightening reading.
+Jim
+November 16, 2012, 12:18 am
+- H. E. Parmer says:
+Happy almost-birthday, Fred!
+Don’t worry: When it comes to this poster boy for oblivious, arrogant plutocracy and his soooper-genius sidekick I think a little schadenfreude is justly merited. 
+Besides, nobody needs to feel bad for Romney. He’s had his vanity campaign; even though he’s been rejected by all us moochers and parasites, he’s still got that $100 million IRA and whatever else he’s stashed away in Cuckoo Clock Land and the Caymans to console himself. (The rest of us should be so afflicted.) And Ryan is what passes for an intellectual in those circles: Whenever his congressional career fizzles, I’m sure he has a lifetime place reserved at the Right Wing welfare trough.
+I have to admit, though, the blame-fest has also been great entertainment. So go ahead, enjoy!
+November 16, 2012, 2:17 am
+- Walter says:
+Happy birthday, Fred.
+Thank you for this blog, for the fannish history, for the
+political insight, for the science, for the ideas and bits
+of opinion.  Comfort, strength and happiness to you and yours.
+November 16, 2012, 10:14 am
+- Dan Gollub says:
+How close is the technology which could create holograms of falcons or other predators to warn off birds from buildings?
+Another way to help animals is the following. Fireflies tend to die off when their habitat is destroyed because they don’t seek new habitat. Perhaps a gene could be identified which would provide a dispersal inclination and perhaps fireflies could be mutated in this manner.
+November 16, 2012, 3:05 pm
+- Scott says:
+Happy birthday, Fred. Your writing has been a continuing source of joy and wisdom for decades.
+November 16, 2012, 3:33 pm
+- Ace Lightning says:
+Happy Birthday, Mr. Pohl! As I’ve mentioned before, I’ve been reading your writing for all but the first couple of years of my life – and I’ll turn 65 a couple of weeks after your birthday. May you enjoy many more beautiful and delicious birthday cakes, and thus many more beautiful and delicious birthdays!  
+About the tax on bright lights on skyscrapers, though. I sympathize with those who look for birds to rescue… but beams of light in the sky *are* beautiful and dramatic to look at. Perhaps there’s another way to create visual appeal, one that doesn’t confuse birds to death (nor require enormous amounts of electricity), which could be encouraged with a tax *credit*?
+November 16, 2012, 5:42 pm
+- Bill Higgins-- Beam Jockey says:
+I must say that Malcolm Phifer’s cake was the most delicious 93rd-birthday cake I have ever tasted.
+November 16, 2012, 7:09 pm
+- Richard Horton says:
+“Astronomers world-wide are concerned with the disappearing stars in the night sky due to increasing skyglow from uncontrolled urban uplight.”
+November 17, 2012, 6:20 pm
+- Mary Rose says:
+Happy birthday, Mr. Pohl. You are a true treasure. You and James Gunn are two of my heroes! Be well -
+November 26, 2012, 2:45 pm
 
 **WordPress**
 **TWTFB2**

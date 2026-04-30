@@ -4,6 +4,10 @@ date: 2010-07-09
 categories: ["Authors", "Miscellaneous", "Personal", "Science", "Space", "Travel", "Writing"]
 tags: ["C.M. Kornbluth", "Dirk Wylie", "Donald A. Wollheim", "Economics", "Great Depression", "Isaac Asimov", "John B. Michel", "Prozines", "Pulps", "Richard Wilson", "Robert A.W. Lowndes", "The Early Pohl"]
 archive_url: "https://web.archive.org/web/20090501000000/http://www.thewaythefutureblogs.com/2010/07/basement-empire-3-lessons-science-fiction/"
+prev_post_url: "/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
+prev_post_title: "Basement and Empire, Part 2: Science Fiction Meetings"
+next_post_url: "/posts/2010-07-12-basement-and-empire-afterwords/"
+next_post_title: "Basement and Empire, Afterwords"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Basement and Empire, Part 2: Science Fiction Meetings**
-**Basement and Empire, Afterwords**
 
 ## Basement and Empire, Part 3: Lessons in SF
 
@@ -69,22 +71,26 @@ But we believed.
 
 **Related posts:**
 
-- Basement and Empire
-- Basement and Empire, Part 2: Science Fiction Meetings
-- Basement and Empire, Afterwords
-- The Quadrumvirate
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 6: The Pros!
-- Let There Be Fandom, Part 7: The Crusade
+- [**Basement and Empire**](/posts/2010-07-05-basement-and-empire/)
+- [**Basement and Empire, Part 2: Science Fiction Meetings**](/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
+- [**Basement and Empire, Afterwords**](/posts/2010-07-12-basement-and-empire-afterwords/)
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### 2 Comments
 
-- Stefan Jonessays:It’s kind of sad that now-a-days that the young folk have no somewhat-realistic “out there” to look forward to.Tropes of the pulps, like flying cars and robot servants, are  for the most part ironic jokes today.Some folks look forward to The Singularity, but that seems more and more like a messianic impulse.July 9, 2010, 1:55 pm
+- Stefan Jones says:
+It’s kind of sad that now-a-days that the young folk have no somewhat-realistic “out there” to look forward to.
+Tropes of the pulps, like flying cars and robot servants, are  for the most part ironic jokes today.
+Some folks look forward to The Singularity, but that seems more and more like a messianic impulse.
+July 9, 2010, 1:55 pm
 - Beka C. says:
 Mercury is too hot and has too little air; Venus is too hot and has too much, and poisonous at that.
 Ooo, but think of the possibilities of life that THRIVES in those environments!  I refuse to believe that the kind of life we recognise on Earth is the only kind of life possible in the universe.

@@ -4,6 +4,10 @@ date: 2010-12-01
 categories: ["Miscellaneous", "Science"]
 tags: ["Charles Dye", "Clubs", "Ecology", "Fletcher Pratt", "Hydra Club", "Katherine MacLean", "New York"]
 archive_url: "https://web.archive.org/web/20260601000000/http://www.thewaythefutureblogs.com/2010/12/the-high-line/"
+prev_post_url: "/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/"
+prev_post_title: "Judith Merril, Part 1: ‘That Only a Mother’"
+next_post_url: "/posts/2010-12-02-judith-merril-part-2-more-motherhood/"
+next_post_title: "Judith Merril, Part 2: More Motherhood"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Judith Merril, Part 1: ‘That Only a Mother’**
-**Judith Merril, Part 2: More Motherhood**
 
 ## The High Line
 
@@ -92,17 +94,35 @@ And ain’t nature grand, if you just leave it alone to do what it does best?
 
 **Related posts:**  
 
-**Lester and Judy-Lynn del Rey**
+[**Lester and Judy-Lynn del Rey**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
 
 
 ### 6 Comments
 
-- krjamessays:Lovely!  Could serve as the conceptual basis for a neat science fiction story.  (No doubt there are already many SF stories that do, roughly, have this sort of premise — but they don’t spring to mind at the moment.  In any case, this yarn does feel quintessentially SF-nal in its outlook.)December 1, 2010, 8:02 am
-- john millersays:Mr Pohl, how long ago was it since you were this prolific?A post a day keeps the doctor away?December 1, 2010, 8:08 am
-- the blog teamsays:John Miller: Fred writes at leastfour pages a day, every day. It’s just that we aren’t always so lucky as to have any of them directed toward the blog. Until recently, he was working on a novel, which has now been submitted.December 1, 2010, 1:49 pm
-- Bill Goodwinsays:And so we come full circle.  The flowers grow ON the track, but they are not OF it.  Our ideas and experiences appear in a certain sequence, but they are not beholden to time, place or age.Thus we are able to comprehend each other.  Thus the universe we percieve becomes a window onto something else.December 1, 2010, 8:38 pm
-- Jim Flanagansays:Fred,I thought you\’d like to know that we may have our own version of the High Line here in Chicago. There is an abandoned above grade level (about 1 story up) rail line on the near North side that goes east-west for a couple of miles. It may (I hope) soon become a linear park/bike trail. See:http://www.bloomingdaletrail.org/December 2, 2010, 1:03 am
-- Stefan Jonessays:My aunt and mother (and various step-siblings and close cousins) grew up in the Bronx and Greenwich Village. I’ve been filling them in on things like the High Line and the City Hall subway station.The weekend after Thanksgiving they took a trip to Manhattan and convinced a subway driver to let them see the City Hall station*, and hope to see the High Line next summer.*Wonderful picturesof the lost station.December 2, 2010, 11:37 pm
+- krjames says:
+Lovely!  Could serve as the conceptual basis for a neat science fiction story.  (No doubt there are already many SF stories that do, roughly, have this sort of premise — but they don’t spring to mind at the moment.  In any case, this yarn does feel quintessentially SF-nal in its outlook.)
+December 1, 2010, 8:02 am
+- john miller says:
+Mr Pohl, how long ago was it since you were this prolific?
+A post a day keeps the doctor away?
+December 1, 2010, 8:08 am
+- the blog team says:
+John Miller: Fred writes at least four pages a day, every day. It’s just that we aren’t always so lucky as to have any of them directed toward the blog. Until recently, he was working on a novel, which has now been submitted.
+December 1, 2010, 1:49 pm
+- Bill Goodwin says:
+And so we come full circle.  The flowers grow ON the track, but they are not OF it.  Our ideas and experiences appear in a certain sequence, but they are not beholden to time, place or age.
+Thus we are able to comprehend each other.  Thus the universe we percieve becomes a window onto something else.
+December 1, 2010, 8:38 pm
+- Jim Flanagan says:
+Fred,
+I thought you\’d like to know that we may have our own version of the High Line here in Chicago. There is an abandoned above grade level (about 1 story up) rail line on the near North side that goes east-west for a couple of miles. It may (I hope) soon become a linear park/bike trail. See:
+http://www.bloomingdaletrail.org/
+December 2, 2010, 1:03 am
+- Stefan Jones says:
+My aunt and mother (and various step-siblings and close cousins) grew up in the Bronx and Greenwich Village. I’ve been filling them in on things like the High Line and the City Hall subway station.
+The weekend after Thanksgiving they took a trip to Manhattan and convinced a subway driver to let them see the City Hall station*, and hope to see the High Line next summer.
+* Wonderful pictures of the lost station.
+December 2, 2010, 11:37 pm
 
 **WordPress**
 **TWTFB2**

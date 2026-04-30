@@ -4,6 +4,10 @@ date: 2011-10-24
 categories: ["Authors", "Books"]
 tags: ["Editors", "F. Orlin Tremaine", "Fanzines", "History", "John W. Campbell", "Milton A. Rothman", "Prozines", "Pulps", "Robert D. Swisher"]
 archive_url: "https://web.archive.org/web/20170201000000/http://www.thewaythefutureblogs.com/2011/10/campbell-gets-the-magazine/"
+prev_post_url: "/posts/2011-10-22-the-campbell-letters/"
+prev_post_title: "The Campbell Letters"
+next_post_url: "/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/"
+next_post_title: "Do You Enjoy Eating a Victim of Torture?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Campbell Letters**
-**Do You Enjoy Eating a Victim of Torture?**
 
 ## Campbell Gets the Magazine
 
@@ -55,16 +57,23 @@ Well, this got longer and more detailed than a review should.  I apologize for t
 
 **Related posts:**
 
-- The Campbell Letters
-- **Astounding: The Campbell Years, Riding High**, **Part 1**, **Part 2**
-- Me and Alfie, Part 6: John W. Campbell and Dianetics
+- [**The Campbell Letters**](/posts/2011-10-22-the-campbell-letters/)
+- **Astounding: The Campbell Years, Riding High**, [**Part 1**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
+- [**Me and Alfie, Part 6: John W. Campbell and Dianetics**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 
 
 ### 3 Comments
 
-- Gregosays:Fred, your reminisces are relevant and interesting, and given those, not at all too long.  Thank you again for sharing your knowledge and memories with us.October 24, 2011, 1:43 am
-- Jay Borcherdingsays:I suppose their dogma is no more implausible than that of any devout monotheist, but I have special contempt for devout believers of Hubbard’s unique brand of nonsense.  Is it mere bias on my part, or is it rational to easily forgive Graham Greene’s Catholicism, for example, but to be reluctant to forgive Campbell’s fervent embrace of Dianetics?New religions have a disadvantage in that their outrageous claims are less familiar than those of old religions, but I still can’t shake the conviction that there’s a more profound silliness in being a Scientologist than there is in being a Jew, Christian, or Muslim.October 26, 2011, 1:07 am
-- Chrissays:Love your writing, Mr. Pohl! It’s never “too long” when one is trying to make sure that people and history of any sort are not forgotten. Thoroughly enjoyed the details and info in the last two posts! Thank you -October 27, 2011, 9:10 am
+- Grego says:
+Fred, your reminisces are relevant and interesting, and given those, not at all too long.  Thank you again for sharing your knowledge and memories with us.
+October 24, 2011, 1:43 am
+- Jay Borcherding says:
+I suppose their dogma is no more implausible than that of any devout monotheist, but I have special contempt for devout believers of Hubbard’s unique brand of nonsense.  Is it mere bias on my part, or is it rational to easily forgive Graham Greene’s Catholicism, for example, but to be reluctant to forgive Campbell’s fervent embrace of Dianetics?
+New religions have a disadvantage in that their outrageous claims are less familiar than those of old religions, but I still can’t shake the conviction that there’s a more profound silliness in being a Scientologist than there is in being a Jew, Christian, or Muslim.
+October 26, 2011, 1:07 am
+- Chris says:
+Love your writing, Mr. Pohl! It’s never “too long” when one is trying to make sure that people and history of any sort are not forgotten. Thoroughly enjoyed the details and info in the last two posts! Thank you -
+October 27, 2011, 9:10 am
 
 **WordPress**
 **TWTFB**

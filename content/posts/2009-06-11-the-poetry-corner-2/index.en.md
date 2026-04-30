@@ -4,6 +4,10 @@ date: 2009-06-11
 categories: ["Authors", "Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Fanzines", "Poetry"]
 archive_url: "https://web.archive.org/web/20090821145736/http://www.thewaythefutureblogs.com/2009/06/the-poetry-corner-2/"
+prev_post_url: "/posts/2009-06-07-more-fine-dining/"
+prev_post_title: "More Fine Dining"
+next_post_url: "/posts/2009-06-15-r-i-p-walter-schneir/"
+next_post_title: "R.I.P. Walter Schneir"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**More Fine Dining**
-**R.I.P. Walter Schneir**
 
 ## The Poetry Corner 2
 
@@ -48,10 +50,20 @@ And stinky little pants.
 
 ### 4 Comments
 
-- Shakatanysays:aureuscid????June 11, 2009, 9:39 am
-- Stefan Jonessays:I love the Gym Class piece. It makes me think of Daniel Pinkwater’s nutty kids’ fiction.I presume that it is copyright . . . is there a place to ask permission to use it?June 11, 2009, 12:08 pm
-- Bud Webstersays:I am SO glad you guys didn’t stop there.June 15, 2009, 2:54 am
-- Gary Farbersays:“the first from the smallest fanzine ever published”Bob Tucker used to publish a postcard fanzine.July 7, 2009, 11:12 am
+- Shakatany says:
+aureuscid????
+June 11, 2009, 9:39 am
+- Stefan Jones says:
+I love the Gym Class piece. It makes me think of Daniel Pinkwater’s nutty kids’ fiction.
+I presume that it is copyright . . . is there a place to ask permission to use it?
+June 11, 2009, 12:08 pm
+- Bud Webster says:
+I am SO glad you guys didn’t stop there.
+June 15, 2009, 2:54 am
+- Gary Farber says:
+“the first from the smallest fanzine ever published”
+Bob Tucker used to publish a postcard fanzine.
+July 7, 2009, 11:12 am
 
 **WordPress**
 **TWTFB**

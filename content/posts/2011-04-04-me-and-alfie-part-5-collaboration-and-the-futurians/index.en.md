@@ -4,6 +4,10 @@ date: 2011-04-04
 categories: ["Authors", "Writing"]
 tags: ["Alfred Bester", "C.M. Kornbluth", "Clubs", "Collaborating", "Damon Knight", "Donald A. Wollheim", "Futurians", "Isaac Asimov", "Jack Williamson", "Lester del Rey", "Mary Kornbluth", "Medicine", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20210701000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-5-collaboration-futurians/"
+prev_post_url: "/posts/2011-04-01-me-and-alfie-part-4-rejection/"
+prev_post_title: "Me and Alfie, Part 4:  Rejection"
+next_post_url: "/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
+next_post_title: "Me and Alfie, Part 6: John W. Campbell and Dianetics"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and Alfie, Part 4:  Rejection**
-**Me and Alfie, Part 6: John W. Campbell and Dianetics**
 
 ## Me and Alfie, Part 5: Collaboration and the Futurians
 
@@ -37,7 +39,7 @@ Pohl: I’m afraid I’ve been much more promiscuous than you have!
 Bester: I’m curious, too, Fred. What was it like working with Cyril?
 
 
-Pohl: Well, Cyril Kornbluth and I grew up together. We began writing together when I was about 18 or 19 and Cyril maybe 15. We belonged to a thing called the **Futurians**; it was a science-fiction fan club in New York in the late ’30s and early ’40s. There’s a book by **Damon Knight** called **The Futurians**, which I think is in print here now, full of all sorts of libelous, slanderous gossip about all of us. Much of which is true, but he shouldn’t have said it anyhow! People like **Isaac Asimov**  and **Don Wollheim** and others would have paid him well not to publish the book.
+Pohl: Well, Cyril Kornbluth and I grew up together. We began writing together when I was about 18 or 19 and Cyril maybe 15. We belonged to a thing called the [**Futurians**](/posts/2009-05-08-the-quadrumvirate/); it was a science-fiction fan club in New York in the late ’30s and early ’40s. There’s a book by **Damon Knight** called **The Futurians**, which I think is in print here now, full of all sorts of libelous, slanderous gossip about all of us. Much of which is true, but he shouldn’t have said it anyhow! People like [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)  and **Don Wollheim** and others would have paid him well not to publish the book.
 
 
 But we all belonged to this club and we all wanted to write and we all tried. Cyril and I began working together and as we were just beginning to write we developed a lot of each other’s writing habits. We started much the same way, we were used to each other. Then the war came along. He went one way and I went another. And then we got together again on **The Space Merchants**. And with Cyril, because we had this background of common experience and common attitudes, writing was almost painless on most of what we wrote. We published altogether I think, seven novels and maybe 30 or 40 short stories.
@@ -138,17 +140,25 @@ And he looked at me in astonishment. “My God!” he said, “Bester, you break
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 6**, **Part 7**, **Part 8**
-- **Fred’s Distilled Writing Wisdom**, **Collaboration**, **What the Other Guy Does**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Fred’s Distilled Writing Wisdom**, [**Collaboration**](/posts/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [**What the Other Guy Does**](/posts/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
 
 
 ### 4 Comments
 
-- David Goldfarbsays:I’m reminded of a quote from Flaubert:  “Be regular and orderly in your life, so that you may be violent and original in your work.”April 4, 2011, 1:00 am
-- Steve Boykosays:I’m really enjoying this series… thanks for sharing it!April 4, 2011, 9:45 am
-- David B. Williamssays:Don’t rush out to find a copy of The Futurians just for the promised lurid content. I read it when it came out and again a couple of years ago, and nothing struck me as particularly outrageous. Real people, of course, and pretty interesting.April 4, 2011, 11:49 am
-- Forrest Leesonsays:I loved THE FUTURIANS to bits, especially the wall newspapers.May 5, 2011, 12:10 pm
+- David Goldfarb says:
+I’m reminded of a quote from Flaubert:  “Be regular and orderly in your life, so that you may be violent and original in your work.”
+April 4, 2011, 1:00 am
+- Steve Boyko says:
+I’m really enjoying this series… thanks for sharing it!
+April 4, 2011, 9:45 am
+- David B. Williams says:
+Don’t rush out to find a copy of The Futurians just for the promised lurid content. I read it when it came out and again a couple of years ago, and nothing struck me as particularly outrageous. Real people, of course, and pretty interesting.
+April 4, 2011, 11:49 am
+- Forrest Leeson says:
+I loved THE FUTURIANS to bits, especially the wall newspapers.
+May 5, 2011, 12:10 pm
 
 **WordPress**
 **TWTFB2**

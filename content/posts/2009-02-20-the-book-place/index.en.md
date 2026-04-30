@@ -4,6 +4,10 @@ date: 2009-02-20
 categories: ["Authors", "Books", "Personal", "Travel"]
 tags: ["Arthur C. Clarke", "Bernardine Dohrn", "Ed McBain", "Evan Hunter", "Hendrik Herzberg", "Isaac Asimov", "L. Sprague de Camp", "Maureen Dowd", "Peter Galison", "Ray Bradbury", "Robert A. Heinlein", "St. Augustine", "Yoko Ono"]
 archive_url: "https://web.archive.org/web/20100501000000/http://www.thewaythefutureblogs.com/2009/02/the-book-place/"
+prev_post_url: "/posts/2009-02-18-day-of-the-plutoid/"
+prev_post_title: "Day of the Plutoid"
+next_post_url: "/posts/2009-02-25-home-at-last/"
+next_post_title: "Home at Last"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Day of the Plutoid**
-**Home at Last**
 
 ## The Book Place
 
@@ -63,10 +65,21 @@ Well, I haven’t got around to talking about some books I’m glad to have read
 
 ### 4 Comments
 
-- Jensays:We were on the Maasdam this January, and I was surprised to find that they actually had a fairly good collection of science fiction.  Not incredibly extensive, and you did have to search through the fiction/new books section to find it, but I read the latest Ender book, my husband found a Clarke, and I’m pretty sure that Gateway was there among a good number of other new novels and series books.I talked to the librarian one night (great, charming woman), and apparently it’s pretty much up to the librarians what they choose to order, so I guess that we lucked out with her selections.February 20, 2009, 5:07 am
-- Jeffsays:Sorry, but Maureen Dowd is anything but an acute political writer. She is a hack. She’s a glorified gossip columnist who obsesses on gender and magnifies trivialities, when she isn’t just making things up completely. Maureen is such a terrible hack that the Times’ own public editor, Clark Hoyt, slammed her in a Times column back in July of last year.If you want a detailed exposé of her sublime hackery, I suggest the writings of Bob Somerby athttp://www.dailyhowler.com. Type “Dowd” in his search bar for the full bore clown show. Bob does an excellent job dissecting the circus of idiots that is the modern news media.February 20, 2009, 8:18 am
-- Eunoiasays:Sea(sic!) it this way, Fred:-Looking at your deck plan, the ‘Library’ is bigger than both the ‘Art Gallery’ and the ‘Luxury Shop’, so don’t knock them too hardFebruary 22, 2009, 5:28 am
-- J. S. Jonessays:H-A should definitely have (at least!) one of yours on each ship. And every South Pacific cruise ship should have a copy of Heinlein’s Job. *wicked grin*February 23, 2009, 1:45 am
+- Jen says:
+We were on the Maasdam this January, and I was surprised to find that they actually had a fairly good collection of science fiction.  Not incredibly extensive, and you did have to search through the fiction/new books section to find it, but I read the latest Ender book, my husband found a Clarke, and I’m pretty sure that Gateway was there among a good number of other new novels and series books.  
+I talked to the librarian one night (great, charming woman), and apparently it’s pretty much up to the librarians what they choose to order, so I guess that we lucked out with her selections.
+February 20, 2009, 5:07 am
+- Jeff says:
+Sorry, but Maureen Dowd is anything but an acute political writer. She is a hack. She’s a glorified gossip columnist who obsesses on gender and magnifies trivialities, when she isn’t just making things up completely. Maureen is such a terrible hack that the Times’ own public editor, Clark Hoyt, slammed her in a Times column back in July of last year. 
+If you want a detailed exposé of her sublime hackery, I suggest the writings of Bob Somerby at http://www.dailyhowler.com. Type “Dowd” in his search bar for the full bore clown show. Bob does an excellent job dissecting the circus of idiots that is the modern news media.
+February 20, 2009, 8:18 am
+- Eunoia says:
+Sea(sic!) it this way, Fred:-
+Looking at your deck plan, the ‘Library’ is bigger than both the ‘Art Gallery’ and the ‘Luxury Shop’, so don’t knock them too hard 
+February 22, 2009, 5:28 am
+- J. S. Jones says:
+H-A should definitely have (at least!) one of yours on each ship. And every South Pacific cruise ship should have a copy of Heinlein’s Job. *wicked grin*
+February 23, 2009, 1:45 am
 
 **WordPress**
 **TWTFB**

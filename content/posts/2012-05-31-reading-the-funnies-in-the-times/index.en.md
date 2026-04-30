@@ -4,6 +4,10 @@ date: 2012-05-31
 categories: ["Miscellaneous"]
 tags: ["Artists", "Brian McFadden", "Media", "Politics"]
 archive_url: "https://web.archive.org/web/20201001000000/http://www.thewaythefutureblogs.com/2012/05/reading-the-funnies-in-the-times/"
+prev_post_url: "/posts/2012-05-29-gene-wolfe-the-unknowable/"
+prev_post_title: "Gene Wolfe: The Unknowable?"
+next_post_url: "/posts/2012-06-08-those-death-panels/"
+next_post_title: "Those Death Panels"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Gene Wolfe: The Unknowable?**
-**Those Death Panels**
 
 ## Reading the Funnies in the Times
 
@@ -30,10 +32,22 @@ Of course you won’t find this strip in the comics section, because there isn�
 
 ### 4 Comments
 
-- Mark Henleysays:Dear Sir,I’ve spent the last week enjoying this website.How do I pay you for this? Oh, and how much?Sincerely,Mark H.June 1, 2012, 6:35 pm
-- Mikael Bergströmsays:Brian’s work is also available at his own website,http://www.bigfatwhale.com/. I’m sure you know this already (it was mentioned in the linked interview) but I just thought I’d share…June 2, 2012, 1:53 am
-- Patsays:Mark, I think the only way to donate is to buy Mr Pohl’s books or buy more of his books if you already have some. You benefit again, he benefits.June 3, 2012, 8:47 pm
-- Mark Henleysays:Thank you Pat!June 5, 2012, 4:02 pm
+- Mark Henley says:
+Dear Sir,
+     I’ve spent the last week enjoying this website.
+How do I pay you for this? Oh, and how much?
+Sincerely,
+Mark H.
+June 1, 2012, 6:35 pm
+- Mikael Bergström says:
+Brian’s work is also available at his own website, http://www.bigfatwhale.com/ . I’m sure you know this already (it was mentioned in the linked interview) but I just thought I’d share…
+June 2, 2012, 1:53 am
+- Pat says:
+Mark, I think the only way to donate is to buy Mr Pohl’s books or buy more of his books if you already have some. You benefit again, he benefits.
+June 3, 2012, 8:47 pm
+- Mark Henley says:
+Thank you Pat!
+June 5, 2012, 4:02 pm
 
 **WordPress**
 **TWTFB2**

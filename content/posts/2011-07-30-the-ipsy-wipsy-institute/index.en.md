@@ -4,6 +4,10 @@ date: 2011-07-30
 categories: ["Authors"]
 tags: ["Fletcher Pratt", "I.M. Stephens"]
 archive_url: "https://web.archive.org/web/20200901000000/http://www.thewaythefutureblogs.com/2011/07/the-ipsy-wipsy-institute/"
+prev_post_url: "/posts/2011-07-29-twenty-chernobyls/"
+prev_post_title: "Twenty Chernobyls"
+next_post_url: "/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/"
+next_post_title: "Bright Sayings of Bright People, No. 16: Lao Tzu"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Twenty Chernobyls**
-**Bright Sayings of Bright People, No. 16: Lao Tzu**
 
 ## The Ipsy-Wipsy Institute
 
@@ -26,7 +28,7 @@ After Fletcher Pratt’s death, his wife, Inga, sold the house and moved away, b
 
 **Related posts:**  
 
-**Fletcher Pratt,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**
+**Fletcher Pratt,** [**Part 1**](/posts/2010-12-07-fletcher-pratt/), [**Part 2**](/posts/2011-01-05-fletcher-pratt-part-2-the-place-where-things-happened/), [**Part 3**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), [**Part 4**](/posts/2011-02-04-fletcher-pratt-part-4-the-friends-of-fletcher/), [**Part 5**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/), [**Part 6**](/posts/2011-02-25-fletcher-pratt-part-6/)
 
 **WordPress**
 **TWTFB2**

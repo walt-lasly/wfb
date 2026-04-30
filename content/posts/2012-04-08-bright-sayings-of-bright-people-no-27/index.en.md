@@ -4,6 +4,10 @@ date: 2012-04-08
 categories: ["Miscellaneous"]
 tags: ["Lewis Mumford", "Quotations", "Urbanology"]
 archive_url: "https://web.archive.org/web/20160501000000/http://www.thewaythefutureblogs.com/2012/04/bright-sayings-of-bright-people-no-27/"
+prev_post_url: "/posts/2012-04-07-news-from-the-windy-city/"
+prev_post_title: "News from the Windy City"
+next_post_url: "/posts/2012-04-10-remembering-robert-w-lowndes-and-the-futurians/"
+next_post_title: "Remembering Robert W. Lowndes and the Futurians"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**News from the Windy City**
-**Remembering Robert W. Lowndes and the Futurians**
 
 ## Bright Sayings of Bright People, No. 27
 
@@ -26,7 +28,9 @@ Frederik Pohl
 
 ### One Comment
 
-- MCBarrettsays:This is particularly poignant in the current outrage over the plight of a Seattle landmark, Bauhaus Books and Coffee.  It’s been there for two decades, serving as a hub of the Capitol Hill community from dawn ’til midnight.  It’s to be closed and demolished within a year, to be replaced by a modern multi-use structure with, of course, paid underground parking.  Soon there will be nothing left for people to walk to, the community scraped clean to bring in retail dollars from people who are happily dependent on automobiles.April 8, 2012, 8:02 pm
+- MCBarrett says:
+This is particularly poignant in the current outrage over the plight of a Seattle landmark, Bauhaus Books and Coffee.  It’s been there for two decades, serving as a hub of the Capitol Hill community from dawn ’til midnight.  It’s to be closed and demolished within a year, to be replaced by a modern multi-use structure with, of course, paid underground parking.  Soon there will be nothing left for people to walk to, the community scraped clean to bring in retail dollars from people who are happily dependent on automobiles.
+April 8, 2012, 8:02 pm
 
 **WordPress**
 **TWTFB2**

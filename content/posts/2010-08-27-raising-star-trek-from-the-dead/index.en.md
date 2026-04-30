@@ -4,6 +4,10 @@ date: 2010-08-27
 categories: ["Personal"]
 tags: ["Agents", "Bjo Trimble", "Dirk Wylie", "Gene Roddenberry", "Harlan Ellison", "John W. Campbell", "Pulps", "Television", "William Shatner"]
 archive_url: "https://web.archive.org/web/20150401000000/http://www.thewaythefutureblogs.com/2010/08/raising-star-trek-from-the-dead/"
+prev_post_url: "/posts/2010-08-23-gene-roddenberry/"
+prev_post_title: "Gene Roddenberry"
+next_post_url: "/posts/2010-09-02-battlefield-earth/"
+next_post_title: "Battlefield Earth"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Gene Roddenberry**
-**Battlefield Earth**
 
 ## RaisingStar Trekfrom the Dead
 
@@ -42,7 +44,7 @@ It was not a great concern, though, and it had receded to the shadowy recesses o
 So I got in touch with Gene to ask, just as a  matter of interest, what he knew about those letters.
 
 
-I already had figured out the basic structure of what was going on.  TV shows get a heavy dose of fan mail — in the case of *Star Trek* largely from young boys — and somebody connected with the show had saved all those return addresses on the envelopes and converted them into a mailing list.  (I knew all about such lists.  **Dirk Wylie** and I had got his literary agency started by mailing an invitation to a list of the same kind, although much smaller, this one taken from the return addresses on manuscripts submitted to **Popular Publications’** pulp magazines.)
+I already had figured out the basic structure of what was going on.  TV shows get a heavy dose of fan mail — in the case of *Star Trek* largely from young boys — and somebody connected with the show had saved all those return addresses on the envelopes and converted them into a mailing list.  (I knew all about such lists.  [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/) and I had got his literary agency started by mailing an invitation to a list of the same kind, although much smaller, this one taken from the return addresses on manuscripts submitted to **Popular Publications’** pulp magazines.)
 
 
 In his reply Gene admitted that they had written a letter to all those thousands of fans, suggesting they write letters to get the program extended — but phrased a little confusingly, which is no doubt how come so many of them thought I was the executioner.  He hoped I wasn’t mad because, in the heat of the action, they had sent out the letter — bearing my signature — without showing it to me. I wasn’t mad, and wrote back to tell him so.
@@ -62,22 +64,49 @@ And, in fact, the network did suddenly announce that they’d thought it over an
 
 **Related post:**  
 
-**Gene Roddenberry**
+[**Gene Roddenberry**](/posts/2010-08-23-gene-roddenberry/)
 
 
 ### 12 Comments
 
-- Ansonsays:It’s always interesting to read the history of SF from one of the greats, doubly so when it concerns one of my favorite TV shows of the 60s. Just a minor quibble though. The picture of Bjo Trimble and William Shatner is from the set of Star Trek: The Motion Picture, which was released in 1979.August 27, 2010, 1:38 pm
-- Jeff Gondeksays:Interesting to see how the Fan Saving The TV Show movement started. It hasn’t gone as well with stuff like Firefly, but also in that case we managed to get a movie out of it.Also, I think that photo might be from 1979′s ST:The Motion Picture, based on the costume and stuff like this:http://www.imdb.com/media/rm373528576/tt0079945August 27, 2010, 1:40 pm
-- Mike Weasnersays:Typo correction: photo with Bjo and Shatner is circa 1979, not ’69.August 27, 2010, 2:24 pm
-- Jeff Zugalesays:Oh, so my whole life is your fault! Thanks a LOT, Fred…(I draw spaceships for a living, mostly because of Star Trek. I’ve even got a few sketches of Heechee ships buried in my archives.)Should point out the photo of Bjo and Shatner is from the set of The Motion Picture, so that would be from 1979.August 27, 2010, 2:31 pm
-- Glaurung_quenasays:Actually that photo at the bottom is circa 1979, not 69 — Kirk’s costume is from the first ST movie.August 27, 2010, 4:22 pm
-- Billsays:For the record, the picture caption is incorrect. It’s Bjo Trimble and William Shatner, but on the set of Star Trek: The Motion Picture, circa 1979. The costumes give it away.August 27, 2010, 6:03 pm
-- Steve Csays:Actually with THOSE uniforms that would have to be closer to 1979 when Star Trek: The Motion Picture came out, which is what those uniforms are from.August 27, 2010, 6:24 pm
-- marksays:Where were you when Firefly got canceled?!August 27, 2010, 10:10 pm
-- jsallisonsays:Please tell us you had nothing to do with those gawdawful uniforms in the first movie.August 27, 2010, 10:42 pm
-- Kellysays:Fred,Thanks again for a terrific post.  I have greatly enjoyed reading your messages.That photo is apparently from the set of Star Trek The Motion Picture, so was probably a little later than 1969.August 27, 2010, 10:53 pm
-- Eric Sheedysays:Judging from the costumes and William Shatner’s hair, this must be from the set of the first Star Trek movie in 1979/1980, and not from 1969.August 27, 2010, 11:12 pm
+- Anson says:
+It’s always interesting to read the history of SF from one of the greats, doubly so when it concerns one of my favorite TV shows of the 60s. Just a minor quibble though. The picture of Bjo Trimble and William Shatner is from the set of Star Trek: The Motion Picture, which was released in 1979.
+August 27, 2010, 1:38 pm
+- Jeff Gondek says:
+Interesting to see how the Fan Saving The TV Show movement started. It hasn’t gone as well with stuff like Firefly, but also in that case we managed to get a movie out of it.
+Also, I think that photo might be from 1979′s ST:The Motion Picture, based on the costume and stuff like this: http://www.imdb.com/media/rm373528576/tt0079945
+August 27, 2010, 1:40 pm
+- Mike Weasner says:
+Typo correction: photo with Bjo and Shatner is circa 1979, not ’69.
+August 27, 2010, 2:24 pm
+- Jeff Zugale says:
+Oh, so my whole life is your fault! Thanks a LOT, Fred…  
+(I draw spaceships for a living, mostly because of Star Trek. I’ve even got a few sketches of Heechee ships buried in my archives.)
+Should point out the photo of Bjo and Shatner is from the set of The Motion Picture, so that would be from 1979.
+August 27, 2010, 2:31 pm
+- Glaurung_quena says:
+Actually that photo at the bottom is circa 1979, not 69 — Kirk’s costume is from the first ST movie.
+August 27, 2010, 4:22 pm
+- Bill says:
+For the record, the picture caption is incorrect. It’s Bjo Trimble and William Shatner, but on the set of Star Trek: The Motion Picture, circa 1979. The costumes give it away.
+August 27, 2010, 6:03 pm
+- Steve C says:
+Actually with THOSE uniforms that would have to be closer to 1979 when Star Trek: The Motion Picture came out, which is what those uniforms are from.
+August 27, 2010, 6:24 pm
+- mark says:
+Where were you when Firefly got canceled?!
+August 27, 2010, 10:10 pm
+- jsallison says:
+Please tell us you had nothing to do with those gawdawful uniforms in the first movie.
+August 27, 2010, 10:42 pm
+- Kelly says:
+Fred,
+Thanks again for a terrific post.  I have greatly enjoyed reading your messages.
+That photo is apparently from the set of Star Trek The Motion Picture, so was probably a little later than 1969.
+August 27, 2010, 10:53 pm
+- Eric Sheedy says:
+Judging from the costumes and William Shatner’s hair, this must be from the set of the first Star Trek movie in 1979/1980, and not from 1969.
+August 27, 2010, 11:12 pm
 - the blog team says:
 Sorry, Trek fans. The mistake in the photo was my fault, not Fred’s. I will edit.
 August 27, 2010, 11:51 pm

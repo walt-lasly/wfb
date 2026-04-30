@@ -4,6 +4,10 @@ date: 2012-03-09
 categories: ["Miscellaneous"]
 tags: ["Dick Smith"]
 archive_url: "https://web.archive.org/web/20120501000000/http://www.thewaythefutureblogs.com/2012/03/bad-news-for-the-blog-team/"
+prev_post_url: "/posts/2012-03-02-jack-robins-and-robert-a-w-lowndes/"
+prev_post_title: "Jack Robins and Robert A.W. Lowndes"
+next_post_url: "/posts/2012-03-16-wait-for-the-reunion/"
+next_post_title: "Wait for the Reunion"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Jack Robins and Robert A.W. Lowndes**
-**Wait for the Reunion**
 
 ## Bad News for the Blog Team
 
@@ -32,20 +34,50 @@ As hobbies Mr. Smith collected antique cars, starting with two Horch limousines 
 
 ### 14 Comments
 
-- megazversays:Condolences.March 9, 2012, 10:46 am
-- CaitieCatsays:My sympathies to Mr. Smith’s loved people.  A mercy to happen so quickly, a tragedy to happen unexpectedly.March 9, 2012, 10:54 am
-- Don Sakerssays:I’m sure all regular readers of this blog join me in expressing sorrow for Dick Smith’s loss. He and his familya re in my thoughts and in my heart.March 9, 2012, 12:47 pm
-- Keithsays:Dick, please accept my condolences on your loss.March 9, 2012, 12:47 pm
-- Bob Jonessays:RIPMarch 9, 2012, 2:29 pm
-- JJ Brannonsays:My sympathy and condolences on your loss, Dick.JJBMarch 9, 2012, 10:41 pm
-- Larry Kollarsays:May we contribute half as much as this man did. *hat off*March 9, 2012, 11:12 pm
-- Steve Boykosays:I’m sorry for your loss.March 10, 2012, 9:43 am
-- Mike Goldbergsays:I’m sorry for your loss.March 12, 2012, 10:16 am
-- Owlsays:Dick, condolences to you and your family.March 12, 2012, 10:32 am
-- John Armstrongsays:My condolences to Dick and his family. Words are insufficient for these things.March 13, 2012, 8:59 am
-- Michael Walshsays:Condolences.March 14, 2012, 12:28 pm
-- xxxsays:Condolences to his family and God rest his soul. He was a great man.March 16, 2012, 6:37 am
-- grouchomarxistsays:My condolences to his family and friends.It sounds like when all is said and done, he made his corner of the planet a better place, and will be missed by those who knew him. Although it’s always hard on the survivors, still, that’s a good way to retire from the game.March 16, 2012, 5:20 pm
+- megazver says:
+Condolences.
+March 9, 2012, 10:46 am
+- CaitieCat says:
+My sympathies to Mr. Smith’s loved people.  A mercy to happen so quickly, a tragedy to happen unexpectedly.
+March 9, 2012, 10:54 am
+- Don Sakers says:
+I’m sure all regular readers of this blog join me in expressing sorrow for Dick Smith’s loss. He and his familya re in my thoughts and in my heart.
+March 9, 2012, 12:47 pm
+- Keith says:
+Dick, please accept my condolences on your loss.
+March 9, 2012, 12:47 pm
+- Bob Jones says:
+RIP
+March 9, 2012, 2:29 pm
+- JJ Brannon says:
+My sympathy and condolences on your loss, Dick.
+JJB
+March 9, 2012, 10:41 pm
+- Larry Kollar says:
+May we contribute half as much as this man did. *hat off*
+March 9, 2012, 11:12 pm
+- Steve Boyko says:
+I’m sorry for your loss.
+March 10, 2012, 9:43 am
+- Mike Goldberg says:
+I’m sorry for your loss.
+March 12, 2012, 10:16 am
+- Owl says:
+Dick, condolences to you and your family.
+March 12, 2012, 10:32 am
+- John Armstrong says:
+My condolences to Dick and his family. Words are insufficient for these things.
+March 13, 2012, 8:59 am
+- Michael Walsh says:
+Condolences.
+March 14, 2012, 12:28 pm
+- xxx says:
+Condolences to his family and God rest his soul. He was a great man.
+March 16, 2012, 6:37 am
+- grouchomarxist says:
+My condolences to his family and friends. 
+It sounds like when all is said and done, he made his corner of the planet a better place, and will be missed by those who knew him. Although it’s always hard on the survivors, still, that’s a good way to retire from the game.
+March 16, 2012, 5:20 pm
 
 **WordPress**
 **TWTFB2**

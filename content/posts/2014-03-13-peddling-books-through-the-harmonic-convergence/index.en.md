@@ -4,6 +4,10 @@ date: 2014-03-13
 categories: ["Travel", "Writing"]
 tags: ["Astronomy", "Chernobyl", "Publishing", "Syzygy"]
 archive_url: "https://web.archive.org/web/20151001000000/http://www.thewaythefutureblogs.com/2014/03/peddling-books-through-the-harmonic-convergence/"
+prev_post_url: "/posts/2014-03-02-divide-and-conquer/"
+prev_post_title: "Divide and Conquer"
+next_post_url: "/posts/2014-03-17-good-news-gateway-tv-series-in-the-works/"
+next_post_title: "Good News,GatewayTV Series in the Works!"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Divide and Conquer**
-**Good News, Gateway TV Series in the Works!**
 
 ## Peddling Books Through the Harmonic Convergence
 
@@ -101,7 +103,7 @@ I really thought I could stay out of this one, but the Harmonic Convergence conv
 
 **Related posts:**
 
-- Peddling Books Through the Harmonic Convergence,Part 2,Part 3
+- Peddling Books Through the Harmonic Convergence,  [**Part 2**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/), [**Part 3**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
 
 
 ### 3 Comments
@@ -110,8 +112,13 @@ I really thought I could stay out of this one, but the Harmonic Convergence conv
 I was just starting to become a skeptic when The Jupiter Effect came out. In fact, it might have been one of the straws that broke the camel’s back. 
 I look forward to reading about the making of Chernobyl. I read it once, back when it came out, and still recall some parts vividly.
 March 13, 2014, 9:57 pm
-- Ace Lightningsays:When the Harmonic Convergence was being endlessly promoted, the repetition of the phrase eventually caused me to hear it as “Harmonica Virgins”. I told this to some friends of mine, and one said “Band name!” I realized that a band called the Harmonica Virgins would be something like this: An all-female hard-rock (or even heavy metal) band, dressed in the sluttiest, skimpiest, kinkiest outfits they can get away with. As they take the stage, the venue’s announcer screams, “Ladies and gentlemen… THE HARMONICA VIRGINS!”. The lead singer of the band steps up to the mike and waits for the applause to die down a little, then says, “And none of us play the harmonica, either. Hit it, girls!”March 14, 2014, 5:34 am
-- JJ Brannonsays:It’s always fascinating to re-ride through events, but seen from Fred’s insightful and self-deprecatingly amused perspective.JJBMarch 14, 2014, 7:19 pm
+- Ace Lightning says:
+When the Harmonic Convergence was being endlessly promoted, the repetition of the phrase eventually caused me to hear it as “Harmonica Virgins”. I told this to some friends of mine, and one said “Band name!” I realized that a band called the Harmonica Virgins would be something like this: An all-female hard-rock (or even heavy metal) band, dressed in the sluttiest, skimpiest, kinkiest outfits they can get away with. As they take the stage, the venue’s announcer screams, “Ladies and gentlemen… THE HARMONICA VIRGINS!”. The lead singer of the band steps up to the mike and waits for the applause to die down a little, then says, “And none of us play the harmonica, either. Hit it, girls!”
+March 14, 2014, 5:34 am
+- JJ Brannon says:
+It’s always fascinating to re-ride through events, but seen from Fred’s insightful and self-deprecatingly amused perspective.
+JJB
+March 14, 2014, 7:19 pm
 
 **WordPress**
 **TWTFB2**

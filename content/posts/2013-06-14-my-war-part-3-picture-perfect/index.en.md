@@ -4,6 +4,10 @@ date: 2013-06-14
 categories: ["Personal"]
 tags: ["History", "World War II"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2013/06/my-war-part-3-picture-perfect/"
+prev_post_url: "/posts/2013-06-07-about-the-hydra-club/"
+prev_post_title: "About the Hydra Club"
+next_post_url: "/posts/2013-06-16-bright-sayings-of-bright-people-no-47-fermi/"
+next_post_title: "Bright Sayings of Bright People, No. 47: Fermi"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**About the Hydra Club**
-**Bright Sayings of Bright People, No. 47: Fermi**
 
 ## My War, Part 3: Picture Perfect
 
@@ -59,14 +61,18 @@ And he would have done it, too, I’m pretty sure, if two sergeants in an MP jee
 
 **Related posts:**
 
-- **My War**, **Part 1**, **Part 2**
-- Hal Clement: Major Harry Stubbs
-- How I Lost My Oldest Friend (and Gained a Literary Agency)
+- **My War**, [**Part 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/), [**Part 2**](/posts/2013-05-21-my-war-part-2-flying-a-desk/)
+- [**Hal Clement: Major Harry Stubbs**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
+- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### One Comment
 
-- Bruce Arthurssays:In 1972 I was trained as a US Army Photographic Laboratory Technician at Fort Monmouth, NJ (just down the road a ways from you, as I recall, though I never worked up the chutzpah to come knock on your door and ask you to sign a book).  The Speed Graphics were still the default camera used, though we had about one week out of about twelve getting to use a 35mm.  (Most of the Lab Tech training taught developing and darkroom techniques.)As you say, the 4×5 inch negatives on the Speed Graphics could produce wonderfully sharp and detailed photos.  Heavy suckers, with a fairly steep learning curve, but I still have a nostalgic respect for them.As it turned out, once I graduated from the course, I was sent to fill a Lab Tech slot for a Signal company at another post, where there wasn’t any actual lab work to be done.  After several months mowing lawns, washing trucks, and occasionally firing rifle salutes over the graves of deceased veterans, I managed to get transferred to a truck driving company where I spent the rest of my enlistment as a company clerk.  Never got back into photography until digital cameras came along.June 20, 2013, 2:13 am
+- Bruce Arthurs says:
+In 1972 I was trained as a US Army Photographic Laboratory Technician at Fort Monmouth, NJ (just down the road a ways from you, as I recall, though I never worked up the chutzpah to come knock on your door and ask you to sign a book).  The Speed Graphics were still the default camera used, though we had about one week out of about twelve getting to use a 35mm.  (Most of the Lab Tech training taught developing and darkroom techniques.)
+As you say, the 4×5 inch negatives on the Speed Graphics could produce wonderfully sharp and detailed photos.  Heavy suckers, with a fairly steep learning curve, but I still have a nostalgic respect for them.
+As it turned out, once I graduated from the course, I was sent to fill a Lab Tech slot for a Signal company at another post, where there wasn’t any actual lab work to be done.  After several months mowing lawns, washing trucks, and occasionally firing rifle salutes over the graves of deceased veterans, I managed to get transferred to a truck driving company where I spent the rest of my enlistment as a company clerk.  Never got back into photography until digital cameras came along.
+June 20, 2013, 2:13 am
 
 **WordPress**
 **TWTFB2**

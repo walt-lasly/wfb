@@ -4,6 +4,10 @@ date: 2012-04-23
 categories: ["Personal"]
 tags: ["Advertising", "Prozines", "Television"]
 archive_url: "https://web.archive.org/web/20010101000000/http://www.thewaythefutureblogs.com/2012/04/no-not-me-i-think/"
+prev_post_url: "/posts/2012-04-22-bright-sayings-of-bright-people-no-29/"
+prev_post_title: "Bright Sayings of Bright People, No. 29"
+next_post_url: "/posts/2012-04-26-a-e-van-vogt-throw-a-corpse-through-the-skylight/"
+next_post_title: "A.E. van Vogt: ‘Throw a Corpse Through the Skylight.’"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 29**
-**A.E. van Vogt: ‘Throw a Corpse Through the Skylight.’**
 
 ## No, Not Me (I think)
 
@@ -32,9 +34,16 @@ What a pity that the magazine hasn’t survived to get the benefit of all this C
 
 ### 3 Comments
 
-- TADsays:I’m sure you must have seen that episode of STAR TREK: DEEP SPACE NINE that had GALAXY featured in it? It was really pretty excellent….April 23, 2012, 3:30 am
-- Robert Nowallsays:If the show mentions Galaxy enough, maybe somebody’ll revive it.  (Who owns the rights now?)I’d be happy to see some more print magazines around…online reading just isn’t the same…I’d even be happy with the return of Worlds of If…April 24, 2012, 5:59 am
-- lorqsays:I’ve wondered for a while now if Alfred Bester might not be one of the inspirational forces behind “Mad Men.”  He was very much a part of the Madison Avenue scene dramatized in the show; two of his non-SF novels, “The Rat Race” and the posthumously published “Tender Loving Rage,” are explicitly based in that world, and “The Demolished Man” (first published in “Galaxy”), as William Gibson and many others have commented, is also “about” that world, as refracted through a science-fictional lens.  The psychological mysteries of the protagonist of “Mad Men” could also fit neatly into a Bester story.  I’m not saying Bester is the only candidate for character-model for the show, but he’s a pretty damned good one.April 28, 2012, 1:29 pm
+- TAD says:
+I’m sure you must have seen that episode of STAR TREK: DEEP SPACE NINE that had GALAXY featured in it? It was really pretty excellent….
+April 23, 2012, 3:30 am
+- Robert Nowall says:
+If the show mentions Galaxy enough, maybe somebody’ll revive it.  (Who owns the rights now?)
+I’d be happy to see some more print magazines around…online reading just isn’t the same…I’d even be happy with the return of Worlds of If…
+April 24, 2012, 5:59 am
+- lorq says:
+I’ve wondered for a while now if Alfred Bester might not be one of the inspirational forces behind “Mad Men.”  He was very much a part of the Madison Avenue scene dramatized in the show; two of his non-SF novels, “The Rat Race” and the posthumously published “Tender Loving Rage,” are explicitly based in that world, and “The Demolished Man” (first published in “Galaxy”), as William Gibson and many others have commented, is also “about” that world, as refracted through a science-fictional lens.  The psychological mysteries of the protagonist of “Mad Men” could also fit neatly into a Bester story.  I’m not saying Bester is the only candidate for character-model for the show, but he’s a pretty damned good one.
+April 28, 2012, 1:29 pm
 
 **WordPress**
 **TWTFB2**

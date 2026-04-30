@@ -4,6 +4,10 @@ date: 2010-12-10
 categories: ["Authors", "Personal"]
 tags: ["Carol Pohl", "Fletcher Pratt", "Futurians", "I.M. Stephens", "Judith Merril", "L. Jerome Stanton", "New York", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20150919040427/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-6-our-house/"
+prev_post_url: "/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/"
+prev_post_title: "Mary Byers Kornbluth, Part 1: A Fan is Born"
+next_post_url: "/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
+next_post_title: "Bright Sayings of Bright People, No. 6: Mill"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Mary Byers Kornbluth, Part 1: A Fan is Born**
-**Bright Sayings of Bright People, No. 6: Mill**
 
 ## Judith Merril, Part 6: Our House
 
@@ -72,12 +74,14 @@ It’s Judy’s, and in Judy’s life the next significant thing that happened t
 
 **Related posts:**  
 
-**Judith Merril,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**,  **Part 7**, **Part 8**, **Part 9**
+**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/),  [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### One Comment
 
-- Ross Pressersays:That is one fine looking house.December 10, 2010, 5:22 pm
+- Ross Presser says:
+That is one fine looking house.
+December 10, 2010, 5:22 pm
 
 **WordPress**
 **TWTFB2**

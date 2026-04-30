@@ -4,6 +4,10 @@ date: 2011-06-21
 categories: ["Miscellaneous"]
 tags: ["Sidney Glassberg"]
 archive_url: "https://web.archive.org/web/20120826232912/http://www.thewaythefutureblogs.com/2011/06/my-kind-of-guy/"
+prev_post_url: "/posts/2011-06-20-remembering-terry-jeeves-1922-2011/"
+prev_post_title: "Remembering — Terry Jeeves (1922–2011)"
+next_post_url: "/posts/2011-06-22-the-rich-get-rich-part-2/"
+next_post_title: "The Rich Get Rich, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Remembering — Terry Jeeves (1922–2011)**
-**The Rich Get Rich, Part 2**
 
 ## My Kind of Guy
 
@@ -38,13 +40,30 @@ Hardly anybody ever heard of Sidney Glassberg while he was with us, but he brigh
 
 ### 7 Comments
 
-- H. E. Parmersays:In my opinion, the most heroic quality which we humans possess is the ability to laugh at the fact of our inevitable demise.June 21, 2011, 1:38 am
-- Chookiesays:British actor John Le Measurier “conked out,” according to his death notice — which he had written in advance.And I heard of an Australian woman whose coffin carried one of those paper hands on a spring, which waved madly as it slid out of sight into the business part of the crematorium — while they played “Wish Me Luck as You Wave Me Goodbye”!June 21, 2011, 5:30 am
-- Kip Wsays:The doctors weren’t entirely sure what fanartist Joe Mayhew was dying of, but seemed to believe it was related to Mad Cow disease. I talked to his brother, and he said that he was visiting Joe the day he passed on, and the last thing Joe said to him (or anyone) was near the end, when he looked up with a sort of twinkle and clearly said, “Moo.”June 21, 2011, 10:16 am
-- Bill Goodwinsays:I decided some time ago that I’d like my gravestone to read, simply: “No Digging.”June 22, 2011, 6:27 am
-- Henrysays:“he brightened the world for the rest of us as he left.”This could also be applied to a number of people Mr Pohl has written about on this blog, and not in a nice way.June 23, 2011, 4:40 am
-- Dan Gollubsays:“God, if any” provides a wide continuum of possibilities. My personal belief is that “God” is an emissary from an advanced scientific civilization which managed to create a form of immortality and then launched spaceships in search of life in other solar systems. Eventually one of those spaceships found this planet. The advanced technology includes the abilities to preserve “souls” after death and eliminate the flaws in those persons which they may have possessed while alive. That advanced technology also encompasses a rudimentary form of telepathy which rewards people via enriched consciousness when they’re trying to be on the right tracks.June 25, 2011, 4:19 am
-- Kevinsays:Comedian Spike Milligan, who suffered from depression throughout his life, wanted “I told you I was ill” on his tombstone. The church refused but allowed an Irish translation.The “I make a living” joke is attibuted to the british-jewish comedian Henry Youngman, who died in 1998. I hope Sidney did say it though.July 3, 2011, 11:09 am
+- H. E. Parmer says:
+In my opinion, the most heroic quality which we humans possess is the ability to laugh at the fact of our inevitable demise.
+June 21, 2011, 1:38 am
+- Chookie says:
+British actor John Le Measurier “conked out,” according to his death notice — which he had written in advance.
+And I heard of an Australian woman whose coffin carried one of those paper hands on a spring, which waved madly as it slid out of sight into the business part of the crematorium — while they played “Wish Me Luck as You Wave Me Goodbye”!
+June 21, 2011, 5:30 am
+- Kip W says:
+The doctors weren’t entirely sure what fanartist Joe Mayhew was dying of, but seemed to believe it was related to Mad Cow disease. I talked to his brother, and he said that he was visiting Joe the day he passed on, and the last thing Joe said to him (or anyone) was near the end, when he looked up with a sort of twinkle and clearly said, “Moo.”
+June 21, 2011, 10:16 am
+- Bill Goodwin says:
+I decided some time ago that I’d like my gravestone to read, simply: “No Digging.”
+June 22, 2011, 6:27 am
+- Henry says:
+“he brightened the world for the rest of us as he left.”
+This could also be applied to a number of people Mr Pohl has written about on this blog, and not in a nice way.
+June 23, 2011, 4:40 am
+- Dan Gollub says:
+“God, if any” provides a wide continuum of possibilities. My personal belief is that “God” is an emissary from an advanced scientific civilization which managed to create a form of immortality and then launched spaceships in search of life in other solar systems. Eventually one of those spaceships found this planet. The advanced technology includes the abilities to preserve “souls” after death and eliminate the flaws in those persons which they may have possessed while alive. That advanced technology also encompasses a rudimentary form of telepathy which rewards people via enriched consciousness when they’re trying to be on the right tracks.
+June 25, 2011, 4:19 am
+- Kevin says:
+Comedian Spike Milligan, who suffered from depression throughout his life, wanted “I told you I was ill” on his tombstone. The church refused but allowed an Irish translation.
+The “I make a living” joke is attibuted to the british-jewish comedian Henry Youngman, who died in 1998. I hope Sidney did say it though.
+July 3, 2011, 11:09 am
 
 **WordPress**
 **TWTFB2**

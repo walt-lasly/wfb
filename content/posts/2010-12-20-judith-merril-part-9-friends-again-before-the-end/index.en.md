@@ -4,6 +4,10 @@ date: 2010-12-20
 categories: ["Authors", "Personal", "Science", "Space"]
 tags: ["Ann Pohl", "Canada", "Carol Pohl", "Daniel Pohl-Miranda", "Emily Pohl-Weary", "Futurians", "Juan Miranda", "Judith Merril", "Julia Pohl-Miranda", "Media", "Politics", "Television", "Tobias Pohl-Weary", "Walter Weary"]
 archive_url: "https://web.archive.org/web/20051201000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-9-friends-again-before-the-end/"
+prev_post_url: "/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
+prev_post_title: "Bright Sayings of Bright People, No. 7: Mackay"
+next_post_url: "/posts/2010-12-21-early-days-at-brooklyn-tech/"
+next_post_title: "Early Days at Brooklyn Tech"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 7: Mackay**
-**Early Days at Brooklyn Tech**
 
 ## Judith Merril, Part 9: Friends Again Before the End
 
@@ -53,15 +55,31 @@ I am pleased that, at the end of the last time I saw her, she gave me a hug.  Do
 
 **Related posts:**  
 
-**Judith Merril,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**, **Part 8**
+**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
 
 
 ### 4 Comments
 
-- Cory Doctorowsays:I’ve really, really enjoyed this series, Fred. Having been mentored by Judy (and having immensely enjoyed Emily and Judy’s book), it was really fascinating to get another lens on her life.One tiny thing: it’s TVOntario, not Ontario TV (I grew up watching Judy introduce Dr Who — my father and I both loved it).December 20, 2010, 1:19 am
-- Kirksays:This isn’t about Judith Merril, per se, but I didn’t know where else to put it.  If Fred is looking for filler material on occasion, in between the interesting biographical essays, I wonder if he would consider reprinting any of his ‘Pohlemic’ articles from the old Algol/Starship magazine.  In particular there was an excellent one on George Orwell that was printed just before Starship folded.  Just my two cents worth. . .December 20, 2010, 3:19 pm
-- Stefan Jonessays:Merril actually introduced Dr. Who episodes?Interesting . . . in the States, the first few seasons of Baker were run on commercial TV with voice-over introductions by Howard da Silva.December 21, 2010, 1:06 pm
-- Geoffrey Dowsays:It’s a little hard to know where to start. We met quite a few years ago, shared a few cigarettes outside the OISE building at a conference at which you spoke and which Judy had had a part in organizing. Not that you are remotely likely to remember me. Judy introduced us, but I was star-struck and determined not to allow that to bore you. So I said just about nothing, not even, “I *loved* Gateway!” as we huddled under inadequate shelter on what I remember being a miserable, chilly and drizzly day.I first “met” Judy when she was doing those Doctor Who intros on TVO. I’d almost certainly read That Only A Mother by then (I was 11 or 12, I think), but I don’t believe I associated that white hair “old” woman with the author of the story. I met her for real a few years after that when she taught a two or three intensive writing workshops at my high school in Toronto.A few years after *that*, we ran into each other at a peace rally and talked – and became friends for a few years. (Yes, I’m getting to a point here; please forgive me the multiple digressions. I know you (sort of), but you don’t know me, and so I feel the need to provide some context.)We had a falling out a few years before she died, but prior to that I had the privilege of doing some research for her while I live in Ottawa. Judy’s papers were in the National Archives and I had the remarkable pleasure (paid, yet!) of going through the many boxes of her correspondence there, pulling and having copied those letters (she kept carbons of everything, so it included both sides) that I judged would be useful to her in writing her memoirs.Needless to say, for someone who had grown up on Pohl and Asimov and Heinlein and cetera in the early 1970s, who’d by that point read your memoirs, and Damon Knight’s book about the Futurians, the work was utterly fascinating to me.Among those letters were a great many she wrote during the period of the custody battle between the two of you. And I’m writing now, really, just to bear witness to your willingness to be honest about the good and bad bits of your own past. Granted that it’s been a quarter century or so since I was trawling those bankers’ boxes of correspondence, I’m more than a little impressed that what you’ve written pretty much matches up with what Judy was telling *her* friends and allies at the time.Not that the interpretations weren’t different – of course they were – but the facts as you present them now, and as Judy did back in the 1950s seem to me to have gibed much more closely than I would have thought possible for two people who had such a terrible battle against one another.January 12, 2011, 8:56 pm
+- Cory Doctorow says:
+I’ve really, really enjoyed this series, Fred. Having been mentored by Judy (and having immensely enjoyed Emily and Judy’s book), it was really fascinating to get another lens on her life.
+One tiny thing: it’s TVOntario, not Ontario TV (I grew up watching Judy introduce Dr Who — my father and I both loved it).
+December 20, 2010, 1:19 am
+- Kirk says:
+This isn’t about Judith Merril, per se, but I didn’t know where else to put it.  If Fred is looking for filler material on occasion, in between the interesting biographical essays, I wonder if he would consider reprinting any of his ‘Pohlemic’ articles from the old Algol/Starship magazine.  In particular there was an excellent one on George Orwell that was printed just before Starship folded.  Just my two cents worth. . .
+December 20, 2010, 3:19 pm
+- Stefan Jones says:
+Merril actually introduced Dr. Who episodes?
+Interesting . . . in the States, the first few seasons of Baker were run on commercial TV with voice-over introductions by Howard da Silva.
+December 21, 2010, 1:06 pm
+- Geoffrey Dow says:
+It’s a little hard to know where to start. We met quite a few years ago, shared a few cigarettes outside the OISE building at a conference at which you spoke and which Judy had had a part in organizing. Not that you are remotely likely to remember me. Judy introduced us, but I was star-struck and determined not to allow that to bore you. So I said just about nothing, not even, “I *loved* Gateway!” as we huddled under inadequate shelter on what I remember being a miserable, chilly and drizzly day.
+I first “met” Judy when she was doing those Doctor Who intros on TVO. I’d almost certainly read That Only A Mother by then (I was 11 or 12, I think), but I don’t believe I associated that white hair “old” woman with the author of the story. I met her for real a few years after that when she taught a two or three intensive writing workshops at my high school in Toronto.
+A few years after *that*, we ran into each other at a peace rally and talked – and became friends for a few years. (Yes, I’m getting to a point here; please forgive me the multiple digressions. I know you (sort of), but you don’t know me, and so I feel the need to provide some context.)
+We had a falling out a few years before she died, but prior to that I had the privilege of doing some research for her while I live in Ottawa. Judy’s papers were in the National Archives and I had the remarkable pleasure (paid, yet!) of going through the many boxes of her correspondence there, pulling and having copied those letters (she kept carbons of everything, so it included both sides) that I judged would be useful to her in writing her memoirs.
+Needless to say, for someone who had grown up on Pohl and Asimov and Heinlein and cetera in the early 1970s, who’d by that point read your memoirs, and Damon Knight’s book about the Futurians, the work was utterly fascinating to me.
+Among those letters were a great many she wrote during the period of the custody battle between the two of you. And I’m writing now, really, just to bear witness to your willingness to be honest about the good and bad bits of your own past. Granted that it’s been a quarter century or so since I was trawling those bankers’ boxes of correspondence, I’m more than a little impressed that what you’ve written pretty much matches up with what Judy was telling *her* friends and allies at the time.
+Not that the interpretations weren’t different – of course they were – but the facts as you present them now, and as Judy did back in the 1950s seem to me to have gibed much more closely than I would have thought possible for two people who had such a terrible battle against one another.
+January 12, 2011, 8:56 pm
 
 **WordPress**
 **TWTFB2**

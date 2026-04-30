@@ -4,6 +4,10 @@ date: 2011-10-06
 categories: ["Authors", "Personal", "Science", "Travel"]
 tags: ["Arthur C. Clarke", "Conventions", "Ed Mitchell", "George Pezdirtz", "Harold Puthoff", "James Randi", "Marvin Minsky", "NASA", "Psi", "Russell Targ", "Wernher von Braun", "Willy Ley", "World War II"]
 archive_url: "https://web.archive.org/web/20170801000000/http://www.thewaythefutureblogs.com/2011/10/great-conferences-i-have-attended-no-1/"
+prev_post_url: "/posts/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
+prev_post_title: "Oh, Good!  The Computers Have Come!No More Worries, Ever!"
+next_post_url: "/posts/2011-10-13-planet-earth-almost-good-news-maybe/"
+next_post_title: "Planet Earth: Almost Good News, Maybe"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Oh, Good!  The Computers Have Come! No More Worries, Ever!**
-**Planet Earth: Almost Good News, Maybe**
 
 ## Great Conferences I Have Attended, No. 1
 
@@ -89,13 +91,34 @@ But it’s more fun with the machine.   And it was a lot of fun at the conferenc
 
 ### 7 Comments
 
-- Ken Houghtonsays:Oh, don’t bother to roll again.  If it rolls a 4, 5, or 6, just subtract three from the number.October 6, 2011, 10:49 am
-- Natesays:Interesting post, but I feel compelled to ask why the experimenter would reroll the die in question.  Couldn’t you just divide the result by two and round up?  Or in some other way assign two of the faces to one outcome?October 6, 2011, 11:19 am
-- David Goldfarbsays:Instead of re-rolling the die half the time, why not just divide the result by 2, rounding up?October 6, 2011, 12:35 pm
-- David Ratnasabapathysays:Do you know how they moved the tubes?Since the tubes were lightweight, one obvious way to make them move is to blow gently on them.Another possibility is to conceal a strong magnet in one’s hand or mouth. But if Randi could do it on the spot without preparation that doesn’t seem likely.  Unless he has a habit of carrying magnets around on his personOctober 7, 2011, 9:18 am
-- SMsays:I had the homour to meet Mr. Randi in his recent speaking tour of Canada.  He\’s still fooling audiences and criticizing fools with that marvelous wit.  Nine cities from coast to coast in nine days- the mind boggles.I would be interested to know if he and de Camp ever met … both wrote on skeptical topics, but de Camp seemed to be less enraged by con men and cheats.October 7, 2011, 7:50 pm
-- Jay Borcherdingsays:I prefer the subtract three suggestion to the divide and round up suggestions.Good post!  I respect your caution regarding Von Braun, which I suspect was a minority view, but am glad that your 30 minutes of forced intimacy was pleasant enough.There’s a quaint quality to the whole business regarding Psi.  The magic box story made me think of Scientology’s E-meter:  pseudo-science for the gullible, more a gag for parties than a serious scientific instrument.Oh and Fred never gave us an update regarding your insane Dell:  has the problem been fixed?October 7, 2011, 10:50 pm
-- Robert Brownsays:I love the image of you and Sir Clarke awkwardly jousting on a bicycle, trying to avoid meeting your collective doom as the bike totters forward, Clarke shouting instruction to you as you struggle to push the pedals…Not something I could have made up.  Truth is stranger than fiction.October 8, 2011, 8:50 pm
+- Ken Houghton says:
+Oh, don’t bother to roll again.  If it rolls a 4, 5, or 6, just subtract three from the number.
+October 6, 2011, 10:49 am
+- Nate says:
+Interesting post, but I feel compelled to ask why the experimenter would reroll the die in question.  Couldn’t you just divide the result by two and round up?  Or in some other way assign two of the faces to one outcome?
+October 6, 2011, 11:19 am
+- David Goldfarb says:
+Instead of re-rolling the die half the time, why not just divide the result by 2, rounding up?
+October 6, 2011, 12:35 pm
+- David Ratnasabapathy says:
+Do you know how they moved the tubes?  
+Since the tubes were lightweight, one obvious way to make them move is to blow gently on them. 
+Another possibility is to conceal a strong magnet in one’s hand or mouth. But if Randi could do it on the spot without preparation that doesn’t seem likely.  Unless he has a habit of carrying magnets around on his person 
+October 7, 2011, 9:18 am
+- SM says:
+I had the homour to meet Mr. Randi in his recent speaking tour of Canada.  He\’s still fooling audiences and criticizing fools with that marvelous wit.  Nine cities from coast to coast in nine days- the mind boggles.  
+I would be interested to know if he and de Camp ever met … both wrote on skeptical topics, but de Camp seemed to be less enraged by con men and cheats.
+October 7, 2011, 7:50 pm
+- Jay Borcherding says:
+I prefer the subtract three suggestion to the divide and round up suggestions. 
+Good post!  I respect your caution regarding Von Braun, which I suspect was a minority view, but am glad that your 30 minutes of forced intimacy was pleasant enough.  
+There’s a quaint quality to the whole business regarding Psi.  The magic box story made me think of Scientology’s E-meter:  pseudo-science for the gullible, more a gag for parties than a serious scientific instrument. 
+Oh and Fred never gave us an update regarding your insane Dell:  has the problem been fixed?
+October 7, 2011, 10:50 pm
+- Robert Brown says:
+I love the image of you and Sir Clarke awkwardly jousting on a bicycle, trying to avoid meeting your collective doom as the bike totters forward, Clarke shouting instruction to you as you struggle to push the pedals…
+Not something I could have made up.  Truth is stranger than fiction.
+October 8, 2011, 8:50 pm
 
 **WordPress**
 **TWTFB**

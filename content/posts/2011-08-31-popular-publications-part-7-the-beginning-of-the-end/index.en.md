@@ -4,6 +4,10 @@ date: 2011-08-31
 categories: ["Authors"]
 tags: ["Alden H. Norton", "David Goodis", "Editors", "Frank A. Munsey", "Mary Gnaedinger", "Prozines", "Publishing", "Pulps", "Robert J. Hogan"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-7-the-beginning-of-the-end/"
+prev_post_url: "/posts/2011-08-30-how-to-mark-your-place-with-me-for-company/"
+prev_post_title: "How to Mark Your Place (With Me  for Company!)"
+next_post_url: "/posts/2011-09-03-hannes-bok-futurian-artist-in-chief/"
+next_post_title: "Hannes Bok: Futurian Artist in Chief"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**How to Mark Your Place (With Me  for Company!)**
-**Hannes Bok: Futurian Artist in Chief**
 
 ## Popular Publications, Part 7: The Beginning of the End
 
@@ -25,8 +27,8 @@ As best I remember, Al Norton was in charge of:
 - 3 Westerns
 - 2 sports
 - 2 crime
-- 1 sf (Super Science Stories)
-- 1 superhero (G-8 and His Battle Aces)
+- 1 sf (**Super Science Stories**)
+- 1 superhero (**G-8 and His Battle Aces**)
 
 
 At some time during my furlough, Astonishing Stories had breathed its last, done in by the 10¢ cover price.  We didn’t have any horror or love pulps — happily, because we all would have hated them.  We also didn’t have any of  the titles Popular was acquiring in its purchase of the venerable Frank A. Munsey’s company.
@@ -52,13 +54,19 @@ We were all too well brought up to hurt his feelings, so none of us laughed unti
 
 **Related posts:**
 
-- **Popular Publications**, **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**
+- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
 
 
 ### 2 Comments
 
-- David B. Williamssays:I marvel that any publisher would rely on one writer to produce all the copy in each issue of a magazine. Talk about all your eggs in one basket. One stray lightning bolt and your magazine in kaput.But I’m glad they maintained FFM. I fondly recall myself as a young teen in the early 1960s, reading fantasy classics in tattered, funky copies of FFM from the late ’40s. The Ship of Ishtar!August 31, 2011, 1:17 pm
-- Stefan Jonessays:David:After reading about the pulp industry in Frederik’s posts . . . I bet management would promote an especially bright mail boy to editor before the smell of ozone had cleared up!August 31, 2011, 9:50 pm
+- David B. Williams says:
+I marvel that any publisher would rely on one writer to produce all the copy in each issue of a magazine. Talk about all your eggs in one basket. One stray lightning bolt and your magazine in kaput.
+But I’m glad they maintained FFM. I fondly recall myself as a young teen in the early 1960s, reading fantasy classics in tattered, funky copies of FFM from the late ’40s. The Ship of Ishtar!
+August 31, 2011, 1:17 pm
+- Stefan Jones says:
+David:
+After reading about the pulp industry in Frederik’s posts . . . I bet management would promote an especially bright mail boy to editor before the smell of ozone had cleared up!
+August 31, 2011, 9:50 pm
 
 **WordPress**
 **TWTFB**

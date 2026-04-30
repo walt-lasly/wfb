@@ -4,6 +4,10 @@ date: 2012-03-23
 categories: ["Authors", "Personal"]
 tags: ["Albert Einstein", "Alexis Carrel", "C.M. Kornbluth", "Charles Lindbergh", "Clubs", "Damon Knight", "David A. Kyle", "Dirk Wylie", "Donald A. Wollheim", "E.E. ‘Doc’ Smith", "Edward Teller", "Fiction", "Franklin Delano Roosevelt", "Futurians", "Hannes Bok", "Isaac Asimov", "Jack Gillespie", "Jack Paar", "Jack Robins", "John B. Michel", "John W. Campbell", "Maureen O'Sullivan", "Media", "Mike Terranova", "Richard Wilson", "Robert A.W. Lowndes"]
 archive_url: "https://web.archive.org/web/20250801000000/http://www.thewaythefutureblogs.com/2012/03/the-reunion-at-the-mile-high/"
+prev_post_url: "/posts/2012-03-16-wait-for-the-reunion/"
+prev_post_title: "Wait for the Reunion"
+next_post_url: "/posts/2012-03-30-what-flowers-know-but-politicians-can-t-figure-out/"
+next_post_title: "What Flowers Know — But Politicians Can’t Figure Out"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Wait for the Reunion**
-**What Flowers Know — But Politicians Can’t Figure Out**
 
 ## The Reunion at the Mile-High
 
@@ -257,31 +259,89 @@ I gave him an honest answer. “I don’t exactly know. I used to keep a list. I
 
 ### 25 Comments
 
-- Larry Kollarsays:A fascinating alternate history!March 23, 2012, 10:03 pm
-- Mark Ifisays:I agree.March 24, 2012, 7:14 am
-- Shakatanysays:What a terrific story. I love what ifs. When was it written?March 24, 2012, 12:19 pm
-- Bill Higgins-- Beam Jockeysays:Thanks, that was enjoyable.A few years ago, I tried to count up, in my disorganized way, the footprints left by Dr. Alexis Carell in science fiction:http://beamjockey.livejournal.com/69932.htmlI guess this counts as another one.March 24, 2012, 3:31 pm
-- Joseph Nebussays:This had been, I think, my favorite story inFoundation’s Friends,though there were quite a few clever ones in the book.  I hadn’t noticed some of the little alternate-history touches though; I had no recollection of the mention about the flying boats or the squashing of spaceflight.It must be one of the benefits of revisiting an old friend that you run across aspects you hadn’t paid attention to.March 24, 2012, 11:57 pm
-- Steve Boykosays:Heh – love the story and the surprise ending. Thanks for sharing this.March 25, 2012, 9:23 am
-- John C. Bolandsays:Not so alternate. Fred got Hannes Bok right. Early this month one of Bok’s magazine covers (Science Stories 1953, “Hocus Pocus Universe”) went for $21,250 at Heritage auctions. And the Pulitzers and Nobels were spot on, but they were called Hugos in this other universe.March 25, 2012, 10:31 am
-- john millersays:Haha!Time to write the one that Eye would have written for you…March 25, 2012, 3:17 pm
-- J.J.S. Boycesays:A very cool story. Obviously very meta, like Asimov’s “Gold”, which might mean some casual readers won’t get all the jokes, but I think there’s a place for stories about the stories, or about the authors of those stories. It provides some valuable insight about the people on those back book flaps.March 25, 2012, 9:22 pm
-- John Kavanaghsays:A fascinating alternate history indeed, but I’d really love to learn more about your long relationship with GALAXY: as agent, author, and especially editor.March 26, 2012, 12:39 am
-- Bill Goodwinsays:What alternate history?  It’s all true.  Every moment of it is available for perusal, from the bio-net.  Although I must admit that my connection is getting finicky these days.  Sometimes the screen wavers, and I see impossible news items, like the one about the United States shelving its manned space program.  In fact, I just pheremoned Issac Asimov, and the entry told me he WAS a writer.  Very odd…March 26, 2012, 2:08 am
-- Jim Worradsays:Brilliant!March 26, 2012, 3:14 am
-- Neil Restsays:I’d been thinking about this story lately, and wishing I remembered the title or was sure of the author.Thanks!March 26, 2012, 1:55 pm
-- David Stromsays:Without nukes, spaceflight, etc., what happened to Robert Heinlein in that alternate universe?  A minor light of SF?  Or, did he get cured of TB, rejoin the Navy & make Admiral?March 26, 2012, 3:55 pm
-- JJ Brannonsays:Even with my limited personal interaction with The Good Doctor, I can only imagine that the chest-clutching was provoked by the loss of his 300+ books rather than being portrayed as a vaunted and revered mass-murderer [in the cause of world peace].What really tickles me most — as someone periodically interviewed in the various media — is the behavior of the soi-disant reporter, who dismisses primary sources for “what everyone knows”.JJBMarch 26, 2012, 11:05 pm
-- John Armstrongsays:Always loved this story, good to see it again.March 27, 2012, 2:58 pm
-- Chuksays:Great stuff and so was his comment on it. This must have been fun to write.March 27, 2012, 4:40 pm
-- Nestorsays:Started reading without paying much attention, thought the story was factual, I even googled the mile high building before I realized what was going on.March 28, 2012, 5:40 pm
-- Alexsays:Excellent read! I recently finished reading Isaac’s autobiography, I, Asimov, so it was great to revisit some of the real-life characters he knew and loved.March 29, 2012, 7:45 pm
-- TADsays:This was a lot of fun, and a nice sidelight to your WAY THE FUTURE WAS and Damon’s FUTURIANS. Your descriptions get across the way you felt about those guys in a way that the books didn’t. Thanks for posting it….March 30, 2012, 4:13 am
-- M31says:I’m with Nestor–I got all the way to the Mile High Building part assuming it was factual.Then I got to the part about the reporter not being interested in actual facts, only conventional narratives, and I knew it was factual after allMarch 31, 2012, 8:43 am
-- Nathan Murrellsays:Thank you so much for these, I don’t know about many of the other writers of this generations, but I for one have learned how to write from the like of you, Fred Pohl, and Isaac Asimov.  I am and alwas will be a disciple because of such things.  And that, is a comforting thought.April 2, 2012, 11:35 am
-- Sesame GI misays:I love that Kornbluth lives, and writes and writes and writes.  I think I missed some other details because I was so in love with this one feature of the story…April 4, 2012, 10:23 pm
-- Peter Greenesays:Lovely! And thank you. That was a refreshing glimpse.April 4, 2012, 11:36 pm
-- Margaret Bsays:Thanks for posting this — it was my first time to read it.April 9, 2012, 12:11 pm
+- Larry Kollar says:
+A fascinating alternate history!
+March 23, 2012, 10:03 pm
+- Mark Ifi says:
+I agree.
+March 24, 2012, 7:14 am
+- Shakatany says:
+What a terrific story. I love what ifs. When was it written?
+March 24, 2012, 12:19 pm
+- Bill Higgins-- Beam Jockey says:
+Thanks, that was enjoyable.
+A few years ago, I tried to count up, in my disorganized way, the footprints left by Dr. Alexis Carell in science fiction:  http://beamjockey.livejournal.com/69932.html
+I guess this counts as another one.
+March 24, 2012, 3:31 pm
+- Joseph Nebus says:
+This had been, I think, my favorite story in Foundation’s Friends, though there were quite a few clever ones in the book.  I hadn’t noticed some of the little alternate-history touches though; I had no recollection of the mention about the flying boats or the squashing of spaceflight.  
+It must be one of the benefits of revisiting an old friend that you run across aspects you hadn’t paid attention to.
+March 24, 2012, 11:57 pm
+- Steve Boyko says:
+Heh – love the story and the surprise ending. Thanks for sharing this.
+March 25, 2012, 9:23 am
+- John C. Boland says:
+Not so alternate. Fred got Hannes Bok right. Early this month one of Bok’s magazine covers (Science Stories 1953, “Hocus Pocus Universe”) went for $21,250 at Heritage auctions. And the Pulitzers and Nobels were spot on, but they were called Hugos in this other universe.
+March 25, 2012, 10:31 am
+- john miller says:
+Haha!
+Time to write the one that Eye would have written for you…
+March 25, 2012, 3:17 pm
+- J.J.S. Boyce says:
+A very cool story. Obviously very meta, like Asimov’s “Gold”, which might mean some casual readers won’t get all the jokes, but I think there’s a place for stories about the stories, or about the authors of those stories. It provides some valuable insight about the people on those back book flaps.
+March 25, 2012, 9:22 pm
+- John Kavanagh says:
+A fascinating alternate history indeed, but I’d really love to learn more about your long relationship with GALAXY: as agent, author, and especially editor.
+March 26, 2012, 12:39 am
+- Bill Goodwin says:
+What alternate history?  It’s all true.  Every moment of it is available for perusal, from the bio-net.  Although I must admit that my connection is getting finicky these days.  Sometimes the screen wavers, and I see impossible news items, like the one about the United States shelving its manned space program.  In fact, I just pheremoned Issac Asimov, and the entry told me he WAS a writer.  Very odd…
+March 26, 2012, 2:08 am
+- Jim Worrad says:
+Brilliant!
+March 26, 2012, 3:14 am
+- Neil Rest says:
+I’d been thinking about this story lately, and wishing I remembered the title or was sure of the author.
+Thanks!
+March 26, 2012, 1:55 pm
+- David Strom says:
+Without nukes, spaceflight, etc., what happened to Robert Heinlein in that alternate universe?  A minor light of SF?  Or, did he get cured of TB, rejoin the Navy & make Admiral?
+March 26, 2012, 3:55 pm
+- JJ Brannon says:
+Even with my limited personal interaction with The Good Doctor, I can only imagine that the chest-clutching was provoked by the loss of his 300+ books rather than being portrayed as a vaunted and revered mass-murderer [in the cause of world peace].
+What really tickles me most — as someone periodically interviewed in the various media — is the behavior of the soi-disant reporter, who dismisses primary sources for “what everyone knows”.
+JJB
+March 26, 2012, 11:05 pm
+- John Armstrong says:
+Always loved this story, good to see it again.
+March 27, 2012, 2:58 pm
+- Chuk says:
+Great stuff and so was his comment on it. This must have been fun to write.
+March 27, 2012, 4:40 pm
+- Nestor says:
+Started reading without paying much attention, thought the story was factual, I even googled the mile high building before I realized what was going on.
+March 28, 2012, 5:40 pm
+- Alex says:
+Excellent read! I recently finished reading Isaac’s autobiography, I, Asimov, so it was great to revisit some of the real-life characters he knew and loved.
+March 29, 2012, 7:45 pm
+- TAD says:
+This was a lot of fun, and a nice sidelight to your WAY THE FUTURE WAS and Damon’s FUTURIANS. Your descriptions get across the way you felt about those guys in a way that the books didn’t. Thanks for posting it….
+March 30, 2012, 4:13 am
+- M31 says:
+I’m with Nestor–I got all the way to the Mile High Building part assuming it was factual.  
+Then I got to the part about the reporter not being interested in actual facts, only conventional narratives, and I knew it was factual after all  
+March 31, 2012, 8:43 am
+- Nathan Murrell says:
+Thank you so much for these, I don’t know about many of the other writers of this generations, but I for one have learned how to write from the like of you, Fred Pohl, and Isaac Asimov.  I am and alwas will be a disciple because of such things.  And that, is a comforting thought.
+April 2, 2012, 11:35 am
+- Sesame GI mi says:
+I love that Kornbluth lives, and writes and writes and writes.  I think I missed some other details because I was so in love with this one feature of the story…
+April 4, 2012, 10:23 pm
+- Peter Greene says:
+Lovely! And thank you. That was a refreshing glimpse.
+April 4, 2012, 11:36 pm
+- Margaret B says:
+Thanks for posting this — it was my first time to read it.
+April 9, 2012, 12:11 pm
 
 **WordPress**
 **TWTFB2**

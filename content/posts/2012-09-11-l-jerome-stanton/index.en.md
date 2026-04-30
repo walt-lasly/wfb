@@ -4,6 +4,10 @@ date: 2012-09-11
 categories: ["Authors"]
 tags: ["Carol Pohl", "John W. Campbell", "Judith Merril", "L. Jerome Stanton", "New York", "Prozines", "Pulps", "World War II"]
 archive_url: "https://web.archive.org/web/20190101000000/http://www.thewaythefutureblogs.com/2012/09/l-jerome-stanton/"
+prev_post_url: "/posts/2012-09-10-why-combat-troops-off-themselves/"
+prev_post_title: "Why Combat Troops Off Themselves"
+next_post_url: "/posts/2012-09-16-i-warned-you/"
+next_post_title: "I Warned You!"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Why Combat Troops Off Themselves**
-**I Warned You!**
 
 ## L. Jerome Stanton
 
@@ -53,7 +55,10 @@ Most people would say yes, for abandoned husbands do not commonly behave as amia
 
 ### One Comment
 
-- Stefan Jonessays:Hmmm.Since you lived in the Village, I feel I should ask . . . have you ever heard of Fugazzi’s, or been there? (My grandparent’s restaurant, near 6th and Carmine.)September 12, 2012, 12:14 pm
+- Stefan Jones says:
+Hmmm.
+Since you lived in the Village, I feel I should ask . . . have you ever heard of Fugazzi’s, or been there? (My grandparent’s restaurant, near 6th and Carmine.)
+September 12, 2012, 12:14 pm
 
 **WordPress**
 **TWTFB2**

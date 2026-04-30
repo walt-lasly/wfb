@@ -4,6 +4,10 @@ date: 2010-05-19
 categories: ["Authors"]
 tags: ["Dona Campbell", "John W. Campbell", "Leslyn Campbell", "Leslyn Heinlein", "Psychology", "Robert A. Heinlein", "Virginia Heinlein"]
 archive_url: "https://web.archive.org/web/20120901000000/http://www.thewaythefutureblogs.com/2010/05/the-wives-and-drives-of-robert-heinlein-leslyn/"
+prev_post_url: "/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/"
+prev_post_title: "The Wives (and Drives) of Robert Heinlein, Part 1"
+next_post_url: "/posts/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/"
+next_post_title: "The Wives (and Drives) of Robert Heinlein: Ginny"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Wives (and Drives) of Robert Heinlein, Part 1**
-**The Wives (and Drives) of Robert Heinlein: Ginny**
 
 ## The Wives (and Drives) of Robert Heinlein: Leslyn
 
@@ -38,22 +40,39 @@ But I did, and still do, wonder what it did to a person with as hypertrophied a 
 
 **Related posts:**
 
-- The Wives (and Drives) of Robert A. Heinlein, Part 1
-- The Wives (and Drives) of Robert A. Heinlein: Ginny
-- Robert A. Heinlein, Algis Budrys and Me
-- Working with Robert A. Heinlein
-- Working with Robert A. Heinlein, Part 2
-- Greetings from S17° 32.18′ W149° 34.17′
+- [**The Wives (and Drives) of Robert A. Heinlein, Part 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [**The Wives (and Drives) of Robert A. Heinlein: Ginny**](/posts/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+- [**Working with Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/)
+- [**Working with Robert A. Heinlein, Part 2**](/posts/2010-05-10-working-with-robert-a-heinlein-part-2/)
+- [**Greetings from S17° 32.18′ W149° 34.17′**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 
 
 ### 6 Comments
 
-- Bald Guysays:How sad.May 19, 2010, 8:41 am
-- Ken Houghtonsays:Someone at Tor: please send Mr. Pohl that first volume of the Heinlein biography you’re publishing later this year.  The subject is addressed there.May 19, 2010, 8:53 am
-- Edward Kmettsays:Perhaps she just had you confused with another author/editor?May 19, 2010, 9:13 am
-- RBHsays:I seea NASA history(largish PDF) that says that Leslyn was RH’s second wife.May 19, 2010, 12:12 pm
-- Robert Nowallsays:I’m thinking maybe she remembered hanging out with the Los Angeles SF community of 1939 / 40 / 41, where the Heinleins are reported to have lived at the time…maybe she’s just a little confused on who was actually there…maybe not so far out as some, but not completely out of touch.About all I know of Leslyn Heinlein is what Asimov said in his two memoirs…chiefly an incident where Asimov freaked her out with his disgusting eating habits…that and some comments about politics…I look forward to picking up that Heinlein biography, too.  I learned about it right here, several entries ago…I think I would’ve stumbled across it anyway, when it came out, but who knows, for sure?May 19, 2010, 6:42 pm
-- Gary Farbersays:To be blunt, Leslyn Heinlein declined into severe alcoholism, along with other mental health issues; it’s a very sad story.(I’ve read early versions of Bill Patterson’s forthcoming biography.)And, yes, she was Heinlein\’s second wife.  I shouldn’t get into any trouble by quoting Wikipedia, which I can verify is true: “In 1929, he married Eleanor Curry of Kansas City in Los Angeles, Calif.[8]  but this marriage lasted only about a year.[4]  He soon married his second wife, Leslyn Macdonald, in 1932.”And, yes, Bill does have much more detail.May 20, 2010, 3:49 pm
+- Bald Guy says:
+How sad.
+May 19, 2010, 8:41 am
+- Ken Houghton says:
+Someone at Tor: please send Mr. Pohl that first volume of the Heinlein biography you’re publishing later this year.  The subject is addressed there.
+May 19, 2010, 8:53 am
+- Edward Kmett says:
+Perhaps she just had you confused with another author/editor?
+May 19, 2010, 9:13 am
+- RBH says:
+I see a NASA history (largish PDF) that says that Leslyn was RH’s second wife.
+May 19, 2010, 12:12 pm
+- Robert Nowall says:
+I’m thinking maybe she remembered hanging out with the Los Angeles SF community of 1939 / 40 / 41, where the Heinleins are reported to have lived at the time…maybe she’s just a little confused on who was actually there…maybe not so far out as some, but not completely out of touch.
+About all I know of Leslyn Heinlein is what Asimov said in his two memoirs…chiefly an incident where Asimov freaked her out with his disgusting eating habits…that and some comments about politics…
+I look forward to picking up that Heinlein biography, too.  I learned about it right here, several entries ago…I think I would’ve stumbled across it anyway, when it came out, but who knows, for sure?
+May 19, 2010, 6:42 pm
+- Gary Farber says:
+To be blunt, Leslyn Heinlein declined into severe alcoholism, along with other mental health issues; it’s a very sad story.  
+(I’ve read early versions of Bill Patterson’s forthcoming biography.)
+And, yes, she was Heinlein\’s second wife.  I shouldn’t get into any trouble by quoting Wikipedia, which I can verify is true: “In 1929, he married Eleanor Curry of Kansas City in Los Angeles, Calif.[8]  but this marriage lasted only about a year.[4]  He soon married his second wife, Leslyn Macdonald, in 1932.”
+And, yes, Bill does have much more detail.
+May 20, 2010, 3:49 pm
 
 **WordPress**
 **TWTFB**

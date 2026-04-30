@@ -4,6 +4,10 @@ date: 2013-03-22
 categories: ["Authors"]
 tags: ["Algis Budrys", "Conventions", "Critics", "David Dyer-Bennet", "Editors", "Horace L. Gold", "Judy-Lynn del Rey", "Martin H. Greenberg", "Prozines", "Richard Challoner", "Robert A. Heinlein", "Worldcons"]
 archive_url: "https://web.archive.org/web/20180301000000/http://www.thewaythefutureblogs.com/2013/03/arrival-part-2-heinlein-stories/"
+prev_post_url: "/posts/2013-03-19-arrival-the-happiest-airport/"
+prev_post_title: "Arrival: The Happiest Airport"
+next_post_url: "/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/"
+next_post_title: "Bright Sayings of Bright People, No. 43: Garcia"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Arrival: The Happiest Airport**
-**Bright Sayings of Bright People, No. 43: Garcia**
 
 ## Arrival, Part 2: Heinlein Stories
 
@@ -21,13 +23,13 @@ Frederik Pohl
 {{< figure src="robert-a-heinlein-autographing-at-midamericon-1976.jpg" alt="Robert A. Heinlein at MidAmeriCon, 1976. (Photo by David Dyer-Bennet.)" caption="Robert A. Heinlein at MidAmeriCon, 1976. (Photo by David Dyer-Bennet.)" >}}
 
 
-**Marty Greenberg** and a couple of the others who were clustered in the Kansas City hotel lobby were coaxing me to stay, and one of those (apparent) teen-age graduate students nailed me down with a comment that was clearly intended to lead to a series of questions,  “I understand you know Mr. Heinlein quite well, and I’ve just finished reading his **Stranger in a Strange Land**,” the apparent teen-ager informed me.
+[**Marty Greenberg**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/) and a couple of the others who were clustered in the Kansas City hotel lobby were coaxing me to stay, and one of those (apparent) teen-age graduate students nailed me down with a comment that was clearly intended to lead to a series of questions,  “I understand you know Mr. Heinlein quite well, and I’ve just finished reading his **Stranger in a Strange Land**,” the apparent teen-ager informed me.
 
 
 And Marty, eager to put temptation in my way, said,  “Tell her the story about the Budrys review.”
 
 
-Everybody seemed to be listening pretty attentively.   **Robert A. Heinlein** being the Guest of Honor at MidAmeriCon, nobody wanted to go home without a few new Heinlein stories to spread around.  The one Marty wanted me to tell was a favorite.  I had at the time just recently taken on the job of editing Galaxy when **Horace L. Gold**  got too sick to continue, and I had also just made **AJ Budrys** the book reviewer for the magazine when *Stranger* popped up.  I handed it over to AJ as his first assignment.
+Everybody seemed to be listening pretty attentively.   [**Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/) being the Guest of Honor at MidAmeriCon, nobody wanted to go home without a few new Heinlein stories to spread around.  The one Marty wanted me to tell was a favorite.  I had at the time just recently taken on the job of editing Galaxy when **Horace L. Gold**  got too sick to continue, and I had also just made [**AJ Budrys**](/posts/2010-07-26-a-j/) the book reviewer for the magazine when *Stranger* popped up.  I handed it over to AJ as his first assignment.
 
 
 I had told him he had a week to do the review, but at the end of the week, and a few extra days, there was no sign of the review.  When I got him on the phone he told me that it was a big book and he would need at least another week or ten days to do it justice.   That wasn’t really a surprise, or, indeed, much of a  problem.  I had confidence in AJ’s writing and was pretty sure the review would be worth waiting for.  So I pulled a 5,000-word short story out of inventory to replace it, and rescheduled AJ’s first column for the next issue.  And when at last he did deliver the review I saw that, ah, yes, no matter what I had expected,  there certainly was going to be a problem.
@@ -77,27 +79,38 @@ All of which again produced from the listening group something a lot like clappi
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 6: The Deal
-- Arrival, Part 7: Departure
-- Martin Harry Greenberg
-- Working with Robert A. Heinlein
-- Working with Robert A. Heinlein, Part 2
-- The Wives (and Drives) of Robert A. Heinlein, Part 1
-- The Wives (and Drives) of Robert A. Heinlein: Leslyn
-- The Wives (and Drives) of Robert A. Heinlein: Ginny
-- Robert A. Heinlein, Algis Budrys and Me
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
+- [**Martin Harry Greenberg**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+- [**Working with Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/)
+- [**Working with Robert A. Heinlein, Part 2**](/posts/2010-05-10-working-with-robert-a-heinlein-part-2/)
+- [**The Wives (and Drives) of Robert A. Heinlein, Part 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [**The Wives (and Drives) of Robert A. Heinlein: Leslyn**](/posts/2010-05-19-the-wives-and-drives-of-robert-heinlein-leslyn/)
+- [**The Wives (and Drives) of Robert A. Heinlein: Ginny**](/posts/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 
 
 ### 4 Comments
 
-- Larssays:Not to niggle, but wasn’t it Heinlein’s medical problems that put an end to this friendship? Budrys, as I recall, died within the past half-decade or so.March 22, 2013, 4:35 pm
-- Barry Traylorsays:Great story and I am looking forward to the rest.March 25, 2013, 9:50 am
-- Robert Kimbrosays:Mr. Pohl,Thanks for these tales. You are a national treasure.April 1, 2013, 10:54 am
-- gottacooksays:“And they stayed that way for twenty-odd years, until AJ’s medical problems caught up with him and he died.”But Budrys died in 2008, Heinlein in 1988 – I’m confused.(I’ve read Heinlein’s response to Budrys’ review in the online Heinlein Archives – a quite entertaining document.)April 2, 2013, 6:02 pm
+- Lars says:
+Not to niggle, but wasn’t it Heinlein’s medical problems that put an end to this friendship? Budrys, as I recall, died within the past half-decade or so.
+March 22, 2013, 4:35 pm
+- Barry Traylor says:
+Great story and I am looking forward to the rest.
+March 25, 2013, 9:50 am
+- Robert Kimbro says:
+Mr. Pohl,
+Thanks for these tales. You are a national treasure.
+April 1, 2013, 10:54 am
+- gottacook says:
+“And they stayed that way for twenty-odd years, until AJ’s medical problems caught up with him and he died.”
+But Budrys died in 2008, Heinlein in 1988 – I’m confused.
+(I’ve read Heinlein’s response to Budrys’ review in the online Heinlein Archives – a quite entertaining document.)
+April 2, 2013, 6:02 pm
 
 **WordPress**
 **TWTFB2**

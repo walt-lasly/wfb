@@ -4,6 +4,10 @@ date: 2013-01-23
 categories: ["Science", "Space"]
 tags: ["Astronomy"]
 archive_url: "https://web.archive.org/web/20240101000000/http://www.thewaythefutureblogs.com/2013/01/a-diamond-as-big-as/"
+prev_post_url: "/posts/2013-01-20-bright-sayings-of-bright-people-no-40-zuma/"
+prev_post_title: "Bright Sayings of Bright People, No. 40: Zuma"
+next_post_url: "/posts/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/"
+next_post_title: "Bright Sayings of Bright People, No. 41: Wilde"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 40: Zuma**
-**Bright Sayings of Bright People, No. 41: Wilde**
 
 ## A Diamond As Big As the — What?
 
@@ -35,8 +37,13 @@ If there is a race of super-huge, super-intelligent aliens out there, what an en
 - Stefan Jones says:
 This reminds me of a Poul Anderson novel (Mirkheim). The surface of a world circling a supernova remnant was plated with various sorts of unobtanium produced by the blast. Super-heavy elements, if I remember right.
 January 23, 2013, 2:29 pm
-- H. E. Parmersays:And in a less Ritzy section of the galaxy, a cubic zirconia three times the size of the Earth has been discovered …January 23, 2013, 2:57 pm
-- Gregory Benfordsays:I wrote a novella in the 1980s “A Diamond As Big as the Ritz” — based on planetary simulations of that time. So this is a brilliant discovery… note the Fitzgerald ref too.Hi Fred!January 24, 2013, 9:30 pm
+- H. E. Parmer says:
+And in a less Ritzy section of the galaxy, a cubic zirconia three times the size of the Earth has been discovered …
+January 23, 2013, 2:57 pm
+- Gregory Benford says:
+I wrote a novella in the 1980s “A Diamond As Big as the Ritz” — based on planetary simulations of that time. So this is a brilliant discovery… note the Fitzgerald ref too.
+Hi Fred!
+January 24, 2013, 9:30 pm
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2009-03-20
 categories: ["Personal", "Travel"]
 tags: ["Agents", "Arnold Perl", "C.M. Kornbluth", "Films", "H.G. Wells", "H.N. Swanson", "Hollywood", "Joseph Conrad", "New York", "Rudyard Kipling", "Television"]
 archive_url: "https://web.archive.org/web/20090327075222/http://www.thewaythefutureblogs.com/2009/03/me-and-the-biz-2-continued/"
+prev_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+prev_post_title: "Me and the Biz, Part II"
+next_post_url: "/posts/2009-03-22-gracious-dining/"
+next_post_title: "Gracious Dining"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and the Biz, Part II**
-**Gracious Dining**
 
 ## Me and the Biz, Part II (continued)
 
@@ -83,14 +85,16 @@ And if I had it to do over again, I’m not sure how I would do it.
 
 **Related posts:**  
 
-**Me and the Biz**  
+[**Me and the Biz**](/posts/2009-02-15-me-and-the-biz/)  
 
-**Me and the Biz, Part II**
+[**Me and the Biz, Part II**](/posts/2009-03-18-me-and-the-biz-part-ii/)
 
 
 ### One Comment
 
-- Sharon E. Dreyersays:Sounds as if the bidding war was a good thing in the 1950s! And as a first time author I wouldn’t be opposed to a bidding war right now!March 20, 2009, 8:32 am
+- Sharon E. Dreyer says:
+Sounds as if the bidding war was a good thing in the 1950s! And as a first time author I wouldn’t be opposed to a bidding war right now!
+March 20, 2009, 8:32 am
 
 **WordPress**
 **TWTFB**

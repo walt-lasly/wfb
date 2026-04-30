@@ -4,6 +4,10 @@ date: 2014-03-25
 categories: ["Betty's Posts", "Personal"]
 tags: ["Conventions"]
 archive_url: "https://web.archive.org/web/20100701000000/http://www.thewaythefutureblogs.com/2014/03/save-the-date-aug-2-frederik-pohl-memorial/"
+prev_post_url: "/posts/2014-03-17-good-news-gateway-tv-series-in-the-works/"
+prev_post_title: "Good News,GatewayTV Series in the Works!"
+next_post_url: "/posts/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/"
+next_post_title: "Janet Yellen’s Husband Sets a High Standard"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Good News, Gateway TV Series in the Works!**
-**Janet Yellen’s Husband Sets a High Standard**
 
 ## Save the Date: Aug. 2, Frederik Pohl Memorial
 
@@ -35,8 +37,12 @@ In future, I’ll be posting more details about the program, as well as suggesti
 
 ### 2 Comments
 
-- Alfred Kayesays:Please keep me up to date on the plans for the celebration in memory of Fred Pohl. ThanksMarch 28, 2014, 2:05 pm
-- Theo J. Williamssays:I profoundly wish I could be there. Fred’s book THE WAY THE FUTURE WAS impressed me so much that I asked him to autograph it at an Orycon, which he most graciously did. I found him to be a gentleman.March 28, 2014, 9:29 pm
+- Alfred Kaye says:
+Please keep me up to date on the plans for the celebration in memory of Fred Pohl. Thanks
+March 28, 2014, 2:05 pm
+- Theo J. Williams says:
+I profoundly wish I could be there. Fred’s book THE WAY THE FUTURE WAS impressed me so much that I asked him to autograph it at an Orycon, which he most graciously did. I found him to be a gentleman.
+March 28, 2014, 9:29 pm
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2010-10-20
 categories: ["Authors", "Books"]
 tags: ["Isaac Asimov", "L. Sprague de Camp", "Leslyn Heinlein", "Robert A. Heinlein", "Virginia Heinlein", "William H. Patterson", "World War II"]
 archive_url: "https://web.archive.org/web/20050701000000/http://www.thewaythefutureblogs.com/2010/10/robert-heinlein-we-never-knew-ye/"
+prev_post_url: "/posts/2010-10-14-science-quiz-answers/"
+prev_post_title: "Science Quiz Answers"
+next_post_url: "/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/"
+next_post_title: "Fred’s Non-Partisan Way to DecideWHO TO VOTE FOR(Or, More Accurately, Who to Vote Against)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Science Quiz Answers**
-**Fred’s Non-Partisan Way to DecideWHO TO VOTE FOR(Or, More Accurately, Who to Vote Against)**
 
 ## Robert Heinlein, We Never Knew Ye
 
@@ -60,18 +62,49 @@ Ah, well.  Read the book anyway.  I’m sure you’ll enjoy it.  I did.
 
 ### 10 Comments
 
-- Robert Nowallsays:The Heinlein biography proved to be everything it was cracked up to be—I’ve been eagerly awaiting it since I learned about its existence, right here at this website.  Many myths and legends were untangled.  The tendency of taking phrases from a later era as chapter titles was annoying, but tolerable.I was very happy with the untangling of Heinlein’s early political career.  When someone goes from appearing ultra-liberal, to appearing ultra-conservative, without some sort of explanation—and, of course, Heinlein, with his guarding of his privacy, wasn’t one to provide an explanation—well, questions arise.This book ironed it out—the difference between the two positions wasn’t as great as had been supposed.  When one allows Heinlein the right to rethink his earlier positions, it all makes sense.  I recall Virginia Heinlein saying somewhere that it wasn’t so much a change in Heinlein but the world changing around him.(Probably that statement will be in Volume 2.  I look forward to reading *that,* whenever it comes on.)*****By the way, all but one of the bookstores I’ve been in since the book came out racked it with the SF titles, not in the biography section.  Probably its audience will look there…but I don’t find other literary biographies racked with their writers.  (A recent book about Charlie Chan and Earl Der Biggers turned up in biography, for example.)  Subtle genre prejudice?  Or maybe Tor Books just wanted it that way?October 21, 2010, 7:39 am
-- Jeff Beelersays:Robert:“By the way, all but one of the bookstores I’ve been in since the book came out racked it with the SF titles, not in the biography section.”This follows a library practice which is to put biographies in the subject area of the career of the person they are about.October 21, 2010, 10:24 am
-- R. Brucesays:Tor doesn’t really understand anything but sf, so it’s no surprise that their line reps and stores shelve the bio in sf.October 21, 2010, 12:07 pm
-- Terisays:Wikipedia says: In 1929, he married Eleanor Curry of Kansas City in Los Angeles, Calif.[8] but this marriage lasted only about a year.[4] He soon married his second wife, Leslyn Macdonald, in 1932.I haven’t read Patterson’s biography of Heinlein yet, but now with your recommendation, I’ll be purchasing it soon.Thanks for all you do.October 22, 2010, 8:43 am
-- Bill Pattersonsays:As it happens I’m in DC for the book this week, to talk with the Cato Institute and the Department of Homeland Security Science & Technology Directorate (and attend Capclave), and I got a chance to check out the Borders in downtown DC — 18th and L I think, or close to that.  It was entirely with the biography section, and none in the SF section.  At the B&N closest to my home in Los Angeles, the biography section is right next to the SF section, so table hopping was possible.  In DC, though, they are on entirely different levels of the bookstore.October 22, 2010, 8:06 pm
-- Robert Nowallsays:“This follows a library practice which is to put biographies in the subject area of the career of the person they are about.”Regrets, but I cannot recall seeing this in practice in any library I’ve been in.Besides, while looking for Heinlein in biography, I couldn’t help but notice one or two Hemingway bios…they’re not racked with *his* fiction…Some had two copies…why not put one in each?October 25, 2010, 5:15 am
+- Robert Nowall says:
+The Heinlein biography proved to be everything it was cracked up to be—I’ve been eagerly awaiting it since I learned about its existence, right here at this website.  Many myths and legends were untangled.  The tendency of taking phrases from a later era as chapter titles was annoying, but tolerable.
+I was very happy with the untangling of Heinlein’s early political career.  When someone goes from appearing ultra-liberal, to appearing ultra-conservative, without some sort of explanation—and, of course, Heinlein, with his guarding of his privacy, wasn’t one to provide an explanation—well, questions arise.
+This book ironed it out—the difference between the two positions wasn’t as great as had been supposed.  When one allows Heinlein the right to rethink his earlier positions, it all makes sense.  I recall Virginia Heinlein saying somewhere that it wasn’t so much a change in Heinlein but the world changing around him.
+(Probably that statement will be in Volume 2.  I look forward to reading *that,* whenever it comes on.)
+*****
+By the way, all but one of the bookstores I’ve been in since the book came out racked it with the SF titles, not in the biography section.  Probably its audience will look there…but I don’t find other literary biographies racked with their writers.  (A recent book about Charlie Chan and Earl Der Biggers turned up in biography, for example.)  Subtle genre prejudice?  Or maybe Tor Books just wanted it that way?
+October 21, 2010, 7:39 am
+- Jeff Beeler says:
+Robert:
+“By the way, all but one of the bookstores I’ve been in since the book came out racked it with the SF titles, not in the biography section.”
+This follows a library practice which is to put biographies in the subject area of the career of the person they are about.
+October 21, 2010, 10:24 am
+- R. Bruce says:
+Tor doesn’t really understand anything but sf, so it’s no surprise that their line reps and stores shelve the bio in sf.
+October 21, 2010, 12:07 pm
+- Teri says:
+Wikipedia says: In 1929, he married Eleanor Curry of Kansas City in Los Angeles, Calif.[8] but this marriage lasted only about a year.[4] He soon married his second wife, Leslyn Macdonald, in 1932. 
+I haven’t read Patterson’s biography of Heinlein yet, but now with your recommendation, I’ll be purchasing it soon.  
+Thanks for all you do.
+October 22, 2010, 8:43 am
+- Bill Patterson says:
+As it happens I’m in DC for the book this week, to talk with the Cato Institute and the Department of Homeland Security Science & Technology Directorate (and attend Capclave), and I got a chance to check out the Borders in downtown DC — 18th and L I think, or close to that.  It was entirely with the biography section, and none in the SF section.  At the B&N closest to my home in Los Angeles, the biography section is right next to the SF section, so table hopping was possible.  In DC, though, they are on entirely different levels of the bookstore.
+October 22, 2010, 8:06 pm
+- Robert Nowall says:
+“This follows a library practice which is to put biographies in the subject area of the career of the person they are about.”
+Regrets, but I cannot recall seeing this in practice in any library I’ve been in.
+Besides, while looking for Heinlein in biography, I couldn’t help but notice one or two Hemingway bios…they’re not racked with *his* fiction…
+Some had two copies…why not put one in each?
+October 25, 2010, 5:15 am
 - Jonquil says:
 I, also, was troubled by the ways in which the book was captive to RAH’s and Ginny’s points of view.  Another instance is that Heinlein is credited with having predicted Pearl Harbor in 1941 — this is cited to a conversation with Heinlein  in 1973. It would have been useful if the biography had touched on the possibility of the well-known human tendency to improve on one’s memories over time.
 October 26, 2010, 12:47 pm
-- Roberta Xsays:I think it makes sense to put the RAH bio where SF readers will see it.  My copy popped up in one of those “based on books you’ve bought in the past…” listings at an online bookseller’s, which is much the same sort of thing.  (And then my beau sent me an autographed copy, ooooo).I’m finding our host’s take on the topic fascinating.  Even the most meticulous research is no match for having been there at the time.October 27, 2010, 6:37 am
-- Dale Dietzmansays:Don’t make too much of Robert predicting Pearl Harbor. He was far from the only one. Professional Naval Officers in both the US and Japanese Navies considered war inevitable; Robert was a trained, professional Naval Officer (if forced into retirement); and when they studied the map of the Pacific as it stood in 1941, Pearl Harbor was the OBVIOUS striking point. For a truly fascinating look at the war from the Japanese Imperial Navy’s POV read _Japanese_Destroyer_Captain_, biography of one of the best CO’s the IJN had. Probably out of print but you should be able to get a used copy.July 8, 2011, 1:45 pm
-- Dale Dietzmansays:Jonquil, As mentioned aboved it was not considered as astounding among people “in the know” to predict the US would enter WW II or that it would begin with a Japanese attack on Pearly Harbor. Read the book _Spy_Counter-Spy_ where the man who was a partial model for James Bond delivered the list of questions the Germans wanted intel on to the U.S. Go’v't (actually J. edgar Hoover, in person). Half of them dealt with security at Pearl Harbor, and the Germans had no assets there. This was 6 months before the attack.January 30, 2012, 7:11 am
+- Roberta X says:
+I think it makes sense to put the RAH bio where SF readers will see it.  My copy popped up in one of those “based on books you’ve bought in the past…” listings at an online bookseller’s, which is much the same sort of thing.  (And then my beau sent me an autographed copy, ooooo).
+     I’m finding our host’s take on the topic fascinating.  Even the most meticulous research is no match for having been there at the time.
+October 27, 2010, 6:37 am
+- Dale Dietzman says:
+Don’t make too much of Robert predicting Pearl Harbor. He was far from the only one. Professional Naval Officers in both the US and Japanese Navies considered war inevitable; Robert was a trained, professional Naval Officer (if forced into retirement); and when they studied the map of the Pacific as it stood in 1941, Pearl Harbor was the OBVIOUS striking point. For a truly fascinating look at the war from the Japanese Imperial Navy’s POV read _Japanese_Destroyer_Captain_, biography of one of the best CO’s the IJN had. Probably out of print but you should be able to get a used copy.
+July 8, 2011, 1:45 pm
+- Dale Dietzman says:
+Jonquil, As mentioned aboved it was not considered as astounding among people “in the know” to predict the US would enter WW II or that it would begin with a Japanese attack on Pearly Harbor. Read the book _Spy_Counter-Spy_ where the man who was a partial model for James Bond delivered the list of questions the Germans wanted intel on to the U.S. Go’v't (actually J. edgar Hoover, in person). Half of them dealt with security at Pearl Harbor, and the Germans had no assets there. This was 6 months before the attack.
+January 30, 2012, 7:11 am
 
 **WordPress**
 **TWTFB2**

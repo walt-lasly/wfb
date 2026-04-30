@@ -4,6 +4,10 @@ date: 2010-06-04
 categories: ["Books", "Personal"]
 tags: ["Conventions", "Dick Smith", "Editors", "Elizabeth Anne Hull", "Fanzines", "Gateways", "Hugo Awards", "James Frenkel", "Leah A. Zeldes", "Medicine", "Publishing", "Worldcons"]
 archive_url: "https://web.archive.org/web/20211001000000/http://www.thewaythefutureblogs.com/2010/06/all-right-you-got-me/"
+prev_post_url: "/posts/2010-06-02-have-you-voted-for-the-hugo-awards/"
+prev_post_title: "Have you voted for the Hugo Awards?"
+next_post_url: "/posts/2010-06-08-more-about-sir-arthur-c-clarke/"
+next_post_title: "More about Sir Arthur C. Clarke"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Have you voted for the Hugo Awards?**
-**More about Sir Arthur C. Clarke**
 
 ## All Right, You Got Me!
 
@@ -57,13 +59,31 @@ Now she’s back home recovering.  But she still managed to get up a couple of p
 
 ### 7 Comments
 
-- Patsays:You\’ve just made my day. Though it might be a day next year as I am in the UK, is Gateways planned for release here?Keep well.June 4, 2010, 12:45 am
-- RABsays:Two comments:First, I’m really looking forward to Gateways.  This sounds fantastic.Second, thank you so much to Elizabeth and Leah and Dick for everything you do.June 4, 2010, 2:40 am
-- Stefan Jonessays:That’s quite a variety of authors in that anthology. And that’s only judging by the ones that made the cover.June 4, 2010, 12:08 pm
-- James Davis Nicollsays:I don’t suppose the table of contents is online somewhere?June 5, 2010, 8:58 am
-- Marcsays:Fabulous! I’ve just pre ordered a copy, roll on the 6th July!Thank you Elizabeth Anne, Frederik and the rest of the team, you’ve brightened up a rather dull and rainy day on this side of the pond.June 8, 2010, 3:58 am
-- simonsays:Mr Pohl, my imagination owes you so much. Growing up in a cold, wet, grimy English town I spent every afternoon after school in the library when waiting to change buses to get home, and it was there that by chance I gave Gateway a go, followed immediately by Beyond the Blue Event Horizon, and from there the universe. Because of your work I have read Vonnegut, Asimov, Ballard, Campbell, Zelazny, Bradbury, Adams, the list is too big to continue. Thank you.June 8, 2010, 6:13 am
-- Bald Guysays:May your contrivances keep you comfortably amongst us for a long, long time, Mr. Pohl.June 9, 2010, 12:18 pm
+- Pat says:
+You\’ve just made my day. Though it might be a day next year as I am in the UK, is Gateways planned for release here?
+Keep well.
+June 4, 2010, 12:45 am
+- RAB says:
+Two comments:
+First, I’m really looking forward to Gateways.  This sounds fantastic.
+Second, thank you so much to Elizabeth and Leah and Dick for everything you do.
+June 4, 2010, 2:40 am
+- Stefan Jones says:
+That’s quite a variety of authors in that anthology. And that’s only judging by the ones that made the cover.
+June 4, 2010, 12:08 pm
+- James Davis Nicoll says:
+I don’t suppose the table of contents is online somewhere?
+June 5, 2010, 8:58 am
+- Marc says:
+Fabulous! I’ve just pre ordered a copy, roll on the 6th July!
+Thank you Elizabeth Anne, Frederik and the rest of the team, you’ve brightened up a rather dull and rainy day on this side of the pond.
+June 8, 2010, 3:58 am
+- simon says:
+Mr Pohl, my imagination owes you so much. Growing up in a cold, wet, grimy English town I spent every afternoon after school in the library when waiting to change buses to get home, and it was there that by chance I gave Gateway a go, followed immediately by Beyond the Blue Event Horizon, and from there the universe. Because of your work I have read Vonnegut, Asimov, Ballard, Campbell, Zelazny, Bradbury, Adams, the list is too big to continue. Thank you.
+June 8, 2010, 6:13 am
+- Bald Guy says:
+May your contrivances keep you comfortably amongst us for a long, long time, Mr. Pohl.
+June 9, 2010, 12:18 pm
 
 **WordPress**
 **TWTFB**

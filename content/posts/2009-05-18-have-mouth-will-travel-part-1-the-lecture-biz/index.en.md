@@ -4,6 +4,10 @@ date: 2009-05-18
 categories: ["Personal", "Science"]
 tags: ["Astronomy", "Computers", "Games", "Johannes Kepler", "Marvin Minsky", "Tycho Brahe"]
 archive_url: "https://web.archive.org/web/20101101000000/http://www.thewaythefutureblogs.com/2009/05/have-mouth-will-travel-part-1-the-lecture-biz/"
+prev_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
+prev_post_title: "Interesting Reading That You May Have Missed"
+next_post_url: "/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
+next_post_title: "Have Mouth, Will Travel, Part 2: The Planarians"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Interesting Reading That You May Have Missed**
-**Have Mouth, Will Travel, Part 2: The Planarians**
 
 ## Have Mouth, Will Travel, Part 1: The Lecture Biz
 
@@ -65,7 +67,10 @@ Trivia:
 In one scene in Soylent Green, the “furniture girls” are seen playing the arcade version of Spacewar.
 I should really rewatch that movie . . . it has Edward G. Robinson bitching about the greenhouse effect and finding a Soylent Corporation research study that shows that krill have all died off.
 May 19, 2009, 1:47 pm
-- Marcsays:Fabulous post. I wasn’t alive in the PDP-1 era but watching the clip has been a nice trip down video game memory lane tonight. The fascinating thing for me is the real world physics MIT programmed into the Spacewar. I can’t recall seeing any commercially available video games that came close to that level of realism until the backend of the 1980’s!I was tempted after watching the Spacewar clip to commit the cardinal video game sin and fire up a ZX80 classic or two from my childhood but suspect those games are… definitely best viewed through rose tinted glasses!May 21, 2009, 5:59 pm
+- Marc says:
+Fabulous post. I wasn’t alive in the PDP-1 era but watching the clip has been a nice trip down video game memory lane tonight. The fascinating thing for me is the real world physics MIT programmed into the Spacewar. I can’t recall seeing any commercially available video games that came close to that level of realism until the backend of the 1980’s!
+I was tempted after watching the Spacewar clip to commit the cardinal video game sin and fire up a ZX80 classic or two from my childhood but suspect those games are… definitely best viewed through rose tinted glasses!
+May 21, 2009, 5:59 pm
 
 **WordPress**
 **TWTFB**

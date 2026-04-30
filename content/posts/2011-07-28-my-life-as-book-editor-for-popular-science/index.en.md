@@ -4,6 +4,10 @@ date: 2011-07-28
 categories: ["Authors", "Books", "Personal"]
 tags: ["Academics", "Advertising", "Editors", "Eugene Watson", "George Spoerer", "Publishing", "Tiffany Thayer", "William Tenn"]
 archive_url: "https://web.archive.org/web/20220301000000/http://www.thewaythefutureblogs.com/2011/07/my-life-as-book-editor-for-popular-science/"
+prev_post_url: "/posts/2011-07-19-fred-the-predictor-predicts/"
+prev_post_title: "Fred the Predictor Predicts"
+next_post_url: "/posts/2011-07-29-twenty-chernobyls/"
+next_post_title: "Twenty Chernobyls"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Fred the Predictor Predicts**
-**Twenty Chernobyls**
 
 ## My Life as Book Editor for Popular Science
 
@@ -110,7 +112,11 @@ Phil got something out of the experience, though.  He created a stand-up farce o
 
 ### 2 Comments
 
-- H. E. Parmersays:I have fond memories of reading Dad’s old PopSci magazines from the 50s, when I was a child back in the early 60s: Nuclear-powered jets, giant atoic cargo subs plying the short route to the Pacific under the polar ice cap, hovercars, home breeder reactors and all-plastic vacation cabins in the mountains.Like the man said: “The Future ain’t what it used to be.”Which, in the case of the nuclear-powered jets and the home breeder reactors, is probably a good thing. A hovercar would be pretty cool, though I’d bet the mileage would really suck.July 29, 2011, 1:28 am
+- H. E. Parmer says:
+I have fond memories of reading Dad’s old PopSci magazines from the 50s, when I was a child back in the early 60s: Nuclear-powered jets, giant atoic cargo subs plying the short route to the Pacific under the polar ice cap, hovercars, home breeder reactors and all-plastic vacation cabins in the mountains.
+Like the man said: “The Future ain’t what it used to be.”
+Which, in the case of the nuclear-powered jets and the home breeder reactors, is probably a good thing. A hovercar would be pretty cool, though I’d bet the mileage would really suck.
+July 29, 2011, 1:28 am
 - Bill Higgins-- Beam Jockey says:
 Thanks for that, Fred. For reasons too complicated to explain, I am putting together a talk on Henry H. Windsor, Sr., who in 1902 founded Popular Mechanics, the chief rival of Popular Science.
 Windsor produced books much like the ones you described, mining past issues of his magazine for how-to articles.  I like The Boy Mechanic (1913, and many succeeding editions). The order of the articles is so hodgepodge that I suspect it was laid out just the way your books were.

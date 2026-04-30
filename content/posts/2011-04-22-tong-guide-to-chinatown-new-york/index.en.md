@@ -4,6 +4,10 @@ date: 2011-04-22
 categories: ["Miscellaneous"]
 tags: ["Johnny Eng", "New York"]
 archive_url: "https://web.archive.org/web/20210701000000/http://www.thewaythefutureblogs.com/2011/04/tong-guide-to-chinatown-new-york/"
+prev_post_url: "/posts/2011-04-21-dogs-wolves-and-babies/"
+prev_post_title: "Dogs, Wolves and Babies"
+next_post_url: "/posts/2011-04-26-garbage-free-farming/"
+next_post_title: "Garbage-Free Farming"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Dogs, Wolves and Babies**
-**Garbage-Free Farming**
 
 ## Tong Guide to Chinatown New York
 
@@ -32,7 +34,10 @@ It is not recommended that you ask people you chance to run into on the street f
 
 ### One Comment
 
-- H. E. Parmersays:I’ve been fascinated by the history of the city’s underworld ever since I picked up an old hardback copy of Asbury’s “Gangs of New York” at a charity book sale. Some wild characters in there, like Hellcat Maggie of the Dead Rabbits (who filed her teeth to points and wore brass claws) and Sai Wing Mock (aka Mock Duck) the leader of the Hip Sings back in the early 1900s, who wore a chain mail vest and carried two revolvers. When attempts were made on his life, he’d squat down, close his eyes and just let fly with both pistols.I hope his bodyguards were well-compensated …April 23, 2011, 12:22 am
+- H. E. Parmer says:
+I’ve been fascinated by the history of the city’s underworld ever since I picked up an old hardback copy of Asbury’s “Gangs of New York” at a charity book sale. Some wild characters in there, like Hellcat Maggie of the Dead Rabbits (who filed her teeth to points and wore brass claws) and Sai Wing Mock (aka Mock Duck) the leader of the Hip Sings back in the early 1900s, who wore a chain mail vest and carried two revolvers. When attempts were made on his life, he’d squat down, close his eyes and just let fly with both pistols.
+I hope his bodyguards were well-compensated …
+April 23, 2011, 12:22 am
 
 **WordPress**
 **TWTFB2**

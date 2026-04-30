@@ -4,6 +4,10 @@ date: 2011-02-04
 categories: ["Authors"]
 tags: ["Arthur C. Clarke", "Basil Davenport", "Bernard DeVoto", "Blanche Williamson", "Bob Bolster", "C.M. Kornbluth", "Cooking", "Dona Campbell", "Esther Carlson", "Eugenie Clark", "Evelyn del Rey", "Fletcher Pratt", "Food", "Fritz Leiber", "George O. Smith", "I.M. Stephens", "Ichthyology", "Isaac Asimov", "Jack Williamson", "John Ciardi", "Judith Merril", "Laurence Manning", "Lester del Rey", "Mark Twain", "New York", "Poetry", "St. Leger Lawrence", "Theodore Sturgeon", "William Beebe", "Zoology"]
 archive_url: "https://web.archive.org/web/20151201000000/http://www.thewaythefutureblogs.com/2011/02/fletcher-pratt-part-4/"
+prev_post_url: "/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/"
+prev_post_title: "Fletcher Pratt, Part 3: The Lord of the Ipsy-Wipsies"
+next_post_url: "/posts/2011-02-07-clothespin-farewell/"
+next_post_title: "Clothespin, Farewell"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Fletcher Pratt, Part 3: The Lord of the Ipsy-Wipsies**
-**Clothespin, Farewell**
 
 ## Fletcher Pratt, Part 4: The Friends of Fletcher
 
@@ -48,7 +50,7 @@ Perhaps even more famous, though in a different way, was Bernard DeVoto, at one 
 DeVoto was, in fact, about the closest thing Fletcher Pratt had to a hero.  Indeed Fletcher had paid him the supreme compliment of naming after him  the alpha male in his little tribe of marmosets, now transplanted from 67th Street to the billiard room of the Ipsy-Wipsy Institute.  (Whom I very nearly put to death by sunburn one day when Inga entrusted me with timing his therapeutic ultra-violet ray treatment and I absentmindedly forgot to turn it off.)
 
 
-As another token of respect Fletcher  had dedicated one of his books to DeVoto, because, he said in the dedication, Bernard DeVoto was the man who had taught him how to write nonfiction books with his graceful works on  **Mark Twain**, the American West and much else.  (And I should say here, at last, that Fletcher was the one who taught me some of the same skills, with his marvelous **Ordeal by Fire** history of the Civil War.)
+As another token of respect Fletcher  had dedicated one of his books to DeVoto, because, he said in the dedication, Bernard DeVoto was the man who had taught him how to write nonfiction books with his graceful works on  [**Mark Twain**](/posts/2010-09-04-mark-twain-and-the-law-of-the-raft/), the American West and much else.  (And I should say here, at last, that Fletcher was the one who taught me some of the same skills, with his marvelous **Ordeal by Fire** history of the Civil War.)
 
 
 Unfortunately for me, the human DeVoto rarely made it to the Ipsy.   Apparently he didn’t care to make the trek out to Highlands.  Or perhaps to DeVoto, known  for trumpeting his conviction that the only people entitled to have hot drinks were those who had suffered skiing accidents, and that there were only two drinks a man might properly consume, either a martini or a slug of straight whiskey, Fletcher’s effete toleration of whatever a guest might wish could have seemed barbarous.   Or it may simply have been that he chose to avoid as much as possible of Fletcher’s cooking.
@@ -106,13 +108,18 @@ By then Fletcher was smiling.  “You mean I’ve never introduced you to my wif
 
 **Related posts:**
 
-- **Fletcher Pratt,** **Part 1**, **Part 2**, **Part 3**, **Part 5**, **Part 6**
-- The Ipsy-Wipsy Institute
+- **Fletcher Pratt,** [**Part 1**](/posts/2010-12-07-fletcher-pratt/), [**Part 2**](/posts/2011-01-05-fletcher-pratt-part-2-the-place-where-things-happened/), [**Part 3**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), [**Part 5**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/), [**Part 6**](/posts/2011-02-25-fletcher-pratt-part-6/)
+- [**The Ipsy-Wipsy Institute**](/posts/2011-07-30-the-ipsy-wipsy-institute/)
 
 
 ### 4 Comments
 
-- Bill Goodwinsays:Are we to understand, then, that Eugenie Clark was an Ichthy Wipsy Insider?The legendary clash of Eel and Sturgeon…John Ciardi was the one who said “Poetry lies its way to the truth.” I’ve always liked that.Loving every bit of this, as usual!February 4, 2011, 3:51 am
+- Bill Goodwin says:
+Are we to understand, then, that Eugenie Clark was an Ichthy Wipsy Insider?
+The legendary clash of Eel and Sturgeon…
+John Ciardi was the one who said “Poetry lies its way to the truth.” I’ve always liked that.
+Loving every bit of this, as usual!
+February 4, 2011, 3:51 am
 - Bill Higgins-- Beam Jockey says:
 John, of course, was much better known in much wider circles than that for his superlative translation (into American English) of Dante’s The Divine Comedy, and for his own magisterial books on poetry.
 I never met John Ciardi, but I have a story about him nevertheless.
@@ -120,8 +127,13 @@ My brother, John M. Higgins, and I attended the same high school and studied the
 Years later, in 1986,  my brother and I were watching TV together when the sad news came that the famed poet John Ciardi had died.
 John turned to me and said, “Now the big question is– Paradiso,Purgatorio, or Inferno?”
 February 4, 2011, 9:55 am
-- Michael Walshsays:Your mention of Ciardi brought to mind his other SF connection: he apparently conceived of the Twayne Triplet books: three authors writing in a common setting.See:http://books.google.com/books?id=_HWNsvwhRWUC&pg=PA169&lpg=PA169&dq=%22john+ciardi%22+%22twayne+triplets%22&source=bl&ots=2opJ6ASd5B&sig=2vLMjvHPIZd2LrScwjMKj2QK16c&hl=en&ei=c8dNTfm-O4KC8gaQ5cTbDg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBMQ6AEwAA#v=onepage&q=%22john%20ciardi%22%20%22twayne%20triplets%22&f=falseFebruary 5, 2011, 3:59 pm
-- Bill Higgins-- Beam Jockeysays:In 1930 (while Fred was still in grade school), Laurence Manning and Fletcher Pratt were among those who started the American Interplanetary Society in New York, at a speakeasy called Nino & Nella’s.  This group eventually merged with another group to become theAmerican Institute for Aeronautics and Astronautics.  Rocket engineers can thank some SF writers for founding their professional society.February 8, 2011, 1:14 pm
+- Michael Walsh says:
+Your mention of Ciardi brought to mind his other SF connection: he apparently conceived of the Twayne Triplet books: three authors writing in a common setting.
+See: http://books.google.com/books?id=_HWNsvwhRWUC&pg=PA169&lpg=PA169&dq=%22john+ciardi%22+%22twayne+triplets%22&source=bl&ots=2opJ6ASd5B&sig=2vLMjvHPIZd2LrScwjMKj2QK16c&hl=en&ei=c8dNTfm-O4KC8gaQ5cTbDg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBMQ6AEwAA#v=onepage&q=%22john%20ciardi%22%20%22twayne%20triplets%22&f=false
+February 5, 2011, 3:59 pm
+- Bill Higgins-- Beam Jockey says:
+In 1930 (while Fred was still in grade school), Laurence Manning and Fletcher Pratt were among those who started the American Interplanetary Society in New York, at a speakeasy called Nino & Nella’s.  This group eventually merged with another group to become the American Institute for Aeronautics and Astronautics.  Rocket engineers can thank some SF writers for founding their professional society.
+February 8, 2011, 1:14 pm
 
 **WordPress**
 **TWTFB2**

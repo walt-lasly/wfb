@@ -4,6 +4,10 @@ date: 2010-01-28
 categories: ["Personal"]
 tags: ["Dick Cheney", "Religion", "Rush Limbaugh", "Sun Myung Moon"]
 archive_url: "https://web.archive.org/web/20211001000000/http://www.thewaythefutureblogs.com/2010/01/mingling-with-people-i-wouldnt-invite-for-dinner/"
+prev_post_url: "/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/"
+prev_post_title: "IsaacPart 1 of I don’t know how many"
+next_post_url: "/posts/2010-01-31-isaac-part-2-of-many/"
+next_post_title: "Isaac,Part 2 of many"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Isaac Part 1 of I don’t know how many**
-**Isaac, Part 2 of many**
 
 ## Mingling with People I Wouldn’t Invite for Dinner
 
@@ -30,12 +32,24 @@ But, on the other hand, we only have one planet to share.  I wish that the peopl
 
 ### 6 Comments
 
-- Jeffsays:John Yoo, David Addington, Ben Nelson, Bill O’Reilley, Glenn Beck, Pat Buchannon, Roger Ailes, Rupert Murdoch, Sarah Palin, just to name a few. The supply is endless.January 28, 2010, 11:42 am
-- Jeffsays:Hey look, it’s Face on Mars! That Viking image really was grainy, wasn’t it? But they were right. In the new pictures, it really does look like a catbox.January 28, 2010, 11:44 am
-- Kirk Snavelysays:There’s a new book out about Limbaugh and company titled ‘Echo Chamber: Rush Limbaugh and the Conservative Media Establishment’ by Kathleen Hall Jamieson and Joseph R. Cappella.  I haven’t read it yet, but have read another book coauthored by Jamieson called ‘The Interplay of Influence’.  This was required reading (many moons ago) for a college class in critical reasoning.  If the current book is similar in quality to the earlier one, it may be well worth reading.January 28, 2010, 2:32 pm
-- cubesays:I’m disappointed by your anti-conservative bias, but I defend your right to deny whomever you wish to share your dining table. I would rather gnaw off my left arm than want to break bread with Obama, Pelosi, and Reid, for starters. I guess we’re even.January 29, 2010, 4:52 pm
-- leslie devriessays:Hatred for Cheney was bothering me a few years ago, so I started doing tonglen ( crazy buddhist technique for releasing attachment/avoidance ).  It worked. O\’Reilly is just a clown embodying some reactionary Situationist roles for the cash. Now, i\’ll have to work on Palin–alas!February 3, 2010, 6:16 am
-- Chookiesays:Hey Jeff —  We Aussies happily waved goodbye to Rupert Murdoch when he decided he could make more money by being American (I am not sure which country was more insulted by his decision!).  I rather like Rupert\\\’s Mum, Dame Elisabeth Murdoch — a great philanthropist, and custodian of a famous garden.  Very feisty, and now almost 101!February 3, 2010, 6:16 am
+- Jeff says:
+John Yoo, David Addington, Ben Nelson, Bill O’Reilley, Glenn Beck, Pat Buchannon, Roger Ailes, Rupert Murdoch, Sarah Palin, just to name a few. The supply is endless.
+January 28, 2010, 11:42 am
+- Jeff says:
+Hey look, it’s Face on Mars! That Viking image really was grainy, wasn’t it? But they were right. In the new pictures, it really does look like a catbox.
+January 28, 2010, 11:44 am
+- Kirk Snavely says:
+There’s a new book out about Limbaugh and company titled ‘Echo Chamber: Rush Limbaugh and the Conservative Media Establishment’ by Kathleen Hall Jamieson and Joseph R. Cappella.  I haven’t read it yet, but have read another book coauthored by Jamieson called ‘The Interplay of Influence’.  This was required reading (many moons ago) for a college class in critical reasoning.  If the current book is similar in quality to the earlier one, it may be well worth reading.
+January 28, 2010, 2:32 pm
+- cube says:
+I’m disappointed by your anti-conservative bias, but I defend your right to deny whomever you wish to share your dining table. I would rather gnaw off my left arm than want to break bread with Obama, Pelosi, and Reid, for starters. I guess we’re even.
+January 29, 2010, 4:52 pm
+- leslie devries says:
+Hatred for Cheney was bothering me a few years ago, so I started doing tonglen ( crazy buddhist technique for releasing attachment/avoidance ).  It worked. O\’Reilly is just a clown embodying some reactionary Situationist roles for the cash. Now, i\’ll have to work on Palin–alas!
+February 3, 2010, 6:16 am
+- Chookie says:
+Hey Jeff —  We Aussies happily waved goodbye to Rupert Murdoch when he decided he could make more money by being American (I am not sure which country was more insulted by his decision!).  I rather like Rupert\\\’s Mum, Dame Elisabeth Murdoch — a great philanthropist, and custodian of a famous garden.  Very feisty, and now almost 101!
+February 3, 2010, 6:16 am
 
 **WordPress**
 **TWTFB**

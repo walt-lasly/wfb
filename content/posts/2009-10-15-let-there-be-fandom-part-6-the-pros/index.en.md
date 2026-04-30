@@ -4,6 +4,10 @@ date: 2009-10-15
 categories: ["Authors", "Personal"]
 tags: ["C.M. Kornbluth", "Clifford D. Simak", "Damon Knight", "Donald A. Wollheim", "G.G. Clark", "Jack Gillespie", "John B. Michel", "Milton A. Rothman", "New York", "Robert A.W. Lowndes", "Science Fiction League", "Walter Kubilius", "Will Sykora"]
 archive_url: "https://web.archive.org/web/20091208094735/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-part-6-the-pros/"
+prev_post_url: "/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/"
+prev_post_title: "Let There Be Fandom, Part 5: The Big League"
+next_post_url: "/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/"
+next_post_title: "Let There Be Fandom, Part 7: The Crusade"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Let There Be Fandom, Part 5: The Big League**
-**Let There Be Fandom, Part 7: The Crusade**
 
 ## Let There Be Fandom, Part 6: The Pros!
 
@@ -47,18 +49,20 @@ And, it turned out, that *was* why they were with us. They were mad.
 
 **Related posts:**
 
-- The Quadrumvirate
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 7: The Crusade
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### One Comment
 
-- Robert Nowallsays:Not that I can comment much on fandom or fans of that era—I knew of Walter Kubilius at the end of his life, but I don’t recall ever being introduced—I just want to say you’re doing a great job with all the links in your blog entries.  The story of the pool at the Hotel St. George from the Brooklyn Daily Eagle was great.October 16, 2009, 7:36 pm
+- Robert Nowall says:
+Not that I can comment much on fandom or fans of that era—I knew of Walter Kubilius at the end of his life, but I don’t recall ever being introduced—I just want to say you’re doing a great job with all the links in your blog entries.  The story of the pool at the Hotel St. George from the Brooklyn Daily Eagle was great.
+October 16, 2009, 7:36 pm
 
 **WordPress**
 **TWTFB**

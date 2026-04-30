@@ -4,6 +4,10 @@ date: 2011-05-13
 categories: ["Books", "Science"]
 tags: ["Atul Gawande", "History"]
 archive_url: "https://web.archive.org/web/20201001000000/http://www.thewaythefutureblogs.com/2011/05/how-boeing-almost-went-broke/"
+prev_post_url: "/posts/2011-05-09-are-bigger-brains-better/"
+prev_post_title: "Are Bigger Brains Better?"
+next_post_url: "/posts/2011-05-14-here-come-da-judge/"
+next_post_title: "Here Come da Judge"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Are Bigger Brains Better?**
-**Here Come da Judge**
 
 ## How Boeing Almost Went Broke
 

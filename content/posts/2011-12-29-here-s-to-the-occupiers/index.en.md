@@ -4,6 +4,10 @@ date: 2011-12-29
 categories: ["Miscellaneous", "Science", "Space"]
 tags: ["Economics", "Eric Schmidt", "Gene Isenberg", "Politics", "Sam Palmisano"]
 archive_url: "https://web.archive.org/web/20200301000000/http://www.thewaythefutureblogs.com/2011/12/heres-to-the-occupiers/"
+prev_post_url: "/posts/2011-12-25-seasons-greetings-from-the-blog-team/"
+prev_post_title: "Seasons’ greetings from the blog team!"
+next_post_url: "/posts/2012-01-02-cyril-kornbluth-part-2/"
+next_post_title: "Cyril Kornbluth, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Seasons’ greetings from the blog team!**
-**Cyril Kornbluth, Part 2**
 
 ## Here’s to the Occupiers!
 
@@ -42,13 +44,36 @@ What else have they thought up to do?  Well, for a long time, American businesse
 
 ### 7 Comments
 
-- Ken Marablesays:Not much to add except that I wholeheartedly agree! There’s some deep systemic problems in this country that needs fixing. Whether I agree with specific proposals by any of the Occupiers, changing the conversation back to jobs and homeowners is definitely an admirable outcome.December 29, 2011, 6:34 pm
-- DimSkipsays:Norman Lear’s op-ed piece in the L.A. Times on ‘Fighting the Good Fight’…http://www.latimes.com/news/opinion/la-oe-lear-occupy-the-new-year-20111230,0,1814372.storyDecember 31, 2011, 4:17 pm
-- Larssays:Happy New Year to all at The Way The Future Blogs!December 31, 2011, 8:15 pm
-- Alan Robsonsays:Well said sir! Very well said!–-AlanJanuary 1, 2012, 3:37 pm
-- H. E. Parmersays:I don’t know about brining a legislator. I mean, it may have worked wonders for our Christmas turkey, but I sincerely doubt any treatment could make one of that breed the least bit less gamy and unpalatable. Not even if you serve them with fava beans!(Sorry, Fred: I couldn’t pass up so golden an opportunity.)Although Newt — if his bulk isn’t due to being literally as well as figuratively full of it — might be nicely marbled …January 1, 2012, 10:15 pm
-- A.R.Yngvesays:Terry Jones (the Monty Python one, not the nutty preacher) made the argument in his book BARBARIANS, that the Roman Empire was destroyed not by “barbarians”, but by the greed of its own wealthy landowning nobility.The Roman noblemen (who were also Senators — sounds familiar?) kept squeezing the commoners with taxes and kept reducing their liberties, until the “free men” were really nothing more than serfs — and finally the citizens had no choice but to “drop out” of the system just to survive. The Roman Empire ate itself.There’s a lesson here, about unchecked greed.January 2, 2012, 9:31 am
-- williesays:I really appreciate the clear, logical thoughts.  I’ve been stewing myself more over the role of congress and the political system.  The corporate money-makers are just obeying instinct.  Someone has to control them.  But we’ve let them buy the system and set up their own rules.Worked for a tech giant, where one year we worked with Indian outsourcing companies.  They obtained H1B visas, for software testing managers, sent over a couple of hundred of them, for 6 months, learned over the shoulders of the US staff, then went back and trained their own army of testers, so the company could outsource the work at 1/3 the labor rates.  So, we set up an immigration system that only helps outsource US-based labor to a non-US market (where those salaries will rebound around and around and stimulate the local economies).  Meanwhile, conservative politicians bemoan the attraction of foreign expertise into our local economies, by threatening to further tighten immigration.  My point, there are too many people who have no idea how economics works, acting as paid mouths for the global investor class.  Labor and local investors should have regulatory strength and should be tuning our trade and tax policies to stimulate local investment as a price for opportunity to sell in the local market.The hell with WTO and open markets.  The global conglomerates will use global free trade to pay salaries somewhere else so they can drain American consumers on the sales end.  The biggest question you’ve always asked, that matters more fundamentally than anything else, is what will all of the people do if we remove their means of participating in the mainstream economy?   The ability for the citizenry to competitively sell their labor, to fuel the production side of the economy, must be protected by market-shielding laws and regulations.   The global investment class and their global conglomerates have stacked the rules in their favor.  Between the Occupy movement and the simple fact that the US economy is breaking, the rules need to be rewritten.   Damn, sorry to rant.  Never stop telling us how it is.January 2, 2012, 7:38 pm
+- Ken Marable says:
+Not much to add except that I wholeheartedly agree! There’s some deep systemic problems in this country that needs fixing. Whether I agree with specific proposals by any of the Occupiers, changing the conversation back to jobs and homeowners is definitely an admirable outcome.
+December 29, 2011, 6:34 pm
+- DimSkip says:
+Norman Lear’s op-ed piece in the L.A. Times on ‘Fighting the Good Fight’…
+http://www.latimes.com/news/opinion/la-oe-lear-occupy-the-new-year-20111230,0,1814372.story
+December 31, 2011, 4:17 pm
+- Lars says:
+Happy New Year to all at The Way The Future Blogs!
+December 31, 2011, 8:15 pm
+- Alan Robson says:
+Well said sir! Very well said!
+–
+-Alan
+January 1, 2012, 3:37 pm
+- H. E. Parmer says:
+I don’t know about brining a legislator. I mean, it may have worked wonders for our Christmas turkey, but I sincerely doubt any treatment could make one of that breed the least bit less gamy and unpalatable. Not even if you serve them with fava beans!
+(Sorry, Fred: I couldn’t pass up so golden an opportunity.)
+Although Newt — if his bulk isn’t due to being literally as well as figuratively full of it — might be nicely marbled …
+January 1, 2012, 10:15 pm
+- A.R.Yngve says:
+Terry Jones (the Monty Python one, not the nutty preacher) made the argument in his book BARBARIANS, that the Roman Empire was destroyed not by “barbarians”, but by the greed of its own wealthy landowning nobility. 
+The Roman noblemen (who were also Senators — sounds familiar?) kept squeezing the commoners with taxes and kept reducing their liberties, until the “free men” were really nothing more than serfs — and finally the citizens had no choice but to “drop out” of the system just to survive. The Roman Empire ate itself.
+There’s a lesson here, about unchecked greed.
+January 2, 2012, 9:31 am
+- willie says:
+I really appreciate the clear, logical thoughts.  I’ve been stewing myself more over the role of congress and the political system.  The corporate money-makers are just obeying instinct.  Someone has to control them.  But we’ve let them buy the system and set up their own rules.
+Worked for a tech giant, where one year we worked with Indian outsourcing companies.  They obtained H1B visas, for software testing managers, sent over a couple of hundred of them, for 6 months, learned over the shoulders of the US staff, then went back and trained their own army of testers, so the company could outsource the work at 1/3 the labor rates.  So, we set up an immigration system that only helps outsource US-based labor to a non-US market (where those salaries will rebound around and around and stimulate the local economies).  Meanwhile, conservative politicians bemoan the attraction of foreign expertise into our local economies, by threatening to further tighten immigration.  My point, there are too many people who have no idea how economics works, acting as paid mouths for the global investor class.  Labor and local investors should have regulatory strength and should be tuning our trade and tax policies to stimulate local investment as a price for opportunity to sell in the local market.  
+The hell with WTO and open markets.  The global conglomerates will use global free trade to pay salaries somewhere else so they can drain American consumers on the sales end.  The biggest question you’ve always asked, that matters more fundamentally than anything else, is what will all of the people do if we remove their means of participating in the mainstream economy?   The ability for the citizenry to competitively sell their labor, to fuel the production side of the economy, must be protected by market-shielding laws and regulations.   The global investment class and their global conglomerates have stacked the rules in their favor.  Between the Occupy movement and the simple fact that the US economy is breaking, the rules need to be rewritten.   Damn, sorry to rant.  Never stop telling us how it is.
+January 2, 2012, 7:38 pm
 
 **WordPress**
 **TWTFB2**

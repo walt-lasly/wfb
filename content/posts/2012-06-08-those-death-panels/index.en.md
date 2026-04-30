@@ -4,6 +4,10 @@ date: 2012-06-08
 categories: ["Miscellaneous"]
 tags: ["Medicine", "Politics"]
 archive_url: "https://web.archive.org/web/20120822030804/http://www.thewaythefutureblogs.com/2012/06/those-death-panels/"
+prev_post_url: "/posts/2012-05-31-reading-the-funnies-in-the-times/"
+prev_post_title: "Reading the Funnies in the Times"
+next_post_url: "/posts/2012-06-12-the-bradbury-chronicles-conclusion/"
+next_post_title: "The Bradbury Chronicles: Conclusion"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Reading the Funnies in the Times**
-**The Bradbury Chronicles: Conclusion**
 
 ## Those Death Panels
 
@@ -38,16 +40,42 @@ Funnily, the Republicans aren’t worried about death panels at all, now.  Maybe
 
 ### 10 Comments
 
-- ironchefoklahomasays:When you have a spare moment, I’d enjoy hearing any words you have on the passing of Ray Bradbury.June 8, 2012, 6:24 pm
-- Rick Yorksays:I think it was Emerson who said, “A foolish consistency is the hobgoblin of small minds.” I would modify it to say “Small minds ignore consistency”. “Death Panels” are bad if you’re old – and possibly well off – but are OK if you’re young and/or poor.June 8, 2012, 7:16 pm
-- Larry Kollarsays:That’s been the right-wing tactic all along: accuse their opponents of doing what they’re either doing or planning to do.June 8, 2012, 9:08 pm
-- John Armstrongsays:so, they’d be properly described as Pro-Death, then?June 8, 2012, 9:33 pm
-- Stefan Jonessays:The closest thing to “death panels” in the insurance reform bundle was an allowance for end-of-life plan counseling. Talking to a doctor so people could make living wills, standing orders about life support and Do Not Resuscitate orders and the like.In the inane, evidence-free world of the conservative media circus, this common-sense measure was equated with a bunch of snickering bureaucrats rubbing their palms over the prospect of pouring bleach in grandma’s feeding tube.This lie will continue as long as it is useful.June 9, 2012, 11:11 pm
-- Robert Nowallsays:I think it interesting that you equate “no Medicaid” with “death,” and that “organ transplant” doesn’t involve “death” at all.Larry Kollar: you mean “left-wing tactic.”June 10, 2012, 9:14 am
-- Eva Whitleysays:As I said to my son when the GOPpers were complaining about “death panels”: they must live a charmed life, never having to deal with insurance companies.June 10, 2012, 12:28 pm
-- Tom Swirlysays:What gets me is that even one person was fooled by this stuff.  I mean, if you live in the US, rich or poor you know of people who die because they can’t afford the medical treatment they need…June 11, 2012, 7:43 am
-- John C. Bolandsays:What drivel, Fred, from you and several of your readers. You’re playing “good guys” and “bad guys” and assuming, as you accuse the Republicans of doing (perhaps rightly), that decisions will be better if your “good guys” are making them. Bad, bad bet.June 17, 2012, 9:21 pm
-- TonyCsays:@Robert Nowall:The vast majority of organ transplants are required because alternatives are essentially a slow death (have you never known anyone on dialysis?).  Transplants are not a panacea. They are never an easy way out. They are not a ‘choice’ anyone would willingly make for anything other than life-preserving reasons.You, sir, continue to amaze with your astounding ability to prognosticate pompously on any subject in favor of your “side”.  Guess what – death does not take sides.@John C. Boyland:  Where, exactly, does Fred presume that decisions would be better if the “good guys” are making them?  Fred’s comment was that The Affordable Healthcare Act proposed to allow, and fund, end-of-life counselling by one’s PHYSICIAN.  No. Bureaucrats. Anywhere!   Contrary to this, the AZ Gov & cohorts *in actuality* forced themselves into the decision loop for patients. Bureaucrats. EVERYWHERE.June 21, 2012, 8:00 am
+- ironchefoklahoma says:
+When you have a spare moment, I’d enjoy hearing any words you have on the passing of Ray Bradbury.
+June 8, 2012, 6:24 pm
+- Rick York says:
+I think it was Emerson who said, “A foolish consistency is the hobgoblin of small minds.” I would modify it to say “Small minds ignore consistency”. “Death Panels” are bad if you’re old – and possibly well off – but are OK if you’re young and/or poor.
+June 8, 2012, 7:16 pm
+- Larry Kollar says:
+That’s been the right-wing tactic all along: accuse their opponents of doing what they’re either doing or planning to do.
+June 8, 2012, 9:08 pm
+- John Armstrong says:
+so, they’d be properly described as Pro-Death, then?
+June 8, 2012, 9:33 pm
+- Stefan Jones says:
+The closest thing to “death panels” in the insurance reform bundle was an allowance for end-of-life plan counseling. Talking to a doctor so people could make living wills, standing orders about life support and Do Not Resuscitate orders and the like. 
+In the inane, evidence-free world of the conservative media circus, this common-sense measure was equated with a bunch of snickering bureaucrats rubbing their palms over the prospect of pouring bleach in grandma’s feeding tube.
+This lie will continue as long as it is useful.
+June 9, 2012, 11:11 pm
+- Robert Nowall says:
+I think it interesting that you equate “no Medicaid” with “death,” and that “organ transplant” doesn’t involve “death” at all.
+Larry Kollar: you mean “left-wing tactic.”
+June 10, 2012, 9:14 am
+- Eva Whitley says:
+As I said to my son when the GOPpers were complaining about “death panels”: they must live a charmed life, never having to deal with insurance companies.
+June 10, 2012, 12:28 pm
+- Tom Swirly says:
+What gets me is that even one person was fooled by this stuff.  I mean, if you live in the US, rich or poor you know of people who die because they can’t afford the medical treatment they need…
+June 11, 2012, 7:43 am
+- John C. Boland says:
+What drivel, Fred, from you and several of your readers. You’re playing “good guys” and “bad guys” and assuming, as you accuse the Republicans of doing (perhaps rightly), that decisions will be better if your “good guys” are making them. Bad, bad bet.
+June 17, 2012, 9:21 pm
+- TonyC says:
+@Robert Nowall:  
+The vast majority of organ transplants are required because alternatives are essentially a slow death (have you never known anyone on dialysis?).  Transplants are not a panacea. They are never an easy way out. They are not a ‘choice’ anyone would willingly make for anything other than life-preserving reasons.  
+You, sir, continue to amaze with your astounding ability to prognosticate pompously on any subject in favor of your “side”.  Guess what – death does not take sides.   
+@John C. Boyland:  Where, exactly, does Fred presume that decisions would be better if the “good guys” are making them?  Fred’s comment was that The Affordable Healthcare Act proposed to allow, and fund, end-of-life counselling by one’s PHYSICIAN.  No. Bureaucrats. Anywhere!   Contrary to this, the AZ Gov & cohorts *in actuality* forced themselves into the decision loop for patients. Bureaucrats. EVERYWHERE.
+June 21, 2012, 8:00 am
 
 **WordPress**
 **TWTFB2**

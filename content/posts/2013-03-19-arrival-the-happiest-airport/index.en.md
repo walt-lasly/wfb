@@ -4,6 +4,10 @@ date: 2013-03-19
 categories: ["Travel"]
 tags: ["C.M. Kornbluth", "Clubs", "Conventions", "Darko Suvin", "Jack Williamson", "James Gunn", "Martin H. Greenberg", "Patrice Duvic", "Robert A. Heinlein", "Sashiko Shibano", "Science Fiction Research Association", "SFWA", "Takumi Shibano", "The Space Merchants", "Worldcons", "Yuli Kagarlitsky"]
 archive_url: "https://web.archive.org/web/20160101000000/http://www.thewaythefutureblogs.com/2013/03/arrival-the-happiest-airport/"
+prev_post_url: "/posts/2013-03-18-we-re-back/"
+prev_post_title: "We’re back!"
+next_post_url: "/posts/2013-03-22-arrival-part-2-heinlein-stories/"
+next_post_title: "Arrival, Part 2: Heinlein Stories"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**We’re back!**
-**Arrival, Part 2: Heinlein Stories**
 
 ## Arrival: The Happiest Airport
 
@@ -81,7 +83,7 @@ I saw that I was in the presence of the academic wing of science fiction, formal
 Groups that contained good looking young women sitting by themselves were an unnecessary complication for a fiftyish man who was not looking to change his luck, and I might have wished them all well and moved on, but Marty had a good grip on my arm.  Marty I could not shake off.   Back in the days when  the writing wasn’t going so well for me he had come up with an idea that really sounded worth pursuing.  Florida International had treated itself to the luxury of a Writer in Residence, which is to say a writer of at least enough renown to have some fairly good reviews and some interesting anecdotes to share with the students.
 
 
-I qualified for all that, mostly because of **The Space Merchants** and other books I’d written with **Cyril Kornbluth**, plus my ton of editorial background.  I would be added to the faculty as an adjunct professor, paid a modest but livable salary and given a quite nice rent-free house for me and my family to live in for a couple of years.  It wouldn’t require much hard work from me, either.  I could do plenty of writing.
+I qualified for all that, mostly because of **The Space Merchants** and other books I’d written with [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), plus my ton of editorial background.  I would be added to the faculty as an adjunct professor, paid a modest but livable salary and given a quite nice rent-free house for me and my family to live in for a couple of years.  It wouldn’t require much hard work from me, either.  I could do plenty of writing.
 
 
 However, it didn’t happen.  The deal fell through at the last minute because the funding collapsed, but Marty had done his best.  He remained a treasured friend.
@@ -92,22 +94,39 @@ However, it didn’t happen.  The deal fell through at the last minute because t
 
 **Related posts:**
 
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 6: The Deal
-- Arrival, Part 7: Departure
-- Working with Robert A. Heinlein
-- Working with Robert A. Heinlein, Part 2
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
+- [**Working with Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/)
+- [**Working with Robert A. Heinlein, Part 2**](/posts/2010-05-10-working-with-robert-a-heinlein-part-2/)
 
 
 ### 4 Comments
 
-- Robert Nowallsays:I’ve always heard they’ve got some crazy little women there…March 20, 2013, 5:42 am
-- Johan Anglemarksays:Looking forward to part II!March 20, 2013, 7:59 am
-- Stefan Jonessays:I’m so glad to see you blogging again!What an utterly bizarre attitude that hotel had. Had they been burned by SF convention attendees before? Was it a bad neighborhood that got lots of deadbeats?* * *Back when I did business travel I visited many airports, but don’t believe I even had a connection in Kansas City.The worst airport I’ve dealt with, more to have to do with its age than its design, is La Guardia in Queens. A very old airport retrofitted and re-retrofitted. To be fair, the last redesign hadn’t quite been done when I last used it.JFK’s terminals are more modern, but even buildings designed in the 1960s aren’t up to today’s volume of travelers and security needs. I remember, as a boy, being utterly amazed by the space-station-like design of the manta-ray shaped TWA terminal. When I used it in the early 90s (before 9/11!) it was a mess, with security checks wedged into the too small lobby.I’m grateful for Portland’s fine small airport. The light rail line leads right into one end of the terminal. From there it is less than $3 to get anywhere in the area.March 20, 2013, 11:20 pm
-- JJ Brannonsays:Glad to see you posting again!Coinkadinkly, just a scant weeks ago, after hearing a friend relate her horrible airport experiences and sharing a couple of my own, I launched into a paean of my all-time favorite airport — KCI!It was, in 2007 to — yes, you guessed it! — the Heinlein Centennial that was my last instance of air travel [including the return trip], where I encountered you for the third and last time in my experience.JJBMarch 21, 2013, 5:24 pm
+- Robert Nowall says:
+I’ve always heard they’ve got some crazy little women there…
+March 20, 2013, 5:42 am
+- Johan Anglemark says:
+Looking forward to part II!
+March 20, 2013, 7:59 am
+- Stefan Jones says:
+I’m so glad to see you blogging again!
+What an utterly bizarre attitude that hotel had. Had they been burned by SF convention attendees before? Was it a bad neighborhood that got lots of deadbeats?
+* * *
+Back when I did business travel I visited many airports, but don’t believe I even had a connection in Kansas City.
+The worst airport I’ve dealt with, more to have to do with its age than its design, is La Guardia in Queens. A very old airport retrofitted and re-retrofitted. To be fair, the last redesign hadn’t quite been done when I last used it. 
+JFK’s terminals are more modern, but even buildings designed in the 1960s aren’t up to today’s volume of travelers and security needs. I remember, as a boy, being utterly amazed by the space-station-like design of the manta-ray shaped TWA terminal. When I used it in the early 90s (before 9/11!) it was a mess, with security checks wedged into the too small lobby. 
+I’m grateful for Portland’s fine small airport. The light rail line leads right into one end of the terminal. From there it is less than $3 to get anywhere in the area.
+March 20, 2013, 11:20 pm
+- JJ Brannon says:
+Glad to see you posting again!
+Coinkadinkly, just a scant weeks ago, after hearing a friend relate her horrible airport experiences and sharing a couple of my own, I launched into a paean of my all-time favorite airport — KCI!
+It was, in 2007 to — yes, you guessed it! — the Heinlein Centennial that was my last instance of air travel [including the return trip], where I encountered you for the third and last time in my experience.
+JJB
+March 21, 2013, 5:24 pm
 
 **WordPress**
 **TWTFB2**

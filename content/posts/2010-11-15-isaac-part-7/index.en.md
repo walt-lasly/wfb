@@ -4,6 +4,10 @@ date: 2010-11-15
 categories: ["Authors", "Space", "Travel"]
 tags: ["Barbara Bova", "Ben Bova", "Carl Sagan", "Gertrude Asimov", "Hugh Downs", "Isaac Asimov", "Janet Jeppson Asimov", "Jay Kay Klein", "Katherine Anne Porter", "Marvin Minsky", "Medicine", "Norman Mailer", "Robert A. Heinlein", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20131124012751/http://www.thewaythefutureblogs.com/2010/11/isaac-asimov-part-7/"
+prev_post_url: "/posts/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
+prev_post_title: "E-mail Us by Nov. 15 forGatewaysGiveaway"
+next_post_url: "/posts/2010-11-17-rich-correspondence/"
+next_post_title: "Rich Correspondence"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**E-mail Us by Nov. 15 for Gateways Giveaway**
-**Rich Correspondence**
 
 ## Isaac, Part 7
 
@@ -80,15 +82,22 @@ And then, in the fullness of time, in 1973, the divorce from Gertrude was grante
 
 **Related posts**:
 
-- **Isaac,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**
-- Russians, Jews and Isaac
+- **Isaac,** [**Part 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 2**](/posts/2010-01-31-isaac-part-2-of-many/), [**Part 3**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/), [**Part 4**](/posts/2010-02-26-isaac-part-4-and-some-other-guys/), [**Part 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Part 6**](/posts/2010-11-10-isaac-part-6/)
+- [**Russians, Jews and Isaac**](/posts/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 3 Comments
 
-- Paulsays:“…he had never seen a sheet of paper he didn’t want to write on\"A line for the ages, Mr. Pohl!November 15, 2010, 7:32 am
-- Cindysays:I ‘ve been reading “I.Asimov” this week, and it’s interesting to see a different (but compatible) perspective on Asimov’s life.  I hope to learn more.  Thanks.April 18, 2011, 9:32 am
-- Stephensays:I fell hard for Dr. Asimov a few years back, and he’s become my favorite author and one of my favorite human beings. I’m inspired by the breadth of his knowledge and the charm that comes through in his works. I found you while googling for pictures (trying to find a photo of him in the 40s or early 50s, kneeling in a lab of some kind: I’ve seen it in a book) and read the series of posts through tonight. Thank you for sharing so much about him.May 5, 2011, 1:27 am
+- Paul says:
+“…he had never seen a sheet of paper he didn’t want to write on\"
+A line for the ages, Mr. Pohl!
+November 15, 2010, 7:32 am
+- Cindy says:
+I ‘ve been reading “I.Asimov” this week, and it’s interesting to see a different (but compatible) perspective on Asimov’s life.  I hope to learn more.  Thanks.
+April 18, 2011, 9:32 am
+- Stephen says:
+I fell hard for Dr. Asimov a few years back, and he’s become my favorite author and one of my favorite human beings. I’m inspired by the breadth of his knowledge and the charm that comes through in his works. I found you while googling for pictures (trying to find a photo of him in the 40s or early 50s, kneeling in a lab of some kind: I’ve seen it in a book) and read the series of posts through tonight. Thank you for sharing so much about him.
+May 5, 2011, 1:27 am
 
 **WordPress**
 **TWTFB2**

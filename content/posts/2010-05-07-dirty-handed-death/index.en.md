@@ -4,6 +4,10 @@ date: 2010-05-07
 categories: ["Science"]
 tags: ["Medicine"]
 archive_url: "https://web.archive.org/web/20100715232953/http://www.thewaythefutureblogs.com/2010/05/dirty-handed-death/"
+prev_post_url: "/posts/2010-05-05-eat-at-red-canoe-bistro/"
+prev_post_title: "Eat at Red Canoe Bistro"
+next_post_url: "/posts/2010-05-10-working-with-robert-a-heinlein-part-2/"
+next_post_title: "Working with Robert A. Heinlein, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Eat at Red Canoe Bistro**
-**Working with Robert A. Heinlein, Part 2**
 
 ## Dirty-handed death
 
@@ -33,14 +35,35 @@ Even scarier:  there’s a 2.1-percent incidence of infection if the patient has
 
 ### 8 Comments
 
-- Michael Parkersays:How are you feeling, Fred? Sounds like you are in good spirits and you’re obviously writing more. Do you still have the PICC line? Best wishes.May 7, 2010, 12:38 am
-- Joe Fodorsays:A study has also revealed that hand washing, long associated with absolving the mind of guilt, can also erase any doubts about everyday choices — according to an ingenious study reported in the journal Science.May 7, 2010, 8:52 am
-- Paul A.says:I just read this morning that washing one’s hands psychologically “reduces the influence of past behaviors and decisions” — make a choice, give your mitts a good scrub, and you are inclined to believe that your choice was a good one:http://www.sciencedaily.com/releases/2010/05/100506141601.htmMay 7, 2010, 10:38 am
-- ACWsays:This would suggest that mechanics using GoJo might wash their hands more effectively than hospital workers using ‘antibacterial’ soap.What if they made antibacterial GoJo?!I think my head just exploded.May 7, 2010, 11:13 am
-- Robert Nowallsays:At work, when they wanted us to wash our hands for twenty seconds, they told us to sing (to ourselves) “Twinkle Twinkle Little Star.”We laughed…May 7, 2010, 11:23 am
-- John Murphysays:They ought to have surgeons dip their hands in some sort of dye that takes about that long to scrub off. Then it would be obvious to everyone whether they did it or not.May 7, 2010, 2:32 pm
-- Deborah Postsays:I so enjoy your blog, Mr. Pohl! My sister and I grew up reading SF from you and many of the writers you speak about, and your snapshots of SF history are a delight! < /end fawn>May 8, 2010, 12:39 am
-- Briansays:Your blog is equal parts fascinating and horrifying. I learn something new with each of your posts — but sometimes I’m not so sure I wanted to!…Now pardon me, I’m off to wash my hands a couple dozen times…May 8, 2010, 6:46 pm
+- Michael Parker says:
+How are you feeling, Fred? Sounds like you are in good spirits and you’re obviously writing more. Do you still have the PICC line? Best wishes.
+May 7, 2010, 12:38 am
+- Joe Fodor says:
+A study has also revealed that hand washing, long associated with absolving the mind of guilt, can also erase any doubts about everyday choices — according to an ingenious study reported in the journal Science.
+May 7, 2010, 8:52 am
+- Paul A. says:
+I just read this morning that washing one’s hands psychologically “reduces the influence of past behaviors and decisions” — make a choice, give your mitts a good scrub, and you are inclined to believe that your choice was a good one:
+http://www.sciencedaily.com/releases/2010/05/100506141601.htm
+May 7, 2010, 10:38 am
+- ACW says:
+This would suggest that mechanics using GoJo might wash their hands more effectively than hospital workers using ‘antibacterial’ soap.
+What if they made antibacterial GoJo?!
+I think my head just exploded.
+May 7, 2010, 11:13 am
+- Robert Nowall says:
+At work, when they wanted us to wash our hands for twenty seconds, they told us to sing (to ourselves) “Twinkle Twinkle Little Star.”
+We laughed…
+May 7, 2010, 11:23 am
+- John Murphy says:
+They ought to have surgeons dip their hands in some sort of dye that takes about that long to scrub off. Then it would be obvious to everyone whether they did it or not.
+May 7, 2010, 2:32 pm
+- Deborah Post says:
+I so enjoy your blog, Mr. Pohl! My sister and I grew up reading SF from you and many of the writers you speak about, and your snapshots of SF history are a delight! < /end fawn> 
+May 8, 2010, 12:39 am
+- Brian says:
+Your blog is equal parts fascinating and horrifying. I learn something new with each of your posts — but sometimes I’m not so sure I wanted to! 
+…Now pardon me, I’m off to wash my hands a couple dozen times…
+May 8, 2010, 6:46 pm
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,10 @@ date: 2009-11-21
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Fletcher Pratt", "Hugo Gernsback", "Jeff Berkwits", "Joan Hon", "New York", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20180101000000/http://www.thewaythefutureblogs.com/2009/11/a-couple-more-comments-on-comments/"
+prev_post_url: "/posts/2009-11-17-astounding-years-30-37-bc-street-smith/"
+prev_post_title: "Astounding Years 30–37 BC:* Street & Smith"
+next_post_url: "/posts/2009-11-26-happy-birthday-dear-fred/"
+next_post_title: "Happy Birthday, Dear Fred"
 translated: false
 ---
 

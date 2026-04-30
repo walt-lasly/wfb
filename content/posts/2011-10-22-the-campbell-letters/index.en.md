@@ -4,6 +4,10 @@ date: 2011-10-22
 categories: ["Authors", "Books"]
 tags: ["A. Langley Searles", "Alice Becker", "Alonzo Dean Cole", "Dona Campbell", "Editors", "F. Orlin Tremaine", "Fanzines", "Frances Swisher", "Franklin Delano Roosevelt", "History", "John W. Campbell", "L. Ron Hubbard", "Leo Margulies", "Mort Weisinger", "Nat Schachner", "Politics", "Prozines", "Pulps", "Radio", "Religion", "Robert D. Swisher", "Sam Moskowitz"]
 archive_url: "https://web.archive.org/web/20111226103826/http://www.thewaythefutureblogs.com/2011/10/the-campbell-letters/"
+prev_post_url: "/posts/2011-10-13-planet-earth-almost-good-news-maybe/"
+prev_post_title: "Planet Earth: Almost Good News, Maybe"
+next_post_url: "/posts/2011-10-24-campbell-gets-the-magazine/"
+next_post_title: "Campbell Gets the Magazine"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Planet Earth: Almost Good News, Maybe**
-**Campbell Gets the Magazine**
 
 ## The Campbell Letters
 
@@ -68,17 +70,27 @@ But in the real world, it was the decision of management at Street & Smith to mo
 
 **Related posts:**
 
-- **Campbell Gets the Magazine**: **Part 2 of Review of the Campbell-Swisher Letters**
-- **Astounding: The Campbell Years, Riding High**, **Part 1**, **Part 2**
-- Me and Alfie, Part 6: John W. Campbell and Dianetics
+- [**Campbell Gets the Magazine**](/posts/2011-10-24-campbell-gets-the-magazine/): **Part 2 of Review of the Campbell-Swisher Letters**
+- **Astounding: The Campbell Years, Riding High**, [**Part 1**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
+- [**Me and Alfie, Part 6: John W. Campbell and Dianetics**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 
 
 ### 4 Comments
 
-- David Dyer-Bennetsays:No doubt removing the photo gear discussions is the right decision for the general market; but for a second there I had hopes that I might find the collection of letters REALLY interesting!And, as always when I hear that somebody prominent in SF was an avid photographer — I wonder what happened to his photos?  (In this case, both of their photos.)October 22, 2011, 1:58 pm
-- Michael Walshsays:Thanks for the review.  Just ordered and looking forward to it.October 22, 2011, 3:54 pm
-- Joseph T Majorsays:And it should get the Hugo for Best Related Work.  Alas, “Chicks Dig Sparkly Emo Vampires: A Celebration of ‘Twilight’ by the Women Who Love It” has a far far better chance.October 23, 2011, 8:57 am
-- David B. Williamssays:“One of Campbell’s greatest talents was the recognition and development of new headliners”With some striking exceptions. Jack Vance is still grinding his teeth, 60 years later, over his relationship with Campbell. Like everyone else, Vance sent all his stories to Campbell first. Over ten years, he only managed to place five novelettes at Astounding. Oddly, in almost every case, Campbell chose these Vance stories as cover stories, so he obviously liked what he bought. But Vance had to include some psi-powers element to sell the Campbell, and he finally quite trying. He defined his later career in terms of Campbell: “I stopped writing to please Campbell and started writing to please myself” [paraphrase] Happily, his new direction worked out well.October 23, 2011, 9:33 am
+- David Dyer-Bennet says:
+No doubt removing the photo gear discussions is the right decision for the general market; but for a second there I had hopes that I might find the collection of letters REALLY interesting!
+And, as always when I hear that somebody prominent in SF was an avid photographer — I wonder what happened to his photos?  (In this case, both of their photos.)
+October 22, 2011, 1:58 pm
+- Michael Walsh says:
+Thanks for the review.  Just ordered and looking forward to it.
+October 22, 2011, 3:54 pm
+- Joseph T Major says:
+And it should get the Hugo for Best Related Work.  Alas, “Chicks Dig Sparkly Emo Vampires: A Celebration of ‘Twilight’ by the Women Who Love It” has a far far better chance.
+October 23, 2011, 8:57 am
+- David B. Williams says:
+“One of Campbell’s greatest talents was the recognition and development of new headliners”
+With some striking exceptions. Jack Vance is still grinding his teeth, 60 years later, over his relationship with Campbell. Like everyone else, Vance sent all his stories to Campbell first. Over ten years, he only managed to place five novelettes at Astounding. Oddly, in almost every case, Campbell chose these Vance stories as cover stories, so he obviously liked what he bought. But Vance had to include some psi-powers element to sell the Campbell, and he finally quite trying. He defined his later career in terms of Campbell: “I stopped writing to please Campbell and started writing to please myself” [paraphrase] Happily, his new direction worked out well.
+October 23, 2011, 9:33 am
 
 **WordPress**
 **TWTFB**

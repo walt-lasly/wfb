@@ -4,6 +4,8 @@ date: 2009-04-07
 categories: ["Personal", "Science"]
 tags: ["Elizabeth Anne Hull", "Laurence J. Peter", "Predictions", "Raymond Hull", "Time"]
 archive_url: "https://web.archive.org/web/20220401000000/http://www.thewaythefutureblogs.com/2009/04/bettys-law/"
+prev_post_url: "/posts/2009-04-04-the-bonus-babies/"
+prev_post_title: "The Bonus Babies"
 translated: false
 ---
 
@@ -12,7 +14,6 @@ translated: false
 
 Frederik Pohl
 
-**The Bonus Babies**
 
 ## Betty’s Law
 
@@ -41,13 +42,33 @@ BTW, Betty’s Law applies especially to regaining health, for both Fred and me,
 
 ### 7 Comments
 
-- Nathansays:For a more pessimistic and recursive version, see Hofstadter’s law:“ 	It always takes longer than you expect, even when you take into account Hofstadter’s Law. 	”— Douglas Hofstadter, Gödel, Escher, Bach: An Eternal Golden Braidhttp://en.wikipedia.org/wiki/Hofstadter%27s_lawApril 7, 2009, 4:05 pm
-- brucesays:I’ll hold a good thought for you both.April 7, 2009, 6:35 pm
-- Jeffsays:This sounds like a variation on Scotty’s Law - Always double or triple your estimate for how long it will take to complete a task. That way, when you complete the task early, you get a reputation as a miracle worker.April 7, 2009, 9:08 pm
-- Stefan Jonessays:I work in software development, and can vouch for Betty’s Law.A co-worker has a motto in his email signature that notes that while it takes nine women-months to make a baby, nine women can’t get it done in one month no matter how hard they try.April 7, 2009, 10:45 pm
-- pk1154says:My late father’s rule of thumb was to make your best estimate for the time needed to complete a project and multiply that by PI.This allows time for unexpected contingencies (thus the ‘at least’ part of Betty’s Law).It also allows for the Heroic Engineer to bring in the project ahead of schedule, at least sometimes.April 8, 2009, 7:16 am
-- Emilysays:So happy to hear about your collective health improving. We’ve been sending you healthy vibes from up north. See you in a week or so. XOApril 8, 2009, 9:09 am
-- David S.says:Yes, as others have noted it’s a well known law of project management. I came across it in IT projects and as told to me it was, “estimate how long you think it’ll take, then double that and add fifty percent.” It’s still the best estimate you’re likely to get ahead of time what with all the known unknowns and unknown unknowns…April 9, 2009, 7:33 am
+- Nathan says:
+For a more pessimistic and recursive version, see Hofstadter’s law:
+“ 	It always takes longer than you expect, even when you take into account Hofstadter’s Law. 	”
+— Douglas Hofstadter, Gödel, Escher, Bach: An Eternal Golden Braid
+http://en.wikipedia.org/wiki/Hofstadter%27s_law
+April 7, 2009, 4:05 pm
+- bruce says:
+I’ll hold a good thought for you both.
+April 7, 2009, 6:35 pm
+- Jeff says:
+This sounds like a variation on Scotty’s Law - Always double or triple your estimate for how long it will take to complete a task. That way, when you complete the task early, you get a reputation as a miracle worker.
+April 7, 2009, 9:08 pm
+- Stefan Jones says:
+I work in software development, and can vouch for Betty’s Law.
+A co-worker has a motto in his email signature that notes that while it takes nine women-months to make a baby, nine women can’t get it done in one month no matter how hard they try.
+April 7, 2009, 10:45 pm
+- pk1154 says:
+My late father’s rule of thumb was to make your best estimate for the time needed to complete a project and multiply that by PI.  
+This allows time for unexpected contingencies (thus the ‘at least’ part of Betty’s Law).  
+It also allows for the Heroic Engineer to bring in the project ahead of schedule, at least sometimes.
+April 8, 2009, 7:16 am
+- Emily says:
+So happy to hear about your collective health improving. We’ve been sending you healthy vibes from up north. See you in a week or so. XO
+April 8, 2009, 9:09 am
+- David S. says:
+Yes, as others have noted it’s a well known law of project management. I came across it in IT projects and as told to me it was, “estimate how long you think it’ll take, then double that and add fifty percent.” It’s still the best estimate you’re likely to get ahead of time what with all the known unknowns and unknown unknowns…
+April 9, 2009, 7:33 am
 
 **WordPress**
 **TWTFB**

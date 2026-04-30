@@ -4,6 +4,10 @@ date: 2011-05-26
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Clubs", "Costa Carousso", "Donald A. Wollheim", "Editors", "Futurians", "Harry Steeger", "Isaac Asimov", "New York", "Peggy Graves", "Prozines", "Publishing", "Pulps", "Robert Erisman"]
 archive_url: "https://web.archive.org/web/20180301000000/http://www.thewaythefutureblogs.com/2011/05/rolling-back-the-years-popular-publications/"
+prev_post_url: "/posts/2011-05-24-post-scriptum/"
+prev_post_title: "Post Scriptum"
+next_post_url: "/posts/2011-05-31-popular-publications-part-2/"
+next_post_title: "Popular Publications, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Post Scriptum**
-**Popular Publications, Part 2**
 
 ## Rolling Back the Years: Popular Publications
 
@@ -44,15 +46,24 @@ Would you believe it, I was 19 years old and actually a professional editor.
 
 **Related posts:**
 
-- **Popular Publications**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**
+- **Popular Publications**, [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Comments
 
-- Stefan Jonessays:Just jumping in and becoming an editor like that . . . blows my mind, man!It would be nice to see a photo of the building your office was in . . . assuming it still exists!May 26, 2011, 6:55 pm
-- the blog teamsays:Stefan — coming right up!May 27, 2011, 1:24 am
-- Bill Goodwinsays:Tell you what, Fred old boy. I’ll publish a science fiction magazine–a real nice one too–and if you’ll edit it for me, I’ll not only start by making good on that $3 (plus compounded interest), but round off the sum to a full two days pay. ‘Cause I’ve got a feeling about you!May 30, 2011, 2:14 am
-- SMsays:I just noticed the “40 magazines under one owner” figure.  I hadn’t realized there were so many pulps at one time!  The total in a given month must have been hundreds.June 2, 2011, 9:42 am
+- Stefan Jones says:
+Just jumping in and becoming an editor like that . . . blows my mind, man!
+It would be nice to see a photo of the building your office was in . . . assuming it still exists!
+May 26, 2011, 6:55 pm
+- the blog team says:
+Stefan — coming right up!
+May 27, 2011, 1:24 am
+- Bill Goodwin says:
+Tell you what, Fred old boy. I’ll publish a science fiction magazine–a real nice one too–and if you’ll edit it for me, I’ll not only start by making good on that $3 (plus compounded interest), but round off the sum to a full two days pay. ‘Cause I’ve got a feeling about you!
+May 30, 2011, 2:14 am
+- SM says:
+I just noticed the “40 magazines under one owner” figure.  I hadn’t realized there were so many pulps at one time!  The total in a given month must have been hundreds.
+June 2, 2011, 9:42 am
 
 **WordPress**
 **TWTFB2**

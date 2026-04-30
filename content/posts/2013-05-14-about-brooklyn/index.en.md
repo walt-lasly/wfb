@@ -4,6 +4,10 @@ date: 2013-05-14
 categories: ["Personal"]
 tags: ["New York"]
 archive_url: "https://web.archive.org/web/20260201000000/http://www.thewaythefutureblogs.com/2013/05/about-brooklyn/"
+prev_post_url: "/posts/2013-05-12-dung-into-dollars/"
+prev_post_title: "Dung into dollars"
+next_post_url: "/posts/2013-05-17-how-to-paralyze-the-senate/"
+next_post_title: "How to Paralyze the Senate"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Dung into dollars**
-**How to Paralyze the Senate**
 
 ## About Brooklyn
 
@@ -37,8 +39,19 @@ If you want more technology than that, the Bay is bracketed at one end by Floyd 
 
 ### 2 Comments
 
-- Phillip Helbigsays:What town in Germany was that?I immigrated in the other direction, much later.  One of my sons has Frederik as his middle name, even with the same spelling.May 29, 2013, 3:59 am
-- Art Horansays:I migrated from Brooklyn to Central Texas (27 years ago,) but I remember riding the trolley on Church Ave. and have many memories of Prospect Park, the Brooklyn Botanic Gardens, the Brooklyn Museum and the Brooklyn Public Library at Grand Army Plaza.It was in Brooklyn that I discovered science fiction, Galaxy magazine, Fred Pohl, and oddly enough, first learned to play the 5-string banjo during the folk craze of the late 50’s and early 60’s. I still retain an interest in all those things.I think sf “vastened” me to appreciate many things beyond those I grew up around, and I thank Mr. Pohl and so many of his colleagues for that.My dad was born in Brooklyn in 1910 and grew up around Eastern Parkway. When he was a boy he used to go to his uncle’s farm in the summertime. When I was a boy, I lived in an apartment building on New York Avenue that was directly across the street from where my dad’s uncle’s farm had been, only then it was another apartment building. Today I can view those buildings on Google, marvel at how different they are from my memories, and how much different they are from what my dad could remember. I wonder if they will be there 100 years from now, or if they’ll just be underwater due to global warming and higher sea levels.Fred, all the best to you from a fellow Brooklynite, and thanks for all the great reading you have given me as both an author and an editor.Art HoranBelton, Texas (via Flatbush, Brooklyn)June 2, 2013, 11:25 pm
+- Phillip Helbig says:
+What town in Germany was that?
+I immigrated in the other direction, much later.  One of my sons has Frederik as his middle name, even with the same spelling.
+May 29, 2013, 3:59 am
+- Art Horan says:
+I migrated from Brooklyn to Central Texas (27 years ago,) but I remember riding the trolley on Church Ave. and have many memories of Prospect Park, the Brooklyn Botanic Gardens, the Brooklyn Museum and the Brooklyn Public Library at Grand Army Plaza.
+It was in Brooklyn that I discovered science fiction, Galaxy magazine, Fred Pohl, and oddly enough, first learned to play the 5-string banjo during the folk craze of the late 50’s and early 60’s. I still retain an interest in all those things. 
+I think sf “vastened” me to appreciate many things beyond those I grew up around, and I thank Mr. Pohl and so many of his colleagues for that.
+My dad was born in Brooklyn in 1910 and grew up around Eastern Parkway. When he was a boy he used to go to his uncle’s farm in the summertime. When I was a boy, I lived in an apartment building on New York Avenue that was directly across the street from where my dad’s uncle’s farm had been, only then it was another apartment building. Today I can view those buildings on Google, marvel at how different they are from my memories, and how much different they are from what my dad could remember. I wonder if they will be there 100 years from now, or if they’ll just be underwater due to global warming and higher sea levels.
+Fred, all the best to you from a fellow Brooklynite, and thanks for all the great reading you have given me as both an author and an editor.
+Art Horan
+Belton, Texas (via Flatbush, Brooklyn)
+June 2, 2013, 11:25 pm
 
 **WordPress**
 **TWTFB2**

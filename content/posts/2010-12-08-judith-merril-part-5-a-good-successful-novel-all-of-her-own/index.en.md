@@ -4,6 +4,10 @@ date: 2010-12-08
 categories: ["Authors", "Books", "Personal", "Writing"]
 tags: ["Agents", "Editors", "Films", "Futurians", "Judith Merril", "Katherine MacLean", "New York", "Television", "Walter Bradbury"]
 archive_url: "https://web.archive.org/web/20130401000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-5-a-good-successful-novel-all-of-her-own/"
+prev_post_url: "/posts/2010-12-07-fletcher-pratt/"
+prev_post_title: "Fletcher Pratt"
+next_post_url: "/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/"
+next_post_title: "Mary Byers Kornbluth, Part 1: A Fan is Born"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Fletcher Pratt**
-**Mary Byers Kornbluth, Part 1: A Fan is Born**
 
 ## Judith Merril, Part 5:A Good, Successful Novel All of Her Own
 
@@ -51,13 +53,18 @@ It all happened, too.  The movie did get made, quite well.  It was a success.  I
 
 **Related posts:**  
 
-**Judith Merril,** **Part 1**, **Part 2**, **Part 3**, **Part 4**,  **Part 6**, **Part 7**, **Part 8**, **Part 9**
+**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/),  [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### 2 Comments
 
-- Robert Nowallsays:“Shadow on the Hearth” was one of those books that, it seems, I heard a lot about, but never turned up a copy to read.  I’ve spent a lot of my youth poking through used bookstores and turned up a lot, but not that particular title.  It didn’t seem particularly rare or anything—it just never turned up.Somehow I still regret not finding it—the idea sounded interesting and appealing—though, these days, I’m probably not motivated enough to follow the link above and buy it.  (Besides, I have the fixed idea that used copies of a book should be half the original cover price—comes from working in one of those used bookstores.)December 8, 2010, 6:19 am
-- Gregsays:So… Would the house have been on Ohayo mountain?December 8, 2010, 12:40 pm
+- Robert Nowall says:
+“Shadow on the Hearth” was one of those books that, it seems, I heard a lot about, but never turned up a copy to read.  I’ve spent a lot of my youth poking through used bookstores and turned up a lot, but not that particular title.  It didn’t seem particularly rare or anything—it just never turned up.
+Somehow I still regret not finding it—the idea sounded interesting and appealing—though, these days, I’m probably not motivated enough to follow the link above and buy it.  (Besides, I have the fixed idea that used copies of a book should be half the original cover price—comes from working in one of those used bookstores.)
+December 8, 2010, 6:19 am
+- Greg says:
+So… Would the house have been on Ohayo mountain?
+December 8, 2010, 12:40 pm
 
 **WordPress**
 **TWTFB2**

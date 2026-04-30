@@ -4,6 +4,10 @@ date: 2011-08-16
 categories: ["Personal"]
 tags: ["Alden H. Norton", "Dorothy LesTina", "Editors", "Frank A. Munsey", "Harold S. Goldsmith", "Harry Steeger", "Jane Littell", "Leslie Perri", "Mary Gnaedinger", "Olga Mae Quadland", "Poetry", "Prozines", "Publishing", "Pulps", "Robert Frost", "Rogers Terrill", "T.S. Eliot"]
 archive_url: "https://web.archive.org/web/20170901000000/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-5-there-and-back-again/"
+prev_post_url: "/posts/2011-08-14-bright-sayings-of-bright-people-no-18-hertzberg/"
+prev_post_title: "Bright Sayings of Bright People, No. 18: Hertzberg"
+next_post_url: "/posts/2011-08-18-popular-publications-part-6-deadlines/"
+next_post_title: "Popular Publications, Part 6: Deadlines"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 18: Hertzberg**
-**Popular Publications, Part 6: Deadlines**
 
 ## Popular Publications, Part 5: There and Back Again
 
@@ -51,7 +53,7 @@ But that’s another story, and one that we haven’t come to yet.
 
 **Related posts:**
 
-- **Popular Publications**, **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 6**, **Part 7**
+- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 **WordPress**
 **TWTFB2**

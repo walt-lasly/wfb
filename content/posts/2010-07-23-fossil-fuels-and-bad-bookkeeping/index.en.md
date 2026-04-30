@@ -4,6 +4,10 @@ date: 2010-07-23
 categories: ["Miscellaneous", "Personal"]
 tags: ["Barack Obama", "Capitalism", "Ecology", "Isaac Asimov", "Our Angry Earth", "Politics"]
 archive_url: "https://web.archive.org/web/20220301000000/http://www.thewaythefutureblogs.com/2010/07/fossil-fuels-and-bad-bookkeeping/"
+prev_post_url: "/posts/2010-07-22-here-come-the-clowns-no-2-rep-joe-barton-r-texas-a-clown-among-clowns/"
+prev_post_title: "Here Come the Clowns No. 2:Rep. Joe Barton (R-Texas), A Clown Among Clowns"
+next_post_url: "/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/"
+next_post_title: "Si Nga PlltxeUniltìrantokx?(Do You SpeakAvatar?)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Here Come the Clowns No. 2:Rep. Joe Barton (R-Texas), A Clown Among Clowns**
-**Si Nga Plltxe Uniltìrantokx? (Do You Speak Avatar?)**
 
 ## Fossil Fuels and Bad Bookkeeping
 
@@ -21,7 +23,7 @@ Frederik Pohl
 {{< figure src="466181main_gulfcoast_ali_201.jpg" alt="Oil slick around Mississippi Barrier Islands (NASA E0-1 Satellite photo)." caption="Oil slick around Mississippi Barrier Islands (NASA E0-1 Satellite photo)." >}}
 
 
-Years ago, in collaboration with **Isaac Asimov**, I wrote a book on the environment called **Our Angry Earth**.  It wasn’t particularly successful.  I have to admit that it wasn’t quite as good a book as I could have wished, either.  Isaac got sick almost at the very moment we agreed to do it, and so he wasn’t able to do anywhere near as much of the writing as I had expected — to the detriment of the book.
+Years ago, in collaboration with [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), I wrote a book on the environment called **Our Angry Earth**.  It wasn’t particularly successful.  I have to admit that it wasn’t quite as good a book as I could have wished, either.  Isaac got sick almost at the very moment we agreed to do it, and so he wasn’t able to do anywhere near as much of the writing as I had expected — to the detriment of the book.
 
 ![Our Angry Earth](our-angry-earth.jpg)
 
@@ -106,17 +108,37 @@ Those among us who don’t want to be active in politics because it’s a dirty 
 
 ### 7 Comments
 
-- Michael A. Bursteinsays:Thank you for promoting involvement in local politics.  Nine years ago, I decided to get involved and I ran for my local Town Meeting; six years ago, I ran for Library Trustee. I still hold both positions, and I’m very proud of my involvement.As for the question of why we let oil and coal companies get away with so much, I will point out one problem you didn’t really touch on.  We as consumers want cheap energy, and until we convince people to support alternative energy resources, and possibly become willing to spend more on energy, the problem will continue to exist.July 23, 2010, 8:21 am
-- Kirksays:Thanks for mentioning the LWV sponsored debates.  I wasn’t aware of these, so got on the League’s email list to see when local debates might be held.July 23, 2010, 11:32 am
+- Michael A. Burstein says:
+Thank you for promoting involvement in local politics.  Nine years ago, I decided to get involved and I ran for my local Town Meeting; six years ago, I ran for Library Trustee. I still hold both positions, and I’m very proud of my involvement.
+As for the question of why we let oil and coal companies get away with so much, I will point out one problem you didn’t really touch on.  We as consumers want cheap energy, and until we convince people to support alternative energy resources, and possibly become willing to spend more on energy, the problem will continue to exist.
+July 23, 2010, 8:21 am
+- Kirk says:
+Thanks for mentioning the LWV sponsored debates.  I wasn’t aware of these, so got on the League’s email list to see when local debates might be held.
+July 23, 2010, 11:32 am
 - Stefan Jones says:
 Free market economists and manufacturers DO know how to deal with externalities.
 They ignore them, mock the people who are concerned about them, and fight tooth and nail against politicians who’d force them to pay attention to them.
 In the case of BP, they’re hiring up all the scientists who might testify against them in environmental liability suits. External costs? What’s that? Hey, look, our new commercial shows happy dolphins and manatees juggling balls to form the BP logo. See, BP really cares!
 July 23, 2010, 4:30 pm
-- Owen Glendowersays:Well-said, sir.  We perhaps need more laws specifying “cradle to grave” responsibility for certain pollutants.  Laws like these have done much to counter the “bad bookkeeping” to which you refer.Another example of bad bookkeeping: Most if not all of the time, we have a naval presence in the Persian Gulf.  I doubt that all of that cost shows up in the price at the pump.July 28, 2010, 11:03 am
-- Tat Woodsays:Sorry to nitpick, but referring to BP as ‘British Petroleum’ is inaccurate and unhelpful. It’s not been that since around the time of the Amoco takeover. Well over 3/4 of the staff are Americans (although they helpfully retained an imbecile with an English accent to take the flack). A British-run BP would have had a board of directors who had grown up with the aftermath of the Torrey Canyon disaster and various other Welsh and Scottish beaches devastated by oil spills and would, not to put too fine a point on it,have a clue about safety and environmental risk.August 7, 2010, 5:16 pm
-- greggarioussays:In the book, The Untold Story of Milk, I’m told about a massive deliver of dairy cow feed that contained PBB’s (whatever; another highly toxic chemical). The cows and their milk were contaminated far beyond acceptable levels, but the FDA and the Michigan state department of agriculture first underplayed, then under-managed the problem. Their main interest was to protect the big feed supplier’s corporate market share, liability and image. The contamination continued for years, with many cows sick and underproducing or dead, and many people, including the farmers and the customers for the milk, also sick or dead.How could the agencies responsible for containing and managing such catastrophes do such a poor job of protecting the public and the small dairy farmers? Same as with BP: the FDA and state agency policy is to in fact protect the corporate interests that pay into their campaign funds and in other ways buy their favors (that’s right, bribery).We in the US often see media stories of the corruption in government in developing countries. Can there be any worse corruption of government than here in the US?It seems a whole sub-genre of science fiction is emerging, that depicts the old premise of ‘If this (corporate dominance of politics) continues.’ Paulo Bacibalupi’s Windup Girl winning awards is a sure sign of recognition for this sub-genre. Not so much post-apocalyptic, as post-total corporate dominance of the world.The true stories beneath the thin media crust are all around us and worsening. Molly Ivins ascribed to the cockroach theory: for every one crawling around out in the open, there are a hundred hiding in the wall. The BP spill is a drop in the bucket.August 8, 2010, 10:54 pm
-- Anton Sherwoodsays:Once upon a time (so I’ve heard), someone successfully sued a manufacturer for externalizing into a river; whereupon Congress, horrified that anyone other than itself should presume to stand in the way of Progress, forbade private lawsuits for pollution.Environmental regulation since then has been patches on patches, to mitigate that key blunder.Liability for oil spills is legislatively capped at some absurdly low figure.  Of course no one (but an economist, and who listens to them?) could ever have predicted that such legislation might affect the behavior of oil companies.August 9, 2010, 1:15 pm
+- Owen Glendower says:
+Well-said, sir.  We perhaps need more laws specifying “cradle to grave” responsibility for certain pollutants.  Laws like these have done much to counter the “bad bookkeeping” to which you refer.
+Another example of bad bookkeeping: Most if not all of the time, we have a naval presence in the Persian Gulf.  I doubt that all of that cost shows up in the price at the pump.
+July 28, 2010, 11:03 am
+- Tat Wood says:
+Sorry to nitpick, but referring to BP as ‘British Petroleum’ is inaccurate and unhelpful. It’s not been that since around the time of the Amoco takeover. Well over 3/4 of the staff are Americans (although they helpfully retained an imbecile with an English accent to take the flack). A British-run BP would have had a board of directors who had grown up with the aftermath of the Torrey Canyon disaster and various other Welsh and Scottish beaches devastated by oil spills and would, not to put too fine a point on it,have a clue about safety and environmental risk.
+August 7, 2010, 5:16 pm
+- greggarious says:
+In the book, The Untold Story of Milk, I’m told about a massive deliver of dairy cow feed that contained PBB’s (whatever; another highly toxic chemical). The cows and their milk were contaminated far beyond acceptable levels, but the FDA and the Michigan state department of agriculture first underplayed, then under-managed the problem. Their main interest was to protect the big feed supplier’s corporate market share, liability and image. The contamination continued for years, with many cows sick and underproducing or dead, and many people, including the farmers and the customers for the milk, also sick or dead.
+How could the agencies responsible for containing and managing such catastrophes do such a poor job of protecting the public and the small dairy farmers? Same as with BP: the FDA and state agency policy is to in fact protect the corporate interests that pay into their campaign funds and in other ways buy their favors (that’s right, bribery).
+We in the US often see media stories of the corruption in government in developing countries. Can there be any worse corruption of government than here in the US?
+It seems a whole sub-genre of science fiction is emerging, that depicts the old premise of ‘If this (corporate dominance of politics) continues.’ Paulo Bacibalupi’s Windup Girl winning awards is a sure sign of recognition for this sub-genre. Not so much post-apocalyptic, as post-total corporate dominance of the world.
+The true stories beneath the thin media crust are all around us and worsening. Molly Ivins ascribed to the cockroach theory: for every one crawling around out in the open, there are a hundred hiding in the wall. The BP spill is a drop in the bucket.
+August 8, 2010, 10:54 pm
+- Anton Sherwood says:
+Once upon a time (so I’ve heard), someone successfully sued a manufacturer for externalizing into a river; whereupon Congress, horrified that anyone other than itself should presume to stand in the way of Progress, forbade private lawsuits for pollution.
+Environmental regulation since then has been patches on patches, to mitigate that key blunder.
+Liability for oil spills is legislatively capped at some absurdly low figure.  Of course no one (but an economist, and who listens to them?) could ever have predicted that such legislation might affect the behavior of oil companies.
+August 9, 2010, 1:15 pm
 
 **WordPress**
 **TWTFB2**

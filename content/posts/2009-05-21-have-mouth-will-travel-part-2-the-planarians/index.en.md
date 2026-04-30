@@ -4,6 +4,10 @@ date: 2009-05-21
 categories: ["Personal", "Science"]
 tags: ["Jack Williamson", "James V. McConnell", "Psychology", "Theodore Kaczynski", "Thomas D. Clareson"]
 archive_url: "https://web.archive.org/web/20090722100831/http://www.thewaythefutureblogs.com/2009/05/have-mouth-will-travel-part-2-the-planarians/"
+prev_post_url: "/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
+prev_post_title: "Have Mouth, Will Travel, Part 1: The Lecture Biz"
+next_post_url: "/posts/2009-05-26-have-mouth-will-travel-part-3-inventing-cryonics/"
+next_post_title: "Have Mouth, Will Travel, Part 3: Inventing Cryonics"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Have Mouth, Will Travel, Part 1: The Lecture Biz**
-**Have Mouth, Will Travel, Part 3: Inventing Cryonics**
 
 ## Have Mouth, Will Travel, Part 2: The Planarians
 
@@ -56,10 +58,18 @@ But by then I had moved on to other subjects anyway, because a generous Providen
 
 ### 4 Comments
 
-- Stefan Jonessays:Larry Niven used the “memory RNA” notion in one of his better stories. “The Fourth Profession” I believe.May 21, 2009, 3:18 pm
-- Marcsays:Memory RNA and its possible uses is a beautiful concept. Sadly? it ‘seems’ Ockham’s razor (my favour law, which I use daily with great glee) triumphs again. Ironically Ockham’s “Theory of knowledge” touched remarkably close to memory RNA back in medieval times.May 23, 2009, 6:54 am
-- Nixsays:Maybe Niven used it in _The Fourth Profession_ (transferrable memory yes, not sure about memory RNA, and I’m fairly sure that can’t give you the ability to do miracles), but memory RNA was *definitely* used in  _Rammer_, which became the first part of _A World Out Of Time_. Definitely one of Niven’s better works, gave me sensawunda like nothing he’d done since _Ringworld_.May 23, 2009, 4:32 pm
-- Brucesays:I hadn’t thought about planaria since my biology course in high school. At first I thought “The Planarians” was a parody science fiction fan club… Back on topic: it’s too bad learning by eating didn’t pan out. That whole concept struck me as a little “off” when I heard about it, but it would’ve been so convenient to rationalize some ancient human traditions about gaining the power of your prey by eating it.May 25, 2009, 6:15 am
+- Stefan Jones says:
+Larry Niven used the “memory RNA” notion in one of his better stories. “The Fourth Profession” I believe.
+May 21, 2009, 3:18 pm
+- Marc says:
+Memory RNA and its possible uses is a beautiful concept. Sadly? it ‘seems’ Ockham’s razor (my favour law, which I use daily with great glee) triumphs again. Ironically Ockham’s “Theory of knowledge” touched remarkably close to memory RNA back in medieval times.
+May 23, 2009, 6:54 am
+- Nix says:
+Maybe Niven used it in _The Fourth Profession_ (transferrable memory yes, not sure about memory RNA, and I’m fairly sure that can’t give you the ability to do miracles), but memory RNA was *definitely* used in  _Rammer_, which became the first part of _A World Out Of Time_. Definitely one of Niven’s better works, gave me sensawunda like nothing he’d done since _Ringworld_.
+May 23, 2009, 4:32 pm
+- Bruce says:
+I hadn’t thought about planaria since my biology course in high school. At first I thought “The Planarians” was a parody science fiction fan club… Back on topic: it’s too bad learning by eating didn’t pan out. That whole concept struck me as a little “off” when I heard about it, but it would’ve been so convenient to rationalize some ancient human traditions about gaining the power of your prey by eating it.
+May 25, 2009, 6:15 am
 
 **WordPress**
 **TWTFB**

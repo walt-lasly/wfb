@@ -4,6 +4,10 @@ date: 2013-04-27
 categories: ["Authors", "Personal"]
 tags: ["Conventions", "Editors", "Elizabeth Anne Hull", "Food", "Joseph D. Olander", "Martin H. Greenberg", "Mary Kenny Badami", "Samuel R. Delany", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20180601000000/http://www.thewaythefutureblogs.com/2013/04/arrival-part-4-the-party-plan/"
+prev_post_url: "/posts/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/"
+prev_post_title: "Bright Sayings of Bright People, No. 44: Warhol"
+next_post_url: "/posts/2013-04-29-the-manuscripts-that-wouldn-t-die/"
+next_post_title: "The Manuscripts That Wouldn’t Die"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 44: Warhol**
-**The Manuscripts That Wouldn’t Die**
 
 ## Arrival, Part 4: The Party Plan
 
@@ -80,21 +82,32 @@ She gave me a look, but it wasn’t a hostile one.  Since I was sitting on a has
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 6: The Deal
-- Arrival, Part 7: Departure
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
 
 
 ### 5 Comments
 
-- Stefan Jonessays:I’m pretty sure this is going to end with an ad in Locus!April 28, 2013, 7:51 pm
-- Kensays:Ah, young love, c’est tres bien, n’est-pas? Well, 50ish young, which now that I’ve turned 50 totally counts. The madamoiselle excepted of course, she was indeed young.An improbable tale of Kansas City lodgings and copious foot rubbing, even a Grand Master could not invent such a story. Congratulations on your long and happy time together!April 28, 2013, 10:07 pm
-- Gregory Benfordsays:this is fun!April 28, 2013, 10:21 pm
-- John Armstrongsays:NIce, Fred –  never heard any of this before .April 29, 2013, 10:23 am
-- Steve Hsays:Great stuff, Fred. Life is one long story, and you’ve always been a story-teller. It’s a natural advantage.May 2, 2013, 2:17 pm
+- Stefan Jones says:
+I’m pretty sure this is going to end with an ad in Locus!
+April 28, 2013, 7:51 pm
+- Ken says:
+Ah, young love, c’est tres bien, n’est-pas? Well, 50ish young, which now that I’ve turned 50 totally counts. The madamoiselle excepted of course, she was indeed young. 
+An improbable tale of Kansas City lodgings and copious foot rubbing, even a Grand Master could not invent such a story. Congratulations on your long and happy time together!
+April 28, 2013, 10:07 pm
+- Gregory Benford says:
+this is fun!
+April 28, 2013, 10:21 pm
+- John Armstrong says:
+NIce, Fred –  never heard any of this before .
+April 29, 2013, 10:23 am
+- Steve H says:
+Great stuff, Fred. Life is one long story, and you’ve always been a story-teller. It’s a natural advantage.
+May 2, 2013, 2:17 pm
 
 **WordPress**
 **TWTFB2**

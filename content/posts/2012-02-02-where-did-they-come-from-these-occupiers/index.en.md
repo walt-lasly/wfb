@@ -4,6 +4,10 @@ date: 2012-02-02
 categories: ["Miscellaneous"]
 tags: ["Media", "New York", "Politics"]
 archive_url: "https://web.archive.org/web/20171101000000/http://www.thewaythefutureblogs.com/2012/02/where-did-they-come-from-these-occupiers/"
+prev_post_url: "/posts/2012-01-31-a-j-budrys-hits-his-stride/"
+prev_post_title: "A J Budrys Hits His Stride"
+next_post_url: "/posts/2012-02-05-bright-sayings-of-bright-people-no-25/"
+next_post_title: "Bright Sayings of Bright People, No. 25"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**A J Budrys Hits His Stride**
-**Bright Sayings of Bright People, No. 25**
 
 ## Where did they come from, these ‘Occupiers’?
 
@@ -41,13 +43,37 @@ The tents and sleeping bags were hauled away in a midnight raid, so that technic
 
 ### 7 Comments
 
-- Gregosays:Theincident where University of California-Davis Police officer and former Marine Sargent Lieutenant John Pike pepper sprayed the seated, nonviolent studentshappened on the UC Davis campus on Nov 18, 2011.Wikipedia has asummary of police epic fails with regard to the Occupy movement, but they miss some lovely stuff like theofficer purposely running over a guy and parking his motorcycle on the man’s footand thepolice in Berkeley, CA beating peacefully protesting students, professors and Nobel Laureates.February 2, 2012, 2:23 am
-- Robert Nowallsays:I’m gonna say what I should’a said the last time you brought this up.  The next time the Occupy Wall Streeters get caught defecating on someone’s car, may it be yours.February 2, 2012, 8:29 am
-- Mosays:Robert: the next time the regular denizens of Wall St get caught defecating on someone’s economy, may it be yours.Oh, but that already happened, didn’t it?February 3, 2012, 10:44 am
-- Stevensays:Of course Robert, ALL Occupy members do that, right? And no one on the other side bombs abortion clinics, shoots doctors, or government buildings. Remember Timothy McVeigh?–and yes, these all represent extreme actions and/or views that do not represent that of the right as a whole, nor even that of the militia or Pro Life movements, but just comparing apples to apples here.February 3, 2012, 11:25 am
-- Dan Gollubsays:All power to the party. All power to our revolutionary leaders. All power to our revolutionary followers. Together we shall use our electric toothbrushes and take vitamin C. And then the party will be over.February 3, 2012, 2:29 pm
-- Bruce Arthurssays:Robert, the person most likely to shit on your car or other property is a rich person.I mean that literally.  For the last three years, I’ve worked security at a very upscale shopping/office development in Scottsdale, AZ.  The customers there are one-percenters and wanna-be one-percenters.  Previous to working there, I did security at mid-range shopping centers, with big-box stores, WalMarts, etc.The upscale place is the ONLY place where public defecation has been a problem.  Frequently enough that I call the late-night sweep on the parking garages’ roof levels “The Turd Patrol”.I’ve also had to deal with public urination (four times in two hours, one bad night), public sex acts, and way too many drunkfights.Again, these are things I never saw, or saw a lot less frequently, at the middle-range properties.It’s an attitude I’ve come to call Scottsdale Syndrome: “I drive a BMW, so fuck you.”  Too much money, too much privilege = too much bad behavior.The property management there is moving to an in-house security team, rather than the contracted service I’m part of, so tonight will actually be the last night I’ll be working there.  Don’t know where my next job will be, or when my next paycheck will be, but the strongest feeling I have about leaving there is relief.February 5, 2012, 12:22 pm
-- Richardsays:Robert, someone disagrees with you politically and you literally wish that person excrement.  What’s more, you come around to the blog of someone you disdain purely to harass him and the rest of us.  If this is your attempt to persuade anyone that your views are intelligent and thoughtful, or to persuade us not to dismiss you as a ranting crank, may I suggest you are not your own best advocate?(And there ends my first and last feeding of the troll.)For the record, anyone else, that guy who took a dump on a police car was almost certainly a mentally ill homeless person hanging around the park at the time — something tragically common in New York City parks.  (Mentally ill people were in fact directed to Zuccotti Park by the police to increase the aggravation factor and to spark conflicts.)  There was never anything linking him to OWS and no one there seems to have known of him, but a conveniently well-timed photo provided a useful visual with which to slur the Occupy movement.  And that’s really all there was to that.February 6, 2012, 1:59 am
+- Grego says:
+The incident where University of California-Davis Police officer and former Marine Sargent Lieutenant John Pike pepper sprayed the seated, nonviolent students happened on the UC Davis campus on Nov 18, 2011.
+Wikipedia has a summary of police epic fails with regard to the Occupy movement, but they miss some lovely stuff like the officer purposely running over a guy and parking his motorcycle on the man’s foot and the  police in Berkeley, CA beating peacefully protesting students, professors and Nobel Laureates.
+February 2, 2012, 2:23 am
+- Robert Nowall says:
+I’m gonna say what I should’a said the last time you brought this up.  The next time the Occupy Wall Streeters get caught defecating on someone’s car, may it be yours.
+February 2, 2012, 8:29 am
+- Mo says:
+Robert: the next time the regular denizens of Wall St get caught defecating on someone’s economy, may it be yours.
+Oh, but that already happened, didn’t it?
+February 3, 2012, 10:44 am
+- Steven says:
+Of course Robert, ALL Occupy members do that, right? And no one on the other side bombs abortion clinics, shoots doctors, or government buildings. Remember Timothy McVeigh?–and yes, these all represent extreme actions and/or views that do not represent that of the right as a whole, nor even that of the militia or Pro Life movements, but just comparing apples to apples here.
+February 3, 2012, 11:25 am
+- Dan Gollub says:
+All power to the party. All power to our revolutionary leaders. All power to our revolutionary followers. Together we shall use our electric toothbrushes and take vitamin C. And then the party will be over.
+February 3, 2012, 2:29 pm
+- Bruce Arthurs says:
+Robert, the person most likely to shit on your car or other property is a rich person.
+I mean that literally.  For the last three years, I’ve worked security at a very upscale shopping/office development in Scottsdale, AZ.  The customers there are one-percenters and wanna-be one-percenters.  Previous to working there, I did security at mid-range shopping centers, with big-box stores, WalMarts, etc.
+The upscale place is the ONLY place where public defecation has been a problem.  Frequently enough that I call the late-night sweep on the parking garages’ roof levels “The Turd Patrol”.
+I’ve also had to deal with public urination (four times in two hours, one bad night), public sex acts, and way too many drunkfights.
+Again, these are things I never saw, or saw a lot less frequently, at the middle-range properties.
+It’s an attitude I’ve come to call Scottsdale Syndrome: “I drive a BMW, so fuck you.”  Too much money, too much privilege = too much bad behavior.
+The property management there is moving to an in-house security team, rather than the contracted service I’m part of, so tonight will actually be the last night I’ll be working there.  Don’t know where my next job will be, or when my next paycheck will be, but the strongest feeling I have about leaving there is relief.
+February 5, 2012, 12:22 pm
+- Richard says:
+Robert, someone disagrees with you politically and you literally wish that person excrement.  What’s more, you come around to the blog of someone you disdain purely to harass him and the rest of us.  If this is your attempt to persuade anyone that your views are intelligent and thoughtful, or to persuade us not to dismiss you as a ranting crank, may I suggest you are not your own best advocate?
+(And there ends my first and last feeding of the troll.)
+For the record, anyone else, that guy who took a dump on a police car was almost certainly a mentally ill homeless person hanging around the park at the time — something tragically common in New York City parks.  (Mentally ill people were in fact directed to Zuccotti Park by the police to increase the aggravation factor and to spark conflicts.)  There was never anything linking him to OWS and no one there seems to have known of him, but a conveniently well-timed photo provided a useful visual with which to slur the Occupy movement.  And that’s really all there was to that.
+February 6, 2012, 1:59 am
 
 **WordPress**
 **TWTFB2**

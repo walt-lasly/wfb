@@ -4,6 +4,8 @@ date: 2012-07-31
 categories: ["Authors"]
 tags: ["Ben Bova", "Carol Pohl", "Damon Knight", "Elizabeth Anne Hull", "Harlan Ellison", "New York", "Prozines", "Robert Sheckley", "William Tenn"]
 archive_url: "https://web.archive.org/web/20160702093614/http://www.thewaythefutureblogs.com/2012/07/robert-sheckley/"
+prev_post_url: "/posts/2012-07-30-ben-bova-from-nuts-and-bolts-to-eternity/"
+prev_post_title: "Ben Bova: From Nuts and Bolts to Eternity"
 translated: false
 ---
 
@@ -12,8 +14,6 @@ translated: false
 
 Frederik Pohl
 
-**Ben Bova: From Nuts and Bolts to Eternity**
-**Bright Sayings of Bright People, No. 34: Keynes**
 
 ## Robert Sheckley:If the Marx Brothers Had Been Writers…
 
@@ -83,13 +83,29 @@ I miss Bob.  He was a lot of fun, but mostly for others and maybe not so much fo
 
 ### 7 Comments
 
-- EdSsays:Robert Sheckley was an hilarious writer. I remember reading his stuff when I was young, a lot of it now collected in two volumes from NESFA press. Highly recommended.August 1, 2012, 2:09 pm
-- steve davidsonsays:‘Can You Feel Anything When I Do This?’ was a total eye-opener for me when I first read it.  It’s the first SF story I ever read that showed me it was possible for SF to “handle” more mature themes.  And funny?  It’s the definition of comedic SF.Thanks for reminding usAugust 2, 2012, 7:49 am
-- Kensays:That’s the trouble with giving honest advice, people always insist they want it, but half the time end up blaming you for whatever decision they make.August 2, 2012, 6:26 pm
-- John C. Bolandsays:What a treat. Thank you.August 7, 2012, 9:38 am
-- Silvio Sosiosays:I met Robert Sheckley a couple of times here in Italy, few years before he died. He had been in my house and smoked cigarettes on my balcony. To me he was like an Indian guru. He looked as if he had experience of all the things in the world, all the sufferings and all the pleasures, and nothing really mattered for him anymore. One night we went downtown to eat a pizza, and there was no parking and I had to park a long way from the restaurant, and we – the young ones – were pissed off of that, but he, who looked even elder than he was, didn’t mind at all. He walked for about two kilometres without complaining, chatting with us, with few words, as always.August 8, 2012, 3:44 pm
-- Ellen Datlowsays:Bob was blocked for years.  He got the OMNI job and held it for 1 ½ years or so. Jay Rothbell and he started dating and he started writing again. He asked for a two month leave of absence, which he got the summer of 1980. In September he asked for another month’s leave of absence. Ben said no so Bob left and I was promoted Fiction Editor, after being Associate fiction editor for the entire time Bob was there.End of story.August 17, 2012, 3:00 pm
-- James Van Hisesays:You kind of left out Sheckley’s drug problems, which no one seems to want to talk about. Even after he died the obituaries would dance around it and try not to come right out and say that this was why he was blocked. Some 30 years ago Douglas Adams (who had just become an overnight success and a bestselling SF writer) gave a guest of honor talk at a convention and he came right out and said that he was doing the kind of writing that Robert Sheckley would be doing if he hadn’t burned himself out on drugs.September 4, 2012, 7:14 pm
+- EdS says:
+Robert Sheckley was an hilarious writer. I remember reading his stuff when I was young, a lot of it now collected in two volumes from NESFA press. Highly recommended.
+August 1, 2012, 2:09 pm
+- steve davidson says:
+‘Can You Feel Anything When I Do This?’ was a total eye-opener for me when I first read it.  It’s the first SF story I ever read that showed me it was possible for SF to “handle” more mature themes.  And funny?  It’s the definition of comedic SF.
+Thanks for reminding us
+August 2, 2012, 7:49 am
+- Ken says:
+That’s the trouble with giving honest advice, people always insist they want it, but half the time end up blaming you for whatever decision they make.
+August 2, 2012, 6:26 pm
+- John C. Boland says:
+What a treat. Thank you.
+August 7, 2012, 9:38 am
+- Silvio Sosio says:
+I met Robert Sheckley a couple of times here in Italy, few years before he died. He had been in my house and smoked cigarettes on my balcony. To me he was like an Indian guru. He looked as if he had experience of all the things in the world, all the sufferings and all the pleasures, and nothing really mattered for him anymore. One night we went downtown to eat a pizza, and there was no parking and I had to park a long way from the restaurant, and we – the young ones – were pissed off of that, but he, who looked even elder than he was, didn’t mind at all. He walked for about two kilometres without complaining, chatting with us, with few words, as always.
+August 8, 2012, 3:44 pm
+- Ellen Datlow says:
+Bob was blocked for years.  He got the OMNI job and held it for 1 ½ years or so. Jay Rothbell and he started dating and he started writing again. He asked for a two month leave of absence, which he got the summer of 1980. In September he asked for another month’s leave of absence. Ben said no so Bob left and I was promoted Fiction Editor, after being Associate fiction editor for the entire time Bob was there.
+End of story.
+August 17, 2012, 3:00 pm
+- James Van Hise says:
+You kind of left out Sheckley’s drug problems, which no one seems to want to talk about. Even after he died the obituaries would dance around it and try not to come right out and say that this was why he was blocked. Some 30 years ago Douglas Adams (who had just become an overnight success and a bestselling SF writer) gave a guest of honor talk at a convention and he came right out and said that he was doing the kind of writing that Robert Sheckley would be doing if he hadn’t burned himself out on drugs.
+September 4, 2012, 7:14 pm
 
 **WordPress**
 **TWTFB2**

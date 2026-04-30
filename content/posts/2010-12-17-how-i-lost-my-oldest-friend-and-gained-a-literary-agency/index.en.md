@@ -4,6 +4,10 @@ date: 2010-12-17
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Arthur C. Clarke", "C.M. Kornbluth", "Clubs", "Damon Knight", "Dirk Wylie", "Donald A. Wollheim", "Futurians", "Medicine", "Publishing", "Richard Wilson", "Rosalind Cohen", "Scott Meredith", "World War II"]
 archive_url: "https://web.archive.org/web/20220601000000/http://www.thewaythefutureblogs.com/2010/12/how-i-lost-my-oldest-friendand-gained-a-literary-agency/"
+prev_post_url: "/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
+prev_post_title: "Mary Kornbluth, Part 2: The Death of Cyril"
+next_post_url: "/posts/2010-12-18-mary-kornbluth-part-3-anthologist/"
+next_post_title: "Mary Kornbluth, Part 3: Anthologist"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Mary Kornbluth, Part 2: The Death of Cyril**
-**Mary Kornbluth, Part 3: Anthologist**
 
 ## How I Lost My Oldest Friend(and Gained a Literary Agency)
 
@@ -80,13 +82,15 @@ There’s not much more to tell on the story of my old pal Dirk Wylie.  But as t
 
 **Related posts:**
 
-- Let There Be Fandom, Part 2: School Days
-- What My Clients Thought
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**What My Clients Thought**](/posts/2010-11-28-what-my-clients-thought/)
 
 
 ### One Comment
 
-- Stefan Jonessays:When I read about Wylie and Kornbluth, and think about the physical damage they suffered in the war and how it shortened their lives . . . how many stories like theirs must be playing out now? Stuff that you don’t read about in most SF war stories.December 17, 2010, 11:51 pm
+- Stefan Jones says:
+When I read about Wylie and Kornbluth, and think about the physical damage they suffered in the war and how it shortened their lives . . . how many stories like theirs must be playing out now? Stuff that you don’t read about in most SF war stories.
+December 17, 2010, 11:51 pm
 
 **WordPress**
 **TWTFB2**

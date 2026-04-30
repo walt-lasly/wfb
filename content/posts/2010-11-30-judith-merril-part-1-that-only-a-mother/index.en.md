@@ -4,6 +4,10 @@ date: 2010-11-30
 categories: ["Authors", "Books", "Personal"]
 tags: ["Agents", "Charles N. Brown", "Dogs", "Dorothy LesTina", "Editors", "Emily Pohl-Weary", "Fanzines", "Futurians", "Gerry Schuster", "Hugo Awards", "Ian and Betty Ballantine", "John W. Campbell", "Judith Merril", "Merril Zissman", "New York", "Prozines", "Publishing", "Robert Silverberg", "Scott Meredith", "Sexuality", "Shakespeare", "The Way the Future Was"]
 archive_url: "https://web.archive.org/web/20160416114010/http://www.thewaythefutureblogs.com/2010/11/judith-merril-part-1-that-only-a-mother/"
+prev_post_url: "/posts/2010-11-29-wag-the-dog/"
+prev_post_title: "‘Wag the Dog’"
+next_post_url: "/posts/2010-12-01-the-high-line/"
+next_post_title: "The High Line"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**‘Wag the Dog’**
-**The High Line**
 
 ## Judith Merril, Part 1: ‘That Only a Mother’
 
@@ -86,12 +88,14 @@ So it wound up with John Campbell buying it for his magazine. That wasn’t the 
 
 **Related posts:**  
 
-**Judith Merril,** **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**, **Part 8**, **Part 9**
+**Judith Merril,** [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### 6 Comments
 
-- Qsays:Thank you for all the reminisces that you share with grateful fans!November 30, 2010, 5:00 am
+- Q says:
+Thank you for all the reminisces that you share with grateful fans!
+November 30, 2010, 5:00 am
 - CaitieCat says:
 I had the enormous good fortune of meeting Ms. Merril twice in my life, once when I was 13, and again shortly before she passed.
 When I was 13, I went down to the newly-opened Science Fiction Library that she’d founded among the buildings of the University of Toronto.  I walked along the hall that lead to the small room full of delicious sf/f, and as I did, noticed through an open door that a lady I recognized from the TV was in an office.
@@ -100,8 +104,12 @@ She steered me to Stephen R. Donaldson’s Lord Foul’s Bane, the first of the 
 I met her once more before she passed, wandering around the IKEA in north Toronto; she was using a wheelchair, and had an attendant with her.  I spoke to her briefly, thanked her for the recommendation (which had led me to so much more!).  She even remembered me, more to my surprise.
 Thank you for writing more about her.  I’ve always been very interested in reading her work, and about her life.  She’s one of my heroes, along with Jane Jacobs, as women who wrote in fields traditionally thought of as “men’s”.
 November 30, 2010, 11:30 am
-- Stefan Jonessays:This is probably a longshot, but while living in the Village did you ever eat in a place called Fugazzi’s?November 30, 2010, 3:04 pm
-- Emilysays:Have I mentioned how much I love that you’re blogging? I get to keep up with your life remotely. Plus, I don’t have any friends whose 91-year-old grandfathers blog. Ha! Great post about Judy and I adore that photo of her. XO and miss ya, EmNovember 30, 2010, 10:40 pm
+- Stefan Jones says:
+This is probably a longshot, but while living in the Village did you ever eat in a place called Fugazzi’s?
+November 30, 2010, 3:04 pm
+- Emily says:
+Have I mentioned how much I love that you’re blogging? I get to keep up with your life remotely. Plus, I don’t have any friends whose 91-year-old grandfathers blog. Ha! Great post about Judy and I adore that photo of her. XO and miss ya, Em
+November 30, 2010, 10:40 pm
 - Ann Pohl says:
 Hello Father — I agree with Emilina. It’s REALLY cool to have a 91 year old (great-grand)father who is blogging about the past for the future… 
 “That Only a Mother” was a deep influence on me, seeing as it was my own mother who wrote it. I have read the story many, many times — and always felt “that baby could have been me.” Equally so with her Shadow on the Hearth.  
@@ -110,7 +118,9 @@ To my way of thinking, in those days in America, sci-fi was an enormously import
 In the early ’60’s, I lost my taste for seeing these desperate facts fictionalized (or as I see it candy-coated). My personal favourites of your works, Pops,  are Chernobyl and Our Angry Earth. Works like these should have been compulsory reading in high school science back when they were published.
 RIP Judith. You tried to wake up The People. As did all of you in the genre at the time. Thanks Pops, for keeping on keeping on. 
 December 1, 2010, 7:27 am
-- Keithsays:I’ve never had the honor of meeting Judy but I’ve read her SF stories and yours. The last one I read of yours was ‘O Pioneer’ in the library which it took about an hour from start to finish. Emily’s my mentor and good friend, she’s probably the closest I’ll ever get to meeting a famous writer. ~Hey, Em how goes it.~ I’ve always wanted to do that.July 11, 2011, 9:56 am
+- Keith says:
+I’ve never had the honor of meeting Judy but I’ve read her SF stories and yours. The last one I read of yours was ‘O Pioneer’ in the library which it took about an hour from start to finish. Emily’s my mentor and good friend, she’s probably the closest I’ll ever get to meeting a famous writer. ~Hey, Em how goes it.~ I’ve always wanted to do that.
+July 11, 2011, 9:56 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2012-05-15
 categories: ["Personal"]
 tags: ["Academics", "Catherine Pizarro", "Elizabeth Anne Hull", "Tony Pizarro"]
 archive_url: "https://web.archive.org/web/20250501000000/http://www.thewaythefutureblogs.com/2012/05/blog-helper-out-gets-degree/"
+prev_post_url: "/posts/2012-05-13-bright-sayings-of-bright-people-no-32/"
+prev_post_title: "Bright Sayings of Bright People, No. 32"
+next_post_url: "/posts/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/"
+next_post_title: "Kathy Keeton: The Best-Looking SF Editor Ever"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 32**
-**Kathy Keeton: The Best-Looking SF Editor Ever**
 
 ## Blog Helper-Out Gets Degree
 
@@ -29,12 +31,27 @@ Cathy Pizarro, Betty’s oldest daughter, who helps Betty and me deal with compu
 
 ### 6 Comments
 
-- JJ Brannonsays:Congratulations to her.You’re both inspirations to those of us who have yet to decide what we’re going to be when we grow up.It’s never too late!JJBMay 15, 2012, 11:32 pm
-- Paul Wolfsays:Congratulations!  I hope she feels proud of herself!May 16, 2012, 12:12 am
-- Don Sakerssays:Congratulations, Cathy!May 16, 2012, 10:50 am
-- Ken Houghtonsays:Mazel tov! (And sadness about why she’s in Chicago instead of New York.)May 16, 2012, 1:48 pm
-- James Flanagansays:Wonderful!!!May 17, 2012, 1:38 am
-- Mike Goldbergsays:Congratulations!May 17, 2012, 9:15 am
+- JJ Brannon says:
+Congratulations to her.
+You’re both inspirations to those of us who have yet to decide what we’re going to be when we grow up.
+It’s never too late!
+JJB
+May 15, 2012, 11:32 pm
+- Paul Wolf says:
+Congratulations!  I hope she feels proud of herself!
+May 16, 2012, 12:12 am
+- Don Sakers says:
+Congratulations, Cathy!
+May 16, 2012, 10:50 am
+- Ken Houghton says:
+Mazel tov! (And sadness about why she’s in Chicago instead of New York.)
+May 16, 2012, 1:48 pm
+- James Flanagan says:
+Wonderful!!!
+May 17, 2012, 1:38 am
+- Mike Goldberg says:
+Congratulations!
+May 17, 2012, 9:15 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2011-07-12
 categories: ["Authors"]
 tags: ["H.G. Wells", "Jack Williamson", "Joseph D. Olander", "Martin H. Greenberg"]
 archive_url: "https://web.archive.org/web/20131201000000/http://www.thewaythefutureblogs.com/2011/07/martin-harry-greenberg/"
+prev_post_url: "/posts/2011-07-11-yellowstone-on-the-isle-of-capri/"
+prev_post_title: "Yellowstone on the Isle of Capri"
+next_post_url: "/posts/2011-07-18-donald-a-wollheim-at-seventeen/"
+next_post_title: "Donald A. Wollheim (At Seventeen)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Yellowstone on the Isle of Capri**
-**Donald A. Wollheim (At Seventeen)**
 
 ## Martin Harry Greenberg (1941–2011)
 
@@ -95,13 +97,28 @@ Joe sniffed.  “You don’t recognize our patron saint?  You’ve just been awa
 
 ### 7 Comments
 
-- Joe Iriartesays:That’s a great story! 😀One tiny nerdish quibble: Alligator Alley doesn’t run between the airport and FIU. Alligator Alley is between Miami and the Naples/Fort Myers area.July 12, 2011, 1:28 am
+- Joe Iriarte says:
+That’s a great story! 😀
+One tiny nerdish quibble: Alligator Alley doesn’t run between the airport and FIU. Alligator Alley is between Miami and the Naples/Fort Myers area.
+July 12, 2011, 1:28 am
 - Bill Higgins-- Beam Jockey says:
 The only school that sounded like they might want to have me was a little one in, I think, Southern California, about which, my friend Jack Williamson said when I applied to him for advice, “The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”
 Hearing that from somebody who hails from Portales, New Mexico, you’ve got to take it seriously.
 July 12, 2011, 1:29 pm
-- Rodney Haydonsays:This is such a great post, thank you for sharing that great story. I am saddened to hear about the passing of Martin H. Greenberg. I have many anthologies on my shelves that he edited, like the Writers of the 21st Century Series that both Joe Olander and Martin edited. He will be missed.July 12, 2011, 4:43 pm
-- JohnArmstrongsays:There is one overwhelming advantage to living a long time, despite all of the disadvantages and random humiliations of the failing body – you meet some pretty damned nice peopleJuly 13, 2011, 7:12 pm
-- Kellysays:Herbert!  Herbert!  Herbert!(sorry, Trek flashback)July 13, 2011, 11:25 pm
-- H. E. Parmersays:I too have a half-dozen or more anthologies edited by Mr. Greenberg, sitting on my bookshelves. Thanks for this glimpse at the man behind the name. He obviously had good taste in friends, as well as SF.July 15, 2011, 1:02 am
-- Indisays:“The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”Don’t forget the beautiful So Cal weather. I’ve enjoyed visiting most areas of the country but I’ve always enjoyed getting back home.July 16, 2011, 1:54 am
+- Rodney Haydon says:
+This is such a great post, thank you for sharing that great story. I am saddened to hear about the passing of Martin H. Greenberg. I have many anthologies on my shelves that he edited, like the Writers of the 21st Century Series that both Joe Olander and Martin edited. He will be missed.
+July 12, 2011, 4:43 pm
+- JohnArmstrong says:
+There is one overwhelming advantage to living a long time, despite all of the disadvantages and random humiliations of the failing body – you meet some pretty damned nice people
+July 13, 2011, 7:12 pm
+- Kelly says:
+Herbert!  Herbert!  Herbert!
+(sorry, Trek flashback)
+July 13, 2011, 11:25 pm
+- H. E. Parmer says:
+I too have a half-dozen or more anthologies edited by Mr. Greenberg, sitting on my bookshelves. Thanks for this glimpse at the man behind the name. He obviously had good taste in friends, as well as SF.
+July 15, 2011, 1:02 am
+- Indi says:
+“The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”
+Don’t forget the beautiful So Cal weather. I’ve enjoyed visiting most areas of the country but I’ve always enjoyed getting back home.
+July 16, 2011, 1:54 am

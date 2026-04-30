@@ -4,6 +4,10 @@ date: 2010-08-16
 categories: ["Authors", "Personal"]
 tags: ["Conventions", "Dirk Wylie", "Jack Williamson", "Meteorology", "World War II", "Worldcons"]
 archive_url: "https://web.archive.org/web/20131228145617/http://www.thewaythefutureblogs.com/2010/08/jack-williamson-3/"
+prev_post_url: "/posts/2010-08-13-jack-the-wonderful-williamson-part-2/"
+prev_post_title: "Jack the Wonderful Williamson, Part 2"
+next_post_url: "/posts/2010-08-20-evolution-in-italy/"
+next_post_title: "Evolution in Italy"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Jack the Wonderful Williamson, Part 2**
-**Evolution in Italy**
 
 ## Jack the Wonderful Williamson, Part 3
 
@@ -56,12 +58,29 @@ None of that might have happened, though, if it hadn’t been sparked by what wa
 
 ### 6 Comments
 
-- Jerrysays:That’s quite a cliffhanger. I know how the story turns out because I have the books you two wrote together, but I can’t wait to hear how it happened.August 16, 2010, 2:42 pm
-- Tomsays:There was no such thing as the Air Force in 1943. It was the Army Air Corp then.August 17, 2010, 10:43 am
-- Bill Higgins-- Beam Jockeysays:Tom, I would not be so quick to correct a guy who was IN the “Air Force” in 1943.The Army Air Corps was superseded by then.  According to the Air Force Historical Association, “The Army Air Forces (AAF) came into being on June 20, 1941, six months before Pearl Harbor.”Seehttp://www.aafha.org/aaf_or_aircorps.htmlfor more.The United States Air Force– which you are probably thinking of– was created as a separate service, independent of the Army, in 1947.August 17, 2010, 6:00 pm
-- Miles Archersays:Hey, my dad was a weather observer on some island in the Pacific during WWII too. He was near Saipan, I think.August 17, 2010, 8:20 pm
-- Dwight Deckersays:A look at Wikipedia under United States Army Air Forces might clear up some confusion. The Army Air Corps became the Army Air Forces (USAAF) in 1941.http://en.wikipedia.org/wiki/United_States_Army_Air_ForcesAfter the war, of course, it was spun off into a separate branch as the US Air Force.August 19, 2010, 1:08 am
-- Betty Williamsonsays:Fred, thanks for sharing touching memories of your and Jack’s enduring friendship.  He always counted you as one of his closest and dearest friends.  You two shared so much, and you are treasured by our entire family.  We love you and miss you, and hope our paths will find a way to cross again.  Glad to see you are blogging!August 20, 2010, 9:16 pm
+- Jerry says:
+That’s quite a cliffhanger. I know how the story turns out because I have the books you two wrote together, but I can’t wait to hear how it happened.
+August 16, 2010, 2:42 pm
+- Tom says:
+There was no such thing as the Air Force in 1943. It was the Army Air Corp then.
+August 17, 2010, 10:43 am
+- Bill Higgins-- Beam Jockey says:
+Tom, I would not be so quick to correct a guy who was IN the “Air Force” in 1943.
+The Army Air Corps was superseded by then.  According to the Air Force Historical Association, “The Army Air Forces (AAF) came into being on June 20, 1941, six months before Pearl Harbor.”
+See http://www.aafha.org/aaf_or_aircorps.html for more.
+The United States Air Force– which you are probably thinking of– was created as a separate service, independent of the Army, in 1947.
+August 17, 2010, 6:00 pm
+- Miles Archer says:
+Hey, my dad was a weather observer on some island in the Pacific during WWII too. He was near Saipan, I think.
+August 17, 2010, 8:20 pm
+- Dwight Decker says:
+A look at Wikipedia under United States Army Air Forces might clear up some confusion. The Army Air Corps became the Army Air Forces (USAAF) in 1941.
+http://en.wikipedia.org/wiki/United_States_Army_Air_Forces
+After the war, of course, it was spun off into a separate branch as the US Air Force.
+August 19, 2010, 1:08 am
+- Betty Williamson says:
+Fred, thanks for sharing touching memories of your and Jack’s enduring friendship.  He always counted you as one of his closest and dearest friends.  You two shared so much, and you are treasured by our entire family.  We love you and miss you, and hope our paths will find a way to cross again.  Glad to see you are blogging!
+August 20, 2010, 9:16 pm
 
 **WordPress**
 **TWTFB2**

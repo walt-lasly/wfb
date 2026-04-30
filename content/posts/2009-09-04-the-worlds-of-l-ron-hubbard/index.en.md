@@ -4,6 +4,10 @@ date: 2009-09-04
 categories: ["Authors", "Books", "Miscellaneous", "Personal", "Travel", "Writing"]
 tags: ["Algis Budrys", "Editors", "How-to", "John W. Campbell", "Karl Marx", "L. Ron Hubbard", "Religion", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20200201000000/http://www.thewaythefutureblogs.com/2009/09/the-worlds-of-l-ron-hubbard/"
+prev_post_url: "/posts/2009-09-01-more-little-known-fun-facts/"
+prev_post_title: "More Little Known Fun Facts"
+next_post_url: "/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/"
+next_post_title: "The Worlds of L. Ron Hubbard, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**More Little Known Fun Facts**
-**The Worlds of L. Ron Hubbard, Part 2**
 
 ## The Worlds of L. Ron Hubbard
 
@@ -120,32 +122,101 @@ Personally, I don’t think we need to find explanations for any writer’s unev
 By the way, collectively the winners of Woffie awards have compiled an impressive record of sales to regular markets after they had won  their contests.  So whatever they were taught doesn’t seem at least to have done them any harm.  Few of them are writing anything that resembles any of Hubbard’s work, either, though, so perhaps I don’t need to warn winners to be careful of what they read.
 
 
-**Related post:** **The Worlds of L. Ron Hubbard, Part 2**
+**Related post:** [**The Worlds of L. Ron Hubbard, Part 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 
 ### 18 Comments
 
-- susannasays:I used to be a subscriber to this blog. I will unsubscribe now.September 4, 2009, 3:52 am
-- AnonForThissays:“…I’ve never heard it said that Scientologists have murdered anyone.”You might want to look up Lisa McPherson sometime.http://en.wikipedia.org/wiki/Lisa_McPhersonNormally I post under my real name, but I really don’t want to become Fair Game.  You might want to look up that term, too.http://en.wikipedia.org/wiki/Fair_Game_%28Scientology%29September 4, 2009, 5:08 am
-- xenovalentsays:Fred, you never heard that Scientologists murdered anyone? Okay, it’s true that they’ve never been convicted, but there’s certainly been some suspicious goings-on in Clearwater, FL.  Here’s a link an article from the the St. Petersburg Times that perhaps you should read:http://pqasb.pqarchiver.com/sptimes/access/23570056.html?dids=23570056:23570056&FMT=FT&FMTS=ABS:FT&date=Dec+7%2C+1997&author=LUCY+MORGAN&pub=St.+Petersburg+Times&edition=&startpage=1.A&desc=For+some+Scientologists%2C+pilgrimage+has+been+fatal+Series%3A+SCIENTOLOGYSeptember 4, 2009, 5:09 am
-- SebiMeyersays:“On the other hand, they’re not the only religion that has done lousy things, and at least I’ve never heard it said that Scientologists have murdered anyone.”No offence, but then you clearly have not been paying any attention.A core “belief” in the “church” of Scientology is that anyone who leaves the church has to be punished by the church. Completely destroying peoples lives is as bad as outright murder. But there has been murder as well.I am all for freedom of religion, but Scrientology has done so many bad things, it should under no circumstances be understood to be “just another religion.”September 4, 2009, 7:19 am
-- Jeffsays:I wish I had gone that route, but when I first started trying to publish my stories, I had never heard of the contest. Too late now.September 4, 2009, 8:51 am
-- Robert Nowallsays:Maybe some of the stuff I submitted to the WoTF (when I was still doing it) passed by your way at some point.  For which, I just want to say, I’m sorry.September 4, 2009, 10:24 am
-- Susansays:Of course none of us knew Hubbard or Campbell like you did and don’t have any idea what scientology was supposed to be but please do not call it a religion. It is a crime syndicate that uses mind control techniques. Nothing else.September 4, 2009, 2:25 pm
-- Susansays:Please go the the website run by survivors and escapees who were born into it.exscientologykids(dot)comSeptember 4, 2009, 2:27 pm
-- Amnonsays:Dear Mr Pohl,You write : \"To begin with, there are some pretty unpleasant things that have been said about pernicious practices of Scientology, and I believe that at least some of them are true. On the other hand, they’re not the only religion that has done lousy things, and at least I’ve never heard it said that Scientologists have murdered anyone.\"I\’d suggest you to visithttp://www.lisamcpherson.org/And BTW, thank you for your work. I\’ve read your books and will read them again!Yours,A.September 4, 2009, 2:43 pm
-- Gary Farbersays:“…and at least I’ve never heard it said that Scientologists have murdered anyone.”Overten years ago.After years theypaid outon that one.More.Among other things they do is have some of the most systematic campaigns on the planet to try toharass websitesto take down anything they perceive as anti-Scientologist.Their overall strategy is to co-opt famous people in a given field to give them an aura of respectability.  It’s very successful.September 5, 2009, 11:16 am
-- Stefan Jonessays:This was a nice meaty entry.The WOtT contest strikes me as the least offensive thing associated with Scientology. I remember reading a few of the early collections and enjoying them.Scientology, as it exists today, is problematical in two ways. One, it is currently inseparable from a ruthless and avaricious business enterprise. Second, it hasn’t had its sharp edges worn off yet. It would take schisms and time to fix the latter, and some lawsuits and tax avoidance indictments to fix the former.I can think of another religion of American origin that has gone from a life-disrupting charismatic cult to something very much like a mainstream protestant denomination. That faith has had its crazy worked out it.September 5, 2009, 11:21 pm
-- Lee Battersbysays:Perhaps another, slightly more ephemeral, part of the WoTF prize should be mentioned– I live in Western Australia, just past where civilized maps tend to end. When I won in 2001, and was shipped over to LA in 2002 to attend the workshops, I was able to do something I never quite imagined I’d be able to do otherwise: meet and converse with writers I’d been reading all my life and whose works had inspired my younger self. I chatted with Jerry Pournelle about computer tech in a hotel corridor; practised forging Virgil Finlay’s signature with Tim Powers while waiting for transport on a Hollywood sidewalk; talked about Star Trek breeding with Larry Niven… I even got to sit next to one Fred Pohl at dinnerAs far as life experiences go, for me at least, such things have lasted much, *much* longer than the prize money.September 6, 2009, 9:41 pm
-- Librarian D.O.A.says:It is so nice to find your blog!  I’ll have the pleasure of reading back through your entries. I’m so glad that someone as thoughtful and distinguished in the field of science fiction as yourself is writing a blog.You have so much to share and I thank you for doing so.  Take Care.September 9, 2009, 6:59 am
-- Marcsays:What a great entry and truly unique insight into Scientology and WotF.I have no fixed abode in terms of religious belief and find “religion” a fascinating subject. Thank you for sharing!Scientology certainly is a subject that draws a crowd.September 9, 2009, 8:09 am
-- Fred Kieschesays:My theory was that A.E. van Vogt was tapped for Battlefield Earth, dashed it off and was shocked when it sold so well. I don\\\’t have any theory as to who wrote Mission Earth.September 9, 2009, 12:58 pm
+- susanna says:
+I used to be a subscriber to this blog. I will unsubscribe now.
+September 4, 2009, 3:52 am
+- AnonForThis says:
+“…I’ve never heard it said that Scientologists have murdered anyone.”
+You might want to look up Lisa McPherson sometime.
+http://en.wikipedia.org/wiki/Lisa_McPherson
+Normally I post under my real name, but I really don’t want to become Fair Game.  You might want to look up that term, too.
+http://en.wikipedia.org/wiki/Fair_Game_%28Scientology%29
+September 4, 2009, 5:08 am
+- xenovalent says:
+Fred, you never heard that Scientologists murdered anyone? Okay, it’s true that they’ve never been convicted, but there’s certainly been some suspicious goings-on in Clearwater, FL.  Here’s a link an article from the the St. Petersburg Times that perhaps you should read:
+http://pqasb.pqarchiver.com/sptimes/access/23570056.html?dids=23570056:23570056&FMT=FT&FMTS=ABS:FT&date=Dec+7%2C+1997&author=LUCY+MORGAN&pub=St.+Petersburg+Times&edition=&startpage=1.A&desc=For+some+Scientologists%2C+pilgrimage+has+been+fatal+Series%3A+SCIENTOLOGY
+September 4, 2009, 5:09 am
+- SebiMeyer says:
+“On the other hand, they’re not the only religion that has done lousy things, and at least I’ve never heard it said that Scientologists have murdered anyone.”
+No offence, but then you clearly have not been paying any attention.
+A core “belief” in the “church” of Scientology is that anyone who leaves the church has to be punished by the church. Completely destroying peoples lives is as bad as outright murder. But there has been murder as well.
+I am all for freedom of religion, but Scrientology has done so many bad things, it should under no circumstances be understood to be “just another religion.”
+September 4, 2009, 7:19 am
+- Jeff says:
+I wish I had gone that route, but when I first started trying to publish my stories, I had never heard of the contest. Too late now.
+September 4, 2009, 8:51 am
+- Robert Nowall says:
+Maybe some of the stuff I submitted to the WoTF (when I was still doing it) passed by your way at some point.  For which, I just want to say, I’m sorry.
+September 4, 2009, 10:24 am
+- Susan says:
+Of course none of us knew Hubbard or Campbell like you did and don’t have any idea what scientology was supposed to be but please do not call it a religion. It is a crime syndicate that uses mind control techniques. Nothing else.
+September 4, 2009, 2:25 pm
+- Susan says:
+Please go the the website run by survivors and escapees who were born into it. 
+exscientologykids(dot)com
+September 4, 2009, 2:27 pm
+- Amnon says:
+Dear Mr Pohl,
+You write : \"To begin with, there are some pretty unpleasant things that have been said about pernicious practices of Scientology, and I believe that at least some of them are true. On the other hand, they’re not the only religion that has done lousy things, and at least I’ve never heard it said that Scientologists have murdered anyone.\"
+I\’d suggest you to visit
+http://www.lisamcpherson.org/
+And BTW, thank you for your work. I\’ve read your books and will read them again!  
+Yours,
+ A.
+September 4, 2009, 2:43 pm
+- Gary Farber says:
+“…and at least I’ve never heard it said that Scientologists have murdered anyone.”
+Over ten years ago.  
+After years they paid out on that one.
+More.
+Among other things they do is have some of the most systematic campaigns on the planet to try to harass websites to take down anything they perceive as anti-Scientologist.  
+Their overall strategy is to co-opt famous people in a given field to give them an aura of respectability.  It’s very successful.
+September 5, 2009, 11:16 am
+- Stefan Jones says:
+This was a nice meaty entry.
+The WOtT contest strikes me as the least offensive thing associated with Scientology. I remember reading a few of the early collections and enjoying them.
+Scientology, as it exists today, is problematical in two ways. One, it is currently inseparable from a ruthless and avaricious business enterprise. Second, it hasn’t had its sharp edges worn off yet. It would take schisms and time to fix the latter, and some lawsuits and tax avoidance indictments to fix the former.
+I can think of another religion of American origin that has gone from a life-disrupting charismatic cult to something very much like a mainstream protestant denomination. That faith has had its crazy worked out it.
+September 5, 2009, 11:21 pm
+- Lee Battersby says:
+Perhaps another, slightly more ephemeral, part of the WoTF prize should be mentioned– I live in Western Australia, just past where civilized maps tend to end. When I won in 2001, and was shipped over to LA in 2002 to attend the workshops, I was able to do something I never quite imagined I’d be able to do otherwise: meet and converse with writers I’d been reading all my life and whose works had inspired my younger self. I chatted with Jerry Pournelle about computer tech in a hotel corridor; practised forging Virgil Finlay’s signature with Tim Powers while waiting for transport on a Hollywood sidewalk; talked about Star Trek breeding with Larry Niven… I even got to sit next to one Fred Pohl at dinner  
+As far as life experiences go, for me at least, such things have lasted much, *much* longer than the prize money.
+September 6, 2009, 9:41 pm
+- Librarian D.O.A. says:
+It is so nice to find your blog!  I’ll have the pleasure of reading back through your entries. I’m so glad that someone as thoughtful and distinguished in the field of science fiction as yourself is writing a blog.
+You have so much to share and I thank you for doing so.  Take Care.
+September 9, 2009, 6:59 am
+- Marc says:
+What a great entry and truly unique insight into Scientology and WotF.
+I have no fixed abode in terms of religious belief and find “religion” a fascinating subject. Thank you for sharing!
+Scientology certainly is a subject that draws a crowd.
+September 9, 2009, 8:09 am
+- Fred Kiesche says:
+My theory was that A.E. van Vogt was tapped for Battlefield Earth, dashed it off and was shocked when it sold so well. I don\\\’t have any theory as to who wrote Mission Earth.
+September 9, 2009, 12:58 pm
 - Lee Battersby says:
 I don’t have any theory as to who wrote Mission Earth.
 Monkeys. Lots and lots of monkeys.
 September 10, 2009, 12:07 am
-- Fabian of the Futuresays:An interesting a moderate approach. Every aspiring writer I’ve met has trepidations about this contest’s associations. Some choose not to enter. Some enter and have a various rationales for doing so.It’s a free country and people can believe as they wish. This isn’t to say that the children of scientologykids don’t have legitimate issues with the church.The contest is not separate from the church, but the awards appear to be arrived at independently. There is no stigma attached to winning.It reminds me of the sponsors of artists in centuries past. Someone has to bankroll these things, and how they got their money isn’t always snow white. If Rembrandt or Michelangelo refused patronage and starved rather than take tainted money, would the world have lost the art?Thanks for the thoughtful article!September 22, 2009, 10:54 am
-- Jafafa Hotssays:A religion is not a religion because it’s a crime syndicate? Baloney.It’s entirely possible to be both a religion and arguably a criminal enterprise. Look at the official Catholic policy of protecting accused pedophiles and hiding accusations of child rape until 20 years after the victim reaches adulthood - a policy written by the current pope himself. The Catholic church certainly has a profit motive.Crime syndicate.And I’m not picking on the Catholic church to single them out, it’s just that they happen to be particularly powerful and great power gives you opportunity to abuse it. There are horror stories that can be told about the Amish, who have about as positive a public image as a religion can get.Don’t look at one religion and claim it doesn’t qualify because of its crimes while overlooking the crimes of others and your own.September 23, 2009, 4:04 pm
+- Fabian of the Future says:
+An interesting a moderate approach. Every aspiring writer I’ve met has trepidations about this contest’s associations. Some choose not to enter. Some enter and have a various rationales for doing so.
+It’s a free country and people can believe as they wish. This isn’t to say that the children of scientologykids don’t have legitimate issues with the church.
+The contest is not separate from the church, but the awards appear to be arrived at independently. There is no stigma attached to winning. 
+It reminds me of the sponsors of artists in centuries past. Someone has to bankroll these things, and how they got their money isn’t always snow white. If Rembrandt or Michelangelo refused patronage and starved rather than take tainted money, would the world have lost the art?
+Thanks for the thoughtful article!
+September 22, 2009, 10:54 am
+- Jafafa Hots says:
+A religion is not a religion because it’s a crime syndicate? Baloney.
+It’s entirely possible to be both a religion and arguably a criminal enterprise. Look at the official Catholic policy of protecting accused pedophiles and hiding accusations of child rape until 20 years after the victim reaches adulthood - a policy written by the current pope himself. The Catholic church certainly has a profit motive.
+Crime syndicate.
+And I’m not picking on the Catholic church to single them out, it’s just that they happen to be particularly powerful and great power gives you opportunity to abuse it. There are horror stories that can be told about the Amish, who have about as positive a public image as a religion can get.
+Don’t look at one religion and claim it doesn’t qualify because of its crimes while overlooking the crimes of others and your own.
+September 23, 2009, 4:04 pm
 
 **WordPress**
 **TWTFB**

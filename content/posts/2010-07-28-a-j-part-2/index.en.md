@@ -4,6 +4,10 @@ date: 2010-07-28
 categories: ["Authors", "Personal"]
 tags: ["Algis Budrys", "Chicago", "Critics", "Editors", "H.G. Wells", "James Blish", "Joseph Conrad", "Kingsley Amis", "L. Ron Hubbard", "Medicine", "Prozines", "Robert M. Guinn", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20181201000000/http://www.thewaythefutureblogs.com/2010/07/algis-budrys-2/"
+prev_post_url: "/posts/2010-07-26-a-j/"
+prev_post_title: "A J"
+next_post_url: "/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/"
+next_post_title: "Bright Sayings of Geniuses, No. 1: Bohr"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**A J**
-**Bright Sayings of Geniuses, No. 1: Bohr**
 
 ## A J, Part 2
 
@@ -92,19 +94,29 @@ He is missed.
 
 **Related posts:**
 
-- A J
-- The Worlds of L. Ron Hubbard
-- The Worlds of L. Ron Hubbard, Part 2
-- Weekends with the Moonies
-- Robert A. Heinlein, Algis Budrys and Me
+- [**A J**](/posts/2010-07-26-a-j/)
+- [**The Worlds of L. Ron Hubbard**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [**The Worlds of L. Ron Hubbard, Part 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+- [**Weekends with the Moonies**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 
 
 ### 4 Comments
 
-- Robert Nowallsays:My mother once saw a head-shot picture of Mr. Budrys in one of the SF “history” books I had.  Said she dated a guy who looked just like him.  She eventually showed me a picture of the guy—she was right.It wasn’t Mr. Budrys, of course—but, given that I don’t get around and don’t seek anybody out, that’s probably as close as I’ve ever come to having a personal connection with an SF writer…August 1, 2010, 10:02 am
-- Mikesays:When I was a student at MIT they had a program whereby one could take summer humanities courses at Harvard.  I took two – The Bible as Literature and Writing Science Fiction and Fantasy.  The latter course was taught by Mr. Budrys.I truly enjoyed his course, mostly for the wonderful stories he told about his early days as a writer and all the wonderful people he met along the way.  I also learned I am a much better reader than writer, but I don’t mind.  Writers need readers, and I’m glad to be one of them.August 4, 2010, 12:05 am
-- Johnnysays:AJ taught courses in Science Fiction writing at Chicago’s Columbia College during those 70′s Chicago years as well. I was honored to have been one of his students in that course. In fact I loved the course so much I took it twice even though I’d passed it the first time.July 9, 2011, 3:36 pm
-- Johnnysays:One more note of interest is that one day I had learned that SF author Anne McCaffery (sp?) was doing a book signing at Kroch’s and Brentano’s, a now defunct Chicago book seller, but it was during AJ’s class time. I told him about it and asked if I might have an excused absence to attend. He cheerful complied and gave me a message of greeting to her. When I came to Ms. McCaffrey and handed my copy of her then new book, The White Dragon, for her to sign I explained who I was and gave her AJ’s greeting. She was very happy and delightfully told all there that he’d bought her first published story when he was editing some periodical which I forget now. The other authograph seekers looked at me with admiration, as she asked me to step onto her side of the table and talk about AJ and the class while she went on signing. It was a great experience which I never forgot.July 9, 2011, 3:44 pm
+- Robert Nowall says:
+My mother once saw a head-shot picture of Mr. Budrys in one of the SF “history” books I had.  Said she dated a guy who looked just like him.  She eventually showed me a picture of the guy—she was right.
+It wasn’t Mr. Budrys, of course—but, given that I don’t get around and don’t seek anybody out, that’s probably as close as I’ve ever come to having a personal connection with an SF writer…
+August 1, 2010, 10:02 am
+- Mike says:
+When I was a student at MIT they had a program whereby one could take summer humanities courses at Harvard.  I took two – The Bible as Literature and Writing Science Fiction and Fantasy.  The latter course was taught by Mr. Budrys.
+I truly enjoyed his course, mostly for the wonderful stories he told about his early days as a writer and all the wonderful people he met along the way.  I also learned I am a much better reader than writer, but I don’t mind.  Writers need readers, and I’m glad to be one of them.
+August 4, 2010, 12:05 am
+- Johnny says:
+AJ taught courses in Science Fiction writing at Chicago’s Columbia College during those 70′s Chicago years as well. I was honored to have been one of his students in that course. In fact I loved the course so much I took it twice even though I’d passed it the first time.
+July 9, 2011, 3:36 pm
+- Johnny says:
+One more note of interest is that one day I had learned that SF author Anne McCaffery (sp?) was doing a book signing at Kroch’s and Brentano’s, a now defunct Chicago book seller, but it was during AJ’s class time. I told him about it and asked if I might have an excused absence to attend. He cheerful complied and gave me a message of greeting to her. When I came to Ms. McCaffrey and handed my copy of her then new book, The White Dragon, for her to sign I explained who I was and gave her AJ’s greeting. She was very happy and delightfully told all there that he’d bought her first published story when he was editing some periodical which I forget now. The other authograph seekers looked at me with admiration, as she asked me to step onto her side of the table and talk about AJ and the class while she went on signing. It was a great experience which I never forgot.
+July 9, 2011, 3:44 pm
 
 **WordPress**
 **TWTFB2**

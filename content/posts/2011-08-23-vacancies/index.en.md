@@ -4,6 +4,10 @@ date: 2011-08-23
 categories: ["Miscellaneous"]
 tags: ["Conventions"]
 archive_url: "https://web.archive.org/web/20170501000000/http://www.thewaythefutureblogs.com/2011/08/vacancies/"
+prev_post_url: "/posts/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
+prev_post_title: "Bright Sayings of Bright People, No. 19: Hemingway"
+next_post_url: "/posts/2011-08-24-how-they-do-go-on/"
+next_post_title: "How They Do Go On"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 19: Hemingway**
-**How They Do Go On**
 
 ## Vacancies
 
@@ -30,7 +32,10 @@ And now it has a sister hotel, also sometimes used for fan gatherings, including
 
 ### One Comment
 
-- Robert Nowallsays:America is just littered with buildings like that…supermarkets whose chains either gave up the business or built bigger-and-better stores down the road…schools that served the baby-boom generation and weren’t needed later…malls that lost business (and businesses) to newer ones down the road.Sometimes you see these buildings repurposed—every so often, I pass by an old two-screen movie house that has been taken over by a church—but a lot of them just lay there, closed, nobody having the energy or urgent need to tear them down…August 24, 2011, 8:54 am
+- Robert Nowall says:
+America is just littered with buildings like that…supermarkets whose chains either gave up the business or built bigger-and-better stores down the road…schools that served the baby-boom generation and weren’t needed later…malls that lost business (and businesses) to newer ones down the road.
+Sometimes you see these buildings repurposed—every so often, I pass by an old two-screen movie house that has been taken over by a church—but a lot of them just lay there, closed, nobody having the energy or urgent need to tear them down…
+August 24, 2011, 8:54 am
 
 **WordPress**
 **TWTFB2**

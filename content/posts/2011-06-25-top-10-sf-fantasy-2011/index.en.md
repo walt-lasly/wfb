@@ -4,6 +4,10 @@ date: 2011-06-25
 categories: ["Books", "Personal"]
 tags: ["All the Lives He Led", "Larry Niven"]
 archive_url: "https://web.archive.org/web/20211101000000/http://www.thewaythefutureblogs.com/2011/06/top-10-sffantasy-2011/"
+prev_post_url: "/posts/2011-06-24-how-well-do-you-know-your-bible/"
+prev_post_title: "How Well Do You Know Your Bible?"
+next_post_url: "/posts/2011-06-30-answers-to-bible-quiz/"
+next_post_title: "Answers to Bible Quiz"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**How Well Do You Know Your Bible?**
-**Answers to Bible Quiz**
 
 ## Top 10 SF/Fantasy: 2011
 
@@ -24,8 +26,15 @@ Oh, and by the way, have you noticed that **Booklist Online’s** latest list of
 
 ### 2 Comments
 
-- Tuckersays:heh. Congratulations, in any case!“Well, you know, _Tristram Shandy_ was ranked number 5 in a recent list of the world’s best novels.”“Yes… well… that list was chronological, wasn’t it?”–_A Cock And Bull Story_June 25, 2011, 6:49 am
-- Chrissays:I’m delighted to see that the novel is finally available for Kindle–I’ll be buying it today! I look forward to reading it just as I’ve looked forward to every Pohl novel for the past 30 years.June 26, 2011, 6:51 am
+- Tucker says:
+heh. Congratulations, in any case!
+“Well, you know, _Tristram Shandy_ was ranked number 5 in a recent list of the world’s best novels.”
+“Yes… well… that list was chronological, wasn’t it?”
+–_A Cock And Bull Story_
+June 25, 2011, 6:49 am
+- Chris says:
+I’m delighted to see that the novel is finally available for Kindle–I’ll be buying it today! I look forward to reading it just as I’ve looked forward to every Pohl novel for the past 30 years.
+June 26, 2011, 6:51 am
 
 **WordPress**
 **TWTFB2**

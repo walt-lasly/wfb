@@ -4,6 +4,10 @@ date: 2010-08-13
 categories: ["Authors", "Personal"]
 tags: ["Clubs", "Conventions", "David A. Kyle", "Futurians", "Jack Williamson", "New York", "Politics", "Worldcons"]
 archive_url: "https://web.archive.org/web/20131228100904/http://www.thewaythefutureblogs.com/2010/08/jack-williamson-2/"
+prev_post_url: "/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/"
+prev_post_title: "Jack the Wonderful Williamson, Part 1 of many"
+next_post_url: "/posts/2010-08-16-jack-the-wonderful-williamson-part-3/"
+next_post_title: "Jack the Wonderful Williamson, Part 3"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Jack the Wonderful Williamson, Part 1 of many**
-**Jack the Wonderful Williamson, Part 3**
 
 ## Jack the Wonderful Williamson, Part 2
 
@@ -47,7 +49,9 @@ Since he was clearly the star of our meeting I wasn’t lucky enough to have muc
 
 ### One Comment
 
-- Patrick Harrissays:I have actually met David Kyle; I live in the same town he does and he attends the same church as my fiance.  If this is not too tacky a request, I would be delighted to hear any stories of him that you might have, as his own tend to be fairly vague.  Based on what I can find online, however, I suspect details would be fascinating indeed.August 13, 2010, 1:41 pm
+- Patrick Harris says:
+I have actually met David Kyle; I live in the same town he does and he attends the same church as my fiance.  If this is not too tacky a request, I would be delighted to hear any stories of him that you might have, as his own tend to be fairly vague.  Based on what I can find online, however, I suspect details would be fascinating indeed.
+August 13, 2010, 1:41 pm
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2010-01-21
 categories: ["Personal", "Writing"]
 tags: ["Leah A. Zeldes", "Poetry"]
 archive_url: "https://web.archive.org/web/20200201000000/http://www.thewaythefutureblogs.com/2010/01/third-hit-of-poetry/"
+prev_post_url: "/posts/2010-01-14-perils-at-sea/"
+prev_post_title: "Perils at Sea"
+next_post_url: "/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/"
+next_post_title: "IsaacPart 1 of I don’t know how many"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Perils at Sea**
-**Isaac Part 1 of I don’t know how many**
 
 ## Third Hit of Poetry
 
@@ -51,10 +53,10 @@ I hope you didn’t hate it too much.  I would have been maybe 17 when I wrote i
 
 **Related posts:**
 
-- The Poetry Corner
-- The Poetry Corner 2
-- Verse Decoded
-- The Quadrumvirate
+- [**The Poetry Corner**](/posts/2009-01-30-the-poetry-corner/)
+- [**The Poetry Corner 2**](/posts/2009-01-30-the-poetry-corner/)
+- [**Verse Decoded**](/posts/2009-03-16-verse-decoded/)
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
 
 
 *Illustration by Leah A. Zeldes.*
@@ -62,10 +64,18 @@ I hope you didn’t hate it too much.  I would have been maybe 17 when I wrote i
 
 ### 4 Comments
 
-- Robert Nowallsays:Somehow, the first and last lines have stayed with me since I first read them…January 22, 2010, 12:11 pm
-- The Barefoot Bumsays:I’m a huge fan; I’ve read a score or more of your work, and you’ve never failed to satisfy. Still, with all due respect, I cannot praise your talent and skill for poetry as I do for your prose.January 22, 2010, 8:49 pm
-- Ralansays:I quite liked it. I wouldn’t like to show the poetry I wrote at seventeen.January 23, 2010, 4:47 am
-- Deansays:This is much better than anything I wrote when I was 17.January 25, 2010, 9:30 am
+- Robert Nowall says:
+Somehow, the first and last lines have stayed with me since I first read them…
+January 22, 2010, 12:11 pm
+- The Barefoot Bum says:
+I’m a huge fan; I’ve read a score or more of your work, and you’ve never failed to satisfy. Still, with all due respect, I cannot praise your talent and skill for poetry as I do for your prose.
+January 22, 2010, 8:49 pm
+- Ralan says:
+I quite liked it. I wouldn’t like to show the poetry I wrote at seventeen.
+January 23, 2010, 4:47 am
+- Dean says:
+This is much better than anything I wrote when I was 17.
+January 25, 2010, 9:30 am
 
 **WordPress**
 **TWTFB**

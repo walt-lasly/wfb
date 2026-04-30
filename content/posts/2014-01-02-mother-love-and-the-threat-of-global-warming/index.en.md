@@ -4,6 +4,10 @@ date: 2014-01-02
 categories: ["Betty's Posts", "Science"]
 tags: ["Ecology", "Elizabeth Anne Hull", "Psychology"]
 archive_url: "https://web.archive.org/web/20170901000000/http://www.thewaythefutureblogs.com/2014/01/mother-love-and-the-threat-of-global-warming-2/"
+prev_post_url: "/posts/2013-12-31-the-story-of-the-space-merchants-part-4/"
+prev_post_title: "The Story ofThe Space Merchants, Part 4"
+next_post_url: "/posts/2014-01-05-the-story-of-the-space-merchants-part-5/"
+next_post_title: "The Story ofThe Space Merchants, Part 5"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Story of The Space Merchants, Part 4**
-**The Story of The Space Merchants, Part 5**
 
 ## Mother Love and the Threat of Global Warming
 
@@ -53,7 +55,9 @@ Why isn’t our love for Mother Earth strong enough?
 
 ### One Comment
 
-- kaellinn18says:For most of the people I talk to, the love for Mother Earth isn’t strong enough because most environmental consequences are long term, rather than short term. I hear a lot of, “I’ll be dead, so why should I care?” Things like smog and problems with drinking water are easier problems for people to want to fix because they are immediate. Many people seem to have a problem planning for the future.January 2, 2014, 11:25 am
+- kaellinn18 says:
+For most of the people I talk to, the love for Mother Earth isn’t strong enough because most environmental consequences are long term, rather than short term. I hear a lot of, “I’ll be dead, so why should I care?” Things like smog and problems with drinking water are easier problems for people to want to fix because they are immediate. Many people seem to have a problem planning for the future.
+January 2, 2014, 11:25 am
 
 **WordPress**
 **TWTFB2**

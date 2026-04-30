@@ -4,6 +4,10 @@ date: 2013-05-08
 categories: ["Personal"]
 tags: ["Ann Pohl", "Carol Pohl", "Elizabeth Anne Hull", "Judith Merril", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20160801000000/http://www.thewaythefutureblogs.com/2013/05/arrival-part-6-the-deal/"
+prev_post_url: "/posts/2013-05-06-arrival-part-5-i-guess-i-am/"
+prev_post_title: "Arrival, Part 5:  ‘I guess I am’"
+next_post_url: "/posts/2013-05-10-arrival-part-7-departure/"
+next_post_title: "Arrival, Part 7: Departure"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Arrival, Part 5:  ‘I guess I am’**
-**Arrival, Part 7: Departure**
 
 ## Arrival, Part 6: The Deal
 
@@ -44,12 +46,12 @@ All clear?  Well, no.
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 7: Departure
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
 
 **WordPress**
 **TWTFB2**

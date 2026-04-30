@@ -4,6 +4,10 @@ date: 2009-10-19
 categories: ["Authors", "Personal"]
 tags: ["Dirk Wylie", "Donald A. Wollheim", "Economics", "Great Depression", "Hugo Gernsback", "John B. Michel", "New York", "Prozines", "Pulps", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20221201000000/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-part-7-the-crusade/"
+prev_post_url: "/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/"
+prev_post_title: "Let There Be Fandom, Part 6: The Pros!"
+next_post_url: "/posts/2009-10-22-fred-the-machine-man/"
+next_post_title: "Fred the Machine Man"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Let There Be Fandom, Part 6: The Pros!**
-**Fred the Machine Man**
 
 ## Let There Be Fandom, Part 7: The Crusade
 
@@ -68,20 +70,28 @@ It sounded great. We thrilled to the idea of causing so much commotion and troub
 
 **Related posts:**
 
-- The Quadrumvirate
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 6: The Pros!
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
 
 
 ### 3 Comments
 
-- Scott Haugersays:Thank ypu for this fascinating history / autobiography!October 19, 2009, 11:57 pm
-- Greg Costikyansays:Buenos Aires isn’t so bad….But I’ve been in the position of choosing who gets paid, and it’s never easy, when resources are scarce. Failing to pay talent rarely puts you in jail. Failing to pay your accountants or lawyers might.Not that I’m a big fan of screwing talent.October 20, 2009, 11:03 pm
-- Steve Greensays:Back in the mid-1990s, I had similar problems with a couple of magazines which had hired me to provide interviews, reviews, etc. I eventually received every penny I was owed, but many others were left out of pocket. And as you say, there are always plenty of people who will ignore that injustice just to see their name in print.December 3, 2009, 9:05 am
+- Scott Hauger says:
+Thank ypu for this fascinating history / autobiography!
+October 19, 2009, 11:57 pm
+- Greg Costikyan says:
+Buenos Aires isn’t so bad….
+But I’ve been in the position of choosing who gets paid, and it’s never easy, when resources are scarce. Failing to pay talent rarely puts you in jail. Failing to pay your accountants or lawyers might.
+Not that I’m a big fan of screwing talent.
+October 20, 2009, 11:03 pm
+- Steve Green says:
+Back in the mid-1990s, I had similar problems with a couple of magazines which had hired me to provide interviews, reviews, etc. I eventually received every penny I was owed, but many others were left out of pocket. And as you say, there are always plenty of people who will ignore that injustice just to see their name in print.
+December 3, 2009, 9:05 am
 
 **WordPress**
 **TWTFB**

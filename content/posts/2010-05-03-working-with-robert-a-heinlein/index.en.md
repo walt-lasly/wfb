@@ -4,6 +4,10 @@ date: 2010-05-03
 categories: ["Authors", "Books", "Personal"]
 tags: ["Dogs", "Editors", "Food", "Hugo Awards", "John W. Campbell", "Milly Pohl", "Prozines", "Robert A. Heinlein"]
 archive_url: "https://web.archive.org/web/20131101000000/http://www.thewaythefutureblogs.com/2010/05/working-with-robert-a-heinlein/"
+prev_post_url: "/posts/2010-05-01-have-a-cup-of-coffee/"
+prev_post_title: "Have a Cup of Coffee?"
+next_post_url: "/posts/2010-05-05-eat-at-red-canoe-bistro/"
+next_post_title: "Eat at Red Canoe Bistro"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Have a Cup of Coffee?**
-**Eat at Red Canoe Bistro**
 
 ## Working with Robert A. Heinlein
 
@@ -53,28 +55,45 @@ Naturally it won that year’s Hugo (so did the magazine I ran it in, largely be
 
 **Related posts:**
 
-- Working with Robert A. Heinlein, Part 2
-- The Wives (and Drives) of Robert A. Heinlein, Part 1
-- The Wives (and Drives) of Robert A. Heinlein: Leslyn
-- The Wives (and Drives) of Robert A. Heinlein: Ginny
-- Robert A. Heinlein, Algis Budrys and Me
-- Greetings from S17° 32.18′ W149° 34.17′
+- [**Working with Robert A. Heinlein, Part 2**](/posts/2010-05-10-working-with-robert-a-heinlein-part-2/)
+- [**The Wives (and Drives) of Robert A. Heinlein, Part 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [**The Wives (and Drives) of Robert A. Heinlein: Leslyn**](/posts/2010-05-19-the-wives-and-drives-of-robert-heinlein-leslyn/)
+- [**The Wives (and Drives) of Robert A. Heinlein: Ginny**](/posts/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+- [**Greetings from S17° 32.18′ W149° 34.17′**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 
 
 ### 10 Comments
 
-- Michael Walshsays:However you ended up with “Moon is a Harsh Mistress” running if that spiffy magazine called IF … thank you!And the cover:http://ijskast.com/laumer/magazines/worldsofif/1965_12.jpgalso nice.May 3, 2010, 3:06 pm
-- Brucesays:If Campbell was rejecting Heinlein’s novels in the 1960’s, I suspect he was trying to keep Kay Tarrant from having a seizure. Or at least, that he was acutely aware that once Kay got through with them, the works would be eviscerated.May 3, 2010, 6:22 pm
-- Tim Mahoneysays:I hate to correct Mr. Pohl, a great author in his own right, but I find Podkayne to be one of Robert Heinlein’s more brilliant novels.  I do not know if Mr. Heinlein intended the subtext, but it is a milestone in the maturation process that is his writing.  While I was not lucky enough to discover his works until the very year he left us, I have fallen in love with them and could (and have) read any one of them multiple times and still find nuggets and new treasures in them.May 4, 2010, 3:27 pm
-- John Traylorsays:I well remember read The Moon Is A Harsh Mistress when it was serialized  in If and having a fit having to wait for the next installment to arrive. Probably my favorite RAH novel if I had to pick just one for that desert island.May 4, 2010, 5:55 pm
-- Dwight Deckersays:I love reading these anecdotes about the Golden Age of science fiction. What a different world it must have been for a writer… In the letter column of PLANET STORIES for Winter 1940/41 (just recently reprinted by Adventure House), one of the readers remarks that in the month of July, 1940 alone, no fewer than nine science-fiction magazines appeared on the stands. That would have been forty or more stories. With that many magazines hungry for text to fill up pages, probably any reasonably well-written SF story would have found its way to publication somewhere, even if the first few editors bounced it for reasons particular to them. No wonder Heinlein could think, “If Campbell doesn’t buy it, Fred will!” Unfortunately, times changed…May 4, 2010, 7:13 pm
-- Kelly Brownsays:I hope you won’t be offended when I say that what you write here is at least as compelling as your books and a great way to fill the time while we wait for you next one.May 5, 2010, 9:23 am
+- Michael Walsh says:
+However you ended up with “Moon is a Harsh Mistress” running if that spiffy magazine called IF … thank you!
+And the cover: http://ijskast.com/laumer/magazines/worldsofif/1965_12.jpg  also nice.
+May 3, 2010, 3:06 pm
+- Bruce says:
+If Campbell was rejecting Heinlein’s novels in the 1960’s, I suspect he was trying to keep Kay Tarrant from having a seizure. Or at least, that he was acutely aware that once Kay got through with them, the works would be eviscerated.
+May 3, 2010, 6:22 pm
+- Tim Mahoney says:
+I hate to correct Mr. Pohl, a great author in his own right, but I find Podkayne to be one of Robert Heinlein’s more brilliant novels.  I do not know if Mr. Heinlein intended the subtext, but it is a milestone in the maturation process that is his writing.  While I was not lucky enough to discover his works until the very year he left us, I have fallen in love with them and could (and have) read any one of them multiple times and still find nuggets and new treasures in them.
+May 4, 2010, 3:27 pm
+- John Traylor says:
+I well remember read The Moon Is A Harsh Mistress when it was serialized  in If and having a fit having to wait for the next installment to arrive. Probably my favorite RAH novel if I had to pick just one for that desert island.
+May 4, 2010, 5:55 pm
+- Dwight Decker says:
+I love reading these anecdotes about the Golden Age of science fiction. What a different world it must have been for a writer… In the letter column of PLANET STORIES for Winter 1940/41 (just recently reprinted by Adventure House), one of the readers remarks that in the month of July, 1940 alone, no fewer than nine science-fiction magazines appeared on the stands. That would have been forty or more stories. With that many magazines hungry for text to fill up pages, probably any reasonably well-written SF story would have found its way to publication somewhere, even if the first few editors bounced it for reasons particular to them. No wonder Heinlein could think, “If Campbell doesn’t buy it, Fred will!” Unfortunately, times changed…
+May 4, 2010, 7:13 pm
+- Kelly Brown says:
+I hope you won’t be offended when I say that what you write here is at least as compelling as your books and a great way to fill the time while we wait for you next one.
+May 5, 2010, 9:23 am
 - Brian says:
 I agree that The Moon is a Harsh Mistress was a solid offering; it reminded me of Heinlein’s earliest work. Not my favorite — I’ll admit, I’ve got a soft spot for Puppet Masters and Door Into Summer, and you can read into that what you’d like — but still, I really enjoyed it and have suggested it to many of my friends. 
 By the way, I didn’t realize you were the one to serialize it. I’m glad you’ve plugged that hole in my sf knowledge!
 May 5, 2010, 3:01 pm
-- Donsays:As luck has it, I just finished re-reading The Moon is a Harsh Mistress last week.  Now my daughter (age 11) is reading it.  It’s a great story, that is just as relevant today as it was when originally published.  Heinlein was indeed a brilliant writer.May 7, 2010, 4:07 pm
-- Johnny Pezsays:I guess Campbell\’s variety of cranky conservative didn\’t synch up well with Heinlein\’s variety.May 12, 2010, 1:33 am
+- Don says:
+As luck has it, I just finished re-reading The Moon is a Harsh Mistress last week.  Now my daughter (age 11) is reading it.  It’s a great story, that is just as relevant today as it was when originally published.  Heinlein was indeed a brilliant writer.
+May 7, 2010, 4:07 pm
+- Johnny Pez says:
+I guess Campbell\’s variety of cranky conservative didn\’t synch up well with Heinlein\’s variety.
+May 12, 2010, 1:33 am
 - Bald Guy says:
 Wow. I am so ecstatic I found this blog! I don’t want to sound like a fawning fan, Mr. Pohl, but I put you, Heinlein, Clarke, and Poul Anderson in the same class of greatness.
 Re Heinlein, I think The Door Into Summer is his best. And Jem, of course, was yours. 

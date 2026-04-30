@@ -4,6 +4,10 @@ date: 2012-11-25
 categories: ["Authors"]
 tags: ["Quotations", "Religion", "Richard Dawkins"]
 archive_url: "https://web.archive.org/web/20200601000000/http://www.thewaythefutureblogs.com/2012/11/bright-sayings-of-bright-people-no-37/"
+prev_post_url: "/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/"
+prev_post_title: "Here’s Some Good News — and (Sorry) Some Bad"
+next_post_url: "/posts/2012-11-30-harrycon-the-best-con-ever/"
+next_post_title: "Harrycon: The Best Con Ever?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Here’s Some Good News — and (Sorry) Some Bad**
-**Harrycon: The Best Con Ever?**
 
 ## Bright Sayings of Bright People, No. 37
 
@@ -26,11 +28,21 @@ Frederik Pohl
 
 ### 5 Comments
 
-- Mattsays:One of my favourite quotes.November 26, 2012, 10:41 am
-- Alekssays:Happy bithday, Mr Pohl!November 26, 2012, 1:15 pm
-- Fyodorsays:Dear Mr Pohl! With all my heart I wish you many happy returns of the day! Thank you very much for brilliant, highly intelligent and fascinating stories you give us!November 28, 2012, 3:15 am
-- Andriisays:Religion is all about perception. People want to believe what they want to believe.November 28, 2012, 1:15 pm
-- Jay Borcherdingsays:A fine one-liner.  And honestly, even a casual perusal of, say, Leviticus, bears out the truth of the observation.November 28, 2012, 11:56 pm
+- Matt says:
+One of my favourite quotes.
+November 26, 2012, 10:41 am
+- Aleks says:
+Happy bithday, Mr Pohl!
+November 26, 2012, 1:15 pm
+- Fyodor says:
+Dear Mr Pohl! With all my heart I wish you many happy returns of the day! Thank you very much for brilliant, highly intelligent and fascinating stories you give us!
+November 28, 2012, 3:15 am
+- Andrii says:
+Religion is all about perception. People want to believe what they want to believe.
+November 28, 2012, 1:15 pm
+- Jay Borcherding says:
+A fine one-liner.  And honestly, even a casual perusal of, say, Leviticus, bears out the truth of the observation.
+November 28, 2012, 11:56 pm
 
 **WordPress**
 **TWTFB2**

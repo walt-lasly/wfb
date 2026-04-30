@@ -14,6 +14,24 @@
 
 <article class="post">
 
+  {{/* ── Prev / next post navigation ── */}}
+  {{ if or .Params.prev_post_url .Params.next_post_url }}
+  <nav class="post-nav">
+    {{ with .Params.prev_post_url }}
+    <a class="post-nav__prev" href="{{ printf "%s%s" $.Site.Home.RelPermalink (. | strings.TrimPrefix "/") }}">
+      <span class="post-nav__label">{{ i18n "nav_prev" | default "← Previous" }}</span>
+      <span class="post-nav__title">{{ $.Params.prev_post_title }}</span>
+    </a>
+    {{ end }}
+    {{ with .Params.next_post_url }}
+    <a class="post-nav__next" href="{{ printf "%s%s" $.Site.Home.RelPermalink (. | strings.TrimPrefix "/") }}">
+      <span class="post-nav__label">{{ i18n "nav_next" | default "Next →" }}</span>
+      <span class="post-nav__title">{{ $.Params.next_post_title }}</span>
+    </a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
   {{/* ── Post header ── */}}
   <header class="post-header">
     <a class="back-link" href="{{ .Site.Home.RelPermalink }}">{{ i18n "back_to_list" }}</a>

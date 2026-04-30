@@ -4,6 +4,10 @@ date: 2011-04-01
 categories: ["Authors", "Books", "Miscellaneous", "Personal", "Travel", "Writing"]
 tags: ["Advertising", "Agents", "Alfred Bester", "C.M. Kornbluth", "Editors", "Frederic Wakeman", "Horace L. Gold", "Ian and Betty Ballantine", "Italy", "New York", "Prozines", "Publishing", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20220201000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-4-rejection/"
+prev_post_url: "/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
+prev_post_title: "Me and Alfie, Part 3: Ideas andThe Demolished Man"
+next_post_url: "/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
+next_post_title: "Me and Alfie, Part 5: Collaboration and the Futurians"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and Alfie, Part 3: Ideas and The Demolished Man**
-**Me and Alfie, Part 5: Collaboration and the Futurians**
 
 ## Me and Alfie, Part 4:  Rejection
 
@@ -108,17 +110,31 @@ Bester: It shows you, the greatest books in the world can be bounced by anybody.
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 3**, **Part 5**, **Part 6**, **Part 7**, **Part 8**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 5 Comments
 
-- Richardsays:The repartee is terrific.  I’m so envious of the audience at that cinema in Newcastle!April 1, 2011, 3:24 am
-- David B. Williamssays:Hilarious. Reminds me of Dune. Poor Frank Herbert couldn’t find a book publisher for several years after the magazine serialization, until he finally sold it to a company that specialized in printing catalogues or something. Then the paperback editions, the sequels, and the estate in Hawaii.April 1, 2011, 8:55 am
-- Mike Goldbergsays:More, please!April 2, 2011, 8:41 am
-- Michael Walshsays:@David B Williams: Dune was acquired by Chilton, publisher of primarily automotive repair manuals.  They also published “Wild and Outside” – an SF baseball novel by Allen Kim Lang.The description from the publisher: “A hilarious blend of baseball, exobiology, extra-terrestrial ethnology, slam-bang adventure, and pure fun — the story of baseball’s introduction to an alien planet.”I may be wrong, but I think he was an editor at Chilton.April 2, 2011, 12:15 pm
-- Larssays:I’ve thought for a long time that “The Space Merchants” is the finest libertarian SF novel ever written.Not in the sense that libertarians would like, of course. More like “We” of “1984” are quintessential collectivist novels – showing the logical outcomes of particular ideologies. “The Space Merchants” show what the libertarian right would enable.Still, you’d think that the Prometheus people would be honest enough to reconize Mr. Pohl and Mr. Kornbluth as Grand Masters.April 4, 2011, 5:07 pm
+- Richard says:
+The repartee is terrific.  I’m so envious of the audience at that cinema in Newcastle!
+April 1, 2011, 3:24 am
+- David B. Williams says:
+Hilarious. Reminds me of Dune. Poor Frank Herbert couldn’t find a book publisher for several years after the magazine serialization, until he finally sold it to a company that specialized in printing catalogues or something. Then the paperback editions, the sequels, and the estate in Hawaii.
+April 1, 2011, 8:55 am
+- Mike Goldberg says:
+More, please!
+April 2, 2011, 8:41 am
+- Michael Walsh says:
+@David B Williams: Dune was acquired by Chilton, publisher of primarily automotive repair manuals.  They also published “Wild and Outside” – an SF baseball novel by Allen Kim Lang.  
+The description from the publisher: “A hilarious blend of baseball, exobiology, extra-terrestrial ethnology, slam-bang adventure, and pure fun — the story of baseball’s introduction to an alien planet.”
+I may be wrong, but I think he was an editor at Chilton.
+April 2, 2011, 12:15 pm
+- Lars says:
+I’ve thought for a long time that “The Space Merchants” is the finest libertarian SF novel ever written. 
+Not in the sense that libertarians would like, of course. More like “We” of “1984” are quintessential collectivist novels – showing the logical outcomes of particular ideologies. “The Space Merchants” show what the libertarian right would enable. 
+Still, you’d think that the Prometheus people would be honest enough to reconize Mr. Pohl and Mr. Kornbluth as Grand Masters.
+April 4, 2011, 5:07 pm
 
 **WordPress**
 **TWTFB2**

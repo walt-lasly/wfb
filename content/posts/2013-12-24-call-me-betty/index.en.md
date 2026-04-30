@@ -4,6 +4,10 @@ date: 2013-12-24
 categories: ["Betty's Posts", "Miscellaneous"]
 tags: ["Beyonce", "Elizabeth Anne Hull", "Larry Niven", "Liberace", "Newt Gingrich", "Oprah Winfrey"]
 archive_url: "https://web.archive.org/web/20230501000000/http://www.thewaythefutureblogs.com/2013/12/call-me-betty/"
+prev_post_url: "/posts/2013-12-23-the-story-of-the-space-merchants-part-2/"
+prev_post_title: "The Story ofThe Space Merchants, Part 2"
+next_post_url: "/posts/2013-12-26-the-story-of-the-space-merchants-part-3/"
+next_post_title: "The Story ofThe Space Merchants, Part 3"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Story of The Space Merchants, Part 2**
-**The Story of  The Space Merchants, Part 3**
 
 ## Call Me Betty
 
@@ -66,8 +68,16 @@ My spellcheck used to regularly offer to correct Newt Gingrich’s name to “gi
 
 ### 2 Comments
 
-- Tara Dsays:Hi Betty,I want to thank you for carrying on Fred’s blog; as a long time lover of SF, I have found it very fascinating as a peek into history. Oh, and thank you for “hypercorrection”, a word I shall be sure to use.Happy Holidays,~*~ TaraDecember 24, 2013, 1:26 pm
-- David Edmeadessays:I totally understand!  My wife’s name also starts with “Ed”, so many people’s eyes slide over the rest of mine and assume it’s the same.Even now, she has gotten flak from strangers for not having taken my name. But like you, she can whip out the Dr. if presented with a bellicose adversaryDecember 26, 2013, 11:28 am
+- Tara D says:
+Hi Betty,
+I want to thank you for carrying on Fred’s blog; as a long time lover of SF, I have found it very fascinating as a peek into history. Oh, and thank you for “hypercorrection”, a word I shall be sure to use.
+Happy Holidays,
+~*~ Tara
+December 24, 2013, 1:26 pm
+- David Edmeades says:
+I totally understand!  My wife’s name also starts with “Ed”, so many people’s eyes slide over the rest of mine and assume it’s the same.  
+Even now, she has gotten flak from strangers for not having taken my name. But like you, she can whip out the Dr. if presented with a bellicose adversary 
+December 26, 2013, 11:28 am
 
 **WordPress**
 **TWTFB2**

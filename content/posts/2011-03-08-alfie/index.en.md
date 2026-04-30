@@ -4,6 +4,10 @@ date: 2011-03-08
 categories: ["Authors", "Personal"]
 tags: ["Advertising", "Agents", "Alfred Bester", "Broadway", "Comics", "Editors", "Horace L. Gold", "John W. Campbell", "Mort Weisinger", "New York", "Prozines", "Pulps", "Radio", "Rolly Bester", "World War II"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2011/03/alfie/"
+prev_post_url: "/posts/2011-03-05-want-some-seafood-mama/"
+prev_post_title: "Want Some Seafood, Mama?"
+next_post_url: "/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/"
+next_post_title: "Alfie, Part 2: When Bester was the Best"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Want Some Seafood, Mama?**
-**Alfie, Part 2: When Bester was the Best**
 
 ## Alfie
 
@@ -72,7 +74,7 @@ But Horace did not have all the writers he wanted in his magazine.  Particularly
 What Horace wanted from Alfie wasn’t just any old serial.  It was a particular story, a serial idea the two of them had talked about.  And talked and talked about it and kept on talking about it.
 
 
-Horace may not have been the best editor science fiction science fiction ever had, although he certainly he was right there close after **John Campbell**, but he was just about the most persistent.  If Horace wanted a story out of you, he generally got it.  And what he did at last get from Alfie Bester was a three-part serial called **The Demolished Man**.
+Horace may not have been the best editor science fiction science fiction ever had, although he certainly he was right there close after [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), but he was just about the most persistent.  If Horace wanted a story out of you, he generally got it.  And what he did at last get from Alfie Bester was a three-part serial called **The Demolished Man**.
 
 
 *To be continued.*
@@ -80,13 +82,17 @@ Horace may not have been the best editor science fiction science fiction ever ha
 
 **Related posts:**
 
-- **Alfie,** **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**, **Part 8**
+- **Alfie,** [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### One Comment
 
-- H. E. Parmersays:“The Demolished Man” is one of those books I re-read every few years, and always find something new to admire in it. That, and of course “The Stars My Destination”.Besides Bester’s wide-ranging imagination and immense skill as a storyteller, I gotta admit: it takes some amazing chutzpah to lift your plots from Dostoevsky and Dumas respectively. And I don’t mean that in a bad way, just that those are some pretty high standards to set yourself. And he succeeded brilliantly. (TSMD in particular seems to get more relevant with each passing year.)Thanks for sharing this. I’m keenly anticipating your next installment.March 10, 2011, 12:29 am
+- H. E. Parmer says:
+“The Demolished Man” is one of those books I re-read every few years, and always find something new to admire in it. That, and of course “The Stars My Destination”.
+Besides Bester’s wide-ranging imagination and immense skill as a storyteller, I gotta admit: it takes some amazing chutzpah to lift your plots from Dostoevsky and Dumas respectively. And I don’t mean that in a bad way, just that those are some pretty high standards to set yourself. And he succeeded brilliantly. (TSMD in particular seems to get more relevant with each passing year.)
+Thanks for sharing this. I’m keenly anticipating your next installment.
+March 10, 2011, 12:29 am
 
 **WordPress**
 **TWTFB2**

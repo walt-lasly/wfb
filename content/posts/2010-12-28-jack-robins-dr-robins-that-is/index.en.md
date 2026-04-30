@@ -4,6 +4,10 @@ date: 2010-12-28
 categories: ["Miscellaneous"]
 tags: ["Clubs", "Futurians", "Isaac Asimov", "Jack Robins"]
 archive_url: "https://web.archive.org/web/20200901000000/http://www.thewaythefutureblogs.com/2010/12/jack-robins-dr-robins-that-is/"
+prev_post_url: "/posts/2010-12-27-bright-sayings-of-bright-people-no-8-kolbert/"
+prev_post_title: "Bright Sayings of Bright People, No. 8: Kolbert"
+next_post_url: "/posts/2010-12-29-walter-kubilius-the-tall-one/"
+next_post_title: "Walter Kubilius: The Tall One"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 8: Kolbert**
-**Walter Kubilius: The Tall One**
 
 ## Jack Robins: Dr. Robins, that is
 
@@ -38,7 +40,7 @@ And when he retired it was with a Ph.D. in chemistry.  Only two Futurians attain
 
 **Related post:**  
 
-**A Little More About Jack Robins**
+[**A Little More About Jack Robins**](/posts/2011-09-22-a-little-more-about-jack-robins/)
 
 **WordPress**
 **TWTFB2**

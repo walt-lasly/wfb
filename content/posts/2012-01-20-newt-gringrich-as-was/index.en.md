@@ -4,6 +4,10 @@ date: 2012-01-20
 categories: ["Authors", "Books"]
 tags: ["Alvin and Heidi Toffler", "Andrew I. Porter", "Don Young", "Ecology", "Elizabeth Anne Hull", "Isaac Asimov", "Jerry Pournelle", "Jim Baen", "Karel Capek", "Newt Gingrich", "Phil Crane", "Politics", "Thomas Bliley"]
 archive_url: "https://web.archive.org/web/20180801000000/http://www.thewaythefutureblogs.com/2012/01/newt-gringrich-as-was/"
+prev_post_url: "/posts/2012-01-19-wanna-be-a-u-s-citizen/"
+prev_post_title: "Wanna Be a U.S. Citizen?"
+next_post_url: "/posts/2012-01-21-newt-the-mewtant/"
+next_post_title: "Newt the Mewtant"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Wanna Be a U.S. Citizen?**
-**Newt the Mewtant**
 
 ## Newt  Gringrich as Was
 
@@ -50,7 +52,7 @@ Isn’t it a pity that so many Congressmen know so little of what they’re talk
 Anyway, it isn’t really Phil Crane that Betty’s running against. It’s Newt and all his ilk, and, like the fellow says, a decent respect to the opinions of mankind requires that we set forth the reasons which impell us to this.
 
 
-A lot of people like Newt Gingrich. Actually, in my one personal encounter with him, a couple of hours, five or six years ago, I found him to be an affable guy who — a big plus for us SF fan — actually has read a lot of science fiction, even attends a con now and then (that’s where I met him, in fact) and doesn’t mind admitting his SF interest in public. (He even says that Asimov’s **Foundation** books were one of the most seminal influences on his life. God knows what Isaac would have thought of that.) He even went so far as to write, or at least to collaborate on, an SF novel, **1945**, an alternate-history job that I’m told isn’t bad at all. (I haven’t got around to reading my copy yet.) Gingrich is a buddy of people like our own homies, **Jerry Pournelle** and **Jim Baen**, some of whom arranged for him to give the keynote speech at the Nebula awards banquet a while ago. He writes for the **World Future Society**‘s magazine, **The Futurist**; he goes to futurists like **Alvin and Heidi Toffler** (you know, the **Future Shock** guys) for advice and suggestions, and he is a perfect marvel at generating one-liners for the TV news sound bites. What’s more he has declared himself in favor of science in general and the space program in particular; as a Congressional freshman the first legislation he introduced (unfortunately never passed) was a bill to set up procedures for governing colonies on the Moon. He has gone on record as predicting that by 2020 newlyweds will honeymoon in space; that, too, may be a little premature, but, hey, it’s a nice idea.
+A lot of people like Newt Gingrich. Actually, in my one personal encounter with him, a couple of hours, five or six years ago, I found him to be an affable guy who — a big plus for us SF fan — actually has read a lot of science fiction, even attends a con now and then (that’s where I met him, in fact) and doesn’t mind admitting his SF interest in public. (He even says that Asimov’s **Foundation** books were one of the most seminal influences on his life. God knows what Isaac would have thought of that.) He even went so far as to write, or at least to collaborate on, an SF novel, **1945**, an alternate-history job that I’m told isn’t bad at all. (I haven’t got around to reading my copy yet.) Gingrich is a buddy of people like our own homies, **Jerry Pournelle** and **Jim Baen**, some of whom arranged for him to give the keynote speech at the Nebula awards banquet a while ago. He writes for the [**World Future Society**](/posts/2012-01-20-newt-gringrich-as-was/)‘s magazine, **The Futurist**; he goes to futurists like **Alvin and Heidi Toffler** (you know, the **Future Shock** guys) for advice and suggestions, and he is a perfect marvel at generating one-liners for the TV news sound bites. What’s more he has declared himself in favor of science in general and the space program in particular; as a Congressional freshman the first legislation he introduced (unfortunately never passed) was a bill to set up procedures for governing colonies on the Moon. He has gone on record as predicting that by 2020 newlyweds will honeymoon in space; that, too, may be a little premature, but, hey, it’s a nice idea.
 
 
 All that sounds really nice, *this* year. But you have to wonder where he’s going to be next year, because the man does switch sides so.
@@ -85,8 +87,8 @@ Well, what I would really like you to do is to move to the 8th Congressional Dis
 
 **Related posts:**
 
-- Newton and Me
-- Newt the Mewtant
+- [**Newton and Me**](/posts/2010-09-16-newton-and-me/)
+- [**Newt the Mewtant**](/posts/2012-01-21-newt-the-mewtant/)
 
 
 ### 5 Comments
@@ -100,9 +102,17 @@ January 20, 2012, 6:34 pm
 Beyond his betrayal of his environmental stance and advocacy science:
 Gingrich’s demonization of food stamp recipients is . . . foul. Monstrous. A race-baiting, divisive, callous, shameless, calculated political smear. That’s real class warfare for you. What a worthless piece of crap that man is.
 January 20, 2012, 11:08 pm
-- Larry Kollarsays:The economy being what it was in 1982, I left my native Michigan for Georgia and ended up only a few miles from Newt’s district. Living here ever since, it’s easy to see where Eye of Newt’s toxic politics came from… it seems to be in the blood of many around here.I agree with your assessment of his chameleon-like qualities, highly developed even by politician standards. Even back when, he would say something sensible on Monday and “correct” it by Thursday.BTW, I remember you coming to Michigan Tech to do a speech on (IIRC) technology trends, I think around 1981. Really enjoyed it.January 21, 2012, 9:04 am
-- Michael Walshsays:Nobel prize winner Paul Krugman also cites Asimov’s Foundation books as inspiration:http://krugman.blogs.nytimes.com/2008/05/04/economic-science-fiction/January 21, 2012, 9:18 am
-- Jeff Dickeysays:OK, so the man is an out-of-the-closet geek, likes Toffler and likes Asimov’s Foundation trilogy.  Maybe that’s more than just him being part of us; maybe it’s the part of us that doesn’t help with the problem. It’s not like Foundation was exactly a blueprint for an open, democratic society of the sort that we (think we) used to be. Technocratic? Check. For the greater good? By its own declaration, surely without a femtogram of self-doubt. Now how do we get from there, or here, to “we the people” and a Constitutionally-valid Government again (or “again”)?January 22, 2012, 5:20 am
+- Larry Kollar says:
+The economy being what it was in 1982, I left my native Michigan for Georgia and ended up only a few miles from Newt’s district. Living here ever since, it’s easy to see where Eye of Newt’s toxic politics came from… it seems to be in the blood of many around here.
+I agree with your assessment of his chameleon-like qualities, highly developed even by politician standards. Even back when, he would say something sensible on Monday and “correct” it by Thursday.
+BTW, I remember you coming to Michigan Tech to do a speech on (IIRC) technology trends, I think around 1981. Really enjoyed it.
+January 21, 2012, 9:04 am
+- Michael Walsh says:
+Nobel prize winner Paul Krugman also cites Asimov’s Foundation books as inspiration:  http://krugman.blogs.nytimes.com/2008/05/04/economic-science-fiction/
+January 21, 2012, 9:18 am
+- Jeff Dickey says:
+OK, so the man is an out-of-the-closet geek, likes Toffler and likes Asimov’s Foundation trilogy.  Maybe that’s more than just him being part of us; maybe it’s the part of us that doesn’t help with the problem. It’s not like Foundation was exactly a blueprint for an open, democratic society of the sort that we (think we) used to be. Technocratic? Check. For the greater good? By its own declaration, surely without a femtogram of self-doubt. Now how do we get from there, or here, to “we the people” and a Constitutionally-valid Government again (or “again”)?
+January 22, 2012, 5:20 am
 
 **WordPress**
 **TWTFB2**

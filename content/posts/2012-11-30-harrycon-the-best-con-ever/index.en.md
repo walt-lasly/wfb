@@ -4,6 +4,10 @@ date: 2012-11-30
 categories: ["Authors", "Travel"]
 tags: ["Alfred Bester", "Brian W. Aldiss", "Conventions", "Gay Haldeman", "H.G. Wells", "Harry Harrison", "Ireland", "James Joyce", "Music", "Vasili Zakharchenko", "Yuli Kagarlitski"]
 archive_url: "https://web.archive.org/web/20010101000000/http://www.thewaythefutureblogs.com/2012/11/harrycon-the-best-con-ever/"
+prev_post_url: "/posts/2012-11-25-bright-sayings-of-bright-people-no-37/"
+prev_post_title: "Bright Sayings of Bright People, No. 37"
+next_post_url: "/posts/2012-12-02-bright-sayings-of-bright-people-no-38/"
+next_post_title: "Bright Sayings of Bright People, No. 38"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 37**
-**Bright Sayings of Bright People, No. 38**
 
 ## Harrycon: The Best Con Ever?
 
@@ -24,7 +26,7 @@ Frederik Pohl
 When Harrycon in Ireland came to pass, it was a blast.  A couple of dozen top sf writers showed up-— even Alfie Bester, who was getting into the more serious phases of his blindness — as well as numbers of editors, fans and general hangers-on from all sorts of European, North American and South American countries.
 
 
-And from the Soviet Union a party of four:  my own personal best Russian friend, **Yuli Kagarlitsky**, the USSR’S only author of a scholarly book on science fiction,  *Shto eta fantastika?*; **Vasili Zakharchenko**, editor of a boy’s magazine that sometimes published translated American sf stories, and paid for them in cash — in rubles and kopecks; a young woman with an unclear role; and a dark, heavyset man from the Byelorussian Soviet Socialist Republic who claimed, in Russian, to be a writer of children’s stories but was considered by everyone else to be the group’s KGB minder.  He didn’t appear particularly menacing  His principal activity seemed to be sitting in the hotel lobby and watching Irish TV.
+And from the Soviet Union a party of four:  my own personal best Russian friend, [**Yuli Kagarlitsky**](/posts/2010-06-25-russians-jews-and-isaac/), the USSR’S only author of a scholarly book on science fiction,  *Shto eta fantastika?*; **Vasili Zakharchenko**, editor of a boy’s magazine that sometimes published translated American sf stories, and paid for them in cash — in rubles and kopecks; a young woman with an unclear role; and a dark, heavyset man from the Byelorussian Soviet Socialist Republic who claimed, in Russian, to be a writer of children’s stories but was considered by everyone else to be the group’s KGB minder.  He didn’t appear particularly menacing  His principal activity seemed to be sitting in the hotel lobby and watching Irish TV.
 
 
 Harry Harrison (the Harry of Harrycon) had planned a program for the opening day which mostly comprised introductory remarks by the principal attendees, starting with our Soviet guests.  At first that did not go well, because the first up was Comrade Probable KGB, who spoke, fortunately quite briefly, in his own tongue, which even the Russians had trouble understanding.  After a few moments of everybody looking at everybody else the young woman got up from where she was seated at the back of the audience to say, in English, that he had just told us that this was a historic event and he hoped it might be a first step toward a better understanding between our peoples.  Everybody clapped briefly.

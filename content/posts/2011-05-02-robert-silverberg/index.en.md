@@ -4,6 +4,10 @@ date: 2011-05-02
 categories: ["Authors"]
 tags: ["Editors", "Hugo Awards", "Prozines", "Pulps", "Robert Silverberg"]
 archive_url: "https://web.archive.org/web/20170620022647/http://www.thewaythefutureblogs.com/2011/05/robert-silverberg/"
+prev_post_url: "/posts/2011-04-30-bright-sayings-of-bright-people-no-13-goldman/"
+prev_post_title: "Bright Sayings of Bright People, No. 13: Goldman"
+next_post_url: "/posts/2011-05-04-robert-silverberg-part-2-agberg-and-me/"
+next_post_title: "Robert Silverberg, Part 2: Agberg and Me"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 13: Goldman**
-**Robert Silverberg, Part 2: Agberg and Me**
 
 ## Robert Silverberg
 
@@ -21,7 +23,7 @@ Frederik Pohl
 {{< figure src="silverberg-by-rotslerwb.jpg" alt="Robert Silverberg" caption="Robert Silverberg" >}}
 
 
-Although **Robert Silverberg** was born (in **Brooklyn**, home of literary giants) in 1935, his first novel, a juvenile entitled **Revolt on Alpha C**, was not published until 1955.  Asked to explain this prolonged period with no new book appearing, Silverberg is quick to respond.  “What do you think, I’m some kind of freak who never has periods when he just can’t seem to get words on paper?  I’m human, you know.  Just last week I had a really scary episode of writer’s block that lasted from about 10:45 in the morning almost till lunch.”
+Although **Robert Silverberg** was born (in [**Brooklyn**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/), home of literary giants) in 1935, his first novel, a juvenile entitled **Revolt on Alpha C**, was not published until 1955.  Asked to explain this prolonged period with no new book appearing, Silverberg is quick to respond.  “What do you think, I’m some kind of freak who never has periods when he just can’t seem to get words on paper?  I’m human, you know.  Just last week I had a really scary episode of writer’s block that lasted from about 10:45 in the morning almost till lunch.”
 
 
 Nevertheless he carries on.  His current total is 245 books — sorry, 246 books and more than — no, make that 249 books, as the latest one was a trilogy. . . .
@@ -61,18 +63,37 @@ Even that never happened.  After some years my time to edit those magazines ran 
 
 **Related posts:**  
 
-**Robert Silverberg, Part 2**
+[**Robert Silverberg, Part 2**](/posts/2011-05-04-robert-silverberg-part-2-agberg-and-me/)
 
 
 ### 7 Comments
 
-- Adam Lipkinsays:Given how much Silverberg I read in high school and college (particularly the Lord Valentine books, Dying Inside, and The Book of Skulls), I’m incredibly grateful that you made that deal.May 2, 2011, 5:12 pm
-- Robert Nowallsays:Silverberg is one of those writers whose work, when it does cross my view, remains worth a look.  So few SF writers, so little in the SF magazines, does for me these days.(Did I mention I bought “All the Lives He Lead” last week, but haven’t gotten around to reading it yet?)May 3, 2011, 4:43 pm
-- Michael Habifsays:Robert Silverberg is by far my favorite writer of all time. Please write a million posts about him.May 3, 2011, 8:17 pm
-- Katsays:I remember to this day my first Silverberg:  ‘Across a Billion Years’.  I read it when I was 9 or 10;  I’m almost 40 years past that now and do good to remember what I did last weekend.May 3, 2011, 10:27 pm
-- Gregory Benfordsays:Agberg is a fine writer, and I’ve always wondered why he’s not more broadly known, and sells better, than many writers his inferior.Any thoughts, Fred?May 6, 2011, 2:20 pm
-- Frederik Pohlsays:I suspect Agbob hurts his sales some simply because he’s too prolific, and I think I have some of that problem myself.  If you don’t allow a new book to build up an audience, the next book cuts its sales off by coming out too soon.He has a different theory, though, or he had once when we were talking about that problem some years ago.  At that time he had just made the mistake of writing and publishing a book of limited commercial appeal not for money but for love; it sold relatively poorly, and that cut into his next book’s sales because when the dealers decide how many copies of a new Silverberg (or Pohl, or  Benford) to order the number they pick is the number they sold of your last book.  Bob had in fact — very unlike himself — just published a for-love book, and his sales on the few plummeted accordingly.But, really, it’s a mystery.fredMay 8, 2011, 5:13 pm
-- Joesays:I was a fan since “Flies” the first Silverberg I read.  It was a brilliant mixture of science fiction & horror.  Always loved his dead serious tone that would suddenly shift into hilarious sardonic comedy, then back again, And he has one of the best SF minds since Wells.  Though I’ve pretty much stopped reading SF in the last few years, I want to thank Mr. Silverberg for all the great memories & his complete craftsmanship, and also thank you, Fred, for nurturing & encouraging that talent in his transition from “pulp” writer to serious wordsmith.May 13, 2011, 11:06 am
+- Adam Lipkin says:
+Given how much Silverberg I read in high school and college (particularly the Lord Valentine books, Dying Inside, and The Book of Skulls), I’m incredibly grateful that you made that deal.
+May 2, 2011, 5:12 pm
+- Robert Nowall says:
+Silverberg is one of those writers whose work, when it does cross my view, remains worth a look.  So few SF writers, so little in the SF magazines, does for me these days.
+(Did I mention I bought “All the Lives He Lead” last week, but haven’t gotten around to reading it yet?)
+May 3, 2011, 4:43 pm
+- Michael Habif says:
+Robert Silverberg is by far my favorite writer of all time. Please write a million posts about him.
+May 3, 2011, 8:17 pm
+- Kat says:
+I remember to this day my first Silverberg:  ‘Across a Billion Years’.  I read it when I was 9 or 10;  I’m almost 40 years past that now and do good to remember what I did last weekend.
+May 3, 2011, 10:27 pm
+- Gregory Benford says:
+Agberg is a fine writer, and I’ve always wondered why he’s not more broadly known, and sells better, than many writers his inferior.
+Any thoughts, Fred?
+May 6, 2011, 2:20 pm
+- Frederik Pohl says:
+I suspect Agbob hurts his sales some simply because he’s too prolific, and I think I have some of that problem myself.  If you don’t allow a new book to build up an audience, the next book cuts its sales off by coming out too soon.
+He has a different theory, though, or he had once when we were talking about that problem some years ago.  At that time he had just made the mistake of writing and publishing a book of limited commercial appeal not for money but for love; it sold relatively poorly, and that cut into his next book’s sales because when the dealers decide how many copies of a new Silverberg (or Pohl, or  Benford) to order the number they pick is the number they sold of your last book.  Bob had in fact — very unlike himself — just published a for-love book, and his sales on the few plummeted accordingly.
+But, really, it’s a mystery.
+fred
+May 8, 2011, 5:13 pm
+- Joe says:
+I was a fan since “Flies” the first Silverberg I read.  It was a brilliant mixture of science fiction & horror.  Always loved his dead serious tone that would suddenly shift into hilarious sardonic comedy, then back again, And he has one of the best SF minds since Wells.  Though I’ve pretty much stopped reading SF in the last few years, I want to thank Mr. Silverberg for all the great memories & his complete craftsmanship, and also thank you, Fred, for nurturing & encouraging that talent in his transition from “pulp” writer to serious wordsmith.
+May 13, 2011, 11:06 am
 
 **WordPress**
 **TWTFB2**

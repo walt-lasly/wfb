@@ -4,6 +4,10 @@ date: 2010-07-26
 categories: ["Authors", "Books", "Personal", "Space", "Travel", "Writing"]
 tags: ["Adolf Hitler", "Agents", "Algis Budrys", "Carol Pohl", "Editors", "Edna Budrys", "History", "Horace L. Gold", "John W. Campbell", "Mark Williams", "New York", "Prozines", "Publishing", "Robert A. Heinlein", "Robert M. Guinn", "World War II"]
 archive_url: "https://web.archive.org/web/20170101000000/http://www.thewaythefutureblogs.com/2010/07/algis-budrys/"
+prev_post_url: "/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/"
+prev_post_title: "Si Nga PlltxeUniltìrantokx?(Do You SpeakAvatar?)"
+next_post_url: "/posts/2010-07-28-a-j-part-2/"
+next_post_title: "A J, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Si Nga Plltxe Uniltìrantokx? (Do You Speak Avatar?)**
-**A J, Part 2**
 
 ## A J
 
@@ -131,28 +133,47 @@ But I never did that again.
 
 **Related posts:**
 
-- A J, Part 2
-- Robert A. Heinlein, Algis Budrys and Me
-- The Worlds of L. Ron Hubbard
+- [**A J, Part 2**](/posts/2010-07-28-a-j-part-2/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+- [**The Worlds of L. Ron Hubbard**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
 
 
 ### 11 Comments
 
-- Paul Owenssays:Thanks for this. I’ve read Rogue Moon so many times my copy is falling apart. It’s a terrific, haunting piece of writing that hasn’t really dated at all. A classic.July 26, 2010, 3:34 am
-- Bald Guysays:Ashamed to say I’ve never heard of Algis Budrys. But I’ll certainly keep an eye out for him.July 26, 2010, 4:18 pm
-- TechSlavesays:AJ’s writing was always awesome, and I loved Who?. It was such a piece of it’s place and time, and in a good way. I enjoy the idea of driving all night, tape recorder going. Must’ve required a special set of ‘key words’ for “Wait, no, strike that entire paragraph, I hate it” and figuring out ways to deal with it when he wanted to work on a new chapter or skip a section, much less return and revise.Great as always to hear your memories!July 26, 2010, 4:32 pm
+- Paul Owens says:
+Thanks for this. I’ve read Rogue Moon so many times my copy is falling apart. It’s a terrific, haunting piece of writing that hasn’t really dated at all. A classic.
+July 26, 2010, 3:34 am
+- Bald Guy says:
+Ashamed to say I’ve never heard of Algis Budrys. But I’ll certainly keep an eye out for him.
+July 26, 2010, 4:18 pm
+- TechSlave says:
+AJ’s writing was always awesome, and I loved Who?. It was such a piece of it’s place and time, and in a good way. I enjoy the idea of driving all night, tape recorder going. Must’ve required a special set of ‘key words’ for “Wait, no, strike that entire paragraph, I hate it” and figuring out ways to deal with it when he wanted to work on a new chapter or skip a section, much less return and revise. 
+Great as always to hear your memories!
+July 26, 2010, 4:32 pm
 - Neil in Chicago says:
 Michaelmas is one of the very tiny handful of stories which were really prescient about the info revolution . . .
 July 26, 2010, 6:58 pm
-- Stefan Jonessays:Thank you for the background. I always figured him for a British ex-pat.July 27, 2010, 10:27 pm
-- Major Woottonsays:Who? and Rogue Moon are wonderful books, and so thank you for this profile of an author I don’t hear about often.  Who? should be filmed in black and white as a really good noirish picture, with nothing in the story, characters or setting being changed.  Rogue Moon is an outstanding example of how science fiction supplies us with the fascination of the Sublime.  Meaning no pretentiousness, I’m thinking of the eighteenth-century author Edmund Burke’s treatise on the beautiful and the sublime.  You can go through the checklist of things that Burke says evoke the sense of the sublime, such as darkness, vastness, etc. and see them in many of the best works in the sf genre.  I also believe that the evocation of the sublime is one of the reasons people read things like “Heart of Darkness.”  They think they are reading it for Conrad’s take on colonialism, racism, etc.  But I think that sense of the sublime has a lot to do with the story’s appeal.  Budrys really nails it in Rogue Moon.August 5, 2010, 4:21 pm
-- Major Woottonsays:PS Your own novel Gateway racks up Sublime points!  Were you acquainted with Burke when you wrote it?  Someone could write a whole paper on how the Sublime is the key to what makes that novel work!August 5, 2010, 4:23 pm
-- Major Woottonsays:I should fill that out about the Sublime just a little.  It’s the sense of awe or terror evoked by darkness, vastness, the impression of immense power, by great height or, even more, great depth, by suddenness, by the thought of severe pain, by loud noises, etc.  Burke was writing in a pre-sf age and yet he could have been writing something intended to inspire everyone from Lovecraft to Pohl.  I have a hypothesis that mainstream fiction has largely forgone such material.  Many readers, however, have a recurrent attraction to the Sublime, which may show up early in life, and that tends to draw them to some sf.  I wonder how many people who read modern horror, with its endless accounts of carnage, really like that stuff, but read it because it provides the sense of Sublime as evoked by the elements mentioned above aside from the pain one.  SF often provides Sublime material without wallowing in gore.  Broadhead’s sufferings were of the soul…August 5, 2010, 7:27 pm
+- Stefan Jones says:
+Thank you for the background. I always figured him for a British ex-pat.
+July 27, 2010, 10:27 pm
+- Major Wootton says:
+Who? and Rogue Moon are wonderful books, and so thank you for this profile of an author I don’t hear about often.  Who? should be filmed in black and white as a really good noirish picture, with nothing in the story, characters or setting being changed.  Rogue Moon is an outstanding example of how science fiction supplies us with the fascination of the Sublime.  Meaning no pretentiousness, I’m thinking of the eighteenth-century author Edmund Burke’s treatise on the beautiful and the sublime.  You can go through the checklist of things that Burke says evoke the sense of the sublime, such as darkness, vastness, etc. and see them in many of the best works in the sf genre.  I also believe that the evocation of the sublime is one of the reasons people read things like “Heart of Darkness.”  They think they are reading it for Conrad’s take on colonialism, racism, etc.  But I think that sense of the sublime has a lot to do with the story’s appeal.  Budrys really nails it in Rogue Moon.
+August 5, 2010, 4:21 pm
+- Major Wootton says:
+PS Your own novel Gateway racks up Sublime points!  Were you acquainted with Burke when you wrote it?  Someone could write a whole paper on how the Sublime is the key to what makes that novel work!
+August 5, 2010, 4:23 pm
+- Major Wootton says:
+I should fill that out about the Sublime just a little.  It’s the sense of awe or terror evoked by darkness, vastness, the impression of immense power, by great height or, even more, great depth, by suddenness, by the thought of severe pain, by loud noises, etc.  Burke was writing in a pre-sf age and yet he could have been writing something intended to inspire everyone from Lovecraft to Pohl.  I have a hypothesis that mainstream fiction has largely forgone such material.  Many readers, however, have a recurrent attraction to the Sublime, which may show up early in life, and that tends to draw them to some sf.  I wonder how many people who read modern horror, with its endless accounts of carnage, really like that stuff, but read it because it provides the sense of Sublime as evoked by the elements mentioned above aside from the pain one.  SF often provides Sublime material without wallowing in gore.  Broadhead’s sufferings were of the soul…
+August 5, 2010, 7:27 pm
 - Anton Sherwood says:
 Weekly salary? The only employers that ever gave me weekly paychecks were temp agencies.
 August 9, 2010, 5:15 pm
-- paul de vinnysays:I saw photo of Algis Budrys  holding an airplane in his garage and was somehow struck by it. I read here’s a “hands-on” creative person — there’s more to him than writing science fiction. I JUST GOT that impression. (Will follow it up.)April 6, 2011, 6:19 pm
-- Paul De Vinnysays:Does anyone have any John W. Campbell meets Algis Budrys stories?  Just doing some reserch on Campbell and was wondering if such a “collision” took place.July 22, 2011, 7:30 pm
+- paul de vinny says:
+I saw photo of Algis Budrys  holding an airplane in his garage and was somehow struck by it. I read here’s a “hands-on” creative person — there’s more to him than writing science fiction. I JUST GOT that impression. (Will follow it up.)
+April 6, 2011, 6:19 pm
+- Paul De Vinny says:
+Does anyone have any John W. Campbell meets Algis Budrys stories?  Just doing some reserch on Campbell and was wondering if such a “collision” took place.
+July 22, 2011, 7:30 pm
 
 **WordPress**
 **TWTFB2**

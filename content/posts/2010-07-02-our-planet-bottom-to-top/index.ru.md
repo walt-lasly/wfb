@@ -4,6 +4,10 @@ date: 2010-07-02
 categories: ["Books", "Personal", "Science", "Travel"]
 tags: ["Ecology", "Elizabeth Anne Hull", "Gateways", "Zoology"]
 archive_url: "https://web.archive.org/web/20110922155939/http://www.thewaythefutureblogs.com/2010/07/our-planet-bottom-to-top/"
+prev_post_url: "/posts/2010-06-30-cruising-while-the-sun-goes-out/"
+prev_post_title: "Cruising While the Sun Goes Out"
+next_post_url: "/posts/2010-07-05-basement-and-empire/"
+next_post_title: "Basement and Empire"
 translated: false
 ---
 

@@ -4,6 +4,10 @@ date: 2010-12-06
 categories: ["Authors", "Miscellaneous", "Personal", "Travel"]
 tags: ["Agents", "Ann Pohl", "C.M. Kornbluth", "Futurians", "Judith Merril", "Merril Zissman", "New York", "Sexuality"]
 archive_url: "https://web.archive.org/web/20150921163339/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-4-last-attempts-at-having-a-family/"
+prev_post_url: "/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
+prev_post_title: "Bright Sayings of Bright People, No. 5: James"
+next_post_url: "/posts/2010-12-07-fletcher-pratt/"
+next_post_title: "Fletcher Pratt"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 5: James**
-**Fletcher Pratt**
 
 ## Judith Merril, Part 4: Last Attempts at Having a Family
 
@@ -68,7 +70,7 @@ I did finally quit my job in order to become a full-time literary agent and that
 
 **Related posts:**  
 
-**Judith Merril,** **Part 1**, **Part 2**, **Part 3**, **Part 5**, **Part 6**, **Part 7**, **Part 8**, **Part 9**
+**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 **WordPress**
 **TWTFB2**

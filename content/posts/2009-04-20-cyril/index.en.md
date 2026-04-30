@@ -4,6 +4,10 @@ date: 2009-04-20
 categories: ["Authors", "Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Collaborating", "Editors", "Fritz Leiber", "Horace L. Gold", "Medicine", "Poetry", "Prozines", "Robert P. Mills", "World War II"]
 archive_url: "https://web.archive.org/web/20090425195253/http://www.thewaythefutureblogs.com/2009/04/cyril/"
+prev_post_url: "/posts/2009-04-15-is-the-bell-curve-a-crystal-ball/"
+prev_post_title: "Is the Bell Curve a Crystal Ball?"
+next_post_url: "/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/"
+next_post_title: "Maxwell George Frederik Warren Pohl-Weary"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Is the Bell Curve a Crystal Ball?**
-**Maxwell George Frederik Warren Pohl-Weary**
 
 ## Cyril
 
@@ -60,9 +62,9 @@ The hypertension won. Cyril’s editorial career was cut short — a pity, becau
 
 **C.M. Kornbluth works online**
 
-- “The Only Thing We Learn” (From Startling Stories, July 1949)
-- “The Mindworm” (From Worlds Beyond, December, 1950)
-- “The Cosmic Expense Account” (From F&SF, January 1956)
+- “**The Only Thing We Learn**” (From Startling Stories, July 1949)
+- “**The Mindworm**” (From Worlds Beyond, December, 1950)
+- “**The Cosmic Expense Account**” (From F&SF, January 1956)
 
 
 C.M. Kornbluth on Amazon
@@ -70,14 +72,24 @@ C.M. Kornbluth on Amazon
 
 ### 5 Comments
 
-- steve davidsonsays:Fred, thank you very much for sharing this with us.  I’ve loved both Cyril and your writings and am very fond of the novels your wrote together.  It brought me closer to Cyril to learn some things about him that I didn’t know.April 20, 2009, 8:49 am
-- Luke McGuffsays:Thank you for writing these memories. I, too, count your collaborations among my favorite sf novels from my golden age.April 20, 2009, 12:47 pm
+- steve davidson says:
+Fred, thank you very much for sharing this with us.  I’ve loved both Cyril and your writings and am very fond of the novels your wrote together.  It brought me closer to Cyril to learn some things about him that I didn’t know.
+April 20, 2009, 8:49 am
+- Luke McGuff says:
+Thank you for writing these memories. I, too, count your collaborations among my favorite sf novels from my golden age.
+April 20, 2009, 12:47 pm
 - Stefan Jones says:
 The collection shown (His Share of Glory) is full of wonderful stuff, and highly recommended. Kornbluth was writing satirical fantasy decades before guys like Aspirin and Pratchett made it popular.
 Note to time travelers who might read this: Consider hopping back to 1958, renting a jeep, and offering the guy a lift.
 April 20, 2009, 1:39 pm
-- Elio M. García, Jr.says:I was just starting junior high school (this would place it about 19 years ago now) when I fell in love with science fiction. I devoured the books my school and local libraries had, and of course it slanted towards novels and collections containing the great, classic authors. Asimov, Heinlein, Clarke… and Kornbluth (and, if I may say so, Pohl). Early on I read a biographical clip about Cyril, and it struck me (even at that young age) as a real tragedy that he died so young when he wrote such wonderful stories.Thank you for sharing your recollections of him.April 21, 2009, 2:53 am
-- Scott Haugersays:Just a note to let you know that I really appreciate and enjoy reading your blog, especially the biographical memoirs of sf authors.  I am old enough to have read a couple of your collaborations with Cyril Kornbluth when they first came out, (as well as most all the Heinlein \"juveniles\"}.My favorites, though are the Gateway novels.  How did you come by the underlying concept for them?April 21, 2009, 9:23 pm
+- Elio M. García, Jr. says:
+I was just starting junior high school (this would place it about 19 years ago now) when I fell in love with science fiction. I devoured the books my school and local libraries had, and of course it slanted towards novels and collections containing the great, classic authors. Asimov, Heinlein, Clarke… and Kornbluth (and, if I may say so, Pohl). Early on I read a biographical clip about Cyril, and it struck me (even at that young age) as a real tragedy that he died so young when he wrote such wonderful stories. 
+Thank you for sharing your recollections of him.
+April 21, 2009, 2:53 am
+- Scott Hauger says:
+Just a note to let you know that I really appreciate and enjoy reading your blog, especially the biographical memoirs of sf authors.  I am old enough to have read a couple of your collaborations with Cyril Kornbluth when they first came out, (as well as most all the Heinlein \"juveniles\"}.  
+My favorites, though are the Gateway novels.  How did you come by the underlying concept for them?
+April 21, 2009, 9:23 pm
 
 **WordPress**
 **TWTFB**

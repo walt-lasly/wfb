@@ -4,6 +4,10 @@ date: 2009-10-02
 categories: ["Personal"]
 tags: ["Dirk Wylie", "Music", "New York", "Theater", "Transportation"]
 archive_url: "https://web.archive.org/web/20091204224038/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-brooklyn-boyhood/"
+prev_post_url: "/posts/2009-10-01-deborah-webster-s-solution/"
+prev_post_title: "Deborah Webster’s Solution"
+next_post_url: "/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/"
+next_post_title: "Let There Be Fandom, Part 4: New Deal, New Worlds"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Deborah Webster’s Solution**
-**Let There Be Fandom, Part 4: New Deal, New Worlds**
 
 ## Let There Be Fandom, Part 3: A Brooklyn Boyhood
 
@@ -68,26 +70,50 @@ Which was changing.
 
 **Related posts:**
 
-- The Quadrumvirate
-- When I Graduated from High School (After 73 Years)
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 6: The Pros!
-- Let There Be Fandom, Part 7: The Crusade
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**When I Graduated from High School (After 73 Years)**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
 
 
 ### 8 Comments
 
-- Sylviasays:Hey, some moms still leave their kids to explore the city on foot and bicycle (sadly not subways other than for trips to London, though)October 3, 2009, 9:40 am
-- Stefan Jonessays:It would be hard to get too many stories about NYC kidhoods.Keep them coming.I’m just old enough to remember ten cent subway fares; I was really little but I do remember that from visits to family friends and relatives who lived in Greenwich Village, where my grandparents once had a restaurant.Also remember great big civic swimming pools that I recall costing a dime . . . there was one a few blocks south of my cousins’ apartment on Carmine street, near Bleecker.October 4, 2009, 12:30 am
-- dubqnpsays:Thanks for writing an interesting blog Frederik.I really enjoy your stories about growing up in NYC. I spent a couple of years on Long Island myself and also didn’t graduate from high school. My brother introduced me to your science fiction stories, made me a fan of the genre and you are still among my favorite writers. (PKD might beat you - but it’s a close call).Thanks for making me remember roaming NYC as a kid even if it were 50 years later./an European fan.October 4, 2009, 4:12 pm
-- Jeffsays:I’m afraid that, had you been growing up today, you would have been removed from your parents’ custody and put in foster care.October 5, 2009, 8:35 am
-- Joe Fodorsays:The Avenue H station on the BMT line is the city’s only shingled wooden cottage turned transit station house– also one of the only ones that is a registered historic landmark. Just last week the Coney Island-side was closed until late next year for renovation….one hopes that the decades-old scourge of six-year-old fare evaders has finally come to an end!October 5, 2009, 1:53 pm
-- Bill Higgins-- Beam Jockeysays:Wow.  Rudy Vallee, Bert Lahr, and Ukulele Ike on the same stage!  Wish I could have seen it with you.October 6, 2009, 11:50 am
-- George Bergersays:Dear Mr Pohl–I was born in Far Rockaway (Queens County, NYC) in 1942. It was a great place to grow up, as I’m sure you know. The Subway–A Train–arrived there in 1958, having been extended from Euclid Ave. right across Jamaica Bay, where it split into 2 branches, one with Mott Ave (Far Rockaway) last stop and the other 116th St (Rockaway Park). I became a subway fanatic, just as you did earlier. What a fantastic system. I was thrilled not only by the various routes but by all the passageways, e.g. at 42nd street. It was a delight to discover some new connection between lines and even, I’ll admit, an underground barbershop or restroom. I was dismayed when I heard that the 5 cent price would be hiked upwards. So we have something in common.Another common element is my devotion to the best in SF since 57 or perhaps 56, and that includes many of your works. I discovered SF and Astronautics in the great Carnegie Library of Far Rockaway, when I had only a card for the Children’s section. So I was stuck with Heinlein’s juviniles, which did not excite me. Later on I got an Adult card and was able to read Stapledon, Asimov and Clarke. I have written about this briefly here:http://www.farrockaway.com/georgebergerlibrary.html. I am now retired, after an academic career spent almost entirely in Europe. I live in Uppsala Sweden, whose fans follow your work, especially the fine Johan Anglemark, who told me about your blog last night. I shall now attempt to post this and then read on. The book whose title partly graces your blog is my favorite memoir in American SF. It’s as interesting, elegant, and evocative as Alfred Kazin’s “A Walker in the City.” Indeed, I admire both so much that I bought them online earlier this year. I lost them during one of my moves, which have taken me farther and farther from NYC and its subways. I don’t mind this too much, since the few friends I have who live there all tell me that its soul has been taken out of it. I have thought that since the 8th Street Bookshop closed.October 7, 2009, 7:42 am
-- Al Bogdansays:My grandparents were in Queens and the Bronx, and I spent every summer wandering New York. It\’s one great city. My grandfather never owned a car. He took us everywhere on subways, buses and foot. My uncle Richie was also a subway conductor, so I have memories of riding up front with him.I would always fall asleep on public transit coming home late at night, only to wake up one stop before I had to get off. It\’s like you could feel your destination approaching. Never got lost, which is something I can\’t claim driving around in a car.October 7, 2009, 11:28 am
+- Sylvia says:
+Hey, some moms still leave their kids to explore the city on foot and bicycle (sadly not subways other than for trips to London, though)
+October 3, 2009, 9:40 am
+- Stefan Jones says:
+It would be hard to get too many stories about NYC kidhoods.
+Keep them coming.
+I’m just old enough to remember ten cent subway fares; I was really little but I do remember that from visits to family friends and relatives who lived in Greenwich Village, where my grandparents once had a restaurant. 
+Also remember great big civic swimming pools that I recall costing a dime . . . there was one a few blocks south of my cousins’ apartment on Carmine street, near Bleecker.
+October 4, 2009, 12:30 am
+- dubqnp says:
+Thanks for writing an interesting blog Frederik.
+I really enjoy your stories about growing up in NYC. I spent a couple of years on Long Island myself and also didn’t graduate from high school. My brother introduced me to your science fiction stories, made me a fan of the genre and you are still among my favorite writers. (PKD might beat you - but it’s a close call).
+Thanks for making me remember roaming NYC as a kid even if it were 50 years later.
+/an European fan.
+October 4, 2009, 4:12 pm
+- Jeff says:
+I’m afraid that, had you been growing up today, you would have been removed from your parents’ custody and put in foster care.
+October 5, 2009, 8:35 am
+- Joe Fodor says:
+The Avenue H station on the BMT line is the city’s only shingled wooden cottage turned transit station house– also one of the only ones that is a registered historic landmark. Just last week the Coney Island-side was closed until late next year for renovation….one hopes that the decades-old scourge of six-year-old fare evaders has finally come to an end!
+October 5, 2009, 1:53 pm
+- Bill Higgins-- Beam Jockey says:
+Wow.  Rudy Vallee, Bert Lahr, and Ukulele Ike on the same stage!  Wish I could have seen it with you.
+October 6, 2009, 11:50 am
+- George Berger says:
+Dear Mr Pohl–I was born in Far Rockaway (Queens County, NYC) in 1942. It was a great place to grow up, as I’m sure you know. The Subway–A Train–arrived there in 1958, having been extended from Euclid Ave. right across Jamaica Bay, where it split into 2 branches, one with Mott Ave (Far Rockaway) last stop and the other 116th St (Rockaway Park). I became a subway fanatic, just as you did earlier. What a fantastic system. I was thrilled not only by the various routes but by all the passageways, e.g. at 42nd street. It was a delight to discover some new connection between lines and even, I’ll admit, an underground barbershop or restroom. I was dismayed when I heard that the 5 cent price would be hiked upwards. So we have something in common.
+     Another common element is my devotion to the best in SF since 57 or perhaps 56, and that includes many of your works. I discovered SF and Astronautics in the great Carnegie Library of Far Rockaway, when I had only a card for the Children’s section. So I was stuck with Heinlein’s juviniles, which did not excite me. Later on I got an Adult card and was able to read Stapledon, Asimov and Clarke. I have written about this briefly here: http://www.farrockaway.com/georgebergerlibrary.html . I am now retired, after an academic career spent almost entirely in Europe. I live in Uppsala Sweden, whose fans follow your work, especially the fine Johan Anglemark, who told me about your blog last night. I shall now attempt to post this and then read on. The book whose title partly graces your blog is my favorite memoir in American SF. It’s as interesting, elegant, and evocative as Alfred Kazin’s “A Walker in the City.” Indeed, I admire both so much that I bought them online earlier this year. I lost them during one of my moves, which have taken me farther and farther from NYC and its subways. I don’t mind this too much, since the few friends I have who live there all tell me that its soul has been taken out of it. I have thought that since the 8th Street Bookshop closed.
+October 7, 2009, 7:42 am
+- Al Bogdan says:
+My grandparents were in Queens and the Bronx, and I spent every summer wandering New York. It\’s one great city. My grandfather never owned a car. He took us everywhere on subways, buses and foot. My uncle Richie was also a subway conductor, so I have memories of riding up front with him.
+I would always fall asleep on public transit coming home late at night, only to wake up one stop before I had to get off. It\’s like you could feel your destination approaching. Never got lost, which is something I can\’t claim driving around in a car.
+October 7, 2009, 11:28 am
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,8 @@ date: 2011-12-07
 categories: ["Science", "Writing"]
 tags: ["Media"]
 archive_url: "https://web.archive.org/web/20130201000000/http://www.thewaythefutureblogs.com/2011/12/what-keeps-me-informed/"
+prev_post_url: "/posts/2011-12-05-god-bless-the-occupiers/"
+prev_post_title: "God Bless the Occupiers!"
 translated: false
 ---
 

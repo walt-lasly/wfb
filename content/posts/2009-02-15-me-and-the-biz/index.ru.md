@@ -4,6 +4,10 @@ date: 2009-02-15
 categories: ["Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Chernobyl", "Films", "Gateway", "Heechee", "Hollywood", "Lawrence Schiller", "Man Plus", "Meg Liberman", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20090224010709/http://www.thewaythefutureblogs.com/2009/02/me-and-the-biz/"
+prev_post_url: "/posts/2009-02-11-farewell-nuku-hiva/"
+prev_post_title: "Farewell, Nuku Hiva"
+next_post_url: "/posts/2009-02-18-day-of-the-plutoid/"
+next_post_title: "Day of the Plutoid"
 translated: false
 ---
 

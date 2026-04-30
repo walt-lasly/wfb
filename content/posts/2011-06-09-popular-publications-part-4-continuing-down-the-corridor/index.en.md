@@ -4,6 +4,10 @@ date: 2011-06-09
 categories: ["Authors"]
 tags: ["Alden H. Norton", "Editors", "Harold S. Goldsmith", "Harry Steeger", "Jane Littell", "New York", "Prozines", "Publishing", "Pulps", "Rogers Terrill"]
 archive_url: "https://web.archive.org/web/20170620012424/http://www.thewaythefutureblogs.com/2011/06/popular-publications-part-4-continuing-down-the-corridor/"
+prev_post_url: "/posts/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
+prev_post_title: "Bright Sayings of Bright People, No. 15: Stoppard"
+next_post_url: "/posts/2011-06-18-and-the-winners-are/"
+next_post_title: "And the Winners Are…"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 15: Stoppard**
-**And the Winners Are…**
 
 ## Popular Publications, Part 4:Continuing Down the Corridor
 
@@ -53,15 +55,25 @@ Both of them, in fact, more or less ran their own publishing companies, with ten
 
 **Related posts:**
 
-- **Popular Publications**, **Part 1**, **Part 2**, **Part 3**, **Part 5**, **Part 6**, **Part 7**
+- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Comments
 
-- Mike Bullocksays:It\’s amazing how what most likely seemed mundane at the time you experienced it is now fascinating to so many who enjoy reading and/or writing pulp stories these days. Thanks for the journey and please don\’t stop.June 13, 2011, 5:49 am
-- JohnArmstrongsays:Does Martin Goodman rear his head at any point in your pulp career, Fred?And, PS – just finished All The Lives He Led Last Night – fine story, with all those beautiful, throwaway world-building touches guys like me struggle to come up with …. still laughing at Stannish flywhen’s the next one out?June 13, 2011, 7:24 pm
-- Bill Higgins-- Beam Jockeysays:Someday, this will be valuable research detail to some author who will be writing a novel set in a pulp-magazine firm circa 1940…June 14, 2011, 1:15 pm
-- willowsays:He is my all time favorite author. Love reading his books & finding this just made my day. He’s still got it that’s for sure.July 7, 2011, 7:11 pm
+- Mike Bullock says:
+It\’s amazing how what most likely seemed mundane at the time you experienced it is now fascinating to so many who enjoy reading and/or writing pulp stories these days. Thanks for the journey and please don\’t stop.
+June 13, 2011, 5:49 am
+- JohnArmstrong says:
+Does Martin Goodman rear his head at any point in your pulp career, Fred?
+And, PS – just finished All The Lives He Led Last Night – fine story, with all those beautiful, throwaway world-building touches guys like me struggle to come up with …. still laughing at Stannish fly
+when’s the next one out?
+June 13, 2011, 7:24 pm
+- Bill Higgins-- Beam Jockey says:
+Someday, this will be valuable research detail to some author who will be writing a novel set in a pulp-magazine firm circa 1940…
+June 14, 2011, 1:15 pm
+- willow says:
+He is my all time favorite author. Love reading his books & finding this just made my day. He’s still got it that’s for sure.
+July 7, 2011, 7:11 pm
 
 **WordPress**
 **TWTFB2**

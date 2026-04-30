@@ -4,6 +4,10 @@ date: 2013-05-06
 categories: ["Authors", "Personal"]
 tags: ["Carol Pohl", "Conventions", "Elizabeth Anne Hull", "Jack Williamson", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170619233954/http://www.thewaythefutureblogs.com/2013/05/arrival-part-5-i-guess-i-am/"
+prev_post_url: "/posts/2013-05-04-bright-sayings-of-bright-people-no-45-voltaire/"
+prev_post_title: "Bright Sayings of Bright People, No. 45: Voltaire"
+next_post_url: "/posts/2013-05-08-arrival-part-6-the-deal/"
+next_post_title: "Arrival, Part 6: The Deal"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 45: Voltaire**
-**Arrival, Part 6: The Deal**
 
 ## Arrival, Part 5:  ‘I guess I am’
 
@@ -53,17 +55,19 @@ I spent the next half hour talking SFWA business with whoever happened by, and j
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 6: The Deal
-- Arrival, Part 7: Departure
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
 
 
 ### One Comment
 
-- Kensays:Yikes, a false ending! I thought the story was concluded with chapter four.May 6, 2013, 6:25 pm
+- Ken says:
+Yikes, a false ending! I thought the story was concluded with chapter four.
+May 6, 2013, 6:25 pm
 
 **WordPress**
 **TWTFB2**

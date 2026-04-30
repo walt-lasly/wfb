@@ -4,6 +4,10 @@ date: 2013-05-10
 categories: ["Personal"]
 tags: ["Conventions", "Elizabeth Anne Hull", "Robert A. Heinlein", "Worldcons"]
 archive_url: "https://web.archive.org/web/20220101000000/http://www.thewaythefutureblogs.com/2013/05/arrival-part-7-departure/"
+prev_post_url: "/posts/2013-05-08-arrival-part-6-the-deal/"
+prev_post_title: "Arrival, Part 6: The Deal"
+next_post_url: "/posts/2013-05-12-dung-into-dollars/"
+next_post_title: "Dung into dollars"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Arrival, Part 6: The Deal**
-**Dung into dollars**
 
 ## Arrival, Part 7: Departure
 
@@ -38,19 +40,29 @@ And then I pocketed the cash refund for the unused day of my stay and got in a c
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 6: The Deal
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
 
 
 ### 3 Comments
 
-- Organic Marblesays:So, you flew out on the Shuttle Carrier Aircraft?  That’s science fiction writer cool.May 10, 2013, 6:03 pm
-- the blog teamsays:Caught! Needed a public-domain shot of an airplane and got one from NASA. Figures somebody reading Fred’s blog would recognize it. It would have been extra cool in 1976!May 11, 2013, 12:23 pm
-- John Armstrongsays:http://www.nytimes.com/2013/05/14/science/engineering-the-325000-in-vitro-burger.html?nl=todaysheadlines&emc=edit_th_20130514Here comes Chicken Little …. was CL you or Cyril, or both?Hope you’re well FredBest,JohnMay 16, 2013, 9:42 am
+- Organic Marble says:
+So, you flew out on the Shuttle Carrier Aircraft?  That’s science fiction writer cool.
+May 10, 2013, 6:03 pm
+- the blog team says:
+Caught! Needed a public-domain shot of an airplane and got one from NASA. Figures somebody reading Fred’s blog would recognize it. It would have been extra cool in 1976!
+May 11, 2013, 12:23 pm
+- John Armstrong says:
+http://www.nytimes.com/2013/05/14/science/engineering-the-325000-in-vitro-burger.html?nl=todaysheadlines&emc=edit_th_20130514
+Here comes Chicken Little …. was CL you or Cyril, or both?
+Hope you’re well Fred
+Best,
+John
+May 16, 2013, 9:42 am
 
 **WordPress**
 **TWTFB2**

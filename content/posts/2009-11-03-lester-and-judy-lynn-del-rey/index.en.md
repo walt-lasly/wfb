@@ -4,6 +4,10 @@ date: 2009-11-03
 categories: ["Authors", "Personal"]
 tags: ["A. Bertram Chandler", "Conventions", "Donald A. Wollheim", "Editors", "Elsie Wollheim", "Hydra Club", "Ian and Betty Ballantine", "John W. Campbell", "Judy-Lynn del Rey", "L. Sprague de Camp", "Lester del Rey", "New York", "Prozines", "Ray Cummings", "Robert Guinn", "W. Olaf Stapledon"]
 archive_url: "https://web.archive.org/web/20091211203126/http://www.thewaythefutureblogs.com/2009/11/lester-and-judy-lynn-del-rey/"
+prev_post_url: "/posts/2009-10-26-squabbles-in-the-stars/"
+prev_post_title: "Squabbles in the Stars"
+next_post_url: "/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
+next_post_title: "Astounding Years 30–37 BC:* Clayton Magazines"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Squabbles in the Stars**
-**Astounding Years 30–37 BC:* Clayton Magazines**
 
 ## Lester and Judy-Lynn del Rey
 
@@ -87,10 +89,26 @@ Other husband-wife editorial teams in science fiction and fantasy — Ian and Be
 
 ### 4 Comments
 
-- Stefan Jonessays:A real powerhouse team. They were still around and influential for most of the time I was an “active” SF fan.Could I suggest putting more dates in the above?November 3, 2009, 6:50 pm
-- David Dyer-Bennetsays:I think I’ve seen that photo before somewhere!  (I’m pleased to see it here.)And I’m continuing to greatly enjoy the historical content that you promised us.  Thank you!November 4, 2009, 11:56 am
-- Krisssays:Sorry this isnt relevant to the post but I just noticed it go by and thought people here might be interested.http://www.gutenberg.org/etext/30399Pythias by Frederik PohlThis etext was produced from Galaxy Science Fiction February 1955.Looks like someone is digitizing some old magazines on project gutenberg.November 4, 2009, 1:25 pm
-- Michael Blacksays:I started buying more than juvenile science fiction either around the time Del Rey Books got started, or shorty before.  I assumed it was named after him, it took some years before I realized that he was doing the fantasy and his wife was doing the science fiction.That was a prime time for science fiction, so much of the older work getting back in print (I assume because paperback publishing was doing well, and likely also because enough of a reader base had built up) and all the history being published, not just your book, but things like “The Early Del Rey” where his early stories were interleaved with autobiographical inserts about those times.  Everyone’s lives sounded so interesting, not just the collective of the Futurians, but all that time Lester Del Rey spent on fixing up his typewriter or being interested in photography.MichaelNovember 9, 2009, 1:26 pm
+- Stefan Jones says:
+A real powerhouse team. They were still around and influential for most of the time I was an “active” SF fan. 
+Could I suggest putting more dates in the above?
+November 3, 2009, 6:50 pm
+- David Dyer-Bennet says:
+I think I’ve seen that photo before somewhere!  (I’m pleased to see it here.)
+And I’m continuing to greatly enjoy the historical content that you promised us.  Thank you!
+November 4, 2009, 11:56 am
+- Kriss says:
+Sorry this isnt relevant to the post but I just noticed it go by and thought people here might be interested.
+http://www.gutenberg.org/etext/30399
+Pythias by Frederik Pohl
+This etext was produced from Galaxy Science Fiction February 1955.
+Looks like someone is digitizing some old magazines on project gutenberg.
+November 4, 2009, 1:25 pm
+- Michael Black says:
+I started buying more than juvenile science fiction either around the time Del Rey Books got started, or shorty before.  I assumed it was named after him, it took some years before I realized that he was doing the fantasy and his wife was doing the science fiction.
+That was a prime time for science fiction, so much of the older work getting back in print (I assume because paperback publishing was doing well, and likely also because enough of a reader base had built up) and all the history being published, not just your book, but things like “The Early Del Rey” where his early stories were interleaved with autobiographical inserts about those times.  Everyone’s lives sounded so interesting, not just the collective of the Futurians, but all that time Lester Del Rey spent on fixing up his typewriter or being interested in photography.
+   Michael
+November 9, 2009, 1:26 pm
 
 **WordPress**
 **TWTFB**

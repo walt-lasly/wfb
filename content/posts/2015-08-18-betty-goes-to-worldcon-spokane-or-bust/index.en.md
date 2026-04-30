@@ -4,6 +4,10 @@ date: 2015-08-18
 categories: ["News", "Personal", "Travel"]
 tags: ["Conventions", "Elizabeth Anne Hull", "Worldcons"]
 archive_url: "https://web.archive.org/web/20240301000000/http://www.thewaythefutureblogs.com/2015/08/betty-goes-to-worldcon-spokane-or-bust/"
+prev_post_url: "/posts/2015-08-17-syfy-gateway-moves-closer-to-tv/"
+prev_post_title: "Syfy:GatewayMoves Closer to TV"
+next_post_url: "/posts/2015-10-16-betty-s-at-icon/"
+next_post_title: "Betty’s at ICon"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Syfy: Gateway Moves Closer to TV**
-**Betty’s at ICon**
 
 ## Betty Goes to Worldcon: Spokane or Bust!
 
@@ -47,7 +49,9 @@ Have fun, everyone! Don’t let the Kolektinbugs bite … much.
 
 ### One Comment
 
-- Jeffrey S. Jonessays:I’m sorry I missed the panel and the autographing — too much else to do!August 27, 2015, 10:42 am
+- Jeffrey S. Jones says:
+I’m sorry I missed the panel and the autographing — too much else to do!
+August 27, 2015, 10:42 am
 
 **WordPress**
 **TWTFB2**

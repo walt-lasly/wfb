@@ -4,6 +4,10 @@ date: 2014-01-30
 categories: ["Personal"]
 tags: ["Chicago", "Conventions", "Dick Smith", "Elizabeth Anne Hull", "Leah A. Zeldes"]
 archive_url: "https://web.archive.org/web/20160416122523/http://www.thewaythefutureblogs.com/2014/01/join-us-at-capricon/"
+prev_post_url: "/posts/2014-01-29-all-in-the-family-honors-for-emily-pohl-weary/"
+prev_post_title: "All in the Family: Honors for Emily Pohl-Weary"
+next_post_url: "/posts/2014-02-04-on-the-character-of-characters/"
+next_post_title: "On the Character of Characters"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**All in the Family: Honors for Emily Pohl-Weary**
-**On the Character of Characters**
 
 ## Join us at Capricon!
 
@@ -35,7 +37,7 @@ With re-makes and re-boots everywhere, canon may be a fading luxury concept. Rep
 
 1 p.m. Saturday, Autograph Table  
 
-Betty will be signing copies of **Gateways**, the **festschrift anthology** she edited for Fred’s 90th birthday, and she’ll also have some books Fred signed before he died.
+Betty will be signing copies of **Gateways**, the [**festschrift anthology**](/posts/2009-01-01-elizabeth-anne-hull/) she edited for Fred’s 90th birthday, and she’ll also have some books Fred signed before he died.
 - **Reading**  
 
 3:15 p.m. Saturday, Birch A
@@ -81,7 +83,7 @@ If you’ve heard about tweeting, but haven’t given it a chance, our panel of 
 
 7 p.m. Friday, Birch B  
 
-**See above**.
+[**See above**](/posts/2014-01-30-join-us-at-capricon/).
 - **“So Awful, It’s Awesome: Guilty Pleasures”**  
 
 8:30 p.m. Saturday, Birch B  
@@ -102,7 +104,10 @@ Hope to see you there!
 
 ### One Comment
 
-- Stefan Jonessays:I am glad to see that Frederik Pohl’s “Posse” is getting out there.I look forward to seeing more posts.February 1, 2014, 12:55 pm
+- Stefan Jones says:
+I am glad to see that Frederik Pohl’s “Posse” is getting out there.
+I look forward to seeing more posts.
+February 1, 2014, 12:55 pm
 
 **WordPress**
 **TWTFB2**

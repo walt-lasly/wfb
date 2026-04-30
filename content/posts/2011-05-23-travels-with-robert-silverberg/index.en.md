@@ -4,6 +4,10 @@ date: 2011-05-23
 categories: ["Authors", "Travel"]
 tags: ["China", "Clubs", "Editors", "Elizabeth Anne Hull", "History", "Italy", "Karen Haber", "L. Sprague de Camp", "Prozines", "Robert Silverberg", "Sashiko Shibano", "Takumi Shibano", "World SF", "Yang Xiao"]
 archive_url: "https://web.archive.org/web/20190201000000/http://www.thewaythefutureblogs.com/2011/05/travels-with-robert-silverberg/"
+prev_post_url: "/posts/2011-05-21-bright-sayings-of-bright-people-no-14-churchill/"
+prev_post_title: "Bright Sayings of Bright People, No. 14: Churchill"
+next_post_url: "/posts/2011-05-24-post-scriptum/"
+next_post_title: "Post Scriptum"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 14: Churchill**
-**Post Scriptum**
 
 ## Travels with Robert Silverberg
 
@@ -56,10 +58,18 @@ Which just goes to show you what a bunch of science-fiction types can do when th
 
 ### 4 Comments
 
-- Ross Pressersays:How the world has changed … nowadays, you’d just pull up the translation tool on Google or Bing, on your smartphone…. or download an instant translation app that would do it even easier, with speech recognition / text-to-speech.May 26, 2011, 2:20 pm
-- Dr. Whatsays:As a Chinese SF fan, I\’m familiar with SFW and Yang，and also the terrible event in Tiananmen Square. But reading these together makes me feel strange…… Anyway, Yang is really great.June 7, 2011, 5:46 am
-- Robert Silverbergsays:Readers who wonder where in Italy “Fanano” might be located should be advised that although Fred may indeed have gone to a convention in Fanano that year, while he was doing it Karen and Betty Anne and Brian Aldiss and Harry Harrison and I were all gathered in the hilltop republic of San Marino.  The convention was the Eurocon.  The year, I’m pretty sure, was 1989.June 17, 2011, 6:00 pm
-- Robert Silverbergsays:There really is a Fanano, by the way.  It’s somewhere near Modena and for all I recall the Pohls and Silverbergs passed right by it on our way from Venice to the Eurocon in 1989.  But the Eurocon itself really was held in San Marino.  What I remember most clearly about it was that the hotel bar had an assortment of green liqueurs lined up against its mirror, and that Harry Harrison, Brian Aldiss, and I methodically sampled a shot of each one of them one slow afternoon.  (I think there was a green form of Strega, and maybe a green Galliano, and perhaps the others were obscure Sammarinese liqueurs.)  The abstemious Mr. Pohl was, I think, off writing a story while the three of us were conducting our researchJune 18, 2011, 5:23 pm
+- Ross Presser says:
+How the world has changed … nowadays, you’d just pull up the translation tool on Google or Bing, on your smartphone…. or download an instant translation app that would do it even easier, with speech recognition / text-to-speech.
+May 26, 2011, 2:20 pm
+- Dr. What says:
+As a Chinese SF fan, I\’m familiar with SFW and Yang，and also the terrible event in Tiananmen Square. But reading these together makes me feel strange…… Anyway, Yang is really great. 
+June 7, 2011, 5:46 am
+- Robert Silverberg says:
+Readers who wonder where in Italy “Fanano” might be located should be advised that although Fred may indeed have gone to a convention in Fanano that year, while he was doing it Karen and Betty Anne and Brian Aldiss and Harry Harrison and I were all gathered in the hilltop republic of San Marino.  The convention was the Eurocon.  The year, I’m pretty sure, was 1989.
+June 17, 2011, 6:00 pm
+- Robert Silverberg says:
+There really is a Fanano, by the way.  It’s somewhere near Modena and for all I recall the Pohls and Silverbergs passed right by it on our way from Venice to the Eurocon in 1989.  But the Eurocon itself really was held in San Marino.  What I remember most clearly about it was that the hotel bar had an assortment of green liqueurs lined up against its mirror, and that Harry Harrison, Brian Aldiss, and I methodically sampled a shot of each one of them one slow afternoon.  (I think there was a green form of Strega, and maybe a green Galliano, and perhaps the others were obscure Sammarinese liqueurs.)  The abstemious Mr. Pohl was, I think, off writing a story while the three of us were conducting our research
+June 18, 2011, 5:23 pm
 
 **WordPress**
 **TWTFB2**

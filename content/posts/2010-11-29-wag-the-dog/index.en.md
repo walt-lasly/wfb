@@ -4,6 +4,10 @@ date: 2010-11-29
 categories: ["Miscellaneous"]
 tags: ["Barack Obama", "Films", "Media", "Politics", "Richard Roeper", "Terrorism"]
 archive_url: "https://web.archive.org/web/20160429051924/http://www.thewaythefutureblogs.com/2010/11/wag-the-dog/"
+prev_post_url: "/posts/2010-11-28-what-my-clients-thought/"
+prev_post_title: "What My Clients Thought"
+next_post_url: "/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/"
+next_post_title: "Judith Merril, Part 1: ‘That Only a Mother’"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**What My Clients Thought**
-**Judith Merril, Part 1: ‘That Only a Mother’**
 
 ## ‘Wag the Dog’
 
@@ -42,7 +44,20 @@ I know who’s spreading that stuff.  It’s someone who has no honor or decency
 
 ### 4 Comments
 
-- sarasays:Its an interesting little twist on the idea isn’t it?We will never eliminate the cowards and the ignorant.  And the combination of the two seem to be rampant in the world today.November 29, 2010, 12:53 pm
-- Stefan Jonessays:I sometimes wonder if the right wing in this country has discovered the political-cultural equivalent of the English longbow; but instead of mowing down armored knights and put an end to feudalism, they’ve figured out how to put an end to democracy.November 29, 2010, 1:52 pm
-- Joseph Crockettsays:Mr. Pohl,I’m not really surprised. This is typical of the disinformation campaigns run by the GOP since the ascendance of Bush II, with that weasel Karl Rove as the architect. I wouldn’t be surprised if Rove or some shadow organization that he is affiliated with is behind this.It is amazing how far to the right they have managed to push our country, saying and doing things to which even Barry Goldwater would have raised his eyebrows. Fortunately (or rather, unfortunately), I believe that they have just about run their course. They have shifted so much wealth upward, at the cost of our middle class, our environment and our standing in world, that they have taken aim on some sacred cows in order to perpetuate their status quo. And these last election results not withstanding, proposed cuts on Social Security and Medicare and raising retirement ages in order to LOWER the top marginal tax rates for the wealthy will go over like a lead balloon. I think that they have woken the sleeping, gray giant and will pay the price in 2012.Thanks for bringing this newest outrage to my attention.Joseph CrockettNovember 29, 2010, 3:21 pm
-- Bill Goodwinsays:I’m amazed at how difficult it is to convey, to the “Terrorists Wouldn’t Worry About YOUR Rights” mentality, that the burden of civilization must be on the civilized….November 30, 2010, 3:37 am
+- sara says:
+Its an interesting little twist on the idea isn’t it?  
+We will never eliminate the cowards and the ignorant.  And the combination of the two seem to be rampant in the world today.
+November 29, 2010, 12:53 pm
+- Stefan Jones says:
+I sometimes wonder if the right wing in this country has discovered the political-cultural equivalent of the English longbow; but instead of mowing down armored knights and put an end to feudalism, they’ve figured out how to put an end to democracy.
+November 29, 2010, 1:52 pm
+- Joseph Crockett says:
+Mr. Pohl,
+I’m not really surprised. This is typical of the disinformation campaigns run by the GOP since the ascendance of Bush II, with that weasel Karl Rove as the architect. I wouldn’t be surprised if Rove or some shadow organization that he is affiliated with is behind this.
+It is amazing how far to the right they have managed to push our country, saying and doing things to which even Barry Goldwater would have raised his eyebrows. Fortunately (or rather, unfortunately), I believe that they have just about run their course. They have shifted so much wealth upward, at the cost of our middle class, our environment and our standing in world, that they have taken aim on some sacred cows in order to perpetuate their status quo. And these last election results not withstanding, proposed cuts on Social Security and Medicare and raising retirement ages in order to LOWER the top marginal tax rates for the wealthy will go over like a lead balloon. I think that they have woken the sleeping, gray giant and will pay the price in 2012.
+Thanks for bringing this newest outrage to my attention.
+Joseph Crockett
+November 29, 2010, 3:21 pm
+- Bill Goodwin says:
+I’m amazed at how difficult it is to convey, to the “Terrorists Wouldn’t Worry About YOUR Rights” mentality, that the burden of civilization must be on the civilized….
+November 30, 2010, 3:37 am

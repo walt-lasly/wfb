@@ -4,6 +4,10 @@ date: 2010-11-10
 categories: ["Authors"]
 tags: ["Broadway", "David Asimov", "Futurians", "Gertrude Asimov", "Isaac Asimov", "New York", "Robyn Asimov", "Sexuality"]
 archive_url: "https://web.archive.org/web/20131011223123/http://www.thewaythefutureblogs.com/2010/11/isaac-asimov-part-6/"
+prev_post_url: "/posts/2010-11-09-bright-sayings-of-bright-people-no-3-ciardi/"
+prev_post_title: "Bright Sayings of Bright People, No. 3*: Ciardi"
+next_post_url: "/posts/2010-11-12-fred-s-distilled-writing-wisdom-part-4/"
+next_post_title: "Fred’s Distilled Writing Wisdom, Part 4"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 3*: Ciardi**
-**Fred’s Distilled Writing Wisdom, Part 4**
 
 ## Isaac,  Part 6
 
@@ -22,8 +24,8 @@ Our continued reminiscences of Isaac Asimov, and we must be getting somewhere ne
 
 ![The Sensuous Dirty Old Man](sensuous-dr-a.jpg)
 
-**Isaac**
-**Gertrude**
+[**Isaac**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)
+[**Gertrude**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/)
 **David**
 **Robyn**
 
@@ -75,23 +77,53 @@ And the smile froze and the right hand began to pull back, and extend again, and
 
 **Related posts**:
 
-- **Isaac,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**,  **Part 7**
-- Russians, Jews and Isaac
+- **Isaac,** [**Part 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 2**](/posts/2010-01-31-isaac-part-2-of-many/), [**Part 3**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/), [**Part 4**](/posts/2010-02-26-isaac-part-4-and-some-other-guys/), [**Part 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/),  [**Part 7**](/posts/2010-11-15-isaac-part-7/)
+- [**Russians, Jews and Isaac**](/posts/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 11 Comments
 
-- Bill Goodwinsays:A Boston professor (by day)Was a skillful undresser (they say)Ever keen for new cloverWhen classes were overThe sort where a man goesTo layNovember 10, 2010, 3:14 am
-- Qsays:You\’re a wicked man, Mr. PohlNovember 10, 2010, 6:11 am
-- Joshsays:Ha!November 10, 2010, 8:59 am
-- Robert Nowallsays:I’m afraid my opinion of Asimov lowered some when I learned of his “affairs,” after his death.  (It isn’t the only thing.)  I suppose I made the journey from idolatry to hero-worship to role-modeling, and eventually down to just awe and respect.The “Gittel?  Is it really you?” story *was* in Asimov’s memoirs, in slightly different form…as I recall, he cited it as a warning notice on the fickleness of his own fame…November 10, 2010, 4:52 pm
-- Chookiesays:I’m going to be laughing all day about that one!November 10, 2010, 8:46 pm
-- Tina Blacksays:You are a wicked man, Fred!  But it really was too good a chance to miss.November 11, 2010, 3:39 pm
-- Rich Rostromsays:He hadn’t noticed they were all >6′/200 lbs?Or if he did, what did he think they were?November 11, 2010, 7:44 pm
-- Dwight Deckersays:In perusing a few pulp magazines, I’ve gotten the impression that circa 1941, Asimov had some reputation in letter-column controversies for being a woman-hater. I haven’t as yet seen the letters where he got that reputation, however, and I’m basing this on considerably removed replies to replies. I would guess that young Isaac was actually objecting to the old pulp convention of stories including crowbarred-in romances, in which the young sprout hero not only saved the Earth but met the love of his life along the way. Maybe Asimov was arguing it’s enough in a story for the hero to discover that just a slight amount of excess beryllium will make a planet unsuitable for colonization, and he doesn’t need to meet and woo the chief scientist’s beautiful daughter while he’s at it to make the reader happy, and that was interpreted as being anti-female… but I’m just guessing.November 11, 2010, 10:55 pm
-- Paula Helm Murraysays:That, sir, was delectable. Especially about the trans-gendered.I love all this, thanks for your reporting!  Keep it up!November 18, 2010, 9:27 pm
-- Catherine Barber aka 'CatBar'says:Really enjoyed this.  Though I always reckoned old Ise would be a bit of a nerd with women: kind of liked the idea of them but wouldn’t know how to handle them sort of thing.  And also would be quite prudish about sex and things sexy.  From reading his books he NEVER ever struck me as a sensual, visceral or visual person – truly a man of intellect and ideas.May 15, 2011, 2:33 am
-- Manuel Royalsays:Hate to say it, but maybe it’s just as well Isaac and Rebecca Watson weren’t contemporaries ….August 1, 2012, 2:37 pm
+- Bill Goodwin says:
+A Boston professor (by day)
+Was a skillful undresser (they say)
+Ever keen for new clover
+When classes were over
+The sort where a man goes
+To lay
+November 10, 2010, 3:14 am
+- Q says:
+You\’re a wicked man, Mr. Pohl  
+November 10, 2010, 6:11 am
+- Josh says:
+Ha!
+November 10, 2010, 8:59 am
+- Robert Nowall says:
+I’m afraid my opinion of Asimov lowered some when I learned of his “affairs,” after his death.  (It isn’t the only thing.)  I suppose I made the journey from idolatry to hero-worship to role-modeling, and eventually down to just awe and respect.
+The “Gittel?  Is it really you?” story *was* in Asimov’s memoirs, in slightly different form…as I recall, he cited it as a warning notice on the fickleness of his own fame…
+November 10, 2010, 4:52 pm
+- Chookie says:
+I’m going to be laughing all day about that one!
+November 10, 2010, 8:46 pm
+- Tina Black says:
+You are a wicked man, Fred!  But it really was too good a chance to miss.
+November 11, 2010, 3:39 pm
+- Rich Rostrom says:
+He hadn’t noticed they were all >6′/200 lbs?
+Or if he did, what did he think they were?
+November 11, 2010, 7:44 pm
+- Dwight Decker says:
+In perusing a few pulp magazines, I’ve gotten the impression that circa 1941, Asimov had some reputation in letter-column controversies for being a woman-hater. I haven’t as yet seen the letters where he got that reputation, however, and I’m basing this on considerably removed replies to replies. I would guess that young Isaac was actually objecting to the old pulp convention of stories including crowbarred-in romances, in which the young sprout hero not only saved the Earth but met the love of his life along the way. Maybe Asimov was arguing it’s enough in a story for the hero to discover that just a slight amount of excess beryllium will make a planet unsuitable for colonization, and he doesn’t need to meet and woo the chief scientist’s beautiful daughter while he’s at it to make the reader happy, and that was interpreted as being anti-female… but I’m just guessing.
+November 11, 2010, 10:55 pm
+- Paula Helm Murray says:
+That, sir, was delectable. Especially about the trans-gendered.
+I love all this, thanks for your reporting!  Keep it up!
+November 18, 2010, 9:27 pm
+- Catherine Barber aka 'CatBar' says:
+Really enjoyed this.  Though I always reckoned old Ise would be a bit of a nerd with women: kind of liked the idea of them but wouldn’t know how to handle them sort of thing.  And also would be quite prudish about sex and things sexy.  From reading his books he NEVER ever struck me as a sensual, visceral or visual person – truly a man of intellect and ideas.
+May 15, 2011, 2:33 am
+- Manuel Royal says:
+Hate to say it, but maybe it’s just as well Isaac and Rebecca Watson weren’t contemporaries ….
+August 1, 2012, 2:37 pm
 
 **WordPress**
 **TWTFB2**

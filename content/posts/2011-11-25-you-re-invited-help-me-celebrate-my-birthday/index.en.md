@@ -4,6 +4,10 @@ date: 2011-11-25
 categories: ["Personal"]
 tags: []
 archive_url: "https://web.archive.org/web/20111130040649/http://www.thewaythefutureblogs.com/2011/11/youre-invited-help-me-celebrate-my-birthday/"
+prev_post_url: "/posts/2011-11-20-bright-sayings-of-bright-people-no-21/"
+prev_post_title: "Bright Sayings of Bright People, No. 21"
+next_post_url: "/posts/2011-11-26-my-birthday-wish-for-america/"
+next_post_title: "My Birthday Wish for America"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 21**
-**My Birthday Wish for America**
 
 ## You’re Invited: Help Me Celebrate My Birthday
 
@@ -33,8 +35,12 @@ Fred
 
 ### 2 Comments
 
-- travelgirlsays:happy name day, son!  thank you for entertaining me through the decadesNovember 25, 2011, 3:34 pm
-- Armrowsays:Happy Birthday.November 27, 2011, 12:54 am
+- travelgirl says:
+happy name day, son!  thank you for entertaining me through the decades 
+November 25, 2011, 3:34 pm
+- Armrow says:
+Happy Birthday.
+November 27, 2011, 12:54 am
 
 **WordPress**
 **TWTFB**

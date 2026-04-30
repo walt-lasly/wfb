@@ -4,6 +4,10 @@ date: 2012-09-28
 categories: ["Personal"]
 tags: ["Anna Jane Pohl", "Frederik George Pohl", "Great Depression", "Herbert Hoover", "New York"]
 archive_url: "https://web.archive.org/web/20220201000000/http://www.thewaythefutureblogs.com/2012/09/early-life-the-depression/"
+prev_post_url: "/posts/2012-09-26-keith-laumer/"
+prev_post_title: "Keith Laumer"
+next_post_url: "/posts/2012-10-01-early-editors/"
+next_post_title: "Early Editors"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Keith Laumer**
-**Early Editors**
 
 ## Early life: The Depression
 
@@ -65,10 +67,19 @@ But no, all those other places were for just a few months, this neighborhood was
 
 ### 5 Comments
 
-- Neil in Chicagosays:The Interstate Highway system is one of the Twentieth Century’s greatest monuments to Unintended Consequences.The overwhelming majority of the country now lives in suburbs.  For most Americans, there’s cars and malls.September 28, 2012, 11:38 pm
-- Joe from Brklynsays:thanks for this one and for giving us all the house numbers. I remembering once looking your father up in an old 1930s Brooklyn telephone directory and finding another Fred Pohl in Brooklyn Heights — a travel writer; no relation.September 29, 2012, 7:54 am
-- Nestorsays:Always interesting to read a slice of life from days gone by.September 30, 2012, 10:34 am
-- SMsays:You were using voting machines in New York State back in 1932?  Wow.  Canada is still using good old reliable pencil and paper, but I can see how the sheer number of offices that Americans vote for makes a punch-card form convenient.September 30, 2012, 11:22 am
+- Neil in Chicago says:
+The Interstate Highway system is one of the Twentieth Century’s greatest monuments to Unintended Consequences.
+The overwhelming majority of the country now lives in suburbs.  For most Americans, there’s cars and malls.
+September 28, 2012, 11:38 pm
+- Joe from Brklyn says:
+thanks for this one and for giving us all the house numbers. I remembering once looking your father up in an old 1930s Brooklyn telephone directory and finding another Fred Pohl in Brooklyn Heights — a travel writer; no relation.
+September 29, 2012, 7:54 am
+- Nestor says:
+Always interesting to read a slice of life from days gone by.
+September 30, 2012, 10:34 am
+- SM says:
+You were using voting machines in New York State back in 1932?  Wow.  Canada is still using good old reliable pencil and paper, but I can see how the sheer number of offices that Americans vote for makes a punch-card form convenient.
+September 30, 2012, 11:22 am
 - Stefan Jones says:
 I grew up on Long Island and visited relatives in Manhattan countless times, but Brooklyn is essentially Terra Incognita. So these insights into its neighborhoods and features is interesting and informative.
 September 30, 2012, 10:07 pm

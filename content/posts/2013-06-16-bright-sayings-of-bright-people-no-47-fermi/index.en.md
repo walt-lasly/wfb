@@ -4,6 +4,10 @@ date: 2013-06-16
 categories: ["Science"]
 tags: ["Enrico Fermi", "Quotations"]
 archive_url: "https://web.archive.org/web/20151201000000/http://www.thewaythefutureblogs.com/2013/06/bright-sayings-of-bright-people-no-47-fermi/"
+prev_post_url: "/posts/2013-06-14-my-war-part-3-picture-perfect/"
+prev_post_title: "My War, Part 3: Picture Perfect"
+next_post_url: "/posts/2013-06-18-hey-occupy-take-aim-at-the-nra/"
+next_post_title: "Hey, Occupy! Take aim at the NRA"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**My War, Part 3: Picture Perfect**
-**Hey, Occupy! Take aim at the NRA**
 
 ## Bright Sayings of Bright People, No. 47: Fermi
 
@@ -26,8 +28,12 @@ Frederik Pohl
 
 ### 2 Comments
 
-- Bill Higgins-- Beam Jockeysays:My man!June 17, 2013, 11:52 am
-- Dan Gollubsays:But is life more likely in the oceans of Titan or Europa? Perhaps theory can answer this, or maybe only direct measurement will provide the answer.June 18, 2013, 8:33 am
+- Bill Higgins-- Beam Jockey says:
+My man!
+June 17, 2013, 11:52 am
+- Dan Gollub says:
+But is life more likely in the oceans of Titan or Europa? Perhaps theory can answer this, or maybe only direct measurement will provide the answer.
+June 18, 2013, 8:33 am
 
 **WordPress**
 **TWTFB2**

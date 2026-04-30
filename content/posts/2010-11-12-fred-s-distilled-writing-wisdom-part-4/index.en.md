@@ -4,6 +4,10 @@ date: 2010-11-12
 categories: ["Writing"]
 tags: ["E.E. ‘Doc’ Smith", "John Cheever"]
 archive_url: "https://web.archive.org/web/20131012021834/http://www.thewaythefutureblogs.com/2010/11/freds-distilled-writing-wisdom-part-4-names/"
+prev_post_url: "/posts/2010-11-10-isaac-part-6/"
+prev_post_title: "Isaac,  Part 6"
+next_post_url: "/posts/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
+next_post_title: "E-mail Us by Nov. 15 forGatewaysGiveaway"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Isaac,  Part 6**
-**E-mail Us by Nov. 15 for Gateways Giveaway**
 
 ## Fred’s Distilled Writing Wisdom, Part 4
 
@@ -46,13 +48,17 @@ However, use reasonable care.  If the person who just won a judgment for $100,00
 
 
 **Related posts:
-Fred’s Distilled Writing Wisdom,** **Part 1**, **Part 2**, **Part 3**
+Fred’s Distilled Writing Wisdom,** [**Part 1**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/), [**Part 2**](/posts/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [**Part 3**](/posts/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
 
 
 ### 2 Comments
 
-- Richard Bensamsays:When it comes to character names, the greatest advantage we have today over writers at any prior time is the Internet search engine.  It won’t help invent a name…but once you’ve come up with one, the search engine can point you to a bibliographic reference for Leander Wapshot, or Miles Cowperthwaite’s page on Facebook, and alert you in plenty of time to make a needed change.  It can save a lot of needless embarrassment.November 12, 2010, 3:43 am
-- Orinsays:Though I imagine it is somewhat easier with search engines to catch such a thing todayNovember 12, 2010, 6:15 am
+- Richard Bensam says:
+When it comes to character names, the greatest advantage we have today over writers at any prior time is the Internet search engine.  It won’t help invent a name…but once you’ve come up with one, the search engine can point you to a bibliographic reference for Leander Wapshot, or Miles Cowperthwaite’s page on Facebook, and alert you in plenty of time to make a needed change.  It can save a lot of needless embarrassment.
+November 12, 2010, 3:43 am
+- Orin says:
+Though I imagine it is somewhat easier with search engines to catch such a thing today  
+November 12, 2010, 6:15 am
 
 **WordPress**
 **TWTFB2**

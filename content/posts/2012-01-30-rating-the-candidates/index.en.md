@@ -4,6 +4,10 @@ date: 2012-01-30
 categories: ["Miscellaneous"]
 tags: ["Barack Obama", "Ecology", "Mitt Romney", "Newt Gingrich", "Politics", "Rick Santorum"]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2012/01/rating-the-candidates/"
+prev_post_url: "/posts/2012-01-27-math-skills/"
+prev_post_title: "Math skills"
+next_post_url: "/posts/2012-01-31-a-j-budrys-hits-his-stride/"
+next_post_title: "A J Budrys Hits His Stride"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Math skills**
-**A J Budrys Hits His Stride**
 
 ## Rating the Candidates
 
@@ -42,9 +44,16 @@ None of them has proposed remedial action for, or even shown they know a problem
 If things go seriously bad with the climate partway through a Republican administration, I’m sure they’ll address the problem swiftly . . . by blaming atheists, gay marriage, sharia law and . . . I dunno, whatever third-world country has just discovered oil and needs a regime change, stat.
 Rich towns will get subsidies for dikes to deal with flooding. Poor ones will be offered pontoons, so that their mobile homes can float out to sea, where they’ll be able to link up with off-shore libertarian island utopias that need coolies and servants.
 January 30, 2012, 11:35 am
-- Harharsays:Obama has only made things worse.   He has no plan and know idea what to do and simply bumbles around.January 30, 2012, 1:58 pm
-- Robert Nowallsays:“…the most serious problem we and the rest of the world faces, namely the mounting ferocity of weather disasters, caused primarily by global warming.”You’re putting us on, right?January 30, 2012, 4:50 pm
-- Gerry M. Allensays:This set of climate problems is so serious due to the scope of the disasters that await us, and the spectrum of misery they will inflict on our fellow creatures and ourselves. The debate is not a scientific one but a religico-political position. Obama and his advisers at least acknowledge the problems, while the public statements of the candidate seekers do not.February 1, 2012, 12:06 pm
+- Harhar says:
+Obama has only made things worse.   He has no plan and know idea what to do and simply bumbles around.
+January 30, 2012, 1:58 pm
+- Robert Nowall says:
+“…the most serious problem we and the rest of the world faces, namely the mounting ferocity of weather disasters, caused primarily by global warming.”
+You’re putting us on, right?
+January 30, 2012, 4:50 pm
+- Gerry M. Allen says:
+This set of climate problems is so serious due to the scope of the disasters that await us, and the spectrum of misery they will inflict on our fellow creatures and ourselves. The debate is not a scientific one but a religico-political position. Obama and his advisers at least acknowledge the problems, while the public statements of the candidate seekers do not.
+February 1, 2012, 12:06 pm
 
 **WordPress**
 **TWTFB2**

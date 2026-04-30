@@ -4,6 +4,10 @@ date: 2013-07-29
 categories: ["Personal"]
 tags: ["Ballet", "Carl Sagan", "Carol Pohl", "Carolie Ulf", "Isaac Asimov", "Medicine"]
 archive_url: "https://web.archive.org/web/20230401000000/http://www.thewaythefutureblogs.com/2013/07/and-the-day-came/"
+prev_post_url: "/posts/2013-07-25-what-we-learn-in-economics/"
+prev_post_title: "What We Learn in Economics"
+next_post_url: "/posts/2013-08-12-where-the-oinkers-go/"
+next_post_title: "Where the Oinkers Go"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**What We Learn in Economics**
-**Where the Oinkers Go**
 
 ## And the Day Came
 
@@ -30,7 +32,7 @@ That is, I don’t mean that there were no female people in my life.  There was 
 Then there was Marge, the surgical nurse who supervised the operation on my nose and didn’t seem to mind, or even notice, the way it smelled while it was healing, and Bea from the folk-dance group I had begun taking my kids to now and then.  Take them all in all, it was surprising how many basically single but not unavailable youngish women I turned out to know once my wife Carol was no longer obscuring the view.
 
 
-That’s not even counting the Bantam office.  There, people weren’t asking me why I bought **Dhalgren** anymore.  They were jealously curious to know instead how I had been able to tell that this peculiar and highly sexual bunch of pages was going to have legs, for legs  it was beginning to have.  50,000 copies sold, 80,000, and the books that were on the shelves from the original print order were melting away and the production people were on the phones ordering more, and quicker.
+That’s not even counting the Bantam office.  There, people weren’t asking me why I bought [**Dhalgren**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/) anymore.  They were jealously curious to know instead how I had been able to tell that this peculiar and highly sexual bunch of pages was going to have legs, for legs  it was beginning to have.  50,000 copies sold, 80,000, and the books that were on the shelves from the original print order were melting away and the production people were on the phones ordering more, and quicker.
 
 
 I was as surprised as anybody.  In my own world of bookselling dreams I had thought that *Dhalgren* might turn out to be a sleeper, a book that might have a modest early sale, but a sale that kept on coming and maybe growing slowly, and then, as more and more people discovered it, growing less slowly all the time.  But there was nothing slow about the way customers kept appearing and searching for copies to buy.
@@ -48,7 +50,7 @@ What I didn’t like was going to such events without having Carol (or some avai
 Elsie, whom I invited to the Britannica lunch, was impressed by cultural status and  thrilled by the chance to eat with the people who  made that supreme authority supreme, as the date of one of them.  It turned out, in fact, to be even culturaler than she had thought.
 
 
-As people straggled in to the event, the first familiar face I saw belonged to **Isaac Asimov**.  He didn’t see anyone else he wanted to sit with either, so we had at least a party of three.  Then, while Isaac was looking up his own entry among the volumes racked up by the wall (I of course don’t mean entries he had written himself but the one that someone else had written *about* Asimov, Isaac), in came **Carl Sagan**, alone, as unfamiliar with the scores of other guests as ourselves and as glad to see us.
+As people straggled in to the event, the first familiar face I saw belonged to [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/).  He didn’t see anyone else he wanted to sit with either, so we had at least a party of three.  Then, while Isaac was looking up his own entry among the volumes racked up by the wall (I of course don’t mean entries he had written himself but the one that someone else had written *about* Asimov, Isaac), in came **Carl Sagan**, alone, as unfamiliar with the scores of other guests as ourselves and as glad to see us.
 
 
 So now we had a happy little sub-party of four, the only problem being that other people had been arriving and choosing seats, and the only table that had four available seats together was the head table, occupied by the editor, the after-lunch speaker and a couple of their own friends.
@@ -92,19 +94,21 @@ Had we come to any solution?  Of course not.  But, I thought grimly, not that fa
 
 **Related posts:**
 
-- Arrival: The Happiest Airport
-- Arrival, Part 2: Heinlein Stories
-- Arrival, Part 3: KC in the GOP’s Wake
-- Arrival, Part 4: The Party Plan
-- Arrival, Part 5: ‘I guess I am’
-- Arrival, Part 6: The Deal
-- Arrival, Part 7: Departure
-- **The Miracle of Dhalgren**
+- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
+- [**The Miracle of Dhalgren**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/)
 
 
 ### One Comment
 
-- Eric Msays:Amazing…you’ve got me hooked on a story again, and once again it’s non-fiction. Keep ’em coming!July 29, 2013, 9:24 pm
+- Eric M says:
+Amazing…you’ve got me hooked on a story again, and once again it’s non-fiction. Keep ’em coming!
+July 29, 2013, 9:24 pm
 
 **WordPress**
 **TWTFB2**

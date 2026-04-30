@@ -4,6 +4,10 @@ date: 2009-11-17
 categories: ["Authors", "Personal"]
 tags: ["Editors", "F. Orlin Tremaine", "Fanzines", "John W. Campbell", "L. Sprague de Camp", "Prozines"]
 archive_url: "https://web.archive.org/web/20091126115012/http://www.thewaythefutureblogs.com/2009/11/astounding-years-3037-bc-street-smith/"
+prev_post_url: "/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
+prev_post_title: "Astounding Years 30–37 BC:* Clayton Magazines"
+next_post_url: "/posts/2009-11-21-a-couple-more-comments-on-comments/"
+next_post_title: "A Couple More Comments on Comments"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Astounding Years 30–37 BC:* Clayton Magazines**
-**A Couple More Comments on Comments**
 
 ## Astounding Years 30–37 BC:* Street & Smith
 
@@ -51,12 +53,16 @@ But then Tremaine returned to supervisory duties.  Street & Smith cast about for
 
 **Related post:**  
 
-**Astounding Years 30–37 BC: Clayton Magazines**
+[**Astounding Years 30–37 BC: Clayton Magazines**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 
 
 ### One Comment
 
-- Jim Meadowssays:My late father’s science fiction collection included a run of Astounding back to his adolescence — but only one issue was from the Tremaine period. It was a battered, coverless issue, which I’ve recently determined to be from 1935. I was reading my dad’s old magazines a lot during my own adolescence, and that 1935 Astounding fascinated me.There were two stories that remain in my memory. One was “The Blue Infinity”, “a novel in which the earth moves”, an example of the gracelessly written, yet fast-moving galaxy-busting science fiction that I think entertained a lot of Astounding readers. Reading it in the 1970s, I thought it was a hoot.On the other hand, I was quite impressed with another story just as fecklessly ambitious, but which actually seemed more credible to me. While I cannot remember the pseudo-science that it used, I do remember that the story ended with everything on earth (perhaps beyond) slowly softening into some sort of molecular mush. I believe in this case, the earth was NOT saved in the nick of time. I loved this story.November 21, 2009, 7:51 pm
+- Jim Meadows says:
+My late father’s science fiction collection included a run of Astounding back to his adolescence — but only one issue was from the Tremaine period. It was a battered, coverless issue, which I’ve recently determined to be from 1935. I was reading my dad’s old magazines a lot during my own adolescence, and that 1935 Astounding fascinated me. 
+There were two stories that remain in my memory. One was “The Blue Infinity”, “a novel in which the earth moves”, an example of the gracelessly written, yet fast-moving galaxy-busting science fiction that I think entertained a lot of Astounding readers. Reading it in the 1970s, I thought it was a hoot.
+On the other hand, I was quite impressed with another story just as fecklessly ambitious, but which actually seemed more credible to me. While I cannot remember the pseudo-science that it used, I do remember that the story ended with everything on earth (perhaps beyond) slowly softening into some sort of molecular mush. I believe in this case, the earth was NOT saved in the nick of time. I loved this story.
+November 21, 2009, 7:51 pm
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,10 @@ date: 2009-11-21
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Fletcher Pratt", "Hugo Gernsback", "Jeff Berkwits", "Joan Hon", "New York", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20180101000000/http://www.thewaythefutureblogs.com/2009/11/a-couple-more-comments-on-comments/"
+prev_post_url: "/posts/2009-11-17-astounding-years-30-37-bc-street-smith/"
+prev_post_title: "Astounding Years 30–37 BC:* Street & Smith"
+next_post_url: "/posts/2009-11-26-happy-birthday-dear-fred/"
+next_post_title: "Happy Birthday, Dear Fred"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Astounding Years 30–37 BC:* Street & Smith**
-**Happy Birthday, Dear Fred**
 
 ## A Couple More Comments on Comments
 
@@ -22,7 +24,7 @@ Frederik Pohl
 Now that I’m getting marginally better at one-hand typing, I can respond a little better to some of your remarks.  In particular there were a ton (relatively speaking) of responses to my piece on the Science Fiction League, and two that I just can’t not reply to.
 
 
-One is from a woman from Singapore whom I met there in 1985 and who is not named **Han May**.  That, however, is the pen name she attached to her novel, **Star Sapphire**, which just happens to be the only science-fiction novel ever written by a Singaporean. Grand to hear from you, May.  (And the rest of you please note that this blog may not be the most popular ever, but it sure does get to some far-off places.)
+One is from a woman from Singapore whom I met there in 1985 and who is not named [**Han May**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/).  That, however, is the pen name she attached to her novel, **Star Sapphire**, which just happens to be the only science-fiction novel ever written by a Singaporean. Grand to hear from you, May.  (And the rest of you please note that this blog may not be the most popular ever, but it sure does get to some far-off places.)
 
 
 The other is from Jeff Berkwits (note also that I’m getting braver about using names), who wants to know something about the other science fiction league, the one that hardly anybody else has heard of.
@@ -39,13 +41,19 @@ Unfortunately, there was not a great deal to handle.  The two organizers were pe
 
 **Related post:**  
 
-**Let There Be Fandom: The Science Fiction League**
+[**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 
 ### 2 Comments
 
-- Russ Graysays:I spend a significant part of my day typing.  When my hands get tired or my carpal tunnel acts up I use some software called Dragon Naturally Speaking.  It allows you to dictate into the computer.  It takes some getting used to, but it works fairly well.  I use the Preferred version; I’ve heard the Professional (i.e., expensive) version isn’t enough better to be worth the money.  The newest version is version 10.http://www.nuance.com/naturallyspeaking/products/editions/preferred.aspBy the way I love your blog.December 2, 2009, 9:09 pm
-- Jeff Berkwitssays:Thanks so much for taking the time to answer and clear things up. That’s great info to know. I know the show continued to incorporate the SF League name in its credits for some time, but never was entirely sure how it fit into the puzzle. Now I have a much clearer picture. Most appreciated, and belated wishes on your birthday! Here’s to many, many more!December 3, 2009, 4:51 pm
+- Russ Gray says:
+I spend a significant part of my day typing.  When my hands get tired or my carpal tunnel acts up I use some software called Dragon Naturally Speaking.  It allows you to dictate into the computer.  It takes some getting used to, but it works fairly well.  I use the Preferred version; I’ve heard the Professional (i.e., expensive) version isn’t enough better to be worth the money.  The newest version is version 10.
+http://www.nuance.com/naturallyspeaking/products/editions/preferred.asp
+By the way I love your blog.
+December 2, 2009, 9:09 pm
+- Jeff Berkwits says:
+Thanks so much for taking the time to answer and clear things up. That’s great info to know. I know the show continued to incorporate the SF League name in its credits for some time, but never was entirely sure how it fit into the puzzle. Now I have a much clearer picture. Most appreciated, and belated wishes on your birthday! Here’s to many, many more!
+December 3, 2009, 4:51 pm
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,10 @@ date: 2012-05-29
 categories: ["Authors", "Books"]
 tags: ["Engineering", "Gene Wolfe", "Korean War"]
 archive_url: "https://web.archive.org/web/20230801000000/http://www.thewaythefutureblogs.com/2012/05/gene-wolfe-the-unknowable/"
+prev_post_url: "/posts/2012-05-26-some-comments-on-the-comments-selective-service/"
+prev_post_title: "Some Comments on the Comments: Selective Service"
+next_post_url: "/posts/2012-05-31-reading-the-funnies-in-the-times/"
+next_post_title: "Reading the Funnies in the Times"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Some Comments on the Comments: Selective Service**
-**Reading the Funnies in the Times**
 
 ## Gene Wolfe: The Unknowable?
 
@@ -35,13 +37,31 @@ He’s a treasure, this Gene Wolfe is, and not just an admired writer but a usef
 
 ### 7 Comments
 
-- Dan Reidsays:I freakin’ love, and completely agree with, the last seven words of this post.May 29, 2012, 9:11 pm
-- Aaronsays:Gene Wolfe has been one of my favorite writers for about seven years now.  I started writing him about three years ago, and was surprised that he wrote me back.  His first letter was brief but very touching.  He sent along a copy of Strange Birds signed to me.  We have written back and forth several times since and each letter I receive is better than the last.  I hope Mr. Wolfe lives to write and correspond for a long time to come.  He truly is a treasure.May 30, 2012, 7:51 am
-- Upcoming4.mesays:The man’s a legend.May 30, 2012, 9:29 am
-- Alexander Primarchussays:How strange that you who have met him did not know these things, while I who have not did.Of all authors that I wish to meet and correspond with, Gene Wolfe is at the top of my list.Alas, unlike Lucius Shepard, he is not so easy to find contact details for.What I pity, that I who am Severian in many ways have been unable to do so thus far. But the strange winds of fate turns as they will, and it is not beyond the realms of the possible that one day I shall look him in the eye and say:“Here I am. You have written of me many times. How do you do?”May 30, 2012, 2:15 pm
-- Bill Goodwinsays:Where Wolfe?June 1, 2012, 4:10 am
-- Gary Phillipssays:There wolfe, there castle.June 7, 2012, 7:53 am
-- Neil in Chicagosays:The most recent whiplash I’ve gotten from Gene, Gene whose erudition strikes awe even into the group mind of fandom, was a silly throwaway joke in The Wizard Knight.  Someone’s getting outfitted with armor, and the guy who paints shields explains that he charges by the figure.  Some coats of arms have more, some less.  He mentions that the most expensive job he’s ever had was three hearts and three lions.June 24, 2012, 5:31 pm
+- Dan Reid says:
+I freakin’ love, and completely agree with, the last seven words of this post.
+May 29, 2012, 9:11 pm
+- Aaron says:
+Gene Wolfe has been one of my favorite writers for about seven years now.  I started writing him about three years ago, and was surprised that he wrote me back.  His first letter was brief but very touching.  He sent along a copy of Strange Birds signed to me.  We have written back and forth several times since and each letter I receive is better than the last.  I hope Mr. Wolfe lives to write and correspond for a long time to come.  He truly is a treasure.
+May 30, 2012, 7:51 am
+- Upcoming4.me says:
+The man’s a legend.
+May 30, 2012, 9:29 am
+- Alexander Primarchus says:
+How strange that you who have met him did not know these things, while I who have not did.
+ Of all authors that I wish to meet and correspond with, Gene Wolfe is at the top of my list.
+ Alas, unlike Lucius Shepard, he is not so easy to find contact details for.
+ What I pity, that I who am Severian in many ways have been unable to do so thus far. But the strange winds of fate turns as they will, and it is not beyond the realms of the possible that one day I shall look him in the eye and say:
+ “Here I am. You have written of me many times. How do you do?”
+May 30, 2012, 2:15 pm
+- Bill Goodwin says:
+Where Wolfe?
+June 1, 2012, 4:10 am
+- Gary Phillips says:
+There wolfe, there castle.
+June 7, 2012, 7:53 am
+- Neil in Chicago says:
+The most recent whiplash I’ve gotten from Gene, Gene whose erudition strikes awe even into the group mind of fandom, was a silly throwaway joke in The Wizard Knight.  Someone’s getting outfitted with armor, and the guy who paints shields explains that he charges by the figure.  Some coats of arms have more, some less.  He mentions that the most expensive job he’s ever had was three hearts and three lions.
+June 24, 2012, 5:31 pm
 
 **WordPress**
 **TWTFB2**

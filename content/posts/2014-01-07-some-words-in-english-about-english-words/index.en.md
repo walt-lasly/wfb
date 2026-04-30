@@ -4,6 +4,10 @@ date: 2014-01-07
 categories: ["Betty's Posts", "Writing"]
 tags: ["Elizabeth Anne Hull", "Language"]
 archive_url: "https://web.archive.org/web/20140101000000/http://www.thewaythefutureblogs.com/2014/01/some-words-in-english-about-english-words/"
+prev_post_url: "/posts/2014-01-05-the-story-of-the-space-merchants-part-5/"
+prev_post_title: "The Story ofThe Space Merchants, Part 5"
+next_post_url: "/posts/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
+next_post_title: "More onThe Space Merchants, 21st Century Edition"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Story of The Space Merchants, Part 5**
-**More on The Space Merchants, 21st Century Edition**
 
 ## Some Words in English About English Words
 
@@ -41,9 +43,18 @@ Language in general is what separates *Homo sapiens* from other species with who
 
 ### 3 Comments
 
-- Wadesays:I look forward to watching more of this video when I can find the time. I’ve been reading “History in English Words” by Owen Barfield, a British philosopher who was a friend of C. S. Lewis and an influence on Tolkien as well.Thanks for reviving the blog. It’s been one of my favorites for a long time.January 8, 2014, 7:13 am
-- Bill Chapmansays:Hello, ElizabethYou’re right that “English … as a lingua franca … puts all those for whom it is their second language on an even playing field”. At the same time it puts those who have it as a mother tongue in an advantaged position. A case for Esperanto, perhaps.January 8, 2014, 11:27 am
-- Dan Gollubsays:“Language in general is what separates Homo sapiens from other species…”I published an article in Psychology and Education, Vol 46, #2 in 2009 suggesting, in part, that thinking in words before falling asleep could lead to more intelligent dreams.January 8, 2014, 6:29 pm
+- Wade says:
+I look forward to watching more of this video when I can find the time. I’ve been reading “History in English Words” by Owen Barfield, a British philosopher who was a friend of C. S. Lewis and an influence on Tolkien as well.
+Thanks for reviving the blog. It’s been one of my favorites for a long time.
+January 8, 2014, 7:13 am
+- Bill Chapman says:
+Hello, Elizabeth
+You’re right that “English … as a lingua franca … puts all those for whom it is their second language on an even playing field”. At the same time it puts those who have it as a mother tongue in an advantaged position. A case for Esperanto, perhaps.
+January 8, 2014, 11:27 am
+- Dan Gollub says:
+“Language in general is what separates Homo sapiens from other species…”
+I published an article in Psychology and Education, Vol 46, #2 in 2009 suggesting, in part, that thinking in words before falling asleep could lead to more intelligent dreams.
+January 8, 2014, 6:29 pm
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2011-07-11
 categories: ["Books", "Science"]
 tags: ["All the Lives He Led", "Geophysics", "Giuseppe De Natale", "Italy", "Rosa Russo Iervolino", "World War II"]
 archive_url: "https://web.archive.org/web/20250901000000/http://www.thewaythefutureblogs.com/2011/07/yellowstone-on-the-isle-of-capri/"
+prev_post_url: "/posts/2011-07-09-warning-fred-is-getting-political-again/"
+prev_post_title: "Warning: Fred is Getting Political Again"
+next_post_url: "/posts/2011-07-12-martin-harry-greenberg-1941-2011/"
+next_post_title: "Martin Harry Greenberg (1941–2011)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Warning: Fred is Getting Political Again**
-**Martin Harry Greenberg (1941–2011)**
 
 ## Yellowstone on the Isle of Capri
 
@@ -50,7 +52,13 @@ That drilling seemed about to start a while ago, because Giuseppe De Natale, the
 
 ### One Comment
 
-- Rich Rostromsays:Have you ever read Avram Davidson’s fantasy novel _Vergil in Averno_;?It is a prequel to his earlier novel _The Phoenix and the Mirror_. In both novels, the protagonist is Vergil Magus – the poet Virgil, as he was imagined in the Middle Ages: a powerful sorcerer and magical craftsman; also a resident of Naples (as he was in real life).In _Vergil in Averno_, Vergil is hired by the magnates of the Very Rich City of Averno to study the source of their wealth: the underground fires which they use to produce vast amounts of dye-work and other manufactures cheaply. The fires have been declining and shifting, threatening their continued exploitation.Vergil maps the fires, locates their source, and proposes a system for catching and redirecting the fumes and heats. But the loutish magnates think only of using a great drill to release the “father-fire” and being greedy louts, to use the drill to execute all those magnates not part of the city’s ruling faction.They also try to cheat and murder Vergil, who escapes by luck. As he returns to Naples, the magnates carry out their drill-scheme, triggering an eruption which obliterates the city.July 17, 2011, 2:01 am
+- Rich Rostrom says:
+Have you ever read Avram Davidson’s fantasy novel _Vergil in Averno_;?
+It is a prequel to his earlier novel _The Phoenix and the Mirror_. In both novels, the protagonist is Vergil Magus – the poet Virgil, as he was imagined in the Middle Ages: a powerful sorcerer and magical craftsman; also a resident of Naples (as he was in real life).
+In _Vergil in Averno_, Vergil is hired by the magnates of the Very Rich City of Averno to study the source of their wealth: the underground fires which they use to produce vast amounts of dye-work and other manufactures cheaply. The fires have been declining and shifting, threatening their continued exploitation.
+Vergil maps the fires, locates their source, and proposes a system for catching and redirecting the fumes and heats. But the loutish magnates think only of using a great drill to release the “father-fire” and being greedy louts, to use the drill to execute all those magnates not part of the city’s ruling faction.
+They also try to cheat and murder Vergil, who escapes by luck. As he returns to Naples, the magnates carry out their drill-scheme, triggering an eruption which obliterates the city.
+July 17, 2011, 2:01 am
 
 **WordPress**
 **TWTFB2**

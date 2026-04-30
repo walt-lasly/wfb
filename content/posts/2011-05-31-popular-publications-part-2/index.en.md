@@ -4,6 +4,10 @@ date: 2011-05-31
 categories: ["Authors"]
 tags: ["Alden H. Norton", "Editors", "Ethel Klock", "Harold S. Goldsmith", "Harry Steeger", "New York", "Prozines", "Publishing", "Pulps"]
 archive_url: "https://web.archive.org/web/20221001000000/http://www.thewaythefutureblogs.com/2011/05/popular-publications-part-2/"
+prev_post_url: "/posts/2011-05-26-rolling-back-the-years-popular-publications/"
+prev_post_title: "Rolling Back the Years: Popular Publications"
+next_post_url: "/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/"
+next_post_title: "Popular Publications, Part 3:The People Who Made the Pulps"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Rolling Back the Years: Popular Publications**
-**Popular Publications, Part 3:The People Who Made the Pulps**
 
 ## Popular Publications, Part 2
 
@@ -48,20 +50,28 @@ I don’t know who was fooled by all this.  Not many people, I suspect, or at le
 
 **Related posts:**
 
-- **Popular Publications**, **Part 1**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**
+- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Comments
 
-- Chrissays:This is not a comment on this blog entry but just to say I was surprised and thrilled to get my signed copy of Gateways, which I did not realise I had won. I will treasure this, as I was introduced to SF by reading If in the golden years in the early 60s under your editorship, and have many of your books. . Thank you very muchMay 31, 2011, 4:34 am
+- Chris says:
+This is not a comment on this blog entry but just to say I was surprised and thrilled to get my signed copy of Gateways, which I did not realise I had won. I will treasure this, as I was introduced to SF by reading If in the golden years in the early 60s under your editorship, and have many of your books. . Thank you very much
+May 31, 2011, 4:34 am
 - Stefan Jones says:
 Heh! Two entrances, two addresses, why not?
 In the late 80s I worked for a computer mail/phone order outfit. The officers noticed that the number of calls they got increased with the number of advertising pages they crammed into the big computer magazines of the time. Obviously, there was a point of diminishing returns.
 Then they hit on the notion of creating shell companies. They ran ads for “Dollar Computer,” “Nothing But Laptops” (All we sell are laptops!) and “The Printer Store” (We specialize in printers!). There were new phone lines, and a receptionist who was trained to answer appropriately, but the sales people, warehouse people, and stock were identical.
 One week I was assigned to be technical support for “Nothing But Laptops.” I accidentally answered the phone incorrectly. (“Hello, Logicsoft Technical Support, how can I help you?”) When the caller was confused I quickly explained that I’d just switched jobs . . .
 May 31, 2011, 12:37 pm
-- Bruce Arthurssays:Editorial pseudonyms:  When Elinor Mavor became editor of AMAZING in 1979, she initially used the nom-de-ed of “Omar Gohagen”, thinking that a male editor would be more accepted than a female.  I think someone pointed out to her that Cele Goldsmith had been a previous (and well-regarded) editor of the magazine, so “Omar” vanished and Elinor continued for a few years under her own name.Speaking of Cele Goldsmith, any relation to the Harold Goldsmith you mention?June 4, 2011, 1:42 pm
-- JohnArmstrongsays:I worked for a video company that was the Canadian wholesaler for a line of porn from California, and also the exclusive dealer for Disney product on videotape in Canada. We had to be very careful that the Mouse never found out about this double life the company led, which required some very sudden rearranging fo the shelves in the stockroom if the Disney rep happened to stop by unannounced. It was serious sitcom level subterfuge, steering him one way while someone took the framed posters of XXX starlets down and hung up Pinocchio and Snow White. The funniest thing was doing the porn company business on the 18 inch standing Mickey Mouse phone the company gave us for selling whatever-amount of some title. Taking the phone form Mickey’s white-gloved, three-fingered hand and looking right at his smilig face while reordering labels for another thousand copies of Ass Bandits 2Ahh – show businessJune 5, 2011, 3:48 pm
+- Bruce Arthurs says:
+Editorial pseudonyms:  When Elinor Mavor became editor of AMAZING in 1979, she initially used the nom-de-ed of “Omar Gohagen”, thinking that a male editor would be more accepted than a female.  I think someone pointed out to her that Cele Goldsmith had been a previous (and well-regarded) editor of the magazine, so “Omar” vanished and Elinor continued for a few years under her own name.
+Speaking of Cele Goldsmith, any relation to the Harold Goldsmith you mention?
+June 4, 2011, 1:42 pm
+- JohnArmstrong says:
+I worked for a video company that was the Canadian wholesaler for a line of porn from California, and also the exclusive dealer for Disney product on videotape in Canada. We had to be very careful that the Mouse never found out about this double life the company led, which required some very sudden rearranging fo the shelves in the stockroom if the Disney rep happened to stop by unannounced. It was serious sitcom level subterfuge, steering him one way while someone took the framed posters of XXX starlets down and hung up Pinocchio and Snow White. The funniest thing was doing the porn company business on the 18 inch standing Mickey Mouse phone the company gave us for selling whatever-amount of some title. Taking the phone form Mickey’s white-gloved, three-fingered hand and looking right at his smilig face while reordering labels for another thousand copies of Ass Bandits 2
+Ahh – show business
+June 5, 2011, 3:48 pm
 
 **WordPress**
 **TWTFB2**

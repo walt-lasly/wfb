@@ -4,6 +4,10 @@ date: 2009-02-11
 categories: ["Authors", "Personal", "Travel"]
 tags: ["Algis Budrys", "C.M. Kornbluth", "Carl Sagan", "Collaborating", "Dick Smith", "E.E. 'Doc' Smith", "Elizabeth Anne Hull", "French Polynesia", "Harlan Ellison", "Horace L. Gold", "Ian and Betty Ballantine", "Isaac Asimov", "Jack Williamson", "John W. Campbell", "John Wyndham", "L. Ron Hubbard", "Larry Niven", "Leah A. Zeldes", "Robert A. Heinlein", "Robert Silverberg", "Satellites"]
 archive_url: "https://web.archive.org/web/20090317045731/http://www.thewaythefutureblogs.com/2009/02/farewell-nuku-hiva/"
+prev_post_url: "/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/"
+prev_post_title: "Greetings from S17° 32.18′ W149° 34.17′"
+next_post_url: "/posts/2009-02-15-me-and-the-biz/"
+next_post_title: "Me and the Biz"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Greetings from S17° 32.18′ W149° 34.17′**
-**Me and the Biz**
 
 ## Farewell, Nuku Hiva
 
@@ -38,11 +40,25 @@ Quite a few of these I have already written about in one form or another and tho
 
 ### 5 Comments
 
-- Antlopsays:Thanks for writing at all, Mr. Pohl.February 11, 2009, 11:00 am
-- Fathercrowsays:Yeah, thanks for giving us all a peek behind the curtain.February 11, 2009, 5:24 pm
-- Josephsays:This is a great journal, I am looking forward to your stories about all the famous authors, including yourself of course. It is really great!February 12, 2009, 1:53 am
-- Lee Goldsays:It’s a fascinating blog, but…John Campbell as a “non-writer”?  What about “Who Goes There?”?  “Forgetfulness”?  “Cloak of Aesir”?  And what about his monthly editorials?I can see counting them as non-fiction, but surely they still count as writing?And I wish whoever linked Campbell’s name to a webpage had found a more accurate one, one that would credit him with writing “Who Goes There?” rather than with “The Thing from Another World.”  TheWikipedia articleisn’t bad.February 13, 2009, 10:35 pm
-- Tina Bsays:You folks are looking good in that picture.February 14, 2009, 12:54 pm
+- Antlop says:
+Thanks for writing at all, Mr. Pohl.
+ 
+February 11, 2009, 11:00 am
+- Fathercrow says:
+Yeah, thanks for giving us all a peek behind the curtain.
+February 11, 2009, 5:24 pm
+- Joseph says:
+This is a great journal, I am looking forward to your stories about all the famous authors, including yourself of course. It is really great!
+February 12, 2009, 1:53 am
+- Lee Gold says:
+It’s a fascinating blog, but…
+John Campbell as a “non-writer”?  What about “Who Goes There?”?  “Forgetfulness”?  “Cloak of Aesir”?  And what about his monthly editorials?
+I can see counting them as non-fiction, but surely they still count as writing?
+And I wish whoever linked Campbell’s name to a webpage had found a more accurate one, one that would credit him with writing “Who Goes There?” rather than with “The Thing from Another World.”  The Wikipedia article  isn’t bad.
+February 13, 2009, 10:35 pm
+- Tina B says:
+You folks are looking good in that picture.
+February 14, 2009, 12:54 pm
 
 **WordPress**
 **TWTFB**

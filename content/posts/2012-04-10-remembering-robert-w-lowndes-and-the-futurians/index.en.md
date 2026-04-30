@@ -4,6 +4,10 @@ date: 2012-04-10
 categories: ["Authors"]
 tags: ["C.M. Kornbluth", "Clubs", "Donald A. Wollheim", "Editors", "Fanzines", "Futurians", "Great Depression", "Jack Robins", "John B. Michel", "Richard Wilson", "Robert A.W. Lowndes", "Robotics"]
 archive_url: "https://web.archive.org/web/20120508222224/http://www.thewaythefutureblogs.com/2012/04/remembering-robert-w-lowndes-and-the-futurians/"
+prev_post_url: "/posts/2012-04-08-bright-sayings-of-bright-people-no-27/"
+prev_post_title: "Bright Sayings of Bright People, No. 27"
+next_post_url: "/posts/2012-04-12-having-fun-with-my-paper-time-machine/"
+next_post_title: "Having Fun with My Paper Time Machine"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 27**
-**Having Fun with My Paper Time Machine**
 
 ## Remembering Robert W. Lowndes and the Futurians
 
@@ -24,7 +26,7 @@ Frederik Pohl
 {{< figure src="Robins-Jack200wb-96x150.jpg" alt="Jack Robins" caption="Jack Robins" >}}
 
   
-**Jack Robins**
+[**Jack Robins**](/posts/2010-12-28-jack-robins-dr-robins-that-is/)
 
 I recall many things about Robert W. Lowndes, how soft-spoken he was, how much he enjoyed studying old science fiction stories, and how warm and friendly he was.
 
@@ -50,7 +52,7 @@ Lowndes used to regale us with quotes from early science fiction stories.  He wo
 In those early days, we were often fond of walking long distances around Flatbush, Brooklyn, finally ending up in an ice cream parlor or candy store for sodas.  The basic group included: Wollheim, Michel, Lowndes, Cyril Kornbluth and me.  Occasionally Dick Wilson would join us.  We continued this ritual even after Michel, Wollheim, Kornbluth and Lowndes had decided to room together in the first apartment they jointly rented.
 
 
-During each of these walks, Kornbluth would relate a **shaggy dog story**.  It was about an unemployed, destitute man who sees an ad in a paper left on a park bench, offering a huge reward for a lost shaggy dog.  Just then he sees a huge shaggy dog ambling about and becomes convinced this was the one that was lost.  He grabs the dog and endeavors to return it to the owner.  Unfortunately, he meets up with many difficult and life-threatening obstacles on the way to returning the dog and finally, his clothes in rags, many cuts and bruises all over his face and body, he rings the doorbell of the dog’s owner.  A man, obviously a butler, regards him while sniffing snobbishly and asks what he wanted.  “I’ve found your shaggy dog and I’ve come for the reward,” our hero says.  The butler looks at it with disdain and says, “It’s not *that* shaggy,” and slams the door on the man.  It was a pointless and unappealing story, but the fun was in inventing the obstacles that faced the hero.
+During each of these walks, Kornbluth would relate a [**shaggy dog story**](/posts/2010-06-11-what-made-the-futurians-laugh-the-shaggy-dog-story/).  It was about an unemployed, destitute man who sees an ad in a paper left on a park bench, offering a huge reward for a lost shaggy dog.  Just then he sees a huge shaggy dog ambling about and becomes convinced this was the one that was lost.  He grabs the dog and endeavors to return it to the owner.  Unfortunately, he meets up with many difficult and life-threatening obstacles on the way to returning the dog and finally, his clothes in rags, many cuts and bruises all over his face and body, he rings the doorbell of the dog’s owner.  A man, obviously a butler, regards him while sniffing snobbishly and asks what he wanted.  “I’ve found your shaggy dog and I’ve come for the reward,” our hero says.  The butler looks at it with disdain and says, “It’s not *that* shaggy,” and slams the door on the man.  It was a pointless and unappealing story, but the fun was in inventing the obstacles that faced the hero.
 
 
 Each time we took the walk, Cyril Kornbluth would tell this story in his deep melodious voice that made each word sound like a pronouncement of doom.  At every rendition, Cyril’s imagination would fly through fantastic difficulties that had us laughing despite the morbid character of the story.  In Cyril’s inventiveness, the hero might struggle with someone and get a black eye or two, or he might get hit by a truck and end up in the hospital, or something else would happen to him before he could return the dog.  Each time he repeated the story it had a different set of obstacles.  Cyril’s vivid imagination was impressive.
@@ -70,18 +72,25 @@ One day in late March, during the period when Lowndes was publishing the fanzine
 
 **Related Posts:**
 
-- Remembering Lowndes and the Futurians, Part 2
-- Jack Robins and Robert A.W. Lowndes
-- Jack Robins: Dr. Robins, That Is
-- A Little More About Jack Robins
-- The Quadrumvirate
+- [**Remembering Lowndes and the Futurians, Part 2**](/posts/2012-04-16-remembering-lowndes-and-the-futurians-part-2/)
+- [**Jack Robins and Robert A.W. Lowndes**](/posts/2012-03-02-jack-robins-and-robert-a-w-lowndes/)
+- [**Jack Robins: Dr. Robins, That Is**](/posts/2010-12-28-jack-robins-dr-robins-that-is/)
+- [**A Little More About Jack Robins**](/posts/2011-09-22-a-little-more-about-jack-robins/)
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
 
 
 ### 3 Comments
 
-- TADsays:This kind of reminiscence is wonderful. I especially liked Cyril’s “voice portending doom.” More, please….April 10, 2012, 1:05 am
-- David B. Williamssays:What a difference 70 years makes. Imagine today, half a dozen shabby young men prowling the streets of Brooklyn; it would not suggest a group of future writers and editors to the modern eye.April 10, 2012, 9:26 am
-- Robert Nowallsays:“Each time we took the walk, Cyril Kornbluth would tell this story in his deep melodious voice that made each word sound like a pronouncement of doom.”Now that’s something that the printed page can’t convey…something I didn’t realize…April 11, 2012, 7:59 am
+- TAD says:
+This kind of reminiscence is wonderful. I especially liked Cyril’s “voice portending doom.” More, please….
+April 10, 2012, 1:05 am
+- David B. Williams says:
+What a difference 70 years makes. Imagine today, half a dozen shabby young men prowling the streets of Brooklyn; it would not suggest a group of future writers and editors to the modern eye.
+April 10, 2012, 9:26 am
+- Robert Nowall says:
+“Each time we took the walk, Cyril Kornbluth would tell this story in his deep melodious voice that made each word sound like a pronouncement of doom.”
+Now that’s something that the printed page can’t convey…something I didn’t realize…
+April 11, 2012, 7:59 am
 
 **WordPress**
 **TWTFB2**

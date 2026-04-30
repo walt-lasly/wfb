@@ -4,6 +4,10 @@ date: 2010-12-30
 categories: ["Miscellaneous"]
 tags: ["Carol Pohl", "Clubs", "Futurians", "Jack Gillespie", "Lois Miles", "Richard Wagner", "World War II"]
 archive_url: "https://web.archive.org/web/20170707112302/http://www.thewaythefutureblogs.com/2010/12/jack-gillespie-elf-among-the-authors/"
+prev_post_url: "/posts/2010-12-29-walter-kubilius-the-tall-one/"
+prev_post_title: "Walter Kubilius: The Tall One"
+next_post_url: "/posts/2010-12-31-fred-s-op-ed/"
+next_post_title: "Fred’s Op Ed"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Walter Kubilius: The Tall One**
-**Fred’s Op Ed**
 
 ## Jack Gillespie: Elf Among the Authors
 
@@ -38,7 +40,9 @@ We exchanged letters in regard to a number of little-known American poets for a 
 
 ### One Comment
 
-- Robert Nowallsays:Washington DC or Washington state?  I’m pretty sure of which one, from what I’ve read over the years, but just want to be sure…December 30, 2010, 9:03 am
+- Robert Nowall says:
+Washington DC or Washington state?  I’m pretty sure of which one, from what I’ve read over the years, but just want to be sure…
+December 30, 2010, 9:03 am
 
 **WordPress**
 **TWTFB2**

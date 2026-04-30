@@ -4,6 +4,10 @@ date: 2012-10-01
 categories: ["Authors"]
 tags: ["Agents", "Clubs", "Donald A. Wollheim", "Editors", "F. Orlin Tremaine", "Futurians", "G.G. Clark", "Hugo Gernsback", "John B. Michel", "New York", "Prozines", "Pulps", "Science Fiction League", "T. O'Conor Sloane"]
 archive_url: "https://web.archive.org/web/20190101000000/http://www.thewaythefutureblogs.com/2012/10/early-editors/"
+prev_post_url: "/posts/2012-09-28-early-life-the-depression/"
+prev_post_title: "Early life: The Depression"
+next_post_url: "/posts/2012-10-16-astrophysics-with-pick-and-shovel/"
+next_post_title: "Astrophysics with Pick and Shovel"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Early life: The Depression**
-**Astrophysics with Pick and Shovel**
 
 ## Early Editors
 
@@ -59,15 +61,40 @@ As it turned out, he was willing to ask quite a few of me.  I can’ t exactly s
 
 ### 9 Comments
 
-- Jeff B.says:Mr. Pohl,I wanted to chime in and tell you I find these blog posts by you fascinating and invaluable. Your insight into a critical phase of science fiction, a genre I grew up loving, and still love, is not just valuable in and of itself, but also due to it being specifically your insight. The internet is truly the Wonder of our age, allowing me to have access to the thoughts and musings of, for example, one of the truly great science fiction writers and editors. I look forward to more of your blog posts, and, of course, your other writings. Heck, I just finished JEM again the other day, rereading it for the first time in over thirty years, and I have more of your books on my neverending “to be read” pile.Take care.October 1, 2012, 5:56 pm
-- Bill Higgins-- Beam Jockeysays:I love the image of young Fred on the sidewalks of Manhattan, bundle of Futurian stories under his arm, consulting his map to plot the optimal route to the office of the next-highest-paying publisher.October 1, 2012, 6:33 pm
-- Mirko Tavosanissays:Wow, I have just read this wonderful account. It is charming, and it made me think also to the way Will Eisner presented the work for his comics agency (1937 ca.) in “The Dreamer”. Thank you for sharing this!October 2, 2012, 6:01 am
-- Robert Nowallsays:Another alas for me…in the days when I started writing, I lived too far away to wander into an NYC SF editor’s office by walking into it…later, when I could’ve driven into the city and wandered in, I found myself living much father away, too far to drive.  It was all correspondence for me—some rejections which told me someone had actually *read* the story, but, in the few-and-far-between stuff I put out now, nothing but form rejection for ten years or more.Is it any wonder why I turned to Internet Fan Fiction for awhile?October 2, 2012, 7:33 am
-- Chuksays:Thanks for this look back.October 4, 2012, 6:08 pm
-- Rob Hansensays:I can honestly say it would never have occurred to me you became an agent because you could save money on postage. Wonderful! What a fascinating look at a world that doesn’t exist anymore.October 9, 2012, 2:45 pm
-- Enricosays:Fascinating stuff. Where else could you find a first-person account of the SF scene in 1936, but posted online in 2012!?Fred, do you still have that map of all the magazines? Since I go to Manhattan daily I am inspired to try and visit some of the locations.October 9, 2012, 11:14 pm
-- John Bolandsays:As Fred recounts those days with obvious pleasure, I look back on the days when IF and Galaxy were on the stands. Rarely I have a recurrent dream of finding a news stand I haven’t been to before, with one of those old revolving wire racks, and there in the rack by God is a new issue of IF, cover by Pederson (of course). And I wonder how long has this been going on?October 13, 2012, 10:37 am
-- Michael A.. Baankssays:Now that we’re living in the future and have email, we don’t have to resort to mail or in-person visits (the latter impossible for those of use living in places like Milford or Oxford, Ohio).I often think that having to mail in manuscripts was a useful barrier to discourage those who weren’t really serious (or very good) in their writing.  And it was certainly fun getting rejection slips with “Almost” or “Close” scrawled at the bottom.  Or–a fine rarity–a letter asking for a rewrite!My first submission to Asimov’s drew a letter from Isaac Himself that opened by telling me how good the story was, and how much he liked.  It went on for a page and a half telling me how and why it needed rewriting.  It was a subtle matter, and I rewrote it and it was published.–MikeOctober 24, 2012, 7:20 pm
+- Jeff B. says:
+Mr. Pohl,
+I wanted to chime in and tell you I find these blog posts by you fascinating and invaluable. Your insight into a critical phase of science fiction, a genre I grew up loving, and still love, is not just valuable in and of itself, but also due to it being specifically your insight. The internet is truly the Wonder of our age, allowing me to have access to the thoughts and musings of, for example, one of the truly great science fiction writers and editors. I look forward to more of your blog posts, and, of course, your other writings. Heck, I just finished JEM again the other day, rereading it for the first time in over thirty years, and I have more of your books on my neverending “to be read” pile.
+Take care.
+October 1, 2012, 5:56 pm
+- Bill Higgins-- Beam Jockey says:
+I love the image of young Fred on the sidewalks of Manhattan, bundle of Futurian stories under his arm, consulting his map to plot the optimal route to the office of the next-highest-paying publisher.
+October 1, 2012, 6:33 pm
+- Mirko Tavosanis says:
+Wow, I have just read this wonderful account. It is charming, and it made me think also to the way Will Eisner presented the work for his comics agency (1937 ca.) in “The Dreamer”. Thank you for sharing this!
+October 2, 2012, 6:01 am
+- Robert Nowall says:
+Another alas for me…in the days when I started writing, I lived too far away to wander into an NYC SF editor’s office by walking into it…later, when I could’ve driven into the city and wandered in, I found myself living much father away, too far to drive.  It was all correspondence for me—some rejections which told me someone had actually *read* the story, but, in the few-and-far-between stuff I put out now, nothing but form rejection for ten years or more.
+Is it any wonder why I turned to Internet Fan Fiction for awhile?
+October 2, 2012, 7:33 am
+- Chuk says:
+Thanks for this look back.
+October 4, 2012, 6:08 pm
+- Rob Hansen says:
+I can honestly say it would never have occurred to me you became an agent because you could save money on postage. Wonderful! What a fascinating look at a world that doesn’t exist anymore.
+October 9, 2012, 2:45 pm
+- Enrico says:
+Fascinating stuff. Where else could you find a first-person account of the SF scene in 1936, but posted online in 2012!?
+Fred, do you still have that map of all the magazines? Since I go to Manhattan daily I am inspired to try and visit some of the locations.
+October 9, 2012, 11:14 pm
+- John Boland says:
+As Fred recounts those days with obvious pleasure, I look back on the days when IF and Galaxy were on the stands. Rarely I have a recurrent dream of finding a news stand I haven’t been to before, with one of those old revolving wire racks, and there in the rack by God is a new issue of IF, cover by Pederson (of course). And I wonder how long has this been going on?
+October 13, 2012, 10:37 am
+- Michael A.. Baanks says:
+Now that we’re living in the future and have email, we don’t have to resort to mail or in-person visits (the latter impossible for those of use living in places like Milford or Oxford, Ohio).
+I often think that having to mail in manuscripts was a useful barrier to discourage those who weren’t really serious (or very good) in their writing.  And it was certainly fun getting rejection slips with “Almost” or “Close” scrawled at the bottom.  Or–a fine rarity–a letter asking for a rewrite!
+My first submission to Asimov’s drew a letter from Isaac Himself that opened by telling me how good the story was, and how much he liked.  It went on for a page and a half telling me how and why it needed rewriting.  It was a subtle matter, and I rewrote it and it was published.
+–Mike
+October 24, 2012, 7:20 pm
 
 **WordPress**
 **TWTFB2**

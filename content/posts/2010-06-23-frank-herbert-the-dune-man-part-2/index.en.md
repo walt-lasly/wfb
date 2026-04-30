@@ -4,6 +4,10 @@ date: 2010-06-23
 categories: ["Authors", "Personal", "Travel", "Writing"]
 tags: ["Australia", "Beverly Herbert", "Charles Lindbergh", "Conventions", "Elizabeth Anne Hull", "Films", "Frank Herbert", "Hawai'i", "Medicine", "Ted Turner", "Theresa Herbert", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170401000000/http://www.thewaythefutureblogs.com/2010/06/frank-herbert-the-dune-man-part-2/"
+prev_post_url: "/posts/2010-06-21-frank-herbert-the-dune-man/"
+prev_post_title: "Frank Herbert, the Dune Man"
+next_post_url: "/posts/2010-06-25-russians-jews-and-isaac/"
+next_post_title: "Russians, Jews and Isaac"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Frank Herbert, the Dune Man**
-**Russians, Jews and Isaac**
 
 ## Frank Herbert, the Dune Man, Part 2
 
@@ -71,20 +73,40 @@ A few weeks later, I learned that he had died in Madison after undergoing cancer
 
 **Related post:**  
 
-**Frank Herbert, the Dune Man**
+[**Frank Herbert, the Dune Man**](/posts/2010-06-21-frank-herbert-the-dune-man/)
 
 
 ### 9 Comments
 
-- Juliansays:How sad. Don’t worry, Herbert always knew you appreciate him.June 23, 2010, 12:51 am
-- Bald Guysays:What a regular guy. The Orange catholic Bible quotes before each chapter sounded pretty presumptuous. I’m glad to know he was just a regular Joe.June 23, 2010, 1:33 am
-- Jensays:Thank you for sharing your memories of him- not only is he one of my favourite authors, but his tribute to Bev at the end of Chapterhouse: Dune is still one of the more moving things that I’ve read.(And as a side note, I re-discovered my old copy of Yesterday’s Tomorrows a few days ago, and have been thoroughly enjoying re-reading it. “Eco-Catastrophe” is unfortunately more painful to read now than it was the first time.)June 23, 2010, 8:07 am
-- John Kremersays:Your two-part post was great. Really enjoyed reading about some of my favorite authors.June 23, 2010, 7:30 pm
-- Staceysays:Thanks for this little vignette of Mr. Herbert, and your friendship with him. His Dune series changed my life, opened my eyes to the power plays and machinations within the high control religion with which I was involved.June 23, 2010, 10:51 pm
-- Michael Walshsays:Nice piece on Herbert.  I remember reading “The Prophet of Dune” in the bedsheet Analogs.  And those John Schoenherr illos … oh my.  They will stay with me forever.June 24, 2010, 5:24 pm
-- Lobo7922says:Thanks it’s always interesting to know more details about Frank Herbert geniusJune 27, 2010, 12:32 am
-- Neil in Chicagosays:And speaking of digressions . . .Of the hundred Americans at Aussiecon I, two-thirds traveled in a group.  Naturally, someone had one of the flat little portable typewriters on the flight from LA (on the New Zealand Airline, so in addition to the our stopover in Honolulu, there was another in Aukland), and by the time we got to Aukland, several people were on a mission to find suitable envelopes in the airport to mail home the mimeo masters which had been cut en route, for immediate repro back home.  (for 1970′s values of “immediate”)July 4, 2010, 4:34 pm
-- Book Publisherssays:The second part of your post was excellent. Also Really enjoyed reading about some of my favorite authors.August 27, 2010, 9:27 am
+- Julian says:
+How sad. Don’t worry, Herbert always knew you appreciate him.
+June 23, 2010, 12:51 am
+- Bald Guy says:
+What a regular guy. The Orange catholic Bible quotes before each chapter sounded pretty presumptuous. I’m glad to know he was just a regular Joe.
+June 23, 2010, 1:33 am
+- Jen says:
+Thank you for sharing your memories of him- not only is he one of my favourite authors, but his tribute to Bev at the end of Chapterhouse: Dune is still one of the more moving things that I’ve read. 
+(And as a side note, I re-discovered my old copy of Yesterday’s Tomorrows a few days ago, and have been thoroughly enjoying re-reading it. “Eco-Catastrophe” is unfortunately more painful to read now than it was the first time.)
+June 23, 2010, 8:07 am
+- John Kremer says:
+Your two-part post was great. Really enjoyed reading about some of my favorite authors.
+June 23, 2010, 7:30 pm
+- Stacey says:
+Thanks for this little vignette of Mr. Herbert, and your friendship with him. His Dune series changed my life, opened my eyes to the power plays and machinations within the high control religion with which I was involved.
+June 23, 2010, 10:51 pm
+- Michael Walsh says:
+Nice piece on Herbert.  I remember reading “The Prophet of Dune” in the bedsheet Analogs.  And those John Schoenherr illos … oh my.  They will stay with me forever.
+June 24, 2010, 5:24 pm
+- Lobo7922 says:
+Thanks it’s always interesting to know more details about Frank Herbert genius
+June 27, 2010, 12:32 am
+- Neil in Chicago says:
+And speaking of digressions . . .
+Of the hundred Americans at Aussiecon I, two-thirds traveled in a group.  Naturally, someone had one of the flat little portable typewriters on the flight from LA (on the New Zealand Airline, so in addition to the our stopover in Honolulu, there was another in Aukland), and by the time we got to Aukland, several people were on a mission to find suitable envelopes in the airport to mail home the mimeo masters which had been cut en route, for immediate repro back home.  (for 1970′s values of “immediate”)
+July 4, 2010, 4:34 pm
+- Book Publishers says:
+The second part of your post was excellent. Also Really enjoyed reading about some of my favorite authors.
+August 27, 2010, 9:27 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2011-04-11
 categories: ["Authors", "Books", "Writing"]
 tags: ["Alfred Bester", "Bob Shaw", "Editors", "Frank Olynyk", "Harlan Ellison", "Hollywood", "Horace L. Gold", "Hugo Gernsback", "Jerry Pournelle", "John W. Campbell", "Kevin Williams", "Larry Niven", "Prozines", "Publishing", "Richard Wilson", "Television"]
 archive_url: "https://web.archive.org/web/20170620005415/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-8-hollywood-and-the-name-game/"
+prev_post_url: "/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/"
+prev_post_title: "Me and Alfie, Part 7: Cyclothymia"
+next_post_url: "/posts/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
+next_post_title: "Bright Sayings of Bright People, No. 12: Milton"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and Alfie, Part 7: Cyclothymia**
-**Bright Sayings of Bright People, No. 12: Milton**
 
 ## Me and Alfie, Part 8: Hollywood and the Name Game
 
@@ -182,15 +184,21 @@ So thank you very much, Alfred J. Bester and Frederik Pohl — and thank you in 
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/)
 
 
 ### 5 Comments
 
-- Jim Flanagansays:This has been a fantastic series of posts. Thanks FredApril 11, 2011, 1:26 am
-- Jim Worradsays:Thank you, this has been wonderful!April 11, 2011, 7:44 am
-- Mike Goldbergsays:Thanks! This was a great interview. I wish that I had been in the audience!April 12, 2011, 8:00 am
+- Jim Flanagan says:
+This has been a fantastic series of posts. Thanks Fred
+April 11, 2011, 1:26 am
+- Jim Worrad says:
+Thank you, this has been wonderful!
+April 11, 2011, 7:44 am
+- Mike Goldberg says:
+Thanks! This was a great interview. I wish that I had been in the audience!
+April 12, 2011, 8:00 am
 - H. E. Parmer says:
 Thanks so much for putting this interview up, Fred, and thanks also to the fans who transcribed it.
 Speaking as a bad cinema freak, though, I have to believe we’re all the poorer for having been denied the spectacle of Thermoliath shambling through a cheap cardboard and plaster-of-Paris miniature replica of Palm Springs, intercut with stock footage of hurricanes and earthquakes.
@@ -199,7 +207,9 @@ of tongue or pen,
 the saddest are these:
 “It might have been.”
 April 13, 2011, 11:45 pm
-- JohnArmstrongsays:Thanks, Fred –April 15, 2011, 7:12 pm
+- JohnArmstrong says:
+Thanks, Fred –
+April 15, 2011, 7:12 pm
 
 **WordPress**
 **TWTFB2**

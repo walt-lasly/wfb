@@ -4,6 +4,10 @@ date: 2014-01-28
 categories: ["Betty's Posts", "Science"]
 tags: ["Elizabeth Anne Hull", "Medicine", "Politics"]
 archive_url: "https://web.archive.org/web/20200401000000/http://www.thewaythefutureblogs.com/2014/01/vaccinations-personal-choice-vs-public-health/"
+prev_post_url: "/posts/2014-01-15-say-no-to-the-keystone-xl-pipeline/"
+prev_post_title: "Say No to the Keystone XL Pipeline!"
+next_post_url: "/posts/2014-01-29-all-in-the-family-honors-for-emily-pohl-weary/"
+next_post_title: "All in the Family: Honors for Emily Pohl-Weary"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Say No to the Keystone XL Pipeline!**
-**All in the Family: Honors for Emily Pohl-Weary**
 
 ## Vaccinations: Personal Choice vs. Public Health
 
@@ -61,8 +63,17 @@ Of course not.
 Of course.
 Libertarianism kills babies.  Thousands per year.
 January 29, 2014, 11:26 am
-- pjcampsays:This is, in fact, the reason why in the US we use a weakened polio virus vaccine instead of a killed virus vaccine (Sabin, not Salk). A weakened virus is shed into the environment and leads to secondary immunities among people too stupid or eat up by religion to get vaccines.The price we pay for this is that some low level of people will get polio every year from the vaccination. It is the luck of the draw. How many of those victims, I wonder, think that their lives are a worthwhile sacrifice for a few ignorant asses to exercise their pseudoscience?If everyone could be trusted to get their vaccinations, then it it would be safe to use a killed virus polio vaccine and that would be the end of polio. We maintain polio so that we can protect the right of people to be idiots.February 2, 2014, 1:25 am
-- H. E. Parmersays:What Philip Helbig said.This will surely date me, but I remember as a young child going to our local high school and getting a sugar cube with the polio vaccine. Even at that tender age I could pick up on how relieved the adults were to see what they believed was the end of a dreadful scourge. It was rightly considered a triumph of medical science.Fast forward almost sixty years, and we have a country in which a third or more of the population believes Jesus walked with dinosaurs and global warming is a conspiracy cooked up between climate scientists and eco-extremists who want to make us all surrender our SUVs and iPads and flat screen TVs and go live in mud huts, subsisting on a diet composed solely of bugs and burdocks.Lesser forms of insanity are only to be expected.February 4, 2014, 3:39 pm
+- pjcamp says:
+This is, in fact, the reason why in the US we use a weakened polio virus vaccine instead of a killed virus vaccine (Sabin, not Salk). A weakened virus is shed into the environment and leads to secondary immunities among people too stupid or eat up by religion to get vaccines. 
+The price we pay for this is that some low level of people will get polio every year from the vaccination. It is the luck of the draw. How many of those victims, I wonder, think that their lives are a worthwhile sacrifice for a few ignorant asses to exercise their pseudoscience?
+If everyone could be trusted to get their vaccinations, then it it would be safe to use a killed virus polio vaccine and that would be the end of polio. We maintain polio so that we can protect the right of people to be idiots.
+February 2, 2014, 1:25 am
+- H. E. Parmer says:
+What Philip Helbig said.
+This will surely date me, but I remember as a young child going to our local high school and getting a sugar cube with the polio vaccine. Even at that tender age I could pick up on how relieved the adults were to see what they believed was the end of a dreadful scourge. It was rightly considered a triumph of medical science.
+Fast forward almost sixty years, and we have a country in which a third or more of the population believes Jesus walked with dinosaurs and global warming is a conspiracy cooked up between climate scientists and eco-extremists who want to make us all surrender our SUVs and iPads and flat screen TVs and go live in mud huts, subsisting on a diet composed solely of bugs and burdocks.
+Lesser forms of insanity are only to be expected.
+February 4, 2014, 3:39 pm
 
 **WordPress**
 **TWTFB2**

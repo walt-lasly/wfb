@@ -4,6 +4,10 @@ date: 2014-01-05
 categories: ["Books", "Personal"]
 tags: ["C.M. Kornbluth", "Horace L. Gold", "Kingsley Amis", "Publishing", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2014/01/the-story-of-the-space-merchants-part-5/"
+prev_post_url: "/posts/2014-01-02-mother-love-and-the-threat-of-global-warming/"
+prev_post_title: "Mother Love and the Threat of Global Warming"
+next_post_url: "/posts/2014-01-07-some-words-in-english-about-english-words/"
+next_post_title: "Some Words in English About English Words"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Mother Love and the Threat of Global Warming**
-**Some Words in English About English Words**
 
 ## The Story ofThe Space Merchants, Part 5
 
@@ -44,13 +46,19 @@ And I would make no stronger claim for the book now.
 
 **Related posts:**
 
-- **The Story of The Space Merchants**, **Part 1**, **Part 2**, **Part 3**, **Part 4**
+- **The Story of The Space Merchants**, [**Part 1**](/posts/2013-12-18-the-story-of-the-space-merchants/), [**Part 2**](/posts/2013-12-23-the-story-of-the-space-merchants-part-2/), [**Part 3**](/posts/2013-12-26-the-story-of-the-space-merchants-part-3/), **Part 4**
 
 
 ### 2 Comments
 
-- Alan Robsonsays:Fascinating! I’ve always loved “The Space Merchants”. I read it first as a teenager. Now I’m in my 60s and I recently re-read for the umpteenth time and loved it all over again.—-AlanJanuary 5, 2014, 11:20 pm
-- davidsays:I’m glad you are putting up new bits and pieces after all. I’ve stopped by now and then in recent months in hope of more, but I would just see the black-bordered post at top and think “Oh well.”January 7, 2014, 10:10 pm
+- Alan Robson says:
+Fascinating! I’ve always loved “The Space Merchants”. I read it first as a teenager. Now I’m in my 60s and I recently re-read for the umpteenth time and loved it all over again.
+—
+-Alan
+January 5, 2014, 11:20 pm
+- david says:
+I’m glad you are putting up new bits and pieces after all. I’ve stopped by now and then in recent months in hope of more, but I would just see the black-bordered post at top and think “Oh well.”
+January 7, 2014, 10:10 pm
 
 **WordPress**
 **TWTFB2**

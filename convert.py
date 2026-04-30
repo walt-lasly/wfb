@@ -28,6 +28,37 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
+# Corrections for data errors in the original WordPress HTML.
+# Maps incorrect 'YYYY/MM/slug' paths to the correct ones.
+HREF_OVERRIDES = {
+    # Part 2 of Harmonic Convergence has a wrong href for "Part 3" — points to part-4
+    "2014/04/through-the-harmonic-convergence-part-4": "2014/04/through-the-harmonic-convergence-part-3",
+
+    # Truncated slug (sidebar links omit the subtitle)
+    "2009/01/reality-testing-response": "2009/01/reality-testing-response-from-freds-wife-the-aforementioned-college-professor",
+
+    # Wrong month: links say November, post is December
+    "2009/11/astounding-campbell-years": "2009/12/astounding-campbell-years",
+    # Same, but href was also doubled/concatenated in the HTML
+    "2009/11/astounding-campbell-yearsastounding-campbell-years": "2009/12/astounding-campbell-years",
+
+    # Garbled href: ellipsis + second copy of slug got merged in the HTML
+    "2009/10/let-there-be-f\u2026the-big-leaguelet-there-be-fandom-part-5-the-big-league": "2009/10/let-there-be-fandom-part-5-the-big-league",
+    # Same URL but percent-encoded ellipsis
+    "2009/10/let-there-be-f%E2%80%A6the-big-leaguelet-there-be-fandom-part-5-the-big-league": "2009/10/let-there-be-fandom-part-5-the-big-league",
+
+    # Wrong month: links say June, posts are July
+    "2010/06/basement-and-empire": "2010/07/basement-and-empire",
+    "2010/06/basement-empire-2-science-fiction-meetings": "2010/07/basement-empire-2-science-fiction-meetings",
+
+    # Doubled slug (href was concatenated with itself in the HTML)
+    "2010/10/science-quizscience-quiz": "2010/10/science-quiz",
+    "2010/12/judith-merril-part-6-our-housejudith-merril-part-6-our-house": "2010/12/judith-merril-part-6-our-house",
+
+    # Truncated slug (sidebar links omit the subtitle)
+    "2010/12/mary-byers-kornbluth": "2010/12/mary-byers-kornbluth-part-1-a-fan-is-born",
+}
+
 # ── Paths ──────────────────────────────────────────────────────────────────────
 SCRIPT_DIR   = Path(__file__).parent
 SITE_DIR     = SCRIPT_DIR          # script lives in fred-pohl-blog/
@@ -91,13 +122,28 @@ def _sc(value: str) -> str:
     return value.replace('"', '&quot;')
 
 
+def extract_blog_path(href: str):
+    """Extract 'YYYY/MM/slug' from a thewaythefutureblogs.com URL.
+
+    Handles both direct URLs and Wayback Machine-wrapped URLs.
+    Returns the path string or None if the href is not a blog post link.
+    """
+    # Strip Wayback wrapper: https://web.archive.org/web/TIMESTAMP/http://...
+    clean = re.sub(r'https?://web\.archive\.org/web/\d+/', '', href)
+    m = re.search(r'thewaythefutureblogs\.com/(\d{4}/\d{2}/[^/?#\s]+)', clean)
+    if m:
+        path = m.group(1).rstrip('/')
+        return HREF_OVERRIDES.get(path, path)
+    return None
+
+
 def image_markdown(src: str, alt: str, caption: str = "") -> str:
     if caption:
         return f'{{{{< figure src="{_sc(src)}" alt="{_sc(alt)}" caption="{_sc(caption)}" >}}}}'
     return f'![{alt}]({src})'
 
 
-def html_to_markdown(content_div, slug_dir: Path) -> str:
+def html_to_markdown(content_div, slug_dir: Path, link_map: dict = None) -> str:
     """
     Walk the content div and produce Markdown text.
     Images are referenced relative to the page bundle folder.
@@ -142,10 +188,15 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
                         else:
                             break
                     elif nn == "a":
-                        # Embed link as **bold** inside the italic span
+                        # Embed link as **bold** inside the italic span,
+                        # with an internal link if the href maps to a known post.
                         lt = nc.get_text().strip()
                         if lt:
-                            buf += f" **{lt}** "
+                            url_key = extract_blog_path(nc.get("href", ""))
+                            if url_key and link_map and url_key in link_map:
+                                buf += f" [**{lt}**]({link_map[url_key]}) "
+                            else:
+                                buf += f" **{lt}** "
                         j += 1
                     else:
                         break
@@ -177,10 +228,18 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
 
             elif name == "a":
                 text = child.get_text()
-                if text.strip():
-                    parts.append(f"**{text.strip()}**")
+                href = child.get("href", "")
+                url_key = extract_blog_path(href)
+                if url_key and link_map and url_key in link_map:
+                    if text.strip():
+                        parts.append(f"[**{text.strip()}**]({link_map[url_key]})")
+                    else:
+                        parts.append(text)
                 else:
-                    parts.append(text)
+                    if text.strip():
+                        parts.append(f"**{text.strip()}**")
+                    else:
+                        parts.append(text)
 
             else:
                 parts.append(child.get_text())
@@ -293,7 +352,7 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
 
             elif tag in ("ul", "ol"):
                 for li in node.find_all("li", recursive=False):
-                    if li.find(["b", "strong", "em", "i"]):
+                    if li.find(["b", "strong", "em", "i", "a"]):
                         lines.append("- " + inline_text(li).strip())
                     else:
                         lines.append("- " + li.get_text(strip=True))
@@ -428,12 +487,22 @@ def html_to_markdown(content_div, slug_dir: Path) -> str:
 
             elif tag == "a":
                 text = node.get_text()
-                if text.strip():
-                    lines.append(f"**{text.strip()}**")
+                href = node.get("href", "")
+                url_key = extract_blog_path(href)
+                if url_key and link_map and url_key in link_map:
+                    if text.strip():
+                        lines.append(f"[**{text.strip()}**]({link_map[url_key]})")
+                    else:
+                        if hasattr(node, "children"):
+                            for child in node.children:
+                                process_node(child)
                 else:
-                    if hasattr(node, "children"):
-                        for child in node.children:
-                            process_node(child)
+                    if text.strip():
+                        lines.append(f"**{text.strip()}**")
+                    else:
+                        if hasattr(node, "children"):
+                            for child in node.children:
+                                process_node(child)
 
             else:
                 if hasattr(node, "children"):
@@ -555,7 +624,24 @@ def parse_html_file(html_path: Path):
     result["categories"] = categories
     result["tags"] = tags
 
-    # ── Body content ───────────────────────────────────────────────────────────
+    # ── Prev / next navigation links ───────────────────────────────────
+    # WordPress renders <div class="navigation"> with two child divs:
+    #   <div class="alignleft">« <a href="...">Title</a></div>  (prev)
+    #   <div class="alignright"><a href="...">Title</a> »</div>  (next)
+    nav_div = soup.find("div", class_="navigation")
+    prev_nav = {"url": "", "title": ""}
+    next_nav = {"url": "", "title": ""}
+    if nav_div:
+        left  = nav_div.find("div", class_="alignleft")
+        right = nav_div.find("div", class_="alignright")
+        for side, store in ((left, prev_nav), (right, next_nav)):
+            if side:
+                a = side.find("a")
+                if a:
+                    store["url"]   = a.get("href", "")
+                    store["title"] = a.get_text(strip=True)
+    result["prev_nav"] = prev_nav
+    result["next_nav"] = next_nav
     # Reader-mode wraps text in #readability-page-1; also strip the WP post-meta
     # footer ("This entry was posted…") from the body — it belongs in front matter.
     body_div = soup.find(id="readability-page-1")
@@ -568,6 +654,9 @@ def parse_html_file(html_path: Path):
             pm.decompose()
         for el in body_div.find_all(True, id=re.compile(r"^wm-")):
             el.decompose()
+        # Remove navigation div (prev/next links) — stored in front matter instead
+        for nav in body_div.find_all("div", class_="navigation"):
+            nav.decompose()
         # Remove sidebar
         sidebar = body_div.find(id="sidebar")
         if sidebar:
@@ -590,7 +679,8 @@ def parse_html_file(html_path: Path):
 
 def build_front_matter(title: str, date: datetime, categories: list,
                         tags: list, archive_url: str, translated: bool,
-                        lang: str) -> str:
+                        lang: str,
+                        prev_post: dict = None, next_post: dict = None) -> str:
     lines = ["---"]
     lines.append(f'title: "{title}"')
     lines.append(f'date: {date.strftime("%Y-%m-%d")}')
@@ -598,12 +688,20 @@ def build_front_matter(title: str, date: datetime, categories: list,
     lines.append(f'tags: {yaml_list(tags)}')
     if archive_url:
         lines.append(f'archive_url: "{archive_url}"')
+    if prev_post and prev_post.get("url"):
+        safe_title = prev_post["title"].replace('"', '&quot;')
+        lines.append(f'prev_post_url: "{prev_post["url"]}"')
+        lines.append(f'prev_post_title: "{safe_title}"')
+    if next_post and next_post.get("url"):
+        safe_title = next_post["title"].replace('"', '&quot;')
+        lines.append(f'next_post_url: "{next_post["url"]}"')
+        lines.append(f'next_post_title: "{safe_title}"')
     lines.append(f'translated: {"true" if translated else "false"}')
     lines.append("---")
     return "\n".join(lines) + "\n\n"
 
 
-def convert_file(html_path: Path, force: bool = False, used_folders: set = None):
+def convert_file(html_path: Path, force: bool = False, link_map: dict = None):
     print(f"  Processing: {html_path.name}")
 
     data = parse_html_file(html_path)
@@ -612,16 +710,6 @@ def convert_file(html_path: Path, force: bool = False, used_folders: set = None)
     title     = data["title"]
     slug      = slugify(title)
     folder    = f"{date.strftime('%Y-%m-%d')}-{slug}"
-
-    # Disambiguate when two different source files produce the same folder name.
-    # Use the file's sequential number from the filename as a suffix.
-    if used_folders is not None and folder in used_folders:
-        num_m = re.match(r'^(\d+)', html_path.stem)
-        suffix = num_m.group(1) if num_m else html_path.stem
-        folder = f"{folder}-{suffix}"
-        print(f"    ↳ Slug collision — renamed to: {folder}")
-    if used_folders is not None:
-        used_folders.add(folder)
 
     dest_dir  = CONTENT_DIR / folder
 
@@ -649,10 +737,21 @@ def convert_file(html_path: Path, force: bool = False, used_folders: set = None)
                 continue
             shutil.copy2(img_file, dest_dir / img_file.name)
 
+    # ── Resolve prev / next nav URLs against the link map ─────────────────────
+    def resolve_nav(raw: dict) -> dict:
+        if not raw["url"]:
+            return raw
+        key = extract_blog_path(raw["url"])
+        if key and link_map and key in link_map:
+            return {"url": link_map[key], "title": raw["title"]}
+        return {"url": "", "title": raw["title"]}  # external / unknown — drop
+    prev_post = resolve_nav(data["prev_nav"])
+    next_post = resolve_nav(data["next_nav"])
+
     # ── Produce Markdown body ──────────────────────────────────────────────────
     body_md = ""
     if data["body_div"]:
-        body_md = html_to_markdown(data["body_div"], dest_dir)
+        body_md = html_to_markdown(data["body_div"], dest_dir, link_map=link_map)
 
     # ── Write index.en.md ─────────────────────────────────────────────────────
     fm_en = build_front_matter(
@@ -663,6 +762,8 @@ def convert_file(html_path: Path, force: bool = False, used_folders: set = None)
         archive_url = data["archive_url"],
         translated  = False,
         lang        = "en",
+        prev_post   = prev_post,
+        next_post   = next_post,
     )
     en_path = dest_dir / "index.en.md"
     en_path.write_text(fm_en + body_md, encoding="utf-8")
@@ -678,6 +779,8 @@ def convert_file(html_path: Path, force: bool = False, used_folders: set = None)
             archive_url = data["archive_url"],
             translated  = False,
             lang        = "ru",
+            prev_post   = prev_post,
+            next_post   = next_post,
         )
         stub_body = (
             "<!-- ПЕРЕВОД -->\n"
@@ -706,9 +809,35 @@ def main():
         sys.exit(0)
 
     print(f"Found {len(html_files)} HTML file(s) in {ARCHIVE_DIR}\n")
-    used_folders: set = set()
+
+    # ── First pass: build internal link map ──────────────────────────────────
+    total = len(html_files)
+    print(f"Building internal link map… (0/{total})", end="", flush=True)
+    link_map = {}
+    for i, html_path in enumerate(html_files, 1):
+        try:
+            data = parse_html_file(html_path)
+            url_key = extract_blog_path(data["archive_url"])
+            if url_key:
+                date = data["date"]
+                folder = f"{date.strftime('%Y-%m-%d')}-{slugify(data['title'])}"
+                target = f"/posts/{folder}/"
+                link_map[url_key] = target
+                # WordPress sometimes appends -2, -3 to duplicate slugs.
+                # Register the clean slug (without trailing -N) as an alias so
+                # that inline links using the "expected" slug still resolve.
+                alias_m = re.match(r"^(.*)-(\d+)$", url_key)
+                if alias_m:
+                    clean_key = alias_m.group(1)
+                    if clean_key not in link_map:
+                        link_map[clean_key] = target
+        except Exception:
+            pass
+        print(f"\rBuilding internal link map… ({i}/{total})", end="", flush=True)
+    print(f"\r  → {len(link_map)}/{total} posts indexed\n")
+
     for html_path in html_files:
-        convert_file(html_path, force=args.force, used_folders=used_folders)
+        convert_file(html_path, force=args.force, link_map=link_map)
 
     print(f"\nDone. Output in: {CONTENT_DIR}")
 

@@ -4,6 +4,10 @@ date: 2011-02-21
 categories: ["Authors"]
 tags: ["H. L. Mencken", "Quotations"]
 archive_url: "https://web.archive.org/web/20111101000000/http://www.thewaythefutureblogs.com/2011/02/bright-sayings-of-bright-people-no-10/"
+prev_post_url: "/posts/2011-02-18-remembering-toti/"
+prev_post_title: "Remembering Toti"
+next_post_url: "/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/"
+next_post_title: "Fletcher Pratt, Part 5: Shadow Over the Ipsy"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Remembering Toti**
-**Fletcher Pratt, Part 5: Shadow Over the Ipsy**
 
 ## Bright Sayings of Bright People, No. 10: Mencken
 
@@ -26,9 +28,16 @@ Frederik Pohl
 
 ### 3 Comments
 
-- Michael Mayssays:Most solutions which are short, simple, straightforward and correct cannot be understood.February 21, 2011, 10:20 am
-- Nate Whilksays:FYI the exact Mencken quote is \"…there is always a well-known solution to every human problem–neat, plausible, and wrong.\"Google Books:http://preview.tinyurl.com/4eewvkhFebruary 21, 2011, 7:53 pm
-- Anton Sherwoodsays:I’ve seen an example or two advocated in these pages, even.November 12, 2011, 2:01 am
+- Michael Mays says:
+Most solutions which are short, simple, straightforward and correct cannot be understood.
+February 21, 2011, 10:20 am
+- Nate Whilk says:
+FYI the exact Mencken quote is \"…there is always a well-known solution to every human problem–neat, plausible, and wrong.\"
+Google Books: http://preview.tinyurl.com/4eewvkh
+February 21, 2011, 7:53 pm
+- Anton Sherwood says:
+I’ve seen an example or two advocated in these pages, even.
+November 12, 2011, 2:01 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2013-04-15
 categories: ["Science"]
 tags: ["Dogs", "Emile van der Zee", "Milly Hull", "Psychology"]
 archive_url: "https://web.archive.org/web/20250801000000/http://www.thewaythefutureblogs.com/2013/04/what-does-your-dog-think-ball-means/"
+prev_post_url: "/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/"
+prev_post_title: "Arrival, Part 3: KC in the GOP’s Wake"
+next_post_url: "/posts/2013-04-19-any-day-now-by-terry-bisson-a-review/"
+next_post_title: "Any Day Nowby Terry Bisson: A review"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Arrival, Part 3: KC in the GOP’s Wake**
-**Any Day Now by Terry Bisson: A review**
 
 ## What Does Your Dog Think ‘Ball’ Means?
 
@@ -32,4 +34,10 @@ Researchers taught a collie dog named Gable made-up names for some objects, one 
 
 ### One Comment
 
-- Stefan Jonessays:All of the “nouns” my dog knows are really commands to do something in relation to the object.Hoop = jump through a hoop (Really!http://www.flickr.com/photos/stefan_e_jones/4797532985/in/set-72157624384568387)Bed = go to her bedCar = run to the car to go for a rideKira is an adopted dog. If I started with a puppy I might try teaching him or her about specific objects, but she is pretty set in her ways.April 17, 2013, 6:00 pm
+- Stefan Jones says:
+All of the “nouns” my dog knows are really commands to do something in relation to the object.
+Hoop = jump through a hoop (Really! http://www.flickr.com/photos/stefan_e_jones/4797532985/in/set-72157624384568387)
+Bed = go to her bed
+Car = run to the car to go for a ride
+Kira is an adopted dog. If I started with a puppy I might try teaching him or her about specific objects, but she is pretty set in her ways.
+April 17, 2013, 6:00 pm

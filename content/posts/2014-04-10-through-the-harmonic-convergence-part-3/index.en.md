@@ -4,6 +4,10 @@ date: 2014-04-10
 categories: ["Travel"]
 tags: ["Academics", "Bobby Seale", "Chernobyl", "Elizabeth Anne Hull", "Erno Rubik", "Hernan Cortes", "Publishing", "Religion", "Rene Descartes"]
 archive_url: "https://web.archive.org/web/20131001000000/http://www.thewaythefutureblogs.com/2014/04/through-the-harmonic-convergence-part-3-2/"
+prev_post_url: "/posts/2014-04-06-bright-sayings-of-bright-people-no-51-frey/"
+prev_post_title: "Bright Sayings of Bright People, No. 51: Frey"
+next_post_url: "/posts/2014-04-18-political-systems-does-democracy-really-trump-the-rest/"
+next_post_title: "Political Systems: Does Democracy Really Trump the Rest?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 51: Frey**
-**Political Systems: Does Democracy Really Trump the Rest?**
 
 ## Through the Harmonic Convergence, Part 3
 
@@ -82,13 +84,21 @@ I had never been an admirer of Bobby Seale, but I feel a little more charitable 
 
 **Related posts:**
 
-- Peddling Books Through the Harmonic Convergence,Part 1,Part 2
+- Peddling Books Through the Harmonic Convergence, [**Part 1**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/), [**Part 2**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/)
 
 
 ### 3 Comments
 
-- Stefan Jonessays:In the past, balderdash of the sort that Fred describes above was marginalized. Something we could laugh at, and maybe feel smug about, but in the end it wouldn’t do any real harm.Now woo and superstition and faddish medicine are, thanks to the web, able to “have legs” and effect policy and practice. Whole cable networks cater to balderdash, providing little in the way of opposing views and, worse, displacing quality programs about health, nature, technology and science.Sad, and dismaying.April 11, 2014, 4:57 pm
-- Alan Robsonsays:Spot on as always. Kooks and crazies can sometimes be fun (but always in VERY small doses). And your travel advice reflects my own experiences. Well said!—-AlanApril 13, 2014, 12:05 am
+- Stefan Jones says:
+In the past, balderdash of the sort that Fred describes above was marginalized. Something we could laugh at, and maybe feel smug about, but in the end it wouldn’t do any real harm.
+Now woo and superstition and faddish medicine are, thanks to the web, able to “have legs” and effect policy and practice. Whole cable networks cater to balderdash, providing little in the way of opposing views and, worse, displacing quality programs about health, nature, technology and science.
+Sad, and dismaying.
+April 11, 2014, 4:57 pm
+- Alan Robson says:
+Spot on as always. Kooks and crazies can sometimes be fun (but always in VERY small doses). And your travel advice reflects my own experiences. Well said!
+—
+-Alan
+April 13, 2014, 12:05 am
 - H. E. Parmer says:
 He had learned every buzzword there was in every discipline known to man […] and had managed not to understand any of them.
 IOW, he’s a stupid person’s idea of what a smart person should sound like. He’s hoping if he can just dazzle you with his pseudo-intellectual footwork, you won’t notice he’s a feather-weight pretending to be an Ali. You run into this sort in all walks of life, and the one absolute imperative is that you should never, ever put them in a position of real responsibility. Frankly, the fact that more and more of them seem to be cropping up in our ruling elites seems to me to be the clearest sign yet that our civilization’s headed for a fall.

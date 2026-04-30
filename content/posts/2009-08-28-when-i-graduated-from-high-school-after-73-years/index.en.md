@@ -4,6 +4,10 @@ date: 2009-08-28
 categories: ["Personal"]
 tags: ["Academics", "Arthur C. Clarke", "John Brunner", "New York", "The Last Theorem"]
 archive_url: "https://web.archive.org/web/20091002090451/http://www.thewaythefutureblogs.com/2009/08/when-i-graduated-from-high-school-after-73-years/"
+prev_post_url: "/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
+prev_post_title: "Fred’s Distilled Writing Wisdom, Part 1"
+next_post_url: "/posts/2009-09-01-more-little-known-fun-facts/"
+next_post_title: "More Little Known Fun Facts"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Fred’s Distilled Writing Wisdom, Part 1**
-**More Little Known Fun Facts**
 
 ## When I Graduated from High School (After 73 Years)
 
@@ -41,28 +43,71 @@ I do have one problem, though.  I remember matchbook ads for a correspondence sc
 
 ### 19 Comments
 
-- Jeffsays:Congratulations!August 28, 2009, 8:29 am
-- Mike Weasnersays:Congrats!August 28, 2009, 8:35 am
+- Jeff says:
+Congratulations!
+August 28, 2009, 8:29 am
+- Mike Weasner says:
+Congrats!
+August 28, 2009, 8:35 am
 - Stefan Jones says:
 Congratulations!
 As for what you do next . . . one word: Plastics!
 August 28, 2009, 12:30 pm
-- A. Sheltonsays:Congratulations!August 28, 2009, 8:45 pm
-- christinesays:My sincere and hearty congratulations!August 28, 2009, 9:40 pm
-- Farahsays:Congratulations!August 29, 2009, 6:40 am
-- Jennifersays:What a kind thing to do, and how wonderful for you. Congratulations!August 29, 2009, 8:19 am
-- Casssays:Congratulations!August 29, 2009, 10:20 am
-- Elizabeth Bearsays:Congratulations!August 29, 2009, 10:27 am
-- James A. Owensays:That’s the coolest thing I’ve seen all year. Very happy for you, Fred!August 29, 2009, 10:36 am
-- Chaz Brenchleysays:Heh. That is so cool. Congratulations!August 29, 2009, 12:28 pm
-- whumpsays:Well done!August 29, 2009, 1:19 pm
-- Ellen Ashersays:Mazel tov!Now maybe you can make something of yourself….August 29, 2009, 10:43 pm
-- JJ Brannonsays:Fred, you’re an inspiration to us all.I haven’t seen you since the Heinlein Centennial, when you only a struggling high school dropout, but I knew you had it in you, kid.  :>)To the question of what you could have accomplished if only you had stuck it out earlier, I believe Somerset Maugham’s “The Verger” handily answers.Congratulations!JJBAugust 29, 2009, 10:46 pm
-- Chookiesays:Congratulations on your graduation… I suppose that the extra $25 won\’t be backdated, though! Pity!August 30, 2009, 8:54 pm
-- Bill Higgins-- Beam Jockeysays:Have you given any thought to which college you’d like to attend?A lad with your brains really ought to go on to higher education.  I’m sure you could major in a subject that would ensure you a good job after graduation…August 31, 2009, 9:25 am
-- PJsays:So… college next?August 31, 2009, 10:50 am
-- Marcsays:What a lovely gesture. Congratulations!September 2, 2009, 7:31 am
-- Bekbeksays:This is interesting! I, too, left high school at 17. It would not have been around the same time because, actually, I would have already heard you speak at science fiction conventions a couple of times at that point. Huh. Come to think of it… how often did you mention this brilliant idea of ditching school?! When all is said and done, I think it worked out well for me (so if it was even partly your influence, thank you!), although I did somehow manage to accidentally acquire a bachelor’s and a master’s degree. It wasn’t my intention. And I still don’t have the HS diploma, so you’re easily ahead of me! (Not to mention the successful writing career!) Congratulations!By the way, my husband and I both happened upon your site by searching for personal (user-generated) photos of the Ryndam. We will be sailing for just a week in March 2010 and are a little over-eager. When I followed the photo to your blog, I was pleasantly surprised to find that it was hosted by a very familiar name. Thank you. When we get on the Ryndam, I will try to sneak one of your books into the library shelves…September 16, 2009, 1:03 pm
+- A. Shelton says:
+Congratulations!
+August 28, 2009, 8:45 pm
+- christine says:
+My sincere and hearty congratulations!
+August 28, 2009, 9:40 pm
+- Farah says:
+Congratulations!
+August 29, 2009, 6:40 am
+- Jennifer says:
+What a kind thing to do, and how wonderful for you. Congratulations!
+August 29, 2009, 8:19 am
+- Cass says:
+Congratulations!
+August 29, 2009, 10:20 am
+- Elizabeth Bear says:
+Congratulations!
+August 29, 2009, 10:27 am
+- James A. Owen says:
+That’s the coolest thing I’ve seen all year. Very happy for you, Fred!
+August 29, 2009, 10:36 am
+- Chaz Brenchley says:
+Heh. That is so cool. Congratulations!
+August 29, 2009, 12:28 pm
+- whump says:
+Well done!
+August 29, 2009, 1:19 pm
+- Ellen Asher says:
+Mazel tov!
+Now maybe you can make something of yourself….
+August 29, 2009, 10:43 pm
+- JJ Brannon says:
+Fred, you’re an inspiration to us all.
+I haven’t seen you since the Heinlein Centennial, when you only a struggling high school dropout, but I knew you had it in you, kid.  :>)
+To the question of what you could have accomplished if only you had stuck it out earlier, I believe Somerset Maugham’s “The Verger” handily answers.
+Congratulations!
+JJB
+August 29, 2009, 10:46 pm
+- Chookie says:
+Congratulations on your graduation… I suppose that the extra $25 won\’t be backdated, though! Pity!
+August 30, 2009, 8:54 pm
+- Bill Higgins-- Beam Jockey says:
+Have you given any thought to which college you’d like to attend?
+A lad with your brains really ought to go on to higher education.  I’m sure you could major in a subject that would ensure you a good job after graduation…
+August 31, 2009, 9:25 am
+- PJ says:
+So… college next?
+August 31, 2009, 10:50 am
+- Marc says:
+What a lovely gesture. Congratulations!
+September 2, 2009, 7:31 am
+- Bekbek says:
+This is interesting! I, too, left high school at 17. It would not have been around the same time because, actually, I would have already heard you speak at science fiction conventions a couple of times at that point. Huh. Come to think of it… how often did you mention this brilliant idea of ditching school?! When all is said and done, I think it worked out well for me (so if it was even partly your influence, thank you!), although I did somehow manage to accidentally acquire a bachelor’s and a master’s degree. It wasn’t my intention. And I still don’t have the HS diploma, so you’re easily ahead of me! (Not to mention the successful writing career!) Congratulations!
+By the way, my husband and I both happened upon your site by searching for personal (user-generated) photos of the Ryndam. We will be sailing for just a week in March 2010 and are a little over-eager. When I followed the photo to your blog, I was pleasantly surprised to find that it was hosted by a very familiar name. Thank you. When we get on the Ryndam, I will try to sneak one of your books into the library shelves…
+September 16, 2009, 1:03 pm
 
 **WordPress**
 **TWTFB**

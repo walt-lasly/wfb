@@ -4,6 +4,10 @@ date: 2012-07-30
 categories: ["Authors"]
 tags: ["Algis Budrys", "Ben Bova", "Bob Guccione", "C.M. Kornbluth", "Catherine Tarrant", "Damon Knight", "Editors", "James Blish", "John W. Campbell", "Judith Merril", "Prozines"]
 archive_url: "https://web.archive.org/web/20210101000000/http://www.thewaythefutureblogs.com/2012/07/ben-bova-from-nuts-and-bolts-to-eternity/"
+prev_post_url: "/posts/2012-07-01-do-you-know-these-folks/"
+prev_post_title: "Do you know these folks?"
+next_post_url: "/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/"
+next_post_title: "Robert Sheckley:If the Marx Brothers Had Been Writers…"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Do you know these folks?**
-**Robert Sheckley: If the Marx Brothers Had Been Writers…**
 
 ## Ben Bova: From Nuts and Bolts to Eternity
 
@@ -44,11 +46,23 @@ Which was probably a good thing for Ben’s writing career, because it freed him
 
 ### 5 Comments
 
-- Todd Masonsays:Campbell might’ve welcomed Bova, but it was your other colleague Cele Goldsmith who actually published early fiction and nonfiction by Bova in good quantity in her AMAZING…July 31, 2012, 8:26 am
-- Stephen Bsays:When I started reading Analog in the late ’60s, Campbell was still the editor, but the magazine was owned by Conde Nast.  I see Wikipedia says “Condé Nast Publications bought Street & Smith in August 1959,[26] though the change was not reflected in Analog’s masthead until February 1962.”I check out this blog frequently.  Fascinating stuff.July 31, 2012, 1:56 pm
-- TADsays:Fred: Hoo boy, for a minute I thought this was going to be an obituary, but I’m sure glad it wasn’t. The first letter I ever got from an SF mag editor was from Ben Bova — God knows how he got through my SF-fan ravings back in those days. I thought he did a great job with ANALOG in the mid-’70s: he printed a lot of great stuff. ANALOG was the first mag I ever subscribed to. Thanks for the memories….July 31, 2012, 7:19 pm
-- Robert Nowallsays:Alas, it was Conde-Nast, not Street & Smith, that owned Analog in those days.  According to Wikipedia (which I just looked up), they bought Street & Smith in 1959, though it didn’t show up on the masthead until February 1962.I remember Ben Bova’s tenure as editor quite fondly—my subscription to Analog started just after he took over.  Also I made my first manuscript submissions then.  He rejected every one—and I realize in retrospect that he did me an enormous favor.August 1, 2012, 6:02 am
-- Carl Gloversays:I can well see how a writers’ conference experience such as you describe could be at least temporarily discouraging.  I’ve never believed that having one’s work dissected and efforts impugned in such a fashion could possibly be helpful to the creative process.  Bova was probably more or less immune to its malign influences and just coincidentally began to produce better work afterwards.  I’ve never attended a writers’ conference, but your comparison with the negative effects of “encounter groups” is probably apt.  As a clinical psychologist, I long ago rejected the encounter group experience as having any therapeutic value.  In fact, quite the contrary for many people.August 18, 2012, 2:13 pm
+- Todd Mason says:
+Campbell might’ve welcomed Bova, but it was your other colleague Cele Goldsmith who actually published early fiction and nonfiction by Bova in good quantity in her AMAZING…
+July 31, 2012, 8:26 am
+- Stephen B says:
+When I started reading Analog in the late ’60s, Campbell was still the editor, but the magazine was owned by Conde Nast.  I see Wikipedia says “Condé Nast Publications bought Street & Smith in August 1959,[26] though the change was not reflected in Analog’s masthead until February 1962.”
+I check out this blog frequently.  Fascinating stuff.
+July 31, 2012, 1:56 pm
+- TAD says:
+Fred: Hoo boy, for a minute I thought this was going to be an obituary, but I’m sure glad it wasn’t. The first letter I ever got from an SF mag editor was from Ben Bova — God knows how he got through my SF-fan ravings back in those days. I thought he did a great job with ANALOG in the mid-’70s: he printed a lot of great stuff. ANALOG was the first mag I ever subscribed to. Thanks for the memories….
+July 31, 2012, 7:19 pm
+- Robert Nowall says:
+Alas, it was Conde-Nast, not Street & Smith, that owned Analog in those days.  According to Wikipedia (which I just looked up), they bought Street & Smith in 1959, though it didn’t show up on the masthead until February 1962.
+I remember Ben Bova’s tenure as editor quite fondly—my subscription to Analog started just after he took over.  Also I made my first manuscript submissions then.  He rejected every one—and I realize in retrospect that he did me an enormous favor.
+August 1, 2012, 6:02 am
+- Carl Glover says:
+I can well see how a writers’ conference experience such as you describe could be at least temporarily discouraging.  I’ve never believed that having one’s work dissected and efforts impugned in such a fashion could possibly be helpful to the creative process.  Bova was probably more or less immune to its malign influences and just coincidentally began to produce better work afterwards.  I’ve never attended a writers’ conference, but your comparison with the negative effects of “encounter groups” is probably apt.  As a clinical psychologist, I long ago rejected the encounter group experience as having any therapeutic value.  In fact, quite the contrary for many people.
+August 18, 2012, 2:13 pm
 
 **WordPress**
 **TWTFB2**

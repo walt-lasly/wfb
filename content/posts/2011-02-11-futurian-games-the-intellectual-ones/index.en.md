@@ -4,6 +4,10 @@ date: 2011-02-11
 categories: ["Authors"]
 tags: ["Cab Calloway", "Clubs", "Donald A. Wollheim", "Futurians", "Games", "Rosalind Cohen"]
 archive_url: "https://web.archive.org/web/20170707012337/http://www.thewaythefutureblogs.com/2011/02/futurian-games-the-intellectual-ones/"
+prev_post_url: "/posts/2011-02-07-clothespin-farewell/"
+prev_post_title: "Clothespin, Farewell"
+next_post_url: "/posts/2011-02-18-remembering-toti/"
+next_post_title: "Remembering Toti"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Clothespin, Farewell**
-**Remembering Toti**
 
 ## Futurian Games (The Intellectual Ones)
 
@@ -60,15 +62,36 @@ Each player has a complete set of rules and playing instructions that cover almo
 
 ### 9 Comments
 
-- Shakatanysays:At first Djugashvili sounded like Star Trek’s fizzbin – wonder what the Futurians would’ve done with that *grin*February 11, 2011, 11:06 pm
-- Brucesays:The first rule of Djugashvili is that you don’t talk about Djugashvili?  I thought that was Fight Club.I’m surprised the Futurians didn’t come up with double ghost, where you can add a letter to either end of the string.February 12, 2011, 10:44 am
-- Robert Nowallsays:The cartoon’s an old favorite of mine…it’s hard not to spot Cab Calloway’s moves in the rotoscoped animation.As for the game of Djugashvili…well, consider who the game is named after…February 12, 2011, 12:37 pm
-- Bill Goodwinsays:I suspect that Djugasvili is what the elementary particles of our universe are playing.  When there are disputes, things collapse or blow up.February 12, 2011, 8:33 pm
-- steve davidsonsays:Djugasvili sounds like a predecessor to Nomic – the game of rule changes (invented by Peter Suber).February 13, 2011, 6:30 am
-- Henry Turnersays:Is Djugasvili a metaphor?February 14, 2011, 3:57 am
-- Robert Nowallsays:On Djugashvili…has everybody forgotten?February 16, 2011, 12:52 pm
-- Paul R. Wardsays:Djugasvili is the surname of Joseph Visarionovich Djugasvili, AKA  Joseph Stalin.February 16, 2011, 3:54 pm
-- JJ Brannonsays:That’s from where Bill Watterson derived the rules for Calvinball!JJBFebruary 16, 2011, 11:45 pm
+- Shakatany says:
+At first Djugashvili sounded like Star Trek’s fizzbin – wonder what the Futurians would’ve done with that *grin*
+February 11, 2011, 11:06 pm
+- Bruce says:
+The first rule of Djugashvili is that you don’t talk about Djugashvili?  I thought that was Fight Club. 
+I’m surprised the Futurians didn’t come up with double ghost, where you can add a letter to either end of the string.
+February 12, 2011, 10:44 am
+- Robert Nowall says:
+The cartoon’s an old favorite of mine…it’s hard not to spot Cab Calloway’s moves in the rotoscoped animation.
+As for the game of Djugashvili…well, consider who the game is named after…
+February 12, 2011, 12:37 pm
+- Bill Goodwin says:
+I suspect that Djugasvili is what the elementary particles of our universe are playing.  When there are disputes, things collapse or blow up.
+February 12, 2011, 8:33 pm
+- steve davidson says:
+Djugasvili sounds like a predecessor to Nomic – the game of rule changes (invented by Peter Suber).
+February 13, 2011, 6:30 am
+- Henry Turner says:
+Is Djugasvili a metaphor?
+February 14, 2011, 3:57 am
+- Robert Nowall says:
+On Djugashvili…has everybody forgotten?
+February 16, 2011, 12:52 pm
+- Paul R. Ward says:
+Djugasvili is the surname of Joseph Visarionovich Djugasvili, AKA  Joseph Stalin.
+February 16, 2011, 3:54 pm
+- JJ Brannon says:
+That’s from where Bill Watterson derived the rules for Calvinball!
+JJB
+February 16, 2011, 11:45 pm
 
 **WordPress**
 **TWTFB2**

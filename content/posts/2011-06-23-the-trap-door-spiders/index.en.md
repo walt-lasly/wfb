@@ -4,6 +4,10 @@ date: 2011-06-23
 categories: ["Authors"]
 tags: ["Clubs", "Fletcher Pratt", "Isaac Asimov", "John D. Clark", "Keith P. Graham", "Lester del Rey", "Mildred Clark", "New York"]
 archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2011/06/the-trapdoor-spiders/"
+prev_post_url: "/posts/2011-06-22-the-rich-get-rich-part-2/"
+prev_post_title: "The Rich Get Rich, Part 2"
+next_post_url: "/posts/2011-06-24-how-well-do-you-know-your-bible/"
+next_post_title: "How Well Do You Know Your Bible?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Rich Get Rich, Part 2**
-**How Well Do You Know Your Bible?**
 
 ## The Trap Door Spiders
 
@@ -33,9 +35,13 @@ Isaac wrote a bunch of mysteries about a club modeled after the TDS, which I thi
 
 ### 3 Comments
 
-- David Goldfarbsays:I have now edited the relevant Wikipedia entries; they no longer claim that you were a member.June 23, 2011, 1:08 am
+- David Goldfarb says:
+I have now edited the relevant Wikipedia entries; they no longer claim that you were a member.
+June 23, 2011, 1:08 am
 - Bill Higgins-- Beam Jockey says:
 Keith P. Graham asks if I will do a post on The Trap Door Spiders,[…] but I have to recuse myself.
 Had you been going for a cheap laugh, you might have written “I have to recluse myself.”
 June 28, 2011, 2:10 pm
-- Kellysays:Funny, Bill, that’s exactly how I read it the first time!July 11, 2011, 10:42 pm
+- Kelly says:
+Funny, Bill, that’s exactly how I read it the first time!
+July 11, 2011, 10:42 pm

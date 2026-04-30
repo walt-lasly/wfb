@@ -4,6 +4,10 @@ date: 2015-01-22
 categories: ["Authors", "Personal"]
 tags: ["Ann Pohl", "John W. Campbell", "Judith Merril", "Prozines", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2015/01/walter-m-miller-jr-my-last-fist-fight/"
+prev_post_url: "/posts/2014-12-15-fred-on-de-camp/"
+prev_post_title: "Fred on de Camp"
+next_post_url: "/posts/2015-02-13-elizabeth-anne-hull-s-appearances/"
+next_post_title: "Elizabeth Anne Hull’s Appearances"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Fred on de Camp**
-**Elizabeth Anne Hull’s Appearances**
 
 ## Walter M. Miller Jr.: My last fist fight
 
@@ -65,7 +67,11 @@ Unfortunately some of these things I am now being candid about reflect little cr
 
 ### One Comment
 
-- JJ Brannonsays:Wow!  That was exciting!The Way the Future Blogs with fists and guns a-blazing.JJBJanuary 26, 2015, 5:14 pm
+- JJ Brannon says:
+Wow!  That was exciting!
+The Way the Future Blogs with fists and guns a-blazing.
+JJB
+January 26, 2015, 5:14 pm
 
 **WordPress**
 **TWTFB2**

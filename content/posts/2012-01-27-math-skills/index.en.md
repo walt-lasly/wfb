@@ -4,6 +4,10 @@ date: 2012-01-27
 categories: ["Science"]
 tags: ["Economics"]
 archive_url: "https://web.archive.org/web/20220901000000/http://www.thewaythefutureblogs.com/2012/01/mat/"
+prev_post_url: "/posts/2012-01-25-bright-sayings-of-bright-people-no-24/"
+prev_post_title: "Bright Sayings of Bright People, No. 24"
+next_post_url: "/posts/2012-01-30-rating-the-candidates/"
+next_post_title: "Rating the Candidates"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 24**
-**Rating the Candidates**
 
 ## Math skills
 
@@ -33,10 +35,19 @@ The less math people know, the more confident they are in their decisions.
 
 ### 4 Comments
 
-- Jack William Bellsays:This is known as the Dunning Kruger effect. It applies to things other than math skills.http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effectJanuary 27, 2012, 10:49 am
-- Keithsays:Just out of curiosity, where’d you get these statistics from , Fred?January 27, 2012, 11:26 am
-- Theophylactsays:Ah, yes: TheDunning-Kruger Effectrears its ugly head once more.January 27, 2012, 11:57 am
-- Larry Kollarsays:Who was it that said learned people agonize over a problem, while the ignorant have full faith & confidence in their wrong answer? (I’m sure I’ve garbled the quote, but someone will know what I meant.)Seems appropriate that a simple math question is required to post a comment to this blog.January 27, 2012, 10:56 pm
+- Jack William Bell says:
+This is known as the Dunning Kruger effect. It applies to things other than math skills. http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+January 27, 2012, 10:49 am
+- Keith says:
+Just out of curiosity, where’d you get these statistics from , Fred?
+January 27, 2012, 11:26 am
+- Theophylact says:
+Ah, yes: The Dunning-Kruger Effect rears its ugly head once more.
+January 27, 2012, 11:57 am
+- Larry Kollar says:
+Who was it that said learned people agonize over a problem, while the ignorant have full faith & confidence in their wrong answer? (I’m sure I’ve garbled the quote, but someone will know what I meant.)
+Seems appropriate that a simple math question is required to post a comment to this blog.  
+January 27, 2012, 10:56 pm
 
 **WordPress**
 **TWTFB2**

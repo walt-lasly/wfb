@@ -4,6 +4,10 @@ date: 2010-07-02
 categories: ["Books", "Personal", "Science", "Travel"]
 tags: ["Ecology", "Elizabeth Anne Hull", "Gateways", "Zoology"]
 archive_url: "https://web.archive.org/web/20110922155939/http://www.thewaythefutureblogs.com/2010/07/our-planet-bottom-to-top/"
+prev_post_url: "/posts/2010-06-30-cruising-while-the-sun-goes-out/"
+prev_post_title: "Cruising While the Sun Goes Out"
+next_post_url: "/posts/2010-07-05-basement-and-empire/"
+next_post_title: "Basement and Empire"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Cruising While the Sun Goes Out**
-**Basement and Empire**
 
 ## Our Planet, Bottom to Top
 
@@ -77,10 +79,24 @@ Oh, and listen, those waters in the Arctic and Antarctic that I said Betty Anne 
 
 ### 4 Comments
 
-- Denis Drewsays:Your post gave me an idea how to save the polar bear species from habitat destruction by global warming.  Just transfer several dozen males and females to the Antarctic and let them feed on penguins who don’t even have enough sense to run away.Be fascinating to see how long it takes to evolve a race of vicious penguins (gang attacking bears?).How will the penguins survive?  If they don’t how will the killer whales survive?  Wouldn’t take a government, just one private boat could do the experiment — not even a law against it!July 2, 2010, 3:02 pm
-- Bill Goodwinsays:The ice floes resembling towers and minarets may actually have been mirage-reflections of some weird and aeon-haunted alien metropolis at far remove…I’d give a lot for taste of deep antarctic ice.  Imagine drinking water that’s been out of circulation since before our species was born!July 3, 2010, 2:53 am
-- Ironmistresssays:Actually the name “penguin” is derived from the Gaelic name of the (sadly extinct) Great Auk, “pengwynn”.So there used to be a penguin at the Arctic as wellJuly 3, 2010, 2:32 pm
-- Nikisays:Thanks for the travelogue - I will probably never make it to the ends of this physical earth, but I have so enjoyed traveling with you, and with other esteemed and blessed science fiction writers, all over the universeI just read Starburst and it was very inspirational, so I wrote about it in my Blog.  I wanted to wish you and your lovely wife all the best in your journeys (journeys in the most plural sense).Peace, Niki DanielsJuly 4, 2010, 6:58 am
+- Denis Drew says:
+Your post gave me an idea how to save the polar bear species from habitat destruction by global warming.  Just transfer several dozen males and females to the Antarctic and let them feed on penguins who don’t even have enough sense to run away.
+Be fascinating to see how long it takes to evolve a race of vicious penguins (gang attacking bears?).  
+How will the penguins survive?  If they don’t how will the killer whales survive?  Wouldn’t take a government, just one private boat could do the experiment — not even a law against it!
+July 2, 2010, 3:02 pm
+- Bill Goodwin says:
+The ice floes resembling towers and minarets may actually have been mirage-reflections of some weird and aeon-haunted alien metropolis at far remove…
+I’d give a lot for taste of deep antarctic ice.  Imagine drinking water that’s been out of circulation since before our species was born!
+July 3, 2010, 2:53 am
+- Ironmistress says:
+Actually the name “penguin” is derived from the Gaelic name of the (sadly extinct) Great Auk, “pengwynn”.
+So there used to be a penguin at the Arctic as well 
+July 3, 2010, 2:32 pm
+- Niki says:
+Thanks for the travelogue - I will probably never make it to the ends of this physical earth, but I have so enjoyed traveling with you, and with other esteemed and blessed science fiction writers, all over the universe  
+I just read Starburst and it was very inspirational, so I wrote about it in my Blog.  I wanted to wish you and your lovely wife all the best in your journeys (journeys in the most plural sense).
+Peace, Niki Daniels
+July 4, 2010, 6:58 am
 
 **WordPress**
 **TWTFB**

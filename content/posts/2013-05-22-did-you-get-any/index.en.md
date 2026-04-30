@@ -4,6 +4,10 @@ date: 2013-05-22
 categories: ["Science"]
 tags: ["Charles Dickens", "Ecology", "George Alfred Williams"]
 archive_url: "https://web.archive.org/web/20201101000000/http://www.thewaythefutureblogs.com/2013/05/did-you-get-any/"
+prev_post_url: "/posts/2013-05-21-my-war-part-2-flying-a-desk/"
+prev_post_title: "My War, Part 2:  Flying a desk"
+next_post_url: "/posts/2013-05-26-bright-sayings-of-bright-people-no-46-piozzi/"
+next_post_title: "Bright Sayings of Bright People, No. 46: Piozzi"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**My War, Part 2:  Flying a desk**
-**Bright Sayings of Bright People, No. 46: Piozzi**
 
 ## Did You Get Any?
 
@@ -44,10 +46,23 @@ Don’t waste it!
 
 ### 4 Comments
 
-- Kaisays:Hi! New to your blog but enjoying it. Congrats on still blogging at 103, I’m hoping to follow that example. We here (Germany) had tons of snow last year. And I imagine London in Dickens’ time was so sooty from the factories, the snow didn’t stay pure for long then either. Anyways, your advice on not wasting the precious resource water is spot on!May 23, 2013, 1:28 pm
-- zephsays:The same Dickens who wrote, “Smoke lowering down from chimney-pots, making a soft black drizzle, with flakes of soot in it as big as full-grown snow-flakes…”? Times were indeed different then, the pollution of the early industrial age was murderous. We’ve cleaned up a great deal since then.May 23, 2013, 3:14 pm
-- Stefan Jonessays:Portland, OR is more of a rainy winter place than a snowy winter place. But it was notably drier this year . . . 8″ versus the usual 12″.The snow back in the Cascades is down a bit, but there were worse years since I moved up here.If the mountains of the West start getting more rain and less snow, we’ll need a way to gather and collect and disperse the run off. I wish that, back in 2008, the government had gone big for infrastructure spending. Not just fixing the bridges and such, but canals and catch basins and reservoirs.May 24, 2013, 11:22 pm
-- Lee Goldsays:Never any snow out here in LA.We’ve had less than six inches of rain since last July 1st (far less than average) and our rainy season is now over.  Our fire season already started (with hot dry fierce winds), a couple of months early, also highly unusual.Maybe someday the US will build pipelines — or canals — to send all that water from rain and snow out to areas that could use it.–Lee GoldMay 25, 2013, 9:52 am
+- Kai says:
+Hi! New to your blog but enjoying it. Congrats on still blogging at 103, I’m hoping to follow that example. We here (Germany) had tons of snow last year. And I imagine London in Dickens’ time was so sooty from the factories, the snow didn’t stay pure for long then either. Anyways, your advice on not wasting the precious resource water is spot on!
+May 23, 2013, 1:28 pm
+- zeph says:
+The same Dickens who wrote, “Smoke lowering down from chimney-pots, making a soft black drizzle, with flakes of soot in it as big as full-grown snow-flakes…”? Times were indeed different then, the pollution of the early industrial age was murderous. We’ve cleaned up a great deal since then.
+May 23, 2013, 3:14 pm
+- Stefan Jones says:
+Portland, OR is more of a rainy winter place than a snowy winter place. But it was notably drier this year . . . 8″ versus the usual 12″.
+The snow back in the Cascades is down a bit, but there were worse years since I moved up here.
+If the mountains of the West start getting more rain and less snow, we’ll need a way to gather and collect and disperse the run off. I wish that, back in 2008, the government had gone big for infrastructure spending. Not just fixing the bridges and such, but canals and catch basins and reservoirs.
+May 24, 2013, 11:22 pm
+- Lee Gold says:
+Never any snow out here in LA.
+We’ve had less than six inches of rain since last July 1st (far less than average) and our rainy season is now over.  Our fire season already started (with hot dry fierce winds), a couple of months early, also highly unusual.  
+Maybe someday the US will build pipelines — or canals — to send all that water from rain and snow out to areas that could use it.  
+–Lee Gold
+May 25, 2013, 9:52 am
 
 **WordPress**
 **TWTFB2**

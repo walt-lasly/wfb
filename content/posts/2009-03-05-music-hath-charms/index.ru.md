@@ -4,6 +4,10 @@ date: 2009-03-05
 categories: ["Personal"]
 tags: ["Alberto Ginastera", "Astor Piazzolla", "Beethoven", "Elgin Symphony Orchestra", "Films", "Music", "Yolanda Kondonassis"]
 archive_url: "https://web.archive.org/web/20090507215009/http://www.thewaythefutureblogs.com/2009/03/music-hath-charms/"
+prev_post_url: "/posts/2009-03-02-pictures-from-paradise/"
+prev_post_title: "Pictures from Paradise"
+next_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
+next_post_title: "Shipboard Book Reports, Part II"
 translated: false
 ---
 

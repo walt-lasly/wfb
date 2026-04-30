@@ -4,6 +4,10 @@ date: 2011-04-06
 categories: ["Authors"]
 tags: ["A.E. van Vogt", "Alfred Bester", "Catherine Tarrant", "Editors", "Food", "Isaac Asimov", "John W. Campbell", "L. Ron Hubbard", "Prozines", "Religion", "Robert A. Heinlein"]
 archive_url: "https://web.archive.org/web/20170619220141/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-6-john-w-campbell-dianetics/"
+prev_post_url: "/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
+prev_post_title: "Me and Alfie, Part 5: Collaboration and the Futurians"
+next_post_url: "/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/"
+next_post_title: "Me and Alfie, Part 7: Cyclothymia"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and Alfie, Part 5: Collaboration and the Futurians**
-**Me and Alfie, Part 7: Cyclothymia**
 
 ## Me and Alfie, Part 6: John W. Campbell and Dianetics
 
@@ -167,22 +169,45 @@ So he said, “What happened to you when you were 45 months? 45 days? 45 minutes
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 7**, **Part 8**
-- **Astounding: The Campbell Years,** **Part 1**, **Part 2**
-- **The Worlds of L. Ron Hubbard,** **Part 1**, **Part 2**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Astounding: The Campbell Years,** [**Part 1**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
+- **The Worlds of L. Ron Hubbard,** [**Part 1**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/), [**Part 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 
 ### 8 Comments
 
-- Robert Nowallsays:Wouldn’t’ve thought I’d enjoy comments on Dianetics so much, but…well, that was one of the funniest things I’ve come across so far this year.  By the time I got to “Dear God, don’t let me laugh in his face,” I’d already lost it…April 6, 2011, 7:13 am
-- Stefan Jonessays:Holy . . . carp.Makes you wonder what SF tropes we take seriously now COUGHsingularityCOUGH! will eventually be looked back COUGHutopianlibertarianismCOUGH! on as eye-rolling ideological red herring.Sorry, I’ve got to Clear my throat.April 6, 2011, 1:04 pm
-- Marvinsays:This is lovely. Thank you, Mr. Pohl.April 6, 2011, 3:29 pm
-- Phil Palmersays:“Still more to come.”This is rapidly becoming one of my top ten phrases ever.April 6, 2011, 5:33 pm
-- JohnArmstrongsays:It mystifies me how some otherwise very astute people have been sold, and swallowed whole, the Dianetics/Scientology scam.You\’d have a hard time selling it as fiction – not the “religion”, but the idea that Hubbard managed to turn this bafflegab into an empireif you haven’t already, read this New Yorker piece about Paul Haggis’ escape from the church. The Scientology rejoinders reminded me of Lyndon Larouche’s ravingshttp://www.newyorker.com/reporting/2011/02/14/110214fa_fact_wrightThanks so much for this Fred – best of luck with the new book. You may make a career of this writing thing yetApril 9, 2011, 7:03 pm
-- Aaronsays:I can think of another writer of the era who wasn’t influenced by Campbell and that is Jack Vance.May 12, 2011, 5:47 am
-- Anton Sherwoodsays:So why did Bester feel a need to suck up to Campbell?April 6, 2012, 12:20 pm
-- John Leasesays:That was hilarious!August 7, 2012, 9:41 am
+- Robert Nowall says:
+Wouldn’t’ve thought I’d enjoy comments on Dianetics so much, but…well, that was one of the funniest things I’ve come across so far this year.  By the time I got to “Dear God, don’t let me laugh in his face,” I’d already lost it…
+April 6, 2011, 7:13 am
+- Stefan Jones says:
+Holy . . . carp.
+Makes you wonder what SF tropes we take seriously now COUGHsingularityCOUGH! will eventually be looked back COUGHutopianlibertarianismCOUGH! on as eye-rolling ideological red herring.
+Sorry, I’ve got to Clear my throat.
+April 6, 2011, 1:04 pm
+- Marvin says:
+This is lovely. Thank you, Mr. Pohl.
+April 6, 2011, 3:29 pm
+- Phil Palmer says:
+“Still more to come.”
+This is rapidly becoming one of my top ten phrases ever.
+April 6, 2011, 5:33 pm
+- JohnArmstrong says:
+It mystifies me how some otherwise very astute people have been sold, and swallowed whole, the Dianetics/Scientology scam.
+You\’d have a hard time selling it as fiction – not the “religion”, but the idea that Hubbard managed to turn this bafflegab into an empire
+if you haven’t already, read this New Yorker piece about Paul Haggis’ escape from the church. The Scientology rejoinders reminded me of Lyndon Larouche’s ravings
+http://www.newyorker.com/reporting/2011/02/14/110214fa_fact_wright
+Thanks so much for this Fred – best of luck with the new book. You may make a career of this writing thing yet
+April 9, 2011, 7:03 pm
+- Aaron says:
+I can think of another writer of the era who wasn’t influenced by Campbell and that is Jack Vance.
+May 12, 2011, 5:47 am
+- Anton Sherwood says:
+So why did Bester feel a need to suck up to Campbell?
+April 6, 2012, 12:20 pm
+- John Lease says:
+That was hilarious!
+August 7, 2012, 9:41 am
 
 **WordPress**
 **TWTFB2**

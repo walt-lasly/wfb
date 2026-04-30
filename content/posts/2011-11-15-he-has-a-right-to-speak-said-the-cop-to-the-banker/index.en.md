@@ -4,6 +4,10 @@ date: 2011-11-15
 categories: ["Miscellaneous"]
 tags: ["Economics", "Politics", "Sherry Gottleib"]
 archive_url: "https://web.archive.org/web/20180701000000/http://www.thewaythefutureblogs.com/2011/11/he-has-a-right-to-speaksaid-the-cop-to-the-banker/"
+prev_post_url: "/posts/2011-11-12-dickens-had-it-right/"
+prev_post_title: "Dickens Had It Right"
+next_post_url: "/posts/2011-11-20-bright-sayings-of-bright-people-no-21/"
+next_post_title: "Bright Sayings of Bright People, No. 21"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Dickens Had It Right**
-**Bright Sayings of Bright People, No. 21**
 
 ## ‘He has a right to speak,’said the cop to the banker
 
@@ -35,12 +37,25 @@ by marvinborg**
 
 ### 6 Comments
 
-- lorqsays:Damn good story!  Almost makes me sorry I *already* moved my money out of a big bank and into a local credit union two years ago, for just the above reasons.  Apparently I’m an avant-garde protester.November 15, 2011, 7:39 am
-- cristinasays:cheers! i’d read about the cop and the banker already and am in the process of moving my money. thanks for spreading the word. kinda scary but not surprising to see the banks already resorting to ‘private security forces’ to ‘deal with’ protesters. but so relieved that so many people are actually acting like informed citizens and reminding the Power Machine where the real power lives.November 15, 2011, 9:52 am
-- Stevensays:Moved mine 20 years ago. Haven’t regretted it one bit. Interesting point, though. The banks have tried for years to limit the services that Credit Unions offer, on the grounds that it is unfair competition. Yep, they are all for freedom of choice (hah!), as long as it does not affect their bottom lines.November 15, 2011, 1:46 pm
-- Stefan Jonessays:Great story.I’ve had a credit union savings account and checking account since 1987.November 15, 2011, 1:58 pm
-- Chucksays:Have moved not only my bank account but credit cards, save one, out of the giant New York banks and to a respectful regional bank in my own state.  Even managed to wrest my mortgage away from one of the giants that had bought it up by refinancing.  Made me very happy to get away from them.November 15, 2011, 6:25 pm
-- Jim Flanagansays:I just got the paperwork to move our payroll auto deposits from the bank to he credit union. Hopefully, by next month we’ll have completed the move.November 15, 2011, 6:34 pm
+- lorq says:
+Damn good story!  Almost makes me sorry I *already* moved my money out of a big bank and into a local credit union two years ago, for just the above reasons.  Apparently I’m an avant-garde protester.
+November 15, 2011, 7:39 am
+- cristina says:
+cheers! i’d read about the cop and the banker already and am in the process of moving my money. thanks for spreading the word. kinda scary but not surprising to see the banks already resorting to ‘private security forces’ to ‘deal with’ protesters. but so relieved that so many people are actually acting like informed citizens and reminding the Power Machine where the real power lives.
+November 15, 2011, 9:52 am
+- Steven says:
+Moved mine 20 years ago. Haven’t regretted it one bit. Interesting point, though. The banks have tried for years to limit the services that Credit Unions offer, on the grounds that it is unfair competition. Yep, they are all for freedom of choice (hah!), as long as it does not affect their bottom lines.
+November 15, 2011, 1:46 pm
+- Stefan Jones says:
+Great story.
+I’ve had a credit union savings account and checking account since 1987.
+November 15, 2011, 1:58 pm
+- Chuck says:
+Have moved not only my bank account but credit cards, save one, out of the giant New York banks and to a respectful regional bank in my own state.  Even managed to wrest my mortgage away from one of the giants that had bought it up by refinancing.  Made me very happy to get away from them.
+November 15, 2011, 6:25 pm
+- Jim Flanagan says:
+I just got the paperwork to move our payroll auto deposits from the bank to he credit union. Hopefully, by next month we’ll have completed the move.
+November 15, 2011, 6:34 pm
 
 **WordPress**
 **TWTFB**

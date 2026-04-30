@@ -4,6 +4,10 @@ date: 2010-09-04
 categories: ["Authors", "Books"]
 tags: ["Arthur C. Clarke", "Critics", "David G. Hartwell", "Ernest Hemingway", "Fanzines", "George H.W. Bush", "H.G. Wells", "Harlow Shapley", "James Fenimore Cooper", "John Paul II", "Jonathan Swift", "L. Sprague de Camp", "Leo Marx", "Mark Twain", "Mikhail Gorbachev", "Politics", "T.S. Eliot", "Voltaire", "Walter Scott"]
 archive_url: "https://web.archive.org/web/20090601000000/http://www.thewaythefutureblogs.com/2010/09/mark-twain-and-the-law-of-the-raft/"
+prev_post_url: "/posts/2010-09-02-battlefield-earth/"
+prev_post_title: "Battlefield Earth"
+next_post_url: "/posts/2010-09-05-news-from-aussiecon/"
+next_post_title: "News from Aussiecon"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Battlefield Earth**
-**News from Aussiecon**
 
 ## Mark Twain and the Law of the Raft
 
@@ -155,20 +157,71 @@ But science fiction can, because it is a literature of change. And wonderfully, 
 
 ### 14 Comments
 
-- wishnevskysays:I must disagree. I just re read Finn, and saw something i am sure Twain intended, that everybody misses. Tom Sawyer is the only villain in the book. Jim is the only mature good adult, everybody else is an idiot or worse. The Duke and Dauphin are drunken grafters, but not evil. The Phelps’s are slave owners, but ineffective, and very poor. They own more slaves than spoons, for example. Fools.Tam Sawyer is a psychopath and a sociopath. He knows Jim is Free, and hides that knowledge for his own amusement. Think of how wicked that is. In Tom Sawyer, he pretends to have died, just to play a trick on the village. Wicked.Read Twains Essay on Sir Walter Scott’s responsibility for the Civil War, look at Connecticut Yankee again and rethink your essay.I just wrote  a 90,000 word exercise on Huck Finn after the Civil War, just for fun, to explore these issues. I am, btw, published for History, but not for fictionSeptember 4, 2010, 1:15 pm
-- brucesays:‘baggy pants burlesque in which everyone behaves like a fool. . . Jim might be freed, but he is still black and penniless, and his wife and child were still in slavery.’The Civil War, and Reconstruction, and Jim Crow, and Affirmative Action Crow Jimming after, in short. Twain saw it all happen, he fought on both sides (if you count getting lost as fighting) and he knew it was all going to happen again, and again, and again. That’s why Huck Finn is the Great American Novel, because it has this horrible ritual of goat-fucking comic cruelty and stupid evil at the end, after the great good time on the raft. That’s what all the English majors said when I was in high school, anyway.September 4, 2010, 8:28 pm
-- Ken Jamessays:While wishnevsky and bruce’s interpretations are both compelling, it’s still the case that the *tone* is off in that conclusion.  It doesn’t feel “organic” with the rest of the novel — so even if either w. or b.’s interpretations correlated with Twain’s intentions, in both cases the execution is still botched.  It might be interesting to speculate about how either w. or b,’s notions about the meaning of the ending might have been made to square, tonally and also thematically, with all the other action in the novel.  Which takes us back into the realm of science fiction: alternative literary history.September 5, 2010, 1:46 pm
-- wishnevskysays:I’m just saying that Twain was a better writer than any of his critics, more in tune with his time, and wrote exactly the book he wanted to write. I can easily ignore “Detective” and “Abroad” those are just silly, perhaps written for his children. “Among the Indians” might have resolved the issues, but he never wrote that book.I think Twain was writing when he could see the South hamstring itself with opposition to Black freedom but there was nothing to be done. I go back the the Sir Walter Scott essay. The point was that the South embraced a fantasy so strongly that it nearly destroyed itself.Likewise, Tom Sawyer id ruled by his fantasy, he tries to make the world conform to his much loved books. Huck is a realist. He always gets by.Look at the hero of “Gilded Age” and his “Tennessee Land” and Col. Sellers in the same book with all his schemes. Twain saw people like that every day. They are still with us. Tom takes advantage of Jim and Huck, sucks them into his fantasy life. That’s not comedy, that’s tragedy. At the end of Huck Finn, Finn has not yet realized he has been made a fool of. Would he ever? No telling.September 5, 2010, 10:51 pm
-- houseboatonstyxsays:I hated Tom’s prank (Jim could have got hurt!) but loved the very ending, when the will freeing Jim was revealed.Yes, it was a fantasy deux ex machina ending. Which gives the message, that fantasy WAS the only happy ending possible — given the continuing legality of slavery.Or — that by the law of the raft, the whole national question could have been settled peacefully, by some sort of orderly phasing out of slavery.September 6, 2010, 1:28 pm
-- urGeeksays:Since Huck has been at least first among equals … or shares the honor with Kim … on my perennial list for a half-century, I feel some qualifications to comment here.  Twain wrote what he knew … he didn’t always like it but he wrote truth and, coincidentally, has earned himself a place on blacklists ever since.The last part of Huck, after the river, is perhaps out of tone with the riparian journey but is still a part of the journey.  If it had been a simple “Jim’s free now”, it would have been a smashing anticlimax and quite out of character for Tom (whose imagination and character were Twain’s).Incidental note: Tom Blankenship, who was the model for Huck, did indeed “light out for the territory ahead of the rest”, settling in the west where he became a judge … perhaps the only fitting ending for the role model for one we see as the best and finest.September 6, 2010, 1:41 pm
-- Kirksays:I take issue with your portrayal of Twain as a humanist.  People change.  Perhaps he was when he wrote ‘Huckleberry Finn’.  Before that, he wrote ‘Innocents Abroad’, which was full of American arrogance and Protestant superiority.  This is the kind of non-critical thinking that made it easy for the politicians to recruit young men for war, in particular the wars of empire that would come after the Civil War, and through the 20th century.  After ‘Finn’, he wrote ‘A Connecticut Yankee’, where he gleefully mowed down English knights with machine gun fire.  I would say Twain is a mixed bag.With regard to your own politics, you claim to be liberal, yet seem to support the war in Afghanistan.  I’m curious if you have seen the move ‘Redacted’, watched the films of John Pilger, or heard of ‘Democracy Now!’.September 7, 2010, 12:46 am
-- houseboatonstyxsays:Twain’s in good company, having a section in his book which the critics say doesn’t fit. Tom Bombadil, the Piper at the gate of dawn, and Father Christmas in Narnia.Drat, there’s another I’ve forgotten. But the one thing that sticks out of the box — shows that the whole story is in a larger box than we thought.(Hope this goes up with less than half a dozen captchas.)September 7, 2010, 3:15 am
-- Brucesays:I’ll have to go back and re-read Huck. Based on your synopsis I take a different view of the ending: it sounds like Twain is reiterating that Jim was made a free man by his maker and only civilization can rob anyone (Huck as well as Jim) of their freedom. Part and parcel of the main theme of the book and “symmetric” as Eliot describes.September 7, 2010, 5:39 am
-- JRBsays:A more honest and realistic ending might have been that Jim was never freed and simply returned to his previous status as a slave. Might even have worked, but would probably have killed a lot of the joy we get from the tale and alienated much of his younger audience. By making this a sequel to ‘Sawyer’ (and what else could it be?) MK placed limits on what he could do. It’s amazing he managed to cram so much subversion into a book aimed at least in part at kids as he did.‘Among the Indians’ had to be abandoned due to those same audience expectations, as the story as it stood was leading inevitably into the subject of rape.Rather liked ‘Abroad’, fwiw, but agree that ‘Detective’ was dire stuff.September 7, 2010, 9:00 am
-- Jim Janneysays:And even in Twain’s time, the Mississippi wasn’t what it used to be, after the Army Corp of Engineers had its way with it.September 7, 2010, 7:10 pm
-- brucesays:Those guns in the ’1812 Overture’ don’t belong in any standard orchestra.  And Faulkner wasn’t going to solve the American dilemma- why’d he ruin a good hunting yarn by stuffing that interminable race crap into ‘The Bear’? He spoiled the whole tone of the story. You can learn a lot from a good hunting story- ‘sometimes the dog has to go after the bear just to prove he’s the dog’September 8, 2010, 9:50 am
-- wishnevskysays:Not to get too metaphorical, but, there is an early scene where Huck and Jim miss the Ohio River in a fog, and lose Jim’s chance for freedom going up the Ohio. I think it was Huck’s fault. (?) So then they are inexorably carried down river, deeper and deeper into the Slavery and stupidity, much as the Nation was carried down into the Civil War.It’s all about fantasy and reality.. There is a passage about the fog making things so unreal, isn’t there?But here is my exercise. If posting this is considered rude, please forgive. I’m not really “an author”http://www.scribd.com/doc/35699856/Habakkuk-FinnI think this is the free version, if not it is on there some place. Obviously an unsaleable book, im not even trying to find a publisher.September 9, 2010, 9:10 am
-- Andy Bairdsays:It’s interesting that nobody here has mentioned Greg Matthews’ 1985 book “The Further Adventures of Huckleberry Finn”:http://tinyurl.com/26hxlgwThis ambitious work by a young Australian is very much the spiritual heir to “Huck and Tom Among the Indians”… but it’s much more outspoken in its satire of contemporary society. For example, Huck’s adventures with a combined traveling gospel show and mobile whorehouse are among the passages that Livy would certainly never have permitted Mark Twain to publish in his lifetime.“Further Adventures” is funny, suspenseful, moving and all in all a damn good read. I think Twain would have liked it. Matthews doesn’t *quite* nail the regional dialects–something for which Twain was a stickler–but one can overlook that minor flaw and just enjoy a tale well told.September 18, 2010, 10:00 am
+- wishnevsky says:
+I must disagree. I just re read Finn, and saw something i am sure Twain intended, that everybody misses. Tom Sawyer is the only villain in the book. Jim is the only mature good adult, everybody else is an idiot or worse. The Duke and Dauphin are drunken grafters, but not evil. The Phelps’s are slave owners, but ineffective, and very poor. They own more slaves than spoons, for example. Fools. 
+Tam Sawyer is a psychopath and a sociopath. He knows Jim is Free, and hides that knowledge for his own amusement. Think of how wicked that is. In Tom Sawyer, he pretends to have died, just to play a trick on the village. Wicked. 
+Read Twains Essay on Sir Walter Scott’s responsibility for the Civil War, look at Connecticut Yankee again and rethink your essay.
+I just wrote  a 90,000 word exercise on Huck Finn after the Civil War, just for fun, to explore these issues. I am, btw, published for History, but not for fiction
+September 4, 2010, 1:15 pm
+- bruce says:
+‘baggy pants burlesque in which everyone behaves like a fool. . . Jim might be freed, but he is still black and penniless, and his wife and child were still in slavery.’
+The Civil War, and Reconstruction, and Jim Crow, and Affirmative Action Crow Jimming after, in short. Twain saw it all happen, he fought on both sides (if you count getting lost as fighting) and he knew it was all going to happen again, and again, and again. That’s why Huck Finn is the Great American Novel, because it has this horrible ritual of goat-fucking comic cruelty and stupid evil at the end, after the great good time on the raft. That’s what all the English majors said when I was in high school, anyway.
+September 4, 2010, 8:28 pm
+- Ken James says:
+While wishnevsky and bruce’s interpretations are both compelling, it’s still the case that the *tone* is off in that conclusion.  It doesn’t feel “organic” with the rest of the novel — so even if either w. or b.’s interpretations correlated with Twain’s intentions, in both cases the execution is still botched.  It might be interesting to speculate about how either w. or b,’s notions about the meaning of the ending might have been made to square, tonally and also thematically, with all the other action in the novel.  Which takes us back into the realm of science fiction: alternative literary history.
+September 5, 2010, 1:46 pm
+- wishnevsky says:
+I’m just saying that Twain was a better writer than any of his critics, more in tune with his time, and wrote exactly the book he wanted to write. I can easily ignore “Detective” and “Abroad” those are just silly, perhaps written for his children. “Among the Indians” might have resolved the issues, but he never wrote that book. 
+I think Twain was writing when he could see the South hamstring itself with opposition to Black freedom but there was nothing to be done. I go back the the Sir Walter Scott essay. The point was that the South embraced a fantasy so strongly that it nearly destroyed itself. 
+Likewise, Tom Sawyer id ruled by his fantasy, he tries to make the world conform to his much loved books. Huck is a realist. He always gets by. 
+Look at the hero of “Gilded Age” and his “Tennessee Land” and Col. Sellers in the same book with all his schemes. Twain saw people like that every day. They are still with us. Tom takes advantage of Jim and Huck, sucks them into his fantasy life. That’s not comedy, that’s tragedy. At the end of Huck Finn, Finn has not yet realized he has been made a fool of. Would he ever? No telling.
+September 5, 2010, 10:51 pm
+- houseboatonstyx says:
+I hated Tom’s prank (Jim could have got hurt!) but loved the very ending, when the will freeing Jim was revealed.
+Yes, it was a fantasy deux ex machina ending. Which gives the message, that fantasy WAS the only happy ending possible — given the continuing legality of slavery.
+Or — that by the law of the raft, the whole national question could have been settled peacefully, by some sort of orderly phasing out of slavery.
+September 6, 2010, 1:28 pm
+- urGeek says:
+Since Huck has been at least first among equals … or shares the honor with Kim … on my perennial list for a half-century, I feel some qualifications to comment here.  Twain wrote what he knew … he didn’t always like it but he wrote truth and, coincidentally, has earned himself a place on blacklists ever since.
+The last part of Huck, after the river, is perhaps out of tone with the riparian journey but is still a part of the journey.  If it had been a simple “Jim’s free now”, it would have been a smashing anticlimax and quite out of character for Tom (whose imagination and character were Twain’s).
+Incidental note: Tom Blankenship, who was the model for Huck, did indeed “light out for the territory ahead of the rest”, settling in the west where he became a judge … perhaps the only fitting ending for the role model for one we see as the best and finest.
+September 6, 2010, 1:41 pm
+- Kirk says:
+I take issue with your portrayal of Twain as a humanist.  People change.  Perhaps he was when he wrote ‘Huckleberry Finn’.  Before that, he wrote ‘Innocents Abroad’, which was full of American arrogance and Protestant superiority.  This is the kind of non-critical thinking that made it easy for the politicians to recruit young men for war, in particular the wars of empire that would come after the Civil War, and through the 20th century.  After ‘Finn’, he wrote ‘A Connecticut Yankee’, where he gleefully mowed down English knights with machine gun fire.  I would say Twain is a mixed bag.
+     With regard to your own politics, you claim to be liberal, yet seem to support the war in Afghanistan.  I’m curious if you have seen the move ‘Redacted’, watched the films of John Pilger, or heard of ‘Democracy Now!’.
+September 7, 2010, 12:46 am
+- houseboatonstyx says:
+Twain’s in good company, having a section in his book which the critics say doesn’t fit. Tom Bombadil, the Piper at the gate of dawn, and Father Christmas in Narnia.
+Drat, there’s another I’ve forgotten. But the one thing that sticks out of the box — shows that the whole story is in a larger box than we thought.
+(Hope this goes up with less than half a dozen captchas.)
+September 7, 2010, 3:15 am
+- Bruce says:
+I’ll have to go back and re-read Huck. Based on your synopsis I take a different view of the ending: it sounds like Twain is reiterating that Jim was made a free man by his maker and only civilization can rob anyone (Huck as well as Jim) of their freedom. Part and parcel of the main theme of the book and “symmetric” as Eliot describes.
+September 7, 2010, 5:39 am
+- JRB says:
+A more honest and realistic ending might have been that Jim was never freed and simply returned to his previous status as a slave. Might even have worked, but would probably have killed a lot of the joy we get from the tale and alienated much of his younger audience. By making this a sequel to ‘Sawyer’ (and what else could it be?) MK placed limits on what he could do. It’s amazing he managed to cram so much subversion into a book aimed at least in part at kids as he did.
+‘Among the Indians’ had to be abandoned due to those same audience expectations, as the story as it stood was leading inevitably into the subject of rape.
+Rather liked ‘Abroad’, fwiw, but agree that ‘Detective’ was dire stuff.
+September 7, 2010, 9:00 am
+- Jim Janney says:
+And even in Twain’s time, the Mississippi wasn’t what it used to be, after the Army Corp of Engineers had its way with it.
+September 7, 2010, 7:10 pm
+- bruce says:
+Those guns in the ’1812 Overture’ don’t belong in any standard orchestra.  And Faulkner wasn’t going to solve the American dilemma- why’d he ruin a good hunting yarn by stuffing that interminable race crap into ‘The Bear’? He spoiled the whole tone of the story. You can learn a lot from a good hunting story- ‘sometimes the dog has to go after the bear just to prove he’s the dog’
+September 8, 2010, 9:50 am
+- wishnevsky says:
+Not to get too metaphorical, but, there is an early scene where Huck and Jim miss the Ohio River in a fog, and lose Jim’s chance for freedom going up the Ohio. I think it was Huck’s fault. (?) So then they are inexorably carried down river, deeper and deeper into the Slavery and stupidity, much as the Nation was carried down into the Civil War. 
+It’s all about fantasy and reality.. There is a passage about the fog making things so unreal, isn’t there?
+But here is my exercise. If posting this is considered rude, please forgive. I’m not really “an author” 
+http://www.scribd.com/doc/35699856/Habakkuk-Finn
+I think this is the free version, if not it is on there some place. Obviously an unsaleable book, im not even trying to find a publisher.
+September 9, 2010, 9:10 am
+- Andy Baird says:
+It’s interesting that nobody here has mentioned Greg Matthews’ 1985 book “The Further Adventures of Huckleberry Finn”:
+http://tinyurl.com/26hxlgw
+This ambitious work by a young Australian is very much the spiritual heir to “Huck and Tom Among the Indians”… but it’s much more outspoken in its satire of contemporary society. For example, Huck’s adventures with a combined traveling gospel show and mobile whorehouse are among the passages that Livy would certainly never have permitted Mark Twain to publish in his lifetime.
+“Further Adventures” is funny, suspenseful, moving and all in all a damn good read. I think Twain would have liked it. Matthews doesn’t *quite* nail the regional dialects–something for which Twain was a stickler–but one can overlook that minor flaw and just enjoy a tale well told.
+September 18, 2010, 10:00 am
 
 **WordPress**
 **TWTFB2**

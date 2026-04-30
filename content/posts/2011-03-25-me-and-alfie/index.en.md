@@ -4,6 +4,10 @@ date: 2011-03-25
 categories: ["Authors", "Books"]
 tags: ["Alfred Bester", "Anthologies", "Anthony Boucher", "C.M. Kornbluth", "Comics", "Conventions", "Economics", "Editors", "Fanzines", "Films", "Horace L. Gold", "J. Francis McComas", "Joseph McCarthy", "Kevin Williams", "Leah A. Zeldes", "Neil Jones", "Peter Roberts", "Prozines", "Publishing", "Pulps", "Radio", "Ritchie Smith", "Rob Jackson", "Search the Sky", "Sue Williams", "Television", "The Space Merchants", "United Kingdom"]
 archive_url: "https://web.archive.org/web/20260801000000/http://www.thewaythefutureblogs.com/2011/03/me-and-alfie/"
+prev_post_url: "/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
+prev_post_title: "Volcanic terrorism:All the Lives He Leddue out in April"
+next_post_url: "/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/"
+next_post_title: "Me and Alfie, Part 2:Gatewayand the Art of Writing"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Volcanic terrorism: All the Lives He Led due out in April**
-**Me and Alfie, Part 2: Gateway and the Art of Writing**
 
 ## Me and Alfie
 
@@ -37,7 +39,7 @@ Alfred Bester and Frederik Pohl — The Conversation
 *Recorded 26 June 1978 at The Tyneside Cinema, Newcastle upon Tyne, UK, by Kevin Williams. Transcript by Sue Williams, edited by Neil Jones and Kevin Williams. Originally published in Rob Jackson’s fanzine Inca 5, December 2009. Additional editing here by Leah A. Zeldes.*
 
 
-Pohl: Let me tell you about Alfie Bester. I’ve known him for a long time, and I first encountered him when I was 19 years old and editing a magazine called **Astonishing Stories**, and I bought a couple of stories of Alfie’s because I liked them. And then, some years later, **Cyril Kornbluth** and I had written a book called **The Space Merchants**, which I sort of hoped might win a prize, but it was beaten out by something called **The Demolished Man** by Alfred Bester.
+Pohl: Let me tell you about Alfie Bester. I’ve known him for a long time, and I first encountered him when I was 19 years old and editing a magazine called **Astonishing Stories**, and I bought a couple of stories of Alfie’s because I liked them. And then, some years later, [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) and I had written a book called **The Space Merchants**, which I sort of hoped might win a prize, but it was beaten out by something called **The Demolished Man** by Alfred Bester.
 
 
 A little while later, Cyril and I were working on another novel — I think it was **Search the Sky**. We’d written a couple of others by then, and I’d just begun to edit a thing called **Star Science Fiction Stories** — a series of anthologies of original science fiction stories. I brought home a story by Alfie Bester that I had just accepted for Star.  It was called “**Disappearing Act**,” and I showed it to Cyril while we were working on our own book.
@@ -64,7 +66,7 @@ Bester: The one thing that you must understand is that we admire each other prof
 We are rather like the high baroque musicians: We borrow from each other, we learn from each other, we admire each other, we do the same things, or different things, and have a hell of a ball.
 
 
-Now Fred’s novel which he wrote with Cyril Kornbluth, *The Space Merchants,* is, I think, the finest novel ever written in the history of science fiction.  It is a brilliant piece of work. Many brilliant things have followed it, but this came along when everybody was obsessed with **Doc Smith** space opera, which has its own charm  — it’s great fun — and suddenly comes this realistic extrapolation of what American life, American advertising, American ecology and American psychosis will lead to eventually.
+Now Fred’s novel which he wrote with Cyril Kornbluth, *The Space Merchants,* is, I think, the finest novel ever written in the history of science fiction.  It is a brilliant piece of work. Many brilliant things have followed it, but this came along when everybody was obsessed with [**Doc Smith**](/posts/2009-12-22-doc-skylark-smith/) space opera, which has its own charm  — it’s great fun — and suddenly comes this realistic extrapolation of what American life, American advertising, American ecology and American psychosis will lead to eventually.
 
 
 **Horace Gold** ran it as a three parter in Galaxy. *Gravy Planet,* he called it. A tremendous piece of work — exciting, ravishing. I will never forget the scene where that crazy broad with the needle is giving him the works. Fred, that was outrageously brilliant.
@@ -159,8 +161,8 @@ But nevertheless, here are these people from all over gathered for the sole purp
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**, **Part 8**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 6 Comments
@@ -169,11 +171,24 @@ But nevertheless, here are these people from all over gathered for the sole purp
 Bester’s dedications were especially witty
 I once asked him to sign a book of his that I had just bought. When he opened it, it turned out (to my mortification) that he had already signed it at some point. Without a second’s hesitation, he wrote “That man is an impostor!” and signed it again.
 March 25, 2011, 1:27 pm
-- Stefan Jonessays:This is great stuff. I hope there’s a way to get it into the revised auto-bio.The stuff about the McCarthy is especially poignant. It almost makes me nostalgic. Now-adays, we’re up againt something more diabolical than fear and repression; truth and insight have to struggle to be recognized in a media environment that is expert at distraction and demonization.March 25, 2011, 3:45 pm
-- John Hsays:Fascinating conversation – can’t wait to read the rest! It also seems like a good piece to follow-up on, some 30-odd years later – i.e., how do those same statistics look today…March 25, 2011, 4:09 pm
-- A.R.Yngvesays:I cannot express my gratitude for reading this discussion between two all-time greats.March 27, 2011, 2:35 pm
-- Jason Blocksays:That’s interesting about how SF managed to fly under the radar of McCarthy to some extent, seemingly because people didn’t take it seriously. In that case it was an advantage.March 27, 2011, 8:38 pm
-- JohnArmstrongsays:You can plainly see from this what kind of credit-hog Fred is ….“That scene was all Cyril’s but I’ll accept the credit.”That guy who wrote the Kornbluth book was right!  I’m sure the next edition will have this included: “Pohl has even publicly admitted ….”March 31, 2011, 12:31 pm
+- Stefan Jones says:
+This is great stuff. I hope there’s a way to get it into the revised auto-bio.
+The stuff about the McCarthy is especially poignant. It almost makes me nostalgic. Now-adays, we’re up againt something more diabolical than fear and repression; truth and insight have to struggle to be recognized in a media environment that is expert at distraction and demonization.
+March 25, 2011, 3:45 pm
+- John H says:
+Fascinating conversation – can’t wait to read the rest! It also seems like a good piece to follow-up on, some 30-odd years later – i.e., how do those same statistics look today…
+March 25, 2011, 4:09 pm
+- A.R.Yngve says:
+I cannot express my gratitude for reading this discussion between two all-time greats.
+March 27, 2011, 2:35 pm
+- Jason Block says:
+That’s interesting about how SF managed to fly under the radar of McCarthy to some extent, seemingly because people didn’t take it seriously. In that case it was an advantage.
+March 27, 2011, 8:38 pm
+- JohnArmstrong says:
+You can plainly see from this what kind of credit-hog Fred is ….
+“That scene was all Cyril’s but I’ll accept the credit.”
+That guy who wrote the Kornbluth book was right!  I’m sure the next edition will have this included: “Pohl has even publicly admitted ….”
+March 31, 2011, 12:31 pm
 
 **WordPress**
 **TWTFB2**

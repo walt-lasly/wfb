@@ -4,6 +4,10 @@ date: 2011-01-05
 categories: ["Authors"]
 tags: ["Basil Davenport", "Bernard DeVoto", "Clubs", "Damon Knight", "Fletcher Pratt", "Hans Stefan Santesson", "Hydra Club", "I.M. Stephens", "Jack Williamson", "Lester del Rey", "Lloyd Biggle Jr.", "Mark Twain", "New York", "SFWA", "W. Olaf Stapledon", "Zoology"]
 archive_url: "https://web.archive.org/web/20171201000000/http://www.thewaythefutureblogs.com/2011/01/fletcher-pratt-part-2-the-place-where-things-happened/"
+prev_post_url: "/posts/2011-01-02-the-unwisdom-of-the-founding-fathers/"
+prev_post_title: "The Unwisdom of the Founding Fathers"
+next_post_url: "/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/"
+next_post_title: "Chip Delany, Part 2: The Miracle ofDhalgren"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Unwisdom of the Founding Fathers**
-**Chip Delany, Part 2: The Miracle of Dhalgren**
 
 ## Fletcher Pratt, Part 2:The Place Where Things Happened
 
@@ -68,22 +70,39 @@ They found what they wanted in Highlands, New Jersey, a wonderfully huge structu
 
 **Related posts:**
 
-- **Fletcher Pratt,** **Part 1**, **Part 3**, **Part 4**, **Part 5**, **Part 6**
-- The Ipsy-Wipsy Institute
+- **Fletcher Pratt,** [**Part 1**](/posts/2010-12-07-fletcher-pratt/), [**Part 3**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), [**Part 4**](/posts/2011-02-04-fletcher-pratt-part-4-the-friends-of-fletcher/), [**Part 5**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/), [**Part 6**](/posts/2011-02-25-fletcher-pratt-part-6/)
+- [**The Ipsy-Wipsy Institute**](/posts/2011-07-30-the-ipsy-wipsy-institute/)
 
 
 ### 7 Comments
 
-- Joe Dsays:This 28 Grove St?http://goo.gl/tLkv1I love plugging addresses into Google Maps and seeing the locations myself.January 5, 2011, 1:42 pm
-- Bill Goodwinsays:A rare sensation of envy accompanies the thought of spending time with Olaf Stapledon, a hero of mine.  Leaving aside, of course, my envy of Stapledon for having spent time with Mr. Pohl.January 6, 2011, 7:48 am
+- Joe D says:
+This 28 Grove St? http://goo.gl/tLkv1
+I love plugging addresses into Google Maps and seeing the locations myself.
+January 5, 2011, 1:42 pm
+- Bill Goodwin says:
+A rare sensation of envy accompanies the thought of spending time with Olaf Stapledon, a hero of mine.  Leaving aside, of course, my envy of Stapledon for having spent time with Mr. Pohl.
+January 6, 2011, 7:48 am
 - Stefan Jones says:
 Bill stole my thoughts. I’d read that Stapledon travelled to NY and that he met some SF authors. It’s neat to read about the venue.
 I once wrote an alternate-history obit for Stapledon in which he survives his heart attack to become a counterculture guru, dying after the Berkeley premier of Kubrick’s 4-hour long adaptation of First and Last Men.
 January 6, 2011, 10:09 pm
-- Bill Goodwinsays:“…in which he survives his heart attack to become a counterculture guru, dying after the Berkeley premier of Kubrick’s 4-hour long adaptation of First and Last Men.”Curses!  I could’ve remained ignorant…now, having read this, I know I’m living out my life in the wrong universe!January 7, 2011, 4:09 am
-- Ace Lightningsays:I live in Highlands, NJ – I’m waiting eagerly to find out just where that big old house was. (I already know where the house in Red Bank was.)January 7, 2011, 6:11 am
-- Mark DeVotosays:Very interesting.  Fletcher Pratt was a remarkable character; I only met him once in person, though.  He and BDeV were close friends, and Pratt said in at least one of his dedications that BDeV taught him how to write.  One small correction to the above: my father’s “Easy Chair” column was not in the _Saturday Review of Literature_ but in the monthly _Harper’s Magazine_, from 1935 to 1955; nevertheless BDeV did edit _SRL_ from late 1936 to early 1938.  I put up a website for him athttp://home.comcast.net/~mdevotoJanuary 7, 2011, 11:44 am
-- pst314says:\"He had been invited to New York to participate in a meeting to urge peace in international affairs.\"That would be the 1949 Scientific and Cultural Conference for World Peace, held in New York in 1949, organized by a front organization for the Communist Party USA, the National Council of the Arts, Sciences, and Professions.So it was a fake peace conference, like its predecessor a year earlier, whose purpose was to propagandize for Western disarmament in the face of Communist aggression, as well as to praise the genocidal Soviet Union while demonizing the democratic West–especially the United States.You mischaracterize events when you describe Stapledon was merely a \"respectable\" intellectual who merely wanted \"quiet conversation\" about \"world peace\". Stapledon was a public figure, very active in many Communist-front organizations whose purpose was to undermine the West and support the Soviets.January 20, 2011, 9:20 am
+- Bill Goodwin says:
+“…in which he survives his heart attack to become a counterculture guru, dying after the Berkeley premier of Kubrick’s 4-hour long adaptation of First and Last Men.”
+Curses!  I could’ve remained ignorant…now, having read this, I know I’m living out my life in the wrong universe!
+January 7, 2011, 4:09 am
+- Ace Lightning says:
+I live in Highlands, NJ – I’m waiting eagerly to find out just where that big old house was. (I already know where the house in Red Bank was.)
+January 7, 2011, 6:11 am
+- Mark DeVoto says:
+Very interesting.  Fletcher Pratt was a remarkable character; I only met him once in person, though.  He and BDeV were close friends, and Pratt said in at least one of his dedications that BDeV taught him how to write.  One small correction to the above: my father’s “Easy Chair” column was not in the _Saturday Review of Literature_ but in the monthly _Harper’s Magazine_, from 1935 to 1955; nevertheless BDeV did edit _SRL_ from late 1936 to early 1938.  I put up a website for him at http://home.comcast.net/~mdevoto
+January 7, 2011, 11:44 am
+- pst314 says:
+\"He had been invited to New York to participate in a meeting to urge peace in international affairs.\"
+That would be the 1949 Scientific and Cultural Conference for World Peace, held in New York in 1949, organized by a front organization for the Communist Party USA, the National Council of the Arts, Sciences, and Professions.
+So it was a fake peace conference, like its predecessor a year earlier, whose purpose was to propagandize for Western disarmament in the face of Communist aggression, as well as to praise the genocidal Soviet Union while demonizing the democratic West–especially the United States.
+You mischaracterize events when you describe Stapledon was merely a \"respectable\" intellectual who merely wanted \"quiet conversation\" about \"world peace\". Stapledon was a public figure, very active in many Communist-front organizations whose purpose was to undermine the West and support the Soviets.
+January 20, 2011, 9:20 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2012-05-08
 categories: ["Authors"]
 tags: ["Algis Budrys", "Editors", "Edna Budrys", "L. Ron Hubbard", "Prozines", "Religion"]
 archive_url: "https://web.archive.org/web/20260201000000/http://www.thewaythefutureblogs.com/2012/05/algis-budrys-the-iron-thorn/"
+prev_post_url: "/posts/2012-05-06-bright-sayings-of-bright-people-no-31/"
+prev_post_title: "Bright Sayings of Bright People, No. 31"
+next_post_url: "/posts/2012-05-10-consequences/"
+next_post_title: "Consequences"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 31**
-**Consequences**
 
 ## Algis Budrys: The Iron Thorn
 
@@ -116,18 +118,24 @@ So he crossed his fingers, emptied out his bank account and started his own scie
 
 **Related posts:**
 
-- A J Budrys Hits His Stride
-- A J
-- The Worlds of L. Ron Hubbard
-- The Worlds of L. Ron Hubbard, Part 2
-- Weekends with the Moonies
-- Robert A. Heinlein, Algis Budrys and Me
+- [**A J Budrys Hits His Stride**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+- [**A J**](/posts/2010-07-26-a-j/)
+- [**The Worlds of L. Ron Hubbard**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [**The Worlds of L. Ron Hubbard, Part 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+- [**Weekends with the Moonies**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 
 
 ### 2 Comments
 
-- TADsays:Looking forward to where this goes next. I received a couple of rejection slips from Algis — one of which made a pretty good point about the story in question — and always loved his book reviews….May 9, 2012, 2:07 am
-- Walt Gsays:I saw Mr. Budrys give a talk on building a story at one Norwescon.He described a very simple situation, about a violin student, stopping along the way to show structure and necessary elements and when he reached the end I actually got a little choked up.Now that is a story teller.May 11, 2012, 12:19 pm
+- TAD says:
+Looking forward to where this goes next. I received a couple of rejection slips from Algis — one of which made a pretty good point about the story in question — and always loved his book reviews….
+May 9, 2012, 2:07 am
+- Walt G says:
+I saw Mr. Budrys give a talk on building a story at one Norwescon.
+He described a very simple situation, about a violin student, stopping along the way to show structure and necessary elements and when he reached the end I actually got a little choked up.
+Now that is a story teller.
+May 11, 2012, 12:19 pm
 
 **WordPress**
 **TWTFB2**

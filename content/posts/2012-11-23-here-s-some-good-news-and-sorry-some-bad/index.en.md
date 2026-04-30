@@ -4,6 +4,10 @@ date: 2012-11-23
 categories: ["Science"]
 tags: ["Medicine"]
 archive_url: "https://web.archive.org/web/20130128063223/http://www.thewaythefutureblogs.com/2012/11/heres-some-good-news-and-sorry-some-bad/"
+prev_post_url: "/posts/2012-11-21-that-boson-give-us-your-full-name-please/"
+prev_post_title: "That Boson: Give Us Your Full Name, Please"
+next_post_url: "/posts/2012-11-25-bright-sayings-of-bright-people-no-37/"
+next_post_title: "Bright Sayings of Bright People, No. 37"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**That Boson: Give Us Your Full Name, Please**
-**Bright Sayings of Bright People, No. 37**
 
 ## Here’s Some Good News — and (Sorry) Some Bad
 
@@ -30,9 +32,18 @@ The bad part is that the same study showed that the increase could be only somet
 
 ### 3 Comments
 
-- Dan Gollubsays:I’d be glad to take 50 of those pills to double my intelligence.November 23, 2012, 7:11 am
-- Nestorsays:I think I’m more on the market for brain deadening drugs right now…November 26, 2012, 5:54 am
-- Dwightsays:Hi.In 2009, you posted a blog commentbabiutva Twilight Zone episode. In it, Astronaugts made utvto the end of the universe. They discovered they were in a glass bottle.What episode were you referring to?I can’t find it any where.December 9, 2012, 7:00 am
+- Dan Gollub says:
+I’d be glad to take 50 of those pills to double my intelligence.
+November 23, 2012, 7:11 am
+- Nestor says:
+I think I’m more on the market for brain deadening drugs right now…
+November 26, 2012, 5:54 am
+- Dwight says:
+Hi.
+In 2009, you posted a blog commentbabiutva Twilight Zone episode. In it, Astronaugts made utvto the end of the universe. They discovered they were in a glass bottle.
+What episode were you referring to?
+I can’t find it any where.
+December 9, 2012, 7:00 am
 
 **WordPress**
 **TWTFB2**

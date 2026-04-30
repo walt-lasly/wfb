@@ -4,6 +4,10 @@ date: 2009-10-12
 categories: ["Authors", "Personal"]
 tags: ["Arthur Selikowitz", "Charles Baudelaire", "Dirk Wylie", "Editors", "Fanzines", "G.G. Clark", "Hugo Gernsback", "J.K. Huvsmans", "James Branch Cabell", "Mark Twain", "New York", "Prozines", "Robert A.W. Lowndes", "Science Fiction League", "Stephane Mallarme", "Voltaire"]
 archive_url: "https://web.archive.org/web/20191101000000/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-part-5-the-big-league/"
+prev_post_url: "/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/"
+prev_post_title: "Let There Be Fandom, Part 4: New Deal, New Worlds"
+next_post_url: "/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/"
+next_post_title: "Let There Be Fandom, Part 6: The Pros!"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Let There Be Fandom, Part 4: New Deal, New Worlds**
-**Let There Be Fandom, Part 6: The Pros!**
 
 ## Let There Be Fandom, Part 5: The Big League
 
@@ -46,7 +48,7 @@ It is hard for me to remember what we did at these meetings, and I think the pro
 I haven’t seen a copy of *The Brooklyn Reporter in many years and doubt that there was much in it worth reading, but it was marvelously exciting to me then. My words were going out to readers all over the country! (Not very many* readers, no. But quite geographically dispersed.) People I never saw were writing letters to comment on what I had done.
 
 
-It was through *The Brooklyn Reporter* that I first met **Robert Lowndes** — only as a pen pal at first, because he lived in faraway Connecticut, and neither of us could see any way of bridging that near-hundred-mile distance. But we became good friends by correspondence, quickly found interests in common (we both were addicted to popular songs), and shared others: he initiated me into **Baudelaire**, **Mallarmé** and **J.K. Huvsmans**, and I introduced him to **James Branch Cabell**.
+It was through *The Brooklyn Reporter* that I first met [**Robert Lowndes**](/posts/2009-05-08-the-quadrumvirate/) — only as a pen pal at first, because he lived in faraway Connecticut, and neither of us could see any way of bridging that near-hundred-mile distance. But we became good friends by correspondence, quickly found interests in common (we both were addicted to popular songs), and shared others: he initiated me into **Baudelaire**, **Mallarmé** and **J.K. Huvsmans**, and I introduced him to **James Branch Cabell**.
 
 
 You see, what we science-fiction fans mostly wanted to do with each other’s company was to talk — about science fiction, and about the world. Robert’s Rules of Order didn’t seem to provide for much of that, so we formed the habit of The Meeting After the Meeting. After enduring an hour or so of parliamentary rules, we troops would bid farewell to our leader and walk in a body to the nearest station of the El.
@@ -66,19 +68,26 @@ But still, why didn’t the idea occur to someone more sophisticated than I?
 
 **Related posts:**
 
-- The Quadrumvirate
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 6: The Pros!
-- Let There Be Fandom, Part 7: The Crusade
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
 
 
 ### 2 Comments
 
-- Stefan Jonessays:“. . . the furtherance and betterment of science fiction.”I can think of few if any people who fulfilled that pledge better than you, Mr. Pohl.October 12, 2009, 9:32 pm
-- Natesays:These are really wonderful stories - both for the history of New York City and the history of SF Fandom.“largely, I think, because I owned my own typewriter”As a collector (or rather, accumulator) of old pulps and typewriters, this makes me weep for the way the future was, indeed.October 13, 2009, 7:17 pm
+- Stefan Jones says:
+“. . . the furtherance and betterment of science fiction.”
+I can think of few if any people who fulfilled that pledge better than you, Mr. Pohl.
+October 12, 2009, 9:32 pm
+- Nate says:
+These are really wonderful stories - both for the history of New York City and the history of SF Fandom.  
+“largely, I think, because I owned my own typewriter”
+As a collector (or rather, accumulator) of old pulps and typewriters, this makes me weep for the way the future was, indeed.
+October 13, 2009, 7:17 pm
 
 **WordPress**
 **TWTFB**

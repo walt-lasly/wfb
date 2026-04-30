@@ -4,6 +4,10 @@ date: 2011-03-30
 categories: ["Authors", "Books", "Science", "Writing"]
 tags: ["Agatha Christie", "Alfred Bester", "Editors", "Horace L. Gold", "Mark Twain", "Prozines", "Radio", "Robert A. Heinlein", "Satellites", "Television", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20150701000000/http://www.thewaythefutureblogs.com/2011/03/me-and-alfie-part-3-the-demolished-man/"
+prev_post_url: "/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/"
+prev_post_title: "Me and Alfie, Part 2:Gatewayand the Art of Writing"
+next_post_url: "/posts/2011-04-01-me-and-alfie-part-4-rejection/"
+next_post_title: "Me and Alfie, Part 4:  Rejection"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and Alfie, Part 2: Gateway and the Art of Writing**
-**Me and Alfie, Part 4:  Rejection**
 
 ## Me and Alfie, Part 3: Ideas andThe Demolished Man
 
@@ -81,7 +83,7 @@ This goddamn book was six months in preparation before I actually began to write
 But going back to how ideas are generated, one of my favorites was a story called “Fondly Fahrenheit.” I’m going to give you the genesis of that story. I remember this vividly, point by point.
 
 
-I was reading **Mark Twain’s** **Life on the Mississippi**. He mentioned that a Negro slave had been executed in Missouri for molesting, criminally assaulting and murdering a young girl. He had been hung for it, and Twain went on to say that this Negro slave had committed the same crime in Virginia and his owner had levanted him out of Virginia to Mississippi because the slave was too valuable to be destroyed.
+I was reading [**Mark Twain’s**](/posts/2010-09-04-mark-twain-and-the-law-of-the-raft/) **Life on the Mississippi**. He mentioned that a Negro slave had been executed in Missouri for molesting, criminally assaulting and murdering a young girl. He had been hung for it, and Twain went on to say that this Negro slave had committed the same crime in Virginia and his owner had levanted him out of Virginia to Mississippi because the slave was too valuable to be destroyed.
 
 
 And I thought, “There’s a hell of a story in that, I don’t know what it is, but there’s a hell of a story.” So I very carefully listed it in my “Gimmick” book and that was that.
@@ -143,18 +145,34 @@ So ideas come from everywhere if you are open to them.
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 4**, **Part 5**, **Part 6**, **Part 7**, **Part 8**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 6 Comments
 
-- Stephen Bsays:Fascinating stuff from Bester.Love the blog.Thanks!March 30, 2011, 8:00 am
-- smsays:This is one of the best things you’ve blogged — the back and forth between you and Bester is great!March 30, 2011, 12:39 pm
-- H. E. Parmersays:It’s probably more than 30 years since I last read “Fondly Fahrenheit”, but — although I’m a bit embarassed to admit I didn’t remember Alfie was the author — it made enough of an impression to instantly summon up the plot.Thanks for sharing these wonderful insights into how a great writer works.March 30, 2011, 5:43 pm
-- A.L. Siroissays:I re-read “Fondly Fahrenheit” just a few days ago, in volume 1 of The Science Fiction Hall of Fame, so this post came along at a wonderful time for me. It’s always been one of my favorite sf stories, let alone one of my favorite Bester stories. I only met Bester once, at a Lunacon back in the 70s. He was a charming man, very approachable and good-humored. As I recall, he delivered an informative and funny lecture but I don’t recall the topic.March 31, 2011, 8:32 am
-- gottacooksays:Delighted to read more and more of this 1978 conversation, but it should be noted that the 1976 Bester omnibus Starlight: The Great Short Fiction of Alfred Bester includes an essay on the writing of “Fondly Fahrenheit” that touches on many of the same points he makes in this transcript.(Starlight is a Bester collection that any fan should seek out because of the very entertaining story notes – particularly concerning the influence of Dianetics on John W. Campbell Jr. and how this affected his attitude toward Bester’s story “Oddy and Id” – but he ought not to have rewritten his late-’50s story “The Pi Man” for this collection; even the names of the two named characters were changed, and not for the better.)March 31, 2011, 4:08 pm
-- Chookiesays:Wonderful story!April 2, 2011, 9:18 pm
+- Stephen B says:
+Fascinating stuff from Bester.
+Love the blog.
+Thanks!
+March 30, 2011, 8:00 am
+- sm says:
+This is one of the best things you’ve blogged — the back and forth between you and Bester is great!
+March 30, 2011, 12:39 pm
+- H. E. Parmer says:
+It’s probably more than 30 years since I last read “Fondly Fahrenheit”, but — although I’m a bit embarassed to admit I didn’t remember Alfie was the author — it made enough of an impression to instantly summon up the plot.
+Thanks for sharing these wonderful insights into how a great writer works.
+March 30, 2011, 5:43 pm
+- A.L. Sirois says:
+I re-read “Fondly Fahrenheit” just a few days ago, in volume 1 of The Science Fiction Hall of Fame, so this post came along at a wonderful time for me. It’s always been one of my favorite sf stories, let alone one of my favorite Bester stories. I only met Bester once, at a Lunacon back in the 70s. He was a charming man, very approachable and good-humored. As I recall, he delivered an informative and funny lecture but I don’t recall the topic.
+March 31, 2011, 8:32 am
+- gottacook says:
+Delighted to read more and more of this 1978 conversation, but it should be noted that the 1976 Bester omnibus Starlight: The Great Short Fiction of Alfred Bester includes an essay on the writing of “Fondly Fahrenheit” that touches on many of the same points he makes in this transcript.
+(Starlight is a Bester collection that any fan should seek out because of the very entertaining story notes – particularly concerning the influence of Dianetics on John W. Campbell Jr. and how this affected his attitude toward Bester’s story “Oddy and Id” – but he ought not to have rewritten his late-’50s story “The Pi Man” for this collection; even the names of the two named characters were changed, and not for the better.)
+March 31, 2011, 4:08 pm
+- Chookie says:
+Wonderful story!
+April 2, 2011, 9:18 pm
 
 **WordPress**
 **TWTFB2**

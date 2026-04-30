@@ -4,6 +4,10 @@ date: 2013-03-18
 categories: ["Miscellaneous", "Personal"]
 tags: ["Computers", "Medicine"]
 archive_url: "https://web.archive.org/web/20020401000000/http://www.thewaythefutureblogs.com/2013/03/were-back/"
+prev_post_url: "/posts/2013-03-17-bright-sayings-of-bright-people-no-42-keynes/"
+prev_post_title: "Bright Sayings of Bright People, No. 42: Keynes"
+next_post_url: "/posts/2013-03-19-arrival-the-happiest-airport/"
+next_post_title: "Arrival: The Happiest Airport"
 translated: false
 ---
 

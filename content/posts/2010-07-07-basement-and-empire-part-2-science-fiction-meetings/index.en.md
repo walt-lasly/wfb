@@ -4,6 +4,10 @@ date: 2010-07-07
 categories: ["Authors", "Personal"]
 tags: ["Clubs", "Donald A. Wollheim", "Fanzines", "Food", "G.G. Clark", "Harold W. Kirshenblith", "International Scientific Association", "John B. Michel", "New York", "Robert A.W. Lowndes", "Science Fiction League", "The Early Pohl", "Will Sykora"]
 archive_url: "https://web.archive.org/web/20250901000000/http://www.thewaythefutureblogs.com/2010/07/basement-empire-2-science-fiction-meetings/"
+prev_post_url: "/posts/2010-07-05-basement-and-empire/"
+prev_post_title: "Basement and Empire"
+next_post_url: "/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/"
+next_post_title: "Basement and Empire, Part 3: Lessons in SF"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Basement and Empire**
-**Basement and Empire, Part 3: Lessons in SF**
 
 ## Basement and Empire, Part 2: Science Fiction Meetings
 
@@ -40,7 +42,7 @@ The fan feud is not quite coeval with fandom itself, but it comes close. None of
 It didn’t much matter what the name of the club was, or where we met. We did about the same things. We held meetings once a month, mostly devoted to arguments over whether a motion to adjourn took precedence over a point of personal privilege. We got together between times to publish mimeographed magazines, where we practiced our fledgling talents — for writing, and also for invective.
 
 
-The fan mags (now they are called “**fanzines**,” but the term hadn’t been coined then) were sometimes club efforts, sometimes individual. I managed to wind up as editor of the club mags a lot of the time, but that wasn’t enough; I published some of my own. The one I liked best was a minimal eight-page mimeographed job measuring 4 ¼ by 5 ½ inches — a standard 8 ½-by-11-inch **mimeo** sheet folded twice — called *Mind of Man.* Since it was my own, I could publish anything I liked in it. What I liked best to publish was my own **poetry**, which at that time was highly sense-free, influenced in equal parts by Lewis Carroll’s “Jabberwocky” and some of the crazier exhibits in **transition**.
+The fan mags (now they are called “**fanzines**,” but the term hadn’t been coined then) were sometimes club efforts, sometimes individual. I managed to wind up as editor of the club mags a lot of the time, but that wasn’t enough; I published some of my own. The one I liked best was a minimal eight-page mimeographed job measuring 4 ¼ by 5 ½ inches — a standard 8 ½-by-11-inch **mimeo** sheet folded twice — called *Mind of Man.* Since it was my own, I could publish anything I liked in it. What I liked best to publish was my own [**poetry**](/posts/2009-01-30-the-poetry-corner/), which at that time was highly sense-free, influenced in equal parts by Lewis Carroll’s “Jabberwocky” and some of the crazier exhibits in **transition**.
 
 
 *To be continued. . . .*
@@ -48,25 +50,37 @@ The fan mags (now they are called “**fanzines**,” but the term hadn’t been
 
 **Related posts:**
 
-- Basement and Empire
-- Basement and Empire, Part 3: Lessons in SF
-- Basement and Empire, Afterwords
-- The Quadrumvirate
-- Let There Be Fandom: The Science Fiction League
-- Let There Be Fandom, Part 2: School Days
-- Let There Be Fandom, Part 3: A Brooklyn Boyhood
-- Let There Be Fandom, Part 4: New Deal, New Worlds
-- Let There Be Fandom, Part 5: The Big League
-- Let There Be Fandom, Part 6: The Pros!
-- Let There Be Fandom, Part 7: The Crusade
+- [**Basement and Empire**](/posts/2010-07-05-basement-and-empire/)
+- [**Basement and Empire, Part 3: Lessons in SF**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+- [**Basement and Empire, Afterwords**](/posts/2010-07-12-basement-and-empire-afterwords/)
+- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### 4 Comments
 
-- Robert Nowallsays:Yeah, I remember reading The Early Pohl.  I got a book club copy.  I regretted it wasn’t the big volume (two-part paperback) edition that the ones by Asimov and Del Rey were…from what I gleaned at the time I got the idea it was an issue of sales and marketing…Gee, times have changed.  Those days, you had to have printing presses or mimeo machines—not even photocopying.  Now, with the ‘Net, or whatever it’s hip to call it these days, the younger crowd—or anybody who wants to, age neutral—can blog or put up just about anything at any time.  (I started dumping my rejected stuff onto my own site, basically to show the world and mostly fellow would-be writers that I could write something other than Internet Fan Fiction…)July 7, 2010, 6:15 am
-- Bald Guysays:Pretty cool, Robert. I copied Plant Girl and pasted it into a text file, hope you don’t mind. I need to read stuff on paper, a Luddite to be sure. I’m going to print it off at work.July 7, 2010, 11:55 am
-- Robert Nowallsays:Paper does remain my favorite way of reading stuff, but ya gotta be flexible.  Also saves some on cartridges…I’d forgotten I’d put a link to my site up here, actually…July 8, 2010, 11:47 am
-- Andrew Portersays:Err, Fred’s intro to these is wrong. ALGOL and SCIENCE FICTION CHRONICLE were two separate magazines. ALGOL, later titled STARSHIP, was an irregular critical magazine which ceased publication in 1984. SCIENCE FICTION CHRONICLE was a monthly news magazine which started being published in 1979, and which I sold in 2000; it ceased publication in 2006.The photo of Sykora and Ley was one of many that Forrest J. Ackerman sent to me and which I scanned and put up on the internet. I never published it anywhere. I snt it to Fred at thr same time I sent him the text of his intro, which I published in ALGOL as a separate article.The only connection to the two mags is that Fred’s columns, which started in ALGOL after the strong positive reaction to his original piece, later jumped to SCIENCE FICTION CHRONICLE. Bu they were two different magazines, even had two different ISSNs…July 14, 2011, 4:41 pm
+- Robert Nowall says:
+Yeah, I remember reading The Early Pohl.  I got a book club copy.  I regretted it wasn’t the big volume (two-part paperback) edition that the ones by Asimov and Del Rey were…from what I gleaned at the time I got the idea it was an issue of sales and marketing…
+Gee, times have changed.  Those days, you had to have printing presses or mimeo machines—not even photocopying.  Now, with the ‘Net, or whatever it’s hip to call it these days, the younger crowd—or anybody who wants to, age neutral—can blog or put up just about anything at any time.  (I started dumping my rejected stuff onto my own site, basically to show the world and mostly fellow would-be writers that I could write something other than Internet Fan Fiction…)
+July 7, 2010, 6:15 am
+- Bald Guy says:
+Pretty cool, Robert. I copied Plant Girl and pasted it into a text file, hope you don’t mind. I need to read stuff on paper, a Luddite to be sure. I’m going to print it off at work.
+July 7, 2010, 11:55 am
+- Robert Nowall says:
+Paper does remain my favorite way of reading stuff, but ya gotta be flexible.  Also saves some on cartridges…
+I’d forgotten I’d put a link to my site up here, actually…
+July 8, 2010, 11:47 am
+- Andrew Porter says:
+Err, Fred’s intro to these is wrong. ALGOL and SCIENCE FICTION CHRONICLE were two separate magazines. ALGOL, later titled STARSHIP, was an irregular critical magazine which ceased publication in 1984. SCIENCE FICTION CHRONICLE was a monthly news magazine which started being published in 1979, and which I sold in 2000; it ceased publication in 2006.
+The photo of Sykora and Ley was one of many that Forrest J. Ackerman sent to me and which I scanned and put up on the internet. I never published it anywhere. I snt it to Fred at thr same time I sent him the text of his intro, which I published in ALGOL as a separate article.
+The only connection to the two mags is that Fred’s columns, which started in ALGOL after the strong positive reaction to his original piece, later jumped to SCIENCE FICTION CHRONICLE. Bu they were two different magazines, even had two different ISSNs…
+July 14, 2011, 4:41 pm
 
 **WordPress**
 **TWTFB**

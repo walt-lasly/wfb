@@ -4,6 +4,10 @@ date: 2010-12-04
 categories: ["Authors", "Books", "Personal", "Travel"]
 tags: ["Ann Pohl", "Chandler Davis", "Conventions", "Emily Pohl-Weary", "Futurians", "George O. Smith", "Hugo Awards", "Jack Gillespie", "Judith Merril", "Sexuality", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170501000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-3-life-with-judy/"
+prev_post_url: "/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
+prev_post_title: "How Much of a FAVOR Can You Afford to Do Me?"
+next_post_url: "/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
+next_post_title: "Bright Sayings of Bright People, No. 5: James"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**How Much of a FAVOR Can You Afford to Do Me?**
-**Bright Sayings of Bright People, No. 5: James**
 
 ## Judith Merril, Part 3: Life with Judy
 
@@ -75,14 +77,21 @@ And the other thing is that, against the odds — and bad luck for the weasel if
 
 **Related posts:**  
 
-**Judith Merril,** **Part 1**, **Part 2**,  **Part 4**, **Part 5**, **Part 6**, **Part 7**, **Part 8**, **Part 9**
+**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/),  [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### 3 Comments
 
-- Stefan Jonessays:I can see that the new edition is going to tell a more complex story.George O. Smith attended a Lunacon I went to in the early 80s. He passed away shortly afterwards. I remember being shocked at how rudely one smartass fan treated him while on a panel.December 4, 2010, 11:53 pm
-- Jim Worradsays:George O should have urinated on him.December 5, 2010, 4:44 am
-- krjamessays:Stefan’s comment puts me in mind of Harlan Ellison’s well-known lecture (whose title, however, I can’t recall) on fan nutjobbery at SF conventions.  This recent “weasel” episode suggests a prime example of that particularly obnoxious brand of sociopathy.December 5, 2010, 8:01 am
+- Stefan Jones says:
+I can see that the new edition is going to tell a more complex story.
+George O. Smith attended a Lunacon I went to in the early 80s. He passed away shortly afterwards. I remember being shocked at how rudely one smartass fan treated him while on a panel.
+December 4, 2010, 11:53 pm
+- Jim Worrad says:
+George O should have urinated on him.
+December 5, 2010, 4:44 am
+- krjames says:
+Stefan’s comment puts me in mind of Harlan Ellison’s well-known lecture (whose title, however, I can’t recall) on fan nutjobbery at SF conventions.  This recent “weasel” episode suggests a prime example of that particularly obnoxious brand of sociopathy.
+December 5, 2010, 8:01 am
 
 **WordPress**
 **TWTFB2**

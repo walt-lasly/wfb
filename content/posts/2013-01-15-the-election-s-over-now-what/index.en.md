@@ -4,6 +4,10 @@ date: 2013-01-15
 categories: ["Science"]
 tags: ["Barack Obama", "Ecology", "Meteorology", "Politics"]
 archive_url: "https://web.archive.org/web/20131201000000/http://www.thewaythefutureblogs.com/2013/01/the-elections-over-now-what/"
+prev_post_url: "/posts/2012-12-23-how-gassy-is-america-really/"
+prev_post_title: "How Gassy is America, Really?"
+next_post_url: "/posts/2013-01-16-getting-the-juices-flowing/"
+next_post_title: "Getting the Juices Flowing"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**How Gassy is America, Really?**
-**Getting the Juices Flowing**
 
 ## The Election’s Over, Now What?
 
@@ -38,8 +40,14 @@ So let’s fool them and pay attention.  What I am doing, for example, is writin
 
 ### 2 Comments
 
-- Mark Brosiussays:It’s after midnight and I just finished rereading one of you wonderful books, “The world at the end of time”.  Put it down, got online to see how you are doing.  Was pleased to come across this thought provoking article after just reading about the challenge of regreening of the planet Newman home.thank you for all the works you have done!January 16, 2013, 1:25 am
-- Kensays:Too bad solving this problem requires action from the dysfunctional governments of the world. If it’s not the flavor of the day elected officials can’t be bothered. Guess it’s up to us to make it the flavor of the day.God may not play dice, but politicians most certainly do.January 16, 2013, 7:47 pm
+- Mark Brosius says:
+It’s after midnight and I just finished rereading one of you wonderful books, “The world at the end of time”.  Put it down, got online to see how you are doing.  Was pleased to come across this thought provoking article after just reading about the challenge of regreening of the planet Newman home.  
+thank you for all the works you have done!
+January 16, 2013, 1:25 am
+- Ken says:
+Too bad solving this problem requires action from the dysfunctional governments of the world. If it’s not the flavor of the day elected officials can’t be bothered. Guess it’s up to us to make it the flavor of the day. 
+God may not play dice, but politicians most certainly do.
+January 16, 2013, 7:47 pm
 
 **WordPress**
 **TWTFB2**

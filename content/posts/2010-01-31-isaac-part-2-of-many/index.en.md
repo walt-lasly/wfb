@@ -4,6 +4,10 @@ date: 2010-01-31
 categories: ["Authors", "Personal", "Writing"]
 tags: ["Academics", "Agents", "Anti-Semitism", "C.M. Kornbluth", "Clubs", "Editors", "F. Orlin Tremaine", "Futurians", "Harry Steeger", "Isaac Asimov", "Jack Robins", "John W. Campbell", "Judah and Anna Asimov", "L. Sprague de Camp", "Marcia Asimov Repanes", "Medicine", "New York", "Prozines", "Pulps", "Robert A. Heinlein", "Robert Erisman", "Stanley Asimov", "Virginia Heinlein", "World War II"]
 archive_url: "https://web.archive.org/web/20260301000000/http://www.thewaythefutureblogs.com/2010/01/isaac-part-2/"
+prev_post_url: "/posts/2010-01-28-mingling-with-people-i-wouldn-t-invite-for-dinner/"
+prev_post_title: "Mingling with People I Wouldn’t Invite for Dinner"
+next_post_url: "/posts/2010-02-03-let-s-play-a-game/"
+next_post_title: "Let’s Play a Game"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Mingling with People I Wouldn’t Invite for Dinner**
-**Let’s Play a Game**
 
 ## Isaac,Part 2 of many
 
@@ -62,23 +64,69 @@ I’m not sure the team ever made much progress in their researches, but they di
 
 **Related posts**:
 
-- **Isaac,** **Part 1**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 7**
-- Russians, Jews and Isaac
+- **Isaac,** [**Part 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 3**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/), [**Part 4**](/posts/2010-02-26-isaac-part-4-and-some-other-guys/), [**Part 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Part 6**](/posts/2010-11-10-isaac-part-6/), [**Part 7**](/posts/2010-11-15-isaac-part-7/)
+- [**Russians, Jews and Isaac**](/posts/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 11 Comments
 
-- Jim Flanagansays:Thank you for these wonderful recollections.I often felt that some of the coincidences that inhabit many Science Fiction stories were a little unrealistic given my own experiences.But, now see that they made complete sense in a world where so many fortunate confluenceses of genius occured. I mean. The fact that Pohl & Asimov lived accross the park from each other would be a coincidence that I’d scoff at in a work of Fiction.January 31, 2010, 4:49 am
-- DavidPhillipOstersays:For years, I’ve wanted to ask this question of someone who would know, while Asimov, de Camp, and Heinlein were at the research facility at the Philadelphia Navy Yard during WWII, were they involved in any experiments involving making war ships invisible? (As documented inhttp://en.wikipedia.org/wiki/The_Philadelphia_Experiment).to clarify: Is there any connection between them and the story of the Philadelphia Experiment? If so, it would be fun to hear about it. If not, it’s a shame. A classic lost opportunity.January 31, 2010, 2:06 pm
-- Pavel Lishinsays:I\’m moving up to New York in November, and I can\’t wait to visit all the places you\’ve mentioned. You, and Asimov and Heinlein made a lasting impression on me, from when I was a kid, until now.January 31, 2010, 9:53 pm
-- Stefan Jonessays:@David: Hmmm . . . famous SF authors working on weird technologies . . . that would make a great SF series.January 31, 2010, 11:41 pm
-- Joseph Crockettsays:Dear Mr. Pohl;I have been greatly enjoying your blog , as I did The Way The Future Was. I came to science fiction first through films and comic books, before graduatng to fantasy novels and finally sci-fi. Consequently, I am fascinated by the history of it all.I recently read the late Julius Schwartz’s autobigraphy, Man Of Two Worlds, and was amazed to see the parallels of your early careers. He went from fandom to agent to comic book editing; while you from fandom to pulp editor to agent (all the while writing, of course). Your careers obviously diverged, but he remained active on the convention circuits for both comics and sci-fi. He mentioned you twice in his book, but only briefly (it was a short book) and I was thinking that you must have had more dealings with him as you travelled in the same circles. Do you recall much about Mr. Scwartz, or for that matter about the start of the comic book industry?Thanks for taking the time to read my comments and THANKS FOR THE BLOG!Sincerely,Joseph CrockettP.S. I am something of a slow reader so I would appreciate knowing what you would consider to be to be the top ten best science fiction novels/stories of all time; those that every fan MUST read.February 1, 2010, 6:39 am
-- Carl V.says:These first two posts have been absolutely wonderful and I do hope that you keep them up.  It is a great pleasure to learn more about you, and Isaac Asimov and others, through them.February 1, 2010, 8:03 am
-- Bill Higgins-- Beam Jockeysays:David Phillip Oster writes:<i>For years, I’ve wanted to ask this question of someone who would know, while Asimov, de Camp, and Heinlein were at the research facility at the Philadelphia Navy Yard during WWII, were they involved in any experiments involving making war ships invisible?</i>No.I suppose Wikipedia is not allowed to say that something is complete nonsense, because that would violate their rule about \"neutral point of view.\"  But I am free to say it.  The \"Philadelphia Experiment\" is complete nonsense.  Nonsense from a physics point of view and nonsense from a historical point of view.Furthermore, there is no connection between the three SF writers and any of the aspects of the \"Philadelphia Experiment\" conspiracy theory– except that they were working at another Navy facility nearby (the Naval Aircraft Factory\’s Aeronautical Materials Laboratory, not the Philadelphia Navy Yard) during the same period.Heinlein began in the spring of 1942, at first assisting with recruiting technical talent and other administrative tasks.  This led to jobs for Asimov and de Camp, among others.  Later Heinlein moved into work on plastics.De Camp was a Navy lieutenant who was assigned to the NAF.  He worked on a variety of engineering jobs, including supervising the construction of an altitude chamber and a \"cold room\" to test equipment at stratospheric and Arctic temperatures. He wrote, \"So for three and a half years Asimov, Heinlein, and I, along with scores of other technical people, navigated desks and fought the war with flashing slide rules.\"If you want to see how L. Sprague de Camp himself answered Mr. Oster\’s question, see this link:http://books.google.com/books?id=YUHzYPFrJyQC&pg=PA225Asimov was a civilian chemist who arrived in May 1942.  He worked in the Chemicals and Coatings unit.  He has written about his work in the first volume of his autobiography, IN MEMORY YET GREEN, if you care to learn more.I hope this is helpful.February 1, 2010, 10:03 am
-- Jerrysays:Asimov had quite the system for his submissions to Campbell, didn\\\’t he? And I\\\’m kind of shocked at the genteel Antisemitism he encountered. I knew that was common in housing back then, but I didn\\\’t know it was so pervasive.February 1, 2010, 12:18 pm
-- Elizabeth Colemansays:@DavidPhilipOsterThere’s a story called “Green Fire” written as a round robin between Eileen Gunn, Andy Duncan, Pat Murphy, and Michael Swanwick, which plays with the fact that The Philadelphia Experiment, Asimov and Heinlein were around at the same time. It’s in Eileen’s collection, “Stable Strategies,” and is weird, weird, weird.February 3, 2010, 3:45 pm
-- Bill Goodwinsays:His words like dust encircle the worldIn living mists of ink,All of thought from pages unfurledIn one vast burst of Think.February 8, 2010, 10:07 pm
-- John Takao Colliersays:My family and I visited relatives in Brooklyn over the summer and I dearly wanted to visit site of the former Asimov candy store, but alas, we ran out of time and it was not to be.However, I found a website that shows what the location currently looks like:http://brooklynometry.blogspot.com/2008/01/cbs-construction-once-asimov-candy.htmlOctober 3, 2010, 5:03 pm
+- Jim Flanagan says:
+Thank you for these wonderful recollections. 
+I often felt that some of the coincidences that inhabit many Science Fiction stories were a little unrealistic given my own experiences.
+But, now see that they made complete sense in a world where so many fortunate confluenceses of genius occured. I mean. The fact that Pohl & Asimov lived accross the park from each other would be a coincidence that I’d scoff at in a work of Fiction.
+January 31, 2010, 4:49 am
+- DavidPhillipOster says:
+For years, I’ve wanted to ask this question of someone who would know, while Asimov, de Camp, and Heinlein were at the research facility at the Philadelphia Navy Yard during WWII, were they involved in any experiments involving making war ships invisible? (As documented in http://en.wikipedia.org/wiki/The_Philadelphia_Experiment ).
+to clarify: Is there any connection between them and the story of the Philadelphia Experiment? If so, it would be fun to hear about it. If not, it’s a shame. A classic lost opportunity.
+January 31, 2010, 2:06 pm
+- Pavel Lishin says:
+I\’m moving up to New York in November, and I can\’t wait to visit all the places you\’ve mentioned. You, and Asimov and Heinlein made a lasting impression on me, from when I was a kid, until now.
+January 31, 2010, 9:53 pm
+- Stefan Jones says:
+@David: Hmmm . . . famous SF authors working on weird technologies . . . that would make a great SF series.
+January 31, 2010, 11:41 pm
+- Joseph Crockett says:
+Dear Mr. Pohl;
+I have been greatly enjoying your blog , as I did The Way The Future Was. I came to science fiction first through films and comic books, before graduatng to fantasy novels and finally sci-fi. Consequently, I am fascinated by the history of it all.
+I recently read the late Julius Schwartz’s autobigraphy, Man Of Two Worlds, and was amazed to see the parallels of your early careers. He went from fandom to agent to comic book editing; while you from fandom to pulp editor to agent (all the while writing, of course). Your careers obviously diverged, but he remained active on the convention circuits for both comics and sci-fi. He mentioned you twice in his book, but only briefly (it was a short book) and I was thinking that you must have had more dealings with him as you travelled in the same circles. Do you recall much about Mr. Scwartz, or for that matter about the start of the comic book industry?
+Thanks for taking the time to read my comments and THANKS FOR THE BLOG!
+Sincerely,
+Joseph Crockett
+P.S. I am something of a slow reader so I would appreciate knowing what you would consider to be to be the top ten best science fiction novels/stories of all time; those that every fan MUST read.
+February 1, 2010, 6:39 am
+- Carl V. says:
+These first two posts have been absolutely wonderful and I do hope that you keep them up.  It is a great pleasure to learn more about you, and Isaac Asimov and others, through them.
+February 1, 2010, 8:03 am
+- Bill Higgins-- Beam Jockey says:
+David Phillip Oster writes:
+<i>For years, I’ve wanted to ask this question of someone who would know, while Asimov, de Camp, and Heinlein were at the research facility at the Philadelphia Navy Yard during WWII, were they involved in any experiments involving making war ships invisible?</i>
+No.
+I suppose Wikipedia is not allowed to say that something is complete nonsense, because that would violate their rule about \"neutral point of view.\"  But I am free to say it.  The \"Philadelphia Experiment\" is complete nonsense.  Nonsense from a physics point of view and nonsense from a historical point of view.  
+Furthermore, there is no connection between the three SF writers and any of the aspects of the \"Philadelphia Experiment\" conspiracy theory– except that they were working at another Navy facility nearby (the Naval Aircraft Factory\’s Aeronautical Materials Laboratory, not the Philadelphia Navy Yard) during the same period.
+Heinlein began in the spring of 1942, at first assisting with recruiting technical talent and other administrative tasks.  This led to jobs for Asimov and de Camp, among others.  Later Heinlein moved into work on plastics.
+De Camp was a Navy lieutenant who was assigned to the NAF.  He worked on a variety of engineering jobs, including supervising the construction of an altitude chamber and a \"cold room\" to test equipment at stratospheric and Arctic temperatures. He wrote, \"So for three and a half years Asimov, Heinlein, and I, along with scores of other technical people, navigated desks and fought the war with flashing slide rules.\" 
+If you want to see how L. Sprague de Camp himself answered Mr. Oster\’s question, see this link:
+http://books.google.com/books?id=YUHzYPFrJyQC&pg=PA225
+Asimov was a civilian chemist who arrived in May 1942.  He worked in the Chemicals and Coatings unit.  He has written about his work in the first volume of his autobiography, IN MEMORY YET GREEN, if you care to learn more.
+I hope this is helpful.
+February 1, 2010, 10:03 am
+- Jerry says:
+Asimov had quite the system for his submissions to Campbell, didn\\\’t he? And I\\\’m kind of shocked at the genteel Antisemitism he encountered. I knew that was common in housing back then, but I didn\\\’t know it was so pervasive.
+February 1, 2010, 12:18 pm
+- Elizabeth Coleman says:
+@DavidPhilipOster
+There’s a story called “Green Fire” written as a round robin between Eileen Gunn, Andy Duncan, Pat Murphy, and Michael Swanwick, which plays with the fact that The Philadelphia Experiment, Asimov and Heinlein were around at the same time. It’s in Eileen’s collection, “Stable Strategies,” and is weird, weird, weird.
+February 3, 2010, 3:45 pm
+- Bill Goodwin says:
+His words like dust encircle the world
+In living mists of ink,
+All of thought from pages unfurled
+In one vast burst of Think.
+February 8, 2010, 10:07 pm
+- John Takao Collier says:
+My family and I visited relatives in Brooklyn over the summer and I dearly wanted to visit site of the former Asimov candy store, but alas, we ran out of time and it was not to be.
+However, I found a website that shows what the location currently looks like:  http://brooklynometry.blogspot.com/2008/01/cbs-construction-once-asimov-candy.html
+October 3, 2010, 5:03 pm
 
 **WordPress**
 **TWTFB**

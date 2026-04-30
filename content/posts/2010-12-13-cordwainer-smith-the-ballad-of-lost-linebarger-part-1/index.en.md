@@ -4,6 +4,10 @@ date: 2010-12-13
 categories: ["Authors", "Books"]
 tags: ["Agents", "Beyond the End of Time", "Cordwainer Smith", "Editors", "Forrest J Ackerman", "Harry Altshuler", "Horace L. Gold", "Prozines", "Publishing", "Robert M. Guinn"]
 archive_url: "https://web.archive.org/web/20150914164245/http://www.thewaythefutureblogs.com/2010/12/cordwainer-smith-the-ballad-of-lost-linebarger-part-1/"
+prev_post_url: "/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/"
+prev_post_title: "Judith Merril, Part 7: When It All Hit the Fan"
+next_post_url: "/posts/2010-12-14-cordwainer-smith-the-ballad-of-lost-linebarger-part-2/"
+next_post_title: "Cordwainer Smith: The Ballad of Lost Linebarger, Part 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Judith Merril, Part 7: When It All Hit the Fan**
-**Cordwainer Smith: The Ballad of Lost Linebarger, Part 2**
 
 ## Cordwainer Smith: The Ballad of Lost Linebarger, Part 1
 
@@ -74,20 +76,45 @@ When I found out about it, I had words with Harry.  This led him to suspend that
 
 **Related posts:**  
 
-**Cordwainer Smith,** **Part 2**
+**Cordwainer Smith,** [**Part 2**](/posts/2010-12-14-cordwainer-smith-the-ballad-of-lost-linebarger-part-2/)
 
 
 ### 9 Comments
 
-- Michael Walshsays:Oh my, Cordwainer Smith … one of my all time favorite authors.  So glad you published him!  In the Dept of Small Worlds: the name of my small press is Old Earth Books.  And my day job is here at the Johns Hopkins University, working at the JHU Press.December 13, 2010, 9:05 am
-- Russ Graysays:I quite enjoy Cordwainer Smith stories.  I’ve got the big omnibus collection plus the novel Norstrilia.It’s all very weird, but very fun stuff.  I’ve never see anyone write stories like his, and he gets away with things that I don’t think anyone else could have.  Stylistically, lyrically, the voice in the stories is unique and challenging.  But, fun.December 13, 2010, 5:14 pm
-- deadprogrammersays:When I became addicted to science fiction in the Soviet Union there were two ways to read a brilliant novella: either in an anthology featuring multiple authors or in collected works volume.  The way we always figured, if there was a story in an anthology that was really first rate, there should have been a collected works volume somewhere. When I emigrated and finally learned English well enough, I fully expected that my favorite authors would be easily accessible in collected works volumes. Instead I found that I had to literally track them down story by story, sometimes having to purchase a particular pulp that featured a story that I wanted.Discovering Cordwainer Smith was a shock – I did not think that an author of such talent could be so obscure. I now realize that an Army Colonel, and a specialist in psychological warfare to boot  (his textbook on the subject is great, actually) would not be very happy to be published in the USSR, but still.  I’ve read nearly everything that he wrote, and even purchased and partially listened to a CD of him reading a manuscript draft, and yes, he can speak amazingly clearly and slowly. Like you, I never much liked non-instrumentality books of his.  I’ve read about his lost notebook, although I think the story was that he simply misplaced it. That would be an amazing thing to find.December 14, 2010, 1:42 am
-- Murasaki_1966says:Thank you for publishing Cordwainer Smith. I came to his writing via Ursula Le Guin, and on the principle that if one of my favourite authors loved this bloke’s work, it must be worth checking out, I did. One of the best things I ever done. I wish his work was more widely known.December 14, 2010, 2:44 pm
-- glindasays:Another thank you for publishing his stories. I was, oh, ten or eleven when I first read one of his stories, the one where Rod McBan ends up with the stamp (avoiding other spoilers here); he’s been one of my two favorite SF writers ever since (the other is Zenna Henderson).December 14, 2010, 3:04 pm
-- b l millersays:Loved his stories more than I can say, read some to my Lady before she died. Let’s just say she loved cats, and could see further through a millstone than most. I have had to leave a lot of stuff behind in my penurious progress, never anything written by him. This stuff insinuates and grips, becomes a colouration of the internal life. There is not enough of it, and should I ever get out of the present difficulty, I’ll be looking for what I do not yet have.December 20, 2010, 8:34 am
-- jean altshulersays:Perhaps you did not mean to imply that my father Harry Altshuler was psychotic or alcoholic. I saw no sign of either condition in the many years I knew him until his death in 1990.March 15, 2011, 4:24 pm
-- Frederik Pohlsays:Dear Jean Altshuler:I knew your father over a period of years, and he was of course neither an alcoholic nor a lunatic.  Harry was in fact an intelligent and skillful member of the publishing community.  Nevertheless that “rule” was ill advised, enough so for me to describe it as I did, and one which caused trouble for me.But I am truly sorry if my flippancy caused you pain.  I had no such intention.frederik pohlMarch 16, 2011, 3:18 pm
-- stevensays:Jean,How are you ? Can you contact me. I have a question about your father.Stevenpulse1@gmail.comJune 8, 2011, 11:16 am
+- Michael Walsh says:
+Oh my, Cordwainer Smith … one of my all time favorite authors.  So glad you published him!  In the Dept of Small Worlds: the name of my small press is Old Earth Books.  And my day job is here at the Johns Hopkins University, working at the JHU Press.
+December 13, 2010, 9:05 am
+- Russ Gray says:
+I quite enjoy Cordwainer Smith stories.  I’ve got the big omnibus collection plus the novel Norstrilia.
+It’s all very weird, but very fun stuff.  I’ve never see anyone write stories like his, and he gets away with things that I don’t think anyone else could have.  Stylistically, lyrically, the voice in the stories is unique and challenging.  But, fun.
+December 13, 2010, 5:14 pm
+- deadprogrammer says:
+When I became addicted to science fiction in the Soviet Union there were two ways to read a brilliant novella: either in an anthology featuring multiple authors or in collected works volume.  The way we always figured, if there was a story in an anthology that was really first rate, there should have been a collected works volume somewhere. When I emigrated and finally learned English well enough, I fully expected that my favorite authors would be easily accessible in collected works volumes. Instead I found that I had to literally track them down story by story, sometimes having to purchase a particular pulp that featured a story that I wanted.  
+Discovering Cordwainer Smith was a shock – I did not think that an author of such talent could be so obscure. I now realize that an Army Colonel, and a specialist in psychological warfare to boot  (his textbook on the subject is great, actually) would not be very happy to be published in the USSR, but still.  I’ve read nearly everything that he wrote, and even purchased and partially listened to a CD of him reading a manuscript draft, and yes, he can speak amazingly clearly and slowly. Like you, I never much liked non-instrumentality books of his.  I’ve read about his lost notebook, although I think the story was that he simply misplaced it. That would be an amazing thing to find.
+December 14, 2010, 1:42 am
+- Murasaki_1966 says:
+Thank you for publishing Cordwainer Smith. I came to his writing via Ursula Le Guin, and on the principle that if one of my favourite authors loved this bloke’s work, it must be worth checking out, I did. One of the best things I ever done. I wish his work was more widely known.
+December 14, 2010, 2:44 pm
+- glinda says:
+Another thank you for publishing his stories. I was, oh, ten or eleven when I first read one of his stories, the one where Rod McBan ends up with the stamp (avoiding other spoilers here); he’s been one of my two favorite SF writers ever since (the other is Zenna Henderson).
+December 14, 2010, 3:04 pm
+- b l miller says:
+Loved his stories more than I can say, read some to my Lady before she died. Let’s just say she loved cats, and could see further through a millstone than most. I have had to leave a lot of stuff behind in my penurious progress, never anything written by him. This stuff insinuates and grips, becomes a colouration of the internal life. There is not enough of it, and should I ever get out of the present difficulty, I’ll be looking for what I do not yet have.
+December 20, 2010, 8:34 am
+- jean altshuler says:
+Perhaps you did not mean to imply that my father Harry Altshuler was psychotic or alcoholic. I saw no sign of either condition in the many years I knew him until his death in 1990.
+March 15, 2011, 4:24 pm
+- Frederik Pohl says:
+Dear Jean Altshuler:
+I knew your father over a period of years, and he was of course neither an alcoholic nor a lunatic.  Harry was in fact an intelligent and skillful member of the publishing community.  Nevertheless that “rule” was ill advised, enough so for me to describe it as I did, and one which caused trouble for me.
+But I am truly sorry if my flippancy caused you pain.  I had no such intention.
+frederik pohl
+March 16, 2011, 3:18 pm
+- steven says:
+Jean,
+How are you ? Can you contact me. I have a question about your father.
+Stevenpulse1@gmail.com
+June 8, 2011, 11:16 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2009-02-28
 categories: ["Authors", "Personal"]
 tags: ["Hugo Awards", "Jack McKnight", "Philip José Farmer"]
 archive_url: "https://web.archive.org/web/20090317072126/http://www.thewaythefutureblogs.com/2009/02/josie/"
+prev_post_url: "/posts/2009-02-25-philip-josé-farmer-1918-2009/"
+prev_post_title: "Philip José Farmer, 1918–2009"
+next_post_url: "/posts/2009-03-02-pictures-from-paradise/"
+next_post_title: "Pictures from Paradise"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Philip José Farmer, 1918–2009**
-**Pictures from Paradise**
 
 ## Josie!
 
@@ -44,8 +46,14 @@ Not Phil, though.  He didn’t vary a laugh, a gesture or a wink, and when I sai
 
 ### 2 Comments
 
-- teletypeturtlesays:A logical thought, of course!thanks for this memory.March 1, 2009, 9:27 am
-- Danny Adamssays:>>There weren’t any of those old, cold-blooded priests in Phil’s ancestry<<Though he certainly tried awfully hard to find them.“I don’t want kings and queens,” he told me once, “I want horse thieves.”March 8, 2009, 8:30 pm
+- teletypeturtle says:
+A logical thought, of course!   thanks for this memory.
+March 1, 2009, 9:27 am
+- Danny Adams says:
+>>There weren’t any of those old, cold-blooded priests in Phil’s ancestry<<
+Though he certainly tried awfully hard to find them.
+“I don’t want kings and queens,” he told me once, “I want horse thieves.”
+March 8, 2009, 8:30 pm
 
 **WordPress**
 **TWTFB**

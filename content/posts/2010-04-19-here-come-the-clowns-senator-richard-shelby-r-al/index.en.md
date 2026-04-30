@@ -4,6 +4,10 @@ date: 2010-04-19
 categories: ["Miscellaneous"]
 tags: ["Barack Obama", "Politics", "Richard Shelby"]
 archive_url: "https://web.archive.org/web/20160301000000/http://www.thewaythefutureblogs.com/2010/04/here-come-the-clowns-senator-richard-shelby-r-al/"
+prev_post_url: "/posts/2010-04-12-meat-grinding/"
+prev_post_title: "Meat Grinding"
+next_post_url: "/posts/2010-04-25-jack-vance-the-master-of-the-dragons/"
+next_post_title: "Jack Vance: The Master of the Dragons"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Meat Grinding**
-**Jack Vance: The Master of the Dragons**
 
 ## Here Come the Clowns: Senator Richard Shelby (R-AL)
 
@@ -38,10 +40,20 @@ All the same, by his act in capriciously and singlehandedly putting a stop to 70
 
 ### 4 Comments
 
-- Robert Nowallsays:Of course the Democrat senators who put holds on nominations by the Bush administration, using this same custom, were only acting in the public interest, weren’t they?April 20, 2010, 5:57 am
-- Robert B Miletic Srsays:I agree. The Clown is absurd.April 20, 2010, 8:48 pm
-- John Traylorsays:The guy looks as creepy to me as a used car salesman.  It is sad for me to say this but I suppose we get the goverment we deserve.April 21, 2010, 7:39 am
-- Andysays:He has earned distinction, surely, though I fear it is but fleeting.Send in the clowns / Don’t bother, they’re here.  (Sondheim)I must add that there are respectable Senators and Congress members, but they are often out-shouted.April 21, 2010, 11:53 pm
+- Robert Nowall says:
+Of course the Democrat senators who put holds on nominations by the Bush administration, using this same custom, were only acting in the public interest, weren’t they?
+April 20, 2010, 5:57 am
+- Robert B Miletic Sr says:
+I agree. The Clown is absurd.
+April 20, 2010, 8:48 pm
+- John Traylor says:
+The guy looks as creepy to me as a used car salesman.  It is sad for me to say this but I suppose we get the goverment we deserve.
+April 21, 2010, 7:39 am
+- Andy says:
+He has earned distinction, surely, though I fear it is but fleeting.  
+Send in the clowns / Don’t bother, they’re here.  (Sondheim)
+I must add that there are respectable Senators and Congress members, but they are often out-shouted.
+April 21, 2010, 11:53 pm
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,10 @@ date: 2012-05-18
 categories: ["Authors", "Travel"]
 tags: ["Bob Guccione", "Editors", "Hugh Hefner", "Kathy Keeton", "Media", "Prozines", "Television"]
 archive_url: "https://web.archive.org/web/20210601000000/http://www.thewaythefutureblogs.com/2012/05/kathy-keeton-the-best-looking-sf-editor-ever/"
+prev_post_url: "/posts/2012-05-15-blog-helper-out-gets-degree/"
+prev_post_title: "Blog Helper-Out Gets Degree"
+next_post_url: "/posts/2012-05-20-bright-sayings-of-bright-people-no-33/"
+next_post_title: "Bright Sayings of Bright People, No. 33"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Blog Helper-Out Gets Degree**
-**Bright Sayings of Bright People, No. 33**
 
 ## Kathy Keeton: The Best-Looking SF Editor Ever
 
@@ -41,9 +43,17 @@ It didn’t have to.  Bob Guccione, the magazine’s publisher as well as Kathy�
 
 ### 3 Comments
 
-- JD Rhoadessays:I used to love Omni. I discovered one of my favorite SF writers, Spider Robinson, when they published his story FIVESIGHT. I was always amused that the same people published PENTHOUSE.May 22, 2012, 7:11 am
-- Todd Masonsays:What I always found unfortunate about OMNI was the psychic-phenomena third of the magazine…that and the paper stock that would smear at the slightest touch (it was almost as bad as newsprint that way, at least in the early issues). But, certainly the fiction tended to be pretty good at the worst of times…which Keeton, were she still with us, and her fiction editors Ben Bova, the late Robert Sheckley, and Ellen Datlow should all have been proud of and were/are, I gather (the excellent pay-rates didn’t hurt, but money alone doesn’t always do the trick).(And I still find it amusing that in 1978, Ben Bova and Ted White were for various reasons separated from their magazines ANALOG and the duo of FANTASTIC and AMAZING, respectively, which they had done excellent work with throughout the 1970s…only to be almost immediately Dragged Back In, like Corleone, by magazines with Real budgets…OMNI and HEAVY METAL, respectively)(Captcha doesn’t believe the Earth orbits the Sun…I guess it likes an Old Sol…)May 22, 2012, 7:42 am
-- MattFsays:Seeing this post reminded me to search online aain for a torrent or individual issues. I find that Oct 78 through Winter 95 are available at archive.org (http://archive.org/details/omni-magazine).July 8, 2012, 11:21 am
+- JD Rhoades says:
+I used to love Omni. I discovered one of my favorite SF writers, Spider Robinson, when they published his story FIVESIGHT. I was always amused that the same people published PENTHOUSE.
+May 22, 2012, 7:11 am
+- Todd Mason says:
+What I always found unfortunate about OMNI was the psychic-phenomena third of the magazine…that and the paper stock that would smear at the slightest touch (it was almost as bad as newsprint that way, at least in the early issues). But, certainly the fiction tended to be pretty good at the worst of times…which Keeton, were she still with us, and her fiction editors Ben Bova, the late Robert Sheckley, and Ellen Datlow should all have been proud of and were/are, I gather (the excellent pay-rates didn’t hurt, but money alone doesn’t always do the trick).
+(And I still find it amusing that in 1978, Ben Bova and Ted White were for various reasons separated from their magazines ANALOG and the duo of FANTASTIC and AMAZING, respectively, which they had done excellent work with throughout the 1970s…only to be almost immediately Dragged Back In, like Corleone, by magazines with Real budgets…OMNI and HEAVY METAL, respectively)
+(Captcha doesn’t believe the Earth orbits the Sun…I guess it likes an Old Sol…)
+May 22, 2012, 7:42 am
+- MattF says:
+Seeing this post reminded me to search online aain for a torrent or individual issues. I find that Oct 78 through Winter 95 are available at archive.org (http://archive.org/details/omni-magazine).
+July 8, 2012, 11:21 am
 
 **WordPress**
 **TWTFB2**

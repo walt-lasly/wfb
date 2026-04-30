@@ -4,6 +4,8 @@ date: 2009-07-20
 categories: ["Space"]
 tags: ["History", "Media"]
 archive_url: "https://web.archive.org/web/20190601000000/http://www.thewaythefutureblogs.com/2009/07/new-scientist-apologizes-to-the-apollo-astronauts/"
+next_post_url: "/posts/2009-08-17-little-known-fun-facts/"
+next_post_title: "Little Known Fun Facts"
 translated: false
 ---
 

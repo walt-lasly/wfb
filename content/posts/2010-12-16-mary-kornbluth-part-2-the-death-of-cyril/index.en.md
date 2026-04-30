@@ -4,6 +4,10 @@ date: 2010-12-16
 categories: ["Authors", "Personal"]
 tags: ["C.M. Kornbluth", "Carol Pohl", "Food", "Mary Kornbluth", "Medicine", "World War II"]
 archive_url: "https://web.archive.org/web/20190501000000/http://www.thewaythefutureblogs.com/2010/12/mary-kornbluth-part-2-death-of-cyril/"
+prev_post_url: "/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/"
+prev_post_title: "Judith Merril, Part 8: Spymaster in the Custody Wars"
+next_post_url: "/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/"
+next_post_title: "How I Lost My Oldest Friend(and Gained a Literary Agency)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Judith Merril, Part 8: Spymaster in the Custody Wars**
-**How I Lost My Oldest Friend(and Gained a Literary Agency)**
 
 ## Mary Kornbluth, Part 2: The Death of Cyril
 
@@ -75,15 +77,22 @@ At some point Mary got a cardboard carton, not unlike the packaging that your mi
 
 **Related posts:**
 
-- **Mary Kornbluth,** **Part 1**, **Part 3**
-- Cyril
+- **Mary Kornbluth,** [**Part 1**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 3**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
+- [**Cyril**](/posts/2009-04-20-cyril/)
 
 
 ### 3 Comments
 
-- Ericsays:Dear Fred,Having recently lost someone who was significantly linked to my love of SF, this post has been really touching. Though we’ve never met, I consider you and Mr. Kornbluth old friends – “Search the Sky” was one of the first SF books I went out and got for myself over 30 years ago. You’re a fundamental part of why I love SF.December 16, 2010, 4:45 am
-- Shakatanysays:In a way Cyril and his family were fortunate. Several years ago there were a few scandals involving crematoriums that would cremate several bodies together then divide the ashes. I remember when my aunt passed on in 1998 she’d already made arrangements to be cremated at a special crematorium where you could view the body and see that the crematorium was empty then a curtain was drawn and a few hours later we returned for her ashes. So what was old is now new again.December 16, 2010, 12:00 pm
-- Taintsays:Thanks you, Fred, for your memoirs.  I find them extraordinarily gripping. Looking forward to Part 3 about your friend Cyril.December 16, 2010, 12:23 pm
+- Eric says:
+Dear Fred,
+Having recently lost someone who was significantly linked to my love of SF, this post has been really touching. Though we’ve never met, I consider you and Mr. Kornbluth old friends – “Search the Sky” was one of the first SF books I went out and got for myself over 30 years ago. You’re a fundamental part of why I love SF.
+December 16, 2010, 4:45 am
+- Shakatany says:
+In a way Cyril and his family were fortunate. Several years ago there were a few scandals involving crematoriums that would cremate several bodies together then divide the ashes. I remember when my aunt passed on in 1998 she’d already made arrangements to be cremated at a special crematorium where you could view the body and see that the crematorium was empty then a curtain was drawn and a few hours later we returned for her ashes. So what was old is now new again.
+December 16, 2010, 12:00 pm
+- Taint says:
+Thanks you, Fred, for your memoirs.  I find them extraordinarily gripping. Looking forward to Part 3 about your friend Cyril.
+December 16, 2010, 12:23 pm
 
 **WordPress**
 **TWTFB2**

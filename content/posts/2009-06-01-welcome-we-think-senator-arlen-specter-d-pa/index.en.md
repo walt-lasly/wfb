@@ -4,6 +4,10 @@ date: 2009-06-01
 categories: ["Miscellaneous"]
 tags: ["Anita Hill", "Arlen Specter", "Clarence Thomas", "Politics"]
 archive_url: "https://web.archive.org/web/20090723071203/http://www.thewaythefutureblogs.com/2009/06/welcome-we-think-senator-arlen-specter-d-pa/"
+prev_post_url: "/posts/2009-05-30-caturday/"
+prev_post_title: "Caturday"
+next_post_url: "/posts/2009-06-04-i-m-photic-how-are-you/"
+next_post_title: "I’m Photic, How Are You?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Caturday**
-**I’m Photic, How Are You?**
 
 ## Welcome (We Think), Senator Arlen Specter (D-PA)
 
@@ -35,9 +37,16 @@ All the same it wouldn’t hurt you to apologize to Anita Hill while you’re at
 
 ### 3 Comments
 
-- Robert Nowallsays:Think of Arlen Specter another way: that his positions eroded his support among Republicans, and he saw he would lose the party nomination next time ’round, so *switcheroo* he’s a Democrat now.May you have better luck with him.June 1, 2009, 1:21 pm
-- Todd Masonsays:Specter basically knows where his bread is buttered…always willing to make some noise about opposing the more ridiculous GOP initiatives, he usually fell into line eventually and voted party line.  Also, once were at the same gym and locker room at the same time…if I had to choose which US senator I was to see au naturale, Specter would not, even give the slim pickings, be my first choice.June 3, 2009, 7:19 pm
-- Jeffsays:When I think of Arlen Specter, I cannot help but think of the magic bullet he invented.June 4, 2009, 12:10 pm
+- Robert Nowall says:
+Think of Arlen Specter another way: that his positions eroded his support among Republicans, and he saw he would lose the party nomination next time ’round, so *switcheroo* he’s a Democrat now.
+May you have better luck with him.
+June 1, 2009, 1:21 pm
+- Todd Mason says:
+Specter basically knows where his bread is buttered…always willing to make some noise about opposing the more ridiculous GOP initiatives, he usually fell into line eventually and voted party line.  Also, once were at the same gym and locker room at the same time…if I had to choose which US senator I was to see au naturale, Specter would not, even give the slim pickings, be my first choice.
+June 3, 2009, 7:19 pm
+- Jeff says:
+When I think of Arlen Specter, I cannot help but think of the magic bullet he invented.
+June 4, 2009, 12:10 pm
 
 **WordPress**
 **TWTFB**

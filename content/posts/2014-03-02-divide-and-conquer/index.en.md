@@ -4,6 +4,10 @@ date: 2014-03-02
 categories: ["Betty's Posts", "Miscellaneous"]
 tags: ["Film", "Medicine"]
 archive_url: "https://web.archive.org/web/20220501000000/http://www.thewaythefutureblogs.com/2014/03/divide-and-conquer/"
+prev_post_url: "/posts/2014-02-22-timebinding-with-fred-and-dave-truesdale/"
+prev_post_title: "Timebinding with Fred and Dave Truesdale"
+next_post_url: "/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/"
+next_post_title: "Peddling Books Through the Harmonic Convergence"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Timebinding with Fred and Dave Truesdale**
-**Peddling Books Through the Harmonic Convergence**
 
 ## Divide and Conquer
 
@@ -50,7 +52,9 @@ Ordinarily, games can be fun, but they can get to be tedious when they are unrel
 
 ### 2 Comments
 
-- Dan Gollubsays:When a country launches an attack against either a foreign country or its own populace, its television programs should have to show the suffering caused. Such programs might lead the residents of the country to protest and rebel against that use of force.March 2, 2014, 6:09 pm
+- Dan Gollub says:
+When a country launches an attack against either a foreign country or its own populace, its television programs should have to show the suffering caused. Such programs might lead the residents of the country to protest and rebel against that use of force.
+March 2, 2014, 6:09 pm
 - Stefan Jones says:
 I am a lifelong gamer, but the kind of games I enjoy tend to be of the “sandbox” variety, and role playing games of the Dungeons & Dragons sort. When I play a game like Civilization I go for the research / industrialization / diplomacy / cultural domination victory. War by soft power.
 I have never gotten into spectator sports, or competitive game shows, or the like. Boosterism and sneering at the other side’s fans . . . it is all very alien to me. Alien and kind of dismaying.

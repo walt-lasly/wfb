@@ -4,6 +4,10 @@ date: 2009-04-27
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Conventions", "Cooking", "Editors", "Food", "Hugo Awards", "Prozines", "Robert P. Mills"]
 archive_url: "https://web.archive.org/web/20110101000000/http://www.thewaythefutureblogs.com/2009/04/robert-p-mills/"
+prev_post_url: "/posts/2009-04-23-music-calendar/"
+prev_post_title: "Music Calendar"
+next_post_url: "/posts/2009-04-30-a-rose-by-any-other-name/"
+next_post_title: "A Rose By Any Other Name"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Music Calendar**
-**A Rose By Any Other Name**
 
 ## Robert P. Mills
 
@@ -36,8 +38,12 @@ It was impossible to dislike Bob; he was amiable and amusing and his wife made t
 
 ### 2 Comments
 
-- Todd Maosnsays:Mr. Pohl, you ascribe the same sentence to JWC, Jr. in the original edition of THE WAY THE FUTURE WAS. Not that I wouldn’t be convinced that both men might’ve felt the same way about their magazines.April 29, 2009, 6:06 pm
-- John DeChanciesays:Bob Mills was my first agent. I was a young and excitable writer; sometimes I’d blurt for five minutes straight on the phone to Bob, at the end of which Bob would ask patiently, “Can I talk now?” He handled my first short story sale and my first novel. I’ll always remember his kindnesses to a callow kid who was a bundle of nervous energy, tramping around NYC loudly telling anybody who wanted to know and everybody else that I was now officially a genuine, no-fooling writer. I visited Bob once in his apartment–never made it to his office. He was always solicitous and soft-spoken, brimming with anecdotes about famous writers and famous people whom I admired. It was a brief association: in a few months he sold his business, moved to California, retired–and suddenly died, of a heart attack, I heard. But I’ll always fondly remember Bob Mills.May 11, 2009, 10:27 am
+- Todd Maosn says:
+Mr. Pohl, you ascribe the same sentence to JWC, Jr. in the original edition of THE WAY THE FUTURE WAS. Not that I wouldn’t be convinced that both men might’ve felt the same way about their magazines.
+April 29, 2009, 6:06 pm
+- John DeChancie says:
+Bob Mills was my first agent. I was a young and excitable writer; sometimes I’d blurt for five minutes straight on the phone to Bob, at the end of which Bob would ask patiently, “Can I talk now?” He handled my first short story sale and my first novel. I’ll always remember his kindnesses to a callow kid who was a bundle of nervous energy, tramping around NYC loudly telling anybody who wanted to know and everybody else that I was now officially a genuine, no-fooling writer. I visited Bob once in his apartment–never made it to his office. He was always solicitous and soft-spoken, brimming with anecdotes about famous writers and famous people whom I admired. It was a brief association: in a few months he sold his business, moved to California, retired–and suddenly died, of a heart attack, I heard. But I’ll always fondly remember Bob Mills.
+May 11, 2009, 10:27 am
 
 **WordPress**
 **TWTFB**

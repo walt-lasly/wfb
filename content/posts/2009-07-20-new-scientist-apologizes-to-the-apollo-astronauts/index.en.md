@@ -4,6 +4,8 @@ date: 2009-07-20
 categories: ["Space"]
 tags: ["History", "Media"]
 archive_url: "https://web.archive.org/web/20190601000000/http://www.thewaythefutureblogs.com/2009/07/new-scientist-apologizes-to-the-apollo-astronauts/"
+next_post_url: "/posts/2009-08-17-little-known-fun-facts/"
+next_post_title: "Little Known Fun Facts"
 translated: false
 ---
 
@@ -12,8 +14,6 @@ translated: false
 
 Frederik Pohl
 
-**When Gaia Goes Wrong**
-**Little Known Fun Facts**
 
 ## New Scientist Apologizes to the Apollo Astronauts
 
@@ -30,7 +30,9 @@ So we accept your apology, Britain.  Now will you accept ours for the uncalled-f
 
 ### One Comment
 
-- Tony Earnshawsays:I was a schoolboy in England at the time of the Apollo landings.  How well I remember the derision that we hurled at New Scientist when we read its curmudgeonly editorial!  I recall, too, Frederik’s excellent rebuff that the magazine printed in its letters page shortly afterwards (”Really, New Scientist!”) - even then, Frederik’s prose was leaving its mark on my memory.August 20, 2009, 12:28 am
+- Tony Earnshaw says:
+I was a schoolboy in England at the time of the Apollo landings.  How well I remember the derision that we hurled at New Scientist when we read its curmudgeonly editorial!  I recall, too, Frederik’s excellent rebuff that the magazine printed in its letters page shortly afterwards (”Really, New Scientist!”) - even then, Frederik’s prose was leaving its mark on my memory.
+August 20, 2009, 12:28 am
 
 **WordPress**
 **TWTFB**

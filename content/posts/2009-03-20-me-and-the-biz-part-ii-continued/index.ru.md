@@ -4,6 +4,10 @@ date: 2009-03-20
 categories: ["Personal", "Travel"]
 tags: ["Agents", "Arnold Perl", "C.M. Kornbluth", "Films", "H.G. Wells", "H.N. Swanson", "Hollywood", "Joseph Conrad", "New York", "Rudyard Kipling", "Television"]
 archive_url: "https://web.archive.org/web/20090327075222/http://www.thewaythefutureblogs.com/2009/03/me-and-the-biz-2-continued/"
+prev_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+prev_post_title: "Me and the Biz, Part II"
+next_post_url: "/posts/2009-03-22-gracious-dining/"
+next_post_title: "Gracious Dining"
 translated: false
 ---
 

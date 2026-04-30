@@ -4,6 +4,10 @@ date: 2011-12-22
 categories: ["Miscellaneous"]
 tags: ["Economics", "Estee Lauder", "Ronald S. Lauder"]
 archive_url: "https://web.archive.org/web/20210801000000/http://www.thewaythefutureblogs.com/2011/12/lets-hear-it-for-the-worlds-362nd-richest-billionaire-ronald-s-lauder/"
+prev_post_url: "/posts/2011-12-20-the-poorest-set-a-new-all-time-record/"
+prev_post_title: "The Poorest Set a New All-Time Record!"
+next_post_url: "/posts/2011-12-23-get-ready-for-number-six/"
+next_post_title: "Get Ready for Number Six"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**The Poorest Set a New All-Time Record!**
-**Get Ready for Number Six**
 
 ## Let’s Hear it for the World’s 362nd Richest Billionaire — Ronald S. Lauder
 
@@ -35,9 +37,16 @@ Something else that interested me about that story was Lauder’s ranking as 362
 
 ### 3 Comments
 
-- TADsays:Fred: Did you see that the heads of JP Morgan/Chase and Home Depot (among others) are speaking out about their high incomes, saying that “it’s OK to be successful”? Apparently the CEO of JP Morgan/Chase is the highest-paid banking CEO in the country. So, yeah, it’s OK to be successful, BUT…. These guys Don’t Get It.December 22, 2011, 5:09 am
-- Stefan Jonessays:Nothing wrong with making money, or being rich. The problem is when it goes to your head and you end up imagining yourself as part of an aristocracy that owes nothing to society.December 23, 2011, 12:22 am
-- Jay Borcherdingsays:Some of those INDIVIDUAL billionaires have more wealth than the GDP of many UN members.  Assume $50 billion apiece for a Bill Gates or a Warren Buffett:  111 out of 183 nations have lower GDP than $50 billion according to the IMF, 118 out of 190 nations are in that category per the World Bank, and 116 out of 190 according to the CIA World Fact Book.One weird little anecdote that surprised me recently:  a single Intel chip plant in Costa Rica accounts for 9% of that nation’s total domestic output.  Nothing wrong with Intel, as a rule–good jobs, lots of spending on research, still does major investing and manufacturing here in the US.  So they’re one of the good guys, as big corporations  go–but it illustrates how major corporations and high-net worth individuals have a huge footprint in the world, dwarfing in some cases sovereign nations.December 23, 2011, 1:03 am
+- TAD says:
+Fred: Did you see that the heads of JP Morgan/Chase and Home Depot (among others) are speaking out about their high incomes, saying that “it’s OK to be successful”? Apparently the CEO of JP Morgan/Chase is the highest-paid banking CEO in the country. So, yeah, it’s OK to be successful, BUT…. These guys Don’t Get It.
+December 22, 2011, 5:09 am
+- Stefan Jones says:
+Nothing wrong with making money, or being rich. The problem is when it goes to your head and you end up imagining yourself as part of an aristocracy that owes nothing to society.
+December 23, 2011, 12:22 am
+- Jay Borcherding says:
+Some of those INDIVIDUAL billionaires have more wealth than the GDP of many UN members.  Assume $50 billion apiece for a Bill Gates or a Warren Buffett:  111 out of 183 nations have lower GDP than $50 billion according to the IMF, 118 out of 190 nations are in that category per the World Bank, and 116 out of 190 according to the CIA World Fact Book.   
+One weird little anecdote that surprised me recently:  a single Intel chip plant in Costa Rica accounts for 9% of that nation’s total domestic output.  Nothing wrong with Intel, as a rule–good jobs, lots of spending on research, still does major investing and manufacturing here in the US.  So they’re one of the good guys, as big corporations  go–but it illustrates how major corporations and high-net worth individuals have a huge footprint in the world, dwarfing in some cases sovereign nations.
+December 23, 2011, 1:03 am
 
 **WordPress**
 **TWTFB2**

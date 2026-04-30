@@ -4,6 +4,10 @@ date: 2013-12-23
 categories: ["Books", "Personal", "Writing"]
 tags: ["Advertising", "Agents", "Alfred Bester", "C.M. Kornbluth", "Dirk Wylie", "Editors", "Horace L. Gold", "Prozines", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20200501000000/http://www.thewaythefutureblogs.com/2013/12/the-story-of-the-space-merchants-part-2/"
+prev_post_url: "/posts/2013-12-21-trust-and-fear/"
+prev_post_title: "Trust and Fear"
+next_post_url: "/posts/2013-12-24-call-me-betty/"
+next_post_title: "Call Me Betty"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Trust and Fear**
-**Call Me Betty**
 
 ## The Story ofThe Space Merchants, Part 2
 
@@ -47,7 +49,7 @@ The   trouble with that very appealing idea was that running the literary agency
 
 **Related posts:**
 
-- **The Story of The Space Merchants**, **Part 1**
+- **The Story of The Space Merchants**, [**Part 1**](/posts/2013-12-18-the-story-of-the-space-merchants/)
 
 **WordPress**
 **TWTFB2**

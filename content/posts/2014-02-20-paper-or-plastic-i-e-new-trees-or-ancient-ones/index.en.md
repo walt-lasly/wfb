@@ -4,6 +4,10 @@ date: 2014-02-20
 categories: ["Betty's Posts", "Science"]
 tags: ["Ecology", "Elizabeth Anne Hull"]
 archive_url: "https://web.archive.org/web/20170401000000/http://www.thewaythefutureblogs.com/2014/02/paper-or-plastic-i-e-new-trees-or-ancient-ones/"
+prev_post_url: "/posts/2014-02-17-69-of-supermarket-pork-tainted/"
+prev_post_title: "69% of Supermarket Pork Tainted"
+next_post_url: "/posts/2014-02-22-timebinding-with-fred-and-dave-truesdale/"
+next_post_title: "Timebinding with Fred and Dave Truesdale"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**69% of Supermarket Pork Tainted**
-**Timebinding with Fred and Dave Truesdale**
 
 ## Paper or Plastic?  (i.e. New Trees or Ancient Ones?)
 
@@ -50,7 +52,9 @@ So I’m quite convinced that paper is not dead — yet.
 
 ### One Comment
 
-- pjcampsays:I know that, for me, I have a far greater tendency to skim and skip reading electronic text than reading text on a paper. Not really sure why that is nor how much of a training effect it represents.February 23, 2014, 1:19 am
+- pjcamp says:
+I know that, for me, I have a far greater tendency to skim and skip reading electronic text than reading text on a paper. Not really sure why that is nor how much of a training effect it represents.
+February 23, 2014, 1:19 am
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2009-02-09
 categories: ["Authors", "Personal", "Travel"]
 tags: ["Elizabeth Anne Hull", "French Polynesia", "Hayford Peirce", "Medicine", "Robert A. Heinlein", "The Way the Future Was", "Virginia Heinlein"]
 archive_url: "https://web.archive.org/web/20090316024048/http://www.thewaythefutureblogs.com/2009/02/greetings_from_s17_degrees/"
+prev_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
+prev_post_title: "Seventeen Days of Fox"
+next_post_url: "/posts/2009-02-11-farewell-nuku-hiva/"
+next_post_title: "Farewell, Nuku Hiva"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Seventeen Days of Fox**
-**Farewell, Nuku Hiva**
 
 ## Greetings from S17° 32.18′ W149° 34.17′
 
@@ -50,13 +52,21 @@ I got an immediate look of extreme displeasure from Ginny.  “Don’t mention t
 
 ### 6 Comments
 
-- Paulsays:Ah! I remember a part of this story from a bit in Heinlein’s Expanded Universe!February 9, 2009, 4:32 am
-- Jeffsays:I say to you, Gandalf, beware the inclines of Moorea.February 9, 2009, 8:39 am
-- Squidhelmetsays:This blog is always a great read.  Where else can you get first-hand anecdotes about SF grand masters randomly meeting on the same mysterious island? Tama’a maitai!February 9, 2009, 10:57 am
+- Paul says:
+Ah! I remember a part of this story from a bit in Heinlein’s Expanded Universe!
+February 9, 2009, 4:32 am
+- Jeff says:
+I say to you, Gandalf, beware the inclines of Moorea.
+February 9, 2009, 8:39 am
+- Squidhelmet says:
+This blog is always a great read.  Where else can you get first-hand anecdotes about SF grand masters randomly meeting on the same mysterious island? Tama’a maitai!
+February 9, 2009, 10:57 am
 - the blog team says:
 Er, randomly not meeting…. LAZ
 February 9, 2009, 1:01 pm
-- Fathercrowsays:Man I’d love the chance to fall off an island like that, but I’m guessing such climes are not exactly wheelchair accessible. Pity they haven’t come up with anti-gravity boots yet. (G)February 10, 2009, 3:54 pm
+- Fathercrow says:
+Man I’d love the chance to fall off an island like that, but I’m guessing such climes are not exactly wheelchair accessible. Pity they haven’t come up with anti-gravity boots yet. (G)
+February 10, 2009, 3:54 pm
 - kittent says:
 Thank you for this story.  I hope you are having a wonderful time. You will be missed at Capricon.
 (I’m halfway through The Last Theorem and totally delighted.)

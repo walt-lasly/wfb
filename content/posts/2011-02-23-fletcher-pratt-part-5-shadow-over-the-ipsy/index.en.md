@@ -4,6 +4,10 @@ date: 2011-02-23
 categories: ["Authors"]
 tags: ["Algis Budrys", "C.M. Kornbluth", "C.S. Lewis", "Dona Campbell", "Edna Budrys", "Evelyn del Rey", "Fletcher Pratt", "George O. Smith", "I.M. Stephens", "Joy Davidman", "Laurence Manning", "Lester del Rey", "Mary Kornbluth", "Religion", "William Lindsay Gresham"]
 archive_url: "https://web.archive.org/web/20170619230707/http://www.thewaythefutureblogs.com/2011/02/fletcher-pratt-part-5/"
+prev_post_url: "/posts/2011-02-21-bright-sayings-of-bright-people-no-10-mencken/"
+prev_post_title: "Bright Sayings of Bright People, No. 10: Mencken"
+next_post_url: "/posts/2011-02-25-fletcher-pratt-part-6/"
+next_post_title: "Fletcher Pratt, Part 6"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 10: Mencken**
-**Fletcher Pratt, Part 6**
 
 ## Fletcher Pratt, Part 5: Shadow Over the Ipsy
 
@@ -74,18 +76,33 @@ I did hear about him from time to time, and then,  some years later, the tabloid
 
 **Related posts:**
 
-- **Fletcher Pratt,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 6**
-- The Ipsy-Wipsy Institute
+- **Fletcher Pratt,** [**Part 1**](/posts/2010-12-07-fletcher-pratt/), [**Part 2**](/posts/2011-01-05-fletcher-pratt-part-2-the-place-where-things-happened/), [**Part 3**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), [**Part 4**](/posts/2011-02-04-fletcher-pratt-part-4-the-friends-of-fletcher/), [**Part 6**](/posts/2011-02-25-fletcher-pratt-part-6/)
+- [**The Ipsy-Wipsy Institute**](/posts/2011-07-30-the-ipsy-wipsy-institute/)
 
 
 ### 6 Comments
 
-- Chookiesays:Wikipedia suggests the impediment was more that a divorcee was an unacceptable choice to the Anglicans of the time.  In my diocese (Sydney, which is theologically conservative), ministers still have to ask the Archbishop’s permission to celebrate the marriage of a divorcee.Lewis and Davidman did marry eventually, but some of their friends (notably Tolkien, a Catholic) disapproved, again on the grounds that marriage was for life.  Gresham’s adultery must have been hushed up, because that would have been seen as proper grounds for divorce.February 23, 2011, 5:43 am
-- David B. Williamssays:It’s endlessly fascinating, how people can screw up their lives with abstract belief systems.You couldn’t write a story in which the characters had these motivations, because no one would think it was believable.February 23, 2011, 11:02 am
-- Mr. Ricesays:I never thought I would find Fletcher Pratt interestingFebruary 23, 2011, 1:12 pm
-- Michael Walshsays:The Kornbluths live in Long Branch?  Jeeze, so did my late aunt: Joline Ave near Ocean Ave.February 24, 2011, 4:21 pm
-- Terry O'Briensays:William Lindsey Gresham? I certainly didn’t expect to see that name here.I encountered Gresham, albeit from an oblique angle, way back in (I think) 1969. It was an article entitled “Secrets of the Sleep Merchants” that was included as part of an English reading lesson program. It was about the carny tricks stage hypnotists would use to on volunteers to make them more “suggestible”. For years afterward I tried to find the original publication but all I could remember was that it originally appeared in “True, the Men’s Magazine” sometime about 1955. It took a web search just a few years ago to discover the author (Gresham) and his agent, and a letter to the agent provided the actual publication information. After that, I simply kept checking eBay until that issue of the magazine appeared for sale and bought it at the first chance I had.February 26, 2011, 12:09 am
-- Bill Goodwinsays:It’s endlessly fascinating, how people can screw up their belief-systems with the fickle passions of mere life.  You couldn’t write a popular story where people aspired to higher things, because no one vulgar would find it believable….February 28, 2011, 2:58 am
+- Chookie says:
+Wikipedia suggests the impediment was more that a divorcee was an unacceptable choice to the Anglicans of the time.  In my diocese (Sydney, which is theologically conservative), ministers still have to ask the Archbishop’s permission to celebrate the marriage of a divorcee.
+Lewis and Davidman did marry eventually, but some of their friends (notably Tolkien, a Catholic) disapproved, again on the grounds that marriage was for life.  Gresham’s adultery must have been hushed up, because that would have been seen as proper grounds for divorce.
+February 23, 2011, 5:43 am
+- David B. Williams says:
+It’s endlessly fascinating, how people can screw up their lives with abstract belief systems.
+You couldn’t write a story in which the characters had these motivations, because no one would think it was believable.
+February 23, 2011, 11:02 am
+- Mr. Rice says:
+I never thought I would find Fletcher Pratt interesting
+February 23, 2011, 1:12 pm
+- Michael Walsh says:
+The Kornbluths live in Long Branch?  Jeeze, so did my late aunt: Joline Ave near Ocean Ave.
+February 24, 2011, 4:21 pm
+- Terry O'Brien says:
+William Lindsey Gresham? I certainly didn’t expect to see that name here.
+I encountered Gresham, albeit from an oblique angle, way back in (I think) 1969. It was an article entitled “Secrets of the Sleep Merchants” that was included as part of an English reading lesson program. It was about the carny tricks stage hypnotists would use to on volunteers to make them more “suggestible”. For years afterward I tried to find the original publication but all I could remember was that it originally appeared in “True, the Men’s Magazine” sometime about 1955. It took a web search just a few years ago to discover the author (Gresham) and his agent, and a letter to the agent provided the actual publication information. After that, I simply kept checking eBay until that issue of the magazine appeared for sale and bought it at the first chance I had.
+February 26, 2011, 12:09 am
+- Bill Goodwin says:
+It’s endlessly fascinating, how people can screw up their belief-systems with the fickle passions of mere life.  You couldn’t write a popular story where people aspired to higher things, because no one vulgar would find it believable….
+February 28, 2011, 2:58 am
 
 **WordPress**
 **TWTFB2**

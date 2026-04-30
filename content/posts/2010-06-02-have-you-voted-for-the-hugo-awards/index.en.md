@@ -4,6 +4,10 @@ date: 2010-06-02
 categories: ["Personal"]
 tags: ["Conventions", "Hugo Awards", "Worldcons"]
 archive_url: "https://web.archive.org/web/20111110023952/http://www.thewaythefutureblogs.com/2010/06/have-you-voted-for-the-hugo-awards/"
+prev_post_url: "/posts/2010-05-28-why-i-love-the-new-york-times-magazine/"
+prev_post_title: "Why I love the New York Times Magazine"
+next_post_url: "/posts/2010-06-04-all-right-you-got-me/"
+next_post_title: "All Right, You Got Me!"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Why I love the New York Times Magazine**
-**All Right, You Got Me!**
 
 ## Have you voted for the Hugo Awards?
 
@@ -46,10 +48,22 @@ Go, Fred!
 
 ### 4 Comments
 
-- Briansays:Thanks for telling us about this! Mr. Pohl, you’re too modest for your own good. I love this blog and look forward to your posts — I can’t think of anyone more deserving of this honor.I also think that there’s something really nice about a fan growing up to be an award-winning author and then continuing on to win an award (I hope!) for writing as a fan. Your nomination reminds us that the pro and fannish sides of science fiction are constantly overlapping, and have done so since the very beginning. The entire community is stronger and more creative and more vibrant because if it. It’s also a lot more fun.Best of luck!June 2, 2010, 7:32 pm
-- Michael A. Bursteinsays:I was wondering if someone was going to mention this. Congratulations!June 3, 2010, 11:21 am
-- Brucesays:I can only hope you’re healthy enough to travel to accept the award in Australia!June 7, 2010, 8:18 pm
-- Karen Andersonsays:Ah, I see the comment I put up in the wrong place has been put where it should have been; my thanks to who/whatever took care of it.Congratulations on the Fan Hugo nomination! I’d vote for you, if I were going to vote at all. I’m not — dammit — going to Australia; and I can’t see buying a ballot when I’ve seen so few of the works nominated.The only upcoming conventions I’m planning on are local: WesterConChord in Pasadena, where I’ll be filk singing, and LosCon in Los Angeles where I’ll also doubtless be on assorted panels. And, of course, hanging out in the bar by day, partying by night.June 22, 2010, 11:58 pm
+- Brian says:
+Thanks for telling us about this! Mr. Pohl, you’re too modest for your own good. I love this blog and look forward to your posts — I can’t think of anyone more deserving of this honor. 
+I also think that there’s something really nice about a fan growing up to be an award-winning author and then continuing on to win an award (I hope!) for writing as a fan. Your nomination reminds us that the pro and fannish sides of science fiction are constantly overlapping, and have done so since the very beginning. The entire community is stronger and more creative and more vibrant because if it. It’s also a lot more fun. 
+Best of luck!
+June 2, 2010, 7:32 pm
+- Michael A. Burstein says:
+I was wondering if someone was going to mention this. Congratulations!
+June 3, 2010, 11:21 am
+- Bruce says:
+I can only hope you’re healthy enough to travel to accept the award in Australia!
+June 7, 2010, 8:18 pm
+- Karen Anderson says:
+Ah, I see the comment I put up in the wrong place has been put where it should have been; my thanks to who/whatever took care of it.
+Congratulations on the Fan Hugo nomination! I’d vote for you, if I were going to vote at all. I’m not — dammit — going to Australia; and I can’t see buying a ballot when I’ve seen so few of the works nominated. 
+The only upcoming conventions I’m planning on are local: WesterConChord in Pasadena, where I’ll be filk singing, and LosCon in Los Angeles where I’ll also doubtless be on assorted panels. And, of course, hanging out in the bar by day, partying by night.
+June 22, 2010, 11:58 pm
 
 **WordPress**
 **TWTFB**

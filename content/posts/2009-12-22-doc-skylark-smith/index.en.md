@@ -4,6 +4,10 @@ date: 2009-12-22
 categories: ["Authors", "Books", "Personal", "Space", "Travel"]
 tags: ["Albert Trestrail", "E.E. ‘Doc’ Smith", "Edgar Rice Burroughs", "Elizabeth Anne Hull", "Food", "H.G. Wells", "Isaac Asimov", "Jean Smith", "John W. Campbell", "Lee Hawkins Garby", "Prozines", "Verna Smith Trestrail"]
 archive_url: "https://web.archive.org/web/20111012144501/http://www.thewaythefutureblogs.com/2009/12/doc-skylark-smith/"
+prev_post_url: "/posts/2009-12-20-how-to-bring-peace-to-the-world/"
+prev_post_title: "How to Bring Peace to the World"
+next_post_url: "/posts/2009-12-24-lem-s-opera/"
+next_post_title: "Lem’s Opera"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**How to Bring Peace to the World**
-**Lem’s Opera**
 
 ## Doc “Skylark” Smith
 
@@ -80,19 +82,63 @@ Reluctantly I gave up the idea, but it would have been fun.
 
 ### 13 Comments
 
-- Robert Nowallsays:I’m delighted with this segment.  By the time I came along, most of these “titans of the SF field” were gone, and what I know about them *as people* comes from what I can mine from the reminiscing of those who knew them.  Very few SF writers will ever have massive doorstopper biographies in every library and bookstore.  I still have copies of their works (though they’re getting harder to find as each year goes by).  But unless somebody does something like this, I don’t know who they *were.*(And I appreciate the sense of bygone times—I guess I-4, Tampa-to-Orlando-to-Daytona (and then down to Cape Canaveral on I-95) hadn’t yet been built.)December 22, 2009, 5:23 am
-- Mike Woodhousesays:Oh my - E.E. ‘Doc’ Smith had never been in a plane? Fabulous. Reading the above, I was suddenly hurled back to the 60s. I wanted to be Kimball Kinnison. That, with a healthy (?) dose of Tom Swift books, was my introduction to SF. Pretty significant stuff.December 22, 2009, 5:38 am
-- David Dyer-Bennetsays:Doc Smith captured my heart early, about the only one of his generation of SF writers to really click for me (Campbell’s authors were mainly who I imprinted on), and I still read his books a lot.  I love to hear about him, since he was solidly gone from the scene before I got into fandom, I don’t know many people who knew him.December 22, 2009, 7:43 am
-- Stefan Jonessays:The above essay has told more about Smith than I’ve picked up in the last 30 years. I’m looking forward to Part II.Smith’s work was well on its way to being Cornball Anachronism stuff by the time I read it, but I still loved it.Last year I loaded a public-domain copy of “Triplanetary” (w/o the Lensmen tie-ins) on one of those one-laptop-per-child computers and read it during a plane trip. Perfect way to pass the time.December 22, 2009, 12:43 pm
-- Scott Haugersays:Fred:Thought you would be interested to know — I just got back from 2 weeks in China.  All of my usual websites that I visit were available there except one.  Yep, The Way the Future Blogs is apparently blocked in PRC.ScottDecember 22, 2009, 6:04 pm
-- Dr. Psychosays:I enjoyed Doc Smith’s novels immensely, and wouldn’t mind if there were another one out there for me to discover [Skylark of Arisia, perhaps?], but now I have a real hankering to try his doughnuts, made from recipes that “not only specified what kind of wheat to use and how to grind the flour, but even at what time of year the crop should have been planted.”Goodness me, the secrets of the ancient ones which we have allowed to slip through our fingers….December 24, 2009, 2:04 am
-- Jim Meadowssays:I didn’t catch Doc Smith at the right time of life to really enjoy him. But when I read “The Skylark of Space”, I saw what he brought to science fiction — the concept that space travel could be a given, allowing writers and readers to get past the we’re-going-to-the-moon business, and get down to some real adventures.I think the key breakthrough point comes in “The Skylark of Space”, where Richard Seaton, having gotten his backyard rocket ship off the ground with the help of the radioactive mystery element X, casually looks at the speedometer and is surprised to see that he actually traveling several times the speed of light. “I guess Einstein was wrong”, he exclaims, if my memory serves. It’s a small step over any complaints about scientific plausibility, but a giant leap to all the space opera we’ve been enjoying for the last 90 years.December 30, 2009, 10:29 pm
-- Bill Higgins-- Beam Jockeysays:\"His particular specialty was in food chemistry, with particular attention to the chemistry of the doughnut, but wheaten edibles of all kinds were within his purview.\"The late fan who went by the name \"Gharlane of Eddore\" told me that he once heard Doc Smith speak at an SF convention.  Someone asked Doc about his favorite achievement in the food-chemistry business.He was proudest of a formula he\’d invented for a doughnut mix made from potato flour.So his purview extended beyond mere wheaten edibles…(I was led to investigate whether Doc had any connection with a chain of potato-doughnut shops named Spudnuts.  The answer turned out to be \"no,\" but that\’s a story for another time.)January 5, 2010, 9:21 am
-- Bill Higgins-- Beam Jockeysays:Robert Nowall writes:“Very few SF writers will ever have massive doorstopper biographies in every library and bookstore.”Speaking of which, William Patterson’s biography of Heinlein is due out from Tor this year– half of it, at least.  Amazon gives the title as “Robert A. Heinlein: Volume 1 (1907-1949): Learning Curve.”Publication date is listed as 17 August 2010.  No word on when the second volume might be published.January 5, 2010, 9:27 am
-- Robert Nowallsays:“Robert A. Heinlein: Volume 1 (1907-1949): Learning Curve.”Great!  I’ve been waiting for a biography of Heinlein for years now.  (But I’m suspicious of multi-volume biographies unless they’re published all at once—Robert Caro promised the next volume of his Lyndon Johnson sometime in the next century, and the second volume of of Gary Gidding’s biography of Bing Crosby apparently crashed in a publishing dispute.)January 6, 2010, 6:21 am
-- Stephen Lucchettisays:Doc never had anything to do with Spudnuts BUT he did work for Dawn Donuts our of Jackson Michigan for a number of years.  Somewhere I’ve got a FAX copy of at least one of his the recipe cards that he reused when sending book comments to a friend.– Stephen LucchettiYpsilanti, MichiganJanuary 12, 2010, 10:51 am
-- Christian Nausays:I loved the lensmen series when I was first introduced to them around the age of 15.  I actually have an embarrassing memory of me writing up, very earnestly, a description of the physics used in the lensmen universe for a 9th grade physics assignment. For example, some of the ideas I wrote about were: inertial dampers, multiples of the speed of light, teardrop designs because at those speeds even spaceships needed to be aerodynamic.  I don’t know what my teacher thought of it, but I didn’t score very well on the assignment.January 25, 2010, 1:00 pm
-- Michael Walshsays:Egads!  Need more Smith!How about how you managed to land \"Skylark Duquesne\" ?January 18, 2011, 5:09 pm
+- Robert Nowall says:
+I’m delighted with this segment.  By the time I came along, most of these “titans of the SF field” were gone, and what I know about them *as people* comes from what I can mine from the reminiscing of those who knew them.  Very few SF writers will ever have massive doorstopper biographies in every library and bookstore.  I still have copies of their works (though they’re getting harder to find as each year goes by).  But unless somebody does something like this, I don’t know who they *were.*
+(And I appreciate the sense of bygone times—I guess I-4, Tampa-to-Orlando-to-Daytona (and then down to Cape Canaveral on I-95) hadn’t yet been built.)
+December 22, 2009, 5:23 am
+- Mike Woodhouse says:
+Oh my - E.E. ‘Doc’ Smith had never been in a plane? Fabulous. Reading the above, I was suddenly hurled back to the 60s. I wanted to be Kimball Kinnison. That, with a healthy (?) dose of Tom Swift books, was my introduction to SF. Pretty significant stuff.
+December 22, 2009, 5:38 am
+- David Dyer-Bennet says:
+Doc Smith captured my heart early, about the only one of his generation of SF writers to really click for me (Campbell’s authors were mainly who I imprinted on), and I still read his books a lot.  I love to hear about him, since he was solidly gone from the scene before I got into fandom, I don’t know many people who knew him.
+December 22, 2009, 7:43 am
+- Stefan Jones says:
+The above essay has told more about Smith than I’ve picked up in the last 30 years. I’m looking forward to Part II.
+Smith’s work was well on its way to being Cornball Anachronism stuff by the time I read it, but I still loved it.
+Last year I loaded a public-domain copy of “Triplanetary” (w/o the Lensmen tie-ins) on one of those one-laptop-per-child computers and read it during a plane trip. Perfect way to pass the time.
+December 22, 2009, 12:43 pm
+- Scott Hauger says:
+Fred:
+Thought you would be interested to know — I just got back from 2 weeks in China.  All of my usual websites that I visit were available there except one.  Yep, The Way the Future Blogs is apparently blocked in PRC.
+Scott
+December 22, 2009, 6:04 pm
+- Dr. Psycho says:
+I enjoyed Doc Smith’s novels immensely, and wouldn’t mind if there were another one out there for me to discover [Skylark of Arisia, perhaps?], but now I have a real hankering to try his doughnuts, made from recipes that “not only specified what kind of wheat to use and how to grind the flour, but even at what time of year the crop should have been planted.”
+Goodness me, the secrets of the ancient ones which we have allowed to slip through our fingers….
+December 24, 2009, 2:04 am
+- Jim Meadows says:
+I didn’t catch Doc Smith at the right time of life to really enjoy him. But when I read “The Skylark of Space”, I saw what he brought to science fiction — the concept that space travel could be a given, allowing writers and readers to get past the we’re-going-to-the-moon business, and get down to some real adventures.
+   I think the key breakthrough point comes in “The Skylark of Space”, where Richard Seaton, having gotten his backyard rocket ship off the ground with the help of the radioactive mystery element X, casually looks at the speedometer and is surprised to see that he actually traveling several times the speed of light. “I guess Einstein was wrong”, he exclaims, if my memory serves. It’s a small step over any complaints about scientific plausibility, but a giant leap to all the space opera we’ve been enjoying for the last 90 years.
+December 30, 2009, 10:29 pm
+- Bill Higgins-- Beam Jockey says:
+\"His particular specialty was in food chemistry, with particular attention to the chemistry of the doughnut, but wheaten edibles of all kinds were within his purview.\"
+The late fan who went by the name \"Gharlane of Eddore\" told me that he once heard Doc Smith speak at an SF convention.  Someone asked Doc about his favorite achievement in the food-chemistry business.
+He was proudest of a formula he\’d invented for a doughnut mix made from potato flour.  
+So his purview extended beyond mere wheaten edibles…
+(I was led to investigate whether Doc had any connection with a chain of potato-doughnut shops named Spudnuts.  The answer turned out to be \"no,\" but that\’s a story for another time.)
+January 5, 2010, 9:21 am
+- Bill Higgins-- Beam Jockey says:
+Robert Nowall writes:
+“Very few SF writers will ever have massive doorstopper biographies in every library and bookstore.”
+Speaking of which, William Patterson’s biography of Heinlein is due out from Tor this year– half of it, at least.  Amazon gives the title as “Robert A. Heinlein: Volume 1 (1907-1949): Learning Curve.”
+Publication date is listed as 17 August 2010.  No word on when the second volume might be published.
+January 5, 2010, 9:27 am
+- Robert Nowall says:
+“Robert A. Heinlein: Volume 1 (1907-1949): Learning Curve.”
+Great!  I’ve been waiting for a biography of Heinlein for years now.  (But I’m suspicious of multi-volume biographies unless they’re published all at once—Robert Caro promised the next volume of his Lyndon Johnson sometime in the next century, and the second volume of of Gary Gidding’s biography of Bing Crosby apparently crashed in a publishing dispute.)
+January 6, 2010, 6:21 am
+- Stephen Lucchetti says:
+Doc never had anything to do with Spudnuts BUT he did work for Dawn Donuts our of Jackson Michigan for a number of years.  Somewhere I’ve got a FAX copy of at least one of his the recipe cards that he reused when sending book comments to a friend.
+– Stephen Lucchetti
+   Ypsilanti, Michigan
+January 12, 2010, 10:51 am
+- Christian Nau says:
+I loved the lensmen series when I was first introduced to them around the age of 15.  I actually have an embarrassing memory of me writing up, very earnestly, a description of the physics used in the lensmen universe for a 9th grade physics assignment. For example, some of the ideas I wrote about were: inertial dampers, multiples of the speed of light, teardrop designs because at those speeds even spaceships needed to be aerodynamic.  I don’t know what my teacher thought of it, but I didn’t score very well on the assignment.
+January 25, 2010, 1:00 pm
+- Michael Walsh says:
+Egads!  Need more Smith!  
+How about how you managed to land \"Skylark Duquesne\" ?
+January 18, 2011, 5:09 pm
 
 **WordPress**
 **TWTFB**

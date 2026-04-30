@@ -4,6 +4,10 @@ date: 2012-05-12
 categories: ["Science"]
 tags: ["Gustavo Caetano-Anolles", "History", "Paleontology"]
 archive_url: "https://web.archive.org/web/20210801000000/http://www.thewaythefutureblogs.com/2012/05/happy-mothers-day-lucawith-love-from-us-all-and-i-mean-all/"
+prev_post_url: "/posts/2012-05-10-consequences/"
+prev_post_title: "Consequences"
+next_post_url: "/posts/2012-05-13-bright-sayings-of-bright-people-no-32/"
+next_post_title: "Bright Sayings of Bright People, No. 32"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Consequences**
-**Bright Sayings of Bright People, No. 32**
 
 ## Happy Mother’s Day, LUCAWith love from us all — and I mean all!
 
@@ -40,11 +42,20 @@ Everywhere
 
 ### 3 Comments
 
-- Chookie Inthebackyardsays:“…I can trace my ancestry back to a protoplasmal primordial atomic globule. Consequently, my family pride is something inconceivable.” — Pooh-Bah, The Mikado.May 13, 2012, 7:06 am
+- Chookie Inthebackyard says:
+“…I can trace my ancestry back to a protoplasmal primordial atomic globule. Consequently, my family pride is something inconceivable.” — Pooh-Bah, The Mikado.
+May 13, 2012, 7:06 am
 - H. E. Parmer says:
 Looks like Huxley and his Urschleim get the last laugh, after all.
 May 18, 2012, 10:55 pm
-- Bill Goodwinsays:Mairzy doats and dozy doats,But all three are eukaryotes,Bacteria and other cladesPerform yet weirder promenades,But past all branching moms and dadsSits LUCA, exclaiming: “These kids and their fads!”May 19, 2012, 6:16 am
+- Bill Goodwin says:
+Mairzy doats and dozy doats,
+But all three are eukaryotes,
+Bacteria and other clades
+Perform yet weirder promenades,
+But past all branching moms and dads
+Sits LUCA, exclaiming: “These kids and their fads!”
+May 19, 2012, 6:16 am
 
 **WordPress**
 **TWTFB2**

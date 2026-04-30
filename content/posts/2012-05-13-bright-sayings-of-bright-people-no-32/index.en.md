@@ -4,6 +4,10 @@ date: 2012-05-13
 categories: ["Science"]
 tags: ["Metrodorus", "Quotations"]
 archive_url: "https://web.archive.org/web/20180601000000/http://www.thewaythefutureblogs.com/2012/05/bright-sayings-no-32/"
+prev_post_url: "/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/"
+prev_post_title: "Happy Mother’s Day, LUCAWith love from us all — and I mean all!"
+next_post_url: "/posts/2012-05-15-blog-helper-out-gets-degree/"
+next_post_title: "Blog Helper-Out Gets Degree"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Happy Mother’s Day, LUCAWith love from us all — and I mean all!**
-**Blog Helper-Out Gets Degree**
 
 ## Bright Sayings of Bright People, No. 32
 
@@ -26,7 +28,9 @@ Frederik Pohl
 
 ### One Comment
 
-- Dan Gollubsays:If he’d lived in the present time, he might have become an astronomer.May 13, 2012, 2:33 pm
+- Dan Gollub says:
+If he’d lived in the present time, he might have become an astronomer.
+May 13, 2012, 2:33 pm
 
 **WordPress**
 **TWTFB2**

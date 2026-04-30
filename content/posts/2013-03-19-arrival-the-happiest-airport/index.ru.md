@@ -4,6 +4,10 @@ date: 2013-03-19
 categories: ["Travel"]
 tags: ["C.M. Kornbluth", "Clubs", "Conventions", "Darko Suvin", "Jack Williamson", "James Gunn", "Martin H. Greenberg", "Patrice Duvic", "Robert A. Heinlein", "Sashiko Shibano", "Science Fiction Research Association", "SFWA", "Takumi Shibano", "The Space Merchants", "Worldcons", "Yuli Kagarlitsky"]
 archive_url: "https://web.archive.org/web/20160101000000/http://www.thewaythefutureblogs.com/2013/03/arrival-the-happiest-airport/"
+prev_post_url: "/posts/2013-03-18-we-re-back/"
+prev_post_title: "We’re back!"
+next_post_url: "/posts/2013-03-22-arrival-part-2-heinlein-stories/"
+next_post_title: "Arrival, Part 2: Heinlein Stories"
 translated: false
 ---
 

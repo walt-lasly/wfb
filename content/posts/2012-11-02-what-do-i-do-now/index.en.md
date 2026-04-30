@@ -4,6 +4,10 @@ date: 2012-11-02
 categories: ["Miscellaneous"]
 tags: ["Barack Obama", "Ecology", "Mitt Romney", "Politics"]
 archive_url: "https://web.archive.org/web/20180201000000/http://www.thewaythefutureblogs.com/2012/11/what-do-i-do-now/"
+prev_post_url: "/posts/2012-10-30-reading-congress-s-mail/"
+prev_post_title: "Reading Congress’s Mail"
+next_post_url: "/posts/2012-11-04-profits-over-patriotism/"
+next_post_title: "Profits Over Patriotism"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Reading Congress’s Mail**
-**Profits Over Patriotism**
 
 ## What Do I Do Now?
 
@@ -71,7 +73,9 @@ And you can call any legislator you voted for and ask him what he plans to do ab
 
 ### 11 Comments
 
-- Shakatanysays:Well as a female I wouldn’t vote for a Republican if they were the last people on Earth. Legitimate rape my aunt fannyNovember 2, 2012, 10:26 pm
+- Shakatany says:
+Well as a female I wouldn’t vote for a Republican if they were the last people on Earth. Legitimate rape my aunt fanny 
+November 2, 2012, 10:26 pm
 - Stefan Jones says:
 Something I’ve noticed.
 It is an article of faith among conservatives* that the deficit and the debt are bad things. The standard rhetoric: If this goes on any longer the economy will be ruined and our grandchildren reduced to penury. Our children, or our grandchildren figure heavily in speeches and talking points.
@@ -80,15 +84,45 @@ While Democrats do acknowledge the debt is a problem (if one that can be address
 Which boils down to: Democrats seem to be more generally practical about things. 
 * Well, at least it is now . . . the Bush administration didn’t seem to mind them, in practice if not ideology, as long as the right people were benefiting from the unsupportable spending.)
 November 2, 2012, 10:56 pm
-- Miles Archersays:Look, I’m not a global warming denier, but you think the dems can control global climate? What the heck are you smoking?November 3, 2012, 11:09 am
-- springjacksays:Agreed and done.November 3, 2012, 4:05 pm
-- Dan Gollubsays:Perhaps the government could provide tax credit proportional to how near people live to their job. That could reduce gas usage.November 4, 2012, 6:47 am
-- john millersays:“The United States Hurricane Problem”“During the 70’s and 80’s, major hurricanes striking the United States were less frequent than the previous three decades. With the tremendous increase in population along the high risk areas of our shorelines, we may not fare as well in the future. This will be especially true when hurricane activity inevitably returns to the frequencies experienced during the 40’s through the 60’s.”“Inevitably”! Huh, not very scientific eh?This is from the NOAA, who have to admit that hurricanes are less frequent than they were, but have to continue the climate change hysteria by assuring us that hurricanes will become more frequent in the future.If that’s what passes for science nowadays, include me out…November 4, 2012, 7:21 am
-- Lamont Cranstonsays:Its been widely predicted until recently that the Arctic summer sea ice could be completely gone by 2050. However increases in the annual melt over the past several years have led to a dramatic revision of that prediction to 2020. And the response of authorities? Lets use this as an opportunity to drill for oil and get 100 years more fossil fuels! The very thing responsible for this, lets keep burning it some more because when you’re stuck in a hole the best way out is to dig deeper!This is coming from the Obama administration.He is no better than Romney on the environment.Miller: the modeling predicts fewer hurricanes, but those that occur will be more powerful.November 4, 2012, 4:31 pm
-- Nestorsays:Stefan, faith is the right word. Earthquakes, hurricanes, all that is God’s business. Therefore any implication that our activity affects it (Other than as punishment for our sinful decadent ways) comes off as heresy to the fundamentalist set, and they have an inordinate influence in the GOP.November 4, 2012, 4:32 pm
-- Kensays:I’m surprised you didn’t take your friend’s offer to become a corpse-sickle just to see if we pack-o-pinheads save ourselves from ourselves. Would you wake up in a sunlit room with the window open and a normal temperature summer breeze wafting in? Or would you wake up deep underground in a fluorescent-lit windowless box?On second thought forget the deep freeze, that second scenario is all too scary and possible. I’ll be voting Democrat, but I sure wish Obama would grow a pair and get tough with those tea-bag idiots across the aisle.November 4, 2012, 8:31 pm
-- Luciussays:Thanks for speaking out on this issue Mr. Pohl.  When some 97% of scientists concur that global warming is real and that its likely cause is, as you say, the “profligate burning of fossil fuels” for the past 150 years or so, well, then it’s time to accept the facts.  If 97% of scientists said that smoking caused cancer, you’d be a fool not to take them seriously.The problem, as I see it, is that politicians are both stricken with inertia and zealous defenders of the status quo. And given the polarization of the past 4 years it’s not clear that the government can actually function to get anything done, certainly nothing by way of reform. Politicians also feed at the corporate trough into which Big Oil pours a never ending stream of cash for legislative favors.  Getting our civilization off the oil teat is going to take some doing. The way governement can help is by transfering its generous subsidies and tax breaks away from Big Oil to green, renewable energy research and development, but I’m not holding my breath.Thankfully, there are organizations such as Bill McKibben’s 350.org and others that are putting climate change front and center, and it is possible that Obama will, at the least, call attention to this issue in his second term.  What’s he go to lose?November 12, 2012, 4:06 pm
-- baldguysays:You’ve certainly earned the right to say anything you like, Mr. Pohl. You are a wonderful living legend.But politics seriously, seriously sucks. All of it. Left, right, MOR. It all sucks. And, IMHO, it shouldn’t be brought up among civilized humans. And with that, I’ll stop talking about it.May you be blogging away twenty years from now, sir.November 18, 2012, 11:17 am
+- Miles Archer says:
+Look, I’m not a global warming denier, but you think the dems can control global climate? What the heck are you smoking?
+November 3, 2012, 11:09 am
+- springjack says:
+Agreed and done.
+November 3, 2012, 4:05 pm
+- Dan Gollub says:
+Perhaps the government could provide tax credit proportional to how near people live to their job. That could reduce gas usage.
+November 4, 2012, 6:47 am
+- john miller says:
+“The United States Hurricane Problem”
+“During the 70’s and 80’s, major hurricanes striking the United States were less frequent than the previous three decades. With the tremendous increase in population along the high risk areas of our shorelines, we may not fare as well in the future. This will be especially true when hurricane activity inevitably returns to the frequencies experienced during the 40’s through the 60’s.”
+“Inevitably”! Huh, not very scientific eh?
+This is from the NOAA, who have to admit that hurricanes are less frequent than they were, but have to continue the climate change hysteria by assuring us that hurricanes will become more frequent in the future.
+If that’s what passes for science nowadays, include me out…
+November 4, 2012, 7:21 am
+- Lamont Cranston says:
+Its been widely predicted until recently that the Arctic summer sea ice could be completely gone by 2050. However increases in the annual melt over the past several years have led to a dramatic revision of that prediction to 2020. And the response of authorities? Lets use this as an opportunity to drill for oil and get 100 years more fossil fuels! The very thing responsible for this, lets keep burning it some more because when you’re stuck in a hole the best way out is to dig deeper!
+This is coming from the Obama administration.
+He is no better than Romney on the environment.
+Miller: the modeling predicts fewer hurricanes, but those that occur will be more powerful.
+November 4, 2012, 4:31 pm
+- Nestor says:
+Stefan, faith is the right word. Earthquakes, hurricanes, all that is God’s business. Therefore any implication that our activity affects it (Other than as punishment for our sinful decadent ways) comes off as heresy to the fundamentalist set, and they have an inordinate influence in the GOP.
+November 4, 2012, 4:32 pm
+- Ken says:
+I’m surprised you didn’t take your friend’s offer to become a corpse-sickle just to see if we pack-o-pinheads save ourselves from ourselves. Would you wake up in a sunlit room with the window open and a normal temperature summer breeze wafting in? Or would you wake up deep underground in a fluorescent-lit windowless box? 
+On second thought forget the deep freeze, that second scenario is all too scary and possible. I’ll be voting Democrat, but I sure wish Obama would grow a pair and get tough with those tea-bag idiots across the aisle.
+November 4, 2012, 8:31 pm
+- Lucius says:
+Thanks for speaking out on this issue Mr. Pohl.  When some 97% of scientists concur that global warming is real and that its likely cause is, as you say, the “profligate burning of fossil fuels” for the past 150 years or so, well, then it’s time to accept the facts.  If 97% of scientists said that smoking caused cancer, you’d be a fool not to take them seriously.
+The problem, as I see it, is that politicians are both stricken with inertia and zealous defenders of the status quo. And given the polarization of the past 4 years it’s not clear that the government can actually function to get anything done, certainly nothing by way of reform. Politicians also feed at the corporate trough into which Big Oil pours a never ending stream of cash for legislative favors.  Getting our civilization off the oil teat is going to take some doing. The way governement can help is by transfering its generous subsidies and tax breaks away from Big Oil to green, renewable energy research and development, but I’m not holding my breath.
+Thankfully, there are organizations such as Bill McKibben’s 350.org and others that are putting climate change front and center, and it is possible that Obama will, at the least, call attention to this issue in his second term.  What’s he go to lose?
+November 12, 2012, 4:06 pm
+- baldguy says:
+You’ve certainly earned the right to say anything you like, Mr. Pohl. You are a wonderful living legend.
+But politics seriously, seriously sucks. All of it. Left, right, MOR. It all sucks. And, IMHO, it shouldn’t be brought up among civilized humans. And with that, I’ll stop talking about it.
+May you be blogging away twenty years from now, sir. 
+November 18, 2012, 11:17 am
 
 **WordPress**
 **TWTFB2**

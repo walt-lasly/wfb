@@ -4,6 +4,10 @@ date: 2010-06-11
 categories: ["Authors", "Personal"]
 tags: ["C.M. Kornbluth", "Chester Cohen", "Clubs", "Damon Knight", "Dogs", "Fred Allen", "Futurians", "Great Depression", "Jack Benny", "Jack Gillespie", "Media", "New York", "Robert A.W. Lowndes"]
 archive_url: "https://web.archive.org/web/20180601000000/http://www.thewaythefutureblogs.com/2010/06/what-made-the-futurians-laugh-the-shaggy-dog-story/"
+prev_post_url: "/posts/2010-06-08-more-about-sir-arthur-c-clarke/"
+prev_post_title: "More about Sir Arthur C. Clarke"
+next_post_url: "/posts/2009-01-01-elizabeth-anne-hull/"
+next_post_title: "More aboutGateways"
 translated: false
 ---
 

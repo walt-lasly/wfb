@@ -4,6 +4,10 @@ date: 2011-07-29
 categories: ["Science"]
 tags: ["Arnold Gundersen", "Ecology", "Japan"]
 archive_url: "https://web.archive.org/web/20120601000000/http://www.thewaythefutureblogs.com/2011/07/twenty-chernobyls/"
+prev_post_url: "/posts/2011-07-28-my-life-as-book-editor-for-popular-science/"
+prev_post_title: "My Life as Book Editor for Popular Science"
+next_post_url: "/posts/2011-07-30-the-ipsy-wipsy-institute/"
+next_post_title: "The Ipsy-Wipsy Institute"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**My Life as Book Editor for Popular Science**
-**The Ipsy-Wipsy Institute**
 
 ## Twenty Chernobyls
 
@@ -37,10 +39,18 @@ We are already seeing strontium at 250 times the allowable limits in the water t
 
 ### 4 Comments
 
-- Chris McKittericksays:This is horrifying.July 29, 2011, 1:51 pm
-- Dan Gollubsays:In the novel I’ve written, I have a character note the strange and puzzling correlation between sunspot cycles and the increased decay of radioactive particles, and then he speculates about the possible effect of putting radioactive material in a chamber in which it would be exposed to extreme magnetic field fluctuations and also to temperature fluctuations ranging from near absolute zero to a point where the radioactive material is almost melting. Would the combined effect of those fluctuations affect the decay process? The character laughs and says perhaps the only effect is that he might be a bit manic in hoping for such an outcome.July 29, 2011, 6:59 pm
-- TADsays:Why do you suppose CNN hasn’t reported THIS part of the story? Too complex for the average American viewer to grasp…?July 30, 2011, 3:43 am
-- Chookie Inthebackyardsays:It’s very childish of me, but I want the senior management of Tepco to head in there themselves to collect the gooey stuff.July 31, 2011, 8:19 am
+- Chris McKitterick says:
+This is horrifying.
+July 29, 2011, 1:51 pm
+- Dan Gollub says:
+In the novel I’ve written, I have a character note the strange and puzzling correlation between sunspot cycles and the increased decay of radioactive particles, and then he speculates about the possible effect of putting radioactive material in a chamber in which it would be exposed to extreme magnetic field fluctuations and also to temperature fluctuations ranging from near absolute zero to a point where the radioactive material is almost melting. Would the combined effect of those fluctuations affect the decay process? The character laughs and says perhaps the only effect is that he might be a bit manic in hoping for such an outcome.
+July 29, 2011, 6:59 pm
+- TAD says:
+Why do you suppose CNN hasn’t reported THIS part of the story? Too complex for the average American viewer to grasp…?
+July 30, 2011, 3:43 am
+- Chookie Inthebackyard says:
+It’s very childish of me, but I want the senior management of Tepco to head in there themselves to collect the gooey stuff.
+July 31, 2011, 8:19 am
 
 **WordPress**
 **TWTFB2**

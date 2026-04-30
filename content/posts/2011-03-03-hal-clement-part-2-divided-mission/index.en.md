@@ -4,6 +4,10 @@ date: 2011-03-03
 categories: ["Authors", "Books", "Personal"]
 tags: ["Agents", "Conventions", "Editors", "Hal Clement", "Isaac Asimov", "John W. Campbell", "Prozines", "Publishing"]
 archive_url: "https://web.archive.org/web/20190301000000/http://www.thewaythefutureblogs.com/2011/03/hal-clement-part-2-divided-mission/"
+prev_post_url: "/posts/2011-03-01-hal-clement-major-harry-stubbs/"
+prev_post_title: "Hal Clement: Major Harry Stubbs"
+next_post_url: "/posts/2011-03-05-want-some-seafood-mama/"
+next_post_title: "Want Some Seafood, Mama?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Hal Clement: Major Harry Stubbs**
-**Want Some Seafood, Mama?**
 
 ## Hal Clement, Part 2: Divided Mission
 
@@ -56,15 +58,27 @@ Between Harry’s  talks and Isaac Asimov’s once-a-month column in F&SF, I con
 
 **Related post:**  
 
-**Hal Clement: Major Harry Stubbs**
+[**Hal Clement: Major Harry Stubbs**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
 
 
 ### 4 Comments
 
-- Robert Nowallsays:I remember Mr. Pohl writing something about this before—probably in “The Way the Future Was,” though my memory fails me.  But what stayed with me was the beginning, vis-a-vis “Mission of Gravity” and Shasta Publishers.There’s the story of how Shasta Publishers ran a contest that Philip Jose Farmer won, and then proceded to “do him over,” derailing his writing career for many years.Was “Mission of Gravity” up for the same prize?March 3, 2011, 10:03 am
-- David B. Williamssays:This is a great story, and at this point, one that only you can tell. Please keep stirring up the sludge of SF history.March 3, 2011, 10:18 am
-- Stefan Jonessays:Proof that the universe is unfair:That Mr. Stubbs should pass away just a few years before the current tidal wave of exoplanet discoveries.Man, he’d be happy as a pig in . . . ahem.March 3, 2011, 2:48 pm
-- Rich Rostromsays:I once heard Hal Clement sing “Men of Harlech” – in Welsh.March 3, 2011, 11:19 pm
+- Robert Nowall says:
+I remember Mr. Pohl writing something about this before—probably in “The Way the Future Was,” though my memory fails me.  But what stayed with me was the beginning, vis-a-vis “Mission of Gravity” and Shasta Publishers.
+There’s the story of how Shasta Publishers ran a contest that Philip Jose Farmer won, and then proceded to “do him over,” derailing his writing career for many years.
+Was “Mission of Gravity” up for the same prize?
+March 3, 2011, 10:03 am
+- David B. Williams says:
+This is a great story, and at this point, one that only you can tell. Please keep stirring up the sludge of SF history.
+March 3, 2011, 10:18 am
+- Stefan Jones says:
+Proof that the universe is unfair:
+That Mr. Stubbs should pass away just a few years before the current tidal wave of exoplanet discoveries. 
+Man, he’d be happy as a pig in . . . ahem.
+March 3, 2011, 2:48 pm
+- Rich Rostrom says:
+I once heard Hal Clement sing “Men of Harlech” – in Welsh.
+March 3, 2011, 11:19 pm
 
 **WordPress**
 **TWTFB2**

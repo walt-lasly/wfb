@@ -4,6 +4,10 @@ date: 2010-05-28
 categories: ["Personal", "Science"]
 tags: ["Ecology", "Food", "Media", "New York", "Psychology"]
 archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2010/05/why-i-love-the-new-york-times-magazine/"
+prev_post_url: "/posts/2010-05-24-futurian-poetry-i/"
+prev_post_title: "Futurian Poetry I"
+next_post_url: "/posts/2010-06-02-have-you-voted-for-the-hugo-awards/"
+next_post_title: "Have you voted for the Hugo Awards?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Futurian Poetry I**
-**Have you voted for the Hugo Awards?**
 
 ## Why I love the New York Times Magazine
 
@@ -36,9 +38,17 @@ In that same issue of the Magazine, I learned that we now have a third option fo
 
 ### 4 Comments
 
-- Ibidsays:My plan is to be cremated, have my ashes mixed in with some concrete, and use the concrete to make an elaborate statue/headstone of my own design. Not only will it add some character to these lame cemeteries full of small uniform headstones, but when they turn it into condos they don’t have to dig me up. Just chain me to a forklift and we’re good to go.Thanks for recommending Murray Leinster to me. I’d read “The Wailing Asteroid” already, but found a lot more of his stuff at manybooks.net.May 28, 2010, 7:22 am
-- Bob Muncksays:I’m to be cremated and stored until the first Space Elevator goes up. Then my ashes will be taken up past GEO to the very end, maybe 100,000 km out, and released slowly over a 24-hour period at the equinox. Momentum alone will get me as far as Jupiter, and I figure that the Solar Wind will push some of me completely out of the solar system.  Of course, I’ll also be sprinkled lightly over all of the planets and moons in this system.May 28, 2010, 4:30 pm
-- Ed Gazvodasays:I, too, enjoy reading the Times. An article on Resomation(R), in 2008, in the Times, led to my current business. I am a competitor of Resomation(R)LTD. Almost two-years later, I have manufactured a much better and significantly less costly system than Resomation(R).By using potassium hydroxide, the soft remains can be spread upon the earth, not necessarily drained into the sanitary sewer. The soft remains are pathogen free, with no trace of DNA. Bodies will soon be nourishing the earth with an NPK of 3.1.6. A better descriptor for this process is water and alkali disposition, as Resomation(R) refers to the process as performed by Resomation LTD. The leading manufacturer of such systems is CycledLife.http://www.CycledLife.com. Cremation and burial are harmful to the living. A water & alkali disposition is the best way to show one remembered family and friends when planning for the inevitable.May 28, 2010, 5:41 pm
+- Ibid says:
+My plan is to be cremated, have my ashes mixed in with some concrete, and use the concrete to make an elaborate statue/headstone of my own design. Not only will it add some character to these lame cemeteries full of small uniform headstones, but when they turn it into condos they don’t have to dig me up. Just chain me to a forklift and we’re good to go. 
+Thanks for recommending Murray Leinster to me. I’d read “The Wailing Asteroid” already, but found a lot more of his stuff at manybooks.net.
+May 28, 2010, 7:22 am
+- Bob Munck says:
+I’m to be cremated and stored until the first Space Elevator goes up. Then my ashes will be taken up past GEO to the very end, maybe 100,000 km out, and released slowly over a 24-hour period at the equinox. Momentum alone will get me as far as Jupiter, and I figure that the Solar Wind will push some of me completely out of the solar system.  Of course, I’ll also be sprinkled lightly over all of the planets and moons in this system.
+May 28, 2010, 4:30 pm
+- Ed Gazvoda says:
+I, too, enjoy reading the Times. An article on Resomation(R), in 2008, in the Times, led to my current business. I am a competitor of Resomation(R)LTD. Almost two-years later, I have manufactured a much better and significantly less costly system than Resomation(R).
+By using potassium hydroxide, the soft remains can be spread upon the earth, not necessarily drained into the sanitary sewer. The soft remains are pathogen free, with no trace of DNA. Bodies will soon be nourishing the earth with an NPK of 3.1.6. A better descriptor for this process is water and alkali disposition, as Resomation(R) refers to the process as performed by Resomation LTD. The leading manufacturer of such systems is CycledLife. http://www.CycledLife.com. Cremation and burial are harmful to the living. A water & alkali disposition is the best way to show one remembered family and friends when planning for the inevitable.
+May 28, 2010, 5:41 pm
 - Stefan Jones says:
 I love the Sunday NYTimes, but don’t get it often because I don’t feel I can give it the time it deserves. Especially the magazine. What has given me the patience and excuse to give it the attention it requires: A long plane flight.
 Most of the nation’s Sunday papers include something called “Parade Magazine.” It’s beyond pathetic. It makes US Today look intellectual and comprehensive.

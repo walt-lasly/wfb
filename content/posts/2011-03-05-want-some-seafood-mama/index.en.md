@@ -4,6 +4,10 @@ date: 2011-03-05
 categories: ["Science"]
 tags: ["Agriculture", "Capitalism", "Ecology", "Edward Robinson", "Fats Waller", "Food", "Jerry Brandow", "Leah A. Zeldes", "Leonard Kent", "Leonard Ware", "Willie Spotswood"]
 archive_url: "https://web.archive.org/web/20170707083907/http://www.thewaythefutureblogs.com/2011/03/want-some-seafood-mama/"
+prev_post_url: "/posts/2011-03-03-hal-clement-part-2-divided-mission/"
+prev_post_title: "Hal Clement, Part 2: Divided Mission"
+next_post_url: "/posts/2011-03-08-alfie/"
+next_post_title: "Alfie"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Hal Clement, Part 2: Divided Mission**
-**Alfie**
 
 ## Want Some Seafood, Mama?
 
@@ -24,7 +26,7 @@ Frederik Pohl
 Oh, won’t you give it to me?
 ’Cause I’m as happy as can be
 When the seafood comes to me. . . .* 
-*****
+[*****](/posts/2011-03-05-want-some-seafood-mama/)
 
 A few months ago, in the interests of full disclosure, we published a gourmet recipe for lobster bisque which may have made it unlikely that some of our readers will ever eat lobster bisque again.  We now turn our attention to shrimp, perhaps the fastest-growing foodstuff we obtain from the seas in this 21st Century of ours.
 
@@ -70,19 +72,49 @@ Fats Waller and His Rhythm, “Hold Tight (Want Some Seafood, Mama),” 1939. Mu
 
 ### 13 Comments
 
-- John Traylorsays:This is the reason why if I eat shrimp at all I buy wild caught ones. My wife hates when I tell her things like you speak of as  she says I spoil her appetite.March 5, 2011, 6:55 am
-- Theophylactsays:Good thing most people don’t keep Kosher.March 5, 2011, 10:37 am
-- Gerry Quinnsays:I heard that in the past, people would take human excrement, put it in the ground, and stir in a sauce of beneficial plant seeds, which would turn it into “vegetables”.March 7, 2011, 3:28 am
-- Perrysays:The word you were looking for, from the field of economics, is “externalities”, not “externals”.March 7, 2011, 11:36 am
-- Bill Goodwinsays:Well, the purpose of life is to convert unorganized matter into dung.  That’s what we’re up to: slowly turning the entire universe into dung–at which point God, who is a tremendous dung beetle, will arrive on the scene and roll it away.  So that doesn’t bother me.The problem with shrimp is that they’re bugs.  SEETHING MILLIONS OF SOFT, SQUIRMING, PINCHING, MULTI-LIMBED, ANTENNAE-WAVING BUGS!March 8, 2011, 2:06 am
-- Katsays:Got to eat a little dirt before you die.March 8, 2011, 9:28 am
-- Dave Bellsays:It is my custom not to eat anything which, from its appearance, might have a mother capable of deploying thermonuclear weapons from orbit.March 9, 2011, 2:46 pm
-- H. E. Parmersays:I suppose you could think of it as just cutting out all the ecological middlemen, and anyone who tries to create a sealed and self-sustaining habitat is going to face the same issues, but still …I think I’ll stick with the ocean-caught shrimp, thank you very much.March 10, 2011, 12:45 am
-- JJ Brannonsays:I can’t be sure, Fred, but that looks like a prawn.JJBMarch 10, 2011, 6:56 pm
-- Brucesays:Here’s a question: exactly what do you folks think ocean shrimp eat? Although the young feed primarily on algae, the adults are bottom scavengers that will eat anything organic. Does it make you feel better that they eat fish poop instead of their own poop? And at least the bottom of the fish-farm tank isn’t laced with petrochemicals and polluted run-off from the Mississippi the way the bottom of the Gulf of Mexico is.Wikipedia: “They have a high tolerance to toxins in polluted areas, and may contribute to high toxin levels in their predators.” …”The highest rates of incidental catch of non-target species is associated with shrimp trawling. In 1997, the FAO documented the estimated bycatch and discard levels from shrimp fisheries around the world. They found discard rates as high as 20 pounds for every pound of shrimp, with a world average of 5.7 pounds for every pound of shrimp.”March 13, 2011, 3:57 pm
-- Bill Goodwinsays:I was a shrimp myself in school, and I ate all sorts of unhealthy stuff.March 14, 2011, 1:24 am
-- Zephsays:I’m a little baffled. Did we think that shrimp were born immaculately frozen in shrink-wrapped packages in the grocery store? Humanity is not about CHOAM food factories right now. I suspect they’ll have to add FDA-approved bacteria if we ever run that way.April 15, 2011, 11:50 pm
-- Anton Sherwoodsays:There’s no externality in taking shrimp or fish from the ocean, right?  The cod will be there forever.February 14, 2012, 3:48 pm
+- John Traylor says:
+This is the reason why if I eat shrimp at all I buy wild caught ones. My wife hates when I tell her things like you speak of as  she says I spoil her appetite.
+March 5, 2011, 6:55 am
+- Theophylact says:
+Good thing most people don’t keep Kosher.
+March 5, 2011, 10:37 am
+- Gerry Quinn says:
+I heard that in the past, people would take human excrement, put it in the ground, and stir in a sauce of beneficial plant seeds, which would turn it into “vegetables”.
+March 7, 2011, 3:28 am
+- Perry says:
+The word you were looking for, from the field of economics, is “externalities”, not “externals”.
+March 7, 2011, 11:36 am
+- Bill Goodwin says:
+Well, the purpose of life is to convert unorganized matter into dung.  That’s what we’re up to: slowly turning the entire universe into dung–at which point God, who is a tremendous dung beetle, will arrive on the scene and roll it away.  So that doesn’t bother me.
+The problem with shrimp is that they’re bugs.  SEETHING MILLIONS OF SOFT, SQUIRMING, PINCHING, MULTI-LIMBED, ANTENNAE-WAVING BUGS!
+March 8, 2011, 2:06 am
+- Kat says:
+Got to eat a little dirt before you die.
+March 8, 2011, 9:28 am
+- Dave Bell says:
+It is my custom not to eat anything which, from its appearance, might have a mother capable of deploying thermonuclear weapons from orbit.
+March 9, 2011, 2:46 pm
+- H. E. Parmer says:
+I suppose you could think of it as just cutting out all the ecological middlemen, and anyone who tries to create a sealed and self-sustaining habitat is going to face the same issues, but still …
+I think I’ll stick with the ocean-caught shrimp, thank you very much.
+March 10, 2011, 12:45 am
+- JJ Brannon says:
+I can’t be sure, Fred, but that looks like a prawn.
+JJB
+March 10, 2011, 6:56 pm
+- Bruce says:
+Here’s a question: exactly what do you folks think ocean shrimp eat? Although the young feed primarily on algae, the adults are bottom scavengers that will eat anything organic. Does it make you feel better that they eat fish poop instead of their own poop? And at least the bottom of the fish-farm tank isn’t laced with petrochemicals and polluted run-off from the Mississippi the way the bottom of the Gulf of Mexico is.
+Wikipedia: “They have a high tolerance to toxins in polluted areas, and may contribute to high toxin levels in their predators.” …”The highest rates of incidental catch of non-target species is associated with shrimp trawling. In 1997, the FAO documented the estimated bycatch and discard levels from shrimp fisheries around the world. They found discard rates as high as 20 pounds for every pound of shrimp, with a world average of 5.7 pounds for every pound of shrimp.”
+March 13, 2011, 3:57 pm
+- Bill Goodwin says:
+I was a shrimp myself in school, and I ate all sorts of unhealthy stuff.
+March 14, 2011, 1:24 am
+- Zeph says:
+I’m a little baffled. Did we think that shrimp were born immaculately frozen in shrink-wrapped packages in the grocery store? Humanity is not about CHOAM food factories right now. I suspect they’ll have to add FDA-approved bacteria if we ever run that way.
+April 15, 2011, 11:50 pm
+- Anton Sherwood says:
+There’s no externality in taking shrimp or fish from the ocean, right?  The cod will be there forever.
+February 14, 2012, 3:48 pm
 
 **WordPress**
 **TWTFB2**

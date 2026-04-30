@@ -4,6 +4,10 @@ date: 2013-06-20
 categories: ["Travel"]
 tags: ["History", "Meteorology", "World War II"]
 archive_url: "https://web.archive.org/web/20261201000000/http://www.thewaythefutureblogs.com/2013/06/my-war-part-4-homegoing/"
+prev_post_url: "/posts/2013-06-18-hey-occupy-take-aim-at-the-nra/"
+prev_post_title: "Hey, Occupy! Take aim at the NRA"
+next_post_url: "/posts/2013-06-23-bright-sayings-of-bright-people-no-48-sachs/"
+next_post_title: "Bright Sayings of Bright People, No. 48: Sachs"
 translated: false
 ---
 

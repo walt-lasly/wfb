@@ -4,6 +4,10 @@ date: 2011-04-08
 categories: ["Authors"]
 tags: ["Alfred Bester", "C.L. Moore", "Clubs", "Editors", "Films", "Futurians", "Horace L. Gold", "James Tiptree Jr.", "Joanna Russ", "John Brunner", "John W. Campbell", "Leslie F. Stone", "Prozines", "Psychology", "Ray Bradbury", "Robert A. Heinlein", "Television", "Theodore Sturgeon", "Ursula K. Le Guin", "Vonda McIntyre"]
 archive_url: "https://web.archive.org/web/20220501000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-7-cyclothymia/"
+prev_post_url: "/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
+prev_post_title: "Me and Alfie, Part 6: John W. Campbell and Dianetics"
+next_post_url: "/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/"
+next_post_title: "Me and Alfie, Part 8: Hollywood and the Name Game"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Me and Alfie, Part 6: John W. Campbell and Dianetics**
-**Me and Alfie, Part 8: Hollywood and the Name Game**
 
 ## Me and Alfie, Part 7: Cyclothymia
 
@@ -104,8 +106,8 @@ No woman writer has been in any way handicapped by being female in science ficti
 
 **Related posts:**
 
-- **Alfie,** **Part 1**, **Part 2**
-- **Me and Alfie,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**, **Part 8**
+- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### One Comment

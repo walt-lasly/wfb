@@ -4,6 +4,10 @@ date: 2011-09-07
 categories: ["Authors"]
 tags: ["Artists", "Astrology", "Donald A. Wollheim", "Food", "Hannes Bok", "Jean Sibelius", "Johan Sebastian Bach", "John W. Campbell", "Medicine", "Music", "Prozines", "Publishing"]
 archive_url: "https://web.archive.org/web/20150501000000/http://www.thewaythefutureblogs.com/2011/09/hannes-bok-part-2-the-story-with-the-unhappy-ending/"
+prev_post_url: "/posts/2011-09-03-hannes-bok-futurian-artist-in-chief/"
+prev_post_title: "Hannes Bok: Futurian Artist in Chief"
+next_post_url: "/posts/2011-09-09-declining-immortality-twice/"
+next_post_title: "Declining Immortality Twice"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Hannes Bok: Futurian Artist in Chief**
-**Declining Immortality Twice**
 
 ## Hannes Bok, Part 2: The story with the unhappy ending
 
@@ -83,22 +85,36 @@ The death certificate said “heart failure,” but when I talked to Donald he d
 
 **Related post:**
 
-- Hannes Bok: Futurian Artist in Chief
+- [**Hannes Bok: Futurian Artist in Chief**](/posts/2011-09-03-hannes-bok-futurian-artist-in-chief/)
 
 
 ### 6 Comments
 
-- David B. Williamssays:There seems to be a regular sub-genre of these odd, tragic biographies in fanhistorical literature. Enough could be pulled together to publish a very depressing book.September 7, 2011, 9:33 am
-- Jim Flanagansays:Coincidentally, the auction of Jerry Weist’s collection has 4 items by Bok.http://historical.ha.com/common/search_results.php?Ntk=SI_Titles&Ntt=Bok&Nty=1&N=49+793+794+792+2088+4294953525&chkNotSold=0&Ns=JimSeptember 7, 2011, 10:54 am
-- Michael Walshsays:Here’s a great photo from the 1950s of Bok with  Bea Mahaffey on a NYC rooftop:http://mikeresnick.com/wp-content/gallery/writers_and_editors/bea-mahaffey-and-hannes-bok-1950.jpgSeptember 7, 2011, 11:58 am
-- David Ratnasabapathysays:Couldn’t he have got free dentures from the National Health Service?It’s so odd that Americans don’t want Public healthcare.  You live lives that are more miserable and shorter for the lack of it — but the very people, the majority, who would benefit from it, resolutely oppose it.September 8, 2011, 11:05 am
+- David B. Williams says:
+There seems to be a regular sub-genre of these odd, tragic biographies in fanhistorical literature. Enough could be pulled together to publish a very depressing book.
+September 7, 2011, 9:33 am
+- Jim Flanagan says:
+Coincidentally, the auction of Jerry Weist’s collection has 4 items by Bok.
+http://historical.ha.com/common/search_results.php?Ntk=SI_Titles&Ntt=Bok&Nty=1&N=49+793+794+792+2088+4294953525&chkNotSold=0&Ns=
+Jim
+September 7, 2011, 10:54 am
+- Michael Walsh says:
+Here’s a great photo from the 1950s of Bok with  Bea Mahaffey on a NYC rooftop:
+http://mikeresnick.com/wp-content/gallery/writers_and_editors/bea-mahaffey-and-hannes-bok-1950.jpg
+September 7, 2011, 11:58 am
+- David Ratnasabapathy says:
+Couldn’t he have got free dentures from the National Health Service?
+It’s so odd that Americans don’t want Public healthcare.  You live lives that are more miserable and shorter for the lack of it — but the very people, the majority, who would benefit from it, resolutely oppose it.
+September 8, 2011, 11:05 am
 - Stefan Jones says:
 @David:
 The Economist recently ran an article about why people just a rung up the ladder from poverty and want, and for whom an injury or illness would mire them in debt and lost, oppose safety net programs . . . even though they would benefit:
 http://www.economist.com/node/21525851?frsc=dg
 It’s because they don’t want the people a rung below them to get any help, and erase the differences between them. They have a psychological need to have someone worse off than they are.
 September 9, 2011, 11:22 am
-- David Ratnasabapathysays:Bigotry harms the bigot too, then.September 17, 2011, 9:02 am
+- David Ratnasabapathy says:
+Bigotry harms the bigot too, then.
+September 17, 2011, 9:02 am
 
 **WordPress**
 **TWTFB**

@@ -4,6 +4,8 @@ date: 2010-07-16
 categories: ["Authors", "Books"]
 tags: ["Ben Bova", "Cory Doctorow", "Editors", "Elizabeth Anne Hull", "Frank M. Robinson", "Gardner Dozois", "Gateways", "Gene Wolfe", "Harry Harrison", "Hugo Awards", "James Gunn", "Jody Lynn Nye", "Joe Haldeman", "Mike Resnick", "Publishing", "Robert Silverberg", "Sherri S. Tepper", "Vernor Vinge"]
 archive_url: "https://web.archive.org/web/20100722002709/http://www.thewaythefutureblogs.com/2010/07/win-a-copy-of-gateways/"
+prev_post_url: "/posts/2010-07-14-fred-s-dumb-thing/"
+prev_post_title: "Fred’s Dumb Thing"
 translated: false
 ---
 

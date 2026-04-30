@@ -4,6 +4,10 @@ date: 2010-12-12
 categories: ["Authors", "Personal"]
 tags: ["Ann Pohl", "C.M. Kornbluth", "Canada", "Daniel Zissman", "Futurians", "James Blish", "Judith Merril", "Karen Stanton", "L. Jerome Stanton", "Mary Kornbluth", "Merril Zissman", "Politics", "Virginia Kidd"]
 archive_url: "https://web.archive.org/web/20170301000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-7/"
+prev_post_url: "/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
+prev_post_title: "Bright Sayings of Bright People, No. 6: Mill"
+next_post_url: "/posts/2010-12-13-cordwainer-smith-the-ballad-of-lost-linebarger-part-1/"
+next_post_title: "Cordwainer Smith: The Ballad of Lost Linebarger, Part 1"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Bright Sayings of Bright People, No. 6: Mill**
-**Cordwainer Smith: The Ballad of Lost Linebarger, Part 1**
 
 ## Judith Merril, Part 7: When It All Hit the Fan
 
@@ -98,13 +100,24 @@ It wasn’t worthwhile to hate each other any more.  It no longer made sense to 
 
 **Related posts:**  
 
-**Judith Merril,** **Part 1**, **Part 2**, **Part 3**, **Part 4**, **Part 5**, **Part 6**
+**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/)
 
 
 ### 2 Comments
 
-- Ann Pohlsays:Dear Father — I have avoided comment up to now as I did not want to disrupt your telling of your own story. However, it is ethical to ask someone if that person agrees to being quoted in a public document like this one. I did not give my consent to having details about myself represented in this way in this document. I will not address differences in perspective that have arisen from previous postings on your blog. However, I must speak to Part 7 (this one).Carol was an extraordinarily nurturing and kind person, and without any doubt my best parent of any gender in that regard.Judy’s ethical character and commitment to social justice and community engagement, and sense of spiritual wonder about the world,  were and are an inspiration to me always.I feel blessed to have had two such exceptional women as primary influences in my life.Also, Judy went to Chicago BECAUSE I had been assigned to go on behalf of the Eugene McCarthy campaign. She tagged along to make sure I had a parent present to look after me if I ended up arrested or anything, as it was our 3-person team’s task to get anti-war posters into the democratic-machine-run convention hall, and the machine was pro-war at that time. I appreciated having her there deeply and it was one example of a time when I felt she was did a great job of mothering me.RIP, Judith Merril — a fine person and an even more amazing global citizen.My sister Merril, who loved you as much you loved her, did have a rocky start in life. It is unfortunate that you lost all contact with each other. You would be pleased to know that Merril was very happy in her latter years, and had reconciled with Judy. At the time of her death, she was extremely physically ill, due to a progressive, serious immune system disorder.RIP Merril Allen. You were much loved and respected by your family, friends and community, who miss you to this day. (This December you would have celebrated your 68th birthday).December 14, 2010, 6:49 pm
-- Margo Andersonsays:I was interested to find mention of your friend, L. Jerome Stanton, because he was my grandfather.  The marriage ended shortly after my mother’s birth in 1932, and she didn’t meet him till she was grown.  She remembers him telling her she had a half sister, but never know her name.  She would very much like to make contact with Karen.  If you know her whereabouts, could you please contact me, or give my email address to her?  Thank you!April 6, 2011, 5:49 pm
+- Ann Pohl says:
+Dear Father — I have avoided comment up to now as I did not want to disrupt your telling of your own story. However, it is ethical to ask someone if that person agrees to being quoted in a public document like this one. I did not give my consent to having details about myself represented in this way in this document. I will not address differences in perspective that have arisen from previous postings on your blog. However, I must speak to Part 7 (this one). 
+Carol was an extraordinarily nurturing and kind person, and without any doubt my best parent of any gender in that regard. 
+Judy’s ethical character and commitment to social justice and community engagement, and sense of spiritual wonder about the world,  were and are an inspiration to me always. 
+I feel blessed to have had two such exceptional women as primary influences in my life. 
+Also, Judy went to Chicago BECAUSE I had been assigned to go on behalf of the Eugene McCarthy campaign. She tagged along to make sure I had a parent present to look after me if I ended up arrested or anything, as it was our 3-person team’s task to get anti-war posters into the democratic-machine-run convention hall, and the machine was pro-war at that time. I appreciated having her there deeply and it was one example of a time when I felt she was did a great job of mothering me. 
+RIP, Judith Merril — a fine person and an even more amazing global citizen. 
+My sister Merril, who loved you as much you loved her, did have a rocky start in life. It is unfortunate that you lost all contact with each other. You would be pleased to know that Merril was very happy in her latter years, and had reconciled with Judy. At the time of her death, she was extremely physically ill, due to a progressive, serious immune system disorder. 
+RIP Merril Allen. You were much loved and respected by your family, friends and community, who miss you to this day. (This December you would have celebrated your 68th birthday).
+December 14, 2010, 6:49 pm
+- Margo Anderson says:
+I was interested to find mention of your friend, L. Jerome Stanton, because he was my grandfather.  The marriage ended shortly after my mother’s birth in 1932, and she didn’t meet him till she was grown.  She remembers him telling her she had a half sister, but never know her name.  She would very much like to make contact with Karen.  If you know her whereabouts, could you please contact me, or give my email address to her?  Thank you!
+April 6, 2011, 5:49 pm
 
 **WordPress**
 **TWTFB2**

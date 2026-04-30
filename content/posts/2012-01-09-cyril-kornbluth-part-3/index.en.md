@@ -4,6 +4,10 @@ date: 2012-01-09
 categories: ["Authors"]
 tags: ["Adolf Hitler", "Agents", "C.M. Kornbluth", "Clubs", "David Kornbluth", "Dirk Wylie", "Futurians", "George S. Patton", "John Kornbluth", "Mary Kornbluth", "Media", "Medicine", "Richard Wilson", "World War II"]
 archive_url: "https://web.archive.org/web/20170701000000/http://www.thewaythefutureblogs.com/2012/01/cyril-kornbluth-part-3/"
+prev_post_url: "/posts/2012-01-04-we-ll-tak-a-cup-o-224-billion/"
+prev_post_title: "We’ll Tak a Cup o’ $224 Billion"
+next_post_url: "/posts/2012-01-12-warren-buffett-s-plan-to-fix-congress/"
+next_post_title: "Warren Buffett’s Plan to Fix Congress"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**We’ll Tak a Cup o’ $224 Billion**
-**Warren Buffett’s Plan to Fix Congress**
 
 ## Cyril Kornbluth, Part 3
 
@@ -57,15 +59,24 @@ I didn’t ask him any questions about that remark, but I did give it a lot of t
 
 **Related posts:**
 
-- **Cyril Kornbluth,****Part 1**, **Part 2**
-- **Mary Kornbluth,** **Part 1**, **Part 2**, **Part 3**
+- **Cyril Kornbluth,**[**Part 1**](/posts/2009-04-20-cyril/), [**Part 2**](/posts/2012-01-02-cyril-kornbluth-part-2/)
+- **Mary Kornbluth,** [**Part 1**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 2**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), [**Part 3**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
 
 
 ### 3 Comments
 
-- J.J.S. Boycesays:Actually “The Little Black Bag” and “The Marching Morons” were included in The Science Fiction Hall of Fame, Volumes I and II, respectively. That anthology collection was intended to honour pre-Hugo/pre-Nebula stories that never had a chance to be nominated for an award.In addition, “The Little Black Bag” won a Retro Hugo in 2001 for best novelette. So you’re right Mr. Pohl, Kornbluth was an award winner who was unlucky enough to be active at the wrong time, but at least he eventually got his due.January 9, 2012, 8:20 am
-- Stefan Jonessays:Keep it coming.I wonder what sort of SF war story that Kornbluth might have eventually written, given that he actually fought in a war. I bet it would be very different than an SF war story written by someone who (ahem) stayed on the home front.Also: The collection “His Share of Glory” is amazing. Kornbluth was writing snarky humorous fantasy decades before folks like Asprin and Pratchett. Searing social satire.January 9, 2012, 1:11 pm
-- TADsays:Been meaning to say for awhile, thanks for posting this, too. I haven’t read as much of Cyril as an SF fan should, but “Two Dooms” and “The Last Man Left in the Bar” and “The Altar at Midnight” are all pretty amazing. He really was ahead of his time. Thanks again for sharing this.February 8, 2012, 2:40 am
+- J.J.S. Boyce says:
+Actually “The Little Black Bag” and “The Marching Morons” were included in The Science Fiction Hall of Fame, Volumes I and II, respectively. That anthology collection was intended to honour pre-Hugo/pre-Nebula stories that never had a chance to be nominated for an award.
+In addition, “The Little Black Bag” won a Retro Hugo in 2001 for best novelette. So you’re right Mr. Pohl, Kornbluth was an award winner who was unlucky enough to be active at the wrong time, but at least he eventually got his due.
+January 9, 2012, 8:20 am
+- Stefan Jones says:
+Keep it coming.
+I wonder what sort of SF war story that Kornbluth might have eventually written, given that he actually fought in a war. I bet it would be very different than an SF war story written by someone who (ahem) stayed on the home front.
+Also: The collection “His Share of Glory” is amazing. Kornbluth was writing snarky humorous fantasy decades before folks like Asprin and Pratchett. Searing social satire.
+January 9, 2012, 1:11 pm
+- TAD says:
+Been meaning to say for awhile, thanks for posting this, too. I haven’t read as much of Cyril as an SF fan should, but “Two Dooms” and “The Last Man Left in the Bar” and “The Altar at Midnight” are all pretty amazing. He really was ahead of his time. Thanks again for sharing this.
+February 8, 2012, 2:40 am
 
 **WordPress**
 **TWTFB2**

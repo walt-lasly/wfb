@@ -4,6 +4,10 @@ date: 2010-04-27
 categories: ["Authors", "Personal", "Writing"]
 tags: ["Alexis Carrel", "C.M. Kornbluth", "Clubs", "Collaborating", "Damon Knight", "Dirk Wylie", "Donald A. Wollheim", "Food", "Futurians", "Isaac Asimov", "James Blish", "New York", "Richard Wilson", "Robert A.W. Lowndes", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20121001000000/http://www.thewaythefutureblogs.com/2010/04/freds-distilled-writing-wisdom-part-2-collaboration/"
+prev_post_url: "/posts/2010-04-25-jack-vance-the-master-of-the-dragons/"
+prev_post_title: "Jack Vance: The Master of the Dragons"
+next_post_url: "/posts/2010-04-29-lobster-bisque/"
+next_post_title: "Lobster Bisque"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Jack Vance: The Master of the Dragons**
-**Lobster Bisque**
 
 ## Fred’s Distilled Writing Wisdom, Part 2: Collaboration
 
@@ -43,7 +45,7 @@ The Futurians were one of the New York area’s science-fiction fan clubs, but t
 Actually, it might actually be more accurate to say we became one, because even the non-obsessed fraction of our members were mildly interested in the writing.  All we needed was a place to set our portable typewriters — and then, when three of our members decided to club together on a joint apartment at 2754 Bedford Avenue in Brooklyn that would also be the club headquarters, that problem was solved.  We called it the Ivory Tower (it was on the fourth walk-up floor), and there we wrote.  Three or four of us at a time, sometimes more.
 
 
-The diligent ones, first to last, were **Cyril Kornbluth**, Dick Wilson, **Donald Wollheim**, **Robert A.W. Lowndes**, **Dirk Wylie**, **James Blish**, **Damon Knight** and, of course, me. Member **Isaac Asimov** rarely joined us in these sessions.  He was as eager as anybody else, but he had to work regular shifts at his mom and pop’s candy store and so had to do most of his practice writing alone.  (Well, except for a couple of minor collaborations with me, which are in his book **The Early Asimov**.)  And, as you see, quite a few of us made the professional cut — some, like Isaac, almost excessively.
+The diligent ones, first to last, were [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), Dick Wilson, **Donald Wollheim**, [**Robert A.W. Lowndes**](/posts/2009-05-08-the-quadrumvirate/), [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/), **James Blish**, **Damon Knight** and, of course, me. Member [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) rarely joined us in these sessions.  He was as eager as anybody else, but he had to work regular shifts at his mom and pop’s candy store and so had to do most of his practice writing alone.  (Well, except for a couple of minor collaborations with me, which are in his book **The Early Asimov**.)  And, as you see, quite a few of us made the professional cut — some, like Isaac, almost excessively.
 
 
 In fact we had a kind of success that writers’ workshops seldom achieve.  Why?  There may have been several reasons, but perhaps one of them was that there was a particular exercise we did that most workshops don’t do.  We didn’t give each other just criticism and moral support.  We began doing something else.  We began to collaborate.
@@ -69,18 +71,25 @@ Enough for now.  Next time I’ll tell you how collaborating can help you even w
 
 **Related post:**
 
-- Fred’s Distilled Writing Wisdom, Part 1
+- [**Fred’s Distilled Writing Wisdom, Part 1**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/)
 
 
 ### 4 Comments
 
-- Les Males Herbes magazinesays:Nice thing, changing the algae for the meat! In some way, it makes the story more raw, maybe anticipating all the transgenic stuff with food of nowadays…On the other hand, I agree with the good points about collaboration, but don’t forget also the bad ones! Sometimes working with other people can force you to “cut off” the more risky plots, turning the stories into something milder, isn’t it?April 27, 2010, 8:01 am
-- Joe Fodorsays:As I recall, the correct address for the Ivory Tower is 2754 Bedford Avenue, Apt. 4D. I live just down the street from there — one of my goals in life is to get Borough President Marty Markowitz to affix a plaque to that building. So much came from that one little apartment!April 27, 2010, 11:54 am
+- Les Males Herbes magazine says:
+Nice thing, changing the algae for the meat! In some way, it makes the story more raw, maybe anticipating all the transgenic stuff with food of nowadays…
+On the other hand, I agree with the good points about collaboration, but don’t forget also the bad ones! Sometimes working with other people can force you to “cut off” the more risky plots, turning the stories into something milder, isn’t it?
+April 27, 2010, 8:01 am
+- Joe Fodor says:
+As I recall, the correct address for the Ivory Tower is 2754 Bedford Avenue, Apt. 4D. I live just down the street from there — one of my goals in life is to get Borough President Marty Markowitz to affix a plaque to that building. So much came from that one little apartment!
+April 27, 2010, 11:54 am
 - Stefan Jones says:
 I love mentioning “Chicken Little” to friends and co-workers when news reports about vat-grown meat turn up.
 But I hate even more the fact that our world is world is starting to look like the one in The Space Merchants.
 April 27, 2010, 2:21 pm
-- laurasays:i’m curious to know what is your ethnicity…are you of estonian origin?April 28, 2010, 8:42 am
+- laura says:
+i’m curious to know what is your ethnicity…are you of estonian origin?
+April 28, 2010, 8:42 am
 
 **WordPress**
 **TWTFB**

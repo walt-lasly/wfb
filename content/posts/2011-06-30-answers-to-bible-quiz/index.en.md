@@ -4,6 +4,10 @@ date: 2011-06-30
 categories: ["Books"]
 tags: ["Jennifer Wright Knust", "Politics", "Religion", "Ron Paul", "Sexuality"]
 archive_url: "https://web.archive.org/web/20260601000000/http://www.thewaythefutureblogs.com/2011/06/answers-to-bible-quiz/"
+prev_post_url: "/posts/2011-06-25-top-10-sf-fantasy-2011/"
+prev_post_title: "Top 10 SF/Fantasy: 2011"
+next_post_url: "/posts/2011-07-05-einstein-vs-god-who-s-ahead/"
+next_post_title: "Einstein vs. God: Who’s Ahead?"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Top 10 SF/Fantasy: 2011**
-**Einstein vs. God: Who’s Ahead?**
 
 ## Answers to Bible Quiz
 
@@ -37,8 +39,12 @@ And have a thought for all those poor Tea Party legislators, currently holding b
 
 ### 2 Comments
 
-- Rick Yorksays:I think we ought to make the press always call right wing Republicans and Tea Partiers Sodomites.June 30, 2011, 6:34 pm
-- Tina Blacksays:Yes, your answer got me to thinking that the Tea Party agenda belongs smack in Sodom…not that this is  any surprise.  No god I favor would look upon their plans with a smile.July 2, 2011, 12:41 pm
+- Rick York says:
+I think we ought to make the press always call right wing Republicans and Tea Partiers Sodomites.
+June 30, 2011, 6:34 pm
+- Tina Black says:
+Yes, your answer got me to thinking that the Tea Party agenda belongs smack in Sodom…not that this is  any surprise.  No god I favor would look upon their plans with a smile.
+July 2, 2011, 12:41 pm
 
 **WordPress**
 **TWTFB2**

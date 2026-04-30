@@ -4,6 +4,10 @@ date: 2014-05-12
 categories: ["Betty's Posts", "Writing"]
 tags: ["Academics", "Elizabeth Anne Hull", "Kush Sharma", "Sophia Hoffman", "World War II"]
 archive_url: "https://web.archive.org/web/20190301000000/http://www.thewaythefutureblogs.com/2014/05/the-future-of-pronouns/"
+prev_post_url: "/posts/2014-04-24-an-ill-wind-blows-no-power-eastward/"
+prev_post_title: "An Ill Wind Blows No Power Eastward"
+next_post_url: "/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/"
+next_post_title: "Frederik Pohl Memorial Celebration, Aug. 2"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**An Ill Wind Blows No Power Eastward**
-**Frederik Pohl Memorial Celebration, Aug. 2**
 
 ## The Future of Pronouns
 
@@ -62,11 +64,40 @@ In a record-setting regional contest of the Scripps National Spelling Bee, two o
 
 ### 5 Comments
 
-- Virginia Allensays:Just watching Jon Stewart’s interview with  Ron Suskind about communicating with his autistic son — “perseverating” on Disney movies … using the often-repeated lines as a way out of or through the shutting down of communication.That (Disney) experience is so much like my experience with the issue of prescriptive grammar. I know I should just close the door and retreat into polite silence, but I keep perseverating.The familiar rule is that pronouns should agree with their antecedents in person, number, and gender. (Someone forgot his [pink] sweater!) Given a choice to violate either number or gender, the “proper” choice is to violate gender. Anyone who tries to “conform” and “play nice” by following  the rules, instead of producing the long grammatical “singular ‘they'” construction — “Someone forgot their sweater” — produces a sentence displaying the “generic ‘he'” that is neither fish nor fowl, neither “proper English” nor “correct” in any linguistic sense.The “rule” is, I think, the first — certainly the most salient — of the false philology rules of the prescriptive grammar tradition.I used to always quote Ann Bodine’s 1975 article “Androcentrisism in Prescriptive Grammar: Singular ‘they,” Sex-indefinite ‘he,’ and ‘he or she'” from _Language in Society_ 4: 129-46. Now I quote Anne Curzan’s _Gender Shifts in the History of English_ (Cambridge UP 2012). I never mention my own book on the subject. That would be wrong.Recognizing the value of conformity. Wanting to be like everyone else. Wanting to fit in and obey the rules, which rules should I choose? I could care less, but the rule makers tell me I couldn’t possibly and so what to do? what to do?If nine x five is 45, I must be sentient.May 14, 2014, 4:04 pm
-- Dan Gollubsays:Your blog helped inspire the following poem.SomeoneSomeone life is cruel to; someone life is kind toBattles the super villains of his/her imaginationAnd ends up survivingWonders if he/she is just a cog in the machineOr instead is an integral part of the woof and weaveTravels like a turtleEnters the warps of light speedWrites the great, wondrous poetry that lasts across the ages(but that person isn’t me; at least not yet)Thinks there should be a better pronoun than his/her and he/sheAwakens in the morning and is conscious and aliveIs that person you?May 19, 2014, 5:34 am
-- Elizabeth Hullsays:You made me laugh, Virginia.  I’m planning to be in Lawrence for the Campbell Awards next week; any chance you will be there?  It would be great to see you there, or at Fred’s memorial service, if you can make that.  BettyJune 6, 2014, 9:42 pm
-- Elizabeth Hullsays:Dan, I hope to see you at the memorial service as well.  BettyJune 6, 2014, 9:44 pm
-- Steve Leavellsays:If I may ask–Any news on a revision/expansion/sequel to The Way the Future Was?June 12, 2014, 5:25 am
+- Virginia Allen says:
+Just watching Jon Stewart’s interview with  Ron Suskind about communicating with his autistic son — “perseverating” on Disney movies … using the often-repeated lines as a way out of or through the shutting down of communication.
+That (Disney) experience is so much like my experience with the issue of prescriptive grammar. I know I should just close the door and retreat into polite silence, but I keep perseverating.
+The familiar rule is that pronouns should agree with their antecedents in person, number, and gender. (Someone forgot his [pink] sweater!) Given a choice to violate either number or gender, the “proper” choice is to violate gender. Anyone who tries to “conform” and “play nice” by following  the rules, instead of producing the long grammatical “singular ‘they'” construction — “Someone forgot their sweater” — produces a sentence displaying the “generic ‘he'” that is neither fish nor fowl, neither “proper English” nor “correct” in any linguistic sense.
+The “rule” is, I think, the first — certainly the most salient — of the false philology rules of the prescriptive grammar tradition.
+I used to always quote Ann Bodine’s 1975 article “Androcentrisism in Prescriptive Grammar: Singular ‘they,” Sex-indefinite ‘he,’ and ‘he or she'” from _Language in Society_ 4: 129-46. Now I quote Anne Curzan’s _Gender Shifts in the History of English_ (Cambridge UP 2012). I never mention my own book on the subject. That would be wrong.
+Recognizing the value of conformity. Wanting to be like everyone else. Wanting to fit in and obey the rules, which rules should I choose? I could care less, but the rule makers tell me I couldn’t possibly and so what to do? what to do?
+If nine x five is 45, I must be sentient.
+May 14, 2014, 4:04 pm
+- Dan Gollub says:
+Your blog helped inspire the following poem.
+Someone
+Someone life is cruel to; someone life is kind to
+Battles the super villains of his/her imagination
+And ends up surviving
+Wonders if he/she is just a cog in the machine
+Or instead is an integral part of the woof and weave
+Travels like a turtle
+Enters the warps of light speed
+Writes the great, wondrous poetry that lasts across the ages
+(but that person isn’t me; at least not yet)
+Thinks there should be a better pronoun than his/her and he/she
+Awakens in the morning and is conscious and alive
+Is that person you?
+May 19, 2014, 5:34 am
+- Elizabeth Hull says:
+You made me laugh, Virginia.  I’m planning to be in Lawrence for the Campbell Awards next week; any chance you will be there?  It would be great to see you there, or at Fred’s memorial service, if you can make that.  Betty
+June 6, 2014, 9:42 pm
+- Elizabeth Hull says:
+Dan, I hope to see you at the memorial service as well.  Betty
+June 6, 2014, 9:44 pm
+- Steve Leavell says:
+If I may ask–Any news on a revision/expansion/sequel to The Way the Future Was?
+June 12, 2014, 5:25 am
 
 **WordPress**
 **TWTFB2**

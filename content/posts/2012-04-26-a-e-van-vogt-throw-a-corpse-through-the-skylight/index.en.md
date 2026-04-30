@@ -4,6 +4,10 @@ date: 2012-04-26
 categories: ["Authors"]
 tags: ["A.E. van Vogt", "Alfred Korzybski", "Damon Knight", "Editors", "John W. Campbell", "L. Ron Hubbard", "Medicine", "Prozines", "Religion", "Stanley G. Weinbaum", "William H. Bates"]
 archive_url: "https://web.archive.org/web/20091101000000/http://www.thewaythefutureblogs.com/2012/04/a-e-van-vogt-throw-a-corpse-through-the-skylight/"
+prev_post_url: "/posts/2012-04-23-no-not-me-i-think/"
+prev_post_title: "No, Not Me (I think)"
+next_post_url: "/posts/2012-04-29-bright-sayings-of-bright-people-no-30/"
+next_post_title: "Bright Sayings of Bright People, No. 30"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**No, Not Me (I think)**
-**Bright Sayings of Bright People, No. 30**
 
 ## A.E. van Vogt: ‘Throw a Corpse Through the Skylight.’
 
@@ -41,16 +43,43 @@ He would not, however, have anything to do with the changeover to the religion, 
 
 ### 11 Comments
 
-- David B. Williamssays:One of the flaws of early SF was the idea that it had to contain science, or at least speculations about the future based on science. But SF is just a sub-genre of fantasy, and the science-speculation story is just a sub-genre of SF, not the whole thing. I’m not saying that Van Vogt was a great writer, but as a storyteller he understood that you don’t have to emulate Hugo Gernsback and teach science to your readers as you go along. I wouldn’t know there was an internal combusion engine in automobiles if I hadn’t read it somewhere; I just get in my car and go. That’s how Van Vogt wrote stories and, more importantly, how his readers read them.April 27, 2012, 9:29 am
-- Walt Gsays:I just love these reminiscences, Mr. Pohl.April 27, 2012, 11:22 pm
-- H. E. Parmersays:I agree with David B. Williams: I don’t see how Knight’s making a valid criticism of Van Vogt by carping about the scientific underpinnings of what are ultimately plot devices and color. Didn’t Sir Arthur Clarke — who wrote more than his share of “hard” science fiction — say “Any sufficiently advanced technology is indistinguishable from magic”?Personally, I’ve never quite understood this classification mania, whether a work is science fiction vs. science fantasy vs. speculative fiction. The best of the genre rarely falls so neatly into what are very artificial categories.I’d also argue that something like “ten point steel” is a very clever trick for adding some spuriousverisimilitude to a tale set in the medium-to-far future, a detail so commonplace its (seemingly) offhand mention would need no explanation for a contemporary. The concept’s based on something familiar to the present-day reader (steel) but the context tells them it’s significantly different in a mysterious way, possessing a hardness which can only be measured on a scale that doesn’t exist yet, because the process hasn’t even been invented.April 28, 2012, 1:15 am
-- jackdstephensays:“And all this science I don’t understand.It’s just my job, five days a week.”- E John & B Taupin “Rocket Man”April 30, 2012, 1:15 pm
-- leesays:Vogt’s “Weapon Shops of Isher” remains one of my all time favourite stories. I think it was the time pendulum that did it for me, never mind the science behind it would not easily be explained.May 1, 2012, 3:38 pm
-- Dan Allossosays:My favorite was Quest for the Future.  People take this stuff too seriously sometimes when they review it.  The pace is fast for a reason.  But if you approach it like Doctor Who, it’s a lot of fun.  How’s he going to get out of this convoluted plot?  And sometimes there’s just a great iconic image that sticks with you forever, like weapon shops.  Or a second brain.  Even if the story isn’t up to the image.There’s a great moment in someone else’s story called Wolfbane, I think, where people wired into a computing “Matrix” use the idle cycles to beat their machine masters.  You’ve gotta just stop and cheer for stuff like that, don’t you?May 1, 2012, 3:47 pm
-- susansays:he did as well as possible, with only a Klug brain.May 2, 2012, 10:11 pm
-- susansays:His wife had the best name ever: Leigh (Lie) Bracket!May 2, 2012, 10:13 pm
-- Bruce Arthurssays:Susan, Leigh Brackett was married to Edmond Hamilton, not van Vogt.  Van Vogt’s wife was E. Mayne Hull, who wrote a number of short stories and several novels (the latter in collaboration with van Vogt).And I’ve never heard Leigh pronounced as “lie”.  “Lee”, yes.  “Lay”, yes.  But not “lie”.May 3, 2012, 1:20 pm
-- Dan Gollubsays:A Klug brain nevertheless can attain ten point thinking.May 6, 2012, 12:28 pm
+- David B. Williams says:
+One of the flaws of early SF was the idea that it had to contain science, or at least speculations about the future based on science. But SF is just a sub-genre of fantasy, and the science-speculation story is just a sub-genre of SF, not the whole thing. I’m not saying that Van Vogt was a great writer, but as a storyteller he understood that you don’t have to emulate Hugo Gernsback and teach science to your readers as you go along. I wouldn’t know there was an internal combusion engine in automobiles if I hadn’t read it somewhere; I just get in my car and go. That’s how Van Vogt wrote stories and, more importantly, how his readers read them.
+April 27, 2012, 9:29 am
+- Walt G says:
+I just love these reminiscences, Mr. Pohl.
+April 27, 2012, 11:22 pm
+- H. E. Parmer says:
+I agree with David B. Williams: I don’t see how Knight’s making a valid criticism of Van Vogt by carping about the scientific underpinnings of what are ultimately plot devices and color. Didn’t Sir Arthur Clarke — who wrote more than his share of “hard” science fiction — say “Any sufficiently advanced technology is indistinguishable from magic”?
+Personally, I’ve never quite understood this classification mania, whether a work is science fiction vs. science fantasy vs. speculative fiction. The best of the genre rarely falls so neatly into what are very artificial categories.
+I’d also argue that something like “ten point steel” is a very clever trick for adding some spurious
+verisimilitude to a tale set in the medium-to-far future, a detail so commonplace its (seemingly) offhand mention would need no explanation for a contemporary. The concept’s based on something familiar to the present-day reader (steel) but the context tells them it’s significantly different in a mysterious way, possessing a hardness which can only be measured on a scale that doesn’t exist yet, because the process hasn’t even been invented.
+April 28, 2012, 1:15 am
+- jackdstephen says:
+“And all this science I don’t understand.
+It’s just my job, five days a week.”
+- E John & B Taupin “Rocket Man”
+April 30, 2012, 1:15 pm
+- lee says:
+Vogt’s “Weapon Shops of Isher” remains one of my all time favourite stories. I think it was the time pendulum that did it for me, never mind the science behind it would not easily be explained.
+May 1, 2012, 3:38 pm
+- Dan Allosso says:
+My favorite was Quest for the Future.  People take this stuff too seriously sometimes when they review it.  The pace is fast for a reason.  But if you approach it like Doctor Who, it’s a lot of fun.  How’s he going to get out of this convoluted plot?  And sometimes there’s just a great iconic image that sticks with you forever, like weapon shops.  Or a second brain.  Even if the story isn’t up to the image.  
+There’s a great moment in someone else’s story called Wolfbane, I think, where people wired into a computing “Matrix” use the idle cycles to beat their machine masters.  You’ve gotta just stop and cheer for stuff like that, don’t you?
+May 1, 2012, 3:47 pm
+- susan says:
+he did as well as possible, with only a Klug brain.
+May 2, 2012, 10:11 pm
+- susan says:
+His wife had the best name ever: Leigh (Lie) Bracket!
+May 2, 2012, 10:13 pm
+- Bruce Arthurs says:
+Susan, Leigh Brackett was married to Edmond Hamilton, not van Vogt.  Van Vogt’s wife was E. Mayne Hull, who wrote a number of short stories and several novels (the latter in collaboration with van Vogt).
+And I’ve never heard Leigh pronounced as “lie”.  “Lee”, yes.  “Lay”, yes.  But not “lie”.
+May 3, 2012, 1:20 pm
+- Dan Gollub says:
+A Klug brain nevertheless can attain ten point thinking.
+May 6, 2012, 12:28 pm
 - H. E. Parmer says:
 Dan:
 That “someone else” was none other than our talented host, in collaboration with Cyril Kornbluth. I re-read Wolfbane for the first time in many years just last summer; it was every bit as good as I remembered — maybe even better, now that I’ve a bit more experience and (hopefully) maturity to bring to my side of the writer/reader equation.

@@ -4,6 +4,10 @@ date: 2009-08-25
 categories: ["Space", "Writing"]
 tags: ["How-to"]
 archive_url: "https://web.archive.org/web/20170801000000/http://www.thewaythefutureblogs.com/2009/08/freds-distilled-writing-wisdom-part-1/"
+prev_post_url: "/posts/2009-08-25-why-new-postings-have-been-sparse-lately/"
+prev_post_title: "Why New Postings Have Been Sparse Lately"
+next_post_url: "/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
+next_post_title: "When I Graduated from High School (After 73 Years)"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Why New Postings Have Been Sparse Lately**
-**When I Graduated from High School (After 73 Years)**
 
 ## Fred’s Distilled Writing Wisdom, Part 1
 
@@ -57,10 +59,23 @@ V. Good luck!
 
 ### 5 Comments
 
-- Phoenixsays:“If you are a good-looking woman, do not include pictures of yourself in a bikini.”I’m afraid to ask this, but is there a story behind this bit? And wouldn’t bikini pictures of people who aren’t good-looking women be worse?I haven’t commented here before, so as long as I’m doing so I’d like to mention that I discovered your work last year or so and became an immediate fan. Still haven’t read very many of your books, but I’m remedying that as fast as I can and love the ones I have read. I also very much enjoy this blog and am always happy to see it updated. Thanks for helping make my world a better place.-Phoenix, who’s stuck trying to master part I. 2.August 25, 2009, 2:58 pm
-- EdSsays:And if you can figure out how to number the manuscript pages then you’re probably also smart enough to find and use the spell checker.August 26, 2009, 11:10 pm
-- John Murphysays:I wish I had read this yesterday — I just sent off my first story to a magazine this very morning and it never occurred to me to paperclip the stamp on the SASE.  I will have to remember this in the future, because that does seem like a very considerate thing to do!(Thankfully, I did indeed remember to number the damn pages, but I have to admit that I only thought of it just before printing the final copy)August 29, 2009, 2:22 pm
-- Tina Blacksays:“If you are a good-looking woman, do not include pictures of yourself in a bikini. Make it as brief as you can.”Less, eh?  I have to get rid of that visual.August 29, 2009, 7:26 pm
+- Phoenix says:
+“If you are a good-looking woman, do not include pictures of yourself in a bikini.”
+I’m afraid to ask this, but is there a story behind this bit? And wouldn’t bikini pictures of people who aren’t good-looking women be worse?
+I haven’t commented here before, so as long as I’m doing so I’d like to mention that I discovered your work last year or so and became an immediate fan. Still haven’t read very many of your books, but I’m remedying that as fast as I can and love the ones I have read. I also very much enjoy this blog and am always happy to see it updated. Thanks for helping make my world a better place.
+-Phoenix, who’s stuck trying to master part I. 2.
+August 25, 2009, 2:58 pm
+- EdS says:
+And if you can figure out how to number the manuscript pages then you’re probably also smart enough to find and use the spell checker.
+August 26, 2009, 11:10 pm
+- John Murphy says:
+I wish I had read this yesterday — I just sent off my first story to a magazine this very morning and it never occurred to me to paperclip the stamp on the SASE.  I will have to remember this in the future, because that does seem like a very considerate thing to do!
+(Thankfully, I did indeed remember to number the damn pages, but I have to admit that I only thought of it just before printing the final copy)
+August 29, 2009, 2:22 pm
+- Tina Black says:
+“If you are a good-looking woman, do not include pictures of yourself in a bikini. Make it as brief as you can.”
+Less, eh?  I have to get rid of that visual.
+August 29, 2009, 7:26 pm
 - Gary Farber says:
 “And if you can figure out how to number the manuscript pages then you’re probably also smart enough to find and use the spell checker.”
 Which if you rely on it, will lead to homophone errors; you need to proof by eye to avoid all the errors a spell-checker will leave you with anyway, or which the spell-checker will even helpfully generate for you if you follow its suggestions, and you’re better off practicing your proofing by eye so as to increase your practice.

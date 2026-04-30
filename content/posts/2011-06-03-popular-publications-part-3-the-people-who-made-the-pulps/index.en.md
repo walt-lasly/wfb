@@ -4,6 +4,10 @@ date: 2011-06-03
 categories: ["Authors"]
 tags: ["Dashiell Hammet", "Editors", "Ethel Klock", "George Jean Nathan", "H. L. Mencken", "Jane Littell", "Joseph T. Shaw", "Kenneth White", "New York", "Poetry", "Prozines", "Publishing", "Pulps", "Raymond Chandler", "Television"]
 archive_url: "https://web.archive.org/web/20170620010510/http://www.thewaythefutureblogs.com/2011/06/popular-publications-part-3-the-people-who-made-the-pulps/"
+prev_post_url: "/posts/2011-05-31-popular-publications-part-2/"
+prev_post_title: "Popular Publications, Part 2"
+next_post_url: "/posts/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
+next_post_title: "Bright Sayings of Bright People, No. 15: Stoppard"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Popular Publications, Part 2**
-**Bright Sayings of Bright People, No. 15: Stoppard**
 
 ## Popular Publications, Part 3:The People Who Made the Pulps
 
@@ -91,17 +93,38 @@ No other time ever came.
 
 **Related posts:**
 
-- **Popular Publications**, **Part 1**, **Part 2**, **Part 4**, **Part 5**, **Part 6**, **Part 7**
+- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 6 Comments
 
-- LeRoy Pearlesays:Thanks so much for these great stories, Fred! It’s wonderful to get an inside view of the pulp industry and the early years of science fiction. I have a question.. since the worlds of pulps and comic books so often intersected, and you clearly had a good eye for an opportunity – were you involved in the early years of comics as well? I’m thinking of all the pulp and sci fi authors who did have comic book careers such as Harry Harrison, Manly Wade Wellman, etc and just scratching my head wondering if I had ever come across a Frederik Pohl story in the comics.June 3, 2011, 5:55 am
-- Stefan Jonessays:Great details on a lost world!How was art handled? Entirely freelance?June 3, 2011, 12:25 pm
-- Bill Goodwinsays:A carnival equestrienneNow crafted flatter fantasy,But that was too pedestrianA romance for a man like me,I needed space: the airless kind,She needed love: the freelance type,I left her unrush pile behind,She was a peach! But overripe.June 4, 2011, 3:11 pm
-- Bill Higgins-- Beam Jockeysays:Give that man two dollars!June 6, 2011, 9:26 am
-- steve davidsonsays:Your mention here of ‘buying stories from yourself’ reminded me that I found inspiration and a paycheck from your original mentioning of this trick in The Way the Future Was.  I took a job editing a retail magazine on very low pay based on my knowledge that if I followed your lead I could pad the pay with checks from articles I wrote myself.  And yes, it worked.  Thanks for that, Fred.June 10, 2011, 6:40 am
-- michael Walshsays:A little poking of the web with Mr Google reveals that it is likely that the “Black Mask” Ken White was the same Ken White who became a literary agent.  And one of his clients was H. Beam Piper.Sadly, White’s sudden death led to a world of financial woe for Piper, causing Piper to take his own lifeJune 13, 2011, 4:32 pm
+- LeRoy Pearle says:
+Thanks so much for these great stories, Fred! It’s wonderful to get an inside view of the pulp industry and the early years of science fiction. I have a question.. since the worlds of pulps and comic books so often intersected, and you clearly had a good eye for an opportunity – were you involved in the early years of comics as well? I’m thinking of all the pulp and sci fi authors who did have comic book careers such as Harry Harrison, Manly Wade Wellman, etc and just scratching my head wondering if I had ever come across a Frederik Pohl story in the comics.
+June 3, 2011, 5:55 am
+- Stefan Jones says:
+Great details on a lost world!
+How was art handled? Entirely freelance?
+June 3, 2011, 12:25 pm
+- Bill Goodwin says:
+A carnival equestrienne
+Now crafted flatter fantasy,
+But that was too pedestrian
+A romance for a man like me,
+I needed space: the airless kind,
+She needed love: the freelance type,
+I left her unrush pile behind,
+She was a peach! But overripe.
+June 4, 2011, 3:11 pm
+- Bill Higgins-- Beam Jockey says:
+Give that man two dollars!
+June 6, 2011, 9:26 am
+- steve davidson says:
+Your mention here of ‘buying stories from yourself’ reminded me that I found inspiration and a paycheck from your original mentioning of this trick in The Way the Future Was.  I took a job editing a retail magazine on very low pay based on my knowledge that if I followed your lead I could pad the pay with checks from articles I wrote myself.  And yes, it worked.  Thanks for that, Fred.
+June 10, 2011, 6:40 am
+- michael Walsh says:
+A little poking of the web with Mr Google reveals that it is likely that the “Black Mask” Ken White was the same Ken White who became a literary agent.  And one of his clients was H. Beam Piper.
+Sadly, White’s sudden death led to a world of financial woe for Piper, causing Piper to take his own life
+June 13, 2011, 4:32 pm
 
 **WordPress**
 **TWTFB2**

@@ -4,6 +4,10 @@ date: 2012-01-02
 categories: ["Authors"]
 tags: ["Adolf Hitler", "C.M. Kornbluth", "Clubs", "Donald A. Wollheim", "Editors", "Futurians", "Poetry", "Robert A.W. Lowndes", "World War II"]
 archive_url: "https://web.archive.org/web/20120529132115/http://www.thewaythefutureblogs.com/2012/01/cyril-kornbluth-part-2/"
+prev_post_url: "/posts/2011-12-29-here-s-to-the-occupiers/"
+prev_post_title: "Here’s to the Occupiers!"
+next_post_url: "/posts/2012-01-04-bright-sayings-of-bright-people-no-22/"
+next_post_title: "Bright Sayings of Bright People, No. 22"
 translated: false
 ---
 
@@ -12,8 +16,6 @@ translated: false
 
 Frederik Pohl
 
-**Here’s to the Occupiers!**
-**Bright Sayings of Bright People, No. 22**
 
 ## Cyril Kornbluth, Part 2
 
@@ -50,14 +52,19 @@ For this branch of service the Army had great and unanticipated need, since Hitl
 
 **Related posts:**
 
-- **Cyril Kornbluth,** **Part 1**
-- **Mary Kornbluth,** **Part 1**, **Part 2**, **Part 3**
+- **Cyril Kornbluth,** [**Part 1**](/posts/2009-04-20-cyril/)
+- **Mary Kornbluth,** [**Part 1**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 2**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), [**Part 3**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
 
 
 ### 2 Comments
 
-- J.J.S. Boycesays:Hello Mr. Pohl,I discovered your blog only a couple of weeks ago, and I\’ve read the entire archives since then. The Best Fan Writer Hugo was well deserved. I look forward to the next post.January 2, 2012, 4:37 pm
-- Gus Hinrichsays:My dad was drafted in 1943 & ended up in the ASTP, going to U. of Cinncinati for a time. As you relate, this didn’t last, and he went to the 14th Armored Division. As far as I know, about all the ASTP soldiers ended up as cadre, various noncoms % officers. The army was good at identifying potential leaders.January 2, 2012, 6:11 pm
+- J.J.S. Boyce says:
+Hello Mr. Pohl,
+I discovered your blog only a couple of weeks ago, and I\’ve read the entire archives since then. The Best Fan Writer Hugo was well deserved. I look forward to the next post.
+January 2, 2012, 4:37 pm
+- Gus Hinrich says:
+My dad was drafted in 1943 & ended up in the ASTP, going to U. of Cinncinati for a time. As you relate, this didn’t last, and he went to the 14th Armored Division. As far as I know, about all the ASTP soldiers ended up as cadre, various noncoms % officers. The army was good at identifying potential leaders.
+January 2, 2012, 6:11 pm
 
 **WordPress**
 **TWTFB2**
