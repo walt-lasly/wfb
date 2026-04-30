@@ -11,3 +11,6 @@ content/**/ir[*
 
 # IDE
 .idea/
+
+# DeepL files
+deepl.key

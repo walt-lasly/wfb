@@ -1,0 +1,198 @@
+# DeepL Glossary for Fred Pohl's blog translation (English → Russian)
+# Format: English<TAB>Russian
+# Lines starting with # are ignored.
+# After editing this file, run:
+#   python3 translate.py --key YOUR_KEY --sync-glossary
+# to upload changes to DeepL.
+#
+# NOTE: DeepL glossaries are case-sensitive on the source side.
+# Add both capitalized and lowercase variants if needed.
+
+# ── People ────────────────────────────────────────────────────────────────────
+Frederik Pohl	Фредерик Пол
+Fred Pohl	Фред Пол
+Isaac Asimov	Айзек Азимов
+Asimov	Азимов
+Robert A. Heinlein	Роберт Хайнлайн
+Heinlein	Хайнлайн
+Arthur C. Clarke	Артур Кларк
+Arthur Clarke	Артур Кларк
+Clarke	Кларк
+Cyril Kornbluth	Сирил Корнблат
+Kornbluth	Корнблат
+Jack Williamson	Джек Уильямсон
+Williamson	Уильямсон
+L. Sprague de Camp	Л. Спрэг де Камп
+de Camp	де Камп
+Lester del Rey	Лестер дель Рей
+del Rey	дель Рей
+Judy-Lynn del Rey	Джуди-Линн дель Рей
+Judy-Lynn Benjamin	Джуди-Линн Бенджамин
+Horace Gold	Хорас Голд
+H. L. Gold	Г. Л. Голд
+Gold	Голд
+John W. Campbell	Джон В. Кэмпбелл
+Campbell	Кэмпбелл
+Ray Bradbury	Рэй Брэдбери
+Bradbury	Брэдбери
+Philip K. Dick	Филип К. Дик
+Philip Dick	Филип Дик
+Dick	Дик
+Theodore Sturgeon	Теодор Старджон
+Sturgeon	Старджон
+Damon Knight	Деймон Найт
+Knight	Найт
+Judith Merril	Джудит Меррил
+Merril	Меррил
+Virginia Kidd	Вирджиния Кидд
+Harlan Ellison	Харлан Эллисон
+Ellison	Эллисон
+Robert Silverberg	Роберт Силверберг
+Silverberg	Силверберг
+Gordon Dickson	Гордон Диксон
+Dickson	Диксон
+Poul Anderson	Пол Андерсон
+Clifford Simak	Клиффорд Саймак
+Simak	Саймак
+E. E. Smith	Э. Э. Смит
+Doc Smith	Док Смит
+Henry Kuttner	Генри Каттнер
+Kuttner	Каттнер
+C. L. Moore	К. Л. Мур
+Murray Leinster	Мюррей Лейнстер
+Leinster	Лейнстер
+A. E. van Vogt	А. Э. ван Вогт
+van Vogt	ван Вогт
+Olaf Stapledon	Олаф Стэплдон
+H. G. Wells	Г. Дж. Уэллс
+Jules Verne	Жюль Верн
+Hugo Gernsback	Хьюго Гернсбек
+Gernsback	Гернсбек
+Sam Moskowitz	Сэм Московиц
+Moskowitz	Московиц
+Donald Wollheim	Дональд Уоллхейм
+Wollheim	Уоллхейм
+Anthony Boucher	Энтони Бучер
+Boucher	Бучер
+Mick McCauley	Мик Маккоули
+Bob Tucker	Боб Такер
+Tucker	Такер
+Sprague	Спрэг
+Josie (Josephine) Pohl	Джози Пол
+Carol Pohl	Кэрол Пол
+Betty Anne Hull	Бетти Энн Халл
+Elizabeth Anne Hull	Элизабет Энн Халл
+Elizabeth Hull	Элизабет Халл
+Betty Hull	Бетти Халл
+Hull	Халл
+Richard Bergner	Ричард Бергнер
+Robert Sheckley	Роберт Шекли
+Sheckley	Шекли
+Larry Niven	Ларри Нивен
+Niven	Нивен
+Jerry Pournelle	Джерри Пурнелл
+Pournelle	Пурнелл
+Norman Spinrad	Норман Спинрад
+Spinrad	Спинрад
+Algis Budrys	Элджис Будрис
+Budrys	Будрис
+Kate Wilhelm	Кейт Вильгельм
+Wilhelm	Вильгельм
+Barry Malzberg	Барри Молзберг
+Malzberg	Молзберг
+Virginia Heinlein	Вирджиния Хайнлайн
+
+# ── Publications (do not translate titles) ───────────────────────────────────
+Galaxy Science Fiction	Galaxy Science Fiction
+Galaxy	Galaxy
+Astounding Science Fiction	Astounding Science Fiction
+Astounding	Astounding
+Analog Science Fiction	Analog Science Fiction
+Analog	Analog
+Amazing Stories	Amazing Stories
+Amazing	Amazing
+Worlds of If	Worlds of If
+The Magazine of Fantasy and Science Fiction	The Magazine of Fantasy and Science Fiction
+Fantasy and Science Fiction	Fantasy and Science Fiction
+Infinity Science Fiction	Infinity Science Fiction
+Super Science Stories	Super Science Stories
+Worlds of Tomorrow	Worlds of Tomorrow
+Science Fiction Quarterly	Science Fiction Quarterly
+Future Science Fiction	Future Science Fiction
+Star Science Fiction	Star Science Fiction
+
+# ── Book titles (do not translate) ───────────────────────────────────────────
+The Space Merchants	Торговцы Космосом (The Space Merchants)
+Gladiator-at-Law	Гладиатор По Закону (Gladiator-at-Law)
+Slave Ship	Невольничий Корабль (Slave Ship)
+Wolfbane	Волчья Напасть (Wolfbane)
+The Way the Future Was	Ретроспектива Будущего (The Way the Future Was)
+Man Plus	Человек Плюс (Man Plus)
+Gateway	Врата (Gateway)
+Heechee Rendezvous	Встреча с Хичи (Heechee Rendezvous)
+Beyond the Blue Event Horizon	За Синим Горизонтом Событий (Beyond the Blue Event Horizon)
+The Annals of the Heechee	Анналы Хичи (The Annals of the Heechee)
+The Boy Who Would Live Forever	Парень, Который Будет Жить Вечно (The Boy Who Would Live Forever)
+The World at the End of Time	Мир На Краю Времени (The World at the End of Time)
+Narabedla Ltd.	Корпорация «Нарабедла» (Narabedla Ltd.)
+The Coming of the Quantum Cats	Нашествие Квантовых Котов  (The Coming of the Quantum Cats)
+Mining the Oort	Кометы Оорта (Mining the Oort)
+O Pioneer!	О Пионер! (O Pioneer!)
+Gravy Planet	Торговцы Космосом (Gravy Planet)
+All the Lives He Led	All the Lives He Led
+The Last Theorem	Последняя теорема  (The Last Theorem)
+Our Angry Earth	Our Angry Earth
+
+# ── Book titles by other authors ─────────────────────────────────────────────
+The Demolished Man	Разрушенный Человек (The Demolished Man)
+The Stars My Destination	Тигр! Тигр! (The Stars My Destination)
+Tiger! Tiger!	Тигр! Тигр! (Tiger! Tiger!)
+Foundation	Основание (Foundation)
+I, Robot	Я, Робот (I, Robot)
+The Early Asimov	Ранний Азимов (The Early Asimov)
+Stranger in a Strange Land	Чужак в Чужой Стране (Stranger in a Strange Land)
+The Moon is a Harsh Mistress	Луна — Суровая Хозяйка (The Moon is a Harsh Mistress)
+Starship Troopers	Звёздный Десант (Starship Troopers)
+Dhalgren	Далгрен (Dhalgren)
+Dune	Дюна (Dune)
+Lest Darkness Fall	Да Не Опустится Тьма (Lest Darkness Fall)
+The Female Man	Женщина-мужчина (The Female Man)
+Battlefield Earth	Поле Битвы — Земля (Battlefield Earth)
+The Dragon Masters	Повелители Драконов (The Dragon Masters)
+The Last Castle	Последний Замок (The Last Castle)
+Fahrenheit 451	451 Градус по Фаренгейту (Fahrenheit 451)
+2001: A Space Odyssey	2001: Космическая Одиссея (2001: A Space Odyssey)
+Slan	Слэн (Slan)
+The Humanoids	Гуманоиды (The Humanoids)
+The War of the Worlds	Война Миров (The War of the Worlds)
+The Time Machine	Машина Времени (The Time Machine)
+A Canticle for Leibowitz	Гимн Лейбовицу (A Canticle for Leibowitz)
+
+# ── Organizations / Awards ────────────────────────────────────────────────────
+Science Fiction Writers of America	Американская ассоциация писателей-фантастов (SFWA)
+SFWA	SFWA
+World Science Fiction Society	Всемирное Общество Научной Фантастики
+Hugo Award	Хьюго
+Nebula Award	Небьюла
+John W. Campbell Award	Премия Джона В. Кэмпбелла
+World Science Fiction Convention	Всемирная Конвенция Научной Фантастики
+Worldcon	Ворлдкон
+Futurians	Футурианцы
+Science Fiction League	Лига Научной Фантастики (Science Fiction League)
+SFL	ЛНФ (SFL)
+Brooklyn Science Fiction League	Бруклинская Лига Научной Фантастики (Brooklyn Science Fiction League)
+BSFL	БЛНФ (BSFL)
+International Scientific Association	Международная Научная Ассоциация (International Scientific Association)
+ISA	МНА (ISA)
+
+# ── Terms (keep untranslated or use established Russian equivalents) ──────────
+science fiction	научная фантастика
+SF	НФ
+sci-fi	НФ
+pulp	палп
+fanzine	фэнзин
+fandom	фэндом
+fan	фэн
+con	конвент
+prozine	прозин
+Heechee	Хичи

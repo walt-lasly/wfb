@@ -11,6 +11,29 @@ next_post_title: "Welcome (We Think), Senator Arlen Specter (D-PA)"
 translated: false
 ---
 
-<!-- ПЕРЕВОД -->
-<!-- Замените эту строку переводом статьи. -->
-<!-- Когда перевод готов, установите translated: true в front matter выше. -->
+# The Way the Future Blogs
+
+
+Фредерик Пол
+
+
+## Caturday
+
+
+{{< figure src="amy.jpg" alt="Amy" caption="Amy" >}}
+
+
+### 3 комментария
+
+- [Celsius1414](https://web.archive.org/web/20090720042946/http://www.celsius1414.com/) говорит:
+Самое пушистое в мире пресс-папье.
+[**May 30, 2009, 10:57 am**](/posts/2009-05-30-caturday/)
+- [Shakatany](https://web.archive.org/web/20090720042946/http://shakatany.livejournal.com/) говорит:
+Вот это большая кошка. Как его/ее зовут? Подробности, пожалуйста.
+[**May 30, 2009, 11:35 am**](/posts/2009-05-30-caturday/)
+- Патриция сказала:
+А, кошачий кодекс... "Если ты им пользуешься, то я на него ложусь" ^_^
+[**31 мая 2009, 14:55 pm**](/posts/2009-05-30-caturday/)
+
+[WordPress](https://web.archive.org/web/20090720042946/http://wordpress.org/)
+[TWTFB](https://web.archive.org/web/20090720042946/http://dicksmithsoftware.com/)

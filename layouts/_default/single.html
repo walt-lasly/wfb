@@ -37,9 +37,13 @@
     <a class="back-link" href="{{ .Site.Home.RelPermalink }}">{{ i18n "back_to_list" }}</a>
     <h1 class="post-title">
       {{- if and $ru $en -}}
-        {{ $ru.Title }}
+        {{ .Title }}
         {{ if ne $ru.Title $en.Title }}
-          <span class="post-title-en">/ {{ $en.Title }}</span>
+          {{- if eq .Language.Lang "ru" -}}
+            <span class="post-title-en">/ {{ $en.Title }}</span>
+          {{- else -}}
+            <span class="post-title-en">/ {{ $ru.Title }}</span>
+          {{- end -}}
         {{ end }}
       {{- else -}}
         {{ .Title }}
