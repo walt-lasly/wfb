@@ -35,50 +35,22 @@ import sys
 import time
 from pathlib import Path
 
+from translate_common import (
+    CONTENT_DIR,
+    GLOSSARY_FILE,
+    STUB_MARKER,
+    backup_if_different_translator,
+    load_glossary_entries,
+    protect,
+    restore,
+    split_frontmatter,
+)
+
 try:
     import requests
 except ImportError:
     print("Error: 'requests' not installed. Run: pip install requests", file=sys.stderr)
     sys.exit(1)
-
-SCRIPT_DIR    = Path(__file__).parent
-CONTENT_DIR   = SCRIPT_DIR / "content" / "posts"
-GLOSSARY_FILE = SCRIPT_DIR / "glossary.txt"
-STUB_MARKER   = "<!-- ПЕРЕВОД -->"
-
-# Hugo shortcodes: {{< ... >}} and {{% ... %}}
-_SHORTCODE_RE = re.compile(r'\{\{[<%].*?[>%]\}\}', re.DOTALL)
-# Markdown link / image URLs: [text](URL) — protect URL, leave text translatable
-_LINK_URL_RE  = re.compile(r'(\[[^\]]*\])\(([^)\s]+)\)')
-
-
-def protect(text: str):
-    """Replace Hugo shortcodes and link URLs with XHOLD_N_X tokens.
-
-    Returns (protected_text, slots) where slots[N] is the original value.
-    Token format is all-caps with underscores — DeepL treats these as
-    identifiers and leaves them untouched.
-    """
-    slots = []
-
-    def slot(val: str) -> str:
-        n = len(slots)
-        slots.append(val)
-        return f"XHOLD_{n}_X"
-
-    # Protect shortcodes first (they may contain square brackets)
-    text = _SHORTCODE_RE.sub(lambda m: slot(m.group()), text)
-    # Protect link/image URLs (keep link text translatable)
-    text = _LINK_URL_RE.sub(lambda m: m.group(1) + "(" + slot(m.group(2)) + ")", text)
-
-    return text, slots
-
-
-def restore(text: str, slots: list) -> str:
-    """Restore XHOLD_N_X placeholders to their original values."""
-    for n, val in enumerate(slots):
-        text = text.replace(f"XHOLD_{n}_X", val)
-    return text
 
 
 def deepl_translate(text: str, api_key: str, pro: bool,
@@ -106,21 +78,6 @@ def deepl_translate(text: str, api_key: str, pro: bool,
     )
     r.raise_for_status()
     return r.json()["translations"][0]["text"]
-
-
-def load_glossary_entries() -> dict:
-    """Read glossary.txt and return {english: russian} dict."""
-    if not GLOSSARY_FILE.exists():
-        return {}
-    entries = {}
-    for line in GLOSSARY_FILE.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        parts = line.split("\t", 1)
-        if len(parts) == 2:
-            entries[parts[0].strip()] = parts[1].strip()
-    return entries
 
 
 def sync_glossary(api_key: str, pro: bool):
@@ -183,17 +140,6 @@ def get_glossary_id(api_key: str, pro: bool) -> str:
     return ""
 
 
-def split_frontmatter(content: str):
-    """Split a Hugo markdown file into (front_matter_str, body_str).
-
-    Returns (None, content) if no front matter is found.
-    """
-    m = re.match(r'^---\n(.*?)\n---\n?(.*)', content, re.DOTALL)
-    if not m:
-        return None, content
-    return m.group(1), m.group(2)
-
-
 def translate_post(post_dir: Path, api_key: str, force: bool, pro: bool,
                    dry_run: bool, glossary_id: str = "") -> str:
     """Translate one post directory's index.en.md → index.ru.md.
@@ -246,14 +192,18 @@ def translate_post(post_dir: Path, api_key: str, force: bool, pro: bool,
         except Exception as e:
             return f"error-title: {e}"
 
-    # Build Russian front matter — same as English except translated title
+    # Build Russian front matter — same as English except translated title + translator tag
     ru_fm = fm
     if en_title and ru_title != en_title:
         # Escape any double-quotes in the translated title
         ru_title_safe = ru_title.replace('"', '&quot;')
         ru_fm = ru_fm.replace(f'title: "{en_title}"', f'title: "{ru_title_safe}"')
+    # Set/update translator field
+    ru_fm = re.sub(r'\ntranslator:.*', '', ru_fm)
+    ru_fm += '\ntranslator: "DeepL"'
 
-    ru_path.write_text(f"---\n{ru_fm}\n---\n{ru_body}", encoding="utf-8")
+    backup_if_different_translator(ru_path, "DeepL")
+    ru_path.write_text(f"---\n{ru_fm}\n---\n<!-- translated by DeepL -->\n{ru_body}", encoding="utf-8")
     return "ok"
 
 

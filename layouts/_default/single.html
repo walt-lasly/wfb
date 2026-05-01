@@ -83,10 +83,16 @@
   </div>
 
   {{ else }}
-  {{/* ── Single column (no translation yet) ── */}}
+  {{/* ── Single column (machine translated or not yet translated) ── */}}
+  {{ if .Params.translator }}
+  <div class="translated-banner">
+    <span>{{ i18n "translated_by_note" .Params.translator }}</span>
+  </div>
+  {{ else }}
   <div class="no-translation-banner">
     <span>{{ i18n "not_translated_note" }}</span>
   </div>
+  {{ end }}
   <div class="single-column" data-pagefind-body>
     {{ .Content }}
   </div>

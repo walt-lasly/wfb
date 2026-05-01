@@ -249,6 +249,17 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--color-accent);
 }
 
+.translated-banner {
+  background: #f0faf0;
+  border: 1px solid #7cb87c;
+  border-radius: 6px;
+  padding: 0.7rem 1rem;
+  margin-bottom: 2rem;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: #3a7a3a;
+}
+
 /* Single-column reading layout */
 .single-column { max-width: var(--reading-max); }
 
