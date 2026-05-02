@@ -11,8 +11,12 @@
 # ── People ────────────────────────────────────────────────────────────────────
 Frederik Pohl	Фредерик Пол
 Fred Pohl	Фред Пол
+Pohl	Пол
 Isaac Asimov	Айзек Азимов
 Asimov	Азимов
+Janet Asimov	Джанет Азимов
+Janet Jeppson	Джанет Джеппсон
+Janet	Джанет
 Robert A. Heinlein	Роберт Хайнлайн
 Heinlein	Хайнлайн
 Arthur C. Clarke	Артур Кларк
@@ -120,6 +124,7 @@ Worlds of Tomorrow	Worlds of Tomorrow
 Science Fiction Quarterly	Science Fiction Quarterly
 Future Science Fiction	Future Science Fiction
 Star Science Fiction	Star Science Fiction
+Wonder Stories	Wonder Stories
 
 # ── Book titles (do not translate) ───────────────────────────────────────────
 The Space Merchants	Торговцы Космосом (The Space Merchants)
@@ -140,7 +145,7 @@ Mining the Oort	Кометы Оорта (Mining the Oort)
 O Pioneer!	О Пионер! (O Pioneer!)
 Gravy Planet	Торговцы Космосом (Gravy Planet)
 All the Lives He Led	All the Lives He Led
-The Last Theorem	Последняя теорема  (The Last Theorem)
+The Last Theorem	Последняя теорема (The Last Theorem)
 Our Angry Earth	Our Angry Earth
 
 # ── Book titles by other authors ─────────────────────────────────────────────
@@ -167,6 +172,9 @@ The Humanoids	Гуманоиды (The Humanoids)
 The War of the Worlds	Война Миров (The War of the Worlds)
 The Time Machine	Машина Времени (The Time Machine)
 A Canticle for Leibowitz	Гимн Лейбовицу (A Canticle for Leibowitz)
+Shto Eta Fantastika?	Shto Eta Fantastika?
+I. Asimov	Я, Азимов
+I, Asimov	Я, Азимов
 
 # ── Organizations / Awards ────────────────────────────────────────────────────
 Science Fiction Writers of America	Американская ассоциация писателей-фантастов (SFWA)
@@ -182,6 +190,8 @@ Science Fiction League	Лига Научной Фантастики (Science Fic
 SFL	ЛНФ (SFL)
 Brooklyn Science Fiction League	Бруклинская Лига Научной Фантастики (Brooklyn Science Fiction League)
 BSFL	БЛНФ (BSFL)
+Queens Science Fiction League	Лига Научной Фантастики Куинса (Queens Science Fiction League)
+QSFL	КЛНФ (QSFL)
 International Scientific Association	Международная Научная Ассоциация (International Scientific Association)
 ISA	МНА (ISA)
 
