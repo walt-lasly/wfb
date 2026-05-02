@@ -9,7 +9,9 @@ prev_post_title: "Nice to Meet You"
 next_post_url: "/posts/2009-01-19-why-i-m-no-pen-pal/"
 next_post_title: "Why I’m No Pen Pal"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

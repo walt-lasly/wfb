@@ -9,7 +9,9 @@ prev_post_title: "Betty’s Law"
 next_post_url: "/posts/2009-04-20-cyril/"
 next_post_title: "Cyril"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

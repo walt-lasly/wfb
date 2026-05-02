@@ -9,7 +9,9 @@ prev_post_title: "Caturday"
 next_post_url: "/posts/2009-06-04-i-m-photic-how-are-you/"
 next_post_title: "I’m Photic, How Are You?"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

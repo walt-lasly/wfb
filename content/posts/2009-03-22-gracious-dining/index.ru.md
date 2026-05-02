@@ -9,7 +9,9 @@ prev_post_title: "Me and the Biz, Part II (continued)"
 next_post_url: "/posts/2009-03-26-judgment-day-the-cruise/"
 next_post_title: "Judgment Day: The Cruise"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

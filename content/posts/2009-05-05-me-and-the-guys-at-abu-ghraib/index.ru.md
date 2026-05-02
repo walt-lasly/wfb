@@ -9,7 +9,9 @@ prev_post_title: "A Rose By Any Other Name"
 next_post_url: "/posts/2009-05-08-the-quadrumvirate/"
 next_post_title: "The Quadrumvirate"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

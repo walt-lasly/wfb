@@ -6,7 +6,7 @@ Provides:
   - Placeholder protection  (protect / restore)
   - Glossary loading  (load_glossary_entries)
   - Front-matter parsing  (split_frontmatter)
-  - Translator-backup helpers  (backup_if_different_translator)
+  - Translator file helpers  (write_translation, backup_if_different_translator)
 """
 
 import re
@@ -134,5 +134,22 @@ def backup_if_different_translator(ru_path: Path, own_mark: str) -> None:
     existing_slug = _translator_slug(existing_mark)
     if existing_slug == own_slug:
         return
-    backup_path = ru_path.parent / f"index.ru.{existing_slug}.md"
+    backup_path = ru_path.parent / f"_ru.{existing_slug}.md"
     backup_path.write_text(content, encoding="utf-8")
+
+
+def write_translation(content: str, named_path: Path, ru_path: Path,
+                      own_mark: str, force: bool) -> None:
+    """Write translation to named file and optionally update index.ru.md.
+
+    Always writes ``named_path`` (e.g. _ru.deepl.md).
+    Updates ``ru_path`` (index.ru.md) unless a *different* translator already
+    owns it and ``force`` is False.
+    """
+    named_path.write_text(content, encoding="utf-8")
+    if ru_path.exists() and not force:
+        existing = ru_path.read_text(encoding="utf-8")
+        m = _TRANSLATOR_MARK_RE.search(existing)
+        if m and _translator_slug(m.group(1).strip()) != _translator_slug(own_mark):
+            return  # different translator owns active file — leave it alone
+    ru_path.write_text(content, encoding="utf-8")

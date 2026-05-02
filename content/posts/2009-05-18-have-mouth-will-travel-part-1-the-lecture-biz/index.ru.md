@@ -9,7 +9,9 @@ prev_post_title: "Interesting Reading That You May Have Missed"
 next_post_url: "/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
 next_post_title: "Have Mouth, Will Travel, Part 2: The Planarians"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

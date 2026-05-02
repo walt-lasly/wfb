@@ -9,7 +9,9 @@ prev_post_title: "Why I’m No Pen Pal"
 next_post_url: "/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
 next_post_title: "Reality-Testing Response from Fred’s Wife, the Aforementioned College Professor"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

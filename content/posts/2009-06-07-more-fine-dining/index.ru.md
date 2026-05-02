@@ -9,7 +9,9 @@ prev_post_title: "I’m Photic, How Are You?"
 next_post_url: "/posts/2009-06-11-the-poetry-corner-2/"
 next_post_title: "The Poetry Corner 2"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

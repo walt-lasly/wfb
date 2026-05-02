@@ -9,7 +9,9 @@ prev_post_title: "Me and the Biz, Part II"
 next_post_url: "/posts/2009-03-22-gracious-dining/"
 next_post_title: "Gracious Dining"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

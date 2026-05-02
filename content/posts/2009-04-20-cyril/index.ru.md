@@ -9,7 +9,9 @@ prev_post_title: "Is the Bell Curve a Crystal Ball?"
 next_post_url: "/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/"
 next_post_title: "Maxwell George Frederik Warren Pohl-Weary"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

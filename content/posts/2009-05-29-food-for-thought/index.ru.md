@@ -9,7 +9,9 @@ prev_post_title: "Have Mouth, Will Travel, Part 3: Inventing Cryonics"
 next_post_url: "/posts/2009-05-30-caturday/"
 next_post_title: "Caturday"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

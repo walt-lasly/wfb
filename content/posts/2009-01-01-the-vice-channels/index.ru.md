@@ -4,7 +4,9 @@ date: 2009-01-01
 categories: []
 tags: []
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 - [About](https://web.archive.org/web/20160331153934/http://www.vice.com/pages/about)
 

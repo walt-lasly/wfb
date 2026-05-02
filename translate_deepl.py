@@ -39,11 +39,11 @@ from translate_common import (
     CONTENT_DIR,
     GLOSSARY_FILE,
     STUB_MARKER,
-    backup_if_different_translator,
     load_glossary_entries,
     protect,
     restore,
     split_frontmatter,
+    write_translation,
 )
 
 try:
@@ -147,16 +147,16 @@ def translate_post(post_dir: Path, api_key: str, force: bool, pro: bool,
     Returns a short status string: 'ok', 'skip-done', 'skip-no-en',
     'skip-bad-format', 'dry-run', or 'error: <message>'.
     """
-    en_path = post_dir / "index.en.md"
-    ru_path = post_dir / "index.ru.md"
+    en_path    = post_dir / "index.en.md"
+    ru_path    = post_dir / "index.ru.md"
+    named_path = post_dir / "_ru.deepl.md"
 
     if not en_path.exists():
         return "skip-no-en"
 
-    # Skip if already translated (no stub marker) unless --force
-    if ru_path.exists() and not force:
-        ru_content = ru_path.read_text(encoding="utf-8")
-        if STUB_MARKER not in ru_content:
+    # Skip if DeepL already translated this post unless --force
+    if named_path.exists() and not force:
+        if STUB_MARKER not in named_path.read_text(encoding="utf-8"):
             return "skip-done"
 
     en_text = en_path.read_text(encoding="utf-8")
@@ -202,8 +202,10 @@ def translate_post(post_dir: Path, api_key: str, force: bool, pro: bool,
     ru_fm = re.sub(r'\ntranslator:.*', '', ru_fm)
     ru_fm += '\ntranslator: "DeepL"'
 
-    backup_if_different_translator(ru_path, "DeepL")
-    ru_path.write_text(f"---\n{ru_fm}\n---\n<!-- translated by DeepL -->\n{ru_body}", encoding="utf-8")
+    write_translation(
+        f"---\n{ru_fm}\n---\n<!-- translated by DeepL -->\n{ru_body}",
+        named_path, ru_path, "DeepL", force,
+    )
     return "ok"
 
 
@@ -226,6 +228,10 @@ def main():
                         help="Re-translate posts that already have Russian content")
     parser.add_argument("--dry-run", action="store_true",
                         help="List posts that would be translated without calling API")
+    parser.add_argument("--verbose", "-v", dest="verbose", action="store_true", default=True,
+                        help="Show skipped posts (default: on)")
+    parser.add_argument("--quiet",   "-q", dest="verbose", action="store_false",
+                        help="Hide skipped posts")
     args = parser.parse_args()
 
     if args.sync_glossary:
@@ -267,9 +273,12 @@ def main():
             ok += 1
             time.sleep(0.35)  # free-tier rate limit
         elif status == "dry-run":
-            print(f"  ~  {post_dir.name}")
+            print(f"  ~  {post_dir.name}  (would translate)")
             ok += 1
         elif status.startswith("skip"):
+            if args.verbose:
+                reason = status[len("skip-"):].replace("-", " ")
+                print(f"  ~  {post_dir.name}  ({reason})")
             skipped += 1
         elif "456" in status or "Quota Exceeded" in status:
             print(f"\n  ✗  Quota exceeded at '{post_dir.name}'.")

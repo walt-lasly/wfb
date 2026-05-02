@@ -9,7 +9,9 @@ prev_post_title: "Have Mouth, Will Travel, Part 2: The Planarians"
 next_post_url: "/posts/2009-05-29-food-for-thought/"
 next_post_title: "Food for Thought"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

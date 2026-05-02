@@ -1,5 +1,5 @@
 ---
-title: "Bright Sayings of Bright People, No. 49: de Montaigne"
+title: "Яркие высказывания ярких людей, № 49: де Монтень"
 date: 2013-10-10
 categories: ["Authors", "Personal"]
 tags: ["Michel de Montaigne", "Quotations"]
@@ -9,8 +9,23 @@ prev_post_title: "Frederik Pohl,  Nov. 26, 1919–Sept. 2, 2013"
 next_post_url: "/posts/2013-11-26-obituaries-and-tributes-to-frederik-pohl/"
 next_post_title: "Obituaries and Tributes to Frederik Pohl"
 translated: false
+translator: "Yandex"
 ---
+<!-- translated by Yandex Translate -->
 
-<!-- ПЕРЕВОД -->
-<!-- Замените эту строку переводом статьи. -->
-<!-- Когда перевод готов, установите translated: true в front matter выше. -->
+# Путь к блогам будущего
+
+
+Фредерик Пол
+
+
+## Яркие высказывания ярких людей, № 49: де Монтень
+
+
+{{< figure src="Michel-de-Montaigne.jpg" alt="Michel de Montaigne" caption="Michel de Montaigne" >}}
+
+** “Я хочу, чтобы смерть застала меня за посадкой капусты, но безразличным к смерти, а еще больше к моему незаконченному саду”.
+— Мишель де Монтень**
+
+[WordPress](https://web.archive.org/web/20160416150848/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160416150848/http://dicksmithsoftware.com/)

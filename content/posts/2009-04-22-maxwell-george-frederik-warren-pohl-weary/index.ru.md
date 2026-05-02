@@ -9,7 +9,9 @@ prev_post_title: "Cyril"
 next_post_url: "/posts/2009-04-23-music-calendar/"
 next_post_title: "Music Calendar"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

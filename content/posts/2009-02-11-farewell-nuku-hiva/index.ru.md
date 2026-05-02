@@ -9,7 +9,9 @@ prev_post_title: "Greetings from S17° 32.18′ W149° 34.17′"
 next_post_url: "/posts/2009-02-15-me-and-the-biz/"
 next_post_title: "Me and the Biz"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

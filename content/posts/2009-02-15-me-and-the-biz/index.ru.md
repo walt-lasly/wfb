@@ -9,7 +9,9 @@ prev_post_title: "Farewell, Nuku Hiva"
 next_post_url: "/posts/2009-02-18-day-of-the-plutoid/"
 next_post_title: "Day of the Plutoid"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

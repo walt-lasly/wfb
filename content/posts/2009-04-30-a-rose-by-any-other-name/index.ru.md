@@ -9,7 +9,9 @@ prev_post_title: "Robert P. Mills"
 next_post_url: "/posts/2009-05-05-me-and-the-guys-at-abu-ghraib/"
 next_post_title: "Me and the Guys at Abu Ghraib"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

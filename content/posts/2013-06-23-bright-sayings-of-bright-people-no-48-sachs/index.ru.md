@@ -1,5 +1,5 @@
 ---
-title: "Bright Sayings of Bright People, No. 48: Sachs"
+title: "Яркие высказывания ярких людей, № 48: Сакс"
 date: 2013-06-23
 categories: ["Authors", "Science"]
 tags: ["Ecology", "Jeffrey Sachs", "Quotations"]
@@ -9,8 +9,23 @@ prev_post_title: "My War, Part 4: Homegoing"
 next_post_url: "/posts/2013-06-26-h-g-wells-the-father-of-us-all/"
 next_post_title: "H.G. Wells: The Father of Us All"
 translated: false
+translator: "Yandex"
 ---
+<!-- translated by Yandex Translate -->
 
-<!-- ПЕРЕВОД -->
-<!-- Замените эту строку переводом статьи. -->
-<!-- Когда перевод готов, установите translated: true в front matter выше. -->
+# Путь к блогам будущего
+
+
+Фредерик Пол
+
+
+## Яркие высказывания ярких людей, № 48: Сакс
+
+
+{{< figure src="Jeffrey-Sachs.jpg" alt="Jeffrey Sachs" caption="Jeffrey Sachs" >}}
+
+** “Большая часть мира уже переживает водный кризис, и этот кризис будет только усиливаться”.
+— Джеффри Сакс**
+
+[WordPress](https://web.archive.org/web/20170619193606/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20170619193606/http://dicksmithsoftware.com/)

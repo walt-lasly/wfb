@@ -9,7 +9,9 @@ prev_post_title: "Food for Thought"
 next_post_url: "/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/"
 next_post_title: "Welcome (We Think), Senator Arlen Specter (D-PA)"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

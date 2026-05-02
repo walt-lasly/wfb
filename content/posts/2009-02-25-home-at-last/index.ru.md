@@ -9,7 +9,9 @@ prev_post_title: "The Book Place"
 next_post_url: "/posts/2009-02-25-philip-josé-farmer-1918-2009/"
 next_post_title: "Philip José Farmer, 1918–2009"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

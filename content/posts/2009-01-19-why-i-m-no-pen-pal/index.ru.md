@@ -9,7 +9,9 @@ prev_post_title: "Greetings from N19° 44.50′ W156° 06.63′"
 next_post_url: "/posts/2009-01-20-happy-inauguration-day-president-obama/"
 next_post_title: "Happy Inauguration Day, President Obama"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

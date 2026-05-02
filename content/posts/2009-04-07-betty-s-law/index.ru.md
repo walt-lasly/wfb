@@ -7,7 +7,9 @@ archive_url: "https://web.archive.org/web/20220401000000/http://www.thewaythefut
 prev_post_url: "/posts/2009-04-04-the-bonus-babies/"
 prev_post_title: "The Bonus Babies"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

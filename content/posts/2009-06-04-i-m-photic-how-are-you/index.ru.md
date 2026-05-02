@@ -9,7 +9,9 @@ prev_post_title: "Welcome (We Think), Senator Arlen Specter (D-PA)"
 next_post_url: "/posts/2009-06-07-more-fine-dining/"
 next_post_title: "More Fine Dining"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

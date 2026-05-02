@@ -9,7 +9,9 @@ prev_post_title: "Reality-Testing Response from Fred’s Wife, the Aforementione
 next_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
 next_post_title: "Seventeen Days of Fox"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

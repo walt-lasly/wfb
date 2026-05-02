@@ -5,7 +5,9 @@ categories: []
 tags: []
 archive_url: "https://web.archive.org/web/20160215164306/http://www.thewaythefutureblogs.com/2010/06/more-about-gateways/"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

@@ -9,7 +9,9 @@ prev_post_title: "R.I.P. Walter Schneir"
 next_post_url: "/posts/2009-06-30-caught-between-a-rock-and-a-hard-place/"
 next_post_title: "Caught Between a Rock and a Hard Place"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

@@ -45,11 +45,9 @@ from pathlib import Path
 from translate_common import (
     CONTENT_DIR,
     STUB_MARKER,
-    backup_if_different_translator,
     load_glossary_entries,
-    protect,
-    restore,
     split_frontmatter,
+    write_translation,
 )
 
 try:
@@ -63,6 +61,51 @@ YANDEX_URL    = "https://translate.api.cloud.yandex.net/translate/v2/translate"
 CHUNK_LIMIT   = 9_500
 # Maximum glossary pairs per request (Yandex API limit)
 GLOSSARY_LIMIT = 50
+
+# ---------------------------------------------------------------------------
+# Yandex-specific placeholder protection
+# Yandex mangles plain-text tokens (XHOLD → translated word) and inserts
+# spaces in markdown link syntax [text] (url).  We use HTML mode and convert
+# markdown links to <a href> tags so Yandex treats them as proper HTML —
+# href attribute values are never translated and the tag structure is preserved.
+# Entire images and shortcodes are tokenised as <x id="N"/> opaque tags.
+# ---------------------------------------------------------------------------
+
+_YT_IMG_RE     = re.compile(r'!\[([^\]]*)\]\(([^)\s]+)\)')   # whole image
+_YT_SC_RE      = re.compile(r'\{\{[<%].*?[>%]\}\}', re.DOTALL)  # shortcodes
+_YT_LINK_RE    = re.compile(r'\[([^\]]*)\]\(([^)\s]+)\)')    # [text](url)
+_YT_TOK_RE     = re.compile(r'<x id="(\d+)"\s*/>')
+_YT_AHREF_RE   = re.compile(r'<a href="(\d+)">(.*?)</a>', re.DOTALL)
+
+
+def _protect(text: str):
+    """Protect images and shortcodes as <x id="N"/> tokens; links as <a href="N">."""
+    slots = []
+
+    def slot(val: str) -> str:
+        n = len(slots)
+        slots.append(val)
+        return str(n)
+
+    # Protect entire images as one opaque token (alt text is usually a filename)
+    text = _YT_IMG_RE.sub(lambda m: f'<x id="{slot(m.group())}"/>', text)
+    # Protect Hugo shortcodes as opaque tokens
+    text = _YT_SC_RE.sub(lambda m: f'<x id="{slot(m.group())}"/>', text)
+    # Convert markdown links to HTML <a> so Yandex keeps href intact and
+    # translates only the visible link text
+    text = _YT_LINK_RE.sub(
+        lambda m: f'<a href="{slot(m.group(2))}">{m.group(1)}</a>', text
+    )
+    return text, slots
+
+
+def _restore(text: str, slots: list) -> str:
+    """Restore <a href> links and <x id="N"/> tokens back to markdown."""
+    # Convert <a href="N">text</a> → [text](original_url)
+    text = _YT_AHREF_RE.sub(
+        lambda m: f'[{m.group(2)}]({slots[int(m.group(1))]})', text
+    )
+    return _YT_TOK_RE.sub(lambda m: slots[int(m.group(1))], text)
 
 # ---------------------------------------------------------------------------
 # Glossary
@@ -110,7 +153,7 @@ def _yandex_call(texts: list, api_key: str, folder_id: str,
         "texts": texts,
         "sourceLanguageCode": "en",
         "targetLanguageCode": "ru",
-        "format": "PLAIN_TEXT",
+        "format": "HTML",
         "speller": True,
     }
     if folder_id:
@@ -142,6 +185,8 @@ def yandex_translate(texts: list, api_key: str, folder_id: str,
             return _yandex_call(texts, api_key, folder_id, glossary_config)
         except OSError as e:
             last_err = e
+            if "limit on units" in str(e):
+                raise  # hard hourly quota exhausted, no point retrying
             print(f" [rate-limited, waiting {backoff:.0f}s…]", end="", flush=True)
             time.sleep(backoff)
             backoff *= 2  # 5 → 10 → 20
@@ -212,14 +257,16 @@ def translate_post(post_dir: Path, api_key: str, folder_id: str,
     Returns: 'ok' | 'skip-done' | 'skip-no-en' | 'skip-bad-format' |
              'dry-run' | 'quota: <msg>' | 'error: <msg>'
     """
-    en_path = post_dir / "index.en.md"
-    ru_path = post_dir / "index.ru.md"
+    en_path    = post_dir / "index.en.md"
+    ru_path    = post_dir / "index.ru.md"
+    named_path = post_dir / "_ru.yandex.md"
 
     if not en_path.exists():
         return "skip-no-en"
 
-    if ru_path.exists() and not force:
-        if STUB_MARKER not in ru_path.read_text(encoding="utf-8"):
+    # Skip if Yandex already translated this post unless --force
+    if named_path.exists() and not force:
+        if STUB_MARKER not in named_path.read_text(encoding="utf-8"):
             return "skip-done"
 
     en_text = en_path.read_text(encoding="utf-8")
@@ -239,8 +286,8 @@ def translate_post(post_dir: Path, api_key: str, folder_id: str,
     matched = filter_glossary_for_text(all_glossary, search_text)
     glossary_config = build_glossary_config(matched)
 
-    # Protect Hugo shortcodes and link URLs before translation
-    protected_body, slots = protect(body)
+    # Protect Hugo shortcodes, images and link URLs before translation
+    protected_body, slots = _protect(body)
 
     try:
         ru_body = translate_long_text(
@@ -252,10 +299,15 @@ def translate_post(post_dir: Path, api_key: str, folder_id: str,
         if code in (402, 429) or "quota" in body_text.lower():
             return f"quota: {code} {body_text}"
         return f"error: {code} {body_text}"
+    except OSError as e:
+        msg = str(e)
+        if msg.startswith("429") or "limit on units" in msg:
+            return f"quota: {msg[:120]}"
+        return f"error: {msg}"
     except Exception as e:
         return f"error: {e}"
 
-    ru_body = restore(ru_body, slots)
+    ru_body = _restore(ru_body, slots)
 
     # Translate title separately
     ru_title = en_title
@@ -267,6 +319,11 @@ def translate_post(post_dir: Path, api_key: str, folder_id: str,
             )[0].strip()
         except requests.HTTPError as e:
             return f"error-title: {e.response.status_code} {e.response.text[:80]}"
+        except OSError as e:
+            msg = str(e)
+            if msg.startswith("429") or "limit on units" in msg:
+                return f"quota: {msg[:120]}"
+            return f"error-title: {msg}"
         except Exception as e:
             return f"error-title: {e}"
 
@@ -279,8 +336,10 @@ def translate_post(post_dir: Path, api_key: str, folder_id: str,
     ru_fm = re.sub(r'\ntranslator:.*', '', ru_fm)
     ru_fm += '\ntranslator: "Yandex"'
 
-    backup_if_different_translator(ru_path, "Yandex Translate")
-    ru_path.write_text(f"---\n{ru_fm}\n---\n<!-- translated by Yandex Translate -->\n{ru_body}", encoding="utf-8")
+    write_translation(
+        f"---\n{ru_fm}\n---\n<!-- translated by Yandex Translate -->\n{ru_body}",
+        named_path, ru_path, "Yandex Translate", force,
+    )
     return "ok"
 
 
@@ -307,6 +366,10 @@ def main():
                         help="List posts that would be translated without calling API")
     parser.add_argument("--delay",  type=float, default=0.5, metavar="SECS",
                         help="Seconds to wait between API calls (default: 0.5)")
+    parser.add_argument("--verbose", "-v", dest="verbose", action="store_true", default=True,
+                        help="Show skipped posts (default: on)")
+    parser.add_argument("--quiet",   "-q", dest="verbose", action="store_false",
+                        help="Hide skipped posts")
     args = parser.parse_args()
 
     glossary_entries = load_glossary_entries()
@@ -342,9 +405,12 @@ def main():
             ok += 1
             time.sleep(args.delay)
         elif status == "dry-run":
-            print(f"  ~  {post_dir.name}")
+            print(f"  ~  {post_dir.name}  (would translate)")
             ok += 1
         elif status.startswith("skip"):
+            if args.verbose:
+                reason = status[len("skip-"):].replace("-", " ")
+                print(f"  ~  {post_dir.name}  ({reason})")
             skipped += 1
         elif status.startswith("quota"):
             detail = status[len("quota:"):].strip()

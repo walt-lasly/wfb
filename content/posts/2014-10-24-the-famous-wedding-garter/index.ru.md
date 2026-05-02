@@ -1,5 +1,5 @@
 ---
-title: "The Famous Wedding Garter"
+title: "Знаменитая свадебная подвязка"
 date: 2014-10-24
 categories: ["Betty's Posts", "Personal"]
 tags: ["Elizabeth Anne Hull"]
@@ -9,8 +9,20 @@ prev_post_title: "Memories, A Wedding and Unexpected Surprises"
 next_post_url: "/posts/2014-10-29-frederik-pohl-on-the-future/"
 next_post_title: "Frederik Pohl on the Future"
 translated: false
+translator: "Yandex"
 ---
+<!-- translated by Yandex Translate -->
 
-<!-- ПЕРЕВОД -->
-<!-- Замените эту строку переводом статьи. -->
-<!-- Когда перевод готов, установите translated: true в front matter выше. -->
+# Путь к блогам будущего
+
+
+Фредерик Пол
+
+
+## Знаменитая свадебная подвязка
+
+![20141024-205158.jpg](20141024-205158.jpg)
+
+
+[WordPress](https://web.archive.org/web/20160402194956/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20160402194956/http://dicksmithsoftware.com/)

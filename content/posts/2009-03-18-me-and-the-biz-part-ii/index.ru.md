@@ -9,7 +9,9 @@ prev_post_title: "Verse Decoded"
 next_post_url: "/posts/2009-03-20-me-and-the-biz-part-ii-continued/"
 next_post_title: "Me and the Biz, Part II (continued)"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

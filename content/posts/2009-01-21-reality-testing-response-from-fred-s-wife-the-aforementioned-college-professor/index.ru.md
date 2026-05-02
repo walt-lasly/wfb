@@ -9,7 +9,9 @@ prev_post_title: "Happy Inauguration Day, President Obama"
 next_post_url: "/posts/2009-01-30-the-poetry-corner/"
 next_post_title: "The Poetry Corner"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

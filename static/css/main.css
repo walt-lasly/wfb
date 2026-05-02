@@ -258,6 +258,38 @@ img { max-width: 100%; height: auto; display: block; }
   font-family: var(--font-ui);
   font-size: 0.9rem;
   color: #3a7a3a;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.translator-switcher {
+  display: flex;
+  gap: 0.35rem;
+  margin-left: auto;
+}
+
+.translator-btn {
+  padding: 0.2rem 0.6rem;
+  border: 1px solid #7cb87c;
+  border-radius: 4px;
+  background: transparent;
+  color: #3a7a3a;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.translator-btn:hover {
+  background: #d8f0d8;
+}
+
+.translator-btn.active-btn {
+  background: #7cb87c;
+  color: #fff;
+  cursor: default;
 }
 
 /* Single-column reading layout */

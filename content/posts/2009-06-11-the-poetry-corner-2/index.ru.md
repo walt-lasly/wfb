@@ -9,7 +9,9 @@ prev_post_title: "More Fine Dining"
 next_post_url: "/posts/2009-06-15-r-i-p-walter-schneir/"
 next_post_title: "R.I.P. Walter Schneir"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

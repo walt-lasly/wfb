@@ -9,7 +9,9 @@ prev_post_title: "The Poetry Corner 2"
 next_post_url: "/posts/2009-06-20-them-days/"
 next_post_title: "Them Days"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

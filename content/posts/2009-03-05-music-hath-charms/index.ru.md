@@ -9,7 +9,9 @@ prev_post_title: "Pictures from Paradise"
 next_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
 next_post_title: "Shipboard Book Reports, Part II"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

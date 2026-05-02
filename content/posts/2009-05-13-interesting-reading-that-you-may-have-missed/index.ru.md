@@ -9,7 +9,9 @@ prev_post_title: "The Quadrumvirate"
 next_post_url: "/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
 next_post_title: "Have Mouth, Will Travel, Part 1: The Lecture Biz"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

@@ -9,7 +9,9 @@ prev_post_title: "Josie!"
 next_post_url: "/posts/2009-03-05-music-hath-charms/"
 next_post_title: "Music Hath Charms"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

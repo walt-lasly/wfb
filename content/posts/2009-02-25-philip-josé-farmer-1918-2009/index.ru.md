@@ -9,7 +9,9 @@ prev_post_title: "Home at Last"
 next_post_url: "/posts/2009-02-28-josie/"
 next_post_title: "Josie!"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

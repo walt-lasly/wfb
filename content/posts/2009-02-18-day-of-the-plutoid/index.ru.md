@@ -9,7 +9,9 @@ prev_post_title: "Me and the Biz"
 next_post_url: "/posts/2009-02-20-the-book-place/"
 next_post_title: "The Book Place"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

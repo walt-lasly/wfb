@@ -9,7 +9,9 @@ prev_post_title: "My Worst Prediction Ever: Corporate Leisure Time"
 next_post_url: "/posts/2009-04-07-betty-s-law/"
 next_post_title: "Betty’s Law"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

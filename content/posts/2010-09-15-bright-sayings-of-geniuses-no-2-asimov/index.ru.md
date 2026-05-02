@@ -1,5 +1,5 @@
 ---
-title: "Bright Sayings of Geniuses, No. 2: Asimov"
+title: "Яркие высказывания гениев, № 2: Азимов"
 date: 2010-09-15
 categories: ["Authors"]
 tags: ["Isaac Asimov", "Quotations"]
@@ -9,8 +9,35 @@ prev_post_title: "Thank You, Fandom!"
 next_post_url: "/posts/2010-09-16-newton-and-me/"
 next_post_title: "Newton and Me"
 translated: false
+translator: "Yandex"
 ---
+<!-- translated by Yandex Translate -->
 
-<!-- ПЕРЕВОД -->
-<!-- Замените эту строку переводом статьи. -->
-<!-- Когда перевод готов, установите translated: true в front matter выше. -->
+# Путь к блогам будущего
+
+
+Фредерик Пол
+
+
+## Яркие высказывания гениев, № 2: Азимов
+
+
+{{< figure src="isaac-asimov-headwb.jpg" alt="Isaac Asimov" caption="Isaac Asimov" >}}
+
+** “Жизнь приятна.  Смерть - это умиротворение.  Это переходный период, который вызывает проблемы”.
+— Айзек Азимов**
+
+
+**Связанные должности:**  
+
+Яркие высказывания гениев, [** № 1**](/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/)
+
+
+### Один комментарий
+
+- [Билл Гудвин](https://web.archive.org/web/20131008133920/http://771715/) говорит:
+Гаплоидия - это скучно, диплоидия - рутинная работа, и переход только заставляет вас желать большего.
+[** 27 сентября 2010 года, 1:22 утра**](/posts/2010-09-15-bright-sayings-of-geniuses-no-2-asimov/)
+
+[WordPress](https://web.archive.org/web/20131008133920/http://wordpress.org/)
+[TWTFB2](https://web.archive.org/web/20131008133920/http://dicksmithsoftware.com/)

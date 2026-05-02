@@ -9,7 +9,9 @@ prev_post_title: "Maxwell George Frederik Warren Pohl-Weary"
 next_post_url: "/posts/2009-04-27-robert-p-mills/"
 next_post_title: "Robert P. Mills"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

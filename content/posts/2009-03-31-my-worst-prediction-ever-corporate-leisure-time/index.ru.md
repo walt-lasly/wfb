@@ -7,7 +7,9 @@ archive_url: "https://web.archive.org/web/19960801000000/http://www.thewaythefut
 prev_post_url: "/posts/2009-03-26-judgment-day-the-cruise/"
 prev_post_title: "Judgment Day: The Cruise"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

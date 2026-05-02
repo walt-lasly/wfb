@@ -9,7 +9,9 @@ prev_post_title: "Seventeen Days of Fox"
 next_post_url: "/posts/2009-02-11-farewell-nuku-hiva/"
 next_post_title: "Farewell, Nuku Hiva"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

@@ -9,7 +9,9 @@ prev_post_title: "Day of the Plutoid"
 next_post_url: "/posts/2009-02-25-home-at-last/"
 next_post_title: "Home at Last"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

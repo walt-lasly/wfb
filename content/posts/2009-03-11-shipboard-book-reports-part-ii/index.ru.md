@@ -9,7 +9,9 @@ prev_post_title: "Music Hath Charms"
 next_post_url: "/posts/2009-03-16-verse-decoded/"
 next_post_title: "Verse Decoded"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

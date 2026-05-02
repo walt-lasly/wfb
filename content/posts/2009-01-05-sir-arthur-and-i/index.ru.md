@@ -7,7 +7,9 @@ archive_url: "https://web.archive.org/web/20221201000000/http://thewaythefutureb
 next_post_url: "/posts/2009-01-07-nice-to-meet-you/"
 next_post_title: "Nice to Meet You"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

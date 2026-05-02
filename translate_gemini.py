@@ -38,11 +38,11 @@ from pathlib import Path
 from translate_common import (
     CONTENT_DIR,
     STUB_MARKER,
-    backup_if_different_translator,
     load_glossary_entries,
     protect,
     restore,
     split_frontmatter,
+    write_translation,
 )
 
 try:
@@ -84,11 +84,22 @@ def build_system_prompt(entries: dict) -> str:
 # Gemini API
 # ---------------------------------------------------------------------------
 
-class RateLimitError(Exception):
-    """Raised when Gemini returns 429 RESOURCE_EXHAUSTED."""
+class QuotaError(Exception):
+    """Raised when Gemini returns 429 RESOURCE_EXHAUSTED — hard quota, do not retry."""
     def __init__(self, body: str):
         self.body = body
         super().__init__(f"429 RESOURCE_EXHAUSTED: {body[:200]}")
+
+
+class ServiceError(Exception):
+    """Raised when Gemini returns 503 Service Unavailable — transient, worth retrying."""
+    def __init__(self, body: str):
+        self.body = body
+        super().__init__(f"503 Service Unavailable: {body[:200]}")
+
+
+# Keep alias so old catch sites still compile during transition
+RateLimitError = QuotaError
 
 
 def _gemini_call(text: str, api_key: str, model: str, system_prompt: str) -> str:
@@ -104,7 +115,9 @@ def _gemini_call(text: str, api_key: str, model: str, system_prompt: str) -> str
     }
     r = requests.post(url, json=payload, timeout=120)
     if r.status_code == 429:
-        raise RateLimitError(r.text)
+        raise QuotaError(r.text)
+    if r.status_code == 503:
+        raise ServiceError(r.text)
     r.raise_for_status()
     data = r.json()
     candidates = data.get("candidates", [])
@@ -118,15 +131,17 @@ def _gemini_call(text: str, api_key: str, model: str, system_prompt: str) -> str
 
 def gemini_translate(text: str, api_key: str, model: str,
                      system_prompt: str) -> str:
-    """Translate text via Gemini, retrying up to 3 times on 429."""
+    """Translate text via Gemini. 503 is retried up to 3 times; 429 exits immediately."""
     backoff = 15.0
     last_err = None
     for attempt in range(3):
         try:
             return _gemini_call(text, api_key, model, system_prompt)
-        except RateLimitError as e:
+        except QuotaError:
+            raise  # hard quota — no point waiting, propagate immediately
+        except ServiceError as e:
             last_err = e
-            print(f" [rate-limited, waiting {backoff:.0f}s…]", end="", flush=True)
+            print(f" [overloaded, waiting {backoff:.0f}s\u2026]", end="", flush=True)
             time.sleep(backoff)
             backoff *= 2  # 15 → 30 → 60
     raise last_err
@@ -144,14 +159,16 @@ def translate_post(post_dir: Path, api_key: str, model: str,
     Returns: 'ok' | 'skip-done' | 'skip-no-en' | 'skip-bad-format' |
              'dry-run' | 'error: <msg>' | 'quota: <msg>'
     """
-    en_path = post_dir / "index.en.md"
-    ru_path = post_dir / "index.ru.md"
+    en_path    = post_dir / "index.en.md"
+    ru_path    = post_dir / "index.ru.md"
+    named_path = post_dir / "_ru.gemini.md"
 
     if not en_path.exists():
         return "skip-no-en"
 
-    if ru_path.exists() and not force:
-        if STUB_MARKER not in ru_path.read_text(encoding="utf-8"):
+    # Skip if Gemini already translated this post unless --force
+    if named_path.exists() and not force:
+        if STUB_MARKER not in named_path.read_text(encoding="utf-8"):
             return "skip-done"
 
     en_text = en_path.read_text(encoding="utf-8")
@@ -171,8 +188,10 @@ def translate_post(post_dir: Path, api_key: str, model: str,
 
     try:
         ru_body = gemini_translate(protected_body, api_key, model, system_prompt)
-    except RateLimitError as e:
+    except QuotaError as e:
         return f"quota: {e.body[:120]}"
+    except ServiceError as e:
+        return f"error: 503 {e.body[:120]}"
     except requests.HTTPError as e:
         return f"error: {e.response.status_code} {e.response.text[:120]}"
     except Exception as e:
@@ -188,7 +207,7 @@ def translate_post(post_dir: Path, api_key: str, model: str,
             raw = gemini_translate(en_title, api_key, model, system_prompt)
             # Strip any spurious surrounding quotes Gemini may add
             ru_title = raw.strip().strip('"').strip("«»").strip()
-        except RateLimitError as e:
+        except QuotaError as e:
             return f"quota: {e.body[:120]}"
         except Exception as e:
             return f"error-title: {e}"
@@ -202,8 +221,10 @@ def translate_post(post_dir: Path, api_key: str, model: str,
     ru_fm = re.sub(r'\ntranslator:.*', '', ru_fm)
     ru_fm += f'\ntranslator: "Gemini"'
 
-    backup_if_different_translator(ru_path, f"Gemini ({model})")
-    ru_path.write_text(f"---\n{ru_fm}\n---\n<!-- translated by Gemini ({model}) -->\n{ru_body}", encoding="utf-8")
+    write_translation(
+        f"---\n{ru_fm}\n---\n<!-- translated by Gemini ({model}) -->\n{ru_body}",
+        named_path, ru_path, f"Gemini ({model})", force,
+    )
     return "ok"
 
 
@@ -230,6 +251,10 @@ def main():
                         help="List posts that would be translated without calling API")
     parser.add_argument("--delay",   type=float, default=2.0, metavar="SECS",
                         help="Seconds to wait between API calls (default: 2.0)")
+    parser.add_argument("--verbose", "-v", dest="verbose", action="store_true", default=True,
+                        help="Show skipped posts (default: on)")
+    parser.add_argument("--quiet",   "-q", dest="verbose", action="store_false",
+                        help="Hide skipped posts")
     args = parser.parse_args()
 
     glossary_entries = load_glossary_entries()
@@ -267,9 +292,12 @@ def main():
             ok += 1
             time.sleep(args.delay)
         elif status == "dry-run":
-            print(f"  ~  {post_dir.name}")
+            print(f"  ~  {post_dir.name}  (would translate)")
             ok += 1
         elif status.startswith("skip"):
+            if args.verbose:
+                reason = status[len("skip-"):].replace("-", " ")
+                print(f"  ~  {post_dir.name}  ({reason})")
             skipped += 1
         elif status.startswith("quota"):
             detail = status[len("quota:"):].strip()

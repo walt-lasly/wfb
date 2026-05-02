@@ -9,7 +9,9 @@ prev_post_title: "Have Mouth, Will Travel, Part 1: The Lecture Biz"
 next_post_url: "/posts/2009-05-26-have-mouth-will-travel-part-3-inventing-cryonics/"
 next_post_title: "Have Mouth, Will Travel, Part 3: Inventing Cryonics"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

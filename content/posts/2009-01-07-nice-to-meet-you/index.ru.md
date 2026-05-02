@@ -9,7 +9,9 @@ prev_post_title: "Sir Arthur and I"
 next_post_url: "/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/"
 next_post_title: "Greetings from N19° 44.50′ W156° 06.63′"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

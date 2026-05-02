@@ -9,7 +9,9 @@ prev_post_title: "The Poetry Corner"
 next_post_url: "/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/"
 next_post_title: "Greetings from S17° 32.18′ W149° 34.17′"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

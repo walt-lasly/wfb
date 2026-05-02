@@ -85,17 +85,71 @@
   {{ else }}
   {{/* ── Single column (machine translated or not yet translated) ── */}}
   {{ if .Params.translator }}
+  {{/* Find all index.ru.SLUG.md variant files in this page's directory */}}
+  {{ $pageDir := .File.Dir }}
+  {{ $variants := slice }}
+  {{ range readDir (printf "content/%s" $pageDir) }}
+    {{ $n := .Name }}
+    {{ if and (strings.HasPrefix $n "_ru.") (strings.HasSuffix $n ".md") }}
+      {{ $variants = append (strings.TrimSuffix ".md" (strings.TrimPrefix "_ru." $n)) $variants }}
+    {{ end }}
+  {{ end }}
+  {{ $activeSlug := .Params.translator | lower | replaceRE "[^a-z0-9].*$" "" }}
   <div class="translated-banner">
     <span>{{ i18n "translated_by_note" .Params.translator }}</span>
+    {{ if gt (len $variants) 1 }}
+    <div class="translator-switcher">
+      <button class="translator-btn active-btn" data-translator="{{ $activeSlug }}" onclick="switchTranslation('{{ $activeSlug }}')">{{ .Params.translator }}</button>
+      {{ range $variants }}{{ $slug := . }}{{ if ne $slug $activeSlug }}
+        {{ $fpath := printf "content/%s_ru.%s.md" $pageDir $slug }}
+        {{ $raw := readFile $fpath }}
+        {{ $dm := findRE `translator: "([^"]+)"` $raw 1 }}
+        {{ $label := $slug | title }}{{ if $dm }}{{ $label = index $dm 0 | replaceRE `translator: "([^"]+)"` "$1" }}{{ end }}
+        <button class="translator-btn" data-translator="{{ $slug }}" onclick="switchTranslation('{{ $slug }}')">{{ $label }}</button>
+      {{ end }}{{ end }}
+    </div>
+    {{ end }}
   </div>
+  <div class="single-column" data-pagefind-body>
+    {{ if gt (len $variants) 1 }}
+      <div class="translation-variant" data-translator="{{ $activeSlug }}">{{ $.Content }}</div>
+      {{ range $variants }}{{ $slug := . }}{{ if ne $slug $activeSlug }}
+        {{ $fpath := printf "content/%s_ru.%s.md" $pageDir $slug }}
+        {{ $raw := readFile $fpath }}
+        {{ $body := $raw | replaceRE "(?s)^---\n.*?\n---\n" "" }}
+        <div class="translation-variant" data-translator="{{ $slug }}" style="display:none" data-pagefind-ignore>{{ $body | transform.Markdownify }}</div>
+      {{ end }}{{ end }}
+    {{ else }}
+      {{ $.Content }}
+    {{ end }}
+  </div>
+  {{ if gt (len $variants) 1 }}
+  <script>
+  function switchTranslation(slug) {
+    document.querySelectorAll('.translation-variant').forEach(el => el.style.display = 'none');
+    const el = document.querySelector('.translation-variant[data-translator="' + slug + '"]');
+    if (el) el.style.display = '';
+    document.querySelectorAll('.translator-btn').forEach(btn => btn.classList.remove('active-btn'));
+    const btn = document.querySelector('.translator-btn[data-translator="' + slug + '"]');
+    if (btn) btn.classList.add('active-btn');
+    localStorage.setItem('pref-translator', slug);
+  }
+  document.addEventListener('DOMContentLoaded', function() {
+    const pref = localStorage.getItem('pref-translator');
+    if (pref && document.querySelector('.translation-variant[data-translator="' + pref + '"]')) {
+      switchTranslation(pref);
+    }
+  });
+  </script>
+  {{ end }}
   {{ else }}
   <div class="no-translation-banner">
     <span>{{ i18n "not_translated_note" }}</span>
   </div>
-  {{ end }}
   <div class="single-column" data-pagefind-body>
     {{ .Content }}
   </div>
+  {{ end }}
   {{ end }}
 
 </article>

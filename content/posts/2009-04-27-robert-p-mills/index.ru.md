@@ -9,7 +9,9 @@ prev_post_title: "Music Calendar"
 next_post_url: "/posts/2009-04-30-a-rose-by-any-other-name/"
 next_post_title: "A Rose By Any Other Name"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 

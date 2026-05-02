@@ -9,7 +9,9 @@ prev_post_title: "Me and the Guys at Abu Ghraib"
 next_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
 next_post_title: "Interesting Reading That You May Have Missed"
 translated: false
+translator: "DeepL"
 ---
+<!-- translated by DeepL -->
 
 # The Way the Future Blogs
 
