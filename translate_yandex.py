@@ -44,7 +44,9 @@ from pathlib import Path
 
 from translate_common import (
     CONTENT_DIR,
+    DEFAULT_SECTION,
     STUB_MARKER,
+    get_content_dir,
     load_glossary_entries,
     split_frontmatter,
     write_translation,
@@ -73,6 +75,7 @@ GLOSSARY_LIMIT = 50
 
 _YT_IMG_RE     = re.compile(r'!\[([^\]]*)\]\(([^)\s]+)\)')   # whole image
 _YT_SC_RE      = re.compile(r'\{\{[<%].*?[>%]\}\}', re.DOTALL)  # shortcodes
+_YT_ANCHOR_RE  = re.compile(r'\{#[\w-]+\}')                       # heading anchors {#id}
 _YT_LINK_RE    = re.compile(r'\[([^\]]*)\]\(([^)\s]+)\)')    # [text](url)
 _YT_TOK_RE     = re.compile(r'<x id="(\d+)"\s*/>')
 _YT_AHREF_RE   = re.compile(r'<a href="(\d+)">(.*?)</a>', re.DOTALL)
@@ -91,6 +94,8 @@ def _protect(text: str):
     text = _YT_IMG_RE.sub(lambda m: f'<x id="{slot(m.group())}"/>', text)
     # Protect Hugo shortcodes as opaque tokens
     text = _YT_SC_RE.sub(lambda m: f'<x id="{slot(m.group())}"/>', text)
+    # Protect Hugo heading anchor IDs {#some-id} — Yandex translates them
+    text = _YT_ANCHOR_RE.sub(lambda m: f'<x id="{slot(m.group())}"/>', text)
     # Convert markdown links to HTML <a> so Yandex keeps href intact and
     # translates only the visible link text
     text = _YT_LINK_RE.sub(
@@ -229,16 +234,22 @@ def split_into_chunks(text: str, limit: int = CHUNK_LIMIT) -> list:
 
 
 def translate_long_text(text: str, api_key: str, folder_id: str,
-                        glossary_config: dict, delay: float) -> str:
+                        glossary_config: dict, delay: float,
+                        progress_cb=None) -> str:
     """Split large text into chunks, translate each, and rejoin."""
     if len(text) <= CHUNK_LIMIT:
+        if progress_cb:
+            progress_cb(1, 1)
         return yandex_translate([text], api_key, folder_id, glossary_config)[0]
 
     chunks = split_into_chunks(text)
+    total  = len(chunks)
     results = []
     for i, chunk in enumerate(chunks):
         if i > 0:
             time.sleep(delay)
+        if progress_cb:
+            progress_cb(i + 1, total)
         results.append(
             yandex_translate([chunk], api_key, folder_id, glossary_config)[0]
         )
@@ -289,9 +300,17 @@ def translate_post(post_dir: Path, api_key: str, folder_id: str,
     # Protect Hugo shortcodes, images and link URLs before translation
     protected_body, slots = _protect(body)
 
+    # Print post name + size before starting so the user sees progress
+    print(f"  …  {post_dir.name}  ({len(protected_body):,} chars)", end="", flush=True)
+
+    def _chunk_cb(current: int, total: int):
+        if total > 1:
+            print(f"\r  …  {post_dir.name}  chunk {current}/{total}   ", end="", flush=True)
+
     try:
         ru_body = translate_long_text(
-            protected_body, api_key, folder_id, glossary_config, delay
+            protected_body, api_key, folder_id, glossary_config, delay,
+            progress_cb=_chunk_cb,
         )
     except requests.HTTPError as e:
         code = e.response.status_code
@@ -364,6 +383,8 @@ def main():
                         help="Re-translate posts that already have Russian content")
     parser.add_argument("--dry-run", action="store_true",
                         help="List posts that would be translated without calling API")
+    parser.add_argument("--section", metavar="NAME", default=DEFAULT_SECTION,
+                        help=f"Content section to translate (default: {DEFAULT_SECTION})")
     parser.add_argument("--delay",  type=float, default=0.5, metavar="SECS",
                         help="Seconds to wait between API calls (default: 0.5)")
     parser.add_argument("--verbose", "-v", dest="verbose", action="store_true", default=True,
@@ -376,9 +397,9 @@ def main():
     print(f"Loaded {len(glossary_entries)} glossary entries (filtered per post)\n")
 
     if args.post:
-        post_dirs = [CONTENT_DIR / args.post]
+        post_dirs = [get_content_dir(args.section) / args.post]
     else:
-        post_dirs = sorted(d for d in CONTENT_DIR.iterdir() if d.is_dir())
+        post_dirs = sorted(d for d in get_content_dir(args.section).iterdir() if d.is_dir())
         if args.from_post:
             from_name = Path(args.from_post).name
             matching = [d for d in post_dirs if d.name >= from_name]
@@ -401,7 +422,7 @@ def main():
         )
 
         if status == "ok":
-            print(f"  ✓  {post_dir.name}")
+            print(f"\r  ✓  {post_dir.name}                              ")
             ok += 1
             time.sleep(args.delay)
         elif status == "dry-run":
@@ -421,7 +442,7 @@ def main():
             print(f"\nDone: {ok} translated, {skipped} skipped, then quota hit.")
             sys.exit(1)
         else:
-            print(f"  ✗  {post_dir.name}: {status}")
+            print(f"\r  ✗  {post_dir.name}: {status}                    ")
             errors += 1
 
     action = "would translate" if args.dry_run else "translated"

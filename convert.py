@@ -60,10 +60,11 @@ HREF_OVERRIDES = {
 }
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
-SCRIPT_DIR   = Path(__file__).parent
-SITE_DIR     = SCRIPT_DIR          # script lives in fred-pohl-blog/
-ARCHIVE_DIR  = SCRIPT_DIR.parent / "blog"   # raw HTML files
-CONTENT_DIR  = SITE_DIR / "content" / "posts"
+SCRIPT_DIR      = Path(__file__).parent
+SITE_DIR        = SCRIPT_DIR          # script lives in fred-pohl-blog/
+ARCHIVE_DIR     = SCRIPT_DIR.parent / "blog"   # raw HTML files
+DEFAULT_SECTION = "fred-pohl"
+CONTENT_DIR     = SITE_DIR / "content" / DEFAULT_SECTION
 
 # ── Month name → number (for parsing "January 7, 2009") ──────────────────────
 MONTHS_EN = {
@@ -707,7 +708,10 @@ def build_front_matter(title: str, date: datetime, categories: list,
     return "\n".join(lines) + "\n\n"
 
 
-def convert_file(html_path: Path, force: bool = False, link_map: dict = None):
+def convert_file(html_path: Path, force: bool = False, link_map: dict = None,
+                 content_dir: Path = None):
+    if content_dir is None:
+        content_dir = CONTENT_DIR
     print(f"  Processing: {html_path.name}")
 
     data = parse_html_file(html_path)
@@ -717,7 +721,7 @@ def convert_file(html_path: Path, force: bool = False, link_map: dict = None):
     slug      = slugify(title)
     folder    = f"{date.strftime('%Y-%m-%d')}-{slug}"
 
-    dest_dir  = CONTENT_DIR / folder
+    dest_dir  = content_dir / folder
 
     if dest_dir.exists() and not force:
         print(f"    ↳ Skipping (already exists): {folder}")
@@ -800,14 +804,18 @@ def convert_file(html_path: Path, force: bool = False, link_map: dict = None):
 
 def main():
     parser = argparse.ArgumentParser(description="Convert archived HTML to Hugo page bundles.")
-    parser.add_argument("--force", action="store_true", help="Overwrite existing output folders.")
+    parser.add_argument("--force",   action="store_true", help="Overwrite existing output folders.")
+    parser.add_argument("--section", metavar="NAME", default=DEFAULT_SECTION,
+                        help=f"Content section to write into (default: {DEFAULT_SECTION})")
     args = parser.parse_args()
+
+    content_dir = SITE_DIR / "content" / args.section
 
     if not ARCHIVE_DIR.is_dir():
         print(f"Error: archive directory not found: {ARCHIVE_DIR}", file=sys.stderr)
         sys.exit(1)
 
-    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    content_dir.mkdir(parents=True, exist_ok=True)
 
     html_files = sorted(ARCHIVE_DIR.glob("*.html"))
     if not html_files:
@@ -827,7 +835,7 @@ def main():
             if url_key:
                 date = data["date"]
                 folder = f"{date.strftime('%Y-%m-%d')}-{slugify(data['title'])}"
-                target = f"/posts/{folder}/"
+                target = f"/{args.section}/{folder}/"
                 link_map[url_key] = target
                 # WordPress sometimes appends -2, -3 to duplicate slugs.
                 # Register the clean slug (without trailing -N) as an alias so
@@ -843,9 +851,9 @@ def main():
     print(f"\r  → {len(link_map)}/{total} posts indexed\n")
 
     for html_path in html_files:
-        convert_file(html_path, force=args.force, link_map=link_map)
+        convert_file(html_path, force=args.force, link_map=link_map, content_dir=content_dir)
 
-    print(f"\nDone. Output in: {CONTENT_DIR}")
+    print(f"\nDone. Output in: {content_dir}")
 
 
 if __name__ == "__main__":

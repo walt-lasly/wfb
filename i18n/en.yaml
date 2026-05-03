@@ -17,3 +17,4 @@ not_translated_note: "This post has not been translated yet. Original text below
 translated_by_note: "Machine translation: {{ . }}"
 nav_prev: "← Previous"
 nav_next: "Next →"
+related_label: "See also"

@@ -64,6 +64,7 @@
   </header>
 
   {{/* ── Bilingual two-column view ── */}}
+  <div class="post-body-wrap">
   {{ if and $ru $en $translated }}
   <div class="bilingual-columns" id="bilingual-columns">
     <div class="col col--ru" id="col-ru" data-pagefind-body>
@@ -152,6 +153,8 @@
   {{ end }}
   {{ end }}
 
+  {{ partial "related-posts.html" . }}
+  </div>
 </article>
 
 <script src="{{ "js/sync-scroll.js" | relURL }}"></script>

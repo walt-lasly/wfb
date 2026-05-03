@@ -5,7 +5,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).parent))
-from convert import extract_blog_path, parse_html_file, slugify
+from convert import DEFAULT_SECTION, extract_blog_path, parse_html_file, slugify
 
 ARCHIVE_DIR = Path(__file__).parent.parent / "blog"
 html_files = sorted(ARCHIVE_DIR.glob("*.html"))
@@ -19,12 +19,12 @@ for html_path in html_files:
         if url_key:
             date = data["date"]
             folder = f"{date.strftime('%Y-%m-%d')}-{slugify(data['title'])}"
-            link_map[url_key] = f"/posts/{folder}/"
+            link_map[url_key] = f"/{DEFAULT_SECTION}/{folder}/"
             alias_m = re.match(r"^(.*)-(\d+)$", url_key)
             if alias_m:
                 clean_key = alias_m.group(1)
                 if clean_key not in link_map:
-                    link_map[clean_key] = f"/posts/{folder}/"
+                    link_map[clean_key] = f"/{DEFAULT_SECTION}/{folder}/"
     except Exception:
         pass
 

@@ -103,6 +103,7 @@ Norman Spinrad	Норман Спинрад
 Spinrad	Спинрад
 Algis Budrys	Алгис Будрис
 Algis	Алгис
+Ajay Budrys	Эй-Джей Будрис
 Budrys	Будрис
 Kate Wilhelm	Кейт Вильгельм
 Wilhelm	Вильгельм
@@ -122,6 +123,7 @@ Laumer	Лаумер
 Saberhagen	Саберхаген
 Cele Goldsmith	Сил Голдсмит
 Cele	Сил
+Marion Zimmer Bradley	Мэрион Зиммер Брэдли
 
 
 # ── Publications (do not translate titles) ───────────────────────────────────
@@ -148,6 +150,7 @@ Star Science Fiction	Star Science Fiction
 Wonder Stories	Wonder Stories
 Science Fiction Review	Science Fiction Review
 eFanzine	eFanzine
+SF Forum	SF Forum
 Putnam	Putnam
 Ace Books	Ace Books
 Scribner	Scribner

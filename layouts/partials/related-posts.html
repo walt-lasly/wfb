@@ -1,0 +1,25 @@
+{{- $canonicalPath := print "/" .File.Dir -}}
+{{- $base := site.Home.RelPermalink -}}
+{{- range $group := hugo.Data.relationships -}}
+  {{- $matched := false -}}
+  {{- $others := slice -}}
+  {{- range $post := $group.posts -}}
+    {{- $basePath := index (split $post.url "#") 0 -}}
+    {{- if eq $basePath $canonicalPath -}}
+      {{- $matched = true -}}
+    {{- else -}}
+      {{- $others = $others | append $post -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and $matched (gt (len $others) 0) -}}
+<aside class="related-posts">
+  <p class="related-posts__label">{{ i18n "related_label" }}</p>
+  <ul class="related-posts__list">
+    {{- range $others }}
+    <li><a href="{{ print $base (.url | strings.TrimPrefix "/") }}">{{ .title | markdownify }}</a></li>
+    {{- end }}
+  </ul>
+  {{- with $group.note }}<p class="related-posts__note">{{ . }}</p>{{ end -}}
+</aside>
+  {{- end -}}
+{{- end -}}

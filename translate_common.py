@@ -23,10 +23,16 @@ except ImportError:
 # Path constants
 # ---------------------------------------------------------------------------
 
-SCRIPT_DIR    = Path(__file__).parent
-CONTENT_DIR   = SCRIPT_DIR / "content" / "posts"
-GLOSSARY_FILE = SCRIPT_DIR / "glossary.txt"
-STUB_MARKER   = "<!-- ПЕРЕВОД -->"
+SCRIPT_DIR      = Path(__file__).parent
+DEFAULT_SECTION = "fred-pohl"
+CONTENT_DIR     = SCRIPT_DIR / "content" / DEFAULT_SECTION  # kept for back-compat
+GLOSSARY_FILE   = SCRIPT_DIR / "glossary.txt"
+STUB_MARKER     = "<!-- ПЕРЕВОД -->"
+
+
+def get_content_dir(section: str = DEFAULT_SECTION) -> Path:
+    """Return the content directory for the given blog section."""
+    return SCRIPT_DIR / "content" / section
 
 # ---------------------------------------------------------------------------
 # Placeholder protection
@@ -34,6 +40,9 @@ STUB_MARKER   = "<!-- ПЕРЕВОД -->"
 
 # Hugo shortcodes: {{< ... >}} and {{% ... %}}
 _SHORTCODE_RE = re.compile(r'\{\{[<%].*?[>%]\}\}', re.DOTALL)
+# Hugo heading anchor IDs: {#some-id}  — must be protected before link regex
+# (it also starts with '{' which confuses some APIs)
+_ANCHOR_RE    = re.compile(r'\{#[\w-]+\}')
 # Markdown link / image URLs: [text](URL) — protect URL, leave text translatable
 _LINK_URL_RE  = re.compile(r'(\[[^\]]*\])\(([^)\s]+)\)')
 
@@ -53,6 +62,8 @@ def protect(text: str):
 
     # Protect shortcodes first (they may contain square brackets)
     text = _SHORTCODE_RE.sub(lambda m: slot(m.group()), text)
+    # Protect heading anchor IDs {#some-id} before the link regex runs
+    text = _ANCHOR_RE.sub(lambda m: slot(m.group()), text)
     # Protect link/image URLs (keep link text translatable)
     text = _LINK_URL_RE.sub(lambda m: m.group(1) + "(" + slot(m.group(2)) + ")", text)
 

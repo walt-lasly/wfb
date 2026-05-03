@@ -17,3 +17,4 @@ not_translated_note: "Эта запись ещё не переведена. Ни
 translated_by_note: "Машинный перевод: {{ . }}"
 nav_prev: "← Предыдущая"
 nav_next: "Следующая →"
+related_label: "Смотрите также"

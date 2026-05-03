@@ -37,8 +37,10 @@ from pathlib import Path
 
 from translate_common import (
     CONTENT_DIR,
+    DEFAULT_SECTION,
     GLOSSARY_FILE,
     STUB_MARKER,
+    get_content_dir,
     load_glossary_entries,
     protect,
     restore,
@@ -228,6 +230,8 @@ def main():
                         help="Re-translate posts that already have Russian content")
     parser.add_argument("--dry-run", action="store_true",
                         help="List posts that would be translated without calling API")
+    parser.add_argument("--section", metavar="NAME", default=DEFAULT_SECTION,
+                        help=f"Content section to translate (default: {DEFAULT_SECTION})")
     parser.add_argument("--verbose", "-v", dest="verbose", action="store_true", default=True,
                         help="Show skipped posts (default: on)")
     parser.add_argument("--quiet",   "-q", dest="verbose", action="store_false",
@@ -244,9 +248,9 @@ def main():
         print(f"Using glossary: {glossary_id}\n")
 
     if args.post:
-        post_dirs = [CONTENT_DIR / args.post]
+        post_dirs = [get_content_dir(args.section) / args.post]
     else:
-        post_dirs = sorted(d for d in CONTENT_DIR.iterdir() if d.is_dir())
+        post_dirs = sorted(d for d in get_content_dir(args.section).iterdir() if d.is_dir())
         if args.from_post:
             # Drop everything before the specified folder (by sorted name)
             from_name = Path(args.from_post).name  # tolerate trailing slash
