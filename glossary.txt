@@ -13,6 +13,7 @@ Frederik Pohl	Фредерик Пол
 Fred Pohl	Фред Пол
 Pohl	Пол
 Isaac Asimov	Айзек Азимов
+Isaac	Айзек
 Asimov	Азимов
 Janet Asimov	Джанет Азимов
 Janet Jeppson	Джанет Джеппсон
@@ -94,23 +95,41 @@ Robert Sheckley	Роберт Шекли
 Sheckley	Шекли
 Larry Niven	Ларри Нивен
 Niven	Нивен
+Lurton Blassingame	Лертон Блассингейм
+Lurton	Лертон
 Jerry Pournelle	Джерри Пурнелл
 Pournelle	Пурнелл
 Norman Spinrad	Норман Спинрад
 Spinrad	Спинрад
-Algis Budrys	Элджис Будрис
+Algis Budrys	Алгис Будрис
+Algis	Алгис
 Budrys	Будрис
 Kate Wilhelm	Кейт Вильгельм
 Wilhelm	Вильгельм
 Barry Malzberg	Барри Молзберг
 Malzberg	Молзберг
 Virginia Heinlein	Вирджиния Хайнлайн
+RAH	Р.Э.Х.
+R.A.H.	Р.Э.Х.
+Paul M. A. Linebarger	Пол М. Э. Лайнбарджер
+Linebarger	Лайнбарджер
+Cordwainer Smith	Кордвайнер Смит
+Cordwainer	Кордвайнер
+CS	Кордвайнер Смит
+Keith Laumer	Кейт Лаумер
+Keith	Кейт
+Laumer	Лаумер
+Saberhagen	Саберхаген
+Cele Goldsmith	Сил Голдсмит
+Cele	Сил
+
 
 # ── Publications (do not translate titles) ───────────────────────────────────
 Galaxy Science Fiction	Galaxy Science Fiction
 Galaxy	Galaxy
 Astounding Science Fiction	Astounding Science Fiction
 Astounding	Astounding
+Astonishing Stories	Astonishing Stories
 Analog Science Fiction	Analog Science Fiction
 Analog	Analog
 Amazing Stories	Amazing Stories
@@ -118,13 +137,20 @@ Amazing	Amazing
 Worlds of If	Worlds of If
 The Magazine of Fantasy and Science Fiction	The Magazine of Fantasy and Science Fiction
 Fantasy and Science Fiction	Fantasy and Science Fiction
+F&SF	F&SF
 Infinity Science Fiction	Infinity Science Fiction
 Super Science Stories	Super Science Stories
+Super-Science Stories	Super Science Stories
 Worlds of Tomorrow	Worlds of Tomorrow
 Science Fiction Quarterly	Science Fiction Quarterly
 Future Science Fiction	Future Science Fiction
 Star Science Fiction	Star Science Fiction
 Wonder Stories	Wonder Stories
+Science Fiction Review	Science Fiction Review
+eFanzine	eFanzine
+Putnam	Putnam
+Ace Books	Ace Books
+Scribner	Scribner
 
 # ── Book titles (do not translate) ───────────────────────────────────────────
 The Space Merchants	Торговцы Космосом (The Space Merchants)
@@ -175,6 +201,8 @@ A Canticle for Leibowitz	Гимн Лейбовицу (A Canticle for Leibowitz)
 Shto Eta Fantastika?	Shto Eta Fantastika?
 I. Asimov	Я, Азимов
 I, Asimov	Я, Азимов
+Farnham’s Freehold	Свободное Владение Фарнхэма
+Grumbles from the Grave	Ворчание из Могилы
 
 # ── Organizations / Awards ────────────────────────────────────────────────────
 Science Fiction Writers of America	Американская ассоциация писателей-фантастов (SFWA)
