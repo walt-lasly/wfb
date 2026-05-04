@@ -38,9 +38,7 @@ translator: "DeepL"
 
 [**Некоторые из вас**](/posts/2009-01-30-the-poetry-corner/) смогли довольно хорошо интерпретировать это, но для тех, кто не смог, я прочитаю это вам:
 
-> ![listen](play.gif)
-
-> ["!"](https://web.archive.org/web/20090326021758/http://www.thewaythefutureblogs.com/wp-content/uploads/2009/03/frederik-pohl_exclamation-point_2009.mp3)
+{{< audio src="frederik-pohl_exclamation-point_2009.mp3" caption="Fred Pohl reads \"Exclamation Point\" (2009)" >}}
 
 
 Или "Продолжить чтение" для перевода.

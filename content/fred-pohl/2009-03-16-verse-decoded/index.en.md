@@ -36,10 +36,7 @@ Frederik Pohl
 
 [**Some of you**](/posts/2009-01-30-the-poetry-corner/) managed to interpret this pretty well, but for those who didn’t, I will read it to you:
 
-> ![listen](play.gif)
-
-> [“!”](https://web.archive.org/web/20090326021758/http://www.thewaythefutureblogs.com/wp-content/uploads/2009/03/frederik-pohl_exclamation-point_2009.mp3)
-
+{{< audio src="frederik-pohl_exclamation-point_2009.mp3" caption="Fred Pohl reads \"Exclamation Point\" (2009)" >}}
 
 Or “Continue reading” for a translation.
 

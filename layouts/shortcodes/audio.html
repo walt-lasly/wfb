@@ -1,0 +1,11 @@
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+{{- $url := $src -}}
+{{- with .Page.Resources.GetMatch $src -}}{{- $url = .RelPermalink -}}{{- end -}}
+<figure class="audio-player">
+  <audio controls preload="auto">
+    <source src="{{ $url }}" type="audio/mpeg">
+    <a href="{{ $url }}">{{ $src }}</a>
+  </audio>
+  {{- with $caption }}<figcaption class="audio-caption">{{ . }}</figcaption>{{ end -}}
+</figure>
