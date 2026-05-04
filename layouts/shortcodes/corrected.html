@@ -1,0 +1,1 @@
+{{- $orig := .Get "orig" -}}<span class="correction correction--right"{{- with $orig }} data-note="{{ . }}"{{ end }}><span class="correction__text">{{ .Inner | markdownify }}</span></span>

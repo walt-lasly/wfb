@@ -449,6 +449,45 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 0;
 }
 
+/* ── Correction shortcodes ─────────────────────────────────────────────────── */
+.correction {
+  display: inline;
+  position: relative;
+}
+.correction__text { display: inline; }
+.correction__text p { display: inline; margin: 0; }
+
+/* Type 1: wrong text — red strikethrough */
+.correction--wrong .correction__text {
+  text-decoration: line-through #c0392b;
+  color: #c0392b;
+}
+
+/* Type 2: corrected text — subtle amber dotted underline */
+.correction--right .correction__text {
+  border-bottom: 1px dotted #b08000;
+}
+
+/* CSS tooltip (appears on hover above the word) */
+.correction[data-note]:hover::after {
+  content: attr(data-note);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #222;
+  color: #fff;
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-style: normal;
+  white-space: nowrap;
+  font-family: var(--font-ui);
+  pointer-events: none;
+  z-index: 100;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
 /* ── Related posts ("See also") panel ─────────────────────────────────────── */
 .post-body-wrap:has(> aside.related-posts) {
   display: grid;
