@@ -449,6 +449,15 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 0;
 }
 
+/* ── Section break (centered asterisks) ─────────────────────────────────────── */
+.section-break {
+  text-align: center;
+  letter-spacing: 0.5em;
+  color: var(--color-muted);
+  margin: 2em 0;
+  font-size: 1rem;
+}
+
 /* ── Audio player shortcode ─────────────────────────────────────────────────── */
 .audio-player {
   margin: 1.5em 0;
@@ -508,6 +517,61 @@ img { max-width: 100%; height: auto; display: block; }
   pointer-events: none;
   z-index: 100;
   box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
+/* ── Heinlein Archive — typewriter style ─────────────────────────────────────── */
+.post--heinleinarchive .post-meta {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.82rem;
+}
+.post--heinleinarchive .single-column,
+.post--heinleinarchive .col {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: #1a1a1a;
+}
+.post--heinleinarchive .single-column p,
+.post--heinleinarchive .col p {
+  margin-bottom: 1.1em;
+  text-indent: 2em;         /* typewriter indent */
+}
+.post--heinleinarchive .single-column p:first-of-type,
+.post--heinleinarchive .col p:first-of-type {
+  text-indent: 0;           /* no indent on first paragraph */
+}
+.post--heinleinarchive .single-column h1,
+.post--heinleinarchive .single-column h2,
+.post--heinleinarchive .single-column h3,
+.post--heinleinarchive .col h1,
+.post--heinleinarchive .col h2,
+.post--heinleinarchive .col h3 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.post--heinleinarchive .single-column em,
+.post--heinleinarchive .col em {
+  font-style: normal;
+  text-decoration: underline;  /* typewriters underline instead of italic */
+}
+
+/* ── Typewriter shortcode ────────────────────────────────────────────────── */
+.typewriter {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.95rem;
+  line-height: 1.85;
+}
+.typewriter p { text-indent: 2em; }
+.typewriter p:first-of-type { text-indent: 0; }
+.typewriter em { font-style: normal; text-decoration: underline; }
+.typewriter .letter-date { text-align: center; text-indent: 0; margin-bottom: 1.5em; }
+.handwritten {
+  font-family: 'Caveat', cursive;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  text-indent: 0;
 }
 
 /* ── Related posts ("See also") panel ─────────────────────────────────────── */
