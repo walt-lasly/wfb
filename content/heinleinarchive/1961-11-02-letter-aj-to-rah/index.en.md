@@ -5,10 +5,19 @@ categories: [correspondence, publishing, worldcon]
 tags: ["Algis Budrys", "Seacon 1961", "Fred Pohl", "Regency Books", "Harlan Ellison", "book proposal", Lithuania, family]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
-corr085: 192-194
+volume: corr085
+pages: "192-194"
+prev_post_url: /heinleinarchive/1961-09-06-letter-rah-to-aj/
+prev_post_title: "Letter from RAH to Algis Budrys"
+next_post_url: /heinleinarchive/1961-11-03-letter-aj-to-rah/
+next_post_title: "Letter from Algis Budrys to RAH"
 ---
 
 # Letter from Algis Budrys to RAH (with book proposal)
+
+*AJ replies nearly two months after Seacon, explaining he has been swept up replacing Harlan Ellison as editor at Regency Books (effective October 1). He thanks RAH for his willingness to help and praises his GoH speech. He describes his wife Eddie and their three sons in vivid detail, and formally proposes that Heinlein write a political book for Regency — tentatively titled "Red America — Your Life If The Commies Win." He closes by mentioning a farewell party in his honor at Fred Pohl's home in Red Bank, NJ.*
+
+{{< figure src="regency_logo.png" >}}
 
 {{< typewriter >}}
 
@@ -57,3 +66,19 @@ my very best to you and Ginny,
 A.J. Budrys, impersonating an Editor-In-Chief
 
 {{< /typewriter >}}
+
+---
+
+**Notes**
+
+**Harlan Ellison at Regency** — Before AJ, Harlan Ellison briefly held the editor's post at Regency Books in 1961. His tenure was, by all accounts, creative but administratively chaotic — as AJ delicately hints.
+
+**Regency Books** — A paperback imprint run by William L. Hamling, who also published the SF magazines *Imagination* and *Imaginative Tales*. Regency occupied an odd niche: it published provocative adult fiction and occasional science fiction, with production values Budrys genuinely believed were the best on the newsstand. RAH later asks whether Regency is "a Hamling enterprise" — confirming he already suspected it.
+
+**"Red America" proposal** — AJ's suggested title *"Red America — Your Life If The Commies Win"* reflects the aggressive Cold War paperback market; titles like this sold briskly in the early 1960s. RAH ultimately declined, recommending Kornbluth's *Not This August* instead.
+
+**Fred Pohl's home in Red Bank** — 386 West Front Street, Red Bank, New Jersey. Fred and his third wife Carol hosted well-known SF community gatherings here.
+
+**Kankali** — An evocative reference to nomadic Central Asian peoples; AJ uses it to paint a portrait of his wife Eddie's practical toughness. The Kankali (Qangly) were a medieval Turkic confederation associated with the Kazakh steppe.
+
+**"impersonating an Editor-In-Chief"** — AJ's characteristic self-deprecating closing; he was genuinely still finding his footing in a demanding new role.

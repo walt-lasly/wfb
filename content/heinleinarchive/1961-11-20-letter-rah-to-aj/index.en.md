@@ -5,10 +5,17 @@ categories: [correspondence, "cold war", publishing]
 tags: ["Algis Budrys", "Bay of Pigs", Hungary, Lithuania, "bomb shelter", "civil defense", "Cyril Kornbluth", "Not This August", "Regency Books", "book proposal", "Fred Pohl", "Ginny Heinlein", "Rogue Moon", "Colorado Springs"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
-corr085: 195-198
+volume: corr085
+pages: "195-198"
+prev_post_url: /heinleinarchive/1961-11-03-letter-aj-to-rah/
+prev_post_title: "Letter from Algis Budrys to RAH"
+next_post_url: /heinleinarchive/1962-07-26-letter-aj-to-rah/
+next_post_title: "Letter from Algis Budrys to RAH (Chicon invitation)"
 ---
 
 # Letter from RAH to Algis Budrys (bomb shelter)
+
+*RAH responds to AJ's November 2 letter. He explains privately why he opposed AJ's intelligence career plan — fearing either a frustrating desk job or death in a covert Baltic operation. He reflects on the Cold War, the Bay of Pigs, and his willingness to die for freedom, but not cheaply. He describes spending six weeks dynamiting a bomb shelter into the granite under his Colorado Springs house, and urges AJ to build fallout protection too. On AJ's book proposal, RAH demurs but recommends Cyril Kornbluth's "Not This August" (1955) as an already-existing "Red America" novel. He mentions he was unable to attend the Pohls' farewell party for AJ.*
 
 {{< typewriter >}}
 
@@ -73,3 +80,23 @@ All the best,
 {{< figure src="signature_rah.png" alt="Bob" caption="Bob" >}}
 
 {{< /typewriter >}}
+
+---
+
+**Notes**
+
+**Bay of Pigs** — The CIA-backed invasion of Cuba by Cuban exile forces, April 17–20, 1961 — a humiliating failure for the Kennedy administration. RAH cites it alongside Budapest as evidence that the US encourages resistance behind the Iron Curtain and then abandons it.
+
+**Budapest 1956** — The Hungarian Revolution (October–November 1956), crushed by Soviet tanks after Radio Free Europe had been implicitly promising Western support. RAH keeps this in mind when assessing whether AJ's potential covert assignment to the Baltic underground would receive real US backing.
+
+***Rogue Moon*** — AJ's acclaimed 1960 novel; its protagonist has an almost suicidal fearlessness about death. RAH explicitly distances AJ from this character trait.
+
+**Dr. Libby shelter** — Willard F. Libby, Nobel laureate chemist and former member of the Atomic Energy Commission, publicized a simple backyard fallout shelter in 1961 that could be built cheaply with a shovel and a wheelbarrow. It was widely promoted in civil defense materials.
+
+**NORAD** — North American Aerospace Defense Command, headquartered at Ent Air Force Base in Colorado Springs — effectively RAH's backyard, making his home a near-certain first-strike target in any nuclear exchange.
+
+***Not This August*** — C. M. Kornbluth's 1955 novel (also published as *Christmas Eve*) depicting a Soviet-occupied United States. RAH recommends it as the "Red America" book AJ wants him to write. Kornbluth died in 1958 at 34; his widow Mary held all rights.
+
+**"volle nolle"** — RAH's rendering of the Latin *nolens volens* ("whether willing or unwilling," i.e., willy-nilly).
+
+**Bill Hamling** — William L. Hamling, publisher of Regency Books (AJ's employer) and of the SF magazines *Imagination* and *Imaginative Tales*.

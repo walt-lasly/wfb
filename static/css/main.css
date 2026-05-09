@@ -566,7 +566,19 @@ img { max-width: 100%; height: auto; display: block; }
 .typewriter p { text-indent: 2em; }
 .typewriter p:first-of-type { text-indent: 0; }
 .typewriter em { font-style: normal; text-decoration: underline; }
-.typewriter .letter-date { text-align: center; text-indent: 0; margin-bottom: 1.5em; }
+.typewriter .letter-date,
+.handwritten .letter-date { text-align: center; text-indent: 0; margin-bottom: 1.5em; }
+.typewriter .letter-address,
+.handwritten .letter-address {
+  text-align: center;
+  text-indent: 0;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--color-muted);
+  margin-bottom: 2em;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 1em;
+}
 .handwritten {
   font-family: 'Caveat', cursive;
   font-size: 1.25rem;

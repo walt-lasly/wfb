@@ -5,14 +5,17 @@ categories: [correspondence, "cold war", worldcon]
 tags: ["Algis Budrys", "Seacon 1961", "Fred Pohl", Lithuania, Vilnius, intelligence, WWII, "USS Roper", Kamikaze, "Starship Troopers", "Robert Abernathy", "Ginny Heinlein"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
-corr085: 204-207
+volume: corr085
+pages: "204-207"
+next_post_url: /heinleinarchive/1961-11-02-letter-aj-to-rah/
+next_post_title: "Letter from Algis Budrys to RAH (with book proposal)"
 ---
 
 # Letter from RAH to Algis Budrys
 
-_Context: RAH and AJ meet on Seattle Worldcon 1961 Sep 2-4 through Fred Pohl_
+*RAH writes to AJ days after the Seattle Worldcon (Sep 2–4, 1961), where they met through Fred Pohl. Still ill from the fever he ran during his Guest of Honor speech, Heinlein offers to use his Pentagon connections to help Budrys pursue an intelligence career. He then pivots to a long reflection on Baltic history, the Terror, and the Vilnius incident involving Ginny. He also responds to AJ's recommendation of Robert Abernathy's "When the Rockets Come" (1945).*
 
-_See also_ (https://fanac.org/conpubs/Worldcon/Seacon/index.html)
+_See also:_ <https://fanac.org/conpubs/Worldcon/Seacon/index.html>
 
 
 {{< typewriter >}}
@@ -78,3 +81,25 @@ And so goodnight... and with a prayer that your #4 will grow up in a free world.
 P.S. I have decided, after rereading this, that I must send it directly to you, rather than via anyone, no matter how close a friend. Surely, most of it could be published in a paper, but one or two items—well, on some subjects it is better to be overly cautious... and you have some tentative plans that are strictly your business.
 
 {{< /typewriter >}}
+
+---
+
+**Notes**
+
+**Seacon 1961** — The 19th World Science Fiction Convention, Seattle, August 31–September 4, 1961. RAH was Guest of Honor and delivered his celebrated address while running a high fever; he nearly collapsed on the platform.
+
+**USS Lexington** — CV-2, sunk at the Battle of the Coral Sea (May 8, 1942). RAH's DCNO classmate had roomed across from him aboard her.
+
+**USS Roper** — Wickes-class destroyer DD-147, on which RAH served as Gunnery Officer. He describes her taking a hit on the Kamikaze picket line in 1945 and praises his assistant Gunnery Officer, who went down with his first command and received a posthumous Medal of Honor.
+
+**Fleet Admiral King** — Ernest J. King, Commander in Chief US Fleet and Chief of Naval Operations during WWII. RAH's former skipper; the letter implies Ginny knew his daughter's family.
+
+**Anti-Kamikaze project** — RAH spent the last year of the war on classified work at the Philadelphia Naval Air Development Center (alongside Isaac Asimov and L. Sprague de Camp), producing weekly reports that went to King's desk every Monday morning.
+
+**Robert Abernathy / "When the Rockets Come"** — A 1945 *Astounding* story by Abernathy depicting a future totalitarian Earth; RAH had apparently missed it on first publication because of the Kamikaze crisis. He relates it thematically to *Starship Troopers* (1959).
+
+**The Vilnius incident** — RAH and Ginny traveled to the Soviet Union in the late 1950s. In Vilnius (then a Soviet city, now Lithuania's capital) a frightened stranger passed them a message, which they memorized and burned. The scene RAH describes — Ginny embracing the man, a check of the corridor, a hurried departure — is characteristic tradecraft caution.
+
+**"All women are anarchists"** — A characteristic Heinlein aphorism, delivered here with obvious affection for Ginny.
+
+**Debbie Cornell** — An unidentified child at the convention who gave RAH a partially chewed cookie; he cites it as the nicest thing that happened to him at Seacon.
