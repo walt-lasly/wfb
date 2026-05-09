@@ -1,0 +1,22 @@
+<li class="entry-row">
+  <a class="entry-link" href="{{ .RelPermalink }}">
+    <span class="entry-date entry-pages">
+      {{- with .Params.pages -}}p. {{ . }}{{- else -}}{{ .Date.Format "02 Jan 2006" }}{{- end -}}
+    </span>
+    <span class="entry-title">{{ .Title }}</span>
+    {{ $translated := .Params.translated | default false }}
+    {{ if $translated }}
+      <span class="badge badge--bilingual">{{ i18n "translated_badge" }}</span>
+    {{ else }}
+      <span class="badge badge--en-only">{{ i18n "original_only_badge" }}</span>
+    {{ end }}
+  </a>
+  <div class="entry-meta">
+    {{ range .Params.categories }}
+      <a class="meta-category" href="{{ printf "%scategories/%s/" $.Site.Home.RelPermalink (. | urlize) }}">{{ . }}</a>
+    {{ end }}
+    {{ range .Params.tags }}
+      <a class="meta-tag" href="{{ printf "%stags/%s/" $.Site.Home.RelPermalink (. | urlize) }}">#{{ . }}</a>
+    {{ end }}
+  </div>
+</li>

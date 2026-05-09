@@ -3,7 +3,7 @@ title: "Letter from Jack Kessie to RAH (Fredric Brown's Puppet Show)"
 date: 1962-11-02
 categories: [correspondence, publishing]
 tags: ["Jack Kessie", "Playboy", "Fredric Brown", "Puppet Show"]
-archive_url: "https://www.heinleinarchive.org/"
+archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
 pages: "279"

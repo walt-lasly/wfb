@@ -6,7 +6,7 @@ tags: ["Algis Budrys", "Regency Books", "Ginny Heinlein", "Chicon III", "David B
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
-pages: ""
+pages: "265"
 prev_post_url: /heinleinarchive/1961-11-20-letter-rah-to-aj/
 prev_post_title: "Letter from RAH to Algis Budrys (bomb shelter)"
 translator: "Yandex"

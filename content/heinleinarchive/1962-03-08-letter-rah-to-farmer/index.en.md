@@ -3,7 +3,7 @@ title: "Letter from RAH to Philip José Farmer (Stranger and SF orthodoxy)"
 date: 1962-03-08
 categories: [correspondence]
 tags: ["Philip José Farmer", "Stranger in a Strange Land", "Algis Budrys", "A Woman a Day", "Vashti", "Isaac Asimov", "Navajo", "Benjamin Lee Whorf", "SF orthodoxy"]
-archive_url: "https://www.heinleinarchive.org/"
+archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
 pages: "509"

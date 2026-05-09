@@ -1,0 +1,118 @@
+{{ define "main" }}
+{{ $pages := .Pages }}
+
+<div class="list-page archive-list-page">
+
+  {{/* ── Layout switch ── */}}
+  <div class="archive-view-switch">
+    <span class="archive-view-label">{{ i18n "view" | default "View" }}:</span>
+    <button class="archive-view-btn archive-view-btn--active" id="btn-volume"
+            aria-pressed="true">
+      {{ i18n "by_volume" | default "By volume" }}
+    </button>
+    <button class="archive-view-btn" id="btn-year"
+            aria-pressed="false">
+      {{ i18n "by_year" | default "By year" }}
+    </button>
+  </div>
+
+  {{/* ════════════════════════════════════════
+       VIEW A — grouped by volume / pages
+  ════════════════════════════════════════ */}}
+  <div id="view-volume">
+    {{ range $pages.GroupByParam "volume" }}
+      {{ $vol := .Key }}
+      {{ $sorted := sort .Pages "Params.pages" }}
+      <section class="year-group" id="vol-{{ $vol | urlize }}">
+        <h2 class="year-heading">
+          <button class="year-toggle" aria-expanded="true"
+                  aria-controls="vol-posts-{{ $vol | urlize }}">
+            {{ $vol }}
+            <span class="year-count">({{ len .Pages }})</span>
+          </button>
+        </h2>
+        <ul class="entry-list" id="vol-posts-{{ $vol | urlize }}">
+          {{ range $sorted }}
+            {{ partial "entry-row-archive.html" . }}
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </div>
+
+  {{/* ════════════════════════════════════════
+       VIEW B — grouped by year (standard)
+  ════════════════════════════════════════ */}}
+  <div id="view-year" hidden>
+    {{ range $pages.GroupByDate "2006" }}
+      {{ $y := .Key }}
+      {{ $yearPages := .Pages }}
+      <section class="year-group" id="year-{{ $y }}">
+        <h2 class="year-heading">
+          <button class="year-toggle" aria-expanded="true"
+                  aria-controls="year-posts-{{ $y }}">
+            {{ $y }}
+            <span class="year-count">({{ len $yearPages }})</span>
+          </button>
+        </h2>
+        <ul class="entry-list" id="year-posts-{{ $y }}">
+          {{ range $yearPages }}
+            {{ partial "entry-row.html" . }}
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </div>
+
+</div>
+
+<script>
+(function () {
+  const btnVolume = document.getElementById('btn-volume');
+  const btnYear   = document.getElementById('btn-year');
+  const viewVol   = document.getElementById('view-volume');
+  const viewYear  = document.getElementById('view-year');
+
+  /* Restore preference from sessionStorage */
+  const saved = sessionStorage.getItem('heinlein-archive-view');
+  if (saved === 'year') {
+    viewVol.hidden  = true;
+    viewYear.hidden = false;
+    btnVolume.classList.remove('archive-view-btn--active');
+    btnVolume.setAttribute('aria-pressed', 'false');
+    btnYear.classList.add('archive-view-btn--active');
+    btnYear.setAttribute('aria-pressed', 'true');
+  }
+
+  btnVolume.addEventListener('click', () => {
+    viewVol.hidden  = false;
+    viewYear.hidden = true;
+    btnVolume.classList.add('archive-view-btn--active');
+    btnVolume.setAttribute('aria-pressed', 'true');
+    btnYear.classList.remove('archive-view-btn--active');
+    btnYear.setAttribute('aria-pressed', 'false');
+    sessionStorage.setItem('heinlein-archive-view', 'volume');
+  });
+
+  btnYear.addEventListener('click', () => {
+    viewVol.hidden  = true;
+    viewYear.hidden = false;
+    btnYear.classList.add('archive-view-btn--active');
+    btnYear.setAttribute('aria-pressed', 'true');
+    btnVolume.classList.remove('archive-view-btn--active');
+    btnVolume.setAttribute('aria-pressed', 'false');
+    sessionStorage.setItem('heinlein-archive-view', 'year');
+  });
+
+  /* Year/volume collapse toggles */
+  document.querySelectorAll('.year-toggle').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!expanded));
+      const target = document.getElementById(btn.getAttribute('aria-controls'));
+      if (target) target.hidden = expanded;
+    });
+  });
+})();
+</script>
+{{ end }}

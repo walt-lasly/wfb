@@ -3,7 +3,7 @@ title: "Letter from Philip José Farmer to RAH (redheads research and Stranger)"
 date: 1962-01-14
 categories: [correspondence]
 tags: ["Philip José Farmer", "Stranger in a Strange Land", "Flesh", "Vashti", "Regency Books", "Motorola", "Scottsdale", "Arizona State University", "Navajo", "Benjamin Lee Whorf", "Robert Graves", "The White Goddess", "Alfred Bester", "redheads", "Genghis Khan", "Richard Francis Burton", "Starship Troopers"]
-archive_url: "https://www.heinleinarchive.org/"
+archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
 pages: "510-513"

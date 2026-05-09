@@ -3,7 +3,7 @@ title: "Письмо Джека Уильямсона Джинни Хайнлай
 date: 1990-04-03
 categories: [correspondence]
 tags: ["Jack Williamson", "Ginny Heinlein", "Grumbles from the Grave", "Mazeway", "Easton Press", biography, "Caribbean cruise"]
-archive_url: "https://www.heinleinarchive.org/"
+archive_url: "https://www.heinleinarchive.org/product-page/corr030-general-correspondence-1991"
 translated: false
 volume: corr030
 pages: "951"

@@ -6,7 +6,7 @@ tags: ["Alfred Bester", "Holiday magazine", "Ginny Heinlein", "Fantasy and Scien
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
-pages: "211"
+pages: "191"
 prev_post_url: /heinleinarchive/1961-10-17-letter-bester-to-rah/
 prev_post_title: "Bester → RAH: F&SF column invitation (Oct 17, 1961)"
 translator: "Yandex"

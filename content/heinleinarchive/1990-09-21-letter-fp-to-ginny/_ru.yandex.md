@@ -3,7 +3,7 @@ title: "Письмо Фредерика Пола Джинни Хайнлайн (
 date: 1990-09-21
 categories: [correspondence]
 tags: ["Fred Pohl", "Ginny Heinlein", "Betty Pohl", Florida, Hawaii, Palatine]
-archive_url: "https://www.heinleinarchive.org/"
+archive_url: "https://www.heinleinarchive.org/product-page/corr030-general-correspondence-1991"
 translated: false
 volume: corr030
 pages: "761-762"
