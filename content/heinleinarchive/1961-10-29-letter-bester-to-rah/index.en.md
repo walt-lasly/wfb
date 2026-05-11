@@ -2,7 +2,7 @@
 title: "Letter from Alfred Bester to RAH (Holiday, \"F&SF's loss\")"
 date: 1961-10-29
 categories: [correspondence, publishing]
-tags: ["Alfred Bester", "Holiday magazine", "Ginny Heinlein", "Fantasy and Science Fiction", "Charles Schulz", "Pogo", "emeralds", "Natural History Museum"]
+tags: ["Alfred Bester", "Holiday magazine", "Virginia Heinlein", "Fantasy and Science Fiction", "Charles Schulz", "Pogo", "emeralds", "Natural History Museum"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085

@@ -2,7 +2,7 @@
 title: "Письмо Александра Корженевского Джинни Хайнлайн (&quot;Туннель в небе&quot;)"
 date: 1989-10-02
 categories: [correspondence, publishing]
-tags: ["Ginny Heinlein", "Alexander Korzhenevski", "Tunnel in the Sky", "Russian translation", "Analog", "James Forrestal Memorial Lecture", "Soviet Union", "copyright", "Moscow Polygraphic Institute"]
+tags: ["Virginia Heinlein", "Alexander Korzhenevski", "Tunnel in the Sky", "Russian translation", "Analog", "James Forrestal Memorial Lecture", "Soviet Union", "copyright", "Moscow Polygraphic Institute"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr030-general-correspondence-1991"
 translated: false
 volume: corr030

@@ -2,7 +2,7 @@
 title: "Letter from Jack Williamson to Ginny Heinlein (biography)"
 date: 1990-04-03
 categories: [correspondence]
-tags: ["Jack Williamson", "Ginny Heinlein", "Grumbles from the Grave", "Mazeway", "Easton Press", biography, "Caribbean cruise"]
+tags: ["Jack Williamson", "Virginia Heinlein", "Grumbles from the Grave", "Mazeway", "Easton Press", biography, "Caribbean cruise"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr030-general-correspondence-1991"
 translated: false
 volume: corr030

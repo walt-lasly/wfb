@@ -2,7 +2,7 @@
 title: "Letter from Algis Budrys to RAH (Chicon invitation)"
 date: 1962-07-26
 categories: [correspondence, publishing]
-tags: ["Algis Budrys", "Regency Books", "Ginny Heinlein", "Chicon III", "David Budrys", family, Evanston]
+tags: ["Algis Budrys", "Regency Books", "Virginia Heinlein", "Chicon III", "David Budrys", family, Evanston]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085

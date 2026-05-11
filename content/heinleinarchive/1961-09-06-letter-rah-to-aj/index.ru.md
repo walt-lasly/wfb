@@ -2,7 +2,7 @@
 title: "Письмо Р.Э.Х. Алгису Будрису"
 date: 1961-09-06
 categories: [correspondence, "cold war", worldcon]
-tags: ["Algis Budrys", "Seacon 1961", "Fred Pohl", Lithuania, Vilnius, intelligence, WWII, "USS Roper", Kamikaze, "Starship Troopers", "Robert Abernathy", "Ginny Heinlein"]
+tags: ["Algis Budrys", "Seacon 1961", "Fred Pohl", Lithuania, Vilnius, intelligence, WWII, "USS Roper", Kamikaze, "Starship Troopers", "Robert Abernathy", "Virginia Heinlein"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
