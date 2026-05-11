@@ -4,9 +4,9 @@ date: 2013-08-12
 categories: ["Miscellaneous"]
 tags: ["Food"]
 archive_url: "https://web.archive.org/web/20170619233024/http://www.thewaythefutureblogs.com/2013/08/where-the-oinkers-go/"
-prev_post_url: "/posts/2013-07-29-and-the-day-came/"
+prev_post_url: "/fred-pohl/2013-07-29-and-the-day-came/"
 prev_post_title: "And the Day Came"
-next_post_url: "/posts/2013-08-21-stop-fracking/"
+next_post_url: "/fred-pohl/2013-08-21-stop-fracking/"
 next_post_title: "Stop Fracking!"
 translated: false
 translator: "Yandex"
@@ -41,7 +41,7 @@ translator: "Yandex"
 
 - ミケ говорит:
 Есть игра о викингах-рейдерах под названием Pig Wars, потому что свиньи были одной из самых ценных вещей в Темные века. Мне хотелось бы представить, что эти новоявленные варвары сохранили традицию, надевая пластиковые шлемы викингов во время своих гнусных пикировок.
-[** 13 августа 2013, 15:25 вечера**](/posts/2013-08-12-where-the-oinkers-go/)
+[** 13 августа 2013, 15:25 вечера**](/fred-pohl/2013-08-12-where-the-oinkers-go/)
 - [Шакатани](https://web.archive.org/web/20170619233024/http://shakatany.livejournal.com/) говорит:
 Ну, конечно, им все равно, что бедняжки в конечном итоге умрут в любом случае.
-[**14 августа 2013 года, 15:00**](/posts/2013-08-12-where-the-oinkers-go/)
+[**14 августа 2013 года, 15:00**](/fred-pohl/2013-08-12-where-the-oinkers-go/)

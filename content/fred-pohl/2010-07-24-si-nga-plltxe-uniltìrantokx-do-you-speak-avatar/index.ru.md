@@ -4,9 +4,9 @@ date: 2010-07-24
 categories: ["Miscellaneous"]
 tags: ["Conventions", "Films", "James Cameron", "Linguistics", "Paul Frommer"]
 archive_url: "https://web.archive.org/web/20140902175226/http://www.thewaythefutureblogs.com/2010/07/si-nga-plltxe-uniltrantokx-do-you-speak-avatar/"
-prev_post_url: "/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/"
+prev_post_url: "/fred-pohl/2010-07-23-fossil-fuels-and-bad-bookkeeping/"
 prev_post_title: "Fossil Fuels and Bad Bookkeeping"
-next_post_url: "/posts/2010-07-26-a-j/"
+next_post_url: "/fred-pohl/2010-07-26-a-j/"
 next_post_title: "A J"
 translated: false
 translator: "Yandex"
@@ -33,13 +33,13 @@ translator: "Yandex"
 
 - [команда блога](https://web.archive.org/web/20140902175226/http://thewaythefutureblogs.com/) говорит:
 Сед кион при [эсперанто](https://web.archive.org/web/20140902175226/http://web.archive.org/web/20060303003621/4forry.best.vwh.net/esper.htm)?
-[** 24 июля 2010 года, 1:40 утра**](/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
+[** 24 июля 2010 года, 1:40 утра**](/fred-pohl/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
 - Джеймс Маккинни говорит:
 Вы можете удалить этот пост, если захотите, позже. Я только что перечитывал ваши посты о Роберте Хайнлайне, и вы упомянули об опыте наблюдения запуска “Аполлона-17" с корабля вместе с ним и многими другими писателями НФ и вообще светилами (недавно я перечитывал "2061" Кларка, и, по-моему, он упоминает то же самое или похожее путешествие в "Корабле времени"). Глава ”Дураки"). Поскольку приближается последний рейс шаттла, я задаюсь вопросом, не настало ли время опубликовать какие-либо воспоминания и размышления, которые могут возникнуть у вас об этом уникальном событии.
-[**24 июля 2010, 10:08 вечера**](/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
+[**24 июля 2010, 10:08 вечера**](/fred-pohl/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
 - Тина Блэк говорит:
 Похоже, клингоны недавно провели свое ежегодное собрание.  Может быть, они и вышли из моды, но по-прежнему востребованы.
-[**25 июля 2010, 20:25 вечера**](/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
+[**25 июля 2010, 20:25 вечера**](/fred-pohl/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
 
 [WordPress](https://web.archive.org/web/20140902175226/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140902175226/http://dicksmithsoftware.com/)

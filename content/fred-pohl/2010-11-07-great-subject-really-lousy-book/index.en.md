@@ -4,9 +4,9 @@ date: 2010-11-07
 categories: ["Books"]
 tags: ["Algis Budrys", "C.M. Kornbluth", "Gateway", "Harry Harrison", "Jerome Bixby", "Lester del Rey", "Mark Rich", "Raymond A. Palmer", "Robert Sheckley", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20120901000000/http://www.thewaythefutureblogs.com/2010/11/great-subject-really-lousy-book/"
-prev_post_url: "/posts/2010-10-31-good-news-for-the-rest-of-the-world/"
+prev_post_url: "/fred-pohl/2010-10-31-good-news-for-the-rest-of-the-world/"
 prev_post_title: "Good News for the Rest of the World"
-next_post_url: "/posts/2010-11-09-bright-sayings-of-bright-people-no-3-ciardi/"
+next_post_url: "/fred-pohl/2010-11-09-bright-sayings-of-bright-people-no-3-ciardi/"
 next_post_title: "Bright Sayings of Bright People, No. 3*: Ciardi"
 translated: false
 ---
@@ -23,10 +23,10 @@ Frederik Pohl
 {{< figure src="kornbluth_cyril_head.jpg" alt="C.M. Kornbluth" caption="C.M. Kornbluth" >}}
 
 
-I’ve been reading a book I wholly and totally despise about a person I loved a lot.  The person is [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), with whom I shared so much of my early writing life, and of his.  The book is succinctly called *C.M. Kornbluth,* and it is by a man named Mark Rich, who is described as a writer of short stories and books about toys.
+I’ve been reading a book I wholly and totally despise about a person I loved a lot.  The person is [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/), with whom I shared so much of my early writing life, and of his.  The book is succinctly called *C.M. Kornbluth,* and it is by a man named Mark Rich, who is described as a writer of short stories and books about toys.
 
 
-I have to say at once that reading the book in itself took me back to that wonderful world when Cyril and [**AJ Budrys**](/posts/2010-07-26-a-j/)  and [Bob Sheckley](https://web.archive.org/web/20131011162023/http://www.sheckley.com/) and [**Lester del Rey**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/) and [Jerry Bixby](https://web.archive.org/web/20131011162023/http://www.isfdb.org/cgi-bin/ea.cgi?Jerome%20Bixby) and [Harry Harrison](https://web.archive.org/web/20131011162023/http://harryharrison.com/) and all those other talented, trash-talking, wife-stealing, brilliant friends were still alive and still putting up with each other … and in the process producing a whole new science-fiction canon   Reviving those memories was actually a good thing.  They are touching to me.
+I have to say at once that reading the book in itself took me back to that wonderful world when Cyril and [**AJ Budrys**](/fred-pohl/2010-07-26-a-j/)  and [Bob Sheckley](https://web.archive.org/web/20131011162023/http://www.sheckley.com/) and [**Lester del Rey**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/) and [Jerry Bixby](https://web.archive.org/web/20131011162023/http://www.isfdb.org/cgi-bin/ea.cgi?Jerome%20Bixby) and [Harry Harrison](https://web.archive.org/web/20131011162023/http://harryharrison.com/) and all those other talented, trash-talking, wife-stealing, brilliant friends were still alive and still putting up with each other … and in the process producing a whole new science-fiction canon   Reviving those memories was actually a good thing.  They are touching to me.
 
 
 There are, however, some things about this book that aren’t good at all.  In fact, they stink.
@@ -90,27 +90,27 @@ I will have more to say about Rich’s work of character assassination before lo
 
 - John H says:
 Looks like other reviewers of Rich’s book are equally surprised by his characterization of your collaboration with Cyril. I would assume, based on your reaction, that Rich didn’t bother to interview you for his book. Which if true would suggest he wasn’t interested in giving you a fair shake – pity, since you’re one of the few Futurians (and probably the only Kornbluth collaborator) still with us.
-[**November 8, 2010, 3:52 pm**](/posts/2010-11-07-great-subject-really-lousy-book/)
+[**November 8, 2010, 3:52 pm**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/)
 - [Robert Nowall](https://web.archive.org/web/20131011162023/http://www.robertnowall.com/) says:
 Sorry to hear that.  I’ve already expressed regret before about the lack of proper biographies of the great SF writers—as well as the often-peculiar quality of those that do come out.  (The H. Beam Piper bio comes to mind, but there are lots of others.)
 Seems a lot of these are “labors of love”—but somehow the “love” replaces the facts—and balanced portraits are just about impossible.
 (About the only thing I can state with confidence about the Pohl / Kornbluth collaboration is certainty about who wrote one particular sentence in one story.  In “The Meeting,” mention is made of flying out of “JFK.”  Since Idlewild Airport wasn’t renamed until after John F. Kennedy’s assassination, and since Kornbluth (regrettably) died well before that, I feel I can state with certainty that Pohl wrote that particular sentence.  Not much, actually.)
-[**November 9, 2010, 4:24 am**](/posts/2010-11-07-great-subject-really-lousy-book/)
+[**November 9, 2010, 4:24 am**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/)
 - Alan Kovski says:
 It often is said that an author’s character shows in his work. In your memoir “The Way the Future Was” you show a real generosity of spirit and thoughtfulness, nothing like the description from this Mark Rich guy. And I recall “The Gold at the Starbow’s End” as one of my favorite work’s by you. You showed great writing talent in that story and the memoir and other post-Kornbluth work.
 Which is my way of saying that even us strangers will not be fooled by a character assassin. You’re good.
-[**November 14, 2010, 6:15 pm**](/posts/2010-11-07-great-subject-really-lousy-book/)
+[**November 14, 2010, 6:15 pm**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/)
 - [Cliff Winnig](https://web.archive.org/web/20131011162023/http://cliffwinnig.com/) says:
 One great irony here is that I can think of no one else who has done more to keep the memory of Cyril Kornbluth alive than you.  If not for you, he would have been nothing but a byline to me, and that would have been a great shame.
-[**November 18, 2010, 11:36 am**](/posts/2010-11-07-great-subject-really-lousy-book/)
+[**November 18, 2010, 11:36 am**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/)
 - [MikE Reichold](https://web.archive.org/web/20131011162023/http://members.tripod.com/mike_reichold/) says:
 Mr Pohl, 
 Don’t know what could have possessed Mr. Rich. Of course, I’d not be commenting had he not said something ridiculous, so perhaps it just increases his profile. He certainly seems off base to me. 
 At any rate, Robert Silverberg’s “Rereading Kornbluth” prompted me to do that, which led me here. I just want to say thank you. Thank you. You are one of the writers that has kept me a sci fi fan for forty years. The complete Heechee Saga sits on the book shelf behind me. It’s the sort of thing that makes others want to right just hal as well. If I had half your talent, I would be happy. I’ve very much enjoyed reading your blog as well. All my best.
-[**November 22, 2010, 5:57 pm**](/posts/2010-11-07-great-subject-really-lousy-book/)
+[**November 22, 2010, 5:57 pm**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/)
 - Chris says:
 I have read Mark Rich’s book and, while I enjoyed parts of it, his portrait of Frederik Pohl does indeed amount to character assassination. I have no idea what possessed him to turn Pohl into a cartoon of evil, duplicity and talentlessness, but the portrait all but destroys an otherwise useful biography. I’ve been equally shocked that, while there has been some comment about this issue in the SF community, there has been no major outcry–not that I’ve noticed, anyway. There should be. Fred Pohl is one of the giants of science fiction. His talent–even genius–can be attested to be his countless readers all over the world, and his long shelf of awards. His generosity of spirit has been felt by writers and fans for seven decades now. Mark Rich’s portrait is a wildly inaccurate disgrace. I’m just happy that Mr. Pohl is setting the record straight here.
-[**January 8, 2011, 3:17 pm**](/posts/2010-11-07-great-subject-really-lousy-book/)
+[**January 8, 2011, 3:17 pm**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/)
 
 [WordPress](https://web.archive.org/web/20131011162023/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131011162023/http://dicksmithsoftware.com/)

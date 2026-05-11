@@ -4,9 +4,9 @@ date: 2014-01-07
 categories: ["Betty's Posts", "Writing"]
 tags: ["Elizabeth Anne Hull", "Language"]
 archive_url: "https://web.archive.org/web/20140101000000/http://www.thewaythefutureblogs.com/2014/01/some-words-in-english-about-english-words/"
-prev_post_url: "/posts/2014-01-05-the-story-of-the-space-merchants-part-5/"
+prev_post_url: "/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/"
 prev_post_title: "The Story ofThe Space Merchants, Part 5"
-next_post_url: "/posts/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
+next_post_url: "/fred-pohl/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
 next_post_title: "More onThe Space Merchants, 21st Century Edition"
 translated: false
 ---
@@ -47,16 +47,16 @@ Language in general is what separates *Homo sapiens* from other species with who
 I look forward to watching more of this video when I can find the time. I’ve been reading “History in English Words” by Owen Barfield, a British philosopher who was a friend of C. S. Lewis and an influence on Tolkien as well.  
 
 Thanks for reviving the blog. It’s been one of my favorites for a long time.
-[**January 8, 2014, 7:13 am**](/posts/2014-01-07-some-words-in-english-about-english-words/)
+[**January 8, 2014, 7:13 am**](/fred-pohl/2014-01-07-some-words-in-english-about-english-words/)
 - Bill Chapman says:
 Hello, Elizabeth
 You’re right that “English … as a lingua franca … puts all those for whom it is their second language on an even playing field”. At the same time it puts those who have it as a mother tongue in an advantaged position. A case for Esperanto, perhaps.
-[**January 8, 2014, 11:27 am**](/posts/2014-01-07-some-words-in-english-about-english-words/)
+[**January 8, 2014, 11:27 am**](/fred-pohl/2014-01-07-some-words-in-english-about-english-words/)
 - [Dan Gollub](https://web.archive.org/web/20160416124028/http://www.dreampattern.com/) says:
 “Language in general is what separates Homo sapiens from other species…”  
 
 I published an article in Psychology and Education, Vol 46, #2 in 2009 suggesting, in part, that thinking in words before falling asleep could lead to more intelligent dreams.
-[**January 8, 2014, 6:29 pm**](/posts/2014-01-07-some-words-in-english-about-english-words/)
+[**January 8, 2014, 6:29 pm**](/fred-pohl/2014-01-07-some-words-in-english-about-english-words/)
 
 [WordPress](https://web.archive.org/web/20160416124028/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416124028/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-06-23
 categories: ["Authors", "Personal", "Travel", "Writing"]
 tags: ["Australia", "Beverly Herbert", "Charles Lindbergh", "Conventions", "Elizabeth Anne Hull", "Films", "Frank Herbert", "Hawai'i", "Medicine", "Ted Turner", "Theresa Herbert", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170401000000/http://www.thewaythefutureblogs.com/2010/06/frank-herbert-the-dune-man-part-2/"
-prev_post_url: "/posts/2010-06-21-frank-herbert-the-dune-man/"
+prev_post_url: "/fred-pohl/2010-06-21-frank-herbert-the-dune-man/"
 prev_post_title: "Frank Herbert, the Dune Man"
-next_post_url: "/posts/2010-06-25-russians-jews-and-isaac/"
+next_post_url: "/fred-pohl/2010-06-25-russians-jews-and-isaac/"
 next_post_title: "Russians, Jews and Isaac"
 translated: false
 translator: "Yandex"
@@ -75,41 +75,41 @@ translator: "Yandex"
 
 ** Сообщение по теме:**
 
-[** Фрэнк Герберт, человек с Дюны(Dune)**](/posts/2010-06-21-frank-herbert-the-dune-man/)
+[** Фрэнк Герберт, человек с Дюны(Dune)**](/fred-pohl/2010-06-21-frank-herbert-the-dune-man/)
 
 
 ### 9 Комментариев
 
 - Джулиан говорит:
 Как печально. Не волнуйся, Герберт всегда знал, что ты его ценишь.
-[** 23 июня 2010 года, 12:51 утра**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[** 23 июня 2010 года, 12:51 утра**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Лысый парень](https://web.archive.org/web/20120304202309/http://www.irememberjfk.com/) говорит:
 Какой обычный парень. Оранжевые цитаты из католической Библии перед каждой главой звучали довольно самонадеянно. Я рад знать, что он был просто обычным Джо.
-[** 23 июня 2010 года, 1:33 утра**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[** 23 июня 2010 года, 1:33 утра**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - Джен говорит:
 Спасибо вам за то, что поделились своими воспоминаниями о нем - он не только один из моих любимых авторов, но и его дань уважения Бев в конце книги "Дом главы: Дюна (Dune)" до сих пор остается одной из самых трогательных вещей, которые я прочитал. 
 (И в качестве дополнительного примечания, несколько дней назад я вновь открыл для себя свой старый экземпляр вчерашнего "Завтра" и с огромным удовольствием перечитал его. К сожалению, сейчас читать “Экологическую катастрофу” еще больнее, чем в первый раз.)
-[** 23 июня 2010 года, 8:07 утра**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[** 23 июня 2010 года, 8:07 утра**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Джон Кремер](https://web.archive.org/web/20120304202309/http://www.bookmarket.com/) говорит:
 Ваш пост из двух частей был великолепен. Мне действительно понравилось читать о некоторых из моих любимых авторов.
-[**23 июня 2010 года, 19:30 вечера**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**23 июня 2010 года, 19:30 вечера**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - Стейси говорит:
 Спасибо за эту маленькую виньетку с мистером Гербертом и за вашу дружбу с ним. Его сериал "Дюна(Dune)" изменил мою жизнь, открыл мне глаза на игры власти и махинации в рамках религии высшего контроля, в которую я был вовлечен.
-[**23 июня 2010, 10:51 вечера**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**23 июня 2010, 10:51 вечера**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Майкл Уолш](https://web.archive.org/web/20120304202309/http://www.oldearthbooks.com/) говорит:
 Хорошая статья о Герберте.  Я помню, как читал “Пророка с Дюны(Dune)” в "Аналогах простыней".  И эти злодеи Джона Шенхерра... О боже.  Они останутся со мной навсегда.
-[**24 июня 2010, 17:24 вечера**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**24 июня 2010, 17:24 вечера**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Лобо7922](https://web.archive.org/web/20120304202309/http://lacuevadellobo.blogspot.com/) говорит:
 Спасибо, всегда интересно узнать больше подробностей о Фрэнке Герберте гении
-[** 27 июня 2010 года, 12:32 утра**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[** 27 июня 2010 года, 12:32 утра**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - Нил из Чикаго говорит:
 И, кстати, об отступлениях...  
 
 Из ста американцев, участвовавших в Aussiecon I, две трети путешествовали группой.  Естественно, у кого-то была одна из маленьких плоских портативных пишущих машинок на рейсе из Лос-Анджелеса (новозеландской авиакомпанией, так что в дополнение к нашей остановке в Гонолулу была еще одна в Окленде), и к тому времени, когда мы добрались до Окленда, несколько человек выполняли задание найти подходящие конверты в Окленде. в аэропорт, чтобы отправить домой mimeo masters, которые были вырезаны в пути, для немедленного воспроизведения на родине.  (для значений 1970-х годов “немедленный”)
-[**4 июля 2010, 16:34**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**4 июля 2010, 16:34**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Книгоиздатели](https://web.archive.org/web/20120304202309/http://www.schieldenver.co.uk/) говорят:
 Вторая часть вашего поста была превосходной. Также мне очень понравилось читать о некоторых из моих любимых авторов.
-[** 27 августа 2010 года, 9:27 утра**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[** 27 августа 2010 года, 9:27 утра**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 
 [WordPress](https://web.archive.org/web/20120304202309/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120304202309/http://dicksmithsoftware.com/)

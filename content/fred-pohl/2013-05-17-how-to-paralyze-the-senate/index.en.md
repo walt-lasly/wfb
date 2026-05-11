@@ -4,9 +4,9 @@ date: 2013-05-17
 categories: ["Miscellaneous"]
 tags: ["Barack Obama", "Films", "Jimmy Stewart", "Politics"]
 archive_url: "https://web.archive.org/web/20170620001820/http://www.thewaythefutureblogs.com/2013/05/how-to-paralyze-the-senate/"
-prev_post_url: "/posts/2013-05-14-about-brooklyn/"
+prev_post_url: "/fred-pohl/2013-05-14-about-brooklyn/"
 prev_post_title: "About Brooklyn"
-next_post_url: "/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
+next_post_url: "/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
 next_post_title: "My War: The Night of the Invasion of Southern France"
 translated: false
 ---
@@ -43,22 +43,22 @@ Most Senators, both Democrats and Republicans, will admit that the filibuster ru
 - [Robert Nowall](https://web.archive.org/web/20170620001820/http://www.robertnowall.com/) says:
 The President can always make a recess appointment when Congress is out of session, something specifically allowed by the Constitution—the filibuster is not mentioned, it is merely a rule of the Senate, in the how-and-why they conduct their business.
 Oh, right, this current President has already made recess appointments—when Congress was in session—and, so far, two courts have ruled he acted unconstitutionally.
-[**May 17, 2013, 5:24 pm**](/posts/2013-05-17-how-to-paralyze-the-senate/)
+[**May 17, 2013, 5:24 pm**](/fred-pohl/2013-05-17-how-to-paralyze-the-senate/)
 - chemster says:
 Was congress in session, or was it “in session”?  Weren’t the Republicans forcing “pro forma” sessions where no work was actually being done (and there certainly wasn’t a quorum or any attempt to do actual business), specifically to *prevent* a recess appointment?
-[**May 19, 2013, 7:41 am**](/posts/2013-05-17-how-to-paralyze-the-senate/)
+[**May 19, 2013, 7:41 am**](/fred-pohl/2013-05-17-how-to-paralyze-the-senate/)
 - [Random Troll](https://web.archive.org/web/20170620001820/http://none/) says:
 The first comment a perfect example of the B.S. the conservatives are pulling: give a “solution”, then complain about that exact same “solution”. 
 Personally, I only know of one time Obama got called to court about a recess appointment, and even then, the Repubs. were pulling a scam to appear to still be in session.
 Look people, Obama -may- be a jerk, but he is still the President and, unlike Romney and his type, is trying to help the MAJORITY of Americans.
-[**May 19, 2013, 8:08 am**](/posts/2013-05-17-how-to-paralyze-the-senate/)
+[**May 19, 2013, 8:08 am**](/fred-pohl/2013-05-17-how-to-paralyze-the-senate/)
 - [Robert Nowall](https://web.archive.org/web/20170620001820/http://www.robertnowall.com/) says:
 Since Democrats who objected to the constitutionally-permitted concept of recess appointments when President George W. Bush made them when Congress was actually in recess…and since Democrats embraced and loved the filibuster when they held a majority in the Senate…then Democrats can also be accused of hypocracy for embracing opposite opinions when it involves a Democrat president.
 It’s also to be noted that those who have respect for the Constitution and the laws might look with disfavor on approving any appointments made by an administration which, demonstrably, shows no such respect.
-[**May 21, 2013, 6:06 am**](/posts/2013-05-17-how-to-paralyze-the-senate/)
+[**May 21, 2013, 6:06 am**](/fred-pohl/2013-05-17-how-to-paralyze-the-senate/)
 - [Phillip Helbig](https://web.archive.org/web/20170620001820/http://www.astro.multivax.de:8000/helbig/helbig.html) says:
 In practice, the filibuster means that one needs more than a majority to decide.  That’s OK for changing the constitution, but not for normal business.  No wonder much of the rest of the world laughs when the US (with a two-party system as well) calls itself a democracy.  East Germany was the German Democratic Republic; calling one’s country a democracy doesn’t make it one.
-[**May 29, 2013, 4:02 am**](/posts/2013-05-17-how-to-paralyze-the-senate/)
+[**May 29, 2013, 4:02 am**](/fred-pohl/2013-05-17-how-to-paralyze-the-senate/)
 
 [WordPress](https://web.archive.org/web/20170620001820/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620001820/http://dicksmithsoftware.com/)

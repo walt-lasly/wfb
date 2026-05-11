@@ -4,7 +4,7 @@ date: 2010-07-16
 categories: ["Authors", "Books"]
 tags: ["Ben Bova", "Cory Doctorow", "Editors", "Elizabeth Anne Hull", "Frank M. Robinson", "Gardner Dozois", "Gateways", "Gene Wolfe", "Harry Harrison", "Hugo Awards", "James Gunn", "Jody Lynn Nye", "Joe Haldeman", "Mike Resnick", "Publishing", "Robert Silverberg", "Sherri S. Tepper", "Vernor Vinge"]
 archive_url: "https://web.archive.org/web/20100722002709/http://www.thewaythefutureblogs.com/2010/07/win-a-copy-of-gateways/"
-prev_post_url: "/posts/2010-07-14-fred-s-dumb-thing/"
+prev_post_url: "/fred-pohl/2010-07-14-fred-s-dumb-thing/"
 prev_post_title: "Fred’s Dumb Thing"
 translated: false
 translator: "Yandex"
@@ -24,7 +24,7 @@ translator: "Yandex"
 
 ![Gateways, original stories inspired by Frederik Pohl, edited by Elizabeth Anne Hull](gateways3001-99x150.jpg)
 
-Хорошие новости, фэны Pohl! Goodreads раздает несколько экземпляров [**Gateways**](/posts/2009-01-01-elizabeth-anne-hull/), только что вышедшей антологии оригинальных новых рассказов под влиянием Фредерика Пола, написанных некоторыми из ведущих писателей в области НФ и отредактированных женой Фреда, [Элизабет Энн Халл](https://web.archive.org/web/20100722002709/http://www.nippon2007.us/participants/hulle_participant.php). Крайний срок подачи заявок на [участие в конкурсе](https://web.archive.org/web/20100722002709/http://www.goodreads.com/giveaway/show/4822-gateways) - 31 июля, так что регистрируйтесь скорее!
+Хорошие новости, фэны Pohl! Goodreads раздает несколько экземпляров [**Gateways**](/fred-pohl/2009-01-01-elizabeth-anne-hull/), только что вышедшей антологии оригинальных новых рассказов под влиянием Фредерика Пола, написанных некоторыми из ведущих писателей в области НФ и отредактированных женой Фреда, [Элизабет Энн Халл](https://web.archive.org/web/20100722002709/http://www.nippon2007.us/participants/hulle_participant.php). Крайний срок подачи заявок на [участие в конкурсе](https://web.archive.org/web/20100722002709/http://www.goodreads.com/giveaway/show/4822-gateways) - 31 июля, так что регистрируйтесь скорее!
 
 
 Тем временем Бетти написала о книге для информационного [бюллетеня Tor/Forge](https://web.archive.org/web/20100722002709/http://torforge.wordpress.com/2010/07/12/frederik-pohls-best-friends-in-sf-give-back-in-gateways):
@@ -48,7 +48,7 @@ translator: "Yandex"
 
 &gt; Этот проект был делом любви не только для меня, но и, судя по тому факту, что все сверхзанятые авторы нашли время прислать свои новые работы - [Нил Гейман](https://web.archive.org/web/20100722002709/http://www.neilgaiman.com/) приезжает аж из Китая! — для всех, кто в этом замешан.
 
-&gt; О, и еще кое-что, что я должен упомянуть: Фред был номинирован на премию [**Хьюго за лучшего писателя для фэнов**](/posts/2010-06-02-have-you-voted-for-the-hugo-awards/) — за [thewaythefutureblogs.com](https://web.archive.org/web/20100722002709/http://thewaythefutureblogs.com/) . Обязательно проверьте это. Мастер по-прежнему с удовольствием пишет каждый день и в настоящее время вносит последние штрихи в свой новый роман "*All the Lives He Led", выход которого запланирован на следующую весну в издательстве Tor.
+&gt; О, и еще кое-что, что я должен упомянуть: Фред был номинирован на премию [**Хьюго за лучшего писателя для фэнов**](/fred-pohl/2010-06-02-have-you-voted-for-the-hugo-awards/) — за [thewaythefutureblogs.com](https://web.archive.org/web/20100722002709/http://thewaythefutureblogs.com/) . Обязательно проверьте это. Мастер по-прежнему с удовольствием пишет каждый день и в настоящее время вносит последние штрихи в свой новый роман "*All the Lives He Led", выход которого запланирован на следующую весну в издательстве Tor.
 
 Кажется, сейчас самое подходящее время напомнить вам, что крайний срок [голосования на премию Hugo Awards](https://web.archive.org/web/20100722002709/http://www.aussiecon4.org.au/hugoawards/final_ballot.php) также истекает 31 июля!
 
@@ -61,27 +61,27 @@ translator: "Yandex"
 С уважением,  
 
 Кам-Юнг
-[** 16 июля 2010 года, 12:50 утра**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[** 16 июля 2010 года, 12:50 утра**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - Лесли Деврис говорит:
 Это супер – постоянно творить и вдохновлять как команду, и я благодарю вас за это. (а теперь приступаем к голосованию!)
-[**16 июля 2010 года, 6:53 утра**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**16 июля 2010 года, 6:53 утра**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - [Шакатани](https://web.archive.org/web/20100722002709/http://shakatany.livejournal.com/) говорит:
 ”Чтобы отпраздновать 90-летие обращения моего мужа вокруг Солнца". Какой прекрасный способ выразить это.
-[** 16 июля 2010 года, 9:25 утра**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[** 16 июля 2010 года, 9:25 утра**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - [Стефан Джонс](https://web.archive.org/web/20100722002709/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Спасибо за подарок, но я планирую купить копию, чтобы поддержать продажи!
 Много лет назад я побывал на конференции CONTACT worldbuilder. Кто-то спросил приглашенного спикера Ларри Нивен, кого бы он порекомендовал президентской комиссии, собравшейся для рассмотрения вопроса о неминуемом контакте с инопланетянами. Ответ Ларри, по памяти: “Ну, первым был бы выбран Фред Пол”. 
 Это единственное имя, которое он упомянул. Я нахожу это особенно примечательным, учитывая, что они приехали из совершенно разных мест в политическом плане.
-[**16 июля 2010, 14:02**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**16 июля 2010, 14:02**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - Эндрю говорит:
 Эй, этот конкурс проводится только в США, это нечестно.. исключая канадцев.
-[**16 июля 2010, 14:22**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**16 июля 2010, 14:22**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - Джон Боланд говорит:
 Не имеет отношения к the Gateways, но я надеюсь, что Фред найдет время еще немного описать, каково это было - редактировать If и Galaxy. Я полагаю, ответом на этот вопрос должно быть “много разных вещей”, но я часто задавался вопросом, на что это было похоже, когда появилась первая история о мире реки, или “Звездная яма”, или “Дрифтгласс”. Неужели Фармер просто отправил его, без увертюры? Неужели Делани заболела рассеянным склерозом? и “Не знаю, понравится ли тебе это”? Или истории о кукольниках? Должно быть, было приятно быть редактором и получать подобные истории. Они, безусловно, надолго остались с этим читателем, за что я ему благодарен.
-[**17 июля 2010, 15:54**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**17 июля 2010, 15:54**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - Блейк Болинджер говорит:
 Пока что это было замечательное чтение.  Я прошел примерно треть пути после того, как скачал версию Kindle для iPad (идеальный формат для тех из нас, у кого плохое зрение).  Это отличный материал.
-[**17 июля 2010 года, 9:15 вечера**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**17 июля 2010 года, 9:15 вечера**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 
 [WordPress](https://web.archive.org/web/20100722002709/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20100722002709/http://dicksmithsoftware.com/)

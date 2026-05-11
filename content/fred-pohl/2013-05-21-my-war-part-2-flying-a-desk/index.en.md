@@ -4,9 +4,9 @@ date: 2013-05-21
 categories: ["Personal"]
 tags: ["Italy", "World War II"]
 archive_url: "https://web.archive.org/web/20201201000000/http://www.thewaythefutureblogs.com/2013/05/my-war-part-2-flying-a-desk/"
-prev_post_url: "/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
+prev_post_url: "/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
 prev_post_title: "My War: The Night of the Invasion of Southern France"
-next_post_url: "/posts/2013-05-22-did-you-get-any/"
+next_post_url: "/fred-pohl/2013-05-22-did-you-get-any/"
 next_post_title: "Did You Get Any?"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 ![Air Corps poster](Air-Corps-poster.jpg)
 
 
-My time with the [**456th Bomb Group**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/) was cut short when somebody at Air Force headquarters in Caserta, Italy, noticed that as a civilian I had been a writer and magazine editor, and immediately jerked me back to headquarters to write publicity for the weather squadron.  None of what I did in that capacity, I promise you, did the slightest harm to the German Wehrmacht or the least imaginable good to the Allied — no, wait a minute.  By gosh, I did do a little something for the ground-down enlisted men of the 12th [Weather Squadron](https://web.archive.org/web/20170620034616/http://www.ibiblio.org/hyperwar/AAF/VII/AAF-VII-11.html).  See, they were getting screwed, and they didn’t even know it.
+My time with the [**456th Bomb Group**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/) was cut short when somebody at Air Force headquarters in Caserta, Italy, noticed that as a civilian I had been a writer and magazine editor, and immediately jerked me back to headquarters to write publicity for the weather squadron.  None of what I did in that capacity, I promise you, did the slightest harm to the German Wehrmacht or the least imaginable good to the Allied — no, wait a minute.  By gosh, I did do a little something for the ground-down enlisted men of the 12th [Weather Squadron](https://web.archive.org/web/20170620034616/http://www.ibiblio.org/hyperwar/AAF/VII/AAF-VII-11.html).  See, they were getting screwed, and they didn’t even know it.
 
 
 The 12th Weather Squadron was unusual among small military units in that it was split up into quite tiny groups, four or five officers and half a dozen enlisted men, or just enough to man a weather station for each bomb group.  The people in these detachments seldom saw any of the two or three thousand other people in the squadron.
@@ -43,9 +43,9 @@ As a resident of the Eremo, I had my own room with my own sheeted and pillowed b
 
 **Related posts:**
 
-- **My War**, [**Part 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
-- [**Hal Clement: Major Harry Stubbs**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
-- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
+- **My War**, [**Part 1**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+- [**Hal Clement: Major Harry Stubbs**](/fred-pohl/2011-03-01-hal-clement-major-harry-stubbs/)
+- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### One Comment
@@ -54,7 +54,7 @@ As a resident of the Eremo, I had my own room with my own sheeted and pillowed b
 Great stuff, keep it coming.
 Recreational hotel? Dang. Actual accounts of war show a much more complex picture than fiction.
 In modern times you’d be the editor of the squadron website.
-[**May 21, 2013, 12:01 pm**](/posts/2013-05-21-my-war-part-2-flying-a-desk/)
+[**May 21, 2013, 12:01 pm**](/fred-pohl/2013-05-21-my-war-part-2-flying-a-desk/)
 
 [WordPress](https://web.archive.org/web/20170620034616/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620034616/http://dicksmithsoftware.com/)

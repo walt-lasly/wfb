@@ -4,9 +4,9 @@ date: 2010-12-10
 categories: ["Authors", "Personal"]
 tags: ["Carol Pohl", "Fletcher Pratt", "Futurians", "I.M. Stephens", "Judith Merril", "L. Jerome Stanton", "New York", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20150919040427/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-6-our-house/"
-prev_post_url: "/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/"
+prev_post_url: "/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/"
 prev_post_title: "Mary Byers Kornbluth, Part 1: A Fan is Born"
-next_post_url: "/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
+next_post_url: "/fred-pohl/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
 next_post_title: "Bright Sayings of Bright People, No. 6: Mill"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![nj](nj.gif)
 
-К сожалению, к тому времени, [когда вышел роман Джуди](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), напряжение в нашем браке росло, и было ясно, что мы с Джуди наконец-то приближаемся к (надеюсь, цивилизованному) разводу.
+К сожалению, к тому времени, [когда вышел роман Джуди](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), напряжение в нашем браке росло, и было ясно, что мы с Джуди наконец-то приближаемся к (надеюсь, цивилизованному) разводу.
 
 
 Однако, прежде чем мы достигли этой точки, у нас было еще несколько хороших лет.  Это выглядело так, как будто, чего бы ни стоили наши противоречивые принципы, мы смогли функционировать как женатые люди и родители, и поэтому мы делаем то, что такие пары, как мы, всегда делали в тот период американской жизни.  Мы начали подумывать о покупке дома.
@@ -32,7 +32,7 @@ translator: "Yandex"
 Итак, мы провели довольно много выходных, бродя по окрестностям, в основном по Южному Коннектикуту, северному Нью-Джерси, западному Лонг-Айленду и так далее.  Джуди выбрала объявления из газетных объявлений, но их было немного — по цене, которую мы могли себе позволить.
 
 
-Но [Инга Пратт](https://web.archive.org/web/20150919040427/http://books.google.com/books?id=PbMdeizaCNcC&lpg=PA411&ots=OCDaofLJNA&dq=I.%20M.%20Stephens%20fletcher%20pratt&pg=PA411#v=onepage&q=I.%20M.%20Stephens%20fletcher%20pratt&f=false) спасла нас.  Время от времени мы проводили выходные в гигантском доме, принадлежавшем [Флетчеру](/posts/2010-12-07-fletcher-pratt/) и Инге Пратт и называвшемся Институтом Ипси-Випси, на побережье Джерси.  Когда Джуди упомянула, что мы искали дом, она сказала: “Я знаю несколько мест.  Хочешь прокатиться?”
+Но [Инга Пратт](https://web.archive.org/web/20150919040427/http://books.google.com/books?id=PbMdeizaCNcC&lpg=PA411&ots=OCDaofLJNA&dq=I.%20M.%20Stephens%20fletcher%20pratt&pg=PA411#v=onepage&q=I.%20M.%20Stephens%20fletcher%20pratt&f=false) спасла нас.  Время от времени мы проводили выходные в гигантском доме, принадлежавшем [Флетчеру](/fred-pohl/2010-12-07-fletcher-pratt/) и Инге Пратт и называвшемся Институтом Ипси-Випси, на побережье Джерси.  Когда Джуди упомянула, что мы искали дом, она сказала: “Я знаю несколько мест.  Хочешь прокатиться?”
 
 
 Мы так и сделали.
@@ -47,7 +47,7 @@ translator: "Yandex"
 Мы купили его и начали въезжать.
 
 
-Я должен сказать, что, несмотря на вероятные рано или поздно супружеские разногласия и несколько новых тревожных финансовых проблем, мне нравился этот дом.  У меня была отличная, залитая солнцем комната на третьем этаже, с видом на деревья, лужайку и реку, в качестве офиса, с точно такой же комнатой, которая в итоге стала [**Сирила**](/posts/2009-04-20-cyril/).
+Я должен сказать, что, несмотря на вероятные рано или поздно супружеские разногласия и несколько новых тревожных финансовых проблем, мне нравился этот дом.  У меня была отличная, залитая солнцем комната на третьем этаже, с видом на деревья, лужайку и реку, в качестве офиса, с точно такой же комнатой, которая в итоге стала [**Сирила**](/fred-pohl/2009-04-20-cyril/).
 
 
 Ред-Бэнк тоже был полезным маленьким городком.  Это было на другом берегу реки, но мост находился прямо у подножия нашего участка, так что до железнодорожного или автобусного вокзалов было примерно десять минут ходьбы, примерно пятнадцать-двадцать до магазинов Red Bank, довольно приличной публичной библиотеки, кинотеатров и, скажем, McDonalds.  Не было никаких причин, по которым мы не могли бы жить там вполне счастливо.
@@ -76,14 +76,14 @@ translator: "Yandex"
 
 **Связанные должности:**  
 
-** Джудит Меррил,** [** Часть 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [** Часть 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [** Часть 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Часть 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [** Часть 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Часть 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+** Джудит Меррил,** [** Часть 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [** Часть 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [** Часть 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Часть 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [** Часть 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Часть 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### Один комментарий
 
 - Росс Прессер говорит:
 Это один прекрасный на вид дом.
-[**10 декабря 2010, 17:22 вечера**](/posts/2010-12-10-judith-merril-part-6-our-house/)
+[**10 декабря 2010, 17:22 вечера**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/)
 
 [WordPress](https://web.archive.org/web/20150919040427/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150919040427/http://dicksmithsoftware.com/)

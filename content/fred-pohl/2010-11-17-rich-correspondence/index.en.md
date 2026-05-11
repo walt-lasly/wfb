@@ -4,9 +4,9 @@ date: 2010-11-17
 categories: ["Authors", "Books", "Personal"]
 tags: ["C.M. Kornbluth", "Mark Rich"]
 archive_url: "https://web.archive.org/web/20200501000000/http://www.thewaythefutureblogs.com/2010/11/rich-correspondence/"
-prev_post_url: "/posts/2010-11-15-isaac-part-7/"
+prev_post_url: "/fred-pohl/2010-11-15-isaac-part-7/"
 prev_post_title: "Isaac, Part 7"
-next_post_url: "/posts/2010-11-19-bright-sayings-of-bright-people-no-4-parton/"
+next_post_url: "/fred-pohl/2010-11-19-bright-sayings-of-bright-people-no-4-parton/"
 next_post_title: "Bright Sayings of Bright People, No. 4: Parton"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![email](email.png)
 
-As those of you who have been paying attention know, a man named Mark Rich wrote a [**libelous book**](/posts/2010-11-07-great-subject-really-lousy-book/), in principal about my old-time collaborator, [**Cyril Kornbluth**](/posts/2009-04-20-cyril/),  but in fact filled with denunciatory — rumors, suppositions, bad guesses and occasional outright falsehoods — material about me.  Why this Mark Rich person hated me, I can’t imagine.  But you can’t read more than a few pages of any part of his rotten book without concluding that he does.
+As those of you who have been paying attention know, a man named Mark Rich wrote a [**libelous book**](/fred-pohl/2010-11-07-great-subject-really-lousy-book/), in principal about my old-time collaborator, [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/),  but in fact filled with denunciatory — rumors, suppositions, bad guesses and occasional outright falsehoods — material about me.  Why this Mark Rich person hated me, I can’t imagine.  But you can’t read more than a few pages of any part of his rotten book without concluding that he does.
 
 
 Anyway, I have begun the unpleasant job of showing that very few of his libelous statements about me are are really accurate and many are preposterously wrong.
@@ -69,16 +69,16 @@ Frederik Pohl**
 - Richard Fletcjer says:
 Hi Fred
 I think Mark Rich is happy because people will be talking about his book. Surely it’s best to ignore the things you don’t like.
-[**November 18, 2010, 2:27 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 2:27 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Daniel Collins says:
 The whole situation really reminds me of this Guardian article, wherein someone who writes unauthorized celebrity biographies comes to realize some of the frustration of his subjects over how his mistakes must have affected them:  
 
 [http://www.guardian.co.uk/lifeandstyle/2010/aug/04/celebrity-biography-jonathan-margolis](https://web.archive.org/web/20140103223554/http://www.guardian.co.uk/lifeandstyle/2010/aug/04/celebrity-biography-jonathan-margolis)
 Basically, I wouldn’t attribute to malice what can be explained by incompetence or laziness.  I mean, why weren’t you interviewed about this stuff?  Probably not because this guy hated you–more likely, because he thought he had the right story (who knows where from), but he didn’t have the experience to doubt it, the ethical imperative to involve everyone he was writing about, or the time to cross-check it.  That’s not being hateful: it’s just being bad.
-[**November 18, 2010, 2:42 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 2:42 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Jim Worrad says:
 You tell ‘em, Fred!
-[**November 18, 2010, 7:30 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 7:30 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - [TK Kenyon](https://web.archive.org/web/20140103223554/http://www.tkkenyon.com/) says:
 Dear Frederik, 
 I’m appalled at the hatchet job that this Rich character has pulled on you. I love your writing. I read *Gateway* just before I started my MFA, when I was reading every Nobel, National Book Award, and Booker that I could get my hands on. *Gateway* stood up fine. Indeed, I remember *G* better than most of the other books I read during that binge. My jaw dropped open several time while I was reading it, because it was just that good. 
@@ -91,25 +91,25 @@ Rich’s book: #759,865 in books. And only 4 reviews, one one-star by an admirer
 Sincerely,  
 
 TK Kenyon
-[**November 18, 2010, 8:28 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 8:28 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - [nanojath](https://web.archive.org/web/20140103223554/http://www.spiritofsalt.com/) says:
 Mr. Rich was born the same year Cyril Kornbluth died.  I wonder if he quite gets that when he is writing about Frederik Pohl he is not writing about a historical character, a convenient sometime-villain counterpoint to the hero of his historical Cyril Kornbluth, but about a living person.  I’ve seen the book described as exhaustively researched, and I have to agree with Daniel Collins – the idea of a book about Cyril Kornbluth being “researched” when the author didn’t seek actual input or response from Frederik Pohl indicates a disconnect from reality, basically.  I have a feeling the cognitive dissonance won’t go away as long as this correspondence continues…
-[**November 18, 2010, 9:21 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 9:21 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - [Cliff Winnig](https://web.archive.org/web/20140103223554/http://cliffwinnig.com/) says:
 I have been fortunate enough to meet many SF writers, largely at conventions (though also through Clarion).  In a field that seems to have more than its fair share of very nice, decent folks, you are among the nicest I have ever been privileged to meet.  (For the record, Jack Williamson was another of the very nicest.)  That anyone would treat you the way this biographer has done both baffles and upsets me greatly.
 In addition to your fiction, which has inspired me since I first encountered it around age twelve, you have given so much to this field — this excellent blog being just one such example, full as it is of thoughts, anecdotes, and tips for writers.
 The best defense against defamatory attacks is living well, and you’ve been doing that for decades.
-[**November 18, 2010, 10:48 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 10:48 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - dave schutz says:
 My guess is his idea was that you could do nothing to him because he thought you enfeebled with age, and that he is now hoping to outwait you.  Not a terrible bet, by the numbers, but it hasn’t worked out for him – and I hope it doesnt!  
 He needs to learn the sad story of André-François Raffray – Wikipedia has “In 1965, aged 90 years and with no heirs, Calment [Jeanne Calment, who died at 122] signed a deal to sell her former apartment to lawyer André-François Raffray, on a contingency contract. Raffray, then aged 47 years, agreed to pay her a monthly sum of 2,500 francs until she died. Raffray ended up paying Calment the equivalent of more than $180,000, which was more than double the apartment’s value. After Raffray’s death from cancer at the age of 77, in 1995, his widow continued the payments until Calment’s death.”
-[**November 18, 2010, 11:39 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 11:39 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - David Ratnasabapathy says:
 Richard Fletcjer:
 Surely it’s best to ignore the things you don’t like.
 1.  Pointing out the errors is necessary.  They could damage Mr. Pohl’s reputation if they stand uncontested.
 2.  It’s important that the errors be detailed, for the benefit of people who might otherwise have bought the book.  Life’s too short to waste on bad books.
-[**November 18, 2010, 1:08 pm**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 1:08 pm**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Craig says:
 Some years ago I was reading ‘Black Star Rising’ in paperback. A person I did not know noticed and had to comment that although he didn’t science fiction, if he did he wouldn’t read any books by that Fred Pohl guy. I asked why and his reply was that “That Pohl guy is a fascist.” I ended the conversation there as I expected nothing good would come of it.  
 
@@ -120,27 +120,27 @@ Some years ago I was reading ‘Black Star Rising’ in paperback. A person I di
  Woulda coulda shoulda. Now I would not let something like that stand. I’d do my best to lead the horse to the water. Whether they drink or not is up to them, but always make sure they can find the well.  
 
  Give ‘em hell Fred!
-[**November 18, 2010, 7:34 pm**](/posts/2010-11-17-rich-correspondence/)
+[**November 18, 2010, 7:34 pm**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Joseph T Major says:
 Take a look at the Frederik Pohl page on Facebook.  (You don’t have to join to do that.)
 Rich says “Writing the book was so cathartic I feel little more need for direct engagement on the issues I raised in its pages.”
 Really.
-[**November 19, 2010, 7:49 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 19, 2010, 7:49 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - [TK Kenyon](https://web.archive.org/web/20140103223554/http://www.tkkenyon.com/) says:
 Why/How in the heck is Mark Rich posting on Frederik’s FB page? 
 Dear Frederik: Can you ban him, unfriend him, unlike him, or whatever so that he can’t post anymore? 
 That’s ridiculous! 
 TK
-[**November 19, 2010, 8:41 am**](/posts/2010-11-17-rich-correspondence/)
+[**November 19, 2010, 8:41 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Pat says:
 The product of catharsis is a pile of ****. Medical joke. 
 I am afraid that honour, decency and research are rather lacking in the new generation of journalists.
-[**November 19, 2010, 2:29 pm**](/posts/2010-11-17-rich-correspondence/)
+[**November 19, 2010, 2:29 pm**](/fred-pohl/2010-11-17-rich-correspondence/)
 - [the blog team](https://web.archive.org/web/20140103223554/http://thewaythefutureblogs.com/) says:
 TK Kenyon, Fred doesn’t have a personal page on Facebook. 
 Joe is referring to Facebook’s [community page on Frederik Pohl](https://web.archive.org/web/20140103223554/http://www.facebook.com/pages/Frederik-Pohl/107840882571990). The community pages compile public commentary made by any Facebook users. 
 Rich posted his comments to his own [profile](https://web.archive.org/web/20140103223554/http://www.facebook.com/profile.php?id=652781584), but did not restrict them to “friends only.” At present, his profile is open for receiving messages as well.
-[**November 19, 2010, 4:00 pm**](/posts/2010-11-17-rich-correspondence/)
+[**November 19, 2010, 4:00 pm**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Joseph Crockett says:
 Dear Mr. Pohl;
 This whole thing has me incensed.
@@ -148,18 +148,18 @@ I checked out Mark Rich’s website and found out he has had little published in
 It would give me great pleasure to see you sue him for libel, but not if it takes you away from writing. I’m selfish that way. At any rate, I look forward to you handing this guy his ass in your blog.
 Best Wishes,
 Joseph Crockett
-[**November 20, 2010, 11:06 pm**](/posts/2010-11-17-rich-correspondence/)
+[**November 20, 2010, 11:06 pm**](/fred-pohl/2010-11-17-rich-correspondence/)
 - Bud Webster says:
 What I don’t understand is why he didn’t just, like, ask you, Fred.  If he has, in fact, edited a newsletter about CMK as his bio attests, he has to know you’re still up and running.  You’re both SFWA members, you’re both in the Directory, and Lord knows you’ve always been amenable to answering questions.  You’ve certainly answered all of mine the various times I’ve written about you and your anthology work, not to mention the more recent piece I did on Kornbluth himself.  It doesn’t speak terribly well of his journalistic skills that he skipped the most important aspect of his journalism: interviewing the living participant.
 I can’t address his book, as I haven’t read it (and likely won’t, as McFarland titles are way too expensive for my meagre coin-purse), and although we’re both Analog writers I can’t recall having read any of his stories, and I’ve never met him; this gives me a handicap in trying to speculate about what the hell he was trying to do.  Is it possible that he took the whole “Threadwick” thing much too seriously?
 In any case – and here I step outside journalistic objectivity – his reply to your e-mail strikes me as weasel-words; by all means take him on, but don’t sacrifice your dignity in the process.  I suspect he wouldn’t recognize it, anyway, as it’s something so few of us faan-boys have in stock.
-[**November 23, 2010, 6:51 pm**](/posts/2010-11-17-rich-correspondence/)
+[**November 23, 2010, 6:51 pm**](/fred-pohl/2010-11-17-rich-correspondence/)
 - [James Davis Nicoll](https://web.archive.org/web/20140103223554/http://james-nicoll.livejournal.com/) says:
 *After reflecting on the incident I think the idiot may have confused our Mr. Pohl with Robert Heinlein.* 
 In my experience, the author whose name is most often confused with Mr. Pohl’s is the late Poul Anderson (who I wouldn’t call a fascist but who was increasingly to the right of Pohl the older they got). 
 On the other hand, maybe they were thinking “Fascist Futurian” in which case the author they wanted was James Blish (don’t make me quote the intro to *Torrent of Faces because I totally will if I have to). He wasn’t fascist in the “person whose right wing views I disagree with sense” but IIRC in the “was mentioned as self-identifying as a fascist in one of the two Futurian non-fics in the 1970s, conveniently wrote an intro to Torrent of Faces* James has handy” sense.
 Mind you, I think he thought Musso got it wrong.
-[**December 2, 2010, 11:59 am**](/posts/2010-11-17-rich-correspondence/)
+[**December 2, 2010, 11:59 am**](/fred-pohl/2010-11-17-rich-correspondence/)
 
 [WordPress](https://web.archive.org/web/20140103223554/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140103223554/http://dicksmithsoftware.com/)

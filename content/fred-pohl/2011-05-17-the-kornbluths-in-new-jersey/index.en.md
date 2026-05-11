@@ -4,9 +4,9 @@ date: 2011-05-17
 categories: ["Authors"]
 tags: ["C.M. Kornbluth", "Mary Kornbluth", "New York"]
 archive_url: "https://web.archive.org/web/20170101000000/http://www.thewaythefutureblogs.com/2011/05/the-kornbluths-in-new-jersey/"
-prev_post_url: "/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/"
+prev_post_url: "/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/"
 prev_post_title: "Sigfrid von Shrink Builders Wanted"
-next_post_url: "/posts/2011-05-19-ion-hobana/"
+next_post_url: "/fred-pohl/2011-05-19-ion-hobana/"
 next_post_title: "Ion Hobana"
 translated: false
 ---
@@ -22,10 +22,10 @@ Frederik Pohl
   
 [View Larger Map](https://web.archive.org/web/20170707092723/http://maps.google.com/maps?q=long+branch,+new+jersey&oe=utf-8&client=firefox-a&hl=en&ie=UTF8&hq=&hnear=Long+Branch,+Monmouth,+New+Jersey&t=h&ll=40.315399,-74.022446&spn=0.091624,0.171661&z=12&iwloc=A&source=embed)
 
-[**Michael Walsh**](/posts/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/), a reader whose aunt lived in Long Branch, New Jersey, has heard that [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) did at one time, too, and would like to know exactly where.
+[**Michael Walsh**](/fred-pohl/2011-02-23-fletcher-pratt-part-5-shadow-over-the-ipsy/), a reader whose aunt lived in Long Branch, New Jersey, has heard that [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/) did at one time, too, and would like to know exactly where.
 
 
-I’m afraid I don’t know the street address any more — this was back in the ’50s — but it was within a few blocks of the [Monmouth Medical Center](https://web.archive.org/web/20170707092723/http://www.saintbarnabas.com/hospitals/monmouth_medical/ABOUT/index.html), where [**Mary**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) went to have her first two sons.  They were only there for a couple of years,  then moved to a different part of Long Branch, actually right across the street from [Monmouth College’s](https://web.archive.org/web/20170707092723/http://www.monmouthcollege.edu/) then main building (the one that played the part of Daddy Warbucks’ parlor in the *Annie* movie).  But they didn’t stay there either.
+I’m afraid I don’t know the street address any more — this was back in the ’50s — but it was within a few blocks of the [Monmouth Medical Center](https://web.archive.org/web/20170707092723/http://www.saintbarnabas.com/hospitals/monmouth_medical/ABOUT/index.html), where [**Mary**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) went to have her first two sons.  They were only there for a couple of years,  then moved to a different part of Long Branch, actually right across the street from [Monmouth College’s](https://web.archive.org/web/20170707092723/http://www.monmouthcollege.edu/) then main building (the one that played the part of Daddy Warbucks’ parlor in the *Annie* movie).  But they didn’t stay there either.
 
 
 Then upstate New York, then Long Island, and that’s where Cyril had his heart attack and died.
@@ -38,10 +38,10 @@ This map brings back some memories.  Fort Monmouth, in the middle of the map, wa
 I saw Fort Monmouth on a list of bases being considered for closure about ten years ago, but I don’t know if that actually happened.
 Outside the base, I kinda liked New Jersey while I was there (spring & summer; I suspect I would have found winters miserable).  There was a local park whose large hill I remember rolling down.  And New Jersey gets pizza right.
 I was aware you lived somewhere up the road in Red Bank, but this is the first I knew Kornbluth had lived in the neighborhood as well.
-[**May 22, 2011, 1:42 pm**](/posts/2011-05-17-the-kornbluths-in-new-jersey/)
+[**May 22, 2011, 1:42 pm**](/fred-pohl/2011-05-17-the-kornbluths-in-new-jersey/)
 - [michael Walsh](https://web.archive.org/web/20170707092723/http://www.oldearthbooks.com/) says:
 Hey thanks!
-[**May 23, 2011, 12:33 pm**](/posts/2011-05-17-the-kornbluths-in-new-jersey/)
+[**May 23, 2011, 12:33 pm**](/fred-pohl/2011-05-17-the-kornbluths-in-new-jersey/)
 
 [WordPress](https://web.archive.org/web/20170707092723/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707092723/http://dicksmithsoftware.com/)

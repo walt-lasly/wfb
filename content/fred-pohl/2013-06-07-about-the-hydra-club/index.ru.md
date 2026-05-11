@@ -4,9 +4,9 @@ date: 2013-06-07
 categories: ["Miscellaneous"]
 tags: ["Clubs", "Hydra Club"]
 archive_url: "https://web.archive.org/web/20170619191007/http://www.thewaythefutureblogs.com/2013/06/about-the-hydra-club/"
-prev_post_url: "/posts/2013-05-30-jack-vance-a-wonderful-writer-has-left-us/"
+prev_post_url: "/fred-pohl/2013-05-30-jack-vance-a-wonderful-writer-has-left-us/"
 prev_post_title: "Jack Vance: A Wonderful Writer Has Left Us"
-next_post_url: "/posts/2013-06-14-my-war-part-3-picture-perfect/"
+next_post_url: "/fred-pohl/2013-06-14-my-war-part-3-picture-perfect/"
 next_post_title: "My War, Part 3: Picture Perfect"
 translated: false
 translator: "Yandex"
@@ -33,32 +33,32 @@ translator: "Yandex"
 
 - Эйс Лайтнинг говорит:
 Самым первым конвентом, на котором я когда-либо присутствовал, был ESFAcon. Меня пригласил Сэм Московиц; мне было двенадцать лет, то есть это был 1960 год (конечно, мои родители присутствовали вместе со мной). Айзек Азимов был главным, и оно проходило в подвальном конференц-зале YMCA в Ньюарке, штат Нью-Джерси. Я помню, что там также были Лестер Дель Рей, Роберт Силверберг и Ханс Стефан Сантессен – возможно, даже вы, уважаемый.
-[**8 июня 2013 года, 2:34 ночи**](/posts/2013-06-07-about-the-hydra-club/)
+[**8 июня 2013 года, 2:34 ночи**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - Дэвид говорит:
 Какая великолепная картина. Я не очень хорошо разобрал имена, но подумал, что спою “Где Фредерик”. Вот он – над камином. Должен был и был им. Либо он был крутым парнем, либо у художника ранее были с ним разногласия.
-[** 8 июня 2013 года, 10:08 утра**](/posts/2013-06-07-about-the-hydra-club/)
+[** 8 июня 2013 года, 10:08 утра**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - [Грегори Бенфорд](https://web.archive.org/web/20170619191007/http://gregorybenford.com/) говорит:
 Можно ли расширить это illo?
-[**8 июня 2013, 18:08 вечера**](/posts/2013-06-07-about-the-hydra-club/)
+[**8 июня 2013, 18:08 вечера**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - Джон Армстронг говорит:
 Почему ты был на вертеле, Фред?
-[**9 июня 2013, 16:46 вечера**](/posts/2013-06-07-about-the-hydra-club/)
+[**9 июня 2013, 16:46 вечера**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - [Роберт Новолл](https://web.archive.org/web/20170619191007/http://www.robertnowall.com/) говорит:
 Гарри Харрисон нарисовал это, не так ли?
-[**10 июня 2013 года, 10:06 утра**](/posts/2013-06-07-about-the-hydra-club/)
+[**10 июня 2013 года, 10:06 утра**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - [Кит Грэм](https://web.archive.org/web/20170619191007/http://www.cthreepo.com/) говорит:
 Вы можете увидеть оригинальный скан статьи из журнала Marvel Научная фантастика (ноябрь 1951). Автор сценария Джудит Меррил, художник Х. Харрисон:
 [http://thatsmyskull.blogspot.com/2012/01/hydra-club.html](https://web.archive.org/web/20170619191007/http://thatsmyskull.blogspot.com/2012/01/hydra-club.html)
 Расширенная версия сканирования находится по адресу:
 [https://farm8.staticflickr.com/7169/6635968041_fb9c93a8b3_o.jpg](https://web.archive.org/web/20170619191007/https://farm8.staticflickr.com/7169/6635968041_fb9c93a8b3_o.jpg)
-[**10 июня 2013, 14:48**](/posts/2013-06-07-about-the-hydra-club/)
+[**10 июня 2013, 14:48**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - [Роберт Новолл](https://web.archive.org/web/20170619191007/http://www.robertnowall.com/) говорит:
 Я вижу имя “Джордж К. Смит” в credits...is предполагалось, что это будет “Джордж О. Смит”, или в те дни где-то бегал другой Джордж Смит?
 Памятка Джону Армстронгу.  Мистер Пол в те дни был литературным агентом... Доктор Азимов, который крутит вертел, был одним из его клиентов.  (Обратите внимание, что Филлип Класс поджаривает сосиску на огне, а Джудит Меррилл (будущая бывшая миссис Пол) тоже закуривает сигарету на огне.)
-[** 11 июня 2013 года, 4:05 утра**](/posts/2013-06-07-about-the-hydra-club/)
+[** 11 июня 2013 года, 4:05 утра**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 - [Марго Андерсон](https://web.archive.org/web/20170619191007/http://margospatterns.com/) говорит:
 Отлично!  Я вижу своего дедушку, Джерома Стэнтона, и Маргарет Бертран, которая представила моих родителей на одной из своих вечеринок.  Они отплатили за услугу, назвав меня в ее честь.
-[** 13 июня 2013 года, 13:02 утра**](/posts/2013-06-07-about-the-hydra-club/)
+[** 13 июня 2013 года, 13:02 утра**](/fred-pohl/2013-06-07-about-the-hydra-club/)
 
 [WordPress](https://web.archive.org/web/20170619191007/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619191007/http://dicksmithsoftware.com/)

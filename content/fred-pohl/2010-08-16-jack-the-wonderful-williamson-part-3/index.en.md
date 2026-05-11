@@ -4,9 +4,9 @@ date: 2010-08-16
 categories: ["Authors", "Personal"]
 tags: ["Conventions", "Dirk Wylie", "Jack Williamson", "Meteorology", "World War II", "Worldcons"]
 archive_url: "https://web.archive.org/web/20131228145617/http://www.thewaythefutureblogs.com/2010/08/jack-williamson-3/"
-prev_post_url: "/posts/2010-08-13-jack-the-wonderful-williamson-part-2/"
+prev_post_url: "/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/"
 prev_post_title: "Jack the Wonderful Williamson, Part 2"
-next_post_url: "/posts/2010-08-20-evolution-in-italy/"
+next_post_url: "/fred-pohl/2010-08-20-evolution-in-italy/"
 next_post_title: "Evolution in Italy"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="jack-williamson-telescope1.jpg" alt="Jack Williamson" caption="Jack Williamson" >}}
 
 
-The first  “[**Worldcon**](/posts/2010-08-13-jack-the-wonderful-williamson-part-2/)” wasn’t quite as globally representative as one might have wished; I don’t know that any of the attendees came from any country but the U.S.A and, maybe, Canada.  But it was the last chance we had for a real international gathering, because that year of 1939 was the beginning of that event that interfered with everyone’s plans for that sort of frippery, namely World War II.
+The first  “[**Worldcon**](/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/)” wasn’t quite as globally representative as one might have wished; I don’t know that any of the attendees came from any country but the U.S.A and, maybe, Canada.  But it was the last chance we had for a real international gathering, because that year of 1939 was the beginning of that event that interfered with everyone’s plans for that sort of frippery, namely World War II.
 
 
 America didn’t get involved in actual combat until Japan took its ill-advised crack at Pearl Harbor, late in 1941, but that was the end of even the so-called Worldcons.  Most fans were male and mostly in their late teens or early 20s, and thus the natural prey of the draft.  So, whether called up or volunteering, most of us were soon wearing uniforms.
@@ -44,7 +44,7 @@ Then our courses ended.  Jack went off to an American air base on the way to his
 Then the war ended.  (How quickly I write that down … and how slowly that event arrived in the real world.)  All of us now being civilians once more, I wrote a letter to Jack that started one of the longest-lasting and most rewarding relationships of my professional life.
 
 
-None of that might have happened, though, if it hadn’t been sparked by what was happening in the life of the person who was then my oldest friend, [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/).  But for that we need a digression, which will happen in Part Next (of I don’t know how many) in the Jack Williamson story, coming up shortly after I get it written.
+None of that might have happened, though, if it hadn’t been sparked by what was happening in the life of the person who was then my oldest friend, [**Dirk Wylie**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/).  But for that we need a digression, which will happen in Part Next (of I don’t know how many) in the Jack Williamson story, coming up shortly after I get it written.
 
 
 *To be continued. . . .*
@@ -60,27 +60,27 @@ None of that might have happened, though, if it hadn’t been sparked by what wa
 
 - [Jerry](https://web.archive.org/web/20131228145617/http://triplanetary.blogspot.com/) says:
 That’s quite a cliffhanger. I know how the story turns out because I have the books you two wrote together, but I can’t wait to hear how it happened.
-[**August 16, 2010, 2:42 pm**](/posts/2010-08-16-jack-the-wonderful-williamson-part-3/)
+[**August 16, 2010, 2:42 pm**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/)
 - Tom says:
 There was no such thing as the Air Force in 1943. It was the Army Air Corp then.
-[**August 17, 2010, 10:43 am**](/posts/2010-08-16-jack-the-wonderful-williamson-part-3/)
+[**August 17, 2010, 10:43 am**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20131228145617/http://beamjockey.livejournal.com/) says:
 Tom, I would not be so quick to correct a guy who was IN the “Air Force” in 1943.
 The Army Air Corps was superseded by then.  According to the Air Force Historical Association, “The Army Air Forces (AAF) came into being on June 20, 1941, six months before Pearl Harbor.”
 See [http://www.aafha.org/aaf_or_aircorps.html](https://web.archive.org/web/20131228145617/http://www.aafha.org/aaf_or_aircorps.html) for more.
 The United States Air Force– which you are probably thinking of– was created as a separate service, independent of the Army, in 1947.
-[**August 17, 2010, 6:00 pm**](/posts/2010-08-16-jack-the-wonderful-williamson-part-3/)
+[**August 17, 2010, 6:00 pm**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/)
 - Miles Archer says:
 Hey, my dad was a weather observer on some island in the Pacific during WWII too. He was near Saipan, I think.
-[**August 17, 2010, 8:20 pm**](/posts/2010-08-16-jack-the-wonderful-williamson-part-3/)
+[**August 17, 2010, 8:20 pm**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/)
 - Dwight Decker says:
 A look at Wikipedia under United States Army Air Forces might clear up some confusion. The Army Air Corps became the Army Air Forces (USAAF) in 1941.
 [http://en.wikipedia.org/wiki/United_States_Army_Air_Forces](https://web.archive.org/web/20131228145617/http://en.wikipedia.org/wiki/United_States_Army_Air_Forces)
 After the war, of course, it was spun off into a separate branch as the US Air Force.
-[**August 19, 2010, 1:08 am**](/posts/2010-08-16-jack-the-wonderful-williamson-part-3/)
+[**August 19, 2010, 1:08 am**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/)
 - Betty Williamson says:
 Fred, thanks for sharing touching memories of your and Jack’s enduring friendship.  He always counted you as one of his closest and dearest friends.  You two shared so much, and you are treasured by our entire family.  We love you and miss you, and hope our paths will find a way to cross again.  Glad to see you are blogging!
-[**August 20, 2010, 9:16 pm**](/posts/2010-08-16-jack-the-wonderful-williamson-part-3/)
+[**August 20, 2010, 9:16 pm**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/)
 
 [WordPress](https://web.archive.org/web/20131228145617/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131228145617/http://dicksmithsoftware.com/)

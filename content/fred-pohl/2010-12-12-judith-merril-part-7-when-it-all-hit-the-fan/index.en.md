@@ -4,9 +4,9 @@ date: 2010-12-12
 categories: ["Authors", "Personal"]
 tags: ["Ann Pohl", "C.M. Kornbluth", "Canada", "Daniel Zissman", "Futurians", "James Blish", "Judith Merril", "Karen Stanton", "L. Jerome Stanton", "Mary Kornbluth", "Merril Zissman", "Politics", "Virginia Kidd"]
 archive_url: "https://web.archive.org/web/20170301000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-7/"
-prev_post_url: "/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
+prev_post_url: "/fred-pohl/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
 prev_post_title: "Bright Sayings of Bright People, No. 6: Mill"
-next_post_url: "/posts/2010-12-13-cordwainer-smith-the-ballad-of-lost-linebarger-part-1/"
+next_post_url: "/fred-pohl/2010-12-13-cordwainer-smith-the-ballad-of-lost-linebarger-part-1/"
 next_post_title: "Cordwainer Smith: The Ballad of Lost Linebarger, Part 1"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="judymerril.jpg" alt="Judy and Merril in happier days." caption="Judy and Merril in happier days." >}}
 
 
-Well, let’s not draw this out any longer than we have to.  Judy asked if I wanted to buy [**the house**](/posts/2010-12-10-judith-merril-part-6-our-house/) back from her, I said yes,  Judy went off roaming somewhere, I don’t know where, and my new Significant Other, Carol Metcalf Ulf Stanton, and I began moving ourselves in.
+Well, let’s not draw this out any longer than we have to.  Judy asked if I wanted to buy [**the house**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/) back from her, I said yes,  Judy went off roaming somewhere, I don’t know where, and my new Significant Other, Carol Metcalf Ulf Stanton, and I began moving ourselves in.
 
 
 There are a fair number of details about that period that I’m not sure I remember right in the area of what happened before which.  One of those things is where the kids, Merril and Ann, were at that point.  I think most probably that at least at first all three of them were with Carol and me.  (Three. Judy’s Merril, our Ann and Carol’s Karen, daughter of her marriage to [L. Jerome Stanton](https://web.archive.org/web/20150910184701/http://www.isfdb.org/cgi-bin/ea.cgi?L.%20Jerome%20Stanton).)  And for a time there, I don’t think a very long one, Judy and I were tolerating each other.
@@ -44,13 +44,13 @@ Oh, that was the siren song, all right.
 I wasn’t at all sure Danny’s own case was as strong as he thought it was.  His list of Judy’s misdeeds included some pretty trivial stuff.  But there was also some stuff that might sway a judge, and I could see that the two of us suing her together would help both our cases … and, oh, wouldn’t it be nice to have this aggravation out of the way forever?  So I mulled it over and then I said I’d join him.
 
 
-I think there is too much suing of people for one thing or another, and I didn’t really look forward to all the bad stuff that was sure to come.  I have only very rarely done that sort of thing in my life.  Even now I would like to avoid suing [**that wretch**](/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) for his vicious book if I can.  I had those same feelings about joining Danny’s suit.  But I got busy, and began to prepare for testifying.
+I think there is too much suing of people for one thing or another, and I didn’t really look forward to all the bad stuff that was sure to come.  I have only very rarely done that sort of thing in my life.  Even now I would like to avoid suing [**that wretch**](/fred-pohl/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) for his vicious book if I can.  I had those same feelings about joining Danny’s suit.  But I got busy, and began to prepare for testifying.
 
 
 The bad things began to happen right away.
 
 
-I was going to have to present witnesses to things Judy had done. [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) and [**Mary Kornbluth**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) agreed to testify for me.  So did [Jim](https://web.archive.org/web/20150910184701/http://www.blish.org/gens/1380I.html) and [Virginia Blish](https://web.archive.org/web/20150910184701/http://pabook.libraries.psu.edu/palitmap/bios/Kidd__Virginia.html) and some others, but right around then Judy, too, began the search for witnesses, and the effect was that, between the two of us, Judy and I had broken up some old friendships, a couple of them irreparably so, and half the science-fiction community of the area was hardly speaking to the other half.
+I was going to have to present witnesses to things Judy had done. [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/) and [**Mary Kornbluth**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) agreed to testify for me.  So did [Jim](https://web.archive.org/web/20150910184701/http://www.blish.org/gens/1380I.html) and [Virginia Blish](https://web.archive.org/web/20150910184701/http://pabook.libraries.psu.edu/palitmap/bios/Kidd__Virginia.html) and some others, but right around then Judy, too, began the search for witnesses, and the effect was that, between the two of us, Judy and I had broken up some old friendships, a couple of them irreparably so, and half the science-fiction community of the area was hardly speaking to the other half.
 
 
 Bad stuff?   Oh, it got worse.  I’m pretty sure deliberately, Judy’s lawyers began to play a delaying game.  Every time we got close to an actual trial they asked for, and got, a postponement.  And the rancor that had attacked the sf community didn’t get out and done with in a matter of weeks.  It dragged on for well over a pretty unpleasant year.
@@ -100,7 +100,7 @@ It wasn’t worthwhile to hate each other any more.  It no longer made sense to 
 
 **Related posts:**  
 
-**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/)
+**Judith Merril,** [**Part 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/)
 
 
 ### 2 Comments
@@ -114,10 +114,10 @@ Also, Judy went to Chicago BECAUSE I had been assigned to go on behalf of the Eu
 RIP, Judith Merril — a fine person and an even more amazing global citizen. 
 My sister Merril, who loved you as much you loved her, did have a rocky start in life. It is unfortunate that you lost all contact with each other. You would be pleased to know that Merril was very happy in her latter years, and had reconciled with Judy. At the time of her death, she was extremely physically ill, due to a progressive, serious immune system disorder. 
 RIP Merril Allen. You were much loved and respected by your family, friends and community, who miss you to this day. (This December you would have celebrated your 68th birthday).
-[**December 14, 2010, 6:49 pm**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/)
+[**December 14, 2010, 6:49 pm**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/)
 - Margo Anderson says:
 I was interested to find mention of your friend, L. Jerome Stanton, because he was my grandfather.  The marriage ended shortly after my mother’s birth in 1932, and she didn’t meet him till she was grown.  She remembers him telling her she had a half sister, but never know her name.  She would very much like to make contact with Karen.  If you know her whereabouts, could you please contact me, or give my email address to her?  Thank you!
-[**April 6, 2011, 5:49 pm**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/)
+[**April 6, 2011, 5:49 pm**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/)
 
 [WordPress](https://web.archive.org/web/20150910184701/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150910184701/http://dicksmithsoftware.com/)

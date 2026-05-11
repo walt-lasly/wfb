@@ -4,9 +4,9 @@ date: 2013-08-27
 categories: ["Science"]
 tags: ["Ecology", "Geology"]
 archive_url: "https://web.archive.org/web/20160416221555/http://www.thewaythefutureblogs.com/2013/08/cheery-note-for-mountain-climbers/"
-prev_post_url: "/posts/2013-08-22-why-stop-fracking/"
+prev_post_url: "/fred-pohl/2013-08-22-why-stop-fracking/"
 prev_post_title: "Why Stop Fracking"
-next_post_url: "/posts/2013-08-30-when-you-give-it-away/"
+next_post_url: "/fred-pohl/2013-08-30-when-you-give-it-away/"
 next_post_title: "When You Give It Away"
 translated: false
 translator: "Yandex"
@@ -34,7 +34,7 @@ translator: "Yandex"
 
 - [Шакатани](https://web.archive.org/web/20160416221555/http://shakatany.livejournal.com/) говорит:
 Напоминает мне Ред-Ривер в Северной Каролине, когда она медленно течет на север; когда земля восстановится после пребывания под ледником и поднимется, она может начать течь на юг, как другие реки.
-[** 28 августа 2013, 14:53**](/posts/2013-08-27-cheery-note-for-mountain-climbers/)
+[** 28 августа 2013, 14:53**](/fred-pohl/2013-08-27-cheery-note-for-mountain-climbers/)
 
 [WordPress](https://web.archive.org/web/20160416221555/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416221555/http://dicksmithsoftware.com/)

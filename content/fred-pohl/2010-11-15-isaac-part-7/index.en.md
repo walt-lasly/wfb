@@ -4,9 +4,9 @@ date: 2010-11-15
 categories: ["Authors", "Space", "Travel"]
 tags: ["Barbara Bova", "Ben Bova", "Carl Sagan", "Gertrude Asimov", "Hugh Downs", "Isaac Asimov", "Janet Jeppson Asimov", "Jay Kay Klein", "Katherine Anne Porter", "Marvin Minsky", "Medicine", "Norman Mailer", "Robert A. Heinlein", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20131124012751/http://www.thewaythefutureblogs.com/2010/11/isaac-asimov-part-7/"
-prev_post_url: "/posts/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
+prev_post_url: "/fred-pohl/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
 prev_post_title: "E-mail Us by Nov. 15 forGatewaysGiveaway"
-next_post_url: "/posts/2010-11-17-rich-correspondence/"
+next_post_url: "/fred-pohl/2010-11-17-rich-correspondence/"
 next_post_title: "Rich Correspondence"
 translated: false
 ---
@@ -26,7 +26,7 @@ The continued life and loves of Isaac Asimov
 {{< figure src="asimov-jeppson-by-jkklein25.jpg" alt="Janet Jeppson and Isaac Asimov (Photo by Jay Kay Klein.)" caption="Janet Jeppson and Isaac Asimov (Photo by Jay Kay Klein.)" >}}
 
 
-There was one woman whom [**Isaac**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) met in that period when his marriage to [**Gertrude**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/) was crumbling but had not yet got to the stage of a divorce who became both large and permanent in Isaac’s life.  She was a New York psychiatrist named [Janet Jeppson](https://web.archive.org/web/20131124012751/http://www.fantasticfiction.co.uk/a/janet-asimov/), who now and then wrote science fiction.
+There was one woman whom [**Isaac**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) met in that period when his marriage to [**Gertrude**](/fred-pohl/2010-02-11-isaac-part-3-of-quite-a-few/) was crumbling but had not yet got to the stage of a divorce who became both large and permanent in Isaac’s life.  She was a New York psychiatrist named [Janet Jeppson](https://web.archive.org/web/20131124012751/http://www.fantasticfiction.co.uk/a/janet-asimov/), who now and then wrote science fiction.
 
 
 Janet and Isaac had once or twice bumped into each other at science-fiction events in the city, but nothing much came of it until they were both present at an annual banquet of the Mystery Writers of America.  They found themselves talking mostly to each other, and thereafter Isaac regarded her as a good friend — at least until he came to regard her as the woman he would wholeheartedly love until the end of his life.
@@ -59,7 +59,7 @@ So he practiced not looking away, controlled the expression on his face and made
 Then, as 1972 was coming to an end, something nice happened.  The Holland-American cruise line put on a special event, a cruise to some lovely Caribbean islands which included a special stopover off the coast of Cape Canaveral to view the launch of the Apollo 17 Moon rocket.  It was a night launch, the first one ever attempted, and the last launch scheduled to take human beings to the surface of the Moon.  (And none have been added since.)
 
 
-The ship’s manifest included fellow sf writers [**Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/), [Theodore Sturgeon](https://web.archive.org/web/20131124012751/http://www.gcwillick.com/Spacelight/sturgeon.html), [Ben Bova](https://web.archive.org/web/20131124012751/http://www.benbova.net/) and myself (each including a nearest and dearest, and in Ted’s case a small son who explored every part of the ship, giving all the rest of us employment in keeping him from falling overboard), along with various celebrities like [Marvin Minsky](https://web.archive.org/web/20131124012751/http://web.media.mit.edu/~minsky/), [Hugh Downs](https://web.archive.org/web/20131124012751/http://www.museum.tv/eotvsection.php?entrycode=downshugh), [Katherine Anne Porter](https://web.archive.org/web/20131124012751/http://www.lib.umd.edu/Guests/KAP/), [Norman Mailer](https://web.archive.org/web/20131124012751/http://normanmailersociety.org/about/) and [Carl Sagan](https://web.archive.org/web/20131124012751/http://www.carlsagan.com/), among many others. Nearly all were either old friends or people one would be happy to have become so.
+The ship’s manifest included fellow sf writers [**Robert A. Heinlein**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), [Theodore Sturgeon](https://web.archive.org/web/20131124012751/http://www.gcwillick.com/Spacelight/sturgeon.html), [Ben Bova](https://web.archive.org/web/20131124012751/http://www.benbova.net/) and myself (each including a nearest and dearest, and in Ted’s case a small son who explored every part of the ship, giving all the rest of us employment in keeping him from falling overboard), along with various celebrities like [Marvin Minsky](https://web.archive.org/web/20131124012751/http://web.media.mit.edu/~minsky/), [Hugh Downs](https://web.archive.org/web/20131124012751/http://www.museum.tv/eotvsection.php?entrycode=downshugh), [Katherine Anne Porter](https://web.archive.org/web/20131124012751/http://www.lib.umd.edu/Guests/KAP/), [Norman Mailer](https://web.archive.org/web/20131124012751/http://normanmailersociety.org/about/) and [Carl Sagan](https://web.archive.org/web/20131124012751/http://www.carlsagan.com/), among many others. Nearly all were either old friends or people one would be happy to have become so.
 
 
 Isaac, of course, usually retired to his cabin between meals, and anyone who passed could hear the steady tappety-tap of his portable.  This, I explained to those who didn’t know him, was because of an incurable addiction Isaac suffered: he had never seen a sheet of paper he didn’t want to write on.  (Well, to be fair, I rather often did the same thing myself.)
@@ -82,8 +82,8 @@ And then, in the fullness of time, in 1973, the divorce from Gertrude was grante
 
 **Related posts**:
 
-- **Isaac,** [**Part 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 2**](/posts/2010-01-31-isaac-part-2-of-many/), [**Part 3**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/), [**Part 4**](/posts/2010-02-26-isaac-part-4-and-some-other-guys/), [**Part 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Part 6**](/posts/2010-11-10-isaac-part-6/)
-- [**Russians, Jews and Isaac**](/posts/2010-06-25-russians-jews-and-isaac/)
+- **Isaac,** [**Part 1**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [**Part 2**](/fred-pohl/2010-01-31-isaac-part-2-of-many/), [**Part 3**](/fred-pohl/2010-02-11-isaac-part-3-of-quite-a-few/), [**Part 4**](/fred-pohl/2010-02-26-isaac-part-4-and-some-other-guys/), [**Part 5**](/fred-pohl/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Part 6**](/fred-pohl/2010-11-10-isaac-part-6/)
+- [**Russians, Jews and Isaac**](/fred-pohl/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 3 Comments
@@ -91,13 +91,13 @@ And then, in the fullness of time, in 1973, the divorce from Gertrude was grante
 - [Paul](https://web.archive.org/web/20131124012751/http://www.skyseastone.net/jvstin/) says:
 “…he had never seen a sheet of paper he didn’t want to write on\"
 A line for the ages, Mr. Pohl!
-[**November 15, 2010, 7:32 am**](/posts/2010-11-15-isaac-part-7/)
+[**November 15, 2010, 7:32 am**](/fred-pohl/2010-11-15-isaac-part-7/)
 - Cindy says:
 I ‘ve been reading “I.Asimov” this week, and it’s interesting to see a different (but compatible) perspective on Asimov’s life.  I hope to learn more.  Thanks.
-[**April 18, 2011, 9:32 am**](/posts/2010-11-15-isaac-part-7/)
+[**April 18, 2011, 9:32 am**](/fred-pohl/2010-11-15-isaac-part-7/)
 - [Stephen](https://web.archive.org/web/20131124012751/http://thisweekatthelibrary.blogspot.com/) says:
 I fell hard for Dr. Asimov a few years back, and he’s become my favorite author and one of my favorite human beings. I’m inspired by the breadth of his knowledge and the charm that comes through in his works. I found you while googling for pictures (trying to find a photo of him in the 40s or early 50s, kneeling in a lab of some kind: I’ve seen it in a book) and read the series of posts through tonight. Thank you for sharing so much about him.
-[**May 5, 2011, 1:27 am**](/posts/2010-11-15-isaac-part-7/)
+[**May 5, 2011, 1:27 am**](/fred-pohl/2010-11-15-isaac-part-7/)
 
 [WordPress](https://web.archive.org/web/20131124012751/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131124012751/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2012-06-30
 categories: ["Authors"]
 tags: ["Jay Kay Klein"]
 archive_url: "https://web.archive.org/web/20240701000000/http://www.thewaythefutureblogs.com/2012/06/so-long-jay-kay-cons-wont-be-the-same-without-you/"
-prev_post_url: "/posts/2012-06-15-about-the-farm-bill/"
+prev_post_url: "/fred-pohl/2012-06-15-about-the-farm-bill/"
 prev_post_title: "About the Farm Bill"
-next_post_url: "/posts/2012-07-01-do-you-know-these-folks/"
+next_post_url: "/fred-pohl/2012-07-01-do-you-know-these-folks/"
 next_post_title: "Do you know these folks?"
 translated: false
 translator: "Yandex"
@@ -39,7 +39,7 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20160729011437/http://www.flickr.com/photos/stefan_e_jones) говорит:
 Помню, я был поражен, когда читал "ЛОКУС" в 1980-х годах, сколько фотографий профи было сделано одним парнем.
 Кляйн был гостем, по крайней мере, на одном I-конвенте, который проводили мои друзья в кампусе. Было приятно увидеть лицо парня за всеми этими фотографиями. Он выглядел чуть старше, чем на фотографии выше. Конечно, у него был с собой фотоаппарат!
-[**1 июля 2012, 19:14 вечера**](/posts/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/)
+[**1 июля 2012, 19:14 вечера**](/fred-pohl/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/)
 
 [WordPress](https://web.archive.org/web/20160729011437/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160729011437/http://dicksmithsoftware.com/)

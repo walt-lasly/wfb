@@ -4,9 +4,9 @@ date: 2010-11-15
 categories: ["Authors", "Space", "Travel"]
 tags: ["Barbara Bova", "Ben Bova", "Carl Sagan", "Gertrude Asimov", "Hugh Downs", "Isaac Asimov", "Janet Jeppson Asimov", "Jay Kay Klein", "Katherine Anne Porter", "Marvin Minsky", "Medicine", "Norman Mailer", "Robert A. Heinlein", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20131124012751/http://www.thewaythefutureblogs.com/2010/11/isaac-asimov-part-7/"
-prev_post_url: "/posts/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
+prev_post_url: "/fred-pohl/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
 prev_post_title: "E-mail Us by Nov. 15 forGatewaysGiveaway"
-next_post_url: "/posts/2010-11-17-rich-correspondence/"
+next_post_url: "/fred-pohl/2010-11-17-rich-correspondence/"
 next_post_title: "Rich Correspondence"
 translated: false
 translator: "Yandex"
@@ -28,7 +28,7 @@ translator: "Yandex"
 {{< figure src="asimov-jeppson-by-jkklein25.jpg" alt="Janet Jeppson and Isaac Asimov (Photo by Jay Kay Klein.)" caption="Janet Jeppson and Isaac Asimov (Photo by Jay Kay Klein.)" >}}
 
 
-Была одна женщина, с которой [**Айзек**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) познакомился в тот период, когда его брак с [**Гертрудой**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/) рушился, но еще не дошел до стадии развода, которая стала важной и постоянной в жизни Айзека.  Это была нью-йоркский психиатр по имени [Джанет Джеппсон](https://web.archive.org/web/20131124012751/http://www.fantasticfiction.co.uk/a/janet-asimov/), которая время от времени писала научную фантастику.
+Была одна женщина, с которой [**Айзек**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) познакомился в тот период, когда его брак с [**Гертрудой**](/fred-pohl/2010-02-11-isaac-part-3-of-quite-a-few/) рушился, но еще не дошел до стадии развода, которая стала важной и постоянной в жизни Айзека.  Это была нью-йоркский психиатр по имени [Джанет Джеппсон](https://web.archive.org/web/20131124012751/http://www.fantasticfiction.co.uk/a/janet-asimov/), которая время от времени писала научную фантастику.
 
 
 Джанет и Айзек раз или два сталкивались друг с другом на научно-фантастических мероприятиях в городе, но из этого ничего особенного не вышло, пока они оба не присутствовали на ежегодном банкете американских писателей-мистиков.  Они обнаружили, что разговаривают в основном друг с другом, и с тех пор Айзек относился к ней как к хорошему другу — по крайней мере, до тех пор, пока не стал относиться к ней как к женщине, которую он будет всем сердцем любить до конца своей жизни.
@@ -61,7 +61,7 @@ translator: "Yandex"
 Затем, когда 1972 год подходил к концу, произошло нечто приятное.  Голландско-американская круизная компания организовала специальное мероприятие - круиз по нескольким прекрасным карибским островам, который включал специальную остановку у побережья мыса Канаверал, чтобы посмотреть на запуск лунной ракеты "Аполлон-17".  Это был ночной запуск, первая попытка в истории и последний запланированный запуск, который должен был доставить людей на поверхность Луны.  (И с тех пор ни один из них не был добавлен.)
 
 
-В судовой декларации значились коллеги-писатели НФ [** Роберт Хайнлайн**](/posts/2010-05-03-working-with-robert-a-heinlein/), [Теодор Старджон](https://web.archive.org/web/20131124012751/http://www.gcwillick.com/Spacelight/sturgeon.html), [Бен Бова](https://web.archive.org/web/20131124012751/http://www.benbova.net/) и я (у каждого из них были самые близкие, а в случае Теда - маленький сын, который исследовал каждую часть корабля, помогая всем остальным не дать ему упасть за борт), наряду с различными знаменитостями, такими как [Марвин Мински](https://web.archive.org/web/20131124012751/http://web.media.mit.edu/~minsky/), [Хью Даунс](https://web.archive.org/web/20131124012751/http://www.museum.tv/eotvsection.php?entrycode=downshugh), [Кэтрин Энн Портер](https://web.archive.org/web/20131124012751/http://www.lib.umd.edu/Guests/KAP/), [Норман Мейлер](https://web.archive.org/web/20131124012751/http://normanmailersociety.org/about/) и [Карл Саган](https://web.archive.org/web/20131124012751/http://www.carlsagan.com/), среди многих других. Почти все они были либо старыми друзьями, либо людьми, которыми можно было бы с радостью стать.
+В судовой декларации значились коллеги-писатели НФ [** Роберт Хайнлайн**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), [Теодор Старджон](https://web.archive.org/web/20131124012751/http://www.gcwillick.com/Spacelight/sturgeon.html), [Бен Бова](https://web.archive.org/web/20131124012751/http://www.benbova.net/) и я (у каждого из них были самые близкие, а в случае Теда - маленький сын, который исследовал каждую часть корабля, помогая всем остальным не дать ему упасть за борт), наряду с различными знаменитостями, такими как [Марвин Мински](https://web.archive.org/web/20131124012751/http://web.media.mit.edu/~minsky/), [Хью Даунс](https://web.archive.org/web/20131124012751/http://www.museum.tv/eotvsection.php?entrycode=downshugh), [Кэтрин Энн Портер](https://web.archive.org/web/20131124012751/http://www.lib.umd.edu/Guests/KAP/), [Норман Мейлер](https://web.archive.org/web/20131124012751/http://normanmailersociety.org/about/) и [Карл Саган](https://web.archive.org/web/20131124012751/http://www.carlsagan.com/), среди многих других. Почти все они были либо старыми друзьями, либо людьми, которыми можно было бы с радостью стать.
 
 
 Айзек, конечно, обычно удалялся в свою каюту между приемами пищи, и любой, кто проходил мимо, мог слышать равномерное постукивание его портативного устройства.  Я объяснил тем, кто его не знал, что это произошло из-за неизлечимой зависимости, которой страдал Айзек: он никогда не видел листа бумаги, на котором не хотел бы писать.  (Ну, честно говоря, я и сам довольно часто делал то же самое.)
@@ -84,8 +84,8 @@ translator: "Yandex"
 
 **Связанные должности**:
 
-- ** Исаак,** [** Часть 1**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [** Часть 2**](/posts/2010-01-31-isaac-part-2-of-many/), [** Часть 3**](/posts/2010-02-11-isaac-part-3-of-quite-a-few/), [** Часть 4**](/posts/2010-02-26-isaac-part-4-and-some-other-guys/), [** Часть 5**](/posts/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Часть 6**](/posts/2010-11-10-isaac-part-6/)
-- [** Русские, евреи и Исаак**](/posts/2010-06-25-russians-jews-and-isaac/)
+- ** Исаак,** [** Часть 1**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [** Часть 2**](/fred-pohl/2010-01-31-isaac-part-2-of-many/), [** Часть 3**](/fred-pohl/2010-02-11-isaac-part-3-of-quite-a-few/), [** Часть 4**](/fred-pohl/2010-02-26-isaac-part-4-and-some-other-guys/), [** Часть 5**](/fred-pohl/2010-03-05-isaac-part-5-in-our-continuing-series/), [**Часть 6**](/fred-pohl/2010-11-10-isaac-part-6/)
+- [** Русские, евреи и Исаак**](/fred-pohl/2010-06-25-russians-jews-and-isaac/)
 
 
 ### 3 Комментария
@@ -93,13 +93,13 @@ translator: "Yandex"
 - [Пол](https://web.archive.org/web/20131124012751/http://www.skyseastone.net/jvstin/) говорит:
 “...он никогда не видел листа бумаги, на котором ему не хотелось бы писать"
 Очередь на века, мистер Пол!
-[**15 ноября 2010 года, 7:32 утра**](/posts/2010-11-15-isaac-part-7/)
+[**15 ноября 2010 года, 7:32 утра**](/fred-pohl/2010-11-15-isaac-part-7/)
 - Синди говорит:
 Я читал “И.Азимов” на этой неделе, и интересно увидеть другой (но совместимый) взгляд на жизнь Азимова.  Я надеюсь узнать больше.  Спасибо.
-[** 18 апреля 2011 года, 9:32 утра**](/posts/2010-11-15-isaac-part-7/)
+[** 18 апреля 2011 года, 9:32 утра**](/fred-pohl/2010-11-15-isaac-part-7/)
 - [Стивен](https://web.archive.org/web/20131124012751/http://thisweekatthelibrary.blogspot.com/) говорит:
 Я сильно влюбился в доктора Азимова несколько лет назад, и он стал моим любимым автором и одним из моих любимых человеческих существ. Меня вдохновляет широта его знаний и очарование, которое сквозит в его работах. Я нашел вас, когда искал фотографии в Гугле (пытался найти его фотографию 40-х или начала 50-х годов, стоящего на коленях в какой-то лаборатории: я видел это в книге) и прочитал серию постов до конца сегодняшнего вечера. Спасибо вам за то, что так много рассказали о нем.
-[**5 мая 2011 года, 1:27 утра**](/posts/2010-11-15-isaac-part-7/)
+[**5 мая 2011 года, 1:27 утра**](/fred-pohl/2010-11-15-isaac-part-7/)
 
 [WordPress](https://web.archive.org/web/20131124012751/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131124012751/http://dicksmithsoftware.com/)

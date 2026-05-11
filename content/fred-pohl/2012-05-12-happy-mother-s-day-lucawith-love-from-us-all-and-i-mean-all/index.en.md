@@ -4,9 +4,9 @@ date: 2012-05-12
 categories: ["Science"]
 tags: ["Gustavo Caetano-Anolles", "History", "Paleontology"]
 archive_url: "https://web.archive.org/web/20210801000000/http://www.thewaythefutureblogs.com/2012/05/happy-mothers-day-lucawith-love-from-us-all-and-i-mean-all/"
-prev_post_url: "/posts/2012-05-10-consequences/"
+prev_post_url: "/fred-pohl/2012-05-10-consequences/"
 prev_post_title: "Consequences"
-next_post_url: "/posts/2012-05-13-bright-sayings-of-bright-people-no-32/"
+next_post_url: "/fred-pohl/2012-05-13-bright-sayings-of-bright-people-no-32/"
 next_post_title: "Bright Sayings of Bright People, No. 32"
 translated: false
 ---
@@ -44,10 +44,10 @@ Everywhere
 
 - [Chookie Inthebackyard](https://web.archive.org/web/20120719084744/http://chookiesbackyard.blogspot.com/) says:
 “…I can trace my ancestry back to a protoplasmal primordial atomic globule. Consequently, my family pride is something inconceivable.” — Pooh-Bah, The Mikado.
-[**May 13, 2012, 7:06 am**](/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
+[**May 13, 2012, 7:06 am**](/fred-pohl/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
 - H. E. Parmer says:
 Looks like Huxley and his *Urschleim* get the last laugh, after all.
-[**May 18, 2012, 10:55 pm**](/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
+[**May 18, 2012, 10:55 pm**](/fred-pohl/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
 - [Bill Goodwin](https://web.archive.org/web/20120719084744/http://771715/) says:
 Mairzy doats and dozy doats,  
 
@@ -60,7 +60,7 @@ Perform yet weirder promenades,
 But past all branching moms and dads  
 
 Sits LUCA, exclaiming: “These kids and their fads!”
-[**May 19, 2012, 6:16 am**](/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
+[**May 19, 2012, 6:16 am**](/fred-pohl/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
 
 [WordPress](https://web.archive.org/web/20120719084744/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120719084744/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2014-03-31
 categories: ["Travel"]
 tags: ["Chernobyl", "Publishing", "Religion", "Uri Geller"]
 archive_url: "https://web.archive.org/web/20151101000000/http://www.thewaythefutureblogs.com/2014/03/through-the-harmonic-convergence-part-2/"
-prev_post_url: "/posts/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/"
+prev_post_url: "/fred-pohl/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/"
 prev_post_title: "Janet Yellen’s Husband Sets a High Standard"
-next_post_url: "/posts/2014-04-02-are-you-rich/"
+next_post_url: "/fred-pohl/2014-04-02-are-you-rich/"
 next_post_title: "Are You Rich?"
 translated: false
 ---
@@ -76,7 +76,7 @@ Not the chap in the hotel lobby.
 
 **Related posts:**
 
-- Peddling Books Through the Harmonic Convergence, [**Part 1**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/), [**Part 3**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+- Peddling Books Through the Harmonic Convergence, [**Part 1**](/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/), [**Part 3**](/fred-pohl/2014-04-10-through-the-harmonic-convergence-part-3/)
 
 
 ### One Comment
@@ -85,7 +85,7 @@ Not the chap in the hotel lobby.
 “The principal reason is that I’m tenderhearted; I don’t like to be a killjoy.”
 Man, that describes me too. I don’t mind mocking and lambasting superstitious goofs in the company of the like-minded, but I can’t bring myself to confront and challenge the beliefs of airheads to their face, out of compassion.
 I would find it a bit harder to keep silent when dealing with an anti-vaccine crank. That particular fluff harms more than the believer.
-[**March 31, 2014, 10:10 pm**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/)
+[**March 31, 2014, 10:10 pm**](/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/)
 
 [WordPress](https://web.archive.org/web/20160416225228/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416225228/http://dicksmithsoftware.com/)

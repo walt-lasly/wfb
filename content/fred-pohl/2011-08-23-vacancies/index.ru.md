@@ -4,9 +4,9 @@ date: 2011-08-23
 categories: ["Miscellaneous"]
 tags: ["Conventions"]
 archive_url: "https://web.archive.org/web/20170501000000/http://www.thewaythefutureblogs.com/2011/08/vacancies/"
-prev_post_url: "/posts/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
+prev_post_url: "/fred-pohl/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
 prev_post_title: "Bright Sayings of Bright People, No. 19: Hemingway"
-next_post_url: "/posts/2011-08-24-how-they-do-go-on/"
+next_post_url: "/fred-pohl/2011-08-24-how-they-do-go-on/"
 next_post_title: "How They Do Go On"
 translated: false
 translator: "Yandex"
@@ -37,7 +37,7 @@ translator: "Yandex"
 - [Роберт Новолл](https://web.archive.org/web/20170718040004/http://www.robertnowall.com/) говорит:
 Америка просто усеяна подобными зданиями... супермаркетами, сети которых либо прекратили свое существование, либо построили магазины побольше и качественнее в будущем... школами, которые обслуживали поколение бэби-бума и стали не нужны позже... торговыми центрами, которые потеряли бизнес (и фирмы) в пользу новых в будущем.
 Иногда вы видите, как эти здания перепрофилируют — время от времени я прохожу мимо старого кинотеатра с двумя экранами, который был передан церкви, - но многие из них просто стоят там, закрытые, ни у кого нет сил или срочной необходимости их сносить…
-[** 24 августа 2011 года, 8:54 утра**](/posts/2011-08-23-vacancies/)
+[** 24 августа 2011 года, 8:54 утра**](/fred-pohl/2011-08-23-vacancies/)
 
 [WordPress](https://web.archive.org/web/20170718040004/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170718040004/http://dicksmithsoftware.com/)

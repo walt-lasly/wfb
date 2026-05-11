@@ -4,9 +4,9 @@ date: 2013-12-20
 categories: ["Miscellaneous"]
 tags: ["Dave Wolverton", "Isaac Asimov", "Matt Novak", "Orson Scott Card", "Predictions"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2013/12/frederik-poh-time-capsule/"
-prev_post_url: "/posts/2013-12-19-my-first-blog-post-in-a-long-time/"
+prev_post_url: "/fred-pohl/2013-12-19-my-first-blog-post-in-a-long-time/"
 prev_post_title: "My First Blog Post in a Long Time"
-next_post_url: "/posts/2013-12-21-trust-and-fear/"
+next_post_url: "/fred-pohl/2013-12-21-trust-and-fear/"
 next_post_title: "Trust and Fear"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="1987-Pohl_Wolverton-WoTF.jpg" alt="Frederik Pohl and Dave Wolverton, 1987." caption="Fred with Dave Wolverton at the 1987 Writers of the Future Awards." >}}
 
 
-Over at [Paleofuture](https://web.archive.org/web/20160416221612/http://paleofuture.gizmodo.com/rip-sci-fi-author-frederik-pohl-his-1987-predictions-f-1241239510), Matt Novak turned up a letter Fred wrote for a 1987 [**Writers of the Future**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) time capsule. Novak writes:
+Over at [Paleofuture](https://web.archive.org/web/20160416221612/http://paleofuture.gizmodo.com/rip-sci-fi-author-frederik-pohl-his-1987-predictions-f-1241239510), Matt Novak turned up a letter Fred wrote for a 1987 [**Writers of the Future**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/) time capsule. Novak writes:
 
 > “One of the predictions was from Pohl, who I contacted through email to ask about his letter to the future. There were over a dozen letters in the time capsule from people like Orson Scott Card and Isaac Asimov. But it was Pohl’s letter that really caught my eye because it hinted at a skepticism surrounding the entire practice of prediction — in particular, a reference to the work of cold readers and other charlatans who would have you believe that they can see into the future with certainty.”
 

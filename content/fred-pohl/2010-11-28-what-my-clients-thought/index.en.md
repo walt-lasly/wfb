@@ -4,9 +4,9 @@ date: 2010-11-28
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Algis Budrys", "Damon Knight", "Elizabeth Anne Hull", "Fritz Leiber", "Futurians", "Gardner Dozois", "Gateways", "Hal Clement", "Harry Steeger", "Isaac Asimov", "James Blish", "Janet Jeppson Asimov", "John Wyndham", "Mark Rich", "Prozines", "Publishing", "Pulps", "Robert J. Sawyer", "Robyn Asimov", "Rogers Terrill", "Scott Meredith"]
 archive_url: "https://web.archive.org/web/20210401000000/http://www.thewaythefutureblogs.com/2010/11/what-my-clients-thought/"
-prev_post_url: "/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/"
+prev_post_url: "/fred-pohl/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/"
 prev_post_title: "Cleaning Up the Hater’s Mess Goes On"
-next_post_url: "/posts/2010-11-29-wag-the-dog/"
+next_post_url: "/fred-pohl/2010-11-29-wag-the-dog/"
 next_post_title: "‘Wag the Dog’"
 translated: false
 ---
@@ -26,13 +26,13 @@ Frederik Pohl
 Let’s talk for a bit about my career as an agent.
 
 
-[**Mark Rich**](/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) has a lot to say about my failings, especially my financial woes, which were considerable.  [**A J Budrys**](/posts/2010-07-26-a-j/) told a funny story about them in one of the last speeches he gave, at the [Heinlein Centennial](https://web.archive.org/web/20160416145338/http://www.heinleincentennial.com/), a year or two before he died.  He had discovered what a great agent I was, he said, when I sold [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) a story of A J’s that Campbell had turned down cold before A J became my client.  And then when he got my check, it bounced.
+[**Mark Rich**](/fred-pohl/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) has a lot to say about my failings, especially my financial woes, which were considerable.  [**A J Budrys**](/fred-pohl/2010-07-26-a-j/) told a funny story about them in one of the last speeches he gave, at the [Heinlein Centennial](https://web.archive.org/web/20160416145338/http://www.heinleincentennial.com/), a year or two before he died.  He had discovered what a great agent I was, he said, when I sold [**John Campbell**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) a story of A J’s that Campbell had turned down cold before A J became my client.  And then when he got my check, it bounced.
 
 
 Funny story?  Sadly, also a true one.
 
 
-But the interesting thing there is that A J  didn’t quit the agency.  He remained my client until the waters finally closed over my head.  And almost all of my other clients, [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and [Hal Clement](https://web.archive.org/web/20160416145338/http://www.sff.net/people/hal-clement/hcbio.html) and [John Wyndham](https://web.archive.org/web/20160416145338/http://www.bbc.co.uk/dna/h2g2/A5718486) and [Fritz Leiber](https://web.archive.org/web/20160416145338/http://www.waldeneast.fsnet.co.uk/leibercontents.htm) and all the other household names and the lesser names that I was bringing along gave me an amazing amount of patience, and most of them didn’t want to give up until I did.
+But the interesting thing there is that A J  didn’t quit the agency.  He remained my client until the waters finally closed over my head.  And almost all of my other clients, [**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and [Hal Clement](https://web.archive.org/web/20160416145338/http://www.sff.net/people/hal-clement/hcbio.html) and [John Wyndham](https://web.archive.org/web/20160416145338/http://www.bbc.co.uk/dna/h2g2/A5718486) and [Fritz Leiber](https://web.archive.org/web/20160416145338/http://www.waldeneast.fsnet.co.uk/leibercontents.htm) and all the other household names and the lesser names that I was bringing along gave me an amazing amount of patience, and most of them didn’t want to give up until I did.
 
 
 And, most interesting of all, most of them were my good friends for the rest of my life.
@@ -65,7 +65,7 @@ But it also represented one more outflow of capital, and there wasn’t enough c
 Interestingly, maybe I should say ironically, then two unexpected new lifesavers were thrown to me.
 
 
-The first was from the very successful agent [Scott Meredith](https://web.archive.org/web/20160416145338/http://www.scottmeredith.com/pages/history.html), whom I had known when he was a kid fan named Scott Feldman hanging around the [**Futurians**](/posts/2009-05-08-the-quadrumvirate/) to pick up writing talk.  Listen, Fred, (he approximately said, I don’t remember his exact words,) you have all those agents’ commissions you have earned on those sales.  They’ll be coming in as royalties for years.  They belong to you, and I’d like to buy them from you.
+The first was from the very successful agent [Scott Meredith](https://web.archive.org/web/20160416145338/http://www.scottmeredith.com/pages/history.html), whom I had known when he was a kid fan named Scott Feldman hanging around the [**Futurians**](/fred-pohl/2009-05-08-the-quadrumvirate/) to pick up writing talk.  Listen, Fred, (he approximately said, I don’t remember his exact words,) you have all those agents’ commissions you have earned on those sales.  They’ll be coming in as royalties for years.  They belong to you, and I’d like to buy them from you.
 
 
 Well, I hadn’t thought of that.  He was right, though.  All those novels of, for instance, Isaac that I had sold to Doubleday had my name on the contracts as agent, and by law that meant that as long as that contract stayed in force I would earn a dime out of every dollar Doubleday paid Isaac for those titles.
@@ -110,7 +110,7 @@ One last thing.
 It makes me feel like a jerk to be tooting my own horn to this extent, so I’m going to ask you for a favor.  I’m asking you to let some other people toot it for me for a little bit.
 
 
-For instance. there exists this book I love that I’ve talked about before, the one called [**Gateways**](/posts/2009-01-01-elizabeth-anne-hull/) (don’t forget the “s”) that my beloved wife put together as a 90th birthday present for me.  (It got done a little late, but joyously received.).
+For instance. there exists this book I love that I’ve talked about before, the one called [**Gateways**](/fred-pohl/2009-01-01-elizabeth-anne-hull/) (don’t forget the “s”) that my beloved wife put together as a 90th birthday present for me.  (It got done a little late, but joyously received.).
 
 
 Anyway, here’s the thing.  Betty asked a bunch of the best writers alive in the science-fiction field to write stories for this book.  I had worked with them or edited them or discovered them or agented them, or in some other way done something helpful to their careers, and so she also asked each of them to write something about what they think I have meant to them, their own careers and the literature of science fiction in general.  (A number of writers who just couldn’t do stories on time wrote comments of that sort, anyway.)   So let’s let some of them talk, all right? They all knew me a lot better than Mark Rich does, and their opinions are available in the book itself.
@@ -140,47 +140,47 @@ And. Mr. Rich, if you’re among the people I’m talking to at this moment, loo
 I almost never comment on your blog, but I’ve been reading it since you started. For people who read your blog, no repudiation of Mr. Rich was probably necessary. If it was, you accomplished it the first time you addressed his claims. People who don’t read your blog won’t see your rebuttals, and will have to go by what they hear and read about you elsewhere, such as in Gateways.
 I love reading your reminiscences of the authors I grew up reading, and I was thrilled to hear that you won the Hugo–which, frankly, says all anyone needs to know about how you’re viewed in the science fiction community. If you feel like devoting more virtual space to Mr. Rich and his nasty claims, well I’ll go right on reading whatever you have to say and I bet most of your readers would too. But I for one would rather not devote any brain space to Mr. Rich. I come here to read about you. I read your blog because I *already* admire you, so you certainly don’t have to prove or defend yourself as far as I’m concerned.
 Just my 2¢.
-[**November 28, 2010, 1:12 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 28, 2010, 1:12 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - [John Kerr](https://web.archive.org/web/20160416145338/http://mycodehere.blogspot.com/) says:
 Hear hear. I’m in complete accord with Joe. And yet there’s nothing I’d like more, than to see a pocketful of lawyers thrown at Rich, his book pulped and his arse (spot the Scot!) behind bars. We even have the necessary libel laws over here to get the job done. He seems an utterly vacant hack, who has used you illegally as a plot device in his fiction, such as it is (no I haven’t read his book; but Fred, your references are extensive and impeccable, while he has none).
-[**November 28, 2010, 5:06 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 28, 2010, 5:06 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - Rodney Haydon says:
 Let me throw my voice in with Joe and John.  
 
 Fred, you have nothing to prove. Don’t let this “M.R.” get under your skin. You have too many friends and admirers. I know it must irk you to have someone right untruths about you, but don’t worry. No one believes him.
 By the way, I still have my SFBC copy of “The Way the Future Was”, and I love it! Now, when can I get the follow-up in my hot little hands?
-[**November 28, 2010, 9:33 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 28, 2010, 9:33 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - Mike Poole says:
 Well said, Joe. I completely agree.
-[**November 28, 2010, 9:34 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 28, 2010, 9:34 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - [TK Kenyon](https://web.archive.org/web/20160416145338/http://www.tkkenyon.com/) says:
 Ditto what Joe said. 
 TK Kenyon
-[**November 28, 2010, 9:50 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 28, 2010, 9:50 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - [Dave Creek](https://web.archive.org/web/20160416145338/http://www.davecreek.net/) says:
 Fred, let me add my voice to your legion of admirers — from THE SPACE MERCHANTS to GATEWAY and beyond, your work has been a major influence on me both as a reader and writer.
 I can’t express my admiration for your career and your integrity — put this Mark Rich fellow out of your mind.  Those who know you, either personally or through your writing, know who you really are.
-[**November 28, 2010, 9:31 pm**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 28, 2010, 9:31 pm**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - [Brian](https://web.archive.org/web/20160416145338/http://astoundingartifacts.blogspot.com/) says:
 This is a bandwagon I’m happy to jump on. I’ve read your novels, I’ve read many of the stories you’ve edited, I’ve read Gateways (with an “S”!) and the accolades by other authors printed therein. Anyone who knows anything knows how you’ve transformed science fiction over the years while also earning the respect and admiration of your peers.
 On top of all that, you’ve made readers like myself — people you’ve never met and probably never will meet — very, very happy. 
 The bull that M.R.’s slinging can’t bury the truth.
-[**November 29, 2010, 12:33 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 29, 2010, 12:33 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - Simon says:
 I grew up around SF, it’s buried somewhere so deep in my subconscious that there’s no hope of prying it out…  So, when I say that for most of my adult life I’ve said Fred Pohl was the greatest writer I’ve ever read, that means something to me.  Day Million, or The Tunnel Under The World are worth far (vastly? infinitely?) more than the hack-job bio.  Ok, you’re most Thelonious Monk than Miles Davis – someone only the hipcats have even heard of.  But that just makes the hipcats love your work more…  There’s nothing better than an obscure master.
 Good luck Fred, but you don’t need to flog the horse.
-[**November 29, 2010, 4:31 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 29, 2010, 4:31 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - Tim Bartik says:
 I disagree with the advice given by many of these comments. I think that Mr. Pohl is well-advised to correct the historical record in some detail. In the long-run, this will be the most effective strategy to ensure that future historians and biographers get the facts right. Obviously Mr. Pohl’s fans and friends do not need this detailed historical discussion. But history does.
-[**November 29, 2010, 9:48 am**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 29, 2010, 9:48 am**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - Robert Jennings says:
 On the subject at hand, your working as and agent and your decision to stop being an agent; what YEAR(s) are under discussion here?  You obviously know, but the rest of us do not.  I can guess that some or perhaps most of this took place in the early 1950s, but putting some year dates on these comments would be extremely helpful in putting everything into an accurate historical perspective.
-[**November 29, 2010, 4:32 pm**](/posts/2010-11-28-what-my-clients-thought/)
+[**November 29, 2010, 4:32 pm**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 - John Boland says:
 Let’s see. The Riverworld stories, Tales of Known Space, Retief, Skylark, the Star Kings . . . how long would I have to go on? The Star Pit. Driftglass. Never mind Worlds of Tomorrow. And who was publishing those Phil Dick stories?  
 
 It’s not nostalgia that makes me wish If, Galaxy and WoT, with Fred Pohl at the helm, were still around. Magazine sf was never consistently better.
-[**December 9, 2010, 11:20 pm**](/posts/2010-11-28-what-my-clients-thought/)
+[**December 9, 2010, 11:20 pm**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 
 [WordPress](https://web.archive.org/web/20160416145338/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416145338/http://dicksmithsoftware.com/)

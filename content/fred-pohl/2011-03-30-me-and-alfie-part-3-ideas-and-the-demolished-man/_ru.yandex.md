@@ -4,9 +4,9 @@ date: 2011-03-30
 categories: ["Authors", "Books", "Science", "Writing"]
 tags: ["Agatha Christie", "Alfred Bester", "Editors", "Horace L. Gold", "Mark Twain", "Prozines", "Radio", "Robert A. Heinlein", "Satellites", "Television", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20150701000000/http://www.thewaythefutureblogs.com/2011/03/me-and-alfie-part-3-the-demolished-man/"
-prev_post_url: "/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/"
+prev_post_url: "/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/"
 prev_post_title: "Me and Alfie, Part 2:Gatewayand the Art of Writing"
-next_post_url: "/posts/2011-04-01-me-and-alfie-part-4-rejection/"
+next_post_url: "/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/"
 next_post_title: "Me and Alfie, Part 4:  Rejection"
 translated: false
 translator: "Yandex"
@@ -29,7 +29,7 @@ translator: "Yandex"
 
 Хорас Голд только что основал Galaxy, и он позвонил мне. Я знал Горация много лет. Он сказал: “Альфи, я хочу, чтобы ты написал для меня”, а я сказала: “О, Гораций, давай, ладно? Я так увлечен этим шоу, что оно отнимает у меня все время”.
 
-Он сказал: “Нет, я хочу, чтобы ты написал для меня”, а я сказал: “Да ладно, у тебя есть великие, у тебя есть Фред Пол, у тебя есть [** Хайнлайн**](/posts/2010-05-03-working-with-robert-a-heinlein/), у тебя есть [Тед Старджон](https://web.archive.org/web/20170619223452/http://www.gcwillick.com/Spacelight/sturgeon.html), а я не из их класса”.
+Он сказал: “Нет, я хочу, чтобы ты написал для меня”, а я сказал: “Да ладно, у тебя есть великие, у тебя есть Фред Пол, у тебя есть [** Хайнлайн**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), у тебя есть [Тед Старджон](https://web.archive.org/web/20170619223452/http://www.gcwillick.com/Spacelight/sturgeon.html), а я не из их класса”.
 
 Он говорил: “Нет, нет, нет, перестань”, и продолжал приставать ко мне неделю за неделей. Мы разговаривали по телефону и все такое, и в конце концов я сказал: “Хорошо, Гораций”. Я должен отвязаться от него, я представлю несколько идей. Сейчас я представил четыре или пять идей — я не могу вспомнить их все, это было так давно.
 
@@ -61,7 +61,7 @@ translator: "Yandex"
 
 Но, возвращаясь к тому, как генерируются идеи, одной из моих любимых была история под названием “С [любовью по Фаренгейту](https://web.archive.org/web/20170619223452/http://www.amazon.com/gp/product/1568492499?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1568492499)”. Я собираюсь рассказать вам о происхождении этой истории. Я помню это живо, пункт за пунктом.
 
-Я читал ["](/posts/2010-09-04-mark-twain-and-the-law-of-the-raft/)Жизнь на Миссисипи[" Марка Твена.](https://web.archive.org/web/20170619223452/http://manybooks.net/titles/twainmaretext95lmiss12.html) Он упомянул, что в Миссури был казнен раб-негр за растление, преступное нападение и убийство молодой девушки. Его повесили за это, и Твен продолжал говорить, что этот раб-негр совершил такое же преступление в Вирджинии, и его владелец выслал его из Вирджинии в Миссисипи, потому что раб был слишком ценным, чтобы его уничтожать.
+Я читал ["](/fred-pohl/2010-09-04-mark-twain-and-the-law-of-the-raft/)Жизнь на Миссисипи[" Марка Твена.](https://web.archive.org/web/20170619223452/http://manybooks.net/titles/twainmaretext95lmiss12.html) Он упомянул, что в Миссури был казнен раб-негр за растление, преступное нападение и убийство молодой девушки. Его повесили за это, и Твен продолжал говорить, что этот раб-негр совершил такое же преступление в Вирджинии, и его владелец выслал его из Вирджинии в Миссисипи, потому что раб был слишком ценным, чтобы его уничтожать.
 
 И я подумал: “В этом есть какая-то адская история, я не знаю, что это такое, но это адская история”. Поэтому я очень тщательно перечислил это в своей [книге “Трюки”](https://web.archive.org/web/20170619223452/http://dmznyc.com/html/gimmick%20books.html), и на этом все закончилось.
 
@@ -103,8 +103,8 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [**Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 ### 6 Комментариев
 
@@ -112,24 +112,24 @@ translator: "Yandex"
 Увлекательный материал от Бестера.
 Мне нравится этот блог.
 Спасибо!
-[** 30 марта 2011 года, 8:00 утра**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+[** 30 марта 2011 года, 8:00 утра**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - sm говорит:
 Это одна из лучших вещей, которые вы опубликовали в блоге — переписка между вами и Бестером великолепна!
-[**30 марта 2011, 12:39 вечера**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+[**30 марта 2011, 12:39 вечера**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - Его превосходительство Пармер говорит:
 Прошло, наверное, больше 30 лет с тех пор, как я в последний раз читал “С любовью по Фаренгейту”, но — хотя мне немного стыдно признаться, что я не помнил, что автором был Альфи, — это произвело достаточное впечатление, чтобы мгновенно вспомнить сюжет.
 Спасибо, что поделились этим замечательным пониманием того, как работает великий писатель.
-[**30 марта 2011, 17:43 вечера**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+[**30 марта 2011, 17:43 вечера**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - [А.Л. Сироа](https://web.archive.org/web/20170619223452/http://www.alsirois.com/) говорит:
 Я перечитал “С любовью по Фаренгейту” всего несколько дней назад, в первом томе Зала славы научной фантастики, так что этот пост появился в замечательное для меня время. Это всегда была одна из моих любимых НФ-историй, не говоря уже об одной из моих любимых историй Бестера. Я встречался с Бестером всего один раз, в "Лунаконе" в 70-х годах. Он был обаятельным человеком, очень доступным и добродушным. Насколько я помню, он прочитал информативную и забавную лекцию, но я не помню тему.
-[** 31 марта 2011 года, 8:32 утра**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+[** 31 марта 2011 года, 8:32 утра**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - готтакук говорит:
 Рад читать все больше и больше из этого разговора 1978 года, но следует отметить, что бестеровский сборник “Звездный свет: Великая короткометражка Альфреда Бестера” 1976 года включает эссе о написании "С любовью по Фаренгейту", в котором затрагиваются многие из тех же моментов, которые он высказывает в этой расшифровке.
 (“Звездный свет” – это сборник Бестера, который должен найти любой фэн из–за очень занимательных заметок к истории - особенно о влиянии дианетики на Джона В. Кэмпбелла-младшего и о том, как это повлияло на его отношение к рассказу Бестера "Одди и Ид", - но ему не следовало переписывать свой рассказ конца 50-х годов “Человек-Пи” для этой коллекции; даже имена двух названных персонажей были изменены, и не в лучшую сторону.)
-[**31 марта 2011, 16:08**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+[**31 марта 2011, 16:08**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 - [Чуки](https://web.archive.org/web/20170619223452/http://chookiesbackyard.blogspot.com/) говорит:
 Чудесная история!
-[**2 апреля 2011 года, 9:18 вечера**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
+[**2 апреля 2011 года, 9:18 вечера**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/)
 
 [WordPress](https://web.archive.org/web/20170619223452/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619223452/http://dicksmithsoftware.com/)

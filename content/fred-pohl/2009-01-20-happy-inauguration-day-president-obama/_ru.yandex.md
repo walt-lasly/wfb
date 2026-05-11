@@ -4,9 +4,9 @@ date: 2009-01-20
 categories: ["Personal"]
 tags: ["Economics", "Politics"]
 archive_url: "https://web.archive.org/web/20090125012804/http://thewaythefutureblogs.com/2009/01/happy-inauguration-day-president-obama/"
-prev_post_url: "/posts/2009-01-19-why-i-m-no-pen-pal/"
+prev_post_url: "/fred-pohl/2009-01-19-why-i-m-no-pen-pal/"
 prev_post_title: "Why I’m No Pen Pal"
-next_post_url: "/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
+next_post_url: "/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
 next_post_title: "Reality-Testing Response from Fred’s Wife, the Aforementioned College Professor"
 translated: false
 translator: "Yandex"
@@ -64,53 +64,53 @@ translator: "Yandex"
 21 января 2008 года Барак Обама выступил с речью в баптистской церкви Эбенезер, церкви доктора Мартина Лютера Кинга в Атланте. Обычно у меня возникает резкая реакция на политиков, использующих религиозную терминологию - я считаю, что отделение церкви от государства жизненно важно для благополучия Америки. Но это... это было нормально. Он был в церкви. Его слова соответствуют обстановке и случаю. И я осознал, что Барак Обама действительно был редкостью: он был политиком, которого я *хотел* слушать.
 Его феноменальная [речь о расе](https://web.archive.org/web/20090125012804/http://www.nytimes.com/2008/03/18/us/politics/18text-obama.html?pagewanted=1&_r=1) прозвучала чуть меньше чем через два месяца. Совершенно гениально. Он сказал то, что нужно было сказать. На примерах своей бабушки и преподобного Райта он указал на те противоречия, которые присутствуют в каждом человеке, которого я знаю. Он ясно рассказал о том, где мы находимся, и указал путь вперед. Своим избранием американский народ продемонстрировал нашу готовность — нашу способность — идти по пути к более совершенному союзу, описанному Обамой. Мы еще не достигли этого, мы вполне можем не добраться туда за то время, что осталось от моей жизни. Но мы продвинулись значительно дальше, чем были 10 месяцев назад, и даже этот прогресс соответствует моим мечтам гораздо больше, чем когда-либо соответствовал моим ожиданиям.
 Как и вы, я праздную этот день и тоже обещаю помогать всеми возможными способами, чтобы помочь исцелить эту нацию.
-[** 20 января 2009 года, 9:08 утра**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 20 января 2009 года, 9:08 утра**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [Джефф](https://web.archive.org/web/20090125012804/http://jeffcrook.blogspot.com/) говорит:
 Честно говоря, я никогда не думал, что сильные мира сего позволят этому случиться. Я не думаю, что произошла бы мирная передача власти. Я считал, что их преступления были слишком тяжкими, чтобы когда-либо давать кому-либо возможность расследовать их.
 Итак, в своем непреходящем цинизме я должен сделать вывод, что либо они верят, что успешно скрыли преступления, не оставив никаких улик, либо они верят, что будут недосягаемы для любого закона.
-[**20 января 2009, 12:44 вечера**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[**20 января 2009, 12:44 вечера**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - Филип говорит:
 Сдержанный оптимизм. Наличие президента, который говорит по-английски, освежает. Amazing, что, несмотря на всю ярость, вызванную последними восемью годами, у меня все еще есть надежда и добрые пожелания мистеру Обаме. Может быть, я усталый циник, но в этот день я смеюсь.
 Мистер Пол, спасибо вам за то, что вы поделились с нами собой на этом форуме.
-[**20 января 2009, 14:22**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[**20 января 2009, 14:22**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - Стив говорит:
 Мистер Пол: Рад видеть, что вы ведете блог. "Квантовые кошки" - отличная книга.
-[** 20 января 2009 года, 17:30 вечера**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 20 января 2009 года, 17:30 вечера**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - Тина Блэк говорит:
 О, Фред, тебе это понравится:  
 
 [“Глава администрации Обамы кладет конец незавершенным постановлениям Буша”](https://web.archive.org/web/20090125012804/http://politicalticker.blogs.cnn.com/2009/01/20/obama-chief-of-staff-puts-a-stop-to-pending-bush-regulations/)
-[**20 января 2009 года, 9:17 вечера**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[**20 января 2009 года, 9:17 вечера**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [Стефан Джонс](https://web.archive.org/web/20090125012804/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) говорит:
 В сегодняшнем сообщении в блоге Дэвид Брин отметил, что в инаугурационной речи Обамы содержалось слово, которого там не должно было быть. Это слово не встречалось во многих политических речах, и уж точно ни в одной из речей администрации Буша. 
 * Любопытство.*
-[**20 января 2009, 11:12 вечера**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[**20 января 2009, 11:12 вечера**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [Долг перед американским народом | Майкл Графл](https://web.archive.org/web/20090125012804/http://www.michaelgrafl.com/2009/01/21/debt-to-the-american-people/) говорит:
 [...] Блог Пола. В этом мире, где Обама правит миром, мы видим, что Дафюр вступает в борьбу с Обамой, и мы видим, что [...]
-[** 21 января 2009 года, 1:57 утра**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
-- [** The Way the Future Blogs » Архив блогов » - тестирующий реальность ответ жены Фреда, вышеупомянутого профессора колледжа**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/) говорит:
+[** 21 января 2009 года, 1:57 утра**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
+- [** The Way the Future Blogs » Архив блогов » - тестирующий реальность ответ жены Фреда, вышеупомянутого профессора колледжа**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/) говорит:
 [...] Энн Халл, просто небольшая заметка, чтобы внести ясность. Хотя это точка зрения правых, которая обычно остается неоспоримой, [...]
-[** 21 января 2009 года, 3:02 утра**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 21 января 2009 года, 3:02 утра**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [∂| Fantascienza.com Блог |uno Strano Attrattore » Архив блога » Пенсильвания-авеню, 1600: проспеттива Обама](https://web.archive.org/web/20090125012804/http://www.fantascienza.com/blog/stranoattrattore/2009/01/21/1600-pennsylvania-avenue-prospettiva-obama/) говорит:
 [...] Итак, предложение, которое благоприятствует жизни оракула в огне литературы о фантастике: Фредерик Пол. [...]
-[** 21 января 2009 года, 4:16 утра**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 21 января 2009 года, 4:16 утра**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [кофе](https://web.archive.org/web/20090125012804/http://www.coffeerama.com/) говорит:
 С днем инаугурации! Избрание Обамы - действительно повод для надежды и гордости
-[** 21 января 2009 года, 4:19 утра**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 21 января 2009 года, 4:19 утра**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [Эмили](https://web.archive.org/web/20090125012804/http://www.emilypohlweary.com/) говорит:
 Привет, Большой папа!
 Приятно видеть, что ты ведешь блог (Бетти-Энн тоже). Канадский Пол тоже очень рад, что его назначили.
 Обнимаю, Эм
-[** 21 января 2009 года, 14:20 вечера**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 21 января 2009 года, 14:20 вечера**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - [Стефан Джонс](https://web.archive.org/web/20090125012804/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) говорит:
 Эй, это всего лишь мысль, но не могли бы вы рассмотреть возможность размещения *Практической политики* в Интернете? Сделайте его бесплатным для других пользователей, чтобы они могли использовать и обновлять его в соответствии с Web 2.0.
-[** 21 января 2009, 14:28 вечера**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 21 января 2009, 14:28 вечера**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 - Джулия говорит:
 Привет, дедушка Фред!
 Я собираюсь повторить то, что сказала Эм, но да. Рад видеть, что вы с Интернетом наконец-то стали друзьями. Мы очень рады за Обаму и надеемся, что в один прекрасный день у нас появится один из этих действительно вдохновляющих лидеров. Надеюсь скоро увидеть больше вас онлайн!
 &lt;3 
 Джулия
-[** 22 января 2009 года, 1:37 утра**](/posts/2009-01-20-happy-inauguration-day-president-obama/)
+[** 22 января 2009 года, 1:37 утра**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/)
 
 [WordPress](https://web.archive.org/web/20090125012804/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090125012804/http://dicksmithsoftware.com/)

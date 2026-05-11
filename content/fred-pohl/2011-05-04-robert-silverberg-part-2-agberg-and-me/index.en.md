@@ -4,9 +4,9 @@ date: 2011-05-04
 categories: ["Authors", "Personal"]
 tags: ["Barbara Silverberg", "California", "Carol Pohl", "Editors", "Elizabeth Anne Hull", "Frederik Pohl III", "Laurie D.T. Mann", "New York", "Prozines", "Robert Silverberg"]
 archive_url: "https://web.archive.org/web/20190901000000/http://www.thewaythefutureblogs.com/2011/05/robert-silverberg-part-2-agberg-and-me/"
-prev_post_url: "/posts/2011-05-02-robert-silverberg/"
+prev_post_url: "/fred-pohl/2011-05-02-robert-silverberg/"
 prev_post_title: "Robert Silverberg"
-next_post_url: "/posts/2011-05-09-are-bigger-brains-better/"
+next_post_url: "/fred-pohl/2011-05-09-are-bigger-brains-better/"
 next_post_title: "Are Bigger Brains Better?"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="silverberg-pohl-hull-conjos.jpg" alt="Robert Silverberg, me and Betty Anne at ConJose in 2002. (Photo by Laurie  D.T. Mann.)" caption="Robert Silverberg, me and Betty Anne at ConJose in 2002. (Photo by Laurie D.T. Mann.)" >}}
 
 
-[**Robert Silverberg**](/posts/2011-05-02-robert-silverberg/) has been a good friend for a pile of years, but “good friend” doesn’t quite describe some of the more disconcerting parts of our friendship.
+[**Robert Silverberg**](/fred-pohl/2011-05-02-robert-silverberg/) has been a good friend for a pile of years, but “good friend” doesn’t quite describe some of the more disconcerting parts of our friendship.
 
 
 Along about the early 1960s, while I was just getting comfortable as the new editor of Galaxy and its companions, Bob Silverberg was sending me almost a story a month according to our agreement, and Earth was fair beneath our feet.  Agberg, as he had taken to calling himself (Ag being the scientific abbreviation for “silver,” and if you don’t already know why that is, there’s no particular reason for me to burden you with it)  seemed happy with our contract, as I knew I was, and it never seemed particularly spooky to me until I got another of those letters.
@@ -70,7 +70,7 @@ It’s all right, though.  I promised Bob I wouldn’t do anything like dying, g
 
 **Related posts:**  
 
-[**Robert Silverberg**](/posts/2011-05-02-robert-silverberg/)
+[**Robert Silverberg**](/fred-pohl/2011-05-02-robert-silverberg/)
 
 [WordPress](https://web.archive.org/web/20170619211347/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619211347/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2012-01-15
 categories: ["Science"]
 tags: ["Emile A. Okal", "Quotations"]
 archive_url: "https://web.archive.org/web/20090201000000/http://www.thewaythefutureblogs.com/2012/01/bright-sayings-of-bright-people-no-23/"
-prev_post_url: "/posts/2012-01-12-warren-buffett-s-plan-to-fix-congress/"
+prev_post_url: "/fred-pohl/2012-01-12-warren-buffett-s-plan-to-fix-congress/"
 prev_post_title: "Warren Buffett’s Plan to Fix Congress"
-next_post_url: "/posts/2012-01-17-which-death/"
+next_post_url: "/fred-pohl/2012-01-17-which-death/"
 next_post_title: "Which death?"
 translated: false
 ---
@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Walt G says:
 Certainly true for me.
-[**January 15, 2012, 10:59 am**](/posts/2012-01-15-bright-sayings-of-bright-people-no-23/)
+[**January 15, 2012, 10:59 am**](/fred-pohl/2012-01-15-bright-sayings-of-bright-people-no-23/)
 
 [WordPress](https://web.archive.org/web/20120525221948/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120525221948/http://dicksmithsoftware.com/)

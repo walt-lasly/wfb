@@ -4,9 +4,9 @@ date: 2015-01-22
 categories: ["Authors", "Personal"]
 tags: ["Ann Pohl", "John W. Campbell", "Judith Merril", "Prozines", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2015/01/walter-m-miller-jr-my-last-fist-fight/"
-prev_post_url: "/posts/2014-12-15-fred-on-de-camp/"
+prev_post_url: "/fred-pohl/2014-12-15-fred-on-de-camp/"
 prev_post_title: "Fred on de Camp"
-next_post_url: "/posts/2015-02-13-elizabeth-anne-hull-s-appearances/"
+next_post_url: "/fred-pohl/2015-02-13-elizabeth-anne-hull-s-appearances/"
 next_post_title: "Elizabeth Anne Hull’s Appearances"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="WalterMMiller-wb.jpg" alt="Walter M. Miller, Jr." caption="Walter M. Miller, Jr." >}}
 
 
-In the 1950s, a story bearing the name of a brand-new author, [Walter M. Miller, Jr.](https://web.archive.org/web/20160402222023/http://www.kirjasto.sci.fi/wmiller.htm), showed up in [**John Campbell’s**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) magazine, now known as [Analog](https://web.archive.org/web/20160402222023/http://www.analogsf.com/).  It was quite a good story and was soon followed by another written by the same hand and just as good.  And then another.
+In the 1950s, a story bearing the name of a brand-new author, [Walter M. Miller, Jr.](https://web.archive.org/web/20160402222023/http://www.kirjasto.sci.fi/wmiller.htm), showed up in [**John Campbell’s**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) magazine, now known as [Analog](https://web.archive.org/web/20160402222023/http://www.analogsf.com/).  It was quite a good story and was soon followed by another written by the same hand and just as good.  And then another.
 
 
 They didn’t all appear in Analog.  A few weren’t even science fiction, but they were coming out in considerable volume and the science-fiction world had begun to take notice that an unheralded major new writer had appeared.
@@ -35,10 +35,10 @@ At lunch one day, the man who became Miller’s principal editor, John Campbell,
 They weren’t merely good, either  Some among them were immediately hailed as great — [A Canticle for Leibowitz](https://web.archive.org/web/20160402222023/http://www.amazon.com/gp/product/0060892994/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060892994&linkCode=as2&tag=twtfb-20&linkId=PT2BTMCGLPA34IMT), for instance.  Before long it was evident that a strong new force had emerged in American science fiction, and its name was [Walter Miller, Jr.](https://web.archive.org/web/20160402222023/http://www.amazon.com/Walter-M.-Miller-Jr./e/B001IGWZ0S/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=twtfb-20&linkId=SRUMZFI4GZNRIVEV)
 
 
-All right, friends.  Now we come to the hard part, because I’m doing my best to tell the sometimes unpleasant truth.  Miller wasn’t just a writer I respected  He was also the man my estranged wife [**Judy Merril**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) had taken up with.
+All right, friends.  Now we come to the hard part, because I’m doing my best to tell the sometimes unpleasant truth.  Miller wasn’t just a writer I respected  He was also the man my estranged wife [**Judy Merril**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/) had taken up with.
 
 
-At first we all acted pretty civilized about it.  Then, when Judy and I got into our endless [**Annie Wars**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/) over the custody of that very nice little baby, [**Ann Pohl**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), that the two of us had jointly brought into the world, Miller totally took her side.
+At first we all acted pretty civilized about it.  Then, when Judy and I got into our endless [**Annie Wars**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/) over the custody of that very nice little baby, [**Ann Pohl**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), that the two of us had jointly brought into the world, Miller totally took her side.
 
 
 I don’t mean just in verbal encounters.  I mean that once when I went to the house Miller and Judy had rented — my daughter Ann living with them because we were all trying to make a system of taking turns in having Ann live with us work — and went to their house to pick Annie up because it was my turn, the two of them refused to give her up.
@@ -71,7 +71,7 @@ Unfortunately some of these things I am now being candid about reflect little cr
 Wow!  That was exciting!
 The Way the Future Blogs with fists and guns a-blazing.
 JJB
-[**January 26, 2015, 5:14 pm**](/posts/2015-01-22-walter-m-miller-jr-my-last-fist-fight/)
+[**January 26, 2015, 5:14 pm**](/fred-pohl/2015-01-22-walter-m-miller-jr-my-last-fist-fight/)
 
 [WordPress](https://web.archive.org/web/20160402222023/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160402222023/http://dicksmithsoftware.com/)

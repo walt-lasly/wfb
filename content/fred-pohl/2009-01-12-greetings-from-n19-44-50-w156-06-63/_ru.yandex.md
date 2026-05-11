@@ -4,9 +4,9 @@ date: 2009-01-12
 categories: ["Books", "Personal", "Travel", "Writing"]
 tags: ["Elizabeth Anne Hull", "Gateway", "Geology", "Hawai'i", "Heechee"]
 archive_url: "https://web.archive.org/web/20090125013352/http://thewaythefutureblogs.com/2009/01/greetings-from-19-deg-4450-min-n-156-deg-0663-min-w/"
-prev_post_url: "/posts/2009-01-07-nice-to-meet-you/"
+prev_post_url: "/fred-pohl/2009-01-07-nice-to-meet-you/"
 prev_post_title: "Nice to Meet You"
-next_post_url: "/posts/2009-01-19-why-i-m-no-pen-pal/"
+next_post_url: "/fred-pohl/2009-01-19-why-i-m-no-pen-pal/"
 next_post_title: "Why I’m No Pen Pal"
 translated: false
 translator: "Yandex"
@@ -60,16 +60,16 @@ translator: "Yandex"
 Привет - я хочу сказать, вам не нужно отвечать на это.  Это просто стандарт “вау, мне нравятся ваши работы” замечание, а мне не нужен ответ, если честно.  Я просто хотел убедиться, что я вам сказал, что я всегда любил свою работу, с того дня, Джудит Меррил поместить копию врата (Gateway) в руке Ло много лет назад.   Мне жаль, что у вас возникли такие сложности с вашим телом; я только-только начинают испытывать медленное моего собственного исчезают, вот на 42.  
 Надеюсь, вам понравится ваш круиз!
 Кэйт
-[**19 января 2009 года, 11:02 часов**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**19 января 2009 года, 11:02 часов**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 - jasonmitchell говорит:
 Я люблю Гавайи, и я люблю круиза (я еще этого не сделали Гавайский круиз) - я надеюсь, что у вас есть приятный поход.
  Я была читателем вашего труда уже более 20 лет - и с нетерпением ждем ‘последняя Теорема (The Last theorem)’ - 
 УРА от холодного Чикаго
-[**22 января 2009, 8:46 утра**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**22 января 2009, 8:46 утра**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 - Алли говорит:
 Пока я наслаждался ваши тексты, люблю путешествовать и считаю, что идею Поль блог-это здорово, это не то, почему я пишу.
 Она, правда, повесить на него?? Последние 2 пункта веселый; я все еще посмеиваясь.
-[**Январь 22, 2009, 8:40 вечера**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**Январь 22, 2009, 8:40 вечера**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 
 [На WordPress](https://web.archive.org/web/20090125013352/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090125013352/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2009-05-08
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Catherine Tarrant", "Chester Cohen", "Collaborating", "Dirk Wylie", "Donald A. Wollheim", "Editors", "Futurians", "G.G. Clark", "Great Depression", "Hugo Gernsback", "Isaac Asimov", "Jack Gillespie", "Jack Robins", "James Blish", "John B. Michel", "John W. Campbell", "Louis Silberkleit", "Poetry", "Prozines", "Richard Wilson", "Robert A.W. Lowndes", "Science Fiction League", "Walter Kubilius"]
 archive_url: "https://web.archive.org/web/20090819125413/http://www.thewaythefutureblogs.com/2009/05/the-quadrumvirate/"
-prev_post_url: "/posts/2009-05-05-me-and-the-guys-at-abu-ghraib/"
+prev_post_url: "/fred-pohl/2009-05-05-me-and-the-guys-at-abu-ghraib/"
 prev_post_title: "Me and the Guys at Abu Ghraib"
-next_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
+next_post_url: "/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/"
 next_post_title: "Interesting Reading That You May Have Missed"
 translated: false
 ---
@@ -123,26 +123,26 @@ We do not come.
 Ever again.
 Are any of the other Futurians still alive?  After the death of 4SJ I have been thinking more and more of how our founders are passing on . . .
 Joseph T Major
-[**May 9, 2009, 9:33 pm**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 9, 2009, 9:33 pm**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Patricia says:
 I love these stories about the golden days of sf! You’re a treasure trove, Mr. Pohl.
-[**May 10, 2009, 9:18 am**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 10, 2009, 9:18 am**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - [Sharon E. Dreyer](https://web.archive.org/web/20090819125413/http://www.scifi4free.com/) says:
 Mr. Pohl: Thank you for all of your wonderful novels and short stories. Your stories and other science fiction authors were the inspiration that made me want to write my own stories. Thank you again. Check out my recently released novel, Long Journey to Rneadal. This novel is a romantic action adventure in space. Take care and thanks for the hours of entertainment.
-[**May 11, 2009, 6:23 am**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 11, 2009, 6:23 am**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - [Todd Maosn](https://web.archive.org/web/20090819125413/http://www.socialistjazz.com/) says:
 As far as I know, Joseph Major, David Kyle is still with us. But these might be the sole surivors, at least among the “core” Futurians…
-[**May 14, 2009, 11:48 pm**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 14, 2009, 11:48 pm**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Jack Robins says:
 Joseph T Major asks, ” are any of the other Futurians still alive?”  Yes!!! I am still alive and I’ve reached the age of 90.  Sorry, I am not as well known as most of the other Futurians but I have sold articles–personal experiences and am still writing.  
 
 Jack Robins
-[**May 15, 2009, 9:11 pm**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 15, 2009, 9:11 pm**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Thomas Byro says:
 First I would like to convey my great appreciation for your achievements while editor of IF. As a High School kid, I could hardly wait for the next issue to appear  
 
 In regard to Futurians, I believe they begat Fanoclasts. Fanoclasts in turn begat FISTFA. I have been running the latest incarnation of FISTFA for the last 4 years. I thought you might like to see pictures of the last meeting that I posted on Bubbleshare. [http://www.bubbleshare.com/myalbum/595814.d3e80de806e/editor](https://web.archive.org/web/20090819125413/http://www.bubbleshare.com/myalbum/595814.d3e80de806e/editor)
-[**May 24, 2009, 8:50 am**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 24, 2009, 8:50 am**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 
 [WordPress](https://web.archive.org/web/20090819125413/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090819125413/http://dicksmithsoftware.com/)

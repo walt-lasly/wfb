@@ -4,9 +4,9 @@ date: 2010-05-12
 categories: ["Authors", "Books", "Personal"]
 tags: ["Algis Budrys", "Conventions", "Critics", "Editors", "Prozines", "Robert A. Heinlein", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170201000000/http://www.thewaythefutureblogs.com/2010/05/robert-a-heinlein-algis-budrys-and-me/"
-prev_post_url: "/posts/2010-05-10-working-with-robert-a-heinlein-part-2/"
+prev_post_url: "/fred-pohl/2010-05-10-working-with-robert-a-heinlein-part-2/"
 prev_post_title: "Working with Robert A. Heinlein, Part 2"
-next_post_url: "/posts/2010-05-14-fred-s-pen-names/"
+next_post_url: "/fred-pohl/2010-05-14-fred-s-pen-names/"
 next_post_title: "Fred’s Pen Names"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="raheinleinbyddb.jpg" alt="Robert A. Heinlein by David Dyer-Bennet" caption="Robert A. Heinlein" >}}
 
 
-Затем был роман [**Роберта Хайнлайна**](/posts/2010-05-03-working-with-robert-a-heinlein/), [Элджиса Будриса](https://web.archive.org/web/20100717063556/http://www.gcwillick.com/Spacelight/budrys.html) и Чужака в Чужой Стране([Stranger in a Strange Land](https://web.archive.org/web/20100717063556/http://www.amazon.com/gp/product/0441788386?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0441788386)).
+Затем был роман [**Роберта Хайнлайна**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), [Элджиса Будриса](https://web.archive.org/web/20100717063556/http://www.gcwillick.com/Spacelight/budrys.html) и Чужака в Чужой Стране([Stranger in a Strange Land](https://web.archive.org/web/20100717063556/http://www.amazon.com/gp/product/0441788386?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0441788386)).
 
 
 В то время я был редактором "Galaxy".  Я нанял Эй—Джея в качестве нашего официального книжного рецензента, к работе, к которой он отнесся серьезно и хорошо справился, и когда Хайнлайн опубликовал новый крупный роман под названием "Чужак в Чужой Стране(Stranger in a Strange Land)", Эй-Джей выступил с подробной и проницательной критикой, которую, когда он выступил с ней и я начал читать, я понял, что это не так. наполнил меня ужасом.
@@ -51,70 +51,70 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [** Жены (и движущие силы) Роберта Хайнлайна, часть 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
-- [** Жены (и движущие силы) Роберта Хайнлайна: Леслин**](/posts/2010-05-19-the-wives-and-drives-of-robert-heinlein-leslyn/)
-- [** Жены (и движущие силы) Роберта Хайнлайна: Джинни**](/posts/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/)
-- [**Работа с Робертом Хайнлайном**](/posts/2010-05-03-working-with-robert-a-heinlein/)
-- [** Работа с Робертом Хайнлайном, часть 2**](/posts/2010-05-10-working-with-robert-a-heinlein-part-2/)
-- [** Привет с Южной широты 17° 32.18' Западной долготы 149° 34.17'**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+- [** Жены (и движущие силы) Роберта Хайнлайна, часть 1**](/fred-pohl/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [** Жены (и движущие силы) Роберта Хайнлайна: Леслин**](/fred-pohl/2010-05-19-the-wives-and-drives-of-robert-heinlein-leslyn/)
+- [** Жены (и движущие силы) Роберта Хайнлайна: Джинни**](/fred-pohl/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/)
+- [**Работа с Робертом Хайнлайном**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/)
+- [** Работа с Робертом Хайнлайном, часть 2**](/fred-pohl/2010-05-10-working-with-robert-a-heinlein-part-2/)
+- [** Привет с Южной широты 17° 32.18' Западной долготы 149° 34.17'**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 
 
 ### 16 Комментариев
 
 - Дэвид Ратнасабапати говорит:
 Э-э, у тебя все еще есть тот отзыв
-[**12 мая 2010 года, 4:04 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010 года, 4:04 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [sm](https://web.archive.org/web/20100717063556/http://tinyurl.com/avjvz/) говорит:
 Что случилось с этим обзором?
-[**12 мая 2010 года, 6:29 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010 года, 6:29 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Майк Стойсавлевич говорит:
 Хайнлайн по-прежнему остается одним из моих любимых писателей.  Он и мистер Пол - одни из немногих, о ком я могу сказать, что прочитал все, что они когда-либо писали.  Спасибо вам за эту замечательную историю.
-[**12 мая 2010 года, 7:18 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010 года, 7:18 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Деннис Линч говорит:
 Мне кажется, или Локк (в сериале "Потерянный") все время больше похож на Хайнлайна?
-[**12 мая 2010 года, 8:56 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010 года, 8:56 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Джон Эйч говорит:
 Бедный Боб — такой непонятый…
-[**12 мая 2010 года, 8:57 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010 года, 8:57 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Феофилакт говорит:
 Теперь, когда и Хайнлайн, и Будрис ушли со сцены, можно ли вернуть рецензию для посмертной публикации, или она действительно уничтожена?
-[** 12 мая 2010 года, 10:20 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[** 12 мая 2010 года, 10:20 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [Стефан Джонс](https://web.archive.org/web/20100717063556/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Я не полагаю, что эта рецензия (и письмо Хайнлайна) все еще существуют?
 Это были бы именно те вещи, которые понравились бы ученым. Может быть, слишком рано их освобождать, но в конце концов...
-[**12 мая 2010 года, 11:59 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010 года, 11:59 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [ТИДЖИК](https://web.archive.org/web/20100717063556/http://tjic.com/) говорит:
 Существует ли еще этот обзор?  Я бы с удовольствием это прочитал.
-[**12 мая 2010, 12:35 вечера**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010, 12:35 вечера**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [Брайан](https://web.archive.org/web/20100717063556/http://astoundingartifacts.blogspot.com/) говорит:
 Ух ты. Что написал Будрис? В чем заключалась его критика и почему Хайнлайн счел ее столь агрессивной? Каковы были ваши собственные мысли по поводу обзора? Не с точки зрения того, откуда вы знали, что Хайнлайн ее получит, а просто с точки зрения ее значимости как рецензии на *Чужака в Чужой Стране(Stranger In A Strange Land)?*
-[**12 мая 2010, 12:44 вечера**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010, 12:44 вечера**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [Майкл А. Бурштейн](https://web.archive.org/web/20100717063556/http://www.mabfan.com/) говорит:
 Я знаю, что спрашивать, наверное, безнадежно, но у вас где-нибудь еще сохранился этот отзыв?  Я думаю, многие из нас с удовольствием прочитали бы это и посмотрели, что сказал Эй Джей.
-[**12 мая 2010, 14:04**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010, 14:04**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Эрл Уэллс говорит:
 Элджис Будрис рассказал об этом в интервью Марку Берри, которое было опубликовано в журнале Ричарда Э. Гейса "Обзор научной фантастики" в 1984 году. Часть интервью, посвященная обзору "Незнакомца", была перепечатана в 2007 году в "Эфанзине" Эрла Кемпа:
 [http://efanzines.com/EK/eI34/index.htm#budrys](https://web.archive.org/web/20100717063556/http://efanzines.com/EK/eI34/index.htm#budrys)
-[**12 мая 2010, 10:06 вечера**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**12 мая 2010, 10:06 вечера**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [тэд](https://web.archive.org/web/20100717063556/http://www.tadsbackupplan.blogspot.com/) говорит:
 Ух ты. У меня есть экземпляр книги Будриса "БЕНЧМАРКИ: Galaxy BOOKSHELF", в которой, как вы знаете, собраны его обзорные колонки для Galaxy, и там есть кое-что замечательное, в том числе очень проницательная рецензия на замечательную книгу Хайнлайна "Луна - Суровая Хозяйка(The Moon IS a Harsh Mistress)... но я никогда раньше не слышал ЭТУ историю. Рецензии на книги Эй Джея были одной из главных причин, по которой я прочитал "Galaxy", а позже "F &amp;НФ". Спасибо, что поделились! — ТЭД.
-[**13 мая 2010 года, 5:28 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**13 мая 2010 года, 5:28 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20100717063556/http://beamjockey.livejournal.com/) говорит:
 Письмо Хайнлайна все еще существует в его архиве переписки с *Galaxy* с 1961 по 1977 год, согласно этому описанию:
 [http://www.heinleinarchives.net/upload/index.php?_a=viewProd&amp;productId=794](https://web.archive.org/web/20100717063556/http://www.heinleinarchives.net/upload/index.php?_a=viewProd&productId=794)
 Вы можете купить копию из архива Хайнлайна за два доллара.  Сам я этого не читал.
-[**13 мая 2010 года, 9:18 утра**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**13 мая 2010 года, 9:18 утра**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Росс Прессер говорит:
 Сейчас я купил копию и прочитал это письмо. Первая претензия Хайнлайна к Будрису, по—видимому, заключалась в том, что рецензия Будриса описывала реинкарнацию как главную тему книги — чего, по словам Хайнлайна, абсолютно не предполагалось; в книге никто не перевоплощается, и об этом даже никогда не говорилось - и игнорировалось то, что Хайнлайн на самом деле имел в виду как основные темы. 
 Кстати, я чувствую себя не очень хорошо из-за того, что прочитал это письмо. Джентльмены, чужая почта и все такое.
-[**17 мая 2010, 19:41 вечера**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**17 мая 2010, 19:41 вечера**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Джей Джей Брэннон говорит:
 Хайнлайн был технически точен, хотя и уклончив, в своем ответе Будрису относительно реинкарнации.
 Это не главная тема; никто ** в рамках ** сюжетной линии не перевоплощается; и ни один персонаж не обсуждает реинкарнацию сколько-нибудь подробно в качестве главной темы разговора.
 Однако РАХ уклоняется от обоснованности критики Будрисов в своем письме, потому что персонажи упоминаются как перевоплощающиеся ** вне** сюжетной линии: Дон Хуан, например, и, что гораздо важнее, Элис/Агнес Дуглас, бесполая, многострадальная жена достопочтенного Джо Дугласа.  Намеки даны вскользь ангелами, у которых есть другие горшки для помешивания.
 В последние годы я начинаю думать об Элис Дуглас как о пасквиле Хайнлайна на Элис Даглиш.
 JJB
-[**19 мая 2010 года, 11:30 вечера**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[**19 мая 2010 года, 11:30 вечера**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 - Росс Прессер говорит:
 В письме конкретно говорится о миссис Дуглас:  
 
@@ -122,7 +122,7 @@ JJB
 В письме не упоминается Дон Хуан. В книге я нашел только один отрывок о Доне Хуане, и да, я думаю, это можно было бы прочитать как его перевоплощение.
 Элис Дуглас в книге упоминается (когда ангел Фостер размышляет про себя) как “абсолютно надежный оперативник”.   Безусловно, логично, что оперативники были бы иной популяцией, чем люди, и, следовательно, ангелы.
 Но я вижу, где можно было бы возразить, что Хайнлайн перестраивает себя.
-[** 21 мая 2010, 15:12 вечера**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+[** 21 мая 2010, 15:12 вечера**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 
 [WordPress](https://web.archive.org/web/20100717063556/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20100717063556/http://dicksmithsoftware.com/)

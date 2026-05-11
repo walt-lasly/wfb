@@ -4,9 +4,9 @@ date: 2010-09-24
 categories: ["Authors"]
 tags: ["Academics", "Blanche Williamson", "Jack Williamson", "World War II", "Worldcons"]
 archive_url: "https://web.archive.org/web/20201201000000/http://www.thewaythefutureblogs.com/2010/09/jack-williamson-5/"
-prev_post_url: "/posts/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/"
+prev_post_url: "/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/"
 prev_post_title: "Jack the Wonderful Williamson, Part 4:The Real Story Begins"
-next_post_url: "/posts/2010-09-28-the-gateway-story/"
+next_post_url: "/fred-pohl/2010-09-28-the-gateway-story/"
 next_post_title: "TheGatewayStory"
 translated: false
 translator: "Yandex"
@@ -61,12 +61,12 @@ translator: "Yandex"
 - [Роберт Новолл](https://web.archive.org/web/20131008215720/http://www.robertnowall.com/) говорит:
 В некотором смысле печально, что это прекрасное воспоминание остается без комментариев, в то время как политика собирает тридцать восемь (пока) комментариев.
 Но…(1) Мы живем в интересные времена, (2) Я знаю только о Джеке Уильямсоне, и то только благодаря постоянному и навязчивому чтению, и (3) Мне нечего добавить, кроме этого.
-[** 28 сентября 2010 года, 4:18 утра**](/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
+[** 28 сентября 2010 года, 4:18 утра**](/fred-pohl/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
 - Дуайт Декер говорит:
 Мистер Новолл хотел бы получить больше комментариев по поводу воспоминаний… Что ж, давайте посмотрим. "Уайлдсайд Пресс" недавно перепечатала "НАУЧНЫЕ рассказы № 1" за 1953 год (с абсолютно безумной редакционной статьей, я полагаю, Рэя Палмера, которую нужно прочитать, чтобы не поверить), в которой есть история Уильямсона, и сам мистер Уильямсон сделал несколько автобиографических замечаний, которые представляют интерес:
 “После войны я вернулся в окружной город Порталес, штат Нью-Мексико, недолго проработал редактором wire и женился на Бланш, которую я знаю с тех пор, как мы вместе учились в шестом классе. В первый раз она меня не дождалась: в результате у нас теперь есть сын, который служит водолазом ВМС, замужняя дочь и двое внуков, которые обычно очень очаровательны".
 Мне понравилось это определение “обычно”…
-[**5 октября 2010, 18:13 вечера**](/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
+[**5 октября 2010, 18:13 вечера**](/fred-pohl/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
 
 [WordPress](https://web.archive.org/web/20131008215720/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131008215720/http://dicksmithsoftware.com/)

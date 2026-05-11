@@ -4,9 +4,9 @@ date: 2014-04-10
 categories: ["Travel"]
 tags: ["Academics", "Bobby Seale", "Chernobyl", "Elizabeth Anne Hull", "Erno Rubik", "Hernan Cortes", "Publishing", "Religion", "Rene Descartes"]
 archive_url: "https://web.archive.org/web/20131001000000/http://www.thewaythefutureblogs.com/2014/04/through-the-harmonic-convergence-part-3-2/"
-prev_post_url: "/posts/2014-04-06-bright-sayings-of-bright-people-no-51-frey/"
+prev_post_url: "/fred-pohl/2014-04-06-bright-sayings-of-bright-people-no-51-frey/"
 prev_post_title: "Bright Sayings of Bright People, No. 51: Frey"
-next_post_url: "/posts/2014-04-18-political-systems-does-democracy-really-trump-the-rest/"
+next_post_url: "/fred-pohl/2014-04-18-political-systems-does-democracy-really-trump-the-rest/"
 next_post_title: "Political Systems: Does Democracy Really Trump the Rest?"
 translated: false
 ---
@@ -45,7 +45,7 @@ These aren’t bad people. They don’t blow up abortion clinics or sell handgun
 All they want is to make the world peaceful, loving and as nearly stress-free as a human world can get and, gosh, I’m for all those things, too.
 
 
-Even the [**airhead**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/) and the Brit, although their grasp on reality was tenuous, seemed sincere in saying that they wished no human being any possible harm at all, only the best of all that’s possible for everyone in the world. And if you add to them the [**Scientologists**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) and the [ests](https://web.archive.org/web/20160416223603/http://skepdic.com/est.html), the [**Moonies**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/) and the [Hare Krishnas](https://web.archive.org/web/20160416223603/http://harekrishnacultexposed.blogspot.com/), the [Jehovah’s Witnesses](https://web.archive.org/web/20160416223603/http://www.cultwatch.com/jw.html) and the [transcendental meditators](https://web.archive.org/web/20160416223603/http://skepdic.com/tm.html) — all the people, in the aggregate the many millions of people, whose deepest desire is to clean up the mess in their own heads and then go on to help others to do the same — what a dedicated work force we are allowing to piddle away its energies on fantasies!
+Even the [**airhead**](/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/) and the Brit, although their grasp on reality was tenuous, seemed sincere in saying that they wished no human being any possible harm at all, only the best of all that’s possible for everyone in the world. And if you add to them the [**Scientologists**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/) and the [ests](https://web.archive.org/web/20160416223603/http://skepdic.com/est.html), the [**Moonies**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/) and the [Hare Krishnas](https://web.archive.org/web/20160416223603/http://harekrishnacultexposed.blogspot.com/), the [Jehovah’s Witnesses](https://web.archive.org/web/20160416223603/http://www.cultwatch.com/jw.html) and the [transcendental meditators](https://web.archive.org/web/20160416223603/http://skepdic.com/tm.html) — all the people, in the aggregate the many millions of people, whose deepest desire is to clean up the mess in their own heads and then go on to help others to do the same — what a dedicated work force we are allowing to piddle away its energies on fantasies!
 
 
 Just imagine what it would be like if each one of them would, say, expend all that energy on some worthwhile social project (by which, of course, I mean one I approve of) — for instance, teaching remedial English to American high-school graduating classes, so that the kids would learn how to spell, punctuate and parse and my wife wouldn’t spend her time swearing to herself as she corrects their freshman compositions. Illiteracy would disappear overnight.
@@ -84,7 +84,7 @@ I had never been an admirer of Bobby Seale, but I feel a little more charitable 
 
 **Related posts:**
 
-- Peddling Books Through the Harmonic Convergence, [**Part 1**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/), [**Part 2**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/)
+- Peddling Books Through the Harmonic Convergence, [**Part 1**](/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/), [**Part 2**](/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/)
 
 
 ### 3 Comments
@@ -93,18 +93,18 @@ I had never been an admirer of Bobby Seale, but I feel a little more charitable 
 In the past, balderdash of the sort that Fred describes above was marginalized. Something we could laugh at, and maybe feel smug about, but in the end it wouldn’t do any real harm.
 Now woo and superstition and faddish medicine are, thanks to the web, able to “have legs” and effect policy and practice. Whole cable networks cater to balderdash, providing little in the way of opposing views and, worse, displacing quality programs about health, nature, technology and science.
 Sad, and dismaying.
-[**April 11, 2014, 4:57 pm**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+[**April 11, 2014, 4:57 pm**](/fred-pohl/2014-04-10-through-the-harmonic-convergence-part-3/)
 - [Alan Robson](https://web.archive.org/web/20160416223603/http://tyke.net.nz/) says:
 Spot on as always. Kooks and crazies can sometimes be fun (but always in VERY small doses). And your travel advice reflects my own experiences. Well said!
 —  
 
 -Alan
-[**April 13, 2014, 12:05 am**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+[**April 13, 2014, 12:05 am**](/fred-pohl/2014-04-10-through-the-harmonic-convergence-part-3/)
 - H. E. Parmer says:
 *He had learned every buzzword there was in every discipline known to man […] and had managed not to understand any of them.*
 IOW, he’s a stupid person’s idea of what a smart person should sound like. He’s hoping if he can just dazzle you with his pseudo-intellectual footwork, you won’t notice he’s a feather-weight pretending to be an Ali. You run into this sort in all walks of life, and the one absolute imperative is that you should never, ever put them in a position of real responsibility. Frankly, the fact that more and more of them seem to be cropping up in our ruling elites seems to me to be the clearest sign yet that our civilization’s headed for a fall.
 I mean, in this guy it’s just sort of mildly annoying, but when you’re a kook who also happens to have a $100 billion *cough*Koch Bros*cough* your “quirky” convictions can cause major damage.
-[**April 18, 2014, 3:13 pm**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+[**April 18, 2014, 3:13 pm**](/fred-pohl/2014-04-10-through-the-harmonic-convergence-part-3/)
 
 [WordPress](https://web.archive.org/web/20160416223603/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416223603/http://dicksmithsoftware.com/)

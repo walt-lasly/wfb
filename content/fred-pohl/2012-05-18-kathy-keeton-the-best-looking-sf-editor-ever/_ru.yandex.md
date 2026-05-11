@@ -4,9 +4,9 @@ date: 2012-05-18
 categories: ["Authors", "Travel"]
 tags: ["Bob Guccione", "Editors", "Hugh Hefner", "Kathy Keeton", "Media", "Prozines", "Television"]
 archive_url: "https://web.archive.org/web/20210601000000/http://www.thewaythefutureblogs.com/2012/05/kathy-keeton-the-best-looking-sf-editor-ever/"
-prev_post_url: "/posts/2012-05-15-blog-helper-out-gets-degree/"
+prev_post_url: "/fred-pohl/2012-05-15-blog-helper-out-gets-degree/"
 prev_post_title: "Blog Helper-Out Gets Degree"
-next_post_url: "/posts/2012-05-20-bright-sayings-of-bright-people-no-33/"
+next_post_url: "/fred-pohl/2012-05-20-bright-sayings-of-bright-people-no-33/"
 next_post_title: "Bright Sayings of Bright People, No. 33"
 translated: false
 translator: "Yandex"
@@ -47,15 +47,15 @@ translator: "Yandex"
 
 - [Джей Ди Роудс](https://web.archive.org/web/20120810060357/http://jdrhoades.blogspot.com/) говорит:
 Раньше я любил Omni. Я открыл для себя одного из моих любимых писателей НФ, Спайдера Робинсона, когда они опубликовали его рассказ "FIVESIGHT". Меня всегда забавляло, что "ПЕНТХАУС" издавали одни и те же люди.
-[** 22 мая 2012 года, 7:11 утра**](/posts/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/)
+[** 22 мая 2012 года, 7:11 утра**](/fred-pohl/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/)
 - [Тодд Мейсон](https://web.archive.org/web/20120810060357/http://socialistjazz.blogspot.com/) говорит:
 Что мне всегда не нравилось в OMNI, так это третья часть журнала, посвященная психическим явлениям... это и бумага, которая размазывалась при малейшем прикосновении (в этом смысле она была почти такой же плохой, как газетная бумага, по крайней мере, в ранних выпусках). Но, конечно, художественная литература, как правило, была довольно хороша и в худшие времена…которой Китон, будь она все еще с нами, и ее редакторы художественной литературы Бен Бова, покойный Роберт Шекли и Эллен Датлоу должны были бы гордиться и, как я понимаю, были/остаются (отличная оплата труда не помешала, но одни деньги не всегда делают свое дело).
 (И я все еще нахожу забавным, что в 1978 году Бен Бова и Тед Уайт по разным причинам были отстранены от своих журналов Analog и дуэта FANTASTIC и Amazing, соответственно, с которыми они отлично сотрудничали на протяжении 1970-х... только для того, чтобы почти сразу же быть втянутыми обратно, как Корлеоне, журналами с реальными бюджетами…OMNI и HEAVY METAL, соответственно)
 (Капча не верит, что Земля вращается вокруг Солнца... Я думаю, ей нравится Старое Солнце ...)
-[** 22 мая 2012 года, 7:42 утра**](/posts/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/)
+[** 22 мая 2012 года, 7:42 утра**](/fred-pohl/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/)
 - Мэтт говорит:
 Просмотр этого поста напомнил мне о необходимости поиска в Интернете торрента или отдельных выпусков. Я обнаружил, что с 78 октября по зиму 95 доступны по адресу archive.org ([http://archive.org/details/omni-magazine](https://web.archive.org/web/20120810060357/http://archive.org/details/omni-magazine) ).
-[**8 июля 2012 года, 11:21 утра**](/posts/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/)
+[**8 июля 2012 года, 11:21 утра**](/fred-pohl/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/)
 
 [WordPress](https://web.archive.org/web/20120810060357/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120810060357/http://dicksmithsoftware.com/)

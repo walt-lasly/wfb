@@ -4,9 +4,9 @@ date: 2009-12-22
 categories: ["Authors", "Books", "Personal", "Space", "Travel"]
 tags: ["Albert Trestrail", "E.E. ‘Doc’ Smith", "Edgar Rice Burroughs", "Elizabeth Anne Hull", "Food", "H.G. Wells", "Isaac Asimov", "Jean Smith", "John W. Campbell", "Lee Hawkins Garby", "Prozines", "Verna Smith Trestrail"]
 archive_url: "https://web.archive.org/web/20111012144501/http://www.thewaythefutureblogs.com/2009/12/doc-skylark-smith/"
-prev_post_url: "/posts/2009-12-20-how-to-bring-peace-to-the-world/"
+prev_post_url: "/fred-pohl/2009-12-20-how-to-bring-peace-to-the-world/"
 prev_post_title: "How to Bring Peace to the World"
-next_post_url: "/posts/2009-12-24-lem-s-opera/"
+next_post_url: "/fred-pohl/2009-12-24-lem-s-opera/"
 next_post_title: "Lem’s Opera"
 translated: false
 ---
@@ -41,7 +41,7 @@ However, there was that nice Mrs. Garby down the street.  When approached, she a
 Until, one day, Doc stopped by the general store to pick up some necessities.  He noticed a new magazine called Amazing Stories.  On inspection, it appeared to be publishing stories about the future. He hastily exhumed the rejected story and sent it off to them, they bought it at once … and a new kind of fiction was born.
 
 
-Over the years, many another sf writer tried to copy Doc’s style of celebration of not-yet-existent science and super-technology.  None really succeeded, perhaps because they were not naïve enough to believe in the stories they were writing.  [John Campbell](https://web.archive.org/web/20111012144501/http://www.empsfm.org/exhibitions/index.asp?articleID=926), in the years before he turned to [**editing Astounding/Analog**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), perhaps came closest, though his attempts, like Doc’s, didn’t seem to concern real, live people.  Perhaps what he needed was his own Mrs. Garby.
+Over the years, many another sf writer tried to copy Doc’s style of celebration of not-yet-existent science and super-technology.  None really succeeded, perhaps because they were not naïve enough to believe in the stories they were writing.  [John Campbell](https://web.archive.org/web/20111012144501/http://www.empsfm.org/exhibitions/index.asp?articleID=926), in the years before he turned to [**editing Astounding/Analog**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/), perhaps came closest, though his attempts, like Doc’s, didn’t seem to concern real, live people.  Perhaps what he needed was his own Mrs. Garby.
 
 
 Of course, the simple concept of Mankind’s vast super-weapons duking it out with other, alien super-weapons all by itself was easier to borrow and there’s plenty of that still around.  Fortunately for all of us, because if we didn’t have that what would we watch on television?
@@ -85,61 +85,61 @@ Reluctantly I gave up the idea, but it would have been fun.
 - [Robert Nowall](https://web.archive.org/web/20111012144501/http://www.robertnowall.com/) says:
 I’m delighted with this segment.  By the time I came along, most of these “titans of the SF field” were gone, and what I know about them *as people* comes from what I can mine from the reminiscing of those who knew them.  Very few SF writers will ever have massive doorstopper biographies in every library and bookstore.  I still have copies of their works (though they’re getting harder to find as each year goes by).  But unless somebody does something like this, I don’t know who they *were.*
 (And I appreciate the sense of bygone times—I guess I-4, Tampa-to-Orlando-to-Daytona (and then down to Cape Canaveral on I-95) hadn’t yet been built.)
-[**December 22, 2009, 5:23 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 22, 2009, 5:23 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - Mike Woodhouse says:
 Oh my - E.E. ‘Doc’ Smith had never been in a plane? Fabulous. Reading the above, I was suddenly hurled back to the 60s. I wanted to be Kimball Kinnison. That, with a healthy (?) dose of Tom Swift books, was my introduction to SF. Pretty significant stuff.
-[**December 22, 2009, 5:38 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 22, 2009, 5:38 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [David Dyer-Bennet](https://web.archive.org/web/20111012144501/http://dd-b.net/) says:
 Doc Smith captured my heart early, about the only one of his generation of SF writers to really click for me (Campbell’s authors were mainly who I imprinted on), and I still read his books a lot.  I love to hear about him, since he was solidly gone from the scene before I got into fandom, I don’t know many people who knew him.
-[**December 22, 2009, 7:43 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 22, 2009, 7:43 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Stefan Jones](https://web.archive.org/web/20111012144501/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 The above essay has told more about Smith than I’ve picked up in the last 30 years. I’m looking forward to Part II.
 Smith’s work was well on its way to being Cornball Anachronism stuff by the time I read it, but I still loved it.
 Last year I loaded a public-domain copy of “Triplanetary” (w/o the Lensmen tie-ins) on one of those one-laptop-per-child computers and read it during a plane trip. Perfect way to pass the time.
-[**December 22, 2009, 12:43 pm**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 22, 2009, 12:43 pm**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Scott Hauger](https://web.archive.org/web/20111012144501/http://www.jscotthauger.com/) says:
 Fred:
 Thought you would be interested to know — I just got back from 2 weeks in China.  All of my usual websites that I visit were available there except one.  Yep, The Way the Future Blogs is apparently blocked in PRC.
 Scott
-[**December 22, 2009, 6:04 pm**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 22, 2009, 6:04 pm**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Dr. Psycho](https://web.archive.org/web/20111012144501/http://doctorpsycho1960.blogspot.com/) says:
 I enjoyed Doc Smith’s novels immensely, and wouldn’t mind if there were another one out there for me to discover [Skylark of Arisia, perhaps?], but now I have a real hankering to try his doughnuts, made from recipes that “not only specified what kind of wheat to use and how to grind the flour, but even at what time of year the crop should have been planted.”
 Goodness me, the secrets of the ancient ones which we have allowed to slip through our fingers….
-[**December 24, 2009, 2:04 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 24, 2009, 2:04 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - Jim Meadows says:
 I didn’t catch Doc Smith at the right time of life to really enjoy him. But when I read “The Skylark of Space”, I saw what he brought to science fiction — the concept that space travel could be a given, allowing writers and readers to get past the we’re-going-to-the-moon business, and get down to some real adventures.
    I think the key breakthrough point comes in “The Skylark of Space”, where Richard Seaton, having gotten his backyard rocket ship off the ground with the help of the radioactive mystery element X, casually looks at the speedometer and is surprised to see that he actually traveling several times the speed of light. “I guess Einstein was wrong”, he exclaims, if my memory serves. It’s a small step over any complaints about scientific plausibility, but a giant leap to all the space opera we’ve been enjoying for the last 90 years.
-[**December 30, 2009, 10:29 pm**](/posts/2009-12-22-doc-skylark-smith/)
+[**December 30, 2009, 10:29 pm**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20111012144501/http://beamjockey.livejournal.com/) says:
 \"His particular specialty was in food chemistry, with particular attention to the chemistry of the doughnut, but wheaten edibles of all kinds were within his purview.\"
 The late fan who went by the name \"Gharlane of Eddore\" told me that he once heard Doc Smith speak at an SF convention.  Someone asked Doc about his favorite achievement in the food-chemistry business.
 He was proudest of a formula he\’d invented for a doughnut mix made from potato flour.  
 So his purview extended beyond mere wheaten edibles…
 (I was led to investigate whether Doc had any connection with a chain of potato-doughnut shops named Spudnuts.  The answer turned out to be \"no,\" but that\’s a story for another time.)
-[**January 5, 2010, 9:21 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**January 5, 2010, 9:21 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20111012144501/http://beamjockey.livejournal.com/) says:
 Robert Nowall writes:
 “Very few SF writers will ever have massive doorstopper biographies in every library and bookstore.”
 Speaking of which, William Patterson’s biography of Heinlein is due out from Tor this year– half of it, at least.  Amazon gives the title as “Robert A. Heinlein: Volume 1 (1907-1949): Learning Curve.”
 Publication date is listed as 17 August 2010.  No word on when the second volume might be published.
-[**January 5, 2010, 9:27 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**January 5, 2010, 9:27 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Robert Nowall](https://web.archive.org/web/20111012144501/http://www.robertnowall.com/) says:
 “Robert A. Heinlein: Volume 1 (1907-1949): Learning Curve.”
 Great!  I’ve been waiting for a biography of Heinlein for years now.  (But I’m suspicious of multi-volume biographies unless they’re published all at once—Robert Caro promised the next volume of his Lyndon Johnson sometime in the next century, and the second volume of of Gary Gidding’s biography of Bing Crosby apparently crashed in a publishing dispute.)
-[**January 6, 2010, 6:21 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**January 6, 2010, 6:21 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - Stephen Lucchetti says:
 Doc never had anything to do with Spudnuts BUT he did work for Dawn Donuts our of Jackson Michigan for a number of years.  Somewhere I’ve got a FAX copy of at least one of his the recipe cards that he reused when sending book comments to a friend.
 – Stephen Lucchetti  
 
    Ypsilanti, Michigan
-[**January 12, 2010, 10:51 am**](/posts/2009-12-22-doc-skylark-smith/)
+[**January 12, 2010, 10:51 am**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - Christian Nau says:
 I loved the lensmen series when I was first introduced to them around the age of 15.  I actually have an embarrassing memory of me writing up, very earnestly, a description of the physics used in the lensmen universe for a 9th grade physics assignment. For example, some of the ideas I wrote about were: inertial dampers, multiples of the speed of light, teardrop designs because at those speeds even spaceships needed to be aerodynamic.  I don’t know what my teacher thought of it, but I didn’t score very well on the assignment.
-[**January 25, 2010, 1:00 pm**](/posts/2009-12-22-doc-skylark-smith/)
+[**January 25, 2010, 1:00 pm**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 - [Michael Walsh](https://web.archive.org/web/20111012144501/http://www.oldearthbooks.com/) says:
 Egads!  Need more Smith!  
 How about how you managed to land \"Skylark Duquesne\" ?
-[**January 18, 2011, 5:09 pm**](/posts/2009-12-22-doc-skylark-smith/)
+[**January 18, 2011, 5:09 pm**](/fred-pohl/2009-12-22-doc-skylark-smith/)
 
 [WordPress](https://web.archive.org/web/20111012144501/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111012144501/http://dicksmithsoftware.com/)

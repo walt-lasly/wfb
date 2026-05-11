@@ -4,9 +4,9 @@ date: 2014-01-07
 categories: ["Betty's Posts", "Writing"]
 tags: ["Elizabeth Anne Hull", "Language"]
 archive_url: "https://web.archive.org/web/20140101000000/http://www.thewaythefutureblogs.com/2014/01/some-words-in-english-about-english-words/"
-prev_post_url: "/posts/2014-01-05-the-story-of-the-space-merchants-part-5/"
+prev_post_url: "/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/"
 prev_post_title: "The Story ofThe Space Merchants, Part 5"
-next_post_url: "/posts/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
+next_post_url: "/fred-pohl/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
 next_post_title: "More onThe Space Merchants, 21st Century Edition"
 translated: false
 translator: "Yandex"
@@ -49,16 +49,16 @@ translator: "Yandex"
 Я с нетерпением жду возможности посмотреть больше этого видео, когда смогу выкроить время. Я читал “Историю английскими словами” Оуэна Барфилда, британского философа, который был другом К. С. Льюиса и оказал влияние также на Толкина.  
 
 Спасибо, что возродили блог. Долгое время это было одним из моих любимых блюд.
-[**8 января 2014 года, 7:13 утра**](/posts/2014-01-07-some-words-in-english-about-english-words/)
+[**8 января 2014 года, 7:13 утра**](/fred-pohl/2014-01-07-some-words-in-english-about-english-words/)
 - Билл Чэпмен говорит:
 Привет, Элизабет
 Вы правы в том, что “английский... как лингва франка... ставит всех тех, для кого это второй язык, в равные условия игры”. В то же время это ставит в выгодное положение тех, для кого русский язык является родным. Возможно, это случай с эсперанто.
-[**8 января 2014 года, 11:27 утра**](/posts/2014-01-07-some-words-in-english-about-english-words/)
+[**8 января 2014 года, 11:27 утра**](/fred-pohl/2014-01-07-some-words-in-english-about-english-words/)
 - [Дэн Голлаб](https://web.archive.org/web/20160416124028/http://www.dreampattern.com/) говорит:
 “Язык в целом - это то, что отличает Homo sapiens от других видов...”  
 
 В 2009 году я опубликовал статью в журнале Psychology and Education, том 46, № 2, в которой, в частности, предположил, что словесное мышление перед засыпанием может привести к более осмысленным сновидениям.
-[**8 января 2014, 18:29 вечера**](/posts/2014-01-07-some-words-in-english-about-english-words/)
+[**8 января 2014, 18:29 вечера**](/fred-pohl/2014-01-07-some-words-in-english-about-english-words/)
 
 [WordPress](https://web.archive.org/web/20160416124028/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416124028/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-05-20
 categories: ["Personal"]
 tags: ["History", "World War II"]
 archive_url: "https://web.archive.org/web/20130201000000/http://www.thewaythefutureblogs.com/2013/05/my-war-the-night-of-the-invasion-of-southern-france/"
-prev_post_url: "/posts/2013-05-17-how-to-paralyze-the-senate/"
+prev_post_url: "/fred-pohl/2013-05-17-how-to-paralyze-the-senate/"
 prev_post_title: "How to Paralyze the Senate"
-next_post_url: "/posts/2013-05-21-my-war-part-2-flying-a-desk/"
+next_post_url: "/fred-pohl/2013-05-21-my-war-part-2-flying-a-desk/"
 next_post_title: "My War, Part 2:  Flying a desk"
 translated: false
 ---
@@ -70,8 +70,8 @@ Oh, I was in the war all right.  I just wasn’t allowed to do any fighting.
 
 **Related posts:**
 
-- [**Hal Clement: Major Harry Stubbs**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
-- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
+- [**Hal Clement: Major Harry Stubbs**](/fred-pohl/2011-03-01-hal-clement-major-harry-stubbs/)
+- [**How I Lost My Oldest Friend (and Gained a Literary Agency)**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### 7 Comments
@@ -79,29 +79,29 @@ Oh, I was in the war all right.  I just wasn’t allowed to do any fighting.
 - [David Dyer-Bennet](https://web.archive.org/web/20170620025614/http://dd-b.net/) says:
 Things that seem good risks in a war zone, like packing planes that tightly, do have their problems, they certainly do.
 Was it actually “Air Force” officially?  I thought it was Army Air Corps or some such through the end of the war?
-[**May 20, 2013, 12:45 pm**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 20, 2013, 12:45 pm**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 - [the blog team](https://web.archive.org/web/20170620025614/http://thewaythefutureblogs.com/) says:
 Yes, you’re right.
-[**May 20, 2013, 4:23 pm**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 20, 2013, 4:23 pm**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 - SM says:
 A lot of American SF authors who wanted to seem to have had trouble getting to the front: consider Heinlein or Hubbard ( [http://www.cs.cmu.edu/~dst/Cowen/warhero/joining.htm](https://web.archive.org/web/20170620025614/http://www.cs.cmu.edu/~dst/Cowen/warhero/joining.htm) ) 
 I have read that the US had a ‘scientific’ system of personnel management during the war.  The idea was that anyone could be a grunt, but only intelligent and educated people could be technicians, so people with high test scores were kept out of combat.  The problem was that it turned out that infantry needed brains too.  It is one thing to read about this in the abstract, and another to experience it as an individual, though!
-[**May 20, 2013, 7:48 pm**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 20, 2013, 7:48 pm**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 - Joe from Brklyn says:
 This set of images, and your deft description, will stay with me for a long time. I only wonder if you wrote home about this at the time, and what the letters you wrote back then described.  I imagine this scene would not have made it past the censors.
-[**May 21, 2013, 5:28 am**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 21, 2013, 5:28 am**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 - Ken says:
 So you really wanted to fight up front, huh? Commendable and a worthy cause for sure. I wonder how you fared on the front lines in some alternate universe. Kinda glad they didn’t send you in this time line. 
 Coward that I am, I would have checked the box next to “towel boy in the nurse’s locker room”, and prayed for a rain delay.
-[**May 21, 2013, 8:50 pm**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 21, 2013, 8:50 pm**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 - The Apple Cheeked Boy ( Your Commanding Officer) says:
 Great blog post, Fred! I was the base weather officer and you were my clerk.  Because you wrote my reports, I got high ratings from the command. You called me the “Apple Cheeked Boy” because I was only 19 and the youngest base weather officer in that theater of operations and you were a mature man in your early 20s.  I remember that you brought your own typewriter to our base in Stornara, Italy.
-[**May 22, 2013, 6:13 pm**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 22, 2013, 6:13 pm**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 - Narmitaj says:
 I read somewhere that nearly twice as many plane crashes occurred in flying accidents than through combat during the war. This site ( [http://www.wwiifoundation.org/our-mission/wwii-facts-figures/wwii-aircraft-facts/](https://web.archive.org/web/20170620025614/http://www.wwiifoundation.org/our-mission/wwii-facts-figures/wwii-aircraft-facts/) ) largely bears that out with various eye-popping stats… 
 For instance, for the USA alone: 57,000 aircraft lost, of which 23,000 were in combat but as many as 34,000 in accidents (14,000 of them in the USA) – so nearly 200 accidents a week on average!  [My father flew B-24s](https://web.archive.org/web/20170620025614/http://www.nawaller.com/wol/liblge.jpg) for the last few months of the war – anti-submarine patrols with 547 Squadron of RAF Coastal Command (as I commented on the previous Major Harry Stubbs post) – but possibly the three and a half years before that learning to fly and being a flying instructor in Canada were more dangerous.
 Coastal Command meant mostly going out as lone aircraft with little danger of collision with other planes, but it was still possible to hit hills, as happened to [this Liberator from 547](https://web.archive.org/web/20170620025614/http://www.caledonius.co.uk/brechin/Page77.html). And, despite being over water most of the time, it was of course still possible to get shot down, as unfortunately happened to [one 547 Liberator in the very last few days of the European war](https://web.archive.org/web/20170620025614/http://uboat.net/boats/u534.htm) (the link is about U-534, sunk on 5th May 1945; scroll down for details of the attack on it).
-[**May 30, 2013, 6:33 pm**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+[**May 30, 2013, 6:33 pm**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
 
 [WordPress](https://web.archive.org/web/20170620025614/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620025614/http://dicksmithsoftware.com/)

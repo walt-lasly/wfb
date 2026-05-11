@@ -4,9 +4,9 @@ date: 2011-04-08
 categories: ["Authors"]
 tags: ["Alfred Bester", "C.L. Moore", "Clubs", "Editors", "Films", "Futurians", "Horace L. Gold", "James Tiptree Jr.", "Joanna Russ", "John Brunner", "John W. Campbell", "Leslie F. Stone", "Prozines", "Psychology", "Ray Bradbury", "Robert A. Heinlein", "Television", "Theodore Sturgeon", "Ursula K. Le Guin", "Vonda McIntyre"]
 archive_url: "https://web.archive.org/web/20220501000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-7-cyclothymia/"
-prev_post_url: "/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
+prev_post_url: "/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
 prev_post_title: "Me and Alfie, Part 6: John W. Campbell and Dianetics"
-next_post_url: "/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/"
+next_post_url: "/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/"
 next_post_title: "Me and Alfie, Part 8: Hollywood and the Name Game"
 translated: false
 translator: "Yandex"
@@ -28,7 +28,7 @@ translator: "Yandex"
 {{< figure src="bester-ca1964.jpg" alt="Alfred Bester, ca. 1964." caption="Alfred Bester, ca. 1964." >}}
 
 
-Пол: Я хочу рассказать вам кое-что об этом высокомерии, о котором вы говорили. Дело не только в редакторах, хотя лучшие в научной фантастике были довольно невыносимы в том или ином смысле. Мы уже упоминали [Хораса Голда](https://web.archive.org/web/20170619232625/http://www.gcwillick.com/Spacelight/gold_hl.html), который тоже был сумасшедшим. [** Джон Кэмпбелл**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) явно обладал очень решительной личностью и постоянно производил впечатление на всех окружающих.
+Пол: Я хочу рассказать вам кое-что об этом высокомерии, о котором вы говорили. Дело не только в редакторах, хотя лучшие в научной фантастике были довольно невыносимы в том или ином смысле. Мы уже упоминали [Хораса Голда](https://web.archive.org/web/20170619232625/http://www.gcwillick.com/Spacelight/gold_hl.html), который тоже был сумасшедшим. [** Джон Кэмпбелл**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) явно обладал очень решительной личностью и постоянно производил впечатление на всех окружающих.
 
 
 Несколько лет назад два психолога решили, что хотят выяснить, на что похожи писатели-фантасты. Они разослали анкету группе писателей-фантастов и попросили их ответить на вопросы, подобные тем, которые задают при психологическом тестировании. Как ты относишься к своей матери, и к тому, и к другому? И на основе этого они подготовили групповой психологический портрет писателей-научных фантастик.
@@ -91,7 +91,7 @@ translator: "Yandex"
 Мы с Альфи оба пишем научную фантастику, но ни один из нас не смог бы написать книги другого. Книга Альфи ”Разрушенный Человек([The Demolished Man](https://web.archive.org/web/20170619232625/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD))" — и многие другие книги — всегда производили на меня впечатление, но это не то, что я мог бы написать. И то, о чем я пишу, было бы довольно сложно сделать кому-то другому, потому что многое из того, что может сказать любой писатель, - это его собственный взгляд на мир. И чем лучше книга, тем больше в ней личного для этого автора — личного и специфического, а не чего-то такого, что мог бы сделать кто-то другой.
 
 
-Итак, какой-нибудь новый [** Хайнлайн**](/posts/2010-05-03-working-with-robert-a-heinlein/) или [Рэй Брэдбери](https://web.archive.org/web/20170619232625/http://www.raybradbury.com/), или [Джон Бруннер](https://web.archive.org/web/20170619232625/http://www.nndb.com/people/720/000023651/), или Альфи Бестер придут и напишут что-нибудь и изменят всю сцену в научной фантастике из-за своего личного упрямого индивидуализма, а затем другие люди скопируют это. Но я не знаю, что это будет, пока он этого не сделает.
+Итак, какой-нибудь новый [** Хайнлайн**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/) или [Рэй Брэдбери](https://web.archive.org/web/20170619232625/http://www.raybradbury.com/), или [Джон Бруннер](https://web.archive.org/web/20170619232625/http://www.nndb.com/people/720/000023651/), или Альфи Бестер придут и напишут что-нибудь и изменят всю сцену в научной фантастике из-за своего личного упрямого индивидуализма, а затем другие люди скопируют это. Но я не знаю, что это будет, пока он этого не сделает.
 
 
 Аудитория: Видите ли вы какие-нибудь крупные таланты, появившиеся в 70-е годы?
@@ -108,15 +108,15 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [** Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [** Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### Один комментарий
 
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20170619232625/http://beamjockey.livejournal.com/) говорит:
 Те, кому интересно узнать о психологах, которые тестировали писателей-научной фантастики в 1958 году, возможно, захотят прочитать “[Личность и креативность у художников и писателей](https://web.archive.org/web/20170619232625/http://onlinelibrary.wiley.com/doi/10.1002/1097-4679%28195804%2914:2%3C107::AID-JCLP2270140202%3E3.0.CO;2-T/abstract)“ Джона Э. Древдала и Рэймонда Б. Кэттелла в "Журнале клинической психологии", том 14, страницы 107-111.
-[**8 апреля 2011 года, 9:15 утра**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/)
+[**8 апреля 2011 года, 9:15 утра**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/)
 
 [WordPress](https://web.archive.org/web/20170619232625/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619232625/http://dicksmithsoftware.com/)

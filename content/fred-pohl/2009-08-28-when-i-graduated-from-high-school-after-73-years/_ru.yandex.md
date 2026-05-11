@@ -4,9 +4,9 @@ date: 2009-08-28
 categories: ["Personal"]
 tags: ["Academics", "Arthur C. Clarke", "John Brunner", "New York", "The Last Theorem"]
 archive_url: "https://web.archive.org/web/20091002090451/http://www.thewaythefutureblogs.com/2009/08/when-i-graduated-from-high-school-after-73-years/"
-prev_post_url: "/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
+prev_post_url: "/fred-pohl/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
 prev_post_title: "Fred’s Distilled Writing Wisdom, Part 1"
-next_post_url: "/posts/2009-09-01-more-little-known-fun-facts/"
+next_post_url: "/fred-pohl/2009-09-01-more-little-known-fun-facts/"
 next_post_title: "More Little Known Fun Facts"
 translated: false
 translator: "Yandex"
@@ -47,70 +47,70 @@ translator: "Yandex"
 
 - [Джефф](https://web.archive.org/web/20091002090451/http://jeffcrook.blogspot.com/) говорит:
 Поздравляю!
-[** 28 августа 2009 года, 8:29 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 28 августа 2009 года, 8:29 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Майк Уизнер](https://web.archive.org/web/20091002090451/http://www.weasner.com/) говорит:
 Поздравляю!
-[** 28 августа 2009 года, 8:35 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 28 августа 2009 года, 8:35 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Стефан Джонс](https://web.archive.org/web/20091002090451/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) говорит:
 Поздравляю!
 Что касается того, что вы будете делать дальше... одно слово: *Пластмасса!*
-[** 28 августа 2009 года, 12:30 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 28 августа 2009 года, 12:30 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - А. Шелтон говорит:
 Поздравляю!
-[** 28 августа 2009, 20:45 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 28 августа 2009, 20:45 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Кристина](https://web.archive.org/web/20091002090451/http://www.midnightferret.c9om/) говорит:
 Мои искренние и сердечные поздравления!
-[** 28 августа 2009 года, 9:40 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 28 августа 2009 года, 9:40 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Фарах говорит:
 Поздравляю!
-[** 29 августа 2009 года, 6:40 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 29 августа 2009 года, 6:40 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Дженнифер говорит:
 Какой добрый поступок с вашей стороны и как это замечательно для вас. Поздравляю!
-[** 29 августа 2009 года, 8:19 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 29 августа 2009 года, 8:19 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Касс](https://web.archive.org/web/20091002090451/http://trifles.livejournal.com/) говорит:
 Поздравляю!
-[** 29 августа 2009 года, 10:20 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 29 августа 2009 года, 10:20 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Элизабет Беар говорит:
 Поздравляю!
-[** 29 августа 2009 года, 10:27 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 29 августа 2009 года, 10:27 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Джеймс А. Оуэн](https://web.archive.org/web/20091002090451/http://www.heretherebedragons.net/) говорит:
 Это самая крутая вещь, которую я видел за весь год. Очень рад за тебя, Фред!
-[** 29 августа 2009 года, 10:36 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 29 августа 2009 года, 10:36 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Чаз Бренчли](https://web.archive.org/web/20091002090451/http://www.chazbrenchley.co.uk/) говорит:
 Хех. Это так круто. Поздравляю!
-[**29 августа 2009, 12:28 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**29 августа 2009, 12:28 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [удар](https://web.archive.org/web/20091002090451/http://whump.com/) говорит:
 Молодец!
-[**29 августа 2009, 14:19 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**29 августа 2009, 14:19 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Эллен Ашер говорит:
 Мазл тов!  
 
 Теперь, может быть, ты сможешь чего-то добиться сам....
-[**29 августа 2009, 10:43 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**29 августа 2009, 10:43 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Джей [Джей Брэннон](https://web.archive.org/web/20091002090451/http://www.youtube.com/watch?v=xPgZeOsG8sk) говорит:
 Фред, ты вдохновляешь всех нас.
 Я не видел тебя со столетнего юбилея Хайнлайна, когда ты был всего лишь отчисленным из средней школы, но я знал, что в тебе это есть, малыш.  :&gt;)
 На вопрос о том, чего вы могли бы достичь, если бы только проявили настойчивость раньше, я полагаю, хорошо отвечает “Служитель” Сомерсета Моэма.
 Поздравляю!
 JJB
-[**29 августа 2009, 10:46 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**29 августа 2009, 10:46 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Чуки](https://web.archive.org/web/20091002090451/http://chookiesbackyard.blogspot.com/) говорит:
 Поздравляю тебя с окончанием школы… Однако я полагаю, что дополнительные 25 долларов не будут выплачены задним числом! Жалость!
-[**30 августа 2009, 20:54 вечера**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**30 августа 2009, 20:54 вечера**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20091002090451/http://beamjockey.livejournal.com/) говорит:
 Задумывались ли вы когда-нибудь о том, в какой колледж вы хотели бы поступить?
 Парню с твоими мозгами действительно следовало бы получить высшее образование.  Я уверен, что вы могли бы специализироваться по предмету, который обеспечил бы вам хорошую работу после окончания школы…
-[** 31 августа 2009 года, 9:25 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 31 августа 2009 года, 9:25 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Пи Джей говорит:
 Итак... следующий колледж?
-[** 31 августа 2009 года, 10:50 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[** 31 августа 2009 года, 10:50 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Марк говорит:
 Какой прекрасный жест. Поздравляю!
-[**2 сентября 2009 года, 7:31 утра**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**2 сентября 2009 года, 7:31 утра**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Бекбек](https://web.archive.org/web/20091002090451/http://nothard.blogspot.com/) говорит:
 Это интересно! Я тоже бросил среднюю школу в 17 лет. Это было бы не примерно в то же время, потому что, на самом деле, я бы уже пару раз слышал, как вы выступали на съездах по научной фантастике в тот момент. Ха. Если подумать об этом… как часто вы упоминали эту блестящую идею бросить школу?! В конечном счете, я думаю, что у меня все получилось хорошо (так что, если это было хотя бы отчасти под вашим влиянием, спасибо вам!), хотя мне каким-то образом удалось случайно получить степень бакалавра и магистра. Это не входило в мои намерения. И у меня все еще нет диплома HS, так что вы легко меня опережаете! (Не говоря уже об успешной писательской карьере!) Поздравляю!
 Кстати, мы с мужем оба случайно наткнулись на ваш сайт, когда искали личные (созданные пользователем) фотографии Рындама. В марте 2010 года мы отправимся в плавание всего на неделю, и нам немного не терпится. Когда я проследил за фотографией в вашем блоге, я был приятно удивлен, обнаружив, что она размещена под очень знакомым именем. Спасибо вам. Когда мы доберемся до Рындама, я попытаюсь незаметно стащить одну из ваших книг с библиотечных полок…
-[**16 сентября 2009, 14:03**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**16 сентября 2009, 14:03**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 
 [WordPress](https://web.archive.org/web/20091002090451/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002090451/http://dicksmithsoftware.com/)

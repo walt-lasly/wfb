@@ -4,9 +4,9 @@ date: 2010-12-24
 categories: ["Personal"]
 tags: ["Communism", "Joseph Freeman", "Poetry", "Politics"]
 archive_url: "https://web.archive.org/web/20150919065630/http://www.thewaythefutureblogs.com/2010/12/the-poem-prince-jernikidze/"
-prev_post_url: "/posts/2010-12-23-early-days-at-brooklyn-tech-part-3/"
+prev_post_url: "/fred-pohl/2010-12-23-early-days-at-brooklyn-tech-part-3/"
 prev_post_title: "Early Days at Brooklyn Tech, Part 3"
-next_post_url: "/posts/2010-12-25-a-visit-to-prince-mtskheta/"
+next_post_url: "/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/"
 next_post_title: "A Visit to Prince Mtskheta"
 translated: false
 translator: "Yandex"
@@ -71,12 +71,12 @@ translator: "Yandex"
 
 - Брюс говорит:
 Фред - не по теме, но я хотел бы знать, какие параллели вы видите между миром "Холодной войны" и сегодняшним днем.
-[** 24 декабря 2010 года, 10:08 утра**](/posts/2010-12-24-the-poem-prince-jernikidze/)
+[** 24 декабря 2010 года, 10:08 утра**](/fred-pohl/2010-12-24-the-poem-prince-jernikidze/)
 - мертвый [программист](https://web.archive.org/web/20150919065630/http://www.deadprogrammer.com/) говорит:
 Это напомнило мне о “графе Алексее Толстом”, известном советском писателе, который наряду с Гербертом Уэллсом и Хьюго Гернсбек был одним из моих первых знакомств с научной фантастикой (по какой-то причине я прочитал ныне забытый роман Гернсбек "Ральф 124С 41+" примерно в то же время, что и роман Толстого).  
 
 “Аэлита” и “Машина времени” Уэллса).  Во всяком случае, Алексея Толстого уничижительно называли “Красным графом”, “Графом рабочих и крестьян”, “Товарищем графом” и т.д. В популярном анекдоте о нем рассказывалось, как его лакей прервал встречу с читателями словами: “Ваша светлость, вы нужны на партийном собрании”.
-[** 25 декабря 2010 года, 9:29 утра**](/posts/2010-12-24-the-poem-prince-jernikidze/)
+[** 25 декабря 2010 года, 9:29 утра**](/fred-pohl/2010-12-24-the-poem-prince-jernikidze/)
 
 [WordPress](https://web.archive.org/web/20150919065630/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150919065630/http://dicksmithsoftware.com/)

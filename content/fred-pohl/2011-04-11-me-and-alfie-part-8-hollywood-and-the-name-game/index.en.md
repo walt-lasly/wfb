@@ -4,9 +4,9 @@ date: 2011-04-11
 categories: ["Authors", "Books", "Writing"]
 tags: ["Alfred Bester", "Bob Shaw", "Editors", "Frank Olynyk", "Harlan Ellison", "Hollywood", "Horace L. Gold", "Hugo Gernsback", "Jerry Pournelle", "John W. Campbell", "Kevin Williams", "Larry Niven", "Prozines", "Publishing", "Richard Wilson", "Television"]
 archive_url: "https://web.archive.org/web/20170620005415/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-8-hollywood-and-the-name-game/"
-prev_post_url: "/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/"
+prev_post_url: "/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/"
 prev_post_title: "Me and Alfie, Part 7: Cyclothymia"
-next_post_url: "/posts/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
+next_post_url: "/fred-pohl/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
 next_post_title: "Bright Sayings of Bright People, No. 12: Milton"
 translated: false
 ---
@@ -152,7 +152,7 @@ There was a story by [Richard Wilson](https://web.archive.org/web/20170620005415
 Audience: [Bob Shaw](https://web.archive.org/web/20170620005415/http://www.ansible.co.uk/writing/bobshaw.html) wrote [Orbitsville](https://web.archive.org/web/20170620005415/http://www.amazon.com/gp/product/0671698168/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671698168) at the same time [Larry Niven](https://web.archive.org/web/20170620005415/http://www.larryniven.org/larry.shtml) wrote [Ringworld](https://web.archive.org/web/20170620005415/http://www.amazon.com/gp/product/0345333926/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345333926) and the two books were about the same idea, and it caused Bob Shaw to concede to *Ringworld* and put his book in the drawer for about 10 years. I just wondered if that sort of thing happens to you.
 
 
-Pohl: Yeah, it happens, there is not a great deal you could do about it. It doesn’t really matter that two books are on more or less the same subject because the individual writer’s approach to it is so different. [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) used to feed the same story idea to six different writers and get six different stories and print all of them.
+Pohl: Yeah, it happens, there is not a great deal you could do about it. It doesn’t really matter that two books are on more or less the same subject because the individual writer’s approach to it is so different. [**John Campbell**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) used to feed the same story idea to six different writers and get six different stories and print all of them.
 
 
 The only way it hurts is sometimes the first book will be a big bestseller and the other one won’t. It is just as good a book and will last just as long, but it doesn’t capture the market because the first one used it up. And if there’s going to be a film, the first one gets made into a film, the ones that come after don’t.
@@ -184,21 +184,21 @@ So thank you very much, Alfred J. Bester and Frederik Pohl — and thank you in 
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Part 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/)
 
 
 ### 5 Comments
 
 - Jim Flanagan says:
 This has been a fantastic series of posts. Thanks Fred
-[**April 11, 2011, 1:26 am**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**April 11, 2011, 1:26 am**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - Jim Worrad says:
 Thank you, this has been wonderful!
-[**April 11, 2011, 7:44 am**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**April 11, 2011, 7:44 am**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - Mike Goldberg says:
 Thanks! This was a great interview. I wish that I had been in the audience!
-[**April 12, 2011, 8:00 am**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**April 12, 2011, 8:00 am**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - H. E. Parmer says:
 Thanks so much for putting this interview up, Fred, and thanks also to the fans who transcribed it.
 Speaking as a bad cinema freak, though, I have to believe we’re all the poorer for having been denied the spectacle of Thermoliath shambling through a cheap cardboard and plaster-of-Paris miniature replica of Palm Springs, intercut with stock footage of hurricanes and earthquakes.
@@ -206,10 +206,10 @@ Speaking as a bad cinema freak, though, I have to believe we’re all the poorer
 of tongue or pen,
 the saddest are these:
 “It might have been.”*
-[**April 13, 2011, 11:45 pm**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**April 13, 2011, 11:45 pm**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - JohnArmstrong says:
 Thanks, Fred –
-[**April 15, 2011, 7:12 pm**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**April 15, 2011, 7:12 pm**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 [WordPress](https://web.archive.org/web/20170620005415/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620005415/http://dicksmithsoftware.com/)

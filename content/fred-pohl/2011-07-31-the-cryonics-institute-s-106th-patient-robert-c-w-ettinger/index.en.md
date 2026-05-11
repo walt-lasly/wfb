@@ -4,9 +4,9 @@ date: 2011-07-31
 categories: ["Science"]
 tags: ["Cryonics", "Johnny Carson", "Long John Nebel", "Medicine", "Pee Wee Russell", "Robert Ettinger"]
 archive_url: "https://web.archive.org/web/20140701000000/http://www.thewaythefutureblogs.com/2011/07/the-cryonic-institutes-106th-patient-robert-cw-ettinger/"
-prev_post_url: "/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/"
+prev_post_url: "/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/"
 prev_post_title: "Bright Sayings of Bright People, No. 16: Lao Tzu"
-next_post_url: "/posts/2011-08-01-where-did-all-the-ers-go/"
+next_post_url: "/fred-pohl/2011-08-01-where-did-all-the-ers-go/"
 next_post_title: "Where Did All the ERs Go?"
 translated: false
 ---
@@ -55,30 +55,30 @@ I still think it’s a reasonable gambling bet.  If it turns out it works, I hop
 
 **Related post:**  
 
-[**Inventing Cryonics**](/posts/2009-05-26-have-mouth-will-travel-part-3-inventing-cryonics/)
+[**Inventing Cryonics**](/fred-pohl/2009-05-26-have-mouth-will-travel-part-3-inventing-cryonics/)
 
 
 ### 12 Comments
 
 - David B. Williams says:
 It may work technically, but it will never work practically. Consider human nature and economics. We’re pushing 6 billion members of our species on this planet. Considering all the new people we have to care for, who’s going to spend millions to revive a corpse who has already enjoyed his alotted lifetime? For what purpose? What could that individual contribute to the Brave New World? And I doubt memories and personality would survive death and frozen storage; meat is one thing, electrochemical connections something else. And the lawyers would get into the act. Does someone declared legally dead have any rights, and which ones? Can he reclaim his legal indentity, and what problems will that create? No, it’s best to let corpsicles lie, as they say.
-[**August 1, 2011, 9:42 am**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 1, 2011, 9:42 am**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Gregory Benford says:
 The best case for cryonics is that it allows one to die with hope.
 I wrote a whole novel about the modern cryonics movement, CHILLER, to be reissued this month. It’s sf but grounded in my experiences with the Alcor people in the 1990s. The tech has improved, especially in holding people above the fracture point where the big cell damage occurs — though I don’t know if anyone is actually using it on patients now.
 Still, Fred, would be good to see you up in that vast future…
-[**August 1, 2011, 12:10 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 1, 2011, 12:10 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - [Stefan Jones](https://web.archive.org/web/20160310164708/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 For a while there, SF stories and novels revelled and rooted for cryonics, in the same way that novels of a few years ago revelled and rooted for the notion of the Singularity. 
 “I wasn’t attracted to the idea of being reborn into a society where I had no role and all the things I cared about had disappeared.”
 Warren Ellis wrote a fine and shocking comic story about just this; a fictional investigation by gonzo journalist Spider Jerusalem. A somewhere-past-near-future society has the ability to read the memories from the frozen brains of “corpsicles” and transfer them to new bodies. And then . . . abandon them, leaving the youthful, future-shocked resurrected folk to wander the streets.
-[**August 1, 2011, 12:25 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 1, 2011, 12:25 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - [Bill Goodwin](https://web.archive.org/web/20160310164708/http://771715/) says:
 If anything, I’d expect to wake up in my own youthful body–perhaps even in my childhood bed–and discover in rapid succesion that: A) I was invulnerable. B) I could fly. C) I could move back and forth through my whole life, picking up its thread at any point and going off on whatever new tangent I desired.
 The whole thing would be a simulation of course. Nobody’s going to treat corpsicles in some nutrient vat.  If any useful information can be salvaged, it will be through means (and for purposes) very far beyond current imagination.
 Possibly no frozen body will be required at all.  You’ve got Frank Tipler’s Omega Point working for you, opening up the entire temporal continuum.  Eventually one would find ways through the genetic nodes into other bays and estuaries of selfhood, other personal histories.  Or backward to the big bang itself–and then forward into new elaborations of existence.  If you look at the universe (or multiverse) as an evolving “soup” of information, it all begins to seem rather inevitable.  So I’m not too worried for myself.
 But for Pete’s sake, what is the world going to do without ME?
-[**August 1, 2011, 10:11 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 1, 2011, 10:11 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - John Jones says:
 (Disclaimer: paid-up member of CI, because I like the odds compared to the alternative, and I made the arrangements young so it’s meaningless overhead on top of the day-to-day cost of living; also, first-time commenter.)
 David: I think you’re overly pessimistic.  I don’t know what the future will bring, but I do know enough about the operational end of cryonics, from sheer self-interest, to think your scenario is improbable.
@@ -92,14 +92,14 @@ What happens when the lawyers whiff it is certainly a concern, but it’s anothe
 
 Stefan: I share your fondness for that particular issue of Transmetropolitan (at the time I thought it the finest comic I’d read all that year, and when I reread it recently I still thought highly of it), but it’s ultimately shallow, and reads to me as if he took the concept and ran with it for fictional purposes, and nothing more.  Speaking for myself, but in this particular matter also for every other cryonicist I know and have discussed it with: if we woke in that situation, we simply wouldn’t *care*.  We’d be *alive*, and thereafter ignored is approximately infinitely preferable to, say, “wantonly tortured for entertainment”.  Nor would be be alone — we’d have each other.  People I’d be proud to call friend have gone into the tanks before me, and people I think of as almost family will either go in before me too, or after me, and whichever one of us goes first, part of the other’s duty and honour as friend is to see that they get into the tanks safely (and if you come out before them, to see that they make it back too).  It may be safely said that this view of things, more akin to a mutual-aid society, is not the one generally imagined by the public.
 For our gracious host: long-time admirer of your works, and could not possibly recompense you enough for the pleasure obtained thereby, but (putting my cryonicist hat back on for a moment) if it means anything to you, as long as there are intelligent beings that read, and I’m among them, I will be telling them about your edifying works.  (I do that too now of course, since a sale is its own kind of thanks, but there are only so many people I know in the present who haven’t already had books pressed upon them or need no introduction…)
-[**August 2, 2011, 2:54 am**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 2, 2011, 2:54 am**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Pat says:
 Feed my corpse to the foxes and give my regards to the heirs of the Earth. I hope they have more control over their instincts, are not blinded by their hopes and fears and treasure the land that is the only known source of chocolate.
-[**August 2, 2011, 7:03 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 2, 2011, 7:03 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Mark Plus says:
 @David B. Williams:
 I have cryonics arrangements with Alcor. And I don’t believe in an “alloter” of lifespans. As for the costs of reviving someone, I noticed that nobody handed those Chilean miners a bill for their rescue when they got to the surface, even though they couldn’t have paid for the expense with their lifetime earnings. (I guess we should only rescue billionaires trapped in mines from now in our times of austerity.) Humans just have a funny thing about valuing other people’s lives.
-[**August 2, 2011, 11:08 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 2, 2011, 11:08 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - [Mike Darwin](https://web.archive.org/web/20160310164708/http://chronopause.com/) says:
 Hello, Fred, this is from Mike Darwin, the guy who made you the offer of a “free freeze” after dinner that night in Louisville, KY in our suite in the Galt House hotel. You were the Guest of Honor at the American Science Fiction Convention in 1978, and we took you to dinner and made you an offer that, as it turned out, you easily could refuse! If you want  to read an account of that meeting from the perspective of the cryonics people present at that time, it’s up on line, here: [http://www.alcor.org/cryonics/cryonics8301.txt](https://web.archive.org/web/20160310164708/http://www.alcor.org/cryonics/cryonics8301.txt) and is entitled, “When You Can’t Even Give it Away – Cryonics and Fred Pohl. 
 When you write about Bob Ettinger, “He wrote me one more letter, good-naturedly urging me to change my mind. That was the end,” I would say in response, “Uh, uh, it is much more likely, on the basis of probability alone, that was the end not for Bob, but for *you.* 
@@ -109,10 +109,10 @@ When most men die, their probability for any future goes to zero; in effect, the
 So, Fred, here’s the deal. Your friend is waiting for you: he damn sure wanted you to embark on the adventure (good or bad) that he has now begun. In fact, he kept at you to go until, literally, almost his last breath for this life cycle. He can’t do it anymore, so I guess it is my turn, once again, to ask you to reconsider and to join your friend and colleague on his journey into the land you both dreamed of when you were young, and in your salad days. Please, reconsider your arguments. It is now for sure you won’t be without a friend and cohort, and I can pretty much guarantee you that your revival won’t take place unless you have a use.  
 
 Finally, I can tell you for a fact that the best use you have is continue living and growing and telling stories. At our core, we humans are ‘store creatures,’ and we will remain so as long we *are* human. It goes without saying that story creatures need storytellers; your job is thus secure.
-[**August 2, 2011, 11:47 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 2, 2011, 11:47 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Dr. R.M.Khattar says:
 Hey Guys Why dont you open an office in India where many Hindus believe in rebirth and afterlife and have plenty of money too.
-[**August 3, 2011, 6:39 am**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 3, 2011, 6:39 am**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Pat says:
 Mike, can you really not imagine a future where:
 a) Fred Pohl is the only corpsicle anyone wants to revive (Prisney? Who is this Prisney?*).  
@@ -127,15 +127,15 @@ e) corpsicles are only revived so they can be used to commit assassinations or c
 Or a present where Fred has made his mind up in possession of all the facts and an imagination sin pareil?
 I must point out that “That was the end.” referred to the end of Bob trying to persuade Fred. Clearly the balance of probability suggests that this is true.
 * Quote from “Allegro non troppo”.
-[**August 3, 2011, 6:24 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 3, 2011, 6:24 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Pat says:
 Oops, “sans pareil”, obviously. I have too many languages and not enough capability.
-[**August 5, 2011, 4:41 am**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 5, 2011, 4:41 am**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 - Jim Flanagan says:
 Mr. Pohl
 BBC just published this slide show on the topic.
 [http://www.bbc.co.uk/news/science-environment-14509425](https://web.archive.org/web/20160310164708/http://www.bbc.co.uk/news/science-environment-14509425)
-[**August 12, 2011, 10:27 pm**](/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
+[**August 12, 2011, 10:27 pm**](/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/)
 
 [WordPress](https://web.archive.org/web/20160310164708/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160310164708/http://dicksmithsoftware.com/)

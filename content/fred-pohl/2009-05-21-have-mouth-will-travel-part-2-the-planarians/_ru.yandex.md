@@ -4,9 +4,9 @@ date: 2009-05-21
 categories: ["Personal", "Science"]
 tags: ["Jack Williamson", "James V. McConnell", "Psychology", "Theodore Kaczynski", "Thomas D. Clareson"]
 archive_url: "https://web.archive.org/web/20090722100831/http://www.thewaythefutureblogs.com/2009/05/have-mouth-will-travel-part-2-the-planarians/"
-prev_post_url: "/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
+prev_post_url: "/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
 prev_post_title: "Have Mouth, Will Travel, Part 1: The Lecture Biz"
-next_post_url: "/posts/2009-05-26-have-mouth-will-travel-part-3-inventing-cryonics/"
+next_post_url: "/fred-pohl/2009-05-26-have-mouth-will-travel-part-3-inventing-cryonics/"
 next_post_title: "Have Mouth, Will Travel, Part 3: Inventing Cryonics"
 translated: false
 translator: "Yandex"
@@ -62,16 +62,16 @@ translator: "Yandex"
 
 - [Стефан Джонс](https://web.archive.org/web/20090722100831/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) говорит:
 Ларри Нивен использовал понятие “РНК памяти” в одном из своих лучших рассказов. По-моему, “Четвертая профессия”.
-[**21 мая 2009, 15:18 вечера**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
+[**21 мая 2009, 15:18 вечера**](/fred-pohl/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 - [Марк](https://web.archive.org/web/20090722100831/http://plato.stanford.edu/entries/ockham/) говорит:
 Запоминающая РНК и ее возможные применения - прекрасная концепция. Печально? ‘кажется’, что бритва Оккама (мой любимый закон, которым я пользуюсь ежедневно с большим удовольствием) снова торжествует. По иронии судьбы, “Теория познания” Оккама удивительно близко соприкасалась с РНК памяти еще в средние века.
-[** 23 мая 2009 года, 6:54 утра**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
+[** 23 мая 2009 года, 6:54 утра**](/fred-pohl/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 - Никс говорит:
 Возможно, Нивен использовал это в "Четвертой профессии" (переносимая память, да, не уверен насчет РНК памяти, и я совершенно уверен, что она не может дать вам способность творить чудеса), но РНК памяти *определенно* использовалась в "Раммере", который стал первой частью "Мира вне времени". Определенно, одна из лучших работ Нивен подарила мне сенсавунду, как ничто из того, что он делал со времен "Рингворлда".
-[** 23 мая 2009, 16:32**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
+[** 23 мая 2009, 16:32**](/fred-pohl/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 - Брюс говорит:
 Я не думал о планариях со времен моего курса биологии в средней школе. Сначала я подумал, что “Планарии” - это пародийный фэн-клуб научной фантастики… Возвращаясь к теме: очень жаль, что обучение с помощью еды не увенчалось успехом. Вся эта концепция показалась мне немного “странной”, когда я услышал об этом, но было бы так удобно рационализировать некоторые древние человеческие традиции о том, как получить силу своей добычи, съев ее.
-[** 25 мая 2009 года, 6:15 утра**](/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
+[** 25 мая 2009 года, 6:15 утра**](/fred-pohl/2009-05-21-have-mouth-will-travel-part-2-the-planarians/)
 
 [WordPress](https://web.archive.org/web/20090722100831/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090722100831/http://dicksmithsoftware.com/)

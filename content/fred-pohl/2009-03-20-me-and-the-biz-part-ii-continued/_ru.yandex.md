@@ -4,9 +4,9 @@ date: 2009-03-20
 categories: ["Personal", "Travel"]
 tags: ["Agents", "Arnold Perl", "C.M. Kornbluth", "Films", "H.G. Wells", "H.N. Swanson", "Hollywood", "Joseph Conrad", "New York", "Rudyard Kipling", "Television"]
 archive_url: "https://web.archive.org/web/20090327075222/http://www.thewaythefutureblogs.com/2009/03/me-and-the-biz-2-continued/"
-prev_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+prev_post_url: "/fred-pohl/2009-03-18-me-and-the-biz-part-ii/"
 prev_post_title: "Me and the Biz, Part II"
-next_post_url: "/posts/2009-03-22-gracious-dining/"
+next_post_url: "/fred-pohl/2009-03-22-gracious-dining/"
 next_post_title: "Gracious Dining"
 translated: false
 translator: "Yandex"
@@ -64,7 +64,7 @@ translator: "Yandex"
 И когда я зарегистрировался в своем отеле в Денвере, они стоили 22 500 долларов, а в Сиэтле — 27 500 долларов, и к тому времени, когда я вернулся домой, цена выросла более чем на 30 000 долларов, и British Redifusion пыталась вразумить меня: “Свани собирается все тебе испортить, ты же знаешь.  Мы можем просто уйти”. — и безуспешно пытается вбить в меня здравый смысл.
 
 
-Даже [**Арнольд Перл**](/posts/2009-03-18-me-and-the-biz-part-ii/) проявлял некоторое беспокойство: “Вы действительно говорили, что у семьи Корнблат были какие-то денежные проблемы.  Может пройти немало времени, прежде чем наши переговоры достигнут такого уровня”.
+Даже [**Арнольд Перл**](/fred-pohl/2009-03-18-me-and-the-biz-part-ii/) проявлял некоторое беспокойство: “Вы действительно говорили, что у семьи Корнблат были какие-то денежные проблемы.  Может пройти немало времени, прежде чем наши переговоры достигнут такого уровня”.
 
 
 И когда я позвонил Суони на следующий день, он сказал: “Они стоят 50 000 долларов.  Что ты хочешь, чтобы я сделал?”
@@ -87,16 +87,16 @@ translator: "Yandex"
 
 **Похожие сообщения:**
 
-[**Я и бизнес**](/posts/2009-02-15-me-and-the-biz/)  
+[**Я и бизнес**](/fred-pohl/2009-02-15-me-and-the-biz/)  
 
-[**Я и бизнес, часть II**](/posts/2009-03-18-me-and-the-biz-part-ii/)
+[**Я и бизнес, часть II**](/fred-pohl/2009-03-18-me-and-the-biz-part-ii/)
 
 
 ### Один комментарий
 
 - [Шэрон Э. Дрейер](https://web.archive.org/web/20090327075222/http://www.eloquentbooks.com/LongJourneyToRneadal.html) говорит:
 Звучит так, как будто война ставок была хорошей вещью в 1950-х годах! И как начинающий автор я бы не возражал против войны предложений прямо сейчас!
-[** 20 марта 2009 года, 8:32 утра**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
+[** 20 марта 2009 года, 8:32 утра**](/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/)
 
 [WordPress](https://web.archive.org/web/20090327075222/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090327075222/http://dicksmithsoftware.com/)

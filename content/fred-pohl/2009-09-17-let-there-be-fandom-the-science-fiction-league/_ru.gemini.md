@@ -4,9 +4,9 @@ date: 2009-09-17
 categories: ["Personal"]
 tags: ["Editors", "History", "Hugo Gernsback", "John W. Campbell", "Prozines", "Pulps", "Science Fiction League", "Television", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20091129084918/http://www.thewaythefutureblogs.com/2009/09/let-there-be-fandom-the-science-fiction-league/"
-prev_post_url: "/posts/2009-09-11-dick/"
+prev_post_url: "/fred-pohl/2009-09-11-dick/"
 prev_post_title: "Dick"
-next_post_url: "/posts/2009-09-25-some-feedback-finally/"
+next_post_url: "/fred-pohl/2009-09-25-some-feedback-finally/"
 next_post_title: "Some Feedback. Finally"
 translated: false
 translator: "Gemini"
@@ -89,36 +89,36 @@ translator: "Gemini"
 
 **Похожие посты:**
 
-- [**Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Да будет Фэндом, Часть 2: Школьные годы**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**Да будет Фэндом, Часть 3: Детство в Бруклине**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Да будет Фэндом, Часть 4: Новый курс, новые миры**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Да будет Фэндом, Часть 5: Большая Лига**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [**Да будет Фэндом, Часть 6: Профессионалы!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
-- [**Да будет Фэндом, Часть 7: Крестовый поход**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Да будет Фэндом, Часть 2: Школьные годы**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Да будет Фэндом, Часть 3: Детство в Бруклине**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Да будет Фэндом, Часть 4: Новый курс, новые миры**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Да будет Фэндом, Часть 5: Большая Лига**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Да будет Фэндом, Часть 6: Профессионалы!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Да будет Фэндом, Часть 7: Крестовый поход**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 
 ### 25 комментариев
 
 - [Mike Weasner](https://web.archive.org/web/20091129084918/http://www.weasner.com/) говорит:
 Продолжай!
-[**17 сентября 2009 г., 13:51**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 13:51**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Jeff Berkwits says:
 Фред — ты также был частью другой Лиги Научной Фантастики, если я правильно помню — Американской Лиги Научной Фантастики, которая была основана в начале 1950-х годов для телешоу Tales of Tomorrow. У тебя есть какие-нибудь воспоминания об этой Лиге? Я провел довольно много исследований по шоу, и всякий раз, когда я упоминаю эту Лигу, я всегда получаю воспоминания о той, которую ты упоминаешь здесь в блоге. Однако я знаю, что ты был частью обеих Лиг, поэтому хотел бы услышать твои воспоминания/мысли о версии 1950-х годов.
-[**17 сентября 2009 г., 14:27**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 14:27**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Johan Anglemark](https://web.archive.org/web/20091129084918/http://www.fandom.se/forum) говорит:
 Фред,
 Непременно, больше такого материала. Как и все разумные существа, я ценю возможность узнать об истории моего племени.
 -j
-[**17 сентября 2009 г., 14:48**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 14:48**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Jessica says:
 «Скажите, хотите ли вы увидеть больше такого, если я смогу что-нибудь найти».
 Я, по крайней мере, люблю читать такую историю НФ/фэндома!
-[**17 сентября 2009 г., 14:51**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 14:51**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Lee Gold](https://web.archive.org/web/20091129084918/http://www.conchord.org/xeno/leegold.html) говорит:
 Да, пожалуйста, напиши больше о Лиге НФ и других элементах «Хороших старых времен».
 –Ли Голд, веб-сотрудник Лос-Анджелесского общества науки и фантастики (http://www.lasfs.org), которое началось как четвертое отделение Лиги НФ и продолжает собираться с тех пор.
-[**17 сентября 2009 г., 15:34**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 15:34**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Ross Presser says:
 Эм, твоя математика кажется неверной.
 «Арифметика этой ситуации была довольно простой. Если бы семьдесят процентов его читателей, которые в среднем покупали три выпуска в год, могли бы убедить купить каждый выпуск, он бы *утроил* свои продажи».
@@ -135,23 +135,23 @@ translator: "Gemini"
 
 БУДУЩИЕ ПРОДАЖИ / ТЕКУЩИЕ ПРОДАЖИ = 12 / 5,7 = **2,10**
 Так что, чуть больше чем в два раза, а не в три.
-[**17 сентября 2009 г., 17:29**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 17:29**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Ross Presser says:
 аргх, опечатка в предпоследней строке математики, но это не влияет на результат, потому что я исправил ее в следующем выражении.
 БУДУЩИЕ ПРОДАЖИ = ФАНАТЫ * 12 + ПОКУПАЮЩИЕ ВРЕМЯ ОТ ВРЕМЕНИ * **12** = ЧИТАТЕЛИ * 0,3 * 12 + ЧИТАТЕЛИ * 0,7 * 12 = ЧИТАТЕЛИ * 12
-[**17 сентября 2009 г., 17:31**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 17:31**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Ken Houghton](https://web.archive.org/web/20091129084918/http://angrybear.blogspot.com/) says:
 Если 70% читателей читают 25% выпуска, это эквивалентно 0,175 прочитанным, а не 0,7, нет?
 Расчет Росса Прессера верен, хотя. Я хочу печатать 400 выпусков в месяц. 120 из них проданы и прочитаны. В любом месяце 210 выпусков не продаются, потому что 75% из 70% не покупают. Так что сейчас я могу продать только 190 выпусков, но если бы все эти случайные покупатели покупали каждый месяц, было бы продано 400.
 400/190 = 2,105.
-[**17 сентября 2009 г., 19:44**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 19:44**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [wishnevsky](https://web.archive.org/web/20091129084918/http://bellsouth.net/) says:
 Пожалуйста, сэр, можно мне еще? Мне нравится идея, что все идеи были новыми. И теперь гораздо труднее придумывать новые идеи, а НФ стала более манерной и стильной. Я не сомневаюсь, что это к лучшему, но мне нравятся планетокрушители, черт возьми.
-[**17 сентября 2009 г., 22:56**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 22:56**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Stefan Jones](https://web.archive.org/web/20091129084918/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) says:
 Да, продолжай.
 Последние остатки империи Гернсбека имели офис в том же здании, что и мой первый работодатель. Это было 22 года назад. Они все еще издавали несколько электронных журналов. Я зашел однажды; секретарь знала о связи с НФ, но для нее это было просто историческим курьезом. На стене не было никаких фотографий в честь или чего-то подобного.
-[**17 сентября 2009 г., 23:08**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**17 сентября 2009 г., 23:08**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Marc](https://web.archive.org/web/20091129084918/http://www.amazon.co.uk/gp/reader/0575078995/ref=sib_dp_pt#reader-page) says:
 Эта запись становится все больше похожей на страницы «Врат» с каждой минутой!
 IRRAY
@@ -159,72 +159,72 @@ IRRAY
 GOTO
 
 EXTERNALS
-[**18 сентября 2009 г., 7:35**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 7:35**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Robert Nowall](https://web.archive.org/web/20091129084918/http://www.robertnowall.com/) says:
 Знаешь, я думаю, я тоже видел это раньше, но не помню где.
 С тех пор как я переставил эти картонные коробки в своей так называемой «библиотеке», добраться до большинства моих НФ-книг стало очень трудно… времени сегодня немного, и то, до чего я смог добраться, я не смог найти… у меня есть пара других идей, где поискать, но я вернусь к тебе позже.
-[**18 сентября 2009 г., 11:00**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 11:00**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [DA Cairns](https://web.archive.org/web/20091129084918/http://dacairns.blogspot.com/) says:
 Интересная статья. Интересно, как научная фантастика сегодня выглядит по сравнению с другими жанрами. Существуют миллиарды (небольшое преувеличение) веб-сайтов/электронных журналов/журналов и т. д., и, предположительно, миллиарды читателей и писателей научной фантастики, включая меня. В SFL было 490 членов, но интересно, сколько сегодня фанатов научной фантастики, и какой процент они составляют. Просто любопытно. Есть ли у кого-нибудь статистика?
 Разве закон Старджона не является полностью субъективным? Если так, не хотели бы вы прочитать мою книгу «Devolution» и посмотреть, относится ли она к 90 или к 10?
 проверьте ее по адресу [http://dacairns.blogspot.com](https://web.archive.org/web/20091129084918/http://dacairns.blogspot.com/)
-[**18 сентября 2009 г., 17:19**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 17:19**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20091129084918/http://beamjockey.livejournal.com/) says:
 Фред, твой вспомогательный персонал, должно быть, веселится, вставляя ссылки на старый фэндомный фольклор. Привет, вспомогательный персонал!
 Журнал LIFE прислал фотографа снимать Хьюго Гернсбека. Вот фотография (ранее неопубликованная, я полагаю) г-на Герна в макете одного из его изобретений, «Телеочков» — он был мастером неловких неологизмов.
 [http://images.google.com/hosted/life/l?imgurl=0fd8a575602b83dc](https://web.archive.org/web/20091129084918/http://images.google.com/hosted/life/l?imgurl=0fd8a575602b83dc)
 Обратите внимание, что комната украшена посмертной маской Николы Теслы.
-[**18 сентября 2009 г., 17:33**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 17:33**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [loquacious](https://web.archive.org/web/20091129084918/http://www.metafilter.com/user/17349) says:
 Еще такого, мистер Пол. Спасибо.
 И я согласен, будущее уже не то, что раньше. Я огромный фанат НФ, и, как многие, я им был с детства. Хотя я достаточно стар, чтобы помнить, как видел оригинальные «Звездные войны» в кинотеатрах, но недостаточно стар, чтобы помнить оригинальный «Звездный путь» в его первой трансляции — для меня всегда были важны книги и письменные истории. Письменное слово — это всегда самое передовое, учитывая низкий барьер для производства и входа по сравнению с фильмами или сериалами.
 Начиная с таких авторов, как Браннер, Ле Гуин, Воннегут, Брэдбери, Бэнкс, Беар, ПКД, Старджон (личный фаворит) — и, конечно, Азимов, Кларк и вы сами — возвращаясь и читая некоторые рассказы из Amazing Stories и других старых НФ — или, не дай бог, я убью священную корову — рассказы г-на Смита о Ленсмане — может быть довольно болезненным.
 Вот, я сказал это. 90% всего — это дрянь, действительно. Я благодарен за более зрелый рынок НФ.
-[**18 сентября 2009 г., 19:22**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 19:22**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Larry Steckler says:
 Для получения дополнительной информации о Хьюго Гернсбеке ознакомьтесь с [новой биографией, доступной на Amazon](https://web.archive.org/web/20091129084918/http://www.amazon.com/Hugo-Gernsback-Well-Ahead-Time/dp/1419658573/ref=7159-20).
 Этот документ был найден мной, когда мы закрыли Gernsback Publications в 2003 году. Это была старая рукопись, которую я отредактировал и выпустил в виде книги.
 Перейдите по ссылке, и вы сможете перейти к книге, а благодаря функции «просмотр внутри» Amazon вы даже сможете получить представление о том, что она охватывает.
 Надеюсь, вам будет интересно.
 Для получения дополнительной информации не стесняйтесь обращаться ко мне, Ларри Стеклеру, по адресу [PoptronixInc@aol.com](https://web.archive.org/web/20091129084918/mailto:PoptronixInc@aol.com)
-[**18 сентября 2009 г., 19:25**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 19:25**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [David Dyer-Bennet](https://web.archive.org/web/20091129084918/http://dd-b.net/) says:
 Также заинтересован в том, чтобы увидеть больше. Ваша книга о Футурианах была одной из первых мемуаров людей из фэндома НФ, которые я прочитал, примерно тогда, когда она вышла, и до сих пор остается одной из лучших (и я получил новую книгу Боба Силверберга в этой области вчера). Название вашего блога ссылается на это, так что кажется совершенно уместным расширить или дополнить эту историю для нас.
-[**18 сентября 2009 г., 19:45**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**18 сентября 2009 г., 19:45**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - David Bratman says:
 Я могу сказать вам, где вы это опубликовали. С лишь несколькими незначительными отличиями, это вступительная часть второй главы «The Way the Future Was».
 Это было здорово читать в книге, и до сих пор.
-[**19 сентября 2009 г., 13:47**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**19 сентября 2009 г., 13:47**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Scott Hauger](https://web.archive.org/web/20091129084918/http://www.jscotthauger.com/) says:
 Еще, пожалуйста.
-[**19 сентября 2009 г., 19:32**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**19 сентября 2009 г., 19:32**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Russ Watkins says:
 Мне нравится это — как и многие другие здесь, я вырос на произведениях всех классических великих НФ. Я уверен, что в свое время я не смог бы это оценить (истории о прошлом, без единого звездолета?), но во взрослом возрасте реальный контекст становится все более увлекательным.
-[**21 сентября 2009 г., 00:40**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**21 сентября 2009 г., 00:40**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Robert Lichtman says:
 Я подумал, что «Да будет Фэндом» имеет знакомые отголоски — и пусть Дэвид Братман займется поиском и находкой.
 Но да, я хотел бы еще, если вы найдете больше — и не уйду без слова благодарности за «Квадрумвират» тоже.
 –Роберт Лихтман
 
   Секретарь-казначей FAPA (1986-настоящее время)
-[**21 сентября 2009 г., 15:43**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**21 сентября 2009 г., 15:43**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Cal Anctus says:
 Дэвид Братман прав. По удивительному совпадению, я сегодня прочитал опубликованную главу в «The Way the Future Was» впервые, а затем зашел в этот блог.
 Определенно, если есть еще, было бы здорово увидеть!
-[**21 сентября 2009 г., 20:06**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**21 сентября 2009 г., 20:06**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Richard Robinson](https://web.archive.org/web/20091129084918/http://brokenbullhorn.wordpress.com/) says:
 Да, Фред, еще, пожалуйста. Пожалуйста! Кажется, я никогда не устаю от такого.
-[**22 сентября 2009 г., 11:04**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**22 сентября 2009 г., 11:04**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Teri says:
 Мне это нравится! Те из нас, кто не жил в то время, все еще очарованы ранними годами жанра!
-[**23 сентября 2009 г., 9:23**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**23 сентября 2009 г., 9:23**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Joan Fong (Han May) says:
 Фред,
 Помнишь, как мы были в Сингапуре (1985) и там была девушка, Хан Мэй, которая написала «Star Sapphire» — первый научно-фантастический роман Сингапура? Это я.
 Очень рад найти тебя все еще продуктивным через 20 лет после той встречи. Я остановился после этого одного романа и, если вы не возражаете, поместил ваш комментарий в аннотацию. Даже сейчас, 20 лет спустя, я все еще получаю письма от фанатов и запросы на книгу, что неплохо.
 Ты, наверное, уже забыл меня, но я все еще считаю большой честью обедать с тобой и твоей женой. Я нахожу эту тему фэндома НФ очень знакомой и похожей на мои ранние годы чтения НФ.
 Джоан Хон
-[**2 октября 2009 г., 4:18**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**2 октября 2009 г., 4:18**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 [WordPress](https://web.archive.org/web/20091129084918/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091129084918/http://dicksmithsoftware.com/)

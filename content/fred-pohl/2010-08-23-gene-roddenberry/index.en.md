@@ -4,9 +4,9 @@ date: 2010-08-23
 categories: ["Personal", "Writing"]
 tags: ["Conventions", "Editors", "Food", "Gene Roddenberry", "Hollywood", "Hugo Awards", "Majel Barrett", "Prozines", "Television", "Worldcons"]
 archive_url: "https://web.archive.org/web/20131010195428/http://www.thewaythefutureblogs.com/2010/08/gene-roddenberry/"
-prev_post_url: "/posts/2010-08-20-evolution-in-italy/"
+prev_post_url: "/fred-pohl/2010-08-20-evolution-in-italy/"
 prev_post_title: "Evolution in Italy"
-next_post_url: "/posts/2010-08-27-raising-star-trek-from-the-dead/"
+next_post_url: "/fred-pohl/2010-08-27-raising-star-trek-from-the-dead/"
 next_post_title: "RaisingStar Trekfrom the Dead"
 translated: false
 ---
@@ -88,23 +88,23 @@ One of the confederates turned out to be me.  To find out more about it, however
 
 **Related posts:**  
 
-[**Raising Star Trek from the Dead**](/posts/2010-08-27-raising-star-trek-from-the-dead/)
+[**Raising Star Trek from the Dead**](/fred-pohl/2010-08-27-raising-star-trek-from-the-dead/)
 
 
 ### 4 Comments
 
 - Grego says:
 Thanks for the cliffhanger, Fred.  I look forward to more of your story!
-[**August 23, 2010, 1:23 am**](/posts/2010-08-23-gene-roddenberry/)
+[**August 23, 2010, 1:23 am**](/fred-pohl/2010-08-23-gene-roddenberry/)
 - [Jerry](https://web.archive.org/web/20131010195428/http://triplanetary.blogspot.com/) says:
 It’s too bad you didn’t have any luck writing episodes for the show. I always liked the ones Sturgeon did and I’m sure yours would have been just as enjoyable.
-[**August 23, 2010, 9:01 pm**](/posts/2010-08-23-gene-roddenberry/)
+[**August 23, 2010, 9:01 pm**](/fred-pohl/2010-08-23-gene-roddenberry/)
 - Neil in Chicago says:
 That may be the most enormous *To be continued. . . .*  in history.
-[**August 29, 2010, 4:44 pm**](/posts/2010-08-23-gene-roddenberry/)
+[**August 29, 2010, 4:44 pm**](/fred-pohl/2010-08-23-gene-roddenberry/)
 - Alex Dering says:
 Great story. I will think of it every time I see a white carpet.
-[**September 6, 2010, 10:35 am**](/posts/2010-08-23-gene-roddenberry/)
+[**September 6, 2010, 10:35 am**](/fred-pohl/2010-08-23-gene-roddenberry/)
 
 [WordPress](https://web.archive.org/web/20131010195428/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131010195428/http://dicksmithsoftware.com/)

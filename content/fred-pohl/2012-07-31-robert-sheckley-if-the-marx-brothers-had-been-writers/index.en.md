@@ -4,7 +4,7 @@ date: 2012-07-31
 categories: ["Authors"]
 tags: ["Ben Bova", "Carol Pohl", "Damon Knight", "Elizabeth Anne Hull", "Harlan Ellison", "New York", "Prozines", "Robert Sheckley", "William Tenn"]
 archive_url: "https://web.archive.org/web/20160702093614/http://www.thewaythefutureblogs.com/2012/07/robert-sheckley/"
-prev_post_url: "/posts/2012-07-30-ben-bova-from-nuts-and-bolts-to-eternity/"
+prev_post_url: "/fred-pohl/2012-07-30-ben-bova-from-nuts-and-bolts-to-eternity/"
 prev_post_title: "Ben Bova: From Nuts and Bolts to Eternity"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 {{< figure src="Sheckley-Robert-1968.jpg" alt="Robert Sheckley in 1968." caption="Robert Sheckley in 1968." >}}
 
 
-[Robert Sheckley](https://web.archive.org/web/20160702093614/http://www.sheckley.com/) was a great — and greatly funny — writer of science-fiction short stories.  Along with “[**William Tenn**](/posts/2010-02-13-william-tenn-aka-phil-klass-1920-2010/)” (aka Phil Klass) and [damon knight](https://web.archive.org/web/20160702093614/http://www.gcwillick.com/Spacelight/DKnight.html), he filled the magazines in that thrice-blessed decade of the ’60s with an apparently infinite supply of great little comic stories.  When I say there was nothing like them before or after I know whereof I speak, because by the time the ’60s came along, I was a magazine editor desperate to find writers like them that I could publish.  Oh, I did find some, including some really good ones, but no masterpiece-a-week humor generators like those.
+[Robert Sheckley](https://web.archive.org/web/20160702093614/http://www.sheckley.com/) was a great — and greatly funny — writer of science-fiction short stories.  Along with “[**William Tenn**](/fred-pohl/2010-02-13-william-tenn-aka-phil-klass-1920-2010/)” (aka Phil Klass) and [damon knight](https://web.archive.org/web/20160702093614/http://www.gcwillick.com/Spacelight/DKnight.html), he filled the magazines in that thrice-blessed decade of the ’60s with an apparently infinite supply of great little comic stories.  When I say there was nothing like them before or after I know whereof I speak, because by the time the ’60s came along, I was a magazine editor desperate to find writers like them that I could publish.  Oh, I did find some, including some really good ones, but no masterpiece-a-week humor generators like those.
 
 
 I had met Sheckley when he was just beginning his run of great comic stories.  [Harlan Ellison](https://web.archive.org/web/20160702093614/http://www.thewaythefutureblogs.com/2011/12/harlan-ellison/) had written about him, saying,  “If the Marx Brothers had been writers they would have been Robert Sheckley,”  and I had made a point of getting some of his published stories to check it out for myself.  When we turned out to be attending the same party I made it a point to get a conversation going with him.  We were getting along pretty well, and when I mentioned that my house was on a tidal river he got interested quickly.  “You do?  Well, I’ve got this boat that I don’t take out much because I don’t know many people who live on the water.  Maybe I could come get you and take you out for a spin.”
@@ -42,7 +42,7 @@ Some times a higher-paying editor will help a writer along, as Playboy’s ficti
 Of course, those weren’t the only sales I made for Bob.  I got him into some TV spots, from which he later got himself into better and better ones, and into double-selling reprints of his work to mostly paperback book publishers, and we became friends.
 
 
-Then for quite a while I pretty much lost touch with Bob.  It wasn’t as much of a blow as you might think, because nearly everyone did.   He was doing well, but he was wandering the face of the Earth.  What brought him back to New York was a job with [**Omni**](/posts/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/).  When [**Ben Bova**](/posts/2012-07-30-ben-bova-from-nuts-and-bolts-to-eternity/) was elevated from Fiction Editor to Editor in Chief he chose Bob to take over the fiction.  It was a good job, paid pretty well.  And Bob had always wanted to be an editor for a while.
+Then for quite a while I pretty much lost touch with Bob.  It wasn’t as much of a blow as you might think, because nearly everyone did.   He was doing well, but he was wandering the face of the Earth.  What brought him back to New York was a job with [**Omni**](/fred-pohl/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/).  When [**Ben Bova**](/fred-pohl/2012-07-30-ben-bova-from-nuts-and-bolts-to-eternity/) was elevated from Fiction Editor to Editor in Chief he chose Bob to take over the fiction.  It was a good job, paid pretty well.  And Bob had always wanted to be an editor for a while.
 
 
 Only, of course, there were problems.
@@ -85,27 +85,27 @@ I miss Bob.  He was a lot of fun, but mostly for others and maybe not so much fo
 
 - EdS says:
 Robert Sheckley was an hilarious writer. I remember reading his stuff when I was young, a lot of it now collected in two volumes from NESFA press. Highly recommended.
-[**August 1, 2012, 2:09 pm**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**August 1, 2012, 2:09 pm**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 - [steve davidson](https://web.archive.org/web/20160702093614/http://www.amazingstoriesmag.com/) says:
 ‘Can You Feel Anything When I Do This?’ was a total eye-opener for me when I first read it.  It’s the first SF story I ever read that showed me it was possible for SF to “handle” more mature themes.  And funny?  It’s the definition of comedic SF.
 Thanks for reminding us
-[**August 2, 2012, 7:49 am**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**August 2, 2012, 7:49 am**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 - Ken says:
 That’s the trouble with giving honest advice, people always insist they want it, but half the time end up blaming you for whatever decision they make.
-[**August 2, 2012, 6:26 pm**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**August 2, 2012, 6:26 pm**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 - [John C. Boland](https://web.archive.org/web/20160702093614/http://www.johncboland.com/) says:
 What a treat. Thank you.
-[**August 7, 2012, 9:38 am**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**August 7, 2012, 9:38 am**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 - Silvio Sosio says:
 I met Robert Sheckley a couple of times here in Italy, few years before he died. He had been in my house and smoked cigarettes on my balcony. To me he was like an Indian guru. He looked as if he had experience of all the things in the world, all the sufferings and all the pleasures, and nothing really mattered for him anymore. One night we went downtown to eat a pizza, and there was no parking and I had to park a long way from the restaurant, and we – the young ones – were pissed off of that, but he, who looked even elder than he was, didn’t mind at all. He walked for about two kilometres without complaining, chatting with us, with few words, as always.
-[**August 8, 2012, 3:44 pm**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**August 8, 2012, 3:44 pm**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 - [Ellen Datlow](https://web.archive.org/web/20160702093614/http://www.datlow.com/) says:
 Bob was blocked for years.  He got the OMNI job and held it for 1 ½ years or so. Jay Rothbell and he started dating and he started writing again. He asked for a two month leave of absence, which he got the summer of 1980. In September he asked for another month’s leave of absence. Ben said no so Bob left and I was promoted Fiction Editor, after being Associate fiction editor for the entire time Bob was there.
 End of story.
-[**August 17, 2012, 3:00 pm**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**August 17, 2012, 3:00 pm**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 - James Van Hise says:
 You kind of left out Sheckley’s drug problems, which no one seems to want to talk about. Even after he died the obituaries would dance around it and try not to come right out and say that this was why he was blocked. Some 30 years ago Douglas Adams (who had just become an overnight success and a bestselling SF writer) gave a guest of honor talk at a convention and he came right out and said that he was doing the kind of writing that Robert Sheckley would be doing if he hadn’t burned himself out on drugs.
-[**September 4, 2012, 7:14 pm**](/posts/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
+[**September 4, 2012, 7:14 pm**](/fred-pohl/2012-07-31-robert-sheckley-if-the-marx-brothers-had-been-writers/)
 
 [WordPress](https://web.archive.org/web/20160702093614/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160702093614/http://dicksmithsoftware.com/)

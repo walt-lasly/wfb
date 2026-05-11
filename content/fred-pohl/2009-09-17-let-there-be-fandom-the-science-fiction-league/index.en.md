@@ -4,9 +4,9 @@ date: 2009-09-17
 categories: ["Personal"]
 tags: ["Editors", "History", "Hugo Gernsback", "John W. Campbell", "Prozines", "Pulps", "Science Fiction League", "Television", "Theodore Sturgeon"]
 archive_url: "https://web.archive.org/web/20091129084918/http://www.thewaythefutureblogs.com/2009/09/let-there-be-fandom-the-science-fiction-league/"
-prev_post_url: "/posts/2009-09-11-dick/"
+prev_post_url: "/fred-pohl/2009-09-11-dick/"
 prev_post_title: "Dick"
-next_post_url: "/posts/2009-09-25-some-feedback-finally/"
+next_post_url: "/fred-pohl/2009-09-25-some-feedback-finally/"
 next_post_title: "Some Feedback. Finally"
 translated: false
 ---
@@ -88,36 +88,36 @@ But whatever the SFL did for Gernsback, it did an awful lot for us practitioners
 
 **Related posts:**
 
-- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
-- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**The Quadrumvirate**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom, Part 2: School Days**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 
 ### 25 Comments
 
 - [Mike Weasner](https://web.archive.org/web/20091129084918/http://www.weasner.com/) says:
 Keep ‘em coming!
-[**September 17, 2009, 1:51 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 1:51 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Jeff Berkwits says:
 Fred - you were also part of another Science Fiction League, if I recall - the Science Fiction League of America, which was started in the early 1950s for the TV show Tales of Tomorrow. Do you have any memories of that League? I’ve done quite a bit of research on the show, and whenever I bring up that League I always get recollections from the one you refer to here in the blog. Yet I know you were part of both Leagues, so would love to hear your memories/thoughts on the 1950s version.
-[**September 17, 2009, 2:27 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 2:27 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Johan Anglemark](https://web.archive.org/web/20091129084918/http://www.fandom.se/forum) says:
 Fred,
 By all means, more of this stuff. Like all sensible beings, I appreciate hearing about the history of my tribe.
 -j
-[**September 17, 2009, 2:48 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 2:48 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Jessica says:
 \"Tell me if you’d like to see more of this kind of thing, assuming I can find any.\"
 I for one love reading this sort of scifi/fandom history! 
-[**September 17, 2009, 2:51 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 2:51 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Lee Gold](https://web.archive.org/web/20091129084918/http://www.conchord.org/xeno/leegold.html) says:
 Yes, please write more about the SF League and other elements of the Good Very Old Days.
 –Lee Gold, webstaffr for the Los Angeles Science Fantasy Society (http://www.lasfs.org) which began as the fourth chapter of the SF League and which has continued meeting since then.
-[**September 17, 2009, 3:42 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 3:42 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Ross Presser says:
 Um, your math seems off.
 “The arithmetic of that situation was pretty easy to figure. If the seventy percent of his readers who averaged three issues a year could be persuaded to buy every issue, he would *triple* his sales.”
@@ -134,23 +134,23 @@ IFSALES = FANS*12 + INOUT*3 = READS * 0.3 * 12 + READS * 0.7 * 12 = READS * 12
 
 IFSALES / NOWSALES = 12/5.7 = **2.10**
 So, a little over double, not triple.
-[**September 17, 2009, 5:29 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 5:29 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Ross Presser says:
 argh, typo in the next to last line of the math, but it doesn\’t affect the result because I got it correct in the next expression.
 IFSALES = FANS*12 + INOUT*<b>12</b> = READS * 0.3 * 12 + READS * 0.7 * 12 = READS * 12
-[**September 17, 2009, 5:31 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 5:31 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Ken Houghton](https://web.archive.org/web/20091129084918/http://angrybear.blogspot.com/) says:
 If 70% of the readers are reading 25% of the issue, that equates to 0.175 reads, not 0.7, no?
 Ross Presser’s calc is correct, though. I want to print 400 issues a month.  120 of them are sold and read.  In any given month, 210 issues don’t get sold, because 75% of the 70% aren’t buying. So I can only sell 190 issues now, but if all those casual ones bought every month, it would sell 400.
 400/190 = 2.105.
-[**September 17, 2009, 7:44 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 7:44 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [wishnevsky](https://web.archive.org/web/20091129084918/http://bellsouth.net/) says:
 Please, sir, may i have some more? I like the idea that all ideas were knew. And now it is a lot harder to come up with new ideas, and SF has become more mannered and stylish. I don’t doubt it’s all for the good, but i like the planet smashers, durn it.
-[**September 17, 2009, 10:56 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 10:56 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Stefan Jones](https://web.archive.org/web/20091129084918/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) says:
 Yes, keep it coming.
 The last vestiges of Gernsback’s empire had its office in the same building as my first employer. This was 22 years ago. They still published a few electronics magazines. I stopped by once; the receptionist knew the SF connection but it was just a historical curiosity to her. There were no tribute photos on the wall or anything like that.
-[**September 17, 2009, 11:08 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 17, 2009, 11:08 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Marc](https://web.archive.org/web/20091129084918/http://www.amazon.co.uk/gp/reader/0575078995/ref=sib_dp_pt#reader-page) says:
 This entry is reading more and more like the pages of Gateway by the minute!  
 IRRAY  
@@ -158,72 +158,72 @@ IRRAY
 GOTO  
 
 EXTERNALS
-[**September 18, 2009, 7:35 am**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 7:35 am**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Robert Nowall](https://web.archive.org/web/20091129084918/http://www.robertnowall.com/) says:
 Y’know, I think I’ve seen it before, too, but I can’t remember where.
 Since I moved those cardboard boxes in my so-called “library,” it takes a lot of digging to get through to most of my SF books…time is a little short today, and what I could get to I couldn’t find it in…I’ve got a couple of other ideas of where to look but I’ll have to get back to you on that.
-[**September 18, 2009, 11:00 am**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 11:00 am**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [DA Cairns](https://web.archive.org/web/20091129084918/http://dacairns.blogspot.com/) says:
 Interesting piece. I wonder how science fiction stacks up against other genres today. There are billions, (slight exaggeration) of websites/e-zines/magazines etc and presumably multiple billions of readers and writers of science fiction, including me. The SFL had 490 members but I wonder how many sci-fi fans there are today, and what percentages they represent. Just curious. Does anyone have any stats?
 Isn’t Sturgeon’s Law entirely subjective? If so, would any of you like to read my book, Devolution, and see whether it’s in the 90 or the 10?
 check it out at [http://dacairns.blogspot.com](https://web.archive.org/web/20091129084918/http://dacairns.blogspot.com/)
-[**September 18, 2009, 5:19 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 5:19 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20091129084918/http://beamjockey.livejournal.com/) says:
 Fred, your support staff must be having fun putting in the links to old fannish lore.  Hello, support staff!
 LIFE magazine sent a photographer to shoot Hugo Gernsback.  Here’s a photo (previously unpublished, I believe) of Mr. G wearing a mockup of one of his inventions, “Teleyeglasses” –he was a master of the awkward neologism.
 [http://images.google.com/hosted/life/l?imgurl=0fd8a575602b83dc](https://web.archive.org/web/20091129084918/http://images.google.com/hosted/life/l?imgurl=0fd8a575602b83dc)
 Note that the room is decorated by a death mask of Nicola Tesla.
-[**September 18, 2009, 5:33 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 5:33 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [loquacious](https://web.archive.org/web/20091129084918/http://www.metafilter.com/user/17349) says:
 More of this kind of thing, Mr. Pohl. Thank you.
 And I agree, the future isn’t what it used to be. I’m a huge SF fan, and like many I have been since I was a kid. Though I’m old enough to remember seeing the original Star Wars in the theaters, but not quite old enough to remember the original Star Trek as it was first broadcast - it was always about the books and written stories for me. The written word is always the most cutting edge stuff, what with the low barrier to production and entry compared to movies or serial TV shows.
 Having cut my teeth on the likes of Brunner, Le Guin, Vonnegut, Bradbury, Banks, Bear, PKD, Sturgeon (personal favorite) - and of course Asimov and Clarke and yourself - going back and reading some of the stories from Amazing Stories and other older SF - or, heaven forbid I slaughter a sacred cow - Mr. Smith’s Lensman stories - can be rather painful.
 There, I said it. 90% of everything is crud, indeed. I’m thankful for a more mature SF market, I am.
-[**September 18, 2009, 7:22 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 7:22 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Larry Steckler says:
 For more information on Hugo Gernsback check out a [new biography available on Amazon](https://web.archive.org/web/20091129084918/http://www.amazon.com/Hugo-Gernsback-Well-Ahead-Time/dp/1419658573/ref=7159-20).
 The document was found by me when we closed down Gernsback Publications in 2003. It was an old ms that I edited and produced as a book.
 Follow the link and you can go to the book and thanks to Amazon’s “look inside” feature, you can even get an idea of what it covers.
 Hope you find it interesting.
 For more information feel free to contact me, Larry Steckler, at [PoptronixInc@aol.com](https://web.archive.org/web/20091129084918/mailto:PoptronixInc@aol.com)
-[**September 18, 2009, 7:25 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 7:25 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [David Dyer-Bennet](https://web.archive.org/web/20091129084918/http://dd-b.net/) says:
 Also interested in seeing more.  Your book on the Futurians was one of the first of the memoirs of people in SF fandom that I read, back around when it came out, and still ranks among the best (and I was given Bob Silverberg’s new book in that area just yesterday).  The title of your blog references that, so it seems entirely proper to flesh out or extend that story for us.
-[**September 18, 2009, 7:45 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 18, 2009, 7:45 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - David Bratman says:
 I can tell you where you published this.  With only a few slight differences, it’s the opening section of chapter two of “The Way the Future Was.”
 It was great reading in the book, and it still is.
-[**September 19, 2009, 1:47 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 19, 2009, 1:47 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Scott Hauger](https://web.archive.org/web/20091129084918/http://www.jscotthauger.com/) says:
 More, please.
-[**September 19, 2009, 7:32 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 19, 2009, 7:32 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Russ Watkins says:
 I love this stuff - like many others here I grew up on the writings of all of the classic SF greats.  I’m certain I wouldn’t have been able to appreciate it at one time (stories about the past, without nary a starship in sight?) but as an adult the real context becomes ever more fascinating.
-[**September 21, 2009, 12:40 am**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 21, 2009, 12:40 am**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Robert Lichtman says:
 I thought “Let There Be Fandom” has familiar echoes — and leave it to David Bratman to do the searching and the finding.
 But yes, I would like more if you find more — and let me not exit without a word of appreciation for “The Quadrumvirate,” too.
 –Robert Lichtman  
 
   Secretary-Treasurer FAPA (1986-still)
-[**September 21, 2009, 3:43 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 21, 2009, 3:43 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Cal Anctus says:
 David Bratman is correct. By an amazing coincidence, I read the published chapter in “The Way the Future Was” just today, for the first time, then came to visit this blog. 
 Definitely, if there’s more, it would be great to see!
-[**September 21, 2009, 8:06 pm**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 21, 2009, 8:06 pm**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - [Richard Robinson](https://web.archive.org/web/20091129084918/http://brokenbullhorn.wordpress.com/) says:
 Yes, Fred, more, please. Please! It seems I never tire of this sort of thing.
-[**September 22, 2009, 11:04 am**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 22, 2009, 11:04 am**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Teri says:
 Love this!  Those of us who didn’t live through it are still fascinated by the early years of the genre!
-[**September 23, 2009, 9:23 am**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**September 23, 2009, 9:23 am**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 - Joan Fong (Han May) says:
 Fred, 
 Remember being in Singapore (1985) and there was this girl, Han May, who wrote “Star Sapphire” — Singapore’s first Sci-fi novel?  That’s me.
 So glad to find you still prolific 20 years after that meeting. I stopped after that one novel, and put your comment in the blurb if you don’t mind. Even now, 20 years later, I still get fan mail and requests for the book, which is not bad. 
 You will have forgotten me by now, I’m sure, but I still consider it a great privilege to have had lunch with you and your wife. I find this sci-fi fandom topic very familiar and similar to my early years reading sci-fi. 
 Joan Hon
-[**October 2, 2009, 4:18 am**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**October 2, 2009, 4:18 am**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 [WordPress](https://web.archive.org/web/20091129084918/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091129084918/http://dicksmithsoftware.com/)

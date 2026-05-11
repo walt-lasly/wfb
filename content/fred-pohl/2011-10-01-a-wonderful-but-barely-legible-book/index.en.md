@@ -4,9 +4,9 @@ date: 2011-10-01
 categories: ["Books"]
 tags: ["Leigh Ronald Grossman"]
 archive_url: "https://web.archive.org/web/20210401000000/http://www.thewaythefutureblogs.com/2011/10/a-wonderful-but-barely-legible-book/"
-prev_post_url: "/posts/2011-09-22-a-little-more-about-jack-robins/"
+prev_post_url: "/fred-pohl/2011-09-22-a-little-more-about-jack-robins/"
 prev_post_title: "A Little More About Jack Robins"
-next_post_url: "/posts/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
+next_post_url: "/fred-pohl/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
 next_post_title: "Oh, Good!  The Computers Have Come!No More Worries, Ever!"
 translated: false
 ---
@@ -45,11 +45,11 @@ And there is a way of overcoming the book’s typographical defects.  That is to
 Thanks for the kind words. There will indeed be an ebook version very shortly.
 A lot of the text is set very small - in 8 point type, though with short columns to keep it readable. The idea was to fit as many stories as possible while keeping the book inexpensive for the college students who will be its main audience. Luckily, they have 20-year-old eyes; I thought they would appreciate having a $50 textbook with small type over a $150 one with larger type. At approximately 2 million words, I think it’s the largest single-volume SF anthology out there.
 I want to thank you again for your contributions to the book, both direct (the story and blog excerpt you kindly gave permission to use) and indirect (the huge “mentoring” role that so many of the books and magazines you edited played in how I went about editing this book). I wanted to convey the relationship between writing, editing, and fandom that’s so vital to the field but tends to get left out of other SF texts.
-[**October 1, 2011, 2:06 pm**](/posts/2011-10-01-a-wonderful-but-barely-legible-book/)
+[**October 1, 2011, 2:06 pm**](/fred-pohl/2011-10-01-a-wonderful-but-barely-legible-book/)
 - Megazver says:
 The suggested tags are certainly something.
 The book itself sounds great, but it does seem to cry out for a Kindle edition. Thank you.
-[**October 1, 2011, 5:52 pm**](/posts/2011-10-01-a-wonderful-but-barely-legible-book/)
+[**October 1, 2011, 5:52 pm**](/fred-pohl/2011-10-01-a-wonderful-but-barely-legible-book/)
 
 [WordPress](https://web.archive.org/web/20111004133811/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111004133811/http://dicksmithsoftware.com/)

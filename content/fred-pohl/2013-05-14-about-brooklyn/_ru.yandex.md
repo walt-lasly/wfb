@@ -4,9 +4,9 @@ date: 2013-05-14
 categories: ["Personal"]
 tags: ["New York"]
 archive_url: "https://web.archive.org/web/20260201000000/http://www.thewaythefutureblogs.com/2013/05/about-brooklyn/"
-prev_post_url: "/posts/2013-05-12-dung-into-dollars/"
+prev_post_url: "/fred-pohl/2013-05-12-dung-into-dollars/"
 prev_post_title: "Dung into dollars"
-next_post_url: "/posts/2013-05-17-how-to-paralyze-the-senate/"
+next_post_url: "/fred-pohl/2013-05-17-how-to-paralyze-the-senate/"
 next_post_title: "How to Paralyze the Senate"
 translated: false
 translator: "Yandex"
@@ -44,7 +44,7 @@ translator: "Yandex"
 - [Филлип Хелбиг](https://web.archive.org/web/20170620024621/http://www.astro.multivax.de:8000/helbig/helbig.html) говорит:
 Что это был за город в Германии?
 Я иммигрировал в другом направлении, гораздо позже.  У одного из моих сыновей второе имя Фредерик, даже с таким же написанием.
-[** 29 мая 2013 года, 3:59 утра**](/posts/2013-05-14-about-brooklyn/)
+[** 29 мая 2013 года, 3:59 утра**](/fred-pohl/2013-05-14-about-brooklyn/)
 - Арт Хоран говорит:
 Я переехал из Бруклина в Центральный Техас (27 лет назад), но я помню, как ехал на троллейбусе по Черч-авеню, и у меня много воспоминаний о Проспект-парке, Бруклинских ботанических садах, Бруклинском музее и Бруклинской публичной библиотеке на Гранд-Арми-Плаза.
 Именно в Бруклине я открыл для себя научную фантастику, журнал Galaxy, Фреда Пола и, как ни странно, впервые научился играть на 5-струнном банджо во время увлечения фолком конца 50-х и начала 60-х. Я все еще сохраняю интерес ко всем этим вещам. 
@@ -54,7 +54,7 @@ translator: "Yandex"
 Арт Хоран  
 
 Белтон, Техас (через Флэтбуш, Бруклин)
-[**2 июня 2013 г., 11:25 вечера**](/posts/2013-05-14-about-brooklyn/)
+[**2 июня 2013 г., 11:25 вечера**](/fred-pohl/2013-05-14-about-brooklyn/)
 
 [WordPress](https://web.archive.org/web/20170620024621/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620024621/http://dicksmithsoftware.com/)

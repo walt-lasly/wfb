@@ -4,9 +4,9 @@ date: 2011-03-28
 categories: ["Authors", "Books", "Writing"]
 tags: ["Alfred Bester", "Gateway", "Hugo Awards", "Prozines", "Pulps", "Richard Nixon", "Television"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2011/03/me-and-alfie-part-2-gateway/"
-prev_post_url: "/posts/2011-03-25-me-and-alfie/"
+prev_post_url: "/fred-pohl/2011-03-25-me-and-alfie/"
 prev_post_title: "Me and Alfie"
-next_post_url: "/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
+next_post_url: "/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
 next_post_title: "Me and Alfie, Part 3: Ideas andThe Demolished Man"
 translated: false
 translator: "Yandex"
@@ -113,17 +113,17 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [**Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 ### 2 Комментария
 
 - [Ричард](https://web.archive.org/web/20170619195315/http://estoreal.blogspot.com/) говорит:
 Я уже ненавижу себя за то, что спрашиваю об этом... но я действительно смотрела "Мастера клонов" в тот вечер, когда он вышел в эфир, и мне бы очень хотелось знать, с чего все начиналось.  Есть ли какая-нибудь надежда, что мистера Пола можно будет убедить вернуться к этому печальному опыту и поделиться какой-либо информацией о его первоначальной идее или разработанном им лечении?
-[**1 апреля 2011 года, 3:29 утра**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
+[**1 апреля 2011 года, 3:29 утра**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
 - [Батухан](https://web.archive.org/web/20170619195315/http://www.facebook.com/profile.php?id=100003406703046) говорит:
 Научная фантастика - это жанр фантастики, в котором есть рассуждения, основанные на текущей или будущей науке или технологии. Научная фантастика встречается в книгах, искусстве, телевидении, фильмах, играх, театре и других средствах массовой информации.Научная фантастика отличается от фэнтези тем, что в контексте истории ее воображаемые элементы в значительной степени возможны в рамках научно установленных или научно постулируемых законов природы (хотя некоторые элементы в истории все еще могут быть чистыми домыслами воображения).
-[**25 сентября 2012, 19:39 вечера**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
+[**25 сентября 2012, 19:39 вечера**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
 
 [WordPress](https://web.archive.org/web/20170619195315/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619195315/http://dicksmithsoftware.com/)

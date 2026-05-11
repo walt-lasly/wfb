@@ -4,9 +4,9 @@ date: 2010-11-12
 categories: ["Writing"]
 tags: ["E.E. ‘Doc’ Smith", "John Cheever"]
 archive_url: "https://web.archive.org/web/20131012021834/http://www.thewaythefutureblogs.com/2010/11/freds-distilled-writing-wisdom-part-4-names/"
-prev_post_url: "/posts/2010-11-10-isaac-part-6/"
+prev_post_url: "/fred-pohl/2010-11-10-isaac-part-6/"
 prev_post_title: "Isaac,  Part 6"
-next_post_url: "/posts/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
+next_post_url: "/fred-pohl/2010-11-13-e-mail-us-by-nov-15-for-gateways-giveaway/"
 next_post_title: "E-mail Us by Nov. 15 forGatewaysGiveaway"
 translated: false
 ---
@@ -26,7 +26,7 @@ Frederik Pohl
 The Naming of Names
 
 
-If what you’re writing is science fiction and the character you need a name for has three heads and seventeen eyes and lives on the ninth planet of Aldebaran, what writing secrets I am about to pass on to you won’t help you much.  (Except that I will urge you to make it pronounceable.  I still remember [**Doc Smith’s**](/posts/2009-12-22-doc-skylark-smith/) character [Worsel](https://web.archive.org/web/20131012021834/http://www.amazon.com/gp/product/1568658044?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1568658044) the Velantian from my teen-age days, while cleverer names. but names composed entirely of consonants or musical notes that I encountered within the last few months are gone.)
+If what you’re writing is science fiction and the character you need a name for has three heads and seventeen eyes and lives on the ninth planet of Aldebaran, what writing secrets I am about to pass on to you won’t help you much.  (Except that I will urge you to make it pronounceable.  I still remember [**Doc Smith’s**](/fred-pohl/2009-12-22-doc-skylark-smith/) character [Worsel](https://web.archive.org/web/20131012021834/http://www.amazon.com/gp/product/1568658044?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1568658044) the Velantian from my teen-age days, while cleverer names. but names composed entirely of consonants or musical notes that I encountered within the last few months are gone.)
 
 
 But if it’s a human being you need to christen, I do have a few suggestions to offer.  Suggestion Number One is:  Know where your name comes from.  Don’t just take some name that’s been inhabiting your subconscious for the past year or so.  I speak on this subject with authority because I did that one wrong, many years ago;
@@ -48,17 +48,17 @@ However, use reasonable care.  If the person who just won a judgment for $100,00
 
 
 **Related posts:
-Fred’s Distilled Writing Wisdom,** [**Part 1**](/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/), [**Part 2**](/posts/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [**Part 3**](/posts/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
+Fred’s Distilled Writing Wisdom,** [**Part 1**](/fred-pohl/2009-08-25-fred-s-distilled-writing-wisdom-part-1/), [**Part 2**](/fred-pohl/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [**Part 3**](/fred-pohl/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
 
 
 ### 2 Comments
 
 - [Richard Bensam](https://web.archive.org/web/20131012021834/http://estoreal.blogspot.com/) says:
 When it comes to character names, the greatest advantage we have today over writers at any prior time is the Internet search engine.  It won’t help invent a name…but once you’ve come up with one, the search engine can point you to a bibliographic reference for Leander Wapshot, or Miles Cowperthwaite’s page on Facebook, and alert you in plenty of time to make a needed change.  It can save a lot of needless embarrassment.
-[**November 12, 2010, 3:43 am**](/posts/2010-11-12-fred-s-distilled-writing-wisdom-part-4/)
+[**November 12, 2010, 3:43 am**](/fred-pohl/2010-11-12-fred-s-distilled-writing-wisdom-part-4/)
 - Orin says:
 Though I imagine it is somewhat easier with search engines to catch such a thing today  
-[**November 12, 2010, 6:15 am**](/posts/2010-11-12-fred-s-distilled-writing-wisdom-part-4/)
+[**November 12, 2010, 6:15 am**](/fred-pohl/2010-11-12-fred-s-distilled-writing-wisdom-part-4/)
 
 [WordPress](https://web.archive.org/web/20131012021834/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131012021834/http://dicksmithsoftware.com/)

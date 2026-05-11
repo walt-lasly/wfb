@@ -4,9 +4,9 @@ date: 2009-06-15
 categories: ["Authors", "Books"]
 tags: ["Communism", "David Greenglass", "Joseph McCarthy", "Julius and Ethel Rosenberg", "Long John Nebel", "Media", "Politics", "Radio", "Roy Cohn", "Sam Roberts", "Walter and Miriam Schneir"]
 archive_url: "https://web.archive.org/web/20100201000000/http://www.thewaythefutureblogs.com/2009/06/rip-walter-schneir/"
-prev_post_url: "/posts/2009-06-11-the-poetry-corner-2/"
+prev_post_url: "/fred-pohl/2009-06-11-the-poetry-corner-2/"
 prev_post_title: "The Poetry Corner 2"
-next_post_url: "/posts/2009-06-20-them-days/"
+next_post_url: "/fred-pohl/2009-06-20-them-days/"
 next_post_title: "Them Days"
 translated: false
 ---
@@ -73,16 +73,16 @@ When those Russian archives opened up at the beginning of the 90′s, Harvard se
 According to one of the books which came out of the Harvard project, J. Edgar Hoover told President Eisenhower to his face that Ethel Rosenberg was completely innocent, but she got the chair anyway.  (I’m not sure what box the book is in right now, so my citation can’t be more specific.)  
 
 ((Don’t start me on the trial of the Haymarket anarchists unless you’ve set a time limit up front.  I’ve never heard of another trial where the prosecutor told the jury, on the record, that there was no evidence connecting the accused to the crime, but they talk about that sort of thing, so let’s kill them.))
-[**June 15, 2009, 10:48 am**](/posts/2009-06-15-r-i-p-walter-schneir/)
+[**June 15, 2009, 10:48 am**](/fred-pohl/2009-06-15-r-i-p-walter-schneir/)
 - [Dr. Psycho](https://web.archive.org/web/20120821112640/http://doctorpsycho1960.blogspot.com/) says:
 I grew up in a family that was far enough to the left to have heard of the Rosenbergs, and I always suspected that one or both of them might have been guilty, but in any event, they had not received a fair trial and were, as depicted in “The Public Burning”, lynched as scapegoats.
 Alas, the Rosenbergs’ defenders usually did not treat them as human beings, either.  To almost everyone, they were symbols and tools rather than human beings who should have been treated that way.
 And I agree that the best and most appropriate fate for any spy is extradition to the country they were serving.  In almost every case, whether they were shipped off to the USSR or Saudi Arabia or Canada, they would get what they deserve.
-[**June 15, 2009, 12:04 pm**](/posts/2009-06-15-r-i-p-walter-schneir/)
+[**June 15, 2009, 12:04 pm**](/fred-pohl/2009-06-15-r-i-p-walter-schneir/)
 - [Robert Nowall](https://web.archive.org/web/20120821112640/http://www.robertnowall.com/) says:
 I used to buy into these things when I was younger…but over the years I’ve been hit by a seemingly endless number of things were I came to feel I was lied to by those on the political left.  The Rosenberg case is one of them.
 I think it’s sad when nothing can change some minds.  Even the facts.
-[**June 17, 2009, 8:32 am**](/posts/2009-06-15-r-i-p-walter-schneir/)
+[**June 17, 2009, 8:32 am**](/fred-pohl/2009-06-15-r-i-p-walter-schneir/)
 
 [WordPress](https://web.archive.org/web/20120821112640/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120821112640/http://dicksmithsoftware.com/)

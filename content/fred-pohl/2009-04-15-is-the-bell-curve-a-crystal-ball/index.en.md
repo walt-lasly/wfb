@@ -4,9 +4,9 @@ date: 2009-04-15
 categories: ["Science", "Writing"]
 tags: ["Geophysics", "M. King Hubbert", "Predictions", "Statistics"]
 archive_url: "https://web.archive.org/web/20210301000000/http://www.thewaythefutureblogs.com/2009/04/is-the-bell-curve-a-crystal-ball/"
-prev_post_url: "/posts/2009-04-07-betty-s-law/"
+prev_post_url: "/fred-pohl/2009-04-07-betty-s-law/"
 prev_post_title: "Betty’s Law"
-next_post_url: "/posts/2009-04-20-cyril/"
+next_post_url: "/fred-pohl/2009-04-20-cyril/"
 next_post_title: "Cyril"
 translated: false
 ---
@@ -56,10 +56,10 @@ The American coal reserve has usually been given as 250 years. The best opinion 
 Actually, the future of energy is one area in which I have some hope. I’ve been following this in the popular press for several years now. My best case prediction is that within 5 years, technologies are going to start coming online that are going to change everything. And by everything, I really do mean everything. I’m talking about housing and transporation that is self-sufficient, capable of producing all the energy needed for a family of four right there at home, with no need to be hooked up to a grid or go to a gas station. 
 All human economy throughout the history of human civilization has been based on the cost of a unit of energy. As the machines improved (whether bio or mechanical), these costs changed, allowing advancement (so-called) to take place. In other words, imagine our society today if we still relied on biological machines to do the heavy lifting. We’d be nose deep in manure, with every inch of spare land given over to farming or pasturage just to keep our horses, donkeys and oxen moving. 
 But when energy becomes virtually, or actually, free, the basis for our economy will disappear. I don’t know what will replace it. If anything.
-[**April 15, 2009, 1:47 pm**](/posts/2009-04-15-is-the-bell-curve-a-crystal-ball/)
+[**April 15, 2009, 1:47 pm**](/fred-pohl/2009-04-15-is-the-bell-curve-a-crystal-ball/)
 - David S. says:
 New Scientist magazine had an article on “Peak Coal” nearly 18 months ago now, issue 2639, 19 Jan 2008. It’s a real worry as none of the political class seem aware of it and are still wasting time and money on “clean coal” and plans to get gasoline from coal and other such schemes based on the old estimates that there centuries of “cheap” coal available world-wide.
-[**April 15, 2009, 9:14 pm**](/posts/2009-04-15-is-the-bell-curve-a-crystal-ball/)
+[**April 15, 2009, 9:14 pm**](/fred-pohl/2009-04-15-is-the-bell-curve-a-crystal-ball/)
 
 [WordPress](https://web.archive.org/web/20090425001106/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090425001106/http://dicksmithsoftware.com/)

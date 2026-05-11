@@ -4,7 +4,7 @@ date: 2011-12-19
 categories: ["Personal"]
 tags: ["Jonathan Coulton"]
 archive_url: "https://web.archive.org/web/20211101000000/http://www.thewaythefutureblogs.com/2011/12/a-merry-christmonth-to-you-and-yours/"
-next_post_url: "/posts/2011-12-20-the-poorest-set-a-new-all-time-record/"
+next_post_url: "/fred-pohl/2011-12-20-the-poorest-set-a-new-all-time-record/"
 next_post_title: "The Poorest Set a New All-Time Record!"
 translated: false
 translator: "Yandex"
@@ -34,12 +34,12 @@ translator: "Yandex"
 
 - Джон Армстронг говорит:
 и я тоже желаю тебе счастливого рождественского месяца. Гораздо больше полезных для здоровья статей, по 3 страницы в день.
-[**19 декабря 2011, 19:45 вечера**](/posts/2011-12-19-a-merry-christmonth-to-you-and-yours/)
+[**19 декабря 2011, 19:45 вечера**](/fred-pohl/2011-12-19-a-merry-christmonth-to-you-and-yours/)
 - Эйс Лайтнинг говорит:
 “...для всех, кому за 70, мы изменили правила. Для таких бесценных и хорошо сохранившихся представителей человечества подходящим поздравлением теперь является “С месяцем рождения”, а праздничные торты, открытки или подарки уместны на каждый день.”
 Черт возьми, мне придется ждать еще шесть лет 
 Но Рождество переполнено праздниками солнцестояния – Йоль, Ханука, Рождество, Кванзаа, [HumanLight](https://web.archive.org/web/20170707043434/http://en.wikipedia.org/wiki/HumanLight), Фестиваль, канун Нового года, и я уверен, что пропущу некоторые из них. Имеет смысл просто объявить весь месяц праздником. (Где мои подарки?)
-[** 20 декабря 2011 года, 3:22 утра**](/posts/2011-12-19-a-merry-christmonth-to-you-and-yours/)
+[** 20 декабря 2011 года, 3:22 утра**](/fred-pohl/2011-12-19-a-merry-christmonth-to-you-and-yours/)
 
 [WordPress](https://web.archive.org/web/20170707043434/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707043434/http://dicksmithsoftware.com/)

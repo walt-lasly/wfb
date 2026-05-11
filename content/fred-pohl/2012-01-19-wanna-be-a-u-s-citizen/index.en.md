@@ -4,9 +4,9 @@ date: 2012-01-19
 categories: ["Miscellaneous"]
 tags: []
 archive_url: "https://web.archive.org/web/20261101000000/http://www.thewaythefutureblogs.com/2012/01/wanna-be-a-u-s-citizen/"
-prev_post_url: "/posts/2012-01-17-which-death/"
+prev_post_url: "/fred-pohl/2012-01-17-which-death/"
 prev_post_title: "Which death?"
-next_post_url: "/posts/2012-01-20-newt-gringrich-as-was/"
+next_post_url: "/fred-pohl/2012-01-20-newt-gringrich-as-was/"
 next_post_title: "Newt  Gringrich as Was"
 translated: false
 ---
@@ -43,14 +43,14 @@ These questions are taken from the [USCIS New Naturalization Test](https://web.a
 4. State, Defense
 5. Arming the militia.
 You may be interested in the <a href="Intercollegiate Civics test". Last time I took it, I got better than 80%. Note that college EDUCATORS average 55%.
-[**January 19, 2012, 12:53 am**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[**January 19, 2012, 12:53 am**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - [Chookie Inthebackyard](https://web.archive.org/web/20120322034048/http://chookiesbackyard.blogspot.com/) says:
 Our system is different, but 3 and 5 do indeed seem to “emphasiz[e] fundamental concepts of American democracy”.  The others are a bit silly.
 I’m assuming the numbered Congressional districts elect the members of Congress?  Why numbered?  Ours have names, usually those of former distinguished political figures.  My own Division of Reid is named after a former Premier of my State who became our fourth Prime Minister.
-[**January 19, 2012, 5:46 am**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[**January 19, 2012, 5:46 am**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - [Ken Houghton](https://web.archive.org/web/20120322034048/http://www.angrybearblog.com/) says:
 The first two:  Washington, D.C., where “Taxation without Representation” isn’t just the licence plate slogan, it’s the Law.
-[**January 19, 2012, 8:07 am**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[**January 19, 2012, 8:07 am**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - Brenda says:
 1. Joe Lieberman, I-Connecticut  
 
@@ -61,7 +61,7 @@ The first two:  Washington, D.C., where “Taxation without Representation” is
 4. Energy and Interior  
 
 5. Regulate interstate commerce
-[**January 19, 2012, 10:24 am**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[**January 19, 2012, 10:24 am**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - Bryan Price says:
 1. Bill Nelson, Marco Rubio (ha!)  
 
@@ -72,7 +72,7 @@ The first two:  Washington, D.C., where “Taxation without Representation” is
 4. State, Defense.  Not Education and Transportation if RuPaul, I mean Ron Paul had his way.  
 
 5. War, coinage
-[**January 19, 2012, 11:32 am**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[**January 19, 2012, 11:32 am**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 
 [WordPress](https://web.archive.org/web/20120322034048/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120322034048/http://dicksmithsoftware.com/)

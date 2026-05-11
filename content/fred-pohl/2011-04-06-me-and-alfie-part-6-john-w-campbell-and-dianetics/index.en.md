@@ -4,9 +4,9 @@ date: 2011-04-06
 categories: ["Authors"]
 tags: ["A.E. van Vogt", "Alfred Bester", "Catherine Tarrant", "Editors", "Food", "Isaac Asimov", "John W. Campbell", "L. Ron Hubbard", "Prozines", "Religion", "Robert A. Heinlein"]
 archive_url: "https://web.archive.org/web/20170619220141/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-6-john-w-campbell-dianetics/"
-prev_post_url: "/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
+prev_post_url: "/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
 prev_post_title: "Me and Alfie, Part 5: Collaboration and the Futurians"
-next_post_url: "/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/"
+next_post_url: "/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/"
 next_post_title: "Me and Alfie, Part 7: Cyclothymia"
 translated: false
 ---
@@ -26,10 +26,10 @@ Frederik Pohl
 *Part 6 of “Alfred Bester and Frederik Pohl — The Conversation,” recorded 26 June 1978 at The Tyneside Cinema, Newcastle upon Tyne, UK.*
 
 
-Pohl: I’ve just realized something very significant. Of all the science fiction writers in the English-speaking world who began in the late ’30s and ’40s who have survived since and done reasonably well, there are only two who were not largely and directly influenced by [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/). That’s you and me!
+Pohl: I’ve just realized something very significant. Of all the science fiction writers in the English-speaking world who began in the late ’30s and ’40s who have survived since and done reasonably well, there are only two who were not largely and directly influenced by [**John Campbell**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/). That’s you and me!
 
 
-John Campbell is the fellow who took science fiction by the scruff of the neck in the late ’30s and changed it.  Made it much better. And people like [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and [van Vogt](https://web.archive.org/web/20170619220141/http://www.gcwillick.com/Spacelight/vanvogt.html) and [**Bob Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/), and almost everybody else who really became significant writers around that period owe a great debt to Campbell. They were published primarily in his magazine and got a great deal of advice and guidance from him. And I know I didn’t.
+John Campbell is the fellow who took science fiction by the scruff of the neck in the late ’30s and changed it.  Made it much better. And people like [**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and [van Vogt](https://web.archive.org/web/20170619220141/http://www.gcwillick.com/Spacelight/vanvogt.html) and [**Bob Heinlein**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), and almost everybody else who really became significant writers around that period owe a great debt to Campbell. They were published primarily in his magazine and got a great deal of advice and guidance from him. And I know I didn’t.
 
 
 John Campbell was a good friend of mine but he had this one tacky personality trait — he never bought any stories from me! I kept trying but he never would buy them. How about you, Alfie?
@@ -65,13 +65,13 @@ I said, “Mr. Campbell, do you mean the rival schools of psychiatry? I know abo
 “No, psychiatry is finished today. You don’t know about it? Read these galleys.”
 
 
-And he hands me the galley proof of the first piece by [**L. Ron Hubbard**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/) on [Dianetics](https://web.archive.org/web/20170619220141/http://www.amazon.com/gp/product/1403144869/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1403144869)! There are about 20 of these long galleys, and I say to him, “Gee, this is an awful lot to read, Mr. Campbell. Can I take the set home?”
+And he hands me the galley proof of the first piece by [**L. Ron Hubbard**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/) on [Dianetics](https://web.archive.org/web/20170619220141/http://www.amazon.com/gp/product/1403144869/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1403144869)! There are about 20 of these long galleys, and I say to him, “Gee, this is an awful lot to read, Mr. Campbell. Can I take the set home?”
 
 
 “No,” he said, “this is the only set. I am reworking the entire magazine, it’s that important.”
 
 
-I said, “All right,” and I sit there and I read the first galley of this nonsense, and I begin to shake with laughter, but I keep my mouth shut. I read the second galley and I’ve had it. But he’s got a very sharp eye, and although he’s talking with [**Catherine Tarrant**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), his assistant, about other things, I know he’s watching me. So I don’t read them. I just allow enough time to look at them while I’m thinking about how the Yankees will make out or whatever.
+I said, “All right,” and I sit there and I read the first galley of this nonsense, and I begin to shake with laughter, but I keep my mouth shut. I read the second galley and I’ve had it. But he’s got a very sharp eye, and although he’s talking with [**Catherine Tarrant**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/), his assistant, about other things, I know he’s watching me. So I don’t read them. I just allow enough time to look at them while I’m thinking about how the Yankees will make out or whatever.
 
 
 I finish the galleys and put them down, and he said, “Well, what do you think of it? Will he win the Nobel Prize?”
@@ -169,45 +169,45 @@ So he said, “What happened to you when you were 45 months? 45 days? 45 minutes
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
-- **Astounding: The Campbell Years,** [**Part 1**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
-- **The Worlds of L. Ron Hubbard,** [**Part 1**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/), [**Part 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Part 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Astounding: The Campbell Years,** [**Part 1**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/)
+- **The Worlds of L. Ron Hubbard,** [**Part 1**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/), [**Part 2**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 
 ### 8 Comments
 
 - [Robert Nowall](https://web.archive.org/web/20170619220141/http://www.robertnowall.com/) says:
 Wouldn’t’ve thought I’d enjoy comments on Dianetics so much, but…well, that was one of the funniest things I’ve come across so far this year.  By the time I got to “Dear God, don’t let me laugh in his face,” I’d already lost it…
-[**April 6, 2011, 7:13 am**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**April 6, 2011, 7:13 am**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - [Stefan Jones](https://web.archive.org/web/20170619220141/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Holy . . . carp.
 Makes you wonder what SF tropes we take seriously now COUGHsingularityCOUGH! will eventually be looked back COUGHutopianlibertarianismCOUGH! on as eye-rolling ideological red herring.
 Sorry, I’ve got to Clear my throat.
-[**April 6, 2011, 1:04 pm**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**April 6, 2011, 1:04 pm**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Marvin says:
 This is lovely. Thank you, Mr. Pohl.
-[**April 6, 2011, 3:29 pm**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**April 6, 2011, 3:29 pm**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Phil Palmer says:
 “Still more to come.”
 This is rapidly becoming one of my top ten phrases ever.
-[**April 6, 2011, 5:33 pm**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**April 6, 2011, 5:33 pm**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - JohnArmstrong says:
 It mystifies me how some otherwise very astute people have been sold, and swallowed whole, the Dianetics/Scientology scam.
 You\’d have a hard time selling it as fiction – not the “religion”, but the idea that Hubbard managed to turn this bafflegab into an empire
 if you haven’t already, read this New Yorker piece about Paul Haggis’ escape from the church. The Scientology rejoinders reminded me of Lyndon Larouche’s ravings
 [http://www.newyorker.com/reporting/2011/02/14/110214fa_fact_wright](https://web.archive.org/web/20170619220141/http://www.newyorker.com/reporting/2011/02/14/110214fa_fact_wright)
 Thanks so much for this Fred – best of luck with the new book. You may make a career of this writing thing yet
-[**April 9, 2011, 7:03 pm**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**April 9, 2011, 7:03 pm**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Aaron says:
 I can think of another writer of the era who wasn’t influenced by Campbell and that is Jack Vance.
-[**May 12, 2011, 5:47 am**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**May 12, 2011, 5:47 am**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - [Anton Sherwood](https://web.archive.org/web/20170619220141/http://bendwavy.org/) says:
 So why did Bester feel a need to suck up to Campbell?
-[**April 6, 2012, 12:20 pm**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**April 6, 2012, 12:20 pm**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - John Lease says:
 That was hilarious!
-[**August 7, 2012, 9:41 am**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**August 7, 2012, 9:41 am**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 
 [WordPress](https://web.archive.org/web/20170619220141/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619220141/http://dicksmithsoftware.com/)

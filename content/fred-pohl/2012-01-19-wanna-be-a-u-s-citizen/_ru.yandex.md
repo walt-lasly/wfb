@@ -4,9 +4,9 @@ date: 2012-01-19
 categories: ["Miscellaneous"]
 tags: []
 archive_url: "https://web.archive.org/web/20261101000000/http://www.thewaythefutureblogs.com/2012/01/wanna-be-a-u-s-citizen/"
-prev_post_url: "/posts/2012-01-17-which-death/"
+prev_post_url: "/fred-pohl/2012-01-17-which-death/"
 prev_post_title: "Which death?"
-next_post_url: "/posts/2012-01-20-newt-gringrich-as-was/"
+next_post_url: "/fred-pohl/2012-01-20-newt-gringrich-as-was/"
 next_post_title: "Newt  Gringrich as Was"
 translated: false
 translator: "Yandex"
@@ -48,10 +48,10 @@ translator: "Yandex"
 - [Чуки на заднем дворе](https://web.archive.org/web/20120322034048/http://chookiesbackyard.blogspot.com/) говорит:
 Наша система отличается, но пункты 3 и 5, похоже, действительно “подчеркивают фундаментальные концепции американской демократии”.  Остальные немного глуповаты.
 Я полагаю, что члены Конгресса избираются по пронумерованным округам Конгресса?  Почему пронумерованный?  У нас есть имена, обычно принадлежащие бывшим выдающимся политическим деятелям.  Мое собственное подразделение Reid названо в честь бывшего премьер-министра моего штата, который стал нашим четвертым премьер-министром.
-[** 19 января 2012 года, 5:46 утра**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[** 19 января 2012 года, 5:46 утра**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - [Кен Хоутон](https://web.archive.org/web/20120322034048/http://www.angrybearblog.com/) говорит:
 Первые два: Вашингтон, округ Колумбия, где “Налогообложение без представительства” - это не просто лозунг на номерном знаке, это закон.
-[** 19 января 2012 года, 8:07 утра**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[** 19 января 2012 года, 8:07 утра**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - Бренда говорит:
 1. Джо Либерман, я-Коннектикут  
 
@@ -62,7 +62,7 @@ translator: "Yandex"
 4. Энергетика и интерьер  
 
 5. Регулирование торговли между штатами
-[** 19 января 2012 года, 10:24 утра**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[** 19 января 2012 года, 10:24 утра**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 - Брайан Прайс говорит:
 1. Билл Нельсон, Марко Рубио (ха!)  
 
@@ -73,7 +73,7 @@ translator: "Yandex"
 4. Государство, оборона.  Не образование и транспорт, если Рупол, я имею в виду Рона Пола, добился своего.  
 
 5. Война, чеканка монет
-[** 19 января 2012 года, 11:32 утра**](/posts/2012-01-19-wanna-be-a-u-s-citizen/)
+[** 19 января 2012 года, 11:32 утра**](/fred-pohl/2012-01-19-wanna-be-a-u-s-citizen/)
 
 [WordPress](https://web.archive.org/web/20120322034048/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120322034048/http://dicksmithsoftware.com/)

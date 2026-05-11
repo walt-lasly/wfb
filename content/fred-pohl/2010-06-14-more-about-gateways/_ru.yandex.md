@@ -4,9 +4,9 @@ date: 2010-06-14
 categories: ["Books", "Personal"]
 tags: ["Alex Eisenstein", "Ben Bova", "Brian W. Aldiss", "Connie Willis", "Cory Doctorow", "David Brin", "David Marusek", "Editors", "Elisabeth Malartre", "Elizabeth Anne Hull", "Emily Pohl-Weary", "Frank M. Robinson", "Gardner Dozois", "Gateways", "Gene Wolfe", "Greg Bear", "Gregory Benford", "Harry Harrison", "Isaac Asimov", "James Frenkel", "James Gunn", "Joan Slonczewski", "Jody Lynn Nye", "Joe Haldeman", "Larry Niven", "Mike Resnick", "Neil Gaiman", "Phyllis Eisenstein", "Robert J. Sawyer", "Robert Silverberg", "Sherri S. Tepper", "Vernor Vinge"]
 archive_url: "https://web.archive.org/web/20180601000000/http://www.thewaythefutureblogs.com/2010/06/more-about-gateways/"
-prev_post_url: "/posts/2010-06-11-what-made-the-futurians-laugh-the-shaggy-dog-story/"
+prev_post_url: "/fred-pohl/2010-06-11-what-made-the-futurians-laugh-the-shaggy-dog-story/"
 prev_post_title: "What Made the Futurians Laugh:  The Shaggy Dog Story"
-next_post_url: "/posts/2010-06-16-futurian-poetry-ii/"
+next_post_url: "/fred-pohl/2010-06-16-futurian-poetry-ii/"
 next_post_title: "Futurian Poetry II"
 translated: false
 translator: "Yandex"
@@ -64,19 +64,19 @@ translator: "Yandex"
 
 - Дэвид Голдфарб говорит:
 Это довольно впечатляющее оглавление.
-[**14 июня 2010 года, 12:52 утра**](/posts/2009-01-01-elizabeth-anne-hull/)
+[**14 июня 2010 года, 12:52 утра**](/fred-pohl/2009-01-01-elizabeth-anne-hull/)
 - Джон Эйч говорит:
 Это потрясающий состав!
-[**14 июня 2010, 16:50 вечера**](/posts/2009-01-01-elizabeth-anne-hull/)
+[**14 июня 2010, 16:50 вечера**](/fred-pohl/2009-01-01-elizabeth-anne-hull/)
 - [Джон Ди](https://web.archive.org/web/20120304202130/http://www.sfsignal.com/) говорит:
 [Розыгрыш выпадает в потрясающем составе]
-[**14 июня 2010, 19:26 вечера**](/posts/2009-01-01-elizabeth-anne-hull/)
+[**14 июня 2010, 19:26 вечера**](/fred-pohl/2009-01-01-elizabeth-anne-hull/)
 - Джен говорит:
 Очень впечатляюще, если не сказать больше.  Должно быть, все еще немного странно осознавать, как сильно вы повлияли на все, что мы читаем…за редким исключением, эта антология охватывает большинство моих любимых авторов в этой области.
-[** 15 июня 2010 года, 10:01 утра**](/posts/2009-01-01-elizabeth-anne-hull/)
+[** 15 июня 2010 года, 10:01 утра**](/fred-pohl/2009-01-01-elizabeth-anne-hull/)
 - Д. Пост говорит:
 Я позабочусь о том, чтобы моя библиотека заказала это! Не могу дождаться!
-[**11 июля 2010, 10:14 вечера**](/posts/2009-01-01-elizabeth-anne-hull/)
+[**11 июля 2010, 10:14 вечера**](/fred-pohl/2009-01-01-elizabeth-anne-hull/)
 
 [WordPress](https://web.archive.org/web/20120304202130/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120304202130/http://dicksmithsoftware.com/)

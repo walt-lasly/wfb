@@ -4,9 +4,9 @@ date: 2012-05-29
 categories: ["Authors", "Books"]
 tags: ["Engineering", "Gene Wolfe", "Korean War"]
 archive_url: "https://web.archive.org/web/20230801000000/http://www.thewaythefutureblogs.com/2012/05/gene-wolfe-the-unknowable/"
-prev_post_url: "/posts/2012-05-26-some-comments-on-the-comments-selective-service/"
+prev_post_url: "/fred-pohl/2012-05-26-some-comments-on-the-comments-selective-service/"
 prev_post_title: "Some Comments on the Comments: Selective Service"
-next_post_url: "/posts/2012-05-31-reading-the-funnies-in-the-times/"
+next_post_url: "/fred-pohl/2012-05-31-reading-the-funnies-in-the-times/"
 next_post_title: "Reading the Funnies in the Times"
 translated: false
 translator: "Yandex"
@@ -41,29 +41,29 @@ translator: "Yandex"
 
 - Дэн Рид говорит:
 Я чертовски люблю и полностью согласен с последними семью словами этого поста.
-[**29 мая 2012, 19:11 вечера**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**29 мая 2012, 19:11 вечера**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 - [Аарон](https://web.archive.org/web/20120809154827/http://aaronsingleton.blogspot.com/) говорит:
 Джин Вулф вот уже около семи лет является одним из моих любимых писателей.  Я начала писать ему около трех лет назад и была удивлена, что он написал мне в ответ.  Его первое письмо было кратким, но очень трогательным.  Он прислал мне подписанный экземпляр "Странных птиц".  С тех пор мы переписывались несколько раз, и каждое письмо, которое я получаю, лучше предыдущего.  Я надеюсь, что мистер Вульф доживет до того, чтобы писать и переписываться еще долгое время.  Он действительно сокровище.
-[**30 мая 2012 года, 7:51 утра**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**30 мая 2012 года, 7:51 утра**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 - [Upcoming4.me](https://web.archive.org/web/20120809154827/http://upcoming4.me/) говорит:
 Этот человек - легенда.
-[**30 мая 2012 года, 9:29 утра**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**30 мая 2012 года, 9:29 утра**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 - [Александр Примархус](https://web.archive.org/web/20120809154827/https://twitter.com/#!/BADALEX_) говорит:
 Как странно, что вы, кто встречался с ним, не знали этих вещей, в то время как я, кто этого не знал.
  Из всех авторов, с которыми я хотел бы встретиться и переписываться, Джин Вулф возглавляет мой список.
  Увы, в отличие от Люциуса Шепарда, найти контактные данные для него не так-то просто.
  О чем я сожалею, так это о том, что я, Севериан во многих отношениях, до сих пор не мог этого сделать. Но странные ветры судьбы поворачиваются так, как им заблагорассудится, и нет ничего невозможного в том, что однажды я посмотрю ему в глаза и скажу:
  - Я здесь. Вы писали обо мне много раз. Как поживаете?”
-[**30 мая 2012, 14:15 вечера**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**30 мая 2012, 14:15 вечера**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 - [Билл Гудвин](https://web.archive.org/web/20120809154827/http://771715/) говорит:
 Где Вульф?
-[**1 июня 2012 года, 4:10 утра**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**1 июня 2012 года, 4:10 утра**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 - Гэри Филлипс говорит:
 Там Вулф, там Касл.
-[**7 июня 2012 года, 7:53 утра**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**7 июня 2012 года, 7:53 утра**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 - Нил из Чикаго говорит:
 Самой последней оплеухой, которую я получил от Джина, чья эрудиция внушает благоговейный трепет даже коллективному разуму фэндами, была глупая шутка в "Волшебном Найт".  Кого-то снаряжают в доспехи, и парень, который раскрашивает щиты, объясняет, что он берет плату по цифре.  На некоторых гербах их больше, на некоторых меньше.  Он упоминает, что самой дорогой работой, которая у него когда-либо была, были "три сердца и три льва".
-[**24 июня 2012, 17:31**](/posts/2012-05-29-gene-wolfe-the-unknowable/)
+[**24 июня 2012, 17:31**](/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/)
 
 [WordPress](https://web.archive.org/web/20120809154827/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120809154827/http://dicksmithsoftware.com/)

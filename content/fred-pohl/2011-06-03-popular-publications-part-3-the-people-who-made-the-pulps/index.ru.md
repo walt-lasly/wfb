@@ -4,9 +4,9 @@ date: 2011-06-03
 categories: ["Authors"]
 tags: ["Dashiell Hammet", "Editors", "Ethel Klock", "George Jean Nathan", "H. L. Mencken", "Jane Littell", "Joseph T. Shaw", "Kenneth White", "New York", "Poetry", "Prozines", "Publishing", "Pulps", "Raymond Chandler", "Television"]
 archive_url: "https://web.archive.org/web/20170620010510/http://www.thewaythefutureblogs.com/2011/06/popular-publications-part-3-the-people-who-made-the-pulps/"
-prev_post_url: "/posts/2011-05-31-popular-publications-part-2/"
+prev_post_url: "/fred-pohl/2011-05-31-popular-publications-part-2/"
 prev_post_title: "Popular Publications, Part 2"
-next_post_url: "/posts/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
+next_post_url: "/fred-pohl/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
 next_post_title: "Bright Sayings of Bright People, No. 15: Stoppard"
 translated: false
 translator: "Yandex"
@@ -95,18 +95,18 @@ Unrush то, что они были.  АС от профи прочитали и
 
 **Соответствующие должности:**
 
-- **Популярные Издания**, [**Часть 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Часть 2**](/posts/2011-05-31-popular-publications-part-2/), [**Часть 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Часть 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- **Популярные Издания**, [**Часть 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [**Часть 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [**Часть 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Часть 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 6 комментариев
 
 - Лерой перламутровым говорит:
 Большое спасибо за эти прекрасные истории, Фред! Это замечательно, чтобы получить взгляд изнутри на Палп промышленности и в первые годы научная фантастика. У меня вопрос.. поскольку миры романов и комиксов, так часто пересекаются, и вы, несомненно, имел хороший глаз на возможность – вы были вовлечены в раннем также многолетний комиксы? Я подумываю о том, чтобы все Палп и научной фантастики авторов, которые имеют комиксов карьеры, такие как Гарри Гаррисон, Мэнли Уэйд Веллман, и т. д. и просто чешу в затылке, интересно, если я когда-либо сталкивался с Фредерик Пол история в комиксах.
-[**3 июня 2011, 5:55 утра**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**3 июня 2011, 5:55 утра**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Стефан Джонс](https://web.archive.org/web/20170620010510/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Большие подробности о затерянном мире!
 Как было обработано искусства? Полностью фрилансер?
-[**Июнь 3, 2011, 12:25 часов**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**Июнь 3, 2011, 12:25 часов**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Билл Гудвин](https://web.archive.org/web/20170620010510/http://771715/) говорит:
 Карнавал всадница  
 
@@ -123,17 +123,17 @@ Unrush то, что они были.  АС от профи прочитали и
 Я оставил ей кучу unrush за,  
 
 Она была персика! Но и перезревшие.
-[**4 июня 2011, 3:11 пп**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**4 июня 2011, 3:11 пп**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Билл Хиггинс-- Луч-жокей](https://web.archive.org/web/20170620010510/http://beamjockey.livejournal.com/) говорит::
 Дайте ему два доллара!
-[**6 июня 2011, 9:26 утра**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**6 июня 2011, 9:26 утра**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Стив Дэвидсон](https://web.archive.org/web/20170620010510/http://www.rimworlds.com/thecrotchetyoldfan) говорит:
 Ваш упомянуть здесь о ‘покупке историй из себя’ напомнил мне, что я черпал вдохновение и зарплатой от вашего первоначального упоминания этого трюка в ретроспектива будущего (the way the Future was).  Я сделал редактирование в розницу журнал по очень низкой оплаты труда, основанные на моих знаниях, что если бы я следовал твоему примеру, я мог бы дополнить расплачиваются чеками из статей я уже писал себе работу.  И да, это сработало.  Спасибо, Фред.
-[**10 июня 2011, 6:40 утра**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**10 июня 2011, 6:40 утра**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Майкл Уолш](https://web.archive.org/web/20170620010510/http://www.oldearthbooks.com/) говорит:
 Чуть засовывая в интернете с МР Гугл показывает, что вполне вероятно, что “черная маска” Кен Уайт был тот же Кен Уайт, который стал литературным агентом.  И одним из его клиентов был Х. Бим Пайпер.
 К сожалению, внезапная смерть белых привело к мировой финансовой горе за Пайпер, Пайпер заставляя принять свои собственные жизни
-[**13 июня 2011, 4:32 pm году**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**13 июня 2011, 4:32 pm году**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 
 [На WordPress](https://web.archive.org/web/20170620010510/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620010510/http://dicksmithsoftware.com/)

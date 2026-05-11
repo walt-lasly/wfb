@@ -4,9 +4,9 @@ date: 2013-12-21
 categories: ["Betty's Posts", "Personal"]
 tags: ["Advertising", "Economics", "Elizabeth Anne Hull", "Leah A. Zeldes"]
 archive_url: "https://web.archive.org/web/20160416151345/http://www.thewaythefutureblogs.com/2013/12/trust-and-fear/"
-prev_post_url: "/posts/2013-12-20-fred-in-the-time-capsule/"
+prev_post_url: "/fred-pohl/2013-12-20-fred-in-the-time-capsule/"
 prev_post_title: "Fred in the Time Capsule"
-next_post_url: "/posts/2013-12-23-the-story-of-the-space-merchants-part-2/"
+next_post_url: "/fred-pohl/2013-12-23-the-story-of-the-space-merchants-part-2/"
 next_post_title: "The Story ofThe Space Merchants, Part 2"
 translated: false
 translator: "Yandex"
@@ -58,7 +58,7 @@ translator: "Yandex"
 Поразмыслив, я, вероятно, был больше всего благодарен за то, что за весь день мы не получили ни одного назойливого телефонного звонка с попытками продать нам систему домашней безопасности или устройство на случай, если “[я упал и не могу встать](https://web.archive.org/web/20160416151345/http://www.youtube.com/watch?v=bQlpDiXPZHQ)”.
 
 
-Я не [** так сильно беспокоюсь**](/posts/2013-12-19-my-first-blog-post-in-a-long-time/) о нашем выживании как вида и как страны, когда меня не захлестывают поджигатели страха.
+Я не [** так сильно беспокоюсь**](/fred-pohl/2013-12-19-my-first-blog-post-in-a-long-time/) о нашем выживании как вида и как страны, когда меня не захлестывают поджигатели страха.
 
 
 ### Один комментарий
@@ -68,7 +68,7 @@ translator: "Yandex"
 Это, прямо здесь.  Да.
 Так много людей — как частных лиц, так и компаний — каждый день делают все возможное, чтобы разжечь наши страхи, обычно каким-то образом ради собственной выгоды.  Независимо от того, продают ли они газеты или журналы, или рекламное время на телевидении, или какой-либо продукт, который якобы защитит нас от страхов, которые они усилили или прямо создали, нам постоянно говорят, что мы и наши близкие находимся в смертельной опасности, каждую секунду каждого дня.  Это стало частью нашего общества до такой степени, что нагнетание страха практически незаметно, в то время как страх, который оно вызывает, распространен повсеместно.  Нам всем было бы намного лучше, если бы люди (и компании), которые наживаются на нашем страхе, просто заткнулись к чертовой матери.
 Энджи
-[** 21 декабря 2013 года, 6:02 утра**](/posts/2013-12-21-trust-and-fear/)
+[** 21 декабря 2013 года, 6:02 утра**](/fred-pohl/2013-12-21-trust-and-fear/)
 
 [WordPress](https://web.archive.org/web/20160416151345/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416151345/http://dicksmithsoftware.com/)

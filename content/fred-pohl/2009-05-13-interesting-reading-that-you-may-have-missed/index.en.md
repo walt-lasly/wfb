@@ -4,9 +4,9 @@ date: 2009-05-13
 categories: ["Miscellaneous"]
 tags: ["Capitalism", "Media"]
 archive_url: "https://web.archive.org/web/20090726215213/http://www.thewaythefutureblogs.com/2009/05/interesting-reading-that-you-may-have-missed/"
-prev_post_url: "/posts/2009-05-08-the-quadrumvirate/"
+prev_post_url: "/fred-pohl/2009-05-08-the-quadrumvirate/"
 prev_post_title: "The Quadrumvirate"
-next_post_url: "/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
+next_post_url: "/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
 next_post_title: "Have Mouth, Will Travel, Part 1: The Lecture Biz"
 translated: false
 ---
@@ -52,7 +52,7 @@ Paul Krugman has written some interesting things about the dollar trap that Chin
 Krugman has also written about China’s environmental problems, specifically CO2 emissions. [http://www.nytimes.com/2009/05/15/opinion/15krugman.html?_r=1&partner=rssnyt&emc=rss](https://web.archive.org/web/20090726215213/http://www.nytimes.com/2009/05/15/opinion/15krugman.html?_r=1&partner=rssnyt&emc=rss)
 In my opinion, China is sitting on an environmental time bomb. They are poisoning their land, water and air at an unsustainable rate. They may be an economic powerhouse today, but in the long run their country will become uninhabitable. The cost of cleaning up the mess they have made in their drive to become an economic superpower will ultimately hamstring the Chinese economy, which in turn will further steer the rest of the world away from the very consumption-driven economic model that has created the Chinese superpower. 
 My opinion - the next 20 years are going to be… interesting. The world will change as much in the next 20 years as it changed in the last 100. The change is inevitable, but how it changes remains to be seen.
-[**May 18, 2009, 9:30 am**](/posts/2009-05-13-interesting-reading-that-you-may-have-missed/)
+[**May 18, 2009, 9:30 am**](/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/)
 - [Doug K](https://web.archive.org/web/20090726215213/http://dkretzmann.blogspot.com/) says:
 James Fallows is not really a ‘financial’ writer per se. He’s worth reading on any subject, though. Find his weblog at  
 
@@ -61,11 +61,11 @@ I’m havering on subscribing to the Atlantic, and it’s mostly because I’d l
 We are all Keynesians now..  
 
 “The market can stay irrational longer than you can stay solvent.” John Maynard Keynes
-[**May 18, 2009, 4:55 pm**](/posts/2009-05-13-interesting-reading-that-you-may-have-missed/)
+[**May 18, 2009, 4:55 pm**](/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/)
 - Tina Black says:
 I pulled out all my market holdings when the DOW was at 14,000.  Good move.
  
-[**May 31, 2009, 10:53 am**](/posts/2009-05-13-interesting-reading-that-you-may-have-missed/)
+[**May 31, 2009, 10:53 am**](/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/)
 
 [WordPress](https://web.archive.org/web/20090726215213/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090726215213/http://dicksmithsoftware.com/)

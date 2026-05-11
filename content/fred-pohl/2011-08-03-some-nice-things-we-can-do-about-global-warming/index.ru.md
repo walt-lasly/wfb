@@ -4,9 +4,9 @@ date: 2011-08-03
 categories: ["Science"]
 tags: ["Botany", "Ecology"]
 archive_url: "https://web.archive.org/web/20190801000000/http://www.thewaythefutureblogs.com/2011/08/some-nice-things-we-can-do-about-global-warming/"
-prev_post_url: "/posts/2011-08-01-where-did-all-the-ers-go/"
+prev_post_url: "/fred-pohl/2011-08-01-where-did-all-the-ers-go/"
 prev_post_title: "Where Did All the ERs Go?"
-next_post_url: "/posts/2011-08-05-guess-where-you-ll-fill-your-tank-tomorrow/"
+next_post_url: "/fred-pohl/2011-08-05-guess-where-you-ll-fill-your-tank-tomorrow/"
 next_post_title: "Guess Where You’ll Fill Your Tank Tomorrow"
 translated: false
 translator: "Yandex"
@@ -46,19 +46,19 @@ translator: "Yandex"
 Не уверен, что это должно быть шуткой.
 Во-первых, углерод из природного газа - это углерод, который в противном случае не выделялся бы, поэтому они не потребляют CO2, который где-то вызывает проблему.  Во-вторых, цветы скоро разлагаются, выделяя в атмосферу CO2, которого в противном случае там не было бы.
 Установка эквивалентна сжиганию природного газа.  Чем больше мы сжигаем, тем больший вклад вносим в глобальное потепление.
-[**3 августа 2011 года, 11:53 утра**](/posts/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
+[**3 августа 2011 года, 11:53 утра**](/fred-pohl/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
 - Пэт говорит:
 У меня были восхитительно вкусные помидоры, выращенные в промышленных масштабах в теплицах на острове Уайт с использованием отработанного CO2 с электростанции. Я бы предположил, что вторая часть будет примерно такой – наберись терпения, Филипп.
 Я надеюсь, Филлип, ты компостируешь свои мертвые цветы, не позволяя им разлагаться только до CO2 и воды.
-[**6 августа 2011 года, 11:44 утра**](/posts/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
+[**6 августа 2011 года, 11:44 утра**](/fred-pohl/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
 - [Филлип Хелбиг](https://web.archive.org/web/20170718091007/http://www.astro.multivax.de:8000/helbig/helbig.html) говорит:
 Это сработает только в том случае, если CO2 попадет на растения, которые остаются нетронутыми в течение длительного времени: десятилетий или столетий.  Если их съедят, то вы выдыхаете углекислый газ!
 Выброс CO2 с электростанции, по крайней мере, не увеличивает уже сжигаемое количество.  Однако сжигать что-либо можно было бы только для теплицы.
-[**9 августа 2011 года, 4:19 утра**](/posts/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
+[**9 августа 2011 года, 4:19 утра**](/fred-pohl/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
 - Пэт говорит:
 Филипп, сколько помидорных листьев и кореньев ты съедаешь? 
 Возможно, вам стоит дождаться части 2.
-[**11 августа 2011 года, 17:53 вечера**](/posts/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
+[**11 августа 2011 года, 17:53 вечера**](/fred-pohl/2011-08-03-some-nice-things-we-can-do-about-global-warming/)
 
 [WordPress](https://web.archive.org/web/20170718091007/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170718091007/http://dicksmithsoftware.com/)

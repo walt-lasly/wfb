@@ -4,9 +4,9 @@ date: 2009-05-08
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Catherine Tarrant", "Chester Cohen", "Collaborating", "Dirk Wylie", "Donald A. Wollheim", "Editors", "Futurians", "G.G. Clark", "Great Depression", "Hugo Gernsback", "Isaac Asimov", "Jack Gillespie", "Jack Robins", "James Blish", "John B. Michel", "John W. Campbell", "Louis Silberkleit", "Poetry", "Prozines", "Richard Wilson", "Robert A.W. Lowndes", "Science Fiction League", "Walter Kubilius"]
 archive_url: "https://web.archive.org/web/20090819125413/http://www.thewaythefutureblogs.com/2009/05/the-quadrumvirate/"
-prev_post_url: "/posts/2009-05-05-me-and-the-guys-at-abu-ghraib/"
+prev_post_url: "/fred-pohl/2009-05-05-me-and-the-guys-at-abu-ghraib/"
 prev_post_title: "Me and the Guys at Abu Ghraib"
-next_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
+next_post_url: "/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/"
 next_post_title: "Interesting Reading That You May Have Missed"
 translated: false
 translator: "DeepL"
@@ -125,26 +125,26 @@ Lurani
 Никогда больше.
 Кто-нибудь из остальных футурианцев еще жив?  После смерти 4SJ я все чаще думаю о том, как уходят из жизни наши основатели...
 Joseph T Major
-[**Май 9, 2009, 9:33 pm**](/posts/2009-05-08-the-quadrumvirate/)
+[**Май 9, 2009, 9:33 pm**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Патриция сказала:
 Обожаю эти истории о золотых днях НФ! Вы просто сокровищница, мистер Полл.
-[**May 10, 2009, 9:18 am**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 10, 2009, 9:18 am**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - [Sharon E. Dreyer](https://web.archive.org/web/20090819125413/http://www.scifi4free.com/) говорит:
 Мистер Пол: Спасибо тебе за все твои замечательные романы и рассказы. Твои рассказы и других авторов научной фантастики стали тем вдохновением, благодаря которому я захотел писать свои собственные истории. Спасибо тебе еще раз. Проверь мой недавно вышедший роман "Долгое путешествие в Рнеадаль". Этот роман - романтическое приключение в космосе. Береги себя и спасибо за часы развлечений.
-[**May 11, 2009, 6:23 am**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 11, 2009, 6:23 am**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - [Todd Maosn](https://web.archive.org/web/20090819125413/http://www.socialistjazz.com/) говорит:
 Насколько я знаю, Джозеф Майор, Дэвид Кайл все еще с нами. Но это могут быть единственные выжившие, по крайней мере, среди "основных" футурианцев..
-[**Май 14, 2009, 11:48 pm**](/posts/2009-05-08-the-quadrumvirate/)
+[**Май 14, 2009, 11:48 pm**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Джек Робинс говорит:
 Джозеф Т Майор спрашивает: "Кто-нибудь из остальных футурианцев еще жив?"  Да!!! Я все еще жив и достиг 90-летнего возраста.  Извини, я не так известен, как большинство других футурианцев, но я продавал статьи-личный опыт и до сих пор пишу.  
 
 Джек Робинс
-[**Май 15, 2009, 9:11 pm**](/posts/2009-05-08-the-quadrumvirate/)
+[**Май 15, 2009, 9:11 pm**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Томас Байро сказал:
 Для начала я хотел бы выразить тебе огромную признательность за твои достижения на посту редактора IF. Будучи школьником, я с нетерпением ждал выхода очередного номера
 
 Что касается футурианцев, то я считаю, что они породили фанокластов. Fanoclasts, в свою очередь, породили FISTFA. Я руководил последней инкарнацией FISTFA последние 4 года. Я подумал, что ты захочешь посмотреть фотографии с последней встречи, которые я выложил на Bubbleshare. [http://www.bubbleshare.com/myalbum/595814.d3e80de806e/editor](https://web.archive.org/web/20090819125413/http://www.bubbleshare.com/myalbum/595814.d3e80de806e/editor)
-[**May 24, 2009, 8:50 am**](/posts/2009-05-08-the-quadrumvirate/)
+[**May 24, 2009, 8:50 am**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 
 [WordPress](https://web.archive.org/web/20090819125413/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090819125413/http://dicksmithsoftware.com/)

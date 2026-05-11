@@ -4,9 +4,9 @@ date: 2009-02-15
 categories: ["Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Chernobyl", "Films", "Gateway", "Heechee", "Hollywood", "Lawrence Schiller", "Man Plus", "Meg Liberman", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20090224010709/http://www.thewaythefutureblogs.com/2009/02/me-and-the-biz/"
-prev_post_url: "/posts/2009-02-11-farewell-nuku-hiva/"
+prev_post_url: "/fred-pohl/2009-02-11-farewell-nuku-hiva/"
 prev_post_title: "Farewell, Nuku Hiva"
-next_post_url: "/posts/2009-02-18-day-of-the-plutoid/"
+next_post_url: "/fred-pohl/2009-02-18-day-of-the-plutoid/"
 next_post_title: "Day of the Plutoid"
 translated: false
 ---
@@ -61,25 +61,25 @@ I regard that as one more symptom of an industry-wide dementia, and it broke my 
 Mr. Pohl,
 I’m enjoying your blog and wish that all science fiction novelists would follow your lead. Regarding film adaptations, you’re right when you say that not all executives are demented little animals. But not all screenwriters are, either. It isn’t solely the fault of the screenwriter if your book isn’t well adapted. Why don’t the writers contact you? A lot of writers simply don’t want to do this. They consider the script a separate entity. Some writers just wouldn’t think of doing it. And some may have tried to contact other authors, but were rebuffed. But one big, bright reason is that if a studio has optioned rights to a book, they are going to the writer. The writer isn’t bringing the property to the studio. Studios have lists of pre-approved writers they will go to with properties, and it’s almost assured that the writer who takes the assignment wasn’t at all familiar with your work before getting the call. It’s a job, not a calling. Sometimes, a writer will option and adapt a book on spec and usually, this type of writer has a passion for the material and the author. But if you’re a screenwriter who isn’t getting those open writing assignments, you’re probably a screenwriter who doesn’t make a lot of money and an option is expensive. There are many science fiction books I’d love to adapt but can’t afford to option, and I’m a professional TV writer. It would be wonderful, I think, if authors who are eager to see their work translated to film would be willing to work with screenwriters who are passionate about the work. But we’ve all got to make money, one way or the other. So I understand why that usually doesn’t happen.
 This is an incredibly roundabout way of saying that the disappointments you’ve felt can’t be so simply quantified. Just a suggestion that the next time one of your books is optioned, tell the producer or executive that you are open and available for collaboration. Chances are, it just didn’t occur to them!
-[**February 15, 2009, 2:00 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 15, 2009, 2:00 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - [Mike Weasner](https://web.archive.org/web/20090224010709/http://www.weasner.com/) says:
 Mr Pohl,  
 
 I hope your experiences with radio were better.  I enjoy listening to your stories that were aired on X Minus One, Dimension X, and the CBS Radio Workshop.  Perhaps in a future blog entry you could talk about those radio experiences.  
 
 Thanks!  –Mike
-[**February 15, 2009, 8:41 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 15, 2009, 8:41 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - [Jeff](https://web.archive.org/web/20090224010709/http://jeffcrook.blogspot.com/) says:
 Having sat through so many horrible sci-fi movies, what you say doesn’t surprise me in the least.
-[**February 15, 2009, 11:33 pm**](/posts/2009-02-15-me-and-the-biz/)
+[**February 15, 2009, 11:33 pm**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - [Toothsoup: Back to reality.](https://web.archive.org/web/20090224010709/http://toothsoup.com/blog/2009/02/16/back-to-reality/) says:
 [...] Pohl has a go at the sci-fi film industry, with a few amusing [...]
-[**February 16, 2009, 2:42 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 16, 2009, 2:42 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - [SebiMeyer](https://web.archive.org/web/20090224010709/http://www.sebimeyer.com/) says:
 I would like to second the request for some radio-related anecdotes.
  One of the reasons scifi fares so badly in Hollywood (with the exception of a few “boldly” ones) is that it costs so much to realize what good scifi writers like yourself dream up. Sets, special effects and make up cost millions, so it’s somewhat understandable, albeit annoying, that producers are apprehensive about scifi.
  In radio it costs about the same to create scifi as it does to create a murder mystery.
-[**February 16, 2009, 7:31 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 16, 2009, 7:31 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - Nicholas Waller says:
 It occasionally happens that directors/screenwriters and authors collaborate - Michael Powell (director of The Red Shoes, Black Narcissus, The Life and Death of Colonel Blimp and A Matter of Life and Death) liked Ursula le Guin’s Earthsea trilogy and started collaborating with her on it. 
 Mind you, this didn’t result in a production (the various things that have been produced have nothing to do with that script) and so you’re right, in that the studios who did produce the films didn’t really talk to le Guin.
@@ -93,15 +93,15 @@ Powell died nearly 20 years ago, so obviously it’s not still going on now…
 Eventually something came out - the title of this Locus article from Ursula le Guin is “Frankenstein’s Earthsea”!  
 
 [http://www.locusmag.com/2005/Issues/01LeGuin.html](https://web.archive.org/web/20090224010709/http://www.locusmag.com/2005/Issues/01LeGuin.html)
-[**February 16, 2009, 11:43 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 16, 2009, 11:43 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - [Jeff](https://web.archive.org/web/20090224010709/http://jeffcrook.blogspot.com/) says:
 The Legend of Earthsea is a perfect example. I’m glad Nicholas mentioned it. I watched about the first five minutes, saw that it wasn’t Earthsea, and changed the channel. 
 Another fine example is the first Dungeons and Dragons movie - written and produced by people who had never played the game. At least they didn’t have modern players magically transported to a fantasy world, but they might as well have.
-[**February 17, 2009, 8:33 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 17, 2009, 8:33 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 - Larry Lennhoff says:
 I think one part of the problem is that Hollywood keeps trying to make a movie out of a novel, which is really much too big.  If they worked with short stories, novelettes, or even novellas they wouldn’t have to cut so much.
 Of course, some people just want to have the use of the fans of the book while caring nothing for its content.  I refer to *I, Robot as ‘based on a title by Isaac Asimov’, and similarly for Starship Troopers*.
-[**February 17, 2009, 11:03 am**](/posts/2009-02-15-me-and-the-biz/)
+[**February 17, 2009, 11:03 am**](/fred-pohl/2009-02-15-me-and-the-biz/)
 
 [WordPress](https://web.archive.org/web/20090224010709/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090224010709/http://dicksmithsoftware.com/)

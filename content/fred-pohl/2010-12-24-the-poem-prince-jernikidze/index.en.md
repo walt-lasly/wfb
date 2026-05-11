@@ -4,9 +4,9 @@ date: 2010-12-24
 categories: ["Personal"]
 tags: ["Communism", "Joseph Freeman", "Poetry", "Politics"]
 archive_url: "https://web.archive.org/web/20150919065630/http://www.thewaythefutureblogs.com/2010/12/the-poem-prince-jernikidze/"
-prev_post_url: "/posts/2010-12-23-early-days-at-brooklyn-tech-part-3/"
+prev_post_url: "/fred-pohl/2010-12-23-early-days-at-brooklyn-tech-part-3/"
 prev_post_title: "Early Days at Brooklyn Tech, Part 3"
-next_post_url: "/posts/2010-12-25-a-visit-to-prince-mtskheta/"
+next_post_url: "/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/"
 next_post_title: "A Visit to Prince Mtskheta"
 translated: false
 ---
@@ -69,12 +69,12 @@ Keeps accounts for the working class.
 
 - bruce says:
 Fred- off topic, but I\’d like to know what parallels you see between the world of \’The Cool War\’ and today.
-[**December 24, 2010, 10:08 am**](/posts/2010-12-24-the-poem-prince-jernikidze/)
+[**December 24, 2010, 10:08 am**](/fred-pohl/2010-12-24-the-poem-prince-jernikidze/)
 - [deadprogrammer](https://web.archive.org/web/20150919065630/http://www.deadprogrammer.com/) says:
 This reminded me of “Count Aleksey Tolstoy”, a famous Soviet author who along with H.G. Wells and Hugo Gernsback was one of my first exposures to science fiction (for whatever reason I’ve read Gernsback’s now forgotten l Ralph 124C 41+ around the same time as Tolstoy’s  
 
 “Aelita” and Well’s “Time Machine”).  In any case, Aleksey Tolstoy was pejoratively known as “Red Count\”, “Worker and Peasant’s Count”, “Comrade Count”, etc. A popular anecdote about him featured his lackey interrupting a meeting with readers with “your illustriousness, you are needed at the party meeting”.
-[**December 25, 2010, 9:29 am**](/posts/2010-12-24-the-poem-prince-jernikidze/)
+[**December 25, 2010, 9:29 am**](/fred-pohl/2010-12-24-the-poem-prince-jernikidze/)
 
 [WordPress](https://web.archive.org/web/20150919065630/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150919065630/http://dicksmithsoftware.com/)

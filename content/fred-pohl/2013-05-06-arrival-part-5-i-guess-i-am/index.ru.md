@@ -4,9 +4,9 @@ date: 2013-05-06
 categories: ["Authors", "Personal"]
 tags: ["Carol Pohl", "Conventions", "Elizabeth Anne Hull", "Jack Williamson", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170619233954/http://www.thewaythefutureblogs.com/2013/05/arrival-part-5-i-guess-i-am/"
-prev_post_url: "/posts/2013-05-04-bright-sayings-of-bright-people-no-45-voltaire/"
+prev_post_url: "/fred-pohl/2013-05-04-bright-sayings-of-bright-people-no-45-voltaire/"
 prev_post_title: "Bright Sayings of Bright People, No. 45: Voltaire"
-next_post_url: "/posts/2013-05-08-arrival-part-6-the-deal/"
+next_post_url: "/fred-pohl/2013-05-08-arrival-part-6-the-deal/"
 next_post_title: "Arrival, Part 6: The Deal"
 translated: false
 translator: "Yandex"
@@ -43,7 +43,7 @@ translator: "Yandex"
 - Или нет, - сказал я.  “Видите ли, это происходило в последний новогодний день, когда мы принимали шутливые решения.  Только когда мы начали принимать решения о том, чтобы остаться в браке, это перестало быть шуткой.  Не пойти ли нам сейчас на вечеринку в номер SFWA?”
 
 
-Мы добрались до цели, и как только мы миновали стража у ворот, ей больше не понадобилась моя помощь. [** Джек Уильямсон**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/) и еще несколько старожилов просматривали какие-то иностранные журналы НФ возле двери, и когда она заметила его и направилась к нему, он громко сказал ей “Привет”.  Оказалось, что они встречались на каком-то мероприятии на Среднем Западе примерно за год до этого.
+Мы добрались до цели, и как только мы миновали стража у ворот, ей больше не понадобилась моя помощь. [** Джек Уильямсон**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/) и еще несколько старожилов просматривали какие-то иностранные журналы НФ возле двери, и когда она заметила его и направилась к нему, он громко сказал ей “Привет”.  Оказалось, что они встречались на каком-то мероприятии на Среднем Западе примерно за год до этого.
 
 
 Следующие полчаса я провел, обсуждая дела SFWA с кем бы то ни было, и как раз в тот момент, когда я думал сказать ей, что мне нужно уйти, она подошла ко мне и сказала, что ей нужно вставать утром, но номер Джека был на том же этаже, что и ее, в том другом отеле, и он предложил проводить ее домой.
@@ -57,19 +57,19 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [** Прибытие: Самый счастливый аэропорт**](/posts/2013-03-19-arrival-the-happiest-airport/)
-- [** Прибытие, часть 2: Рассказы Хайнлайна**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
-- [** Прибытие, часть 3: Кей Си идет по следам Республиканской партии **](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
-- [** Прибытие, Часть 4: План вечеринки**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
-- [** Прибытие, часть 6: Сделка**](/posts/2013-05-08-arrival-part-6-the-deal/)
-- [**Прибытие, часть 7: Отъезд**](/posts/2013-05-10-arrival-part-7-departure/)
+- [** Прибытие: Самый счастливый аэропорт**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
+- [** Прибытие, часть 2: Рассказы Хайнлайна**](/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/)
+- [** Прибытие, часть 3: Кей Си идет по следам Республиканской партии **](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [** Прибытие, Часть 4: План вечеринки**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
+- [** Прибытие, часть 6: Сделка**](/fred-pohl/2013-05-08-arrival-part-6-the-deal/)
+- [**Прибытие, часть 7: Отъезд**](/fred-pohl/2013-05-10-arrival-part-7-departure/)
 
 
 ### Один комментарий
 
 - Кен говорит:
 Блин, фальшивый финал! Я думал, что история завершается четвертой главой.
-[**6 мая 2013, 18:25 вечера**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+[**6 мая 2013, 18:25 вечера**](/fred-pohl/2013-05-06-arrival-part-5-i-guess-i-am/)
 
 [WordPress](https://web.archive.org/web/20170619233954/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619233954/http://dicksmithsoftware.com/)

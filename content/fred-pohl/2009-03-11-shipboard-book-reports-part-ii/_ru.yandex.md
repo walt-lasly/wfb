@@ -4,9 +4,9 @@ date: 2009-03-11
 categories: ["Books", "Personal", "Travel"]
 tags: ["Ballet", "Films", "Georges Clemenceau", "Henry Fonda", "History", "Jane Fonda", "Katharine Hepburn", "Lloyd George", "Moira Shearer", "Politics", "Roger Vadim", "Spencer Tracy", "William J. Mann", "Woodrow Wilson", "World War I"]
 archive_url: "https://web.archive.org/web/20090409120616/http://www.thewaythefutureblogs.com/2009/03/shipboard-book-reports-part-2/"
-prev_post_url: "/posts/2009-03-05-music-hath-charms/"
+prev_post_url: "/fred-pohl/2009-03-05-music-hath-charms/"
 prev_post_title: "Music Hath Charms"
-next_post_url: "/posts/2009-03-16-verse-decoded/"
+next_post_url: "/fred-pohl/2009-03-16-verse-decoded/"
 next_post_title: "Verse Decoded"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![Jane Fonda in Barbarella](barbarella_002-230x300.jpg)
 
-Было еще четыре книги, которые я спас [из библиотеки Рындама.](/posts/2009-02-20-the-book-place/) Мой интерес к двум из них был вызван неожиданно щедрым ассортиментом американских классических фильмов в "Рындаме". Меня никто не предупреждал, что меня ждет такое угощение.
+Было еще четыре книги, которые я спас [из библиотеки Рындама.](/fred-pohl/2009-02-20-the-book-place/) Мой интерес к двум из них был вызван неожиданно щедрым ассортиментом американских классических фильмов в "Рындаме". Меня никто не предупреждал, что меня ждет такое угощение.
 
 
 Но однажды вечером, когда я переодевался к ужину, телевизор в каюте заставил меня похолодеть.  Молодой человек стоял на своем против могущественного мужчины постарше.  Я не знал ни одного из них по имени, но был почти уверен, что молодой человек был начинающим композитором, желающим, чтобы его взял на работу маэстро тутти ди маэстри ди балетто.*  И буквально через мгновение — подождите — да, появилась [Мойра Ширер](https://web.archive.org/web/20090409120616/http://www.nytimes.com/2006/02/02/arts/02shearer.html), подавшая заявление в ту же труппу в качестве танцовщицы, выглядевшая такой же нежной и милой, какой когда-либо была любая человеческая женщина.
@@ -61,17 +61,17 @@ translator: "Yandex"
 
 ** Сообщение по теме:**
 
-[**Книжный магазин**](/posts/2009-02-20-the-book-place/)
+[**Книжный магазин**](/fred-pohl/2009-02-20-the-book-place/)
 
 
 ### 2 Комментария
 
 - [Стефан Джонс](https://web.archive.org/web/20090409120616/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) говорит:
 Еще одна книга ("Лондон Элизабет") в моем списке желаний!
-[** 15 марта 2009 года, 13:13 утра**](/posts/2009-03-11-shipboard-book-reports-part-ii/)
+[** 15 марта 2009 года, 13:13 утра**](/fred-pohl/2009-03-11-shipboard-book-reports-part-ii/)
 - [кайл Кэссиди](https://web.archive.org/web/20090409120616/http://www.kylecassidy.com/) говорит:
 Однажды, совсем недавно, я столкнулся с Джейн Фондой; она была в книжном магазине, и под мышкой у нее была собачка — маленькая пухлая собачка, которую, когда видишь, на самом деле не замечаешь, потому что это может быть и кухонное полотенце.
-[**24 марта 2009, 14:11 вечера**](/posts/2009-03-11-shipboard-book-reports-part-ii/)
+[**24 марта 2009, 14:11 вечера**](/fred-pohl/2009-03-11-shipboard-book-reports-part-ii/)
 
 [WordPress](https://web.archive.org/web/20090409120616/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090409120616/http://dicksmithsoftware.com/)

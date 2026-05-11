@@ -4,9 +4,9 @@ date: 2009-08-28
 categories: ["Personal"]
 tags: ["Academics", "Arthur C. Clarke", "John Brunner", "New York", "The Last Theorem"]
 archive_url: "https://web.archive.org/web/20091002090451/http://www.thewaythefutureblogs.com/2009/08/when-i-graduated-from-high-school-after-73-years/"
-prev_post_url: "/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
+prev_post_url: "/fred-pohl/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
 prev_post_title: "Fred’s Distilled Writing Wisdom, Part 1"
-next_post_url: "/posts/2009-09-01-more-little-known-fun-facts/"
+next_post_url: "/fred-pohl/2009-09-01-more-little-known-fun-facts/"
 next_post_title: "More Little Known Fun Facts"
 translated: false
 ---
@@ -45,70 +45,70 @@ I do have one problem, though.  I remember matchbook ads for a correspondence sc
 
 - [Jeff](https://web.archive.org/web/20091002090451/http://jeffcrook.blogspot.com/) says:
 Congratulations!
-[**August 28, 2009, 8:29 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 28, 2009, 8:29 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Mike Weasner](https://web.archive.org/web/20091002090451/http://www.weasner.com/) says:
 Congrats!
-[**August 28, 2009, 8:35 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 28, 2009, 8:35 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Stefan Jones](https://web.archive.org/web/20091002090451/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Congratulations!
 As for what you do next . . . one word: *Plastics!*
-[**August 28, 2009, 12:30 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 28, 2009, 12:30 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - A. Shelton says:
 Congratulations!
-[**August 28, 2009, 8:45 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 28, 2009, 8:45 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [christine](https://web.archive.org/web/20091002090451/http://www.midnightferret.c9om/) says:
 My sincere and hearty congratulations!
-[**August 28, 2009, 9:40 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 28, 2009, 9:40 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Farah says:
 Congratulations!
-[**August 29, 2009, 6:40 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 6:40 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Jennifer says:
 What a kind thing to do, and how wonderful for you. Congratulations!
-[**August 29, 2009, 8:19 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 8:19 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Cass](https://web.archive.org/web/20091002090451/http://trifles.livejournal.com/) says:
 Congratulations!
-[**August 29, 2009, 10:20 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 10:20 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Elizabeth Bear says:
 Congratulations!
-[**August 29, 2009, 10:27 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 10:27 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [James A. Owen](https://web.archive.org/web/20091002090451/http://www.heretherebedragons.net/) says:
 That’s the coolest thing I’ve seen all year. Very happy for you, Fred!
-[**August 29, 2009, 10:36 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 10:36 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Chaz Brenchley](https://web.archive.org/web/20091002090451/http://www.chazbrenchley.co.uk/) says:
 Heh. That is so cool. Congratulations!
-[**August 29, 2009, 12:28 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 12:28 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [whump](https://web.archive.org/web/20091002090451/http://whump.com/) says:
 Well done!
-[**August 29, 2009, 1:19 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 1:19 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Ellen Asher says:
 Mazel tov!  
 
 Now maybe you can make something of yourself….
-[**August 29, 2009, 10:43 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 10:43 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [JJ Brannon](https://web.archive.org/web/20091002090451/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 Fred, you’re an inspiration to us all.
 I haven’t seen you since the Heinlein Centennial, when you only a struggling high school dropout, but I knew you had it in you, kid.  :>)
 To the question of what you could have accomplished if only you had stuck it out earlier, I believe Somerset Maugham’s “The Verger” handily answers.
 Congratulations!
 JJB
-[**August 29, 2009, 10:46 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 29, 2009, 10:46 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Chookie](https://web.archive.org/web/20091002090451/http://chookiesbackyard.blogspot.com/) says:
 Congratulations on your graduation… I suppose that the extra $25 won\’t be backdated, though! Pity!
-[**August 30, 2009, 8:54 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 30, 2009, 8:54 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20091002090451/http://beamjockey.livejournal.com/) says:
 Have you given any thought to which college you’d like to attend?
 A lad with your brains really ought to go on to higher education.  I’m sure you could major in a subject that would ensure you a good job after graduation…
-[**August 31, 2009, 9:25 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 31, 2009, 9:25 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - PJ says:
 So… college next?
-[**August 31, 2009, 10:50 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**August 31, 2009, 10:50 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - Marc says:
 What a lovely gesture. Congratulations!
-[**September 2, 2009, 7:31 am**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**September 2, 2009, 7:31 am**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 - [Bekbek](https://web.archive.org/web/20091002090451/http://nothard.blogspot.com/) says:
 This is interesting! I, too, left high school at 17. It would not have been around the same time because, actually, I would have already heard you speak at science fiction conventions a couple of times at that point. Huh. Come to think of it… how often did you mention this brilliant idea of ditching school?! When all is said and done, I think it worked out well for me (so if it was even partly your influence, thank you!), although I did somehow manage to accidentally acquire a bachelor’s and a master’s degree. It wasn’t my intention. And I still don’t have the HS diploma, so you’re easily ahead of me! (Not to mention the successful writing career!) Congratulations!
 By the way, my husband and I both happened upon your site by searching for personal (user-generated) photos of the Ryndam. We will be sailing for just a week in March 2010 and are a little over-eager. When I followed the photo to your blog, I was pleasantly surprised to find that it was hosted by a very familiar name. Thank you. When we get on the Ryndam, I will try to sneak one of your books into the library shelves…
-[**September 16, 2009, 1:03 pm**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
+[**September 16, 2009, 1:03 pm**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/)
 
 [WordPress](https://web.archive.org/web/20091002090451/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002090451/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2012-09-10
 categories: ["Miscellaneous"]
 tags: ["Medicine"]
 archive_url: "https://web.archive.org/web/20050901000000/http://www.thewaythefutureblogs.com/2012/09/why-combat-troops-off-themselves/"
-prev_post_url: "/posts/2012-09-01-maybe-november/"
+prev_post_url: "/fred-pohl/2012-09-01-maybe-november/"
 prev_post_title: "Maybe November?"
-next_post_url: "/posts/2012-09-11-l-jerome-stanton/"
+next_post_url: "/fred-pohl/2012-09-11-l-jerome-stanton/"
 next_post_title: "L. Jerome Stanton"
 translated: false
 ---
@@ -41,10 +41,10 @@ An hour may not sound like a lot, and it is not. But the Reserves’ have 48 hou
 My unit had a suicide three years ago.  All the classic signs were there, but no one person saw them all.  With almost half of all military suicides in the Guard/Reserves, it is hard to be aware of how a person is doing when you only see them once a month.
 Like you wrote, the answers are not easy.  Between repeated deployments with out public support, a lack of understanding from the general population, stress of possible deployment, stress from training to fight indirect attacks (IED, Suicide bombing, etc) and a down economy, I am really surprised that the numbers are not higher.
 We poured millions into protecting Soldiers in Combat and spotting IED’s.  Now we see that worked. Lets hope we can find ways to fix this problem.  (Sitting through power point slides won’t do it either: [http://www.duffelblog.com/2012/08/army-struggles-to-respond-to-epidemic-of-suicides-during-suicide-prevention-briefs/](https://web.archive.org/web/20120920090711/http://www.duffelblog.com/2012/08/army-struggles-to-respond-to-epidemic-of-suicides-during-suicide-prevention-briefs/) )
-[**September 11, 2012, 2:00 pm**](/posts/2012-09-10-why-combat-troops-off-themselves/)
+[**September 11, 2012, 2:00 pm**](/fred-pohl/2012-09-10-why-combat-troops-off-themselves/)
 - [Dan Gollub](https://web.archive.org/web/20120920090711/http://dreampattern.com/) says:
 A reason for suicidal inclinations is a mixture of distressful overt actions and a lack of feeling loved. I believe we have a rudimentary telepathic ability to sense love from another or others, perhaps manifested as a pleasurable feeling of warmth in the mind. The following experiment may test this ability. Two close friends engage in a series of two 30-second trials. On one trial A will try to feel love for B. On the other trial A will think about other topics than B. Will B be able to sense which is the love trial? In any case, feeling loved can significantly enhance consciousness, and the absence of feeling loved may lead to a vulnerability to addictions or to suicidality.
-[**September 11, 2012, 2:58 pm**](/posts/2012-09-10-why-combat-troops-off-themselves/)
+[**September 11, 2012, 2:58 pm**](/fred-pohl/2012-09-10-why-combat-troops-off-themselves/)
 
 [WordPress](https://web.archive.org/web/20120920090711/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120920090711/http://dicksmithsoftware.com/)

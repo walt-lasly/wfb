@@ -4,9 +4,9 @@ date: 2009-01-30
 categories: ["Authors", "Personal", "Space", "Writing"]
 tags: ["Amazing Stories", "C.M. Kornbluth", "Fanzines", "James Blish", "Poetry", "Prozines", "Pulps", "T. O'Conor Sloane"]
 archive_url: "https://web.archive.org/web/19970701000000/http://www.thewaythefutureblogs.com/2009/01/the-poetry-corner/"
-prev_post_url: "/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
+prev_post_url: "/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
 prev_post_title: "Reality-Testing Response from Fred’s Wife, the Aforementioned College Professor"
-next_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
+next_post_url: "/fred-pohl/2009-02-07-seventeen-days-of-fox/"
 next_post_title: "Seventeen Days of Fox"
 translated: false
 translator: "Yandex"
@@ -72,18 +72,18 @@ translator: "Yandex"
 
 ** Сообщение по теме:**
 
-[**Стих расшифрован**](/posts/2009-03-16-verse-decoded/)
+[**Стих расшифрован**](/fred-pohl/2009-03-16-verse-decoded/)
 
 
 ### 4 Комментария
 
 - Уильям говорит:
 Не могли бы вы объяснить, как вы произносите “!”? Я мог бы придумать множество способов, и мне любопытно узнать, какой из них вы имели в виду.
-[** 30 января 2009 года, 12:42 утра**](/posts/2009-01-30-the-poetry-corner/)
+[** 30 января 2009 года, 12:42 утра**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - [Джефф](https://web.archive.org/web/20090415165710/http://jeffcrook.blogspot.com/) говорит:
 Если бы люди только знали, что они создают, когда поощряют пятнадцатилетних писателей.
 Иногда это срабатывает к лучшему.
-[** 30 января 2009 года, 8:26 утра**](/posts/2009-01-30-the-poetry-corner/)
+[** 30 января 2009 года, 8:26 утра**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - адепсис говорит:
 Я воспринимаю это как нечто похожее на приветствие -
 запятая, запятая, амперсанд!  
@@ -94,11 +94,11 @@ translator: "Yandex"
 
 дефис, дефис, точки в строке!
 Было бы особенно весело после того, как немного “расслабишься” на вечеринке.
-[**31 января 2009, 11:04 вечера**](/posts/2009-01-30-the-poetry-corner/)
+[**31 января 2009, 11:04 вечера**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - Кент Клайн говорит:
 Прежде чем перейти по ссылке, чтобы прочитать комментарии, я сам делал “Приветствие восклицательным знаком” и задавался вопросом, улавливаю ли я дух счетчика. Отрадно сознавать, что у адепсиса была похожая реакция на это стихотворение.
 Хорошо повеселиться.
-[**4 февраля 2009 года, 12:00 утра**](/posts/2009-01-30-the-poetry-corner/)
+[**4 февраля 2009 года, 12:00 утра**](/fred-pohl/2009-01-30-the-poetry-corner/)
 
 [WordPress](https://web.archive.org/web/20090415165710/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090415165710/http://dicksmithsoftware.com/)

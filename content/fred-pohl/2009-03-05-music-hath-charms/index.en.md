@@ -4,9 +4,9 @@ date: 2009-03-05
 categories: ["Personal"]
 tags: ["Alberto Ginastera", "Astor Piazzolla", "Beethoven", "Elgin Symphony Orchestra", "Films", "Music", "Yolanda Kondonassis"]
 archive_url: "https://web.archive.org/web/20090507215009/http://www.thewaythefutureblogs.com/2009/03/music-hath-charms/"
-prev_post_url: "/posts/2009-03-02-pictures-from-paradise/"
+prev_post_url: "/fred-pohl/2009-03-02-pictures-from-paradise/"
 prev_post_title: "Pictures from Paradise"
-next_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
+next_post_url: "/fred-pohl/2009-03-11-shipboard-book-reports-part-ii/"
 next_post_title: "Shipboard Book Reports, Part II"
 translated: false
 ---
@@ -48,17 +48,17 @@ So I need to hear these pieces again. Fortunately I can, and if you want to hear
 Thanks for the info on the concert. I have put it on my google calendar! Really enjoy your blog Fred. 
 Thanks,
 Ronan O’Driscoll
-[**March 5, 2009, 9:22 am**](/posts/2009-03-05-music-hath-charms/)
+[**March 5, 2009, 9:22 am**](/fred-pohl/2009-03-05-music-hath-charms/)
 - Eric Horner says:
 While I don’t lean toward strings, especially violins (I am a brass/wind man myself), I looked up both of the Argentinian pieces you mentioned on my favorite MP3 purchase site (emusic.com). From the 30 second clips they had, I was very impressed with the Tangazo.  Not so much the harp concerto.  But, then again, not so much of a harp guy.  I may have to put the streaming webcast on my calendar.
 Keep writing, we appreciate it.
-[**March 5, 2009, 2:24 pm**](/posts/2009-03-05-music-hath-charms/)
+[**March 5, 2009, 2:24 pm**](/fred-pohl/2009-03-05-music-hath-charms/)
 - [Fathercrow](https://web.archive.org/web/20090507215009/http://fathercrow.blogspot.com/) says:
 This sounds interesting. Have you been to Ravinia? They are doing Camelot this June, which should prove to be interesting as well. I just hope I can make it this year.
-[**March 6, 2009, 3:07 am**](/posts/2009-03-05-music-hath-charms/)
+[**March 6, 2009, 3:07 am**](/fred-pohl/2009-03-05-music-hath-charms/)
 - [Phil Paine](https://web.archive.org/web/20090507215009/http://www.philpaine.com/) says:
 Try the brilliant performances (and compositions!) of master double-bassist Edgar Meyer.  His “Double Concerto for Cello and Double Bass” [performed with Yo-Yo Ma], and his Concerto in D for Double Bass and Orchestra are fine. The two pair up again with Mark O’Connor to interpret Appalachian tunes on “Appalachian Waltz” (1996).  Meyer also brilliantly performs the works of Giovanni Bottesini, the Baroque composer most associated with the double bass.
-[**March 12, 2009, 5:03 pm**](/posts/2009-03-05-music-hath-charms/)
+[**March 12, 2009, 5:03 pm**](/fred-pohl/2009-03-05-music-hath-charms/)
 
 [WordPress](https://web.archive.org/web/20090507215009/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090507215009/http://dicksmithsoftware.com/)

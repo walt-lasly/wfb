@@ -4,9 +4,9 @@ date: 2009-09-01
 categories: ["Miscellaneous", "Science"]
 tags: ["Capitalism", "Cats", "Ecology", "Finance", "Politics", "Zoology"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2009/09/more-little-known-fun-facts/"
-prev_post_url: "/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
+prev_post_url: "/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
 prev_post_title: "When I Graduated from High School (After 73 Years)"
-next_post_url: "/posts/2009-09-04-the-worlds-of-l-ron-hubbard/"
+next_post_url: "/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/"
 next_post_title: "The Worlds of L. Ron Hubbard"
 translated: false
 ---
@@ -54,7 +54,7 @@ No, we didn’t make that up.  It’s real.  It’s what it says it is, an assoc
 Maybe so, but I can’t help thinking it’s more like getting their stories together so they’re all giving the same answers to the hard questions.  Questions like: When you had  the Taliban and Osama Bin Laden and all of Al Qaeda licked and running and it only took one more push to put them away for good, why did you pull the troops out to invade Iraq?  And when you did go ahead and invade, why didn’t you immediately seize all the Iraqi explosives and weaponry instead of leaving them unguarded for the terrorists to steal and kill American soldiers with, as they’ve been doing ever since?  And about forty other questions about the doings of the most wrong-headed administration this country has seen, ever.
 
 
-**Related post:** [**Little Known Fun Facts**](/posts/2009-08-17-little-known-fun-facts/)
+**Related post:** [**Little Known Fun Facts**](/fred-pohl/2009-08-17-little-known-fun-facts/)
 
 
 ### 3 Comments
@@ -62,16 +62,16 @@ Maybe so, but I can’t help thinking it’s more like getting their stories tog
 - [Robert Nowall](https://web.archive.org/web/20091002080940/http://www.robertnowall.com/) says:
 On the Fertile Crescent…I suppose sooner or later that’ll mean war over the water.
 On the Bush-Cheney alumni association…I wouldn’t think leaving an armed enemy unfought in your rear would be a particularly good idea, even if you discard violated UN resolutions and numerous threats and promises.
-[**September 1, 2009, 4:27 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**September 1, 2009, 4:27 pm**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 - [Jeff](https://web.archive.org/web/20091002080940/http://jeffcrook.blogspot.com/) says:
 I think the answers to those last questions can be found in the writings of Frank Herbert. Afganistan is Selusa Secundis. Iraq is Arrakis. Bush is Rabban, Cheney the Baron, etc. 
 The man was either a prophet, or astutely aware of the inevitable course of human politics.
-[**September 1, 2009, 8:56 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**September 1, 2009, 8:56 pm**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 - John H says:
 *but the real enemy is dams — the big ones Turkey has erected along the Euphrates…*
 That had me scratching my head because I know the Euphrates flows into Iraq from Syria.  I had to look it up to realize the source is in Turkey.  The Tigris and Euphrates actually begin in nearly the same spot.
 You learn something new every day…
-[**September 3, 2009, 3:33 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**September 3, 2009, 3:33 pm**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 
 [WordPress](https://web.archive.org/web/20091002080940/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002080940/http://dicksmithsoftware.com/)

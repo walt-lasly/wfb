@@ -4,9 +4,9 @@ date: 2009-09-09
 categories: ["Authors", "Personal"]
 tags: ["Editors", "John W. Campbell", "Malcolm Jameson", "New York", "Publishing", "Vida Jameson"]
 archive_url: "https://web.archive.org/web/20260301000000/http://www.thewaythefutureblogs.com/2009/09/the-worlds-of-l-ron-hubbard-part-2/"
-prev_post_url: "/posts/2009-09-04-the-worlds-of-l-ron-hubbard/"
+prev_post_url: "/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/"
 prev_post_title: "The Worlds of L. Ron Hubbard"
-next_post_url: "/posts/2009-09-11-dick/"
+next_post_url: "/fred-pohl/2009-09-11-dick/"
 next_post_title: "Dick"
 translated: false
 translator: "Gemini"
@@ -24,7 +24,7 @@ translator: "Gemini"
 {{< figure src="lronhubbardcolor.jpg" alt="L. Ron Hubbard" caption="L. Ron Hubbard" >}}
 
 
-Ладно. Теперь я потратил [**страницы и страницы**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) на рассказы о [Л. Роне Хаббарде](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html), а сам Рон так ни разу и не появился на странице лично. Что тут происходит?
+Ладно. Теперь я потратил [**страницы и страницы**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/) на рассказы о [Л. Роне Хаббарде](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html), а сам Рон так ни разу и не появился на странице лично. Что тут происходит?
 
 
 Одно из того, что произошло, — это то, что каждый раз, когда я появляюсь на каком-нибудь [Вуффи](https://web.archive.org/web/20090917042016/http://www.writersofthefuture.com/) мероприятии, они обязательно устраивают так, чтобы вскоре появился интервьюер вместе с оператором и звукорежиссером, чтобы записать несколько моих цитат. У них всегда много вопросов, и все они касаются одной конкретной темы. Поскольку я один из немногих, кто еще жив и кто встречался с ним до дней Саентологии, они хотят знать, каким на самом деле был Л. Рон Хаббард.
@@ -78,14 +78,14 @@ translator: "Gemini"
 Их было много, но один из них выделяется, и это тогдашний редактор Astounding/Analog, Джон В. Кэмпбелл-младший. Итак, чтобы продолжить историю, мы перейдем к новому формату. Мы назовем его «Кэмпбелл и Хаббард», и он скоро начнется в блоге.
 
 
-**Связанный пост:** [**Миры Л. Рона Хаббарда**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+**Связанный пост:** [**Миры Л. Рона Хаббарда**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/)
 
 
 ### Один комментарий
 
 - [Сильвия](https://web.archive.org/web/20090917042016/http://www.fearoflanding.com/) говорит:
 Ну, я так понимаю, ты не знаешь, что случилось с Видой? Похоже, это отдельная история.
-[**15 сентября 2009 г., 19:10**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+[**15 сентября 2009 г., 19:10**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 [WordPress](https://web.archive.org/web/20090917042016/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090917042016/http://dicksmithsoftware.com/)

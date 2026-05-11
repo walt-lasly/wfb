@@ -4,9 +4,9 @@ date: 2009-10-01
 categories: ["Science"]
 tags: ["Cats"]
 archive_url: "https://web.archive.org/web/20251101000000/http://www.thewaythefutureblogs.com/2009/10/deborah-websters-solution/"
-prev_post_url: "/posts/2009-09-28-let-there-be-fandom-part-2-school-days/"
+prev_post_url: "/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/"
 prev_post_title: "Let There Be Fandom, Part 2: School Days"
-next_post_url: "/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/"
+next_post_url: "/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/"
 next_post_title: "Let There Be Fandom, Part 3: A Brooklyn Boyhood"
 translated: false
 translator: "Yandex"
@@ -37,22 +37,22 @@ translator: "Yandex"
 
 - Моз говорит:
 Интересно, что она предложила интродуцированный вид вредителя в качестве предпочтительного домашнего животного. Интересно, пытается ли она помочь “ученым” (этой туманной группе неэмоциональных других) развить эмпатию; или показать им, насколько раздражающими могут быть домашние животные, чтобы они были более склонны проводить эксперименты, которые приводят к гибели большого количества диких вредителей. Мне также любопытно, что, по ее мнению, произойдет с вредителями после окончания эксперимента, поскольку, предположительно, они либо вернутся в лабораторию, либо будут утилизированы.
-[**1 октября 2009 года, 2:30 ночи**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**1 октября 2009 года, 2:30 ночи**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - [Ли Голд](https://web.archive.org/web/20091204224043/http://www.conchord.org/xeno/leegold.html) говорит:
 Явный случай зацикленности на кошках: собака могла бы быть столь же полезна.  Хорошая собака могла бы научить ученого бросать мячи, покупать правильный корм для собак, делиться приемлемыми объедками со стола и научиться получать удовольствие от того, что ему моют морду.
-[**2 октября 2009 года, 12:32 утра**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**2 октября 2009 года, 12:32 утра**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - [Джефф](https://web.archive.org/web/20091204224043/http://jeffcrook.blogspot.com/) говорит:
 Я только что получил два. Фотографии здесь: [http://jeffcrook.blogspot.com/2009/09/behold-week-of-cats.html](https://web.archive.org/web/20091204224043/http://jeffcrook.blogspot.com/2009/09/behold-week-of-cats.html)
 С другой стороны, я не ученый.
-[**2 октября 2009 года, 8:14 утра**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**2 октября 2009 года, 8:14 утра**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - Пол Кэмп говорит:
 Ученые не могут справиться с кошками, потому что природа разумна.
-[**3 октября 2009, 10:41 вечера**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**3 октября 2009, 10:41 вечера**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - Патриция говорит:
 Независимо от того, как долго человек сосуществует с домашней кошкой, он никогда не придет к более глубокому пониманию ее.
 Я пришел к тому, чтобы принять это.
 Мне нужно идти, моя кошка сейчас хочет есть.
-[**4 октября 2009, 10:11 вечера**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**4 октября 2009, 10:11 вечера**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 
 [WordPress](https://web.archive.org/web/20091204224043/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091204224043/http://dicksmithsoftware.com/)

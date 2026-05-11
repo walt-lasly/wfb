@@ -4,9 +4,9 @@ date: 2010-12-06
 categories: ["Authors", "Miscellaneous", "Personal", "Travel"]
 tags: ["Agents", "Ann Pohl", "C.M. Kornbluth", "Futurians", "Judith Merril", "Merril Zissman", "New York", "Sexuality"]
 archive_url: "https://web.archive.org/web/20150921163339/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-4-last-attempts-at-having-a-family/"
-prev_post_url: "/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
+prev_post_url: "/fred-pohl/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
 prev_post_title: "Bright Sayings of Bright People, No. 5: James"
-next_post_url: "/posts/2010-12-07-fletcher-pratt/"
+next_post_url: "/fred-pohl/2010-12-07-fletcher-pratt/"
 next_post_title: "Fletcher Pratt"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="Ashokan_Reservoir_from_Wittenberg.jpg" alt="Ashokan Reservoir (Photo by Daniel Case  [GFDL (www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (www.creativecommons.org/licenses/by-sa/3.0/)], from Wikimedia Commons)." caption="Ashokan Reservoir (Photo by Daniel Case)." >}}
 
 
-Наш брак был нанесен [**смертельное ранение**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/).  Однако мы все еще был тот милый крошечный ребенок Энни, чтобы обеспечить дома.  И я даже не был безнадежно зол на Джуди для захоронения этот новый спрос на мне, только обиженные сроки.  Я решила, что Джуди была права на ее половая свобода, если она необходима.  Я просто действительно не ожидал, что проблема будет Вам так срочно так быстро.
+Наш брак был нанесен [**смертельное ранение**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/).  Однако мы все еще был тот милый крошечный ребенок Энни, чтобы обеспечить дома.  И я даже не был безнадежно зол на Джуди для захоронения этот новый спрос на мне, только обиженные сроки.  Я решила, что Джуди была права на ее половая свобода, если она необходима.  Я просто действительно не ожидал, что проблема будет Вам так срочно так быстро.
 
 
 Так что на какое-то время мы ходили всей семьей, Джуди и меня и наших двоих детей.  Джуди бросила свою работу, но мне было хорошо.  Денег не было большой проблемой.  Правда, я признал, что она вполне могла бы превратиться в очень большой очень быстро, если я тоже уволюсь.
@@ -49,7 +49,7 @@ translator: "Yandex"
 Я немного туманно о сроках здесь.  Я расскажу тебе все то, что я помню, но я могу сделать это произошло до того, что смешалось, что я не вижу, почему это было важно, все равно.
 
 
-Мы продолжали жить, как будто мы по-прежнему процветающей на некоторое время.  Мы оставили машину.   В то лето мы снимали большой дом, над [ashokan водохранилище](https://web.archive.org/web/20150921163339/http://www.hvmag.com/Hudson-Valley-Magazine/August-2008/History-The-Ashokan-Reservoir/) в красивом буколической обстановкой в ста милях к северу от Нью-Йорка, где Джуди и дети жили в то лето, когда я приехал на выходные.  Одна из лучших вещей об Ашоканом месте было то, что он дал нам много места для друзей остаются с нами.  (Один из гостей, мне больше всего запомнилось был [**Сирил корнблат**](/posts/2009-04-20-cyril/).  Это было потому, что я сделал ошибку, выпивая с Кириллом одну ночь.  Двумя пьяными раз я был за всю мою жизнь были с Кириллом, и это был один из них.  Джуди объект? Конечно, нет.  Она думала, что я пьянее, тем смешнее у меня, даже когда, на следующее утро, она должна была собрать и моя прошла-из тела, из соседского дома.)
+Мы продолжали жить, как будто мы по-прежнему процветающей на некоторое время.  Мы оставили машину.   В то лето мы снимали большой дом, над [ashokan водохранилище](https://web.archive.org/web/20150921163339/http://www.hvmag.com/Hudson-Valley-Magazine/August-2008/History-The-Ashokan-Reservoir/) в красивом буколической обстановкой в ста милях к северу от Нью-Йорка, где Джуди и дети жили в то лето, когда я приехал на выходные.  Одна из лучших вещей об Ашоканом месте было то, что он дал нам много места для друзей остаются с нами.  (Один из гостей, мне больше всего запомнилось был [**Сирил корнблат**](/fred-pohl/2009-04-20-cyril/).  Это было потому, что я сделал ошибку, выпивая с Кириллом одну ночь.  Двумя пьяными раз я был за всю мою жизнь были с Кириллом, и это был один из них.  Джуди объект? Конечно, нет.  Она думала, что я пьянее, тем смешнее у меня, даже когда, на следующее утро, она должна была собрать и моя прошла-из тела, из соседского дома.)
 
 
 Затем, я считаю, что зима, мы сняли другой дом в совсем другой части района.  Тот был в [Рокуэй-Бич](https://web.archive.org/web/20150921163339/http://maps.google.com/maps?hl=en&q=rockaway+beach+queens&client=firefox-a&ie=UTF8&hq=&hnear=Rockaway+Beach,+Queens,+New+York&gl=us&ei=p9_6TMCbO9CPnweP6ITJCg&oi=geocode_result&sqi=2&ved=0CBgQ8gEwAA&ll=40.635841,-73.912582&spn=0.159968,0.703125&z=11), и мы приняли его, потому что Джуди очень боялась, чтобы у нашей два любимых детей, проживающих в Нью-Йорке во время полиомиелита напугать.  (Если вы слишком молоды, чтобы знать, что те, [погуглите](https://web.archive.org/web/20150921163339/http://lmgtfy.com/?q=polio+scare).) Это один из тех случаев, где я немного запутался.  Все, что зимой, замерзая в Рокуэй-Бич, я уже летала пять дней в неделю офис в Нью-Йорке.  Я просто не помню какой кабинет.  К сожалению.
@@ -72,7 +72,7 @@ translator: "Yandex"
 
 **Соответствующие должности:**  
 
-**Джудит Меррил,** [**Часть 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Часть 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Часть 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Часть 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Часть 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Часть 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+**Джудит Меррил,** [**Часть 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [**Часть 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [**Часть 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Часть 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [**Часть 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Часть 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 [На WordPress](https://web.archive.org/web/20150921163339/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150921163339/http://dicksmithsoftware.com/)

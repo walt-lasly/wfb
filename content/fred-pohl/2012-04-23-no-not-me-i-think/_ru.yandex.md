@@ -4,9 +4,9 @@ date: 2012-04-23
 categories: ["Personal"]
 tags: ["Advertising", "Prozines", "Television"]
 archive_url: "https://web.archive.org/web/20010101000000/http://www.thewaythefutureblogs.com/2012/04/no-not-me-i-think/"
-prev_post_url: "/posts/2012-04-22-bright-sayings-of-bright-people-no-29/"
+prev_post_url: "/fred-pohl/2012-04-22-bright-sayings-of-bright-people-no-29/"
 prev_post_title: "Bright Sayings of Bright People, No. 29"
-next_post_url: "/posts/2012-04-26-a-e-van-vogt-throw-a-corpse-through-the-skylight/"
+next_post_url: "/fred-pohl/2012-04-26-a-e-van-vogt-throw-a-corpse-through-the-skylight/"
 next_post_title: "A.E. van Vogt: ‘Throw a Corpse Through the Skylight.’"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 ![Madmen](madmen.jpg)
 
 
-Люди [** спрашивали**](/posts/2012-04-16-remembering-lowndes-and-the-futurians-part-2/), являюсь ли я моделью для рекламщика Mad Ave., который пишет для Galaxy под псевдонимами.  Я так не думаю.
+Люди [** спрашивали**](/fred-pohl/2012-04-16-remembering-lowndes-and-the-futurians-part-2/), являюсь ли я моделью для рекламщика Mad Ave., который пишет для Galaxy под псевдонимами.  Я так не думаю.
 
 
 Правда, когда-то я работал в рекламном агентстве на Мэдисон-авеню, но "Туинг энд Альтман" был слишком маленьким магазинчиком, чтобы поддерживать все эти прелюбодеяния.  И, да, я действительно написал довольно много для the real Galaxy, и некоторые рассказы действительно появлялись под псевдонимами, особенно когда у меня было больше одного рассказа в номере.  Но нет.  Я даже никого не знаю из участников программы.
@@ -38,14 +38,14 @@ translator: "Yandex"
 
 - [ТЭД](https://web.archive.org/web/20120508223052/http://www.tadsbackupplan.blogspot.com/) говорит:
 Я уверен, вы, должно быть, видели тот эпизод "ЗВЕЗДНОГО пути: ГЛУБОКИЙ КОСМОС ДЕВЯТЬ", в котором фигурировала Galaxy? Это было действительно превосходно....
-[** 23 апреля 2012 года, 3:30 утра**](/posts/2012-04-23-no-not-me-i-think/)
+[** 23 апреля 2012 года, 3:30 утра**](/fred-pohl/2012-04-23-no-not-me-i-think/)
 - [Роберт Новолл](https://web.archive.org/web/20120508223052/http://www.robertnowall.com/) говорит:
 Если в шоу будет достаточно упоминаний о Galaxy, возможно, кто-нибудь возродит его.  (Кому сейчас принадлежат права?)
 Я был бы рад увидеть еще несколько печатных журналов... читать онлайн - это совсем не то же самое... Я даже был бы рад возвращению Worlds of If…
-[** 24 апреля 2012 года, 5:59 утра**](/posts/2012-04-23-no-not-me-i-think/)
+[** 24 апреля 2012 года, 5:59 утра**](/fred-pohl/2012-04-23-no-not-me-i-think/)
 - [лок](https://web.archive.org/web/20120508223052/http://buffalo.edu/) говорит:
 Некоторое время я задавался вопросом, не является ли Альфред Бестер одной из вдохновляющих сил, стоящих за “Безумцами”.  Он был в значительной степени частью сцены на Мэдисон-авеню, инсценированной в шоу; два его романа, не относящихся к НФ, “Крысиные бега” и опубликованный посмертно “Нежная любовная ярость”, явно основаны на этом мире, а “Разрушенный Человек (The Demolished Man)” (впервые опубликован в “Galaxy”) явно основаны на этом мире., как отмечали Уильям Гибсон и многие другие, также “о” том мире, преломленном через призму научной фантастики.  Психологические загадки главного героя “Безумцев” также могли бы прекрасно вписаться в историю Бестера.  Я не говорю, что Бестер - единственный кандидат на роль модели персонажа для шоу, но он чертовски хорош.
-[**28 апреля 2012, 14:29 вечера**](/posts/2012-04-23-no-not-me-i-think/)
+[**28 апреля 2012, 14:29 вечера**](/fred-pohl/2012-04-23-no-not-me-i-think/)
 
 [WordPress](https://web.archive.org/web/20120508223052/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120508223052/http://dicksmithsoftware.com/)

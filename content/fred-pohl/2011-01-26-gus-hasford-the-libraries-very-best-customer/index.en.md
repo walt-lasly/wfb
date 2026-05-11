@@ -4,9 +4,9 @@ date: 2011-01-26
 categories: ["Authors", "Books"]
 tags: ["Editors", "Elizabeth Anne Hull", "Films", "Gateways", "Gustav Hasford", "Isaac Asimov", "Marc Jaffe", "Publishing", "Stanley Kubrick"]
 archive_url: "https://web.archive.org/web/20140701000000/http://www.thewaythefutureblogs.com/2011/01/gus-hasford-the-libraries-very-best-customer/"
-prev_post_url: "/posts/2011-01-25-getting-away-from-guns-at-least-temporarily/"
+prev_post_url: "/fred-pohl/2011-01-25-getting-away-from-guns-at-least-temporarily/"
 prev_post_title: "Getting Away from Guns (At Least Temporarily)"
-next_post_url: "/posts/2011-01-28-the-rich-get-rich/"
+next_post_url: "/fred-pohl/2011-01-28-the-rich-get-rich/"
 next_post_title: "The Rich Get Rich"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="hasford.jpg" alt="Gus Hasford" caption="Gustav Hasford" >}}
 
 
-By the time [**Samuel R. Delany’s**](/posts/2010-11-20-chip-delany/) [**Dhalgren**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/) came along, I had pretty well accomplished my main purpose in going to work for Bantam — to get the taste of my brief but horrid experience at Ace Books out of my mouth — and was happily writing some quite good science fiction of my own.  I really had done all I wanted to do at Bantam, but it took me a while to get myself out of there, partly because it didn’t seem sensible of me to leave the easiest job I had ever had, and partly for winding up some loose ends and partly just out of inertia.
+By the time [**Samuel R. Delany’s**](/fred-pohl/2010-11-20-chip-delany/) [**Dhalgren**](/fred-pohl/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/) came along, I had pretty well accomplished my main purpose in going to work for Bantam — to get the taste of my brief but horrid experience at Ace Books out of my mouth — and was happily writing some quite good science fiction of my own.  I really had done all I wanted to do at Bantam, but it took me a while to get myself out of there, partly because it didn’t seem sensible of me to leave the easiest job I had ever had, and partly for winding up some loose ends and partly just out of inertia.
 
 
 And then, just when I was beginning to see daylight, the mail boy brought me a manuscript from somebody named [Gustav Hasford](https://web.archive.org/web/20161227155402/http://www.gustavhasford.com/), who said that we had spent some time together at a Milford Writers’ Conference, and so he was asking me to be absolutely candid about the novel ms. he was enclosing.
@@ -68,7 +68,7 @@ I didn’t keep up with Hasford’s later publications, but a few years after th
 It seems he had some overdue library books.
 
 
-Now, understand that here I’m not talking about maybe a couple of [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) books, [Asimov’s Guide to Everything](https://web.archive.org/web/20161227155402/http://www.amazon.com/gp/product/0449220591?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0449220591) and  [Asimov’s Guide to Everything Else](https://web.archive.org/web/20161227155402/http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_noss%26y%3D0%26field-keywords%3Dasimov%2527s%2520guide%26url%3Dsearch-alias%253Daps&tag=twtfb-20&linkCode=ur2&camp=1789&creative=390957) and maybe one [**science-fiction anthology**](/posts/2009-01-01-elizabeth-anne-hull/) edited by my favorite anthologist (the one I’m married to, dope).  No, this was an operation on a larger scale.
+Now, understand that here I’m not talking about maybe a couple of [**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) books, [Asimov’s Guide to Everything](https://web.archive.org/web/20161227155402/http://www.amazon.com/gp/product/0449220591?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0449220591) and  [Asimov’s Guide to Everything Else](https://web.archive.org/web/20161227155402/http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_noss%26y%3D0%26field-keywords%3Dasimov%2527s%2520guide%26url%3Dsearch-alias%253Daps&tag=twtfb-20&linkCode=ur2&camp=1789&creative=390957) and maybe one [**science-fiction anthology**](/fred-pohl/2009-01-01-elizabeth-anne-hull/) edited by my favorite anthologist (the one I’m married to, dope).  No, this was an operation on a larger scale.
 
 
 What seemed to have happened was that Hasford moved around a lot, and whenever he struck a new place, he’d take out a library card and pick up some reading material to take home.  That, of course, was just about what the library people wanted him to do, except that he omitted an important final step.  He checked the books out.  He just didn’t bring them back.  By the time the authorities visited his home, he had [thousands of books](https://web.archive.org/web/20161227155402/http://www.gustavhasford.com/books.htm) from public libraries all over the United States and assorted other countries.
@@ -83,16 +83,16 @@ Surprised?  Don’t be.  It’s a matter of public record that a few science-fic
 Did I miss the post(s) on the horrible Ace experience?
 “Then Stanley Kubrick made it into a movie, called Full Metal Jacket”
 Holy cripes, what a discovery!
-[**January 26, 2011, 9:39 pm**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**January 26, 2011, 9:39 pm**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 - David B. Williams says:
 You omitted the third gratification an editor can receive, seeing one of his no-name writers get a big wad of cash for his work. To bad Hasford wasn’t an SF writer (and therefore especially in need of remuneration).
-[**January 27, 2011, 8:48 am**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**January 27, 2011, 8:48 am**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 - PJ says:
 I hope you won’t keep your magazine idea under wraps forever; why not try it as a webzine? It wouldn’t have to be too different from your blog, actually – consider it a blog with guest writers.  If you’re dedicated to an actual magazine format, you might try working with someone like baen since they have the infrastructure to do online ebooks easily.
-[**January 27, 2011, 9:34 am**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**January 27, 2011, 9:34 am**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 - [Bill Goodwin](https://web.archive.org/web/20161227155402/http://771715/) says:
 Let’s sheath library books in magnesium.  A radioisotope-timer in the binding could fission eventually, igniting the material and causing an explosion. We could call it a Full Metal Dustjacket.
-[**January 28, 2011, 6:40 am**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**January 28, 2011, 6:40 am**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 - [Gary Farber](https://web.archive.org/web/20161227155402/http://amygdalagf.blogspot.com/) says:
 Fred, I tried to buy the sequel, The Phantom Blooper, when I was at Avon in the mid-eighties.  It’s just as good.
 It was subsequently published: [The Phantom Blooper](https://web.archive.org/web/20161227155402/http://www.gustavhasford.com/phantom.html).
@@ -100,13 +100,13 @@ We couldn’t mostly because of the legal problems, and the whole fleeing the co
 We had a great Vietnam line, fiction and nonfiction, at Avon.  including Michael Herr’s Dispatches.  Which was also part of what was made into Kubrick’s film.   
 We did many other many other Vietnam classics, both nonfiction and fiction, in that line.  Which John Douglas was responsible for; I merely assisted.  And the line pre-dated him, of course; you know how it goes.
 Thanks for all your great stories.
-[**January 29, 2011, 5:29 pm**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**January 29, 2011, 5:29 pm**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 - [Anton Sherwood](https://web.archive.org/web/20161227155402/http://bendwavy.org/) says:
 You could put your great idea for a magazine in a sealed envelope “to be opened in the event of my death or permanent incapacity”.
-[**June 7, 2011, 3:11 am**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**June 7, 2011, 3:11 am**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 - [Anton Sherwood](https://web.archive.org/web/20161227155402/http://bendwavy.org/) says:
 Was I the only one hoping that [the link](https://web.archive.org/web/20161227155402/http://www.gustavhasford.com/books.htm) would have a list of the borrowed books?
-[**June 7, 2011, 3:13 am**](/posts/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
+[**June 7, 2011, 3:13 am**](/fred-pohl/2011-01-26-gus-hasford-the-libraries-very-best-customer/)
 
 [WordPress](https://web.archive.org/web/20161227155402/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20161227155402/http://dicksmithsoftware.com/)

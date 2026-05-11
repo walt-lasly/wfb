@@ -4,9 +4,9 @@ date: 2013-08-22
 categories: ["Miscellaneous", "Science"]
 tags: ["Ecology", "Politics"]
 archive_url: "https://web.archive.org/web/20210501000000/http://www.thewaythefutureblogs.com/2013/08/why-stop-fracking/"
-prev_post_url: "/posts/2013-08-21-stop-fracking/"
+prev_post_url: "/fred-pohl/2013-08-21-stop-fracking/"
 prev_post_title: "Stop Fracking!"
-next_post_url: "/posts/2013-08-27-cheery-note-for-mountain-climbers/"
+next_post_url: "/fred-pohl/2013-08-27-cheery-note-for-mountain-climbers/"
 next_post_title: "Cheery note for mountain climbers"
 translated: false
 ---
@@ -36,7 +36,7 @@ We’ve already driven thousands of species of living things into extinction.  D
 
 - John Armstrong says:
 Honestly, I can see us not really taking this seriously until far too late, like the man who jumped off the Empire State Building … “So far, so good”… our children will curse us
-[**August 24, 2013, 6:54 pm**](/posts/2013-08-22-why-stop-fracking/)
+[**August 24, 2013, 6:54 pm**](/fred-pohl/2013-08-22-why-stop-fracking/)
 - Greg C. says:
 Well, respectfully, I’d suggest that further research is required before making so blanket a statement. And as Fred is someone who researched UFOs before coming down on the “this is bunk” side, perhaps it would be advisable to spend the same effort.
 On the negative side:
@@ -50,12 +50,12 @@ The real problem:
 Not enough research has been done into how to accomplish fracking safely. And the fear of its opponents is (reasonably) fanned by the opacity and defensiveness of industry.
 The point is: This is a promising technology with some positive benefits. It should neither be opposed nor mindlessly supported; it should be supported, with reasonable safeguards in place.
 The difficulty is that, in this political climate, it’s almost impossible to do what’s sensible; supporters seek to suppress any sort of control, opponents seek to suppress any implementation. This is, objectively, nuts.
-[**August 24, 2013, 9:05 pm**](/posts/2013-08-22-why-stop-fracking/)
+[**August 24, 2013, 9:05 pm**](/fred-pohl/2013-08-22-why-stop-fracking/)
 - [John C. Boland](https://web.archive.org/web/20160416130605/http://www.perfectcrimebooks.com/) says:
 Dear Fred,
 I’m going to start thinking of you as “Fred the Baptist.”
 Best wishes nonetheless.
-[**August 25, 2013, 5:11 pm**](/posts/2013-08-22-why-stop-fracking/)
+[**August 25, 2013, 5:11 pm**](/fred-pohl/2013-08-22-why-stop-fracking/)
 
 [WordPress](https://web.archive.org/web/20160416130605/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416130605/http://dicksmithsoftware.com/)

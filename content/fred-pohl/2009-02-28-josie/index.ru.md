@@ -4,9 +4,9 @@ date: 2009-02-28
 categories: ["Authors", "Personal"]
 tags: ["Hugo Awards", "Jack McKnight", "Philip José Farmer"]
 archive_url: "https://web.archive.org/web/20090317072126/http://www.thewaythefutureblogs.com/2009/02/josie/"
-prev_post_url: "/posts/2009-02-25-philip-josé-farmer-1918-2009/"
+prev_post_url: "/fred-pohl/2009-02-25-philip-josé-farmer-1918-2009/"
 prev_post_title: "Philip José Farmer, 1918–2009"
-next_post_url: "/posts/2009-03-02-pictures-from-paradise/"
+next_post_url: "/fred-pohl/2009-03-02-pictures-from-paradise/"
 next_post_title: "Pictures from Paradise"
 translated: false
 translator: "DeepL"
@@ -50,12 +50,12 @@ translator: "DeepL"
 
 - teletypeturtle говорит:
 Логичная мысль, конечно! Спасибо за это воспоминание.
-[**March 1, 2009, 9:27 am**](/posts/2009-02-28-josie/)
+[**March 1, 2009, 9:27 am**](/fred-pohl/2009-02-28-josie/)
 - [Дэнни Адамс](https://web.archive.org/web/20090317072126/http://dda.wwco.com/) говорит:
 >>В родословной Фила не было ни одного из этих старых, хладнокровных священников<<
 Хотя он, конечно, ужасно старался их найти.
 "Мне не нужны короли и королевы", - сказал он мне однажды, - "мне нужны конокрады"
-[**Март 8, 2009, 20:30 pm**](/posts/2009-02-28-josie/)
+[**Март 8, 2009, 20:30 pm**](/fred-pohl/2009-02-28-josie/)
 
 [WordPress](https://web.archive.org/web/20090317072126/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090317072126/http://dicksmithsoftware.com/)

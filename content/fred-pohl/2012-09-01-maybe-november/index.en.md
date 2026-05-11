@@ -4,9 +4,9 @@ date: 2012-09-01
 categories: ["Personal"]
 tags: ["Chicago", "Conventions", "Worldcons"]
 archive_url: "https://web.archive.org/web/20260501000000/http://www.thewaythefutureblogs.com/2012/09/maybe-november/"
-prev_post_url: "/posts/2012-08-31-all-about-the-first-con-maybe/"
+prev_post_url: "/fred-pohl/2012-08-31-all-about-the-first-con-maybe/"
 prev_post_title: "All About the First Con (Maybe)"
-next_post_url: "/posts/2012-09-10-why-combat-troops-off-themselves/"
+next_post_url: "/fred-pohl/2012-09-10-why-combat-troops-off-themselves/"
 next_post_title: "Why Combat Troops Off Themselves"
 translated: false
 ---
@@ -41,7 +41,7 @@ So unless some sort of game-changing event happens between now and then, I’ll 
 Windycon, here I come  
 
  
-[**September 1, 2012, 12:12 pm**](/posts/2012-09-01-maybe-november/)
+[**September 1, 2012, 12:12 pm**](/fred-pohl/2012-09-01-maybe-november/)
 
 [WordPress](https://web.archive.org/web/20120920033415/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120920033415/http://dicksmithsoftware.com/)

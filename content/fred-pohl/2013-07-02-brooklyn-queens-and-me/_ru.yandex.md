@@ -4,9 +4,9 @@ date: 2013-07-02
 categories: ["Personal"]
 tags: ["New York"]
 archive_url: "https://web.archive.org/web/20190301000000/http://www.thewaythefutureblogs.com/2013/07/brooklyn-queens-and-me/"
-prev_post_url: "/posts/2013-06-28-why-the-greedy-old-party-needs-a-licking/"
+prev_post_url: "/fred-pohl/2013-06-28-why-the-greedy-old-party-needs-a-licking/"
 prev_post_title: "Why the Greedy Old Party Needs a Licking"
-next_post_url: "/posts/2013-07-08-using-your-head/"
+next_post_url: "/fred-pohl/2013-07-08-using-your-head/"
 next_post_title: "Using Your Head"
 translated: false
 translator: "Yandex"
@@ -40,11 +40,11 @@ translator: "Yandex"
 
 - Феофилакт говорит:
 Эй, я живу в Вашингтоне, и я могу добраться до парка Рок-Крик на метро. Это национальный парк, в два раза больше Центрального парка, и в нем больше дикой природы, чем он может выдержать, включая популяцию оленей, насчитывающую около 300 особей.
-[** 25 июля 2013 года, 11:45 утра**](/posts/2013-07-02-brooklyn-queens-and-me/)
+[** 25 июля 2013 года, 11:45 утра**](/fred-pohl/2013-07-02-brooklyn-queens-and-me/)
 - Джей [Джей Брэннон](https://web.archive.org/web/20170619214607/http://www.youtube.com/watch?v=xPgZeOsG8sk) говорит:
 Фред, хотя я прихожу сюда в первую очередь для того, чтобы насладиться твоим острым остроумием и воспоминаниями, этот пост практически повторяет тот, что был опубликован в середине мая, за исключением того, что, по-видимому, Международный аэропорт Кеннеди действовал в 1930-х годах, когда я думал, что Айдлуайлд был построен после Второй мировой войны.
 JJB
-[**25 июля 2013, 11:12 вечера**](/posts/2013-07-02-brooklyn-queens-and-me/)
+[**25 июля 2013, 11:12 вечера**](/fred-pohl/2013-07-02-brooklyn-queens-and-me/)
 
 [WordPress](https://web.archive.org/web/20170619214607/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619214607/http://dicksmithsoftware.com/)

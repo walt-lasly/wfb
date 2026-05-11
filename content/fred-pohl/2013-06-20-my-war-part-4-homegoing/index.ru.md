@@ -4,9 +4,9 @@ date: 2013-06-20
 categories: ["Travel"]
 tags: ["History", "Meteorology", "World War II"]
 archive_url: "https://web.archive.org/web/20261201000000/http://www.thewaythefutureblogs.com/2013/06/my-war-part-4-homegoing/"
-prev_post_url: "/posts/2013-06-18-hey-occupy-take-aim-at-the-nra/"
+prev_post_url: "/fred-pohl/2013-06-18-hey-occupy-take-aim-at-the-nra/"
 prev_post_title: "Hey, Occupy! Take aim at the NRA"
-next_post_url: "/posts/2013-06-23-bright-sayings-of-bright-people-no-48-sachs/"
+next_post_url: "/fred-pohl/2013-06-23-bright-sayings-of-bright-people-no-48-sachs/"
 next_post_title: "Bright Sayings of Bright People, No. 48: Sachs"
 translated: false
 translator: "Yandex"
@@ -66,9 +66,9 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- **Моя война**, [** Часть 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/), [** Часть 2**](/posts/2013-05-21-my-war-part-2-flying-a-desk/), [** Часть 3**](/posts/2013-06-14-my-war-part-3-picture-perfect/)
-- [** Хэл Клемент: майор Гарри Стаббс**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
-- [** Как я потерял своего самого старого друга (и приобрел литературное агентство)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
+- **Моя война**, [** Часть 1**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/), [** Часть 2**](/fred-pohl/2013-05-21-my-war-part-2-flying-a-desk/), [** Часть 3**](/fred-pohl/2013-06-14-my-war-part-3-picture-perfect/)
+- [** Хэл Клемент: майор Гарри Стаббс**](/fred-pohl/2011-03-01-hal-clement-major-harry-stubbs/)
+- [** Как я потерял своего самого старого друга (и приобрел литературное агентство)**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### Один комментарий
@@ -76,7 +76,7 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20170620024149/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 По какой-то причине вы не часто слышите истории о транспортных поездках времен Второй мировой войны... Я думаю, для большинства парней это была просто скука, смешанная с морской болезнью.
 Заставляйте их приближаться!
-[**20 июня 2013, 14:06 вечера**](/posts/2013-06-20-my-war-part-4-homegoing/)
+[**20 июня 2013, 14:06 вечера**](/fred-pohl/2013-06-20-my-war-part-4-homegoing/)
 
 [WordPress](https://web.archive.org/web/20170620024149/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620024149/http://dicksmithsoftware.com/)

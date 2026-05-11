@@ -4,9 +4,9 @@ date: 2014-01-13
 categories: ["Betty's Posts", "Writing"]
 tags: ["Academics", "Ecology", "Elizabeth Anne Hull", "Language"]
 archive_url: "https://web.archive.org/web/20190501000000/http://www.thewaythefutureblogs.com/2014/01/stumbling-blocks-to-persuasive-writing/"
-prev_post_url: "/posts/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
+prev_post_url: "/fred-pohl/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
 prev_post_title: "More onThe Space Merchants, 21st Century Edition"
-next_post_url: "/posts/2014-01-15-say-no-to-the-keystone-xl-pipeline/"
+next_post_url: "/fred-pohl/2014-01-15-say-no-to-the-keystone-xl-pipeline/"
 next_post_title: "Say No to the Keystone XL Pipeline!"
 translated: false
 ---
@@ -62,11 +62,11 @@ We need a second list, summing up the rules for pluralization, possesives, and a
 * * *  
 
 Large picture: Too many people do not read enough to know what properly composed sentences look like. Which likely started when they didn’t get read *to* enough as kids.
-[**January 13, 2014, 11:32 am**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**January 13, 2014, 11:32 am**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - Nate Whilk says:
 dnot you tnihk taht it’s an imposition to ecpxet the lntiesr or rdaeer to usternad waht a pornes is tnyirg to say?
 Seriously, there are a zillion ideas out there. If someone has an idea they think is great, why doesn’t that motivate that person to make sure people can read it? If they won’t make that basic effort, why should *I* expend that effort on it?
-[**January 13, 2014, 10:24 pm**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**January 13, 2014, 10:24 pm**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - Steve Leavell says:
 A little something I wrote a few years ago while teaching summer school:
 “Apostrophe to the Apostrophe”
@@ -77,14 +77,14 @@ Your a pesky little piece of punctuation.
 You are a source of constant consternation,  
 
 And explanation’s dont do any good.
-[**January 15, 2014, 3:27 pm**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**January 15, 2014, 3:27 pm**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - H. E. Parmer says:
 “I got all these great ideas, but I don’t know how to spell ’em!”
 Jack Carson, as aspiring playwright Officer O’Hara, in Frank Capra’s “Arsenic and Old Lace”
-[**January 16, 2014, 4:26 pm**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**January 16, 2014, 4:26 pm**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - pjcamp says:
 Just so you know, you’re doing an awesome job continuing the blog. Fred would be proud.
-[**January 19, 2014, 1:56 am**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**January 19, 2014, 1:56 am**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 
 [WordPress](https://web.archive.org/web/20160416125329/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416125329/http://dicksmithsoftware.com/)

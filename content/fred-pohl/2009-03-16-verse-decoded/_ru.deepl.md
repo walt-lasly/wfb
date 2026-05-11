@@ -4,9 +4,9 @@ date: 2009-03-16
 categories: ["Personal", "Writing"]
 tags: ["Audio", "Poetry", "Radio"]
 archive_url: "https://web.archive.org/web/20090326021758/http://www.thewaythefutureblogs.com/2009/03/verse-decoded/"
-prev_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
+prev_post_url: "/fred-pohl/2009-03-11-shipboard-book-reports-part-ii/"
 prev_post_title: "Shipboard Book Reports, Part II"
-next_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+next_post_url: "/fred-pohl/2009-03-18-me-and-the-biz-part-ii/"
 next_post_title: "Me and the Biz, Part II"
 translated: false
 translator: "DeepL"
@@ -23,7 +23,7 @@ translator: "DeepL"
 
 ![Восклицательный знак](exclam-sm.gif)
 
-[**Недавно**](/posts/2009-01-30-the-poetry-corner/) я привел несколько ранних примеров своего поэтического периода (который, по приблизительным подсчетам, длился с 14 до 19 лет, с несколькими более поздними рецидивами).  Одним из них была своего рода головоломка под названием "!", которая выглядела следующим образом:
+[**Недавно**](/fred-pohl/2009-01-30-the-poetry-corner/) я привел несколько ранних примеров своего поэтического периода (который, по приблизительным подсчетам, длился с 14 до 19 лет, с несколькими более поздними рецидивами).  Одним из них была своего рода головоломка под названием "!", которая выглядела следующим образом:
 
 
 {{< poem title="!" >}}
@@ -36,7 +36,7 @@ translator: "DeepL"
 {{< /poem >}}
 
 
-[**Некоторые из вас**](/posts/2009-01-30-the-poetry-corner/) смогли довольно хорошо интерпретировать это, но для тех, кто не смог, я прочитаю это вам:
+[**Некоторые из вас**](/fred-pohl/2009-01-30-the-poetry-corner/) смогли довольно хорошо интерпретировать это, но для тех, кто не смог, я прочитаю это вам:
 
 {{< audio src="frederik-pohl_exclamation-point_2009.mp3" caption="Fred Pohl reads \"Exclamation Point\" (2009)" >}}
 
@@ -59,7 +59,7 @@ translator: "DeepL"
 
 **Related post:**
 
-[**Уголок поэзии**](/posts/2009-01-30-the-poetry-corner/)
+[**Уголок поэзии**](/fred-pohl/2009-01-30-the-poetry-corner/)
 
 
 ### 2 комментария
@@ -67,10 +67,10 @@ translator: "DeepL"
 - PJ сказал:
 Круто, предвестник этого: [http://poetry.about.com/od/poetryplay/l/blwakawaka.htm](https://web.archive.org/web/20090326021758/http://poetry.about.com/od/poetryplay/l/blwakawaka.htm)
 Ты уже тогда пробивал себе дорогу
-[**Март 16, 2009, 10:33 pm**](/posts/2009-03-16-verse-decoded/)
+[**Март 16, 2009, 10:33 pm**](/fred-pohl/2009-03-16-verse-decoded/)
 - Марсель сказал:
 Это просто прекрасно. Гениально.
-[**Март 21, 2009, 9:28 pm**](/posts/2009-03-16-verse-decoded/)
+[**Март 21, 2009, 9:28 pm**](/fred-pohl/2009-03-16-verse-decoded/)
 
 [WordPress](https://web.archive.org/web/20090326021758/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090326021758/http://dicksmithsoftware.com/)

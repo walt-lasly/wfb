@@ -4,9 +4,9 @@ date: 2012-03-09
 categories: ["Miscellaneous"]
 tags: ["Dick Smith"]
 archive_url: "https://web.archive.org/web/20120501000000/http://www.thewaythefutureblogs.com/2012/03/bad-news-for-the-blog-team/"
-prev_post_url: "/posts/2012-03-02-jack-robins-and-robert-a-w-lowndes/"
+prev_post_url: "/fred-pohl/2012-03-02-jack-robins-and-robert-a-w-lowndes/"
 prev_post_title: "Jack Robins and Robert A.W. Lowndes"
-next_post_url: "/posts/2012-03-16-wait-for-the-reunion/"
+next_post_url: "/fred-pohl/2012-03-16-wait-for-the-reunion/"
 next_post_title: "Wait for the Reunion"
 translated: false
 ---
@@ -36,48 +36,48 @@ As hobbies Mr. Smith collected antique cars, starting with two Horch limousines 
 
 - megazver says:
 Condolences.
-[**March 9, 2012, 10:46 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 10:46 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - CaitieCat says:
 My sympathies to Mr. Smith’s loved people.  A mercy to happen so quickly, a tragedy to happen unexpectedly.
-[**March 9, 2012, 10:54 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 10:54 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Don Sakers](https://web.archive.org/web/20120617114935/http://www.scatteredworlds.com/) says:
 I’m sure all regular readers of this blog join me in expressing sorrow for Dick Smith’s loss. He and his familya re in my thoughts and in my heart.
-[**March 9, 2012, 12:47 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 12:47 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Keith](https://web.archive.org/web/20120617114935/http://futurespastandpresent.blogspot.com/) says:
 Dick, please accept my condolences on your loss.
-[**March 9, 2012, 12:47 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 12:47 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Bob Jones says:
 RIP
-[**March 9, 2012, 2:29 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 2:29 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [JJ Brannon](https://web.archive.org/web/20120617114935/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 My sympathy and condolences on your loss, Dick.
 JJB
-[**March 9, 2012, 10:41 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 10:41 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Larry Kollar](https://web.archive.org/web/20120617114935/http://farmanor.blogspot.com/) says:
 May we contribute half as much as this man did. *hat off*
-[**March 9, 2012, 11:12 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 9, 2012, 11:12 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Steve Boyko](https://web.archive.org/web/20120617114935/http://www.traingeek.ca/) says:
 I’m sorry for your loss.
-[**March 10, 2012, 9:43 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 10, 2012, 9:43 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Mike Goldberg says:
 I’m sorry for your loss.
-[**March 12, 2012, 10:16 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 12, 2012, 10:16 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Owl says:
 Dick, condolences to you and your family.
-[**March 12, 2012, 10:32 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 12, 2012, 10:32 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [John Armstrong](https://web.archive.org/web/20120617114935/http://from-ashes.com/) says:
 My condolences to Dick and his family. Words are insufficient for these things.
-[**March 13, 2012, 8:59 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 13, 2012, 8:59 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Michael Walsh](https://web.archive.org/web/20120617114935/http://www.oldearthbooks.com/) says:
 Condolences.
-[**March 14, 2012, 12:28 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 14, 2012, 12:28 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - xxx says:
 Condolences to his family and God rest his soul. He was a great man.
-[**March 16, 2012, 6:37 am**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 16, 2012, 6:37 am**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - grouchomarxist says:
 My condolences to his family and friends. 
 It sounds like when all is said and done, he made his corner of the planet a better place, and will be missed by those who knew him. Although it’s always hard on the survivors, still, that’s a good way to retire from the game.
-[**March 16, 2012, 5:20 pm**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**March 16, 2012, 5:20 pm**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 
 [WordPress](https://web.archive.org/web/20120617114935/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120617114935/http://dicksmithsoftware.com/)

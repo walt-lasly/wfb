@@ -4,9 +4,9 @@ date: 2009-11-03
 categories: ["Authors", "Personal"]
 tags: ["A. Bertram Chandler", "Conventions", "Donald A. Wollheim", "Editors", "Elsie Wollheim", "Hydra Club", "Ian and Betty Ballantine", "John W. Campbell", "Judy-Lynn del Rey", "L. Sprague de Camp", "Lester del Rey", "New York", "Prozines", "Ray Cummings", "Robert Guinn", "W. Olaf Stapledon"]
 archive_url: "https://web.archive.org/web/20091211203126/http://www.thewaythefutureblogs.com/2009/11/lester-and-judy-lynn-del-rey/"
-prev_post_url: "/posts/2009-10-26-squabbles-in-the-stars/"
+prev_post_url: "/fred-pohl/2009-10-26-squabbles-in-the-stars/"
 prev_post_title: "Squabbles in the Stars"
-next_post_url: "/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
+next_post_url: "/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
 next_post_title: "Astounding Years 30–37 BC:* Clayton Magazines"
 translated: false
 translator: "Gemini"
@@ -93,23 +93,23 @@ translator: "Gemini"
 - [Stefan Jones](https://web.archive.org/web/20091211203126/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) говорит:
 Настоящая мощная команда. Они были еще вокруг и влиятельны большую часть времени, когда я был «активным» фанатом НФ.
 Могу ли я предложить добавить больше дат выше?
-[**3 ноября 2009 г., 18:50**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**3 ноября 2009 г., 18:50**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 - [David Dyer-Bennet](https://web.archive.org/web/20091211203126/http://dd-b.net/) говорит:
 Кажется, я видел эту фотографию раньше! (Я рад видеть ее здесь.)
 И я продолжаю получать огромное удовольствие от исторического контента, который вы нам обещали. Спасибо!
-[**4 ноября 2009 г., 11:56**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**4 ноября 2009 г., 11:56**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 - [Kriss](https://web.archive.org/web/20091211203126/http://www.wetgenes.com/) говорит:
 Извините, это не относится к посту, но я только что заметил это и подумал, что людям здесь может быть интересно.
 [http://www.gutenberg.org/etext/30399](https://web.archive.org/web/20091211203126/http://www.gutenberg.org/etext/30399)
 Pythias Фредерика Пола
 Этот электронный текст был создан по материалам *Galaxy Science Fiction* за февраль 1955 года.
 Похоже, кто-то оцифровывает старые журналы на проекте Гутенберг.
-[**4 ноября 2009 г., 13:25**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**4 ноября 2009 г., 13:25**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 - Michael Black говорит:
 Я начал покупать больше, чем просто детскую научную фантастику, либо примерно в то время, когда появились Del Rey Books, либо незадолго до этого. Я предполагал, что она названа в его честь, и прошло несколько лет, прежде чем я понял, что он занимался фэнтези, а его жена — научной фантастикой.
 Это было золотое время для научной фантастики, так много старых работ возвращалось в печать (я полагаю, потому что издательская деятельность в мягкой обложке шла хорошо, и, вероятно, также потому, что накопилась достаточная читательская база), и вся история публиковалась, не только ваша книга, но и такие вещи, как «Ранний Дель Рей», где его ранние рассказы перемежались автобиографическими вставками о тех временах. Жизнь каждого казалась такой интересной, не только коллектив Футурианцев, но и все то время, которое Лестер Дель Рей тратил на починку своей пишущей машинки или увлекался фотографией.
    Майкл
-[**9 ноября 2009 г., 13:26**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**9 ноября 2009 г., 13:26**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 
 [WordPress](https://web.archive.org/web/20091211203126/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091211203126/http://dicksmithsoftware.com/)

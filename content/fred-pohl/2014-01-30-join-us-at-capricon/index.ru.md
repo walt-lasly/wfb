@@ -4,9 +4,9 @@ date: 2014-01-30
 categories: ["Personal"]
 tags: ["Chicago", "Conventions", "Dick Smith", "Elizabeth Anne Hull", "Leah A. Zeldes"]
 archive_url: "https://web.archive.org/web/20160416122523/http://www.thewaythefutureblogs.com/2014/01/join-us-at-capricon/"
-prev_post_url: "/posts/2014-01-29-all-in-the-family-honors-for-emily-pohl-weary/"
+prev_post_url: "/fred-pohl/2014-01-29-all-in-the-family-honors-for-emily-pohl-weary/"
 prev_post_title: "All in the Family: Honors for Emily Pohl-Weary"
-next_post_url: "/posts/2014-02-04-on-the-character-of-characters/"
+next_post_url: "/fred-pohl/2014-02-04-on-the-character-of-characters/"
 next_post_title: "On the Character of Characters"
 translated: false
 translator: "Yandex"
@@ -39,7 +39,7 @@ translator: "Yandex"
 
 Суббота, 14:00, Стол для раздачи автографов  
 
-Бетти подпишет экземпляры "[Врат](https://web.archive.org/web/20160416122523/http://www.amazon.com/gp/product/0765326620?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765326620)", [антологии "фестшрифт"](/posts/2009-01-01-elizabeth-anne-hull/), которую она отредактировала к 90-летию Фреда, и у нее также будут несколько книг, которые Фред подписал перед смертью.
+Бетти подпишет экземпляры "[Врат](https://web.archive.org/web/20160416122523/http://www.amazon.com/gp/product/0765326620?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765326620)", [антологии "фестшрифт"](/fred-pohl/2009-01-01-elizabeth-anne-hull/), которую она отредактировала к 90-летию Фреда, и у нее также будут несколько книг, которые Фред подписал перед смертью.
 - **Чтение**  
 
 Суббота, 15:15, Берч А
@@ -85,7 +85,7 @@ translator: "Yandex"
 
 Пятница, 19:00, Берч Б
 
-[**Смотрите выше**](/posts/2014-01-30-join-us-at-capricon/).
+[**Смотрите выше**](/fred-pohl/2014-01-30-join-us-at-capricon/).
 - ** “Так ужасно, это потрясающе: Guilty Pleasures”**  
 
 Суббота, 8:30 вечера, Берч Б  
@@ -109,7 +109,7 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20160416122523/http://www.flickr.com/photos/stefan_e_jones/) говорит:
 Я рад видеть, что “Отряд” Фредерика Пола выходит на сцену.
 Я с нетерпением жду новых постов.
-[**1 февраля 2014, 12:55 вечера**](/posts/2014-01-30-join-us-at-capricon/)
+[**1 февраля 2014, 12:55 вечера**](/fred-pohl/2014-01-30-join-us-at-capricon/)
 
 [WordPress](https://web.archive.org/web/20160416122523/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416122523/http://dicksmithsoftware.com/)

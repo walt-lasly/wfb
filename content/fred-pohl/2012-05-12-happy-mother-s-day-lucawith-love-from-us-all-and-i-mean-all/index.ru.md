@@ -4,9 +4,9 @@ date: 2012-05-12
 categories: ["Science"]
 tags: ["Gustavo Caetano-Anolles", "History", "Paleontology"]
 archive_url: "https://web.archive.org/web/20210801000000/http://www.thewaythefutureblogs.com/2012/05/happy-mothers-day-lucawith-love-from-us-all-and-i-mean-all/"
-prev_post_url: "/posts/2012-05-10-consequences/"
+prev_post_url: "/fred-pohl/2012-05-10-consequences/"
 prev_post_title: "Consequences"
-next_post_url: "/posts/2012-05-13-bright-sayings-of-bright-people-no-32/"
+next_post_url: "/fred-pohl/2012-05-13-bright-sayings-of-bright-people-no-32/"
 next_post_title: "Bright Sayings of Bright People, No. 32"
 translated: false
 translator: "Yandex"
@@ -46,10 +46,10 @@ translator: "Yandex"
 
 - [Чуки на заднем дворе](https://web.archive.org/web/20120719084744/http://chookiesbackyard.blogspot.com/) говорит:
 “...Я могу проследить свою родословную вплоть до протоплазменной первичной атомной глобулы. Следовательно, моя семейная гордость — это нечто невообразимое”. - Пух-Бах, Микадо.
-[**13 мая 2012 года, 7:06 утра**](/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
+[**13 мая 2012 года, 7:06 утра**](/fred-pohl/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
 - Его превосходительство Пармер говорит:
 Похоже, Хаксли и его *Urschleim*, в конце концов, смеются последними.
-[**18 мая 2012, 10:55 вечера**](/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
+[**18 мая 2012, 10:55 вечера**](/fred-pohl/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
 - [Билл Гудвин](https://web.archive.org/web/20120719084744/http://771715/) говорит:
 Безумные поступки и дремучие поступки,  
 
@@ -62,7 +62,7 @@ translator: "Yandex"
 Но мимо всех разветвляющихся мам и пап  
 
 Сидит ЛУКА и восклицает: “Эти дети и их причуды!”
-[**19 мая 2012 года, 6:16 утра**](/posts/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
+[**19 мая 2012 года, 6:16 утра**](/fred-pohl/2012-05-12-happy-mother-s-day-lucawith-love-from-us-all-and-i-mean-all/)
 
 [WordPress](https://web.archive.org/web/20120719084744/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120719084744/http://dicksmithsoftware.com/)

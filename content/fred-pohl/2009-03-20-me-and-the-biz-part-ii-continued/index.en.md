@@ -4,9 +4,9 @@ date: 2009-03-20
 categories: ["Personal", "Travel"]
 tags: ["Agents", "Arnold Perl", "C.M. Kornbluth", "Films", "H.G. Wells", "H.N. Swanson", "Hollywood", "Joseph Conrad", "New York", "Rudyard Kipling", "Television"]
 archive_url: "https://web.archive.org/web/20090327075222/http://www.thewaythefutureblogs.com/2009/03/me-and-the-biz-2-continued/"
-prev_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+prev_post_url: "/fred-pohl/2009-03-18-me-and-the-biz-part-ii/"
 prev_post_title: "Me and the Biz, Part II"
-next_post_url: "/posts/2009-03-22-gracious-dining/"
+next_post_url: "/fred-pohl/2009-03-22-gracious-dining/"
 next_post_title: "Gracious Dining"
 translated: false
 ---
@@ -62,7 +62,7 @@ When I called Swanie’s office the next morning, he wasn’t surprised that the
 And when I checked into my Denver hotel, they were at $22,500, and at $27,500 in Seattle, and by the time I was home the price was up over $30,000, and British Redifusion was trying to beat some sense into me — “Swanie is going to ruin the whole thing for you, you know.  We can just walk away.” — and failing to beat sense into me.
 
 
-Even [**Arnold Perl**](/posts/2009-03-18-me-and-the-biz-part-ii/) was showing some concern:  “You did say that the Kornbluth family had some money concerns.  It could be quite a while before our negotiations began to reach this kind of number.”
+Even [**Arnold Perl**](/fred-pohl/2009-03-18-me-and-the-biz-part-ii/) was showing some concern:  “You did say that the Kornbluth family had some money concerns.  It could be quite a while before our negotiations began to reach this kind of number.”
 
 
 And when I called Swanie the next day, he said, “They’re at $50,000.  What do you want me to do?”
@@ -85,16 +85,16 @@ And if I had it to do over again, I’m not sure how I would do it.
 
 **Related posts:**  
 
-[**Me and the Biz**](/posts/2009-02-15-me-and-the-biz/)  
+[**Me and the Biz**](/fred-pohl/2009-02-15-me-and-the-biz/)  
 
-[**Me and the Biz, Part II**](/posts/2009-03-18-me-and-the-biz-part-ii/)
+[**Me and the Biz, Part II**](/fred-pohl/2009-03-18-me-and-the-biz-part-ii/)
 
 
 ### One Comment
 
 - [Sharon E. Dreyer](https://web.archive.org/web/20090327075222/http://www.eloquentbooks.com/LongJourneyToRneadal.html) says:
 Sounds as if the bidding war was a good thing in the 1950s! And as a first time author I wouldn’t be opposed to a bidding war right now!
-[**March 20, 2009, 8:32 am**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
+[**March 20, 2009, 8:32 am**](/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/)
 
 [WordPress](https://web.archive.org/web/20090327075222/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090327075222/http://dicksmithsoftware.com/)

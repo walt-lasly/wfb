@@ -4,9 +4,9 @@ date: 2014-01-05
 categories: ["Books", "Personal"]
 tags: ["C.M. Kornbluth", "Horace L. Gold", "Kingsley Amis", "Publishing", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2014/01/the-story-of-the-space-merchants-part-5/"
-prev_post_url: "/posts/2014-01-02-mother-love-and-the-threat-of-global-warming/"
+prev_post_url: "/fred-pohl/2014-01-02-mother-love-and-the-threat-of-global-warming/"
 prev_post_title: "Mother Love and the Threat of Global Warming"
-next_post_url: "/posts/2014-01-07-some-words-in-english-about-english-words/"
+next_post_url: "/fred-pohl/2014-01-07-some-words-in-english-about-english-words/"
 next_post_title: "Some Words in English About English Words"
 translated: false
 ---
@@ -29,7 +29,7 @@ See, the liberating thought that  came to me one night was, “Hey, Fred!  All t
 Time for a [new edition](https://web.archive.org/web/20160416223651/http://www.amazon.com/gp/product/1250000157/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1250000157&linkCode=as2&tag=twtfb-20)!  Some of the brand names had lost their relevance — how many people own a Kelvinator or drive a Nash these days? — but it was an easy chore to replace those names with more contemporary ones.
 
 
-The one thing that would have made the whole job easier, and a lot more fun, was no longer with us.  That was the presence of [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) himself, eternally graceful in the use of words and even more reliably sardonic in his understanding of the world we live in.
+The one thing that would have made the whole job easier, and a lot more fun, was no longer with us.  That was the presence of [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/) himself, eternally graceful in the use of words and even more reliably sardonic in his understanding of the world we live in.
 
 
 * * *
@@ -46,7 +46,7 @@ And I would make no stronger claim for the book now.
 
 **Related posts:**
 
-- **The Story of The Space Merchants**, [**Part 1**](/posts/2013-12-18-the-story-of-the-space-merchants/), [**Part 2**](/posts/2013-12-23-the-story-of-the-space-merchants-part-2/), [**Part 3**](/posts/2013-12-26-the-story-of-the-space-merchants-part-3/), [Part 4](https://web.archive.org/web/20160416223651/http://www.thewaythefutureblogs.com/?p=6096)
+- **The Story of The Space Merchants**, [**Part 1**](/fred-pohl/2013-12-18-the-story-of-the-space-merchants/), [**Part 2**](/fred-pohl/2013-12-23-the-story-of-the-space-merchants-part-2/), [**Part 3**](/fred-pohl/2013-12-26-the-story-of-the-space-merchants-part-3/), [Part 4](https://web.archive.org/web/20160416223651/http://www.thewaythefutureblogs.com/?p=6096)
 
 
 ### 2 Comments
@@ -56,10 +56,10 @@ Fascinating! I’ve always loved “The Space Merchants”. I read it first as a
 —  
 
 -Alan
-[**January 5, 2014, 11:20 pm**](/posts/2014-01-05-the-story-of-the-space-merchants-part-5/)
+[**January 5, 2014, 11:20 pm**](/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/)
 - david says:
 I’m glad you are putting up new bits and pieces after all. I’ve stopped by now and then in recent months in hope of more, but I would just see the black-bordered post at top and think “Oh well.”
-[**January 7, 2014, 10:10 pm**](/posts/2014-01-05-the-story-of-the-space-merchants-part-5/)
+[**January 7, 2014, 10:10 pm**](/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/)
 
 [WordPress](https://web.archive.org/web/20160416223651/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416223651/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-04-22
 categories: ["Miscellaneous"]
 tags: ["Johnny Eng", "New York"]
 archive_url: "https://web.archive.org/web/20210701000000/http://www.thewaythefutureblogs.com/2011/04/tong-guide-to-chinatown-new-york/"
-prev_post_url: "/posts/2011-04-21-dogs-wolves-and-babies/"
+prev_post_url: "/fred-pohl/2011-04-21-dogs-wolves-and-babies/"
 prev_post_title: "Dogs, Wolves and Babies"
-next_post_url: "/posts/2011-04-26-garbage-free-farming/"
+next_post_url: "/fred-pohl/2011-04-26-garbage-free-farming/"
 next_post_title: "Garbage-Free Farming"
 translated: false
 translator: "Yandex"
@@ -39,7 +39,7 @@ translator: "Yandex"
 - Его превосходительство Пармер говорит:
 Я был очарован историей преступного мира города с тех пор, как купил на благотворительной книжной распродаже старый экземпляр книги Эсбери “Банды Нью-Йорка” в твердом переплете. Там есть несколько диких персонажей, таких как Адская кошка Мэгги из The Dead Rabbits (которая точила зубы и носила латунные когти) и Сай Винг Мок (он же Мок Дак), лидер Хип-хоп группы начала 1900-х, которая носила кольчужный жилет и носила два револьвера. Когда на его жизнь покушались, он садился на корточки, закрывал глаза и просто стрелял из обоих пистолетов.
 Я надеюсь, что его телохранителям хорошо заплатили …
-[** 23 апреля 2011 года, 12:22 утра**](/posts/2011-04-22-tong-guide-to-chinatown-new-york/)
+[** 23 апреля 2011 года, 12:22 утра**](/fred-pohl/2011-04-22-tong-guide-to-chinatown-new-york/)
 
 [WordPress](https://web.archive.org/web/20170707092202/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707092202/http://dicksmithsoftware.com/)

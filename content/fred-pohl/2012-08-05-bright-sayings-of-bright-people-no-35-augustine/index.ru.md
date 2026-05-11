@@ -4,9 +4,9 @@ date: 2012-08-05
 categories: ["Science"]
 tags: ["Quotations", "St. Augustine"]
 archive_url: "https://web.archive.org/web/20181001000000/http://www.thewaythefutureblogs.com/2012/08/bright-sayings-of-bright-people-no-35/"
-prev_post_url: "/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/"
+prev_post_url: "/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/"
 prev_post_title: "How Illegal Mexican Immigration Was Solved(By the Mexicans)"
-next_post_url: "/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/"
+next_post_url: "/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/"
 next_post_title: "Fowler Schocken Starts ’Em Young!(Evolutionarily Speaking)"
 translated: false
 translator: "Yandex"
@@ -43,7 +43,7 @@ translator: "Yandex"
 Тем не менее, это все равно хорошая ставка.
 На самом деле, я не понимаю, как я могу это потерять. Любой, кто откроет капсулу, чтобы прочитать эти строки, должен будет согласиться с тем, что мои маловероятностные прогнозы довольно хорошо описывают реальный поворот событий... потому что, если преобладают высоковероятностные прогнозы массового уничтожения и самоубийства видов, скорее всего, никого не будет рядом, чтобы прочитать их.
 Я надеюсь, что через 5 лет ваши мысли будут такими же аргументированными, как и 25 лет назад.
-[**6 августа 2012, 19:16 вечера**](/posts/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/)
+[**6 августа 2012, 19:16 вечера**](/fred-pohl/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/)
 
 [WordPress](https://web.archive.org/web/20160729012120/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160729012120/http://dicksmithsoftware.com/)

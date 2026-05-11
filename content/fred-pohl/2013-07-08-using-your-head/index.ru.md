@@ -4,9 +4,9 @@ date: 2013-07-08
 categories: ["Miscellaneous"]
 tags: ["Law", "Philip A. Contos"]
 archive_url: "https://web.archive.org/web/20230101000000/http://www.thewaythefutureblogs.com/2013/07/using-your-head/"
-prev_post_url: "/posts/2013-07-02-brooklyn-queens-and-me/"
+prev_post_url: "/fred-pohl/2013-07-02-brooklyn-queens-and-me/"
 prev_post_title: "Brooklyn, Queens and me"
-next_post_url: "/posts/2013-07-11-remember-jared-lee-loughner/"
+next_post_url: "/fred-pohl/2013-07-11-remember-jared-lee-loughner/"
 next_post_title: "Remember Jared Lee Loughner?"
 translated: false
 translator: "Yandex"
@@ -40,10 +40,10 @@ translator: "Yandex"
 - [Кен Хоутон](https://web.archive.org/web/20170707081905/http://www.angrybearblog.com/) говорит:
 Есть причина, по которой техническим термином для мотоциклистов без шлемов в больницах называют “доноров”.
 Я действительно припоминаю, что около пяти лет назад видел статью по экономике, в которой обсуждалось негативное влияние законов о шлемах на исследования в области неврологии.  Лично я соглашусь на сделку.
-[**25 июля 2013, 14:09 вечера**](/posts/2013-07-08-using-your-head/)
+[**25 июля 2013, 14:09 вечера**](/fred-pohl/2013-07-08-using-your-head/)
 - [Севестин](https://web.archive.org/web/20170707081905/http://www.sevesteen.com/) говорит:
 Даже со шлемом мотоциклы гораздо опаснее автомобилей – если шлемы могут потребоваться, почему мотоциклы не должны быть запрещены?  Я почти всегда ношу больше защитного снаряжения, чем того требует закон, но я все еще возражаю против того, чтобы меня заставляли это делать, особенно в подобном случае, когда результаты моего неправильного выбора не причинят вреда другим.
-[**25 июля 2013, 16:45 вечера**](/posts/2013-07-08-using-your-head/)
+[**25 июля 2013, 16:45 вечера**](/fred-pohl/2013-07-08-using-your-head/)
 
 [WordPress](https://web.archive.org/web/20170707081905/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707081905/http://dicksmithsoftware.com/)

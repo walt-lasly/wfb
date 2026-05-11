@@ -4,9 +4,9 @@ date: 2011-04-11
 categories: ["Authors", "Books", "Writing"]
 tags: ["Alfred Bester", "Bob Shaw", "Editors", "Frank Olynyk", "Harlan Ellison", "Hollywood", "Horace L. Gold", "Hugo Gernsback", "Jerry Pournelle", "John W. Campbell", "Kevin Williams", "Larry Niven", "Prozines", "Publishing", "Richard Wilson", "Television"]
 archive_url: "https://web.archive.org/web/20170620005415/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-8-hollywood-and-the-name-game/"
-prev_post_url: "/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/"
+prev_post_url: "/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/"
 prev_post_title: "Me and Alfie, Part 7: Cyclothymia"
-next_post_url: "/posts/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
+next_post_url: "/fred-pohl/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
 next_post_title: "Bright Sayings of Bright People, No. 12: Milton"
 translated: false
 translator: "Yandex"
@@ -107,7 +107,7 @@ translator: "Yandex"
 
 Аудитория: [Боб Шоу](https://web.archive.org/web/20170620005415/http://www.ansible.co.uk/writing/bobshaw.html) написал "[Орбитсвиль](https://web.archive.org/web/20170620005415/http://www.amazon.com/gp/product/0671698168/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671698168)" в то же время, когда [Ларри Нивен](https://web.archive.org/web/20170620005415/http://www.larryniven.org/larry.shtml) написал "Мир-[кольцо](https://web.archive.org/web/20170620005415/http://www.amazon.com/gp/product/0345333926/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345333926)", и обе книги были об одной и той же идее, и это заставило Боба Шоу уступить "Миру-кольцу" и отложить свою книгу в долгий ящик примерно на 10 лет. Мне просто интересно, случается ли с тобой что-то подобное.
 
-Пол: Да, такое случается, и вы мало что могли бы с этим поделать. На самом деле не имеет значения, что две книги посвящены более или менее одной и той же теме, потому что подход каждого автора к ней очень разный. [** Джон Кэмпбелл**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) обычно предлагал одну и ту же идею для рассказа шести разным авторам, получал шесть разных рассказов и печатал их все.
+Пол: Да, такое случается, и вы мало что могли бы с этим поделать. На самом деле не имеет значения, что две книги посвящены более или менее одной и той же теме, потому что подход каждого автора к ней очень разный. [** Джон Кэмпбелл**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) обычно предлагал одну и ту же идею для рассказа шести разным авторам, получал шесть разных рассказов и печатал их все.
 
 Единственное, что причиняет боль, - это то, что иногда первая книга становится большим бестселлером, а вторая - нет. Это такая же хорошая книга, и она прослужит так же долго, но она не завоевала рынок, потому что первая книга ее израсходовала. И если будет фильм, то первый из них будет экранизирован, а те, что будут после, - нет.
 
@@ -129,20 +129,20 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [** Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [** Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/)
 
 ### 5 Комментариев
 
 - Джим Фланаган говорит:
 Это была фантастическая серия постов. Спасибо, Фред
-[** 11 апреля 2011 года, 1:26 утра**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[** 11 апреля 2011 года, 1:26 утра**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - Джим Уоррад говорит:
 Спасибо вам, это было чудесно!
-[** 11 апреля 2011 года, 7:44 утра**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[** 11 апреля 2011 года, 7:44 утра**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - Майк Голдберг говорит:
 Спасибо! Это было отличное интервью. Жаль, что меня не было в зале!
-[** 12 апреля 2011 года, 8:00 утра**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[** 12 апреля 2011 года, 8:00 утра**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - Его превосходительство Пармер говорит:
 Большое спасибо за публикацию этого интервью, Фред, и спасибо также фанатам, которые его расшифровали.
 Однако, говоря как помешанный на плохом кино, я должен поверить, что мы все стали беднее из-за того, что нам было отказано в зрелище Термолиата, ковыляющего по дешевой картонной и гипсокартонной копии Палм-Спрингс в миниатюре, перемежающейся кадрами ураганов и землетрясений.
@@ -150,10 +150,10 @@ translator: "Yandex"
 , сказанных языком или пером,
 самыми печальными являются эти:
 “Возможно, так оно и было”.*
-[**13 апреля 2011 г., 11:45 вечера**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**13 апреля 2011 г., 11:45 вечера**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 - Джон Армстронг говорит:
 Спасибо, Фред –
-[**15 апреля 2011, 19:12 вечера**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+[**15 апреля 2011, 19:12 вечера**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 [WordPress](https://web.archive.org/web/20170620005415/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620005415/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2015-08-17
 categories: ["Books", "News"]
 tags: ["Bill McGoldrick", "David Eick", "Gateway", "Josh Pate", "Lorenzo De Maio", "Martha De Laurentiis", "Michael Rosenberg", "Pancho Mansfield", "TV"]
 archive_url: "https://web.archive.org/web/20250801000000/http://www.thewaythefutureblogs.com/2015/08/syfy-gateway-pohl-tv/"
-prev_post_url: "/posts/2015-05-24-where-s-betty-elizabeth-anne-hull-s-public-appearances/"
+prev_post_url: "/fred-pohl/2015-05-24-where-s-betty-elizabeth-anne-hull-s-public-appearances/"
 prev_post_title: "Where’s Betty?Elizabeth Anne Hull’s public appearances"
-next_post_url: "/posts/2015-08-18-betty-goes-to-worldcon-spokane-or-bust/"
+next_post_url: "/fred-pohl/2015-08-18-betty-goes-to-worldcon-spokane-or-bust/"
 next_post_title: "Betty Goes to Worldcon: Spokane or Bust!"
 translated: false
 translator: "Yandex"
@@ -37,7 +37,7 @@ translator: "Yandex"
 “Дэвид и Джош - мастера рассказывать аутентичные, многомерные истории, действие которых разворачивается в совершенно незнакомых мирах, и мы очень рады сотрудничать с ними и Syfy, чтобы воплотить любимую и неподвластную времени приключенческую сагу Фредерика в столь же захватывающий телесериал”, - сказал Панчо Мэнсфилд, президент отдела глобальных сценариев [Entertainment One Television](https://web.archive.org/web/20160402232036/http://eonetv.com/) ([Hell). на колесах](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B0075FF5QM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0075FF5QM&linkCode=as2&tag=twtfb-20)).
 
 
-[Syfy](https://web.archive.org/web/20160402232036/http://www.syfy.com/) является новым партнером в проекте наряду с [Universal Cable Productions](https://web.archive.org/web/20160402232036/http://www.nbcuniversal.com/business/universal-cable-productions) ([Monk](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B00IRHL59I/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IRHL59I&linkCode=as2&tag=twtfb-20&linkId=WCJFO5YJGYDGZKEV)), присоединившись к eOne и [De Laurentiis Co](https://web.archive.org/web/20160402232036/http://delaurentiisco.com/). ([Дюна](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B0000639EV/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0000639EV&linkCode=as2&tag=twtfb)(Dune) и [Ганнибал](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B00CWIMVDW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CWIMVDW&linkCode=as2&tag=twtfb-20)) для разработки и производства сериала, адаптированного по мотивам *Врат (Gateway)*, который был одним из [любимых ** Фреда **](/posts/2010-09-28-the-gateway-story/) и победителем премии [1978 года. Премия Хьюго](https://web.archive.org/web/20160402232036/http://fancyclopedia.org/1978-best-novel-hugo) за лучший роман, [премия "Локус](https://web.archive.org/web/20160402232036/http://fancyclopedia.org/locus-award)" 1978 года за лучший роман, [Небьюла](https://web.archive.org/web/20160402232036/http://www.sfwa.org/nebula-awards/) 1977 года за лучший роман и [мемориальная премия Джона В. Кэмпбелла](https://web.archive.org/web/20160402232036/http://fancyclopedia.org/john-w-campbell-jr-memorial-award) 1978 года за лучший научно-фантастический роман.
+[Syfy](https://web.archive.org/web/20160402232036/http://www.syfy.com/) является новым партнером в проекте наряду с [Universal Cable Productions](https://web.archive.org/web/20160402232036/http://www.nbcuniversal.com/business/universal-cable-productions) ([Monk](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B00IRHL59I/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IRHL59I&linkCode=as2&tag=twtfb-20&linkId=WCJFO5YJGYDGZKEV)), присоединившись к eOne и [De Laurentiis Co](https://web.archive.org/web/20160402232036/http://delaurentiisco.com/). ([Дюна](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B0000639EV/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0000639EV&linkCode=as2&tag=twtfb)(Dune) и [Ганнибал](https://web.archive.org/web/20160402232036/http://www.amazon.com/gp/product/B00CWIMVDW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CWIMVDW&linkCode=as2&tag=twtfb-20)) для разработки и производства сериала, адаптированного по мотивам *Врат (Gateway)*, который был одним из [любимых ** Фреда **](/fred-pohl/2010-09-28-the-gateway-story/) и победителем премии [1978 года. Премия Хьюго](https://web.archive.org/web/20160402232036/http://fancyclopedia.org/1978-best-novel-hugo) за лучший роман, [премия "Локус](https://web.archive.org/web/20160402232036/http://fancyclopedia.org/locus-award)" 1978 года за лучший роман, [Небьюла](https://web.archive.org/web/20160402232036/http://www.sfwa.org/nebula-awards/) 1977 года за лучший роман и [мемориальная премия Джона В. Кэмпбелла](https://web.archive.org/web/20160402232036/http://fancyclopedia.org/john-w-campbell-jr-memorial-award) 1978 года за лучший научно-фантастический роман.
 
 
 Эйк и Пейт также выступят в качестве исполнительных продюсеров, наряду с Мартой Де Лаурентис и Лоренцо Де Майо из De Laurentiis и бывшим руководителем eOne TV Майклом Розенбергом. В планах - распространение сериала по всему миру.
@@ -54,10 +54,10 @@ translator: "Yandex"
 
 - Элизабет Энн Халл говорит:
 Очень захватывающие новости о Syfy, теперь давайте посмотрим, произойдет ли это на самом деле.  Помните, сколько времени потребовалось Голливуду, чтобы снять Дюну(Dune)? Бетти
-[** 21 августа 2015 года, 10:27 утра**](/posts/2015-08-17-syfy-gateway-moves-closer-to-tv/)
+[** 21 августа 2015 года, 10:27 утра**](/fred-pohl/2015-08-17-syfy-gateway-moves-closer-to-tv/)
 - [Угадайте, кто?: Фредерик Пол. | НИ в одном ОБЗОРЕ](https://web.archive.org/web/20160402232036/https://bandinnelli.wordpress.com/2015/09/13/guess-who-frederik-pohl/) не говорится:
 [...] Описание всего, что связано с романами, в том числе Портико (например, о самолетах "Вуэльта", пара ллеварла и пекенья панталла) и ресторан "Сага о лос-Хичи", Меркадерес-дель- [...]
-[** 13 сентября 2015 года, 5:10 утра**](/posts/2015-08-17-syfy-gateway-moves-closer-to-tv/)
+[** 13 сентября 2015 года, 5:10 утра**](/fred-pohl/2015-08-17-syfy-gateway-moves-closer-to-tv/)
 
 [WordPress](https://web.archive.org/web/20160402232036/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160402232036/http://dicksmithsoftware.com/)

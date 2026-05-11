@@ -4,7 +4,7 @@ date: 2009-07-20
 categories: ["Space"]
 tags: ["History", "Media"]
 archive_url: "https://web.archive.org/web/20190601000000/http://www.thewaythefutureblogs.com/2009/07/new-scientist-apologizes-to-the-apollo-astronauts/"
-next_post_url: "/posts/2009-08-17-little-known-fun-facts/"
+next_post_url: "/fred-pohl/2009-08-17-little-known-fun-facts/"
 next_post_title: "Little Known Fun Facts"
 translated: false
 translator: "Yandex"
@@ -34,7 +34,7 @@ translator: "Yandex"
 
 - Тони Эрншоу говорит:
 Я был школьником в Англии во время высадки "Аполлона".  Как хорошо я помню насмешки, которыми мы осыпали New Scientist, когда прочитали его скупую редакционную статью!  Я также вспоминаю превосходную отповедь Фредерика, которую вскоре после этого журнал напечатал на странице ”Письма” ("Действительно, New Scientist!") - даже тогда проза Фредерика оставила свой след в моей памяти.
-[** 20 августа 2009 года, 12:28 утра**](/posts/2009-07-20-new-scientist-apologizes-to-the-apollo-astronauts/)
+[** 20 августа 2009 года, 12:28 утра**](/fred-pohl/2009-07-20-new-scientist-apologizes-to-the-apollo-astronauts/)
 
 [WordPress](https://web.archive.org/web/20090925014220/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090925014220/http://dicksmithsoftware.com/)

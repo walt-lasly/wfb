@@ -4,9 +4,9 @@ date: 2011-04-26
 categories: ["Miscellaneous"]
 tags: ["Agriculture", "Chicago", "Ecology", "Food", "John Edel"]
 archive_url: "https://web.archive.org/web/20200201000000/http://www.thewaythefutureblogs.com/2011/04/garbage-free-farming/"
-prev_post_url: "/posts/2011-04-22-tong-guide-to-chinatown-new-york/"
+prev_post_url: "/fred-pohl/2011-04-22-tong-guide-to-chinatown-new-york/"
 prev_post_title: "Tong Guide to Chinatown New York"
-next_post_url: "/posts/2011-04-28-all-those-universes/"
+next_post_url: "/fred-pohl/2011-04-28-all-those-universes/"
 next_post_title: "All Those Universes"
 translated: false
 translator: "Yandex"
@@ -44,12 +44,12 @@ translator: "Yandex"
 Впервые я читаю о тилапии:
 Рыба упоминается в книге Гарри Харрисона "Освободи место, освободи место". Продавщица на рынке кричит, что ее товар только что с озера Ронконкома.
 Несмотря на то, что я вырос на Ли, это был также первый раз, когда я услышал об озере Ронконкома (мы были жителями деревни Нассау).
-[**26 апреля 2011, 17:36 вечера**](/posts/2011-04-26-garbage-free-farming/)
+[**26 апреля 2011, 17:36 вечера**](/fred-pohl/2011-04-26-garbage-free-farming/)
 - Джим Фланаган говорит:
 Спасибо, Фредерик,  
 
 Интересное место и отличная идея.
-[**26 апреля 2011, 17:37 вечера**](/posts/2011-04-26-garbage-free-farming/)
+[**26 апреля 2011, 17:37 вечера**](/fred-pohl/2011-04-26-garbage-free-farming/)
 
 [WordPress](https://web.archive.org/web/20170718045423/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170718045423/http://dicksmithsoftware.com/)

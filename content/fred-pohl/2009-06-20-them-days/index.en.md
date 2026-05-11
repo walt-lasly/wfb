@@ -4,9 +4,9 @@ date: 2009-06-20
 categories: ["Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Carol Pohl", "Collaborating", "Gladiator-at-Law", "Medicine", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20231101000000/http://www.thewaythefutureblogs.com/2009/06/them-days/"
-prev_post_url: "/posts/2009-06-15-r-i-p-walter-schneir/"
+prev_post_url: "/fred-pohl/2009-06-15-r-i-p-walter-schneir/"
 prev_post_title: "R.I.P. Walter Schneir"
-next_post_url: "/posts/2009-06-30-caught-between-a-rock-and-a-hard-place/"
+next_post_url: "/fred-pohl/2009-06-30-caught-between-a-rock-and-a-hard-place/"
 next_post_title: "Caught Between a Rock and a Hard Place"
 translated: false
 ---
@@ -67,49 +67,49 @@ I’ve talked to other writers who have had similar disappointments, but not any
 
 - [Janus](https://web.archive.org/web/20120826232512/http://janusfiles.xanga.com/) says:
 The only chemical enhancement I have ever used while writing has been coffee.  And I learned that there can indeed be too much of a good thing.  It was one Thanksgiving, and I was catching up on some correspondence.  I put so much coffee into my system that I had to stop because I couldn\’t keep my fingers on the keyboard.
-[**June 20, 2009, 10:22 am**](/posts/2009-06-20-them-days/)
+[**June 20, 2009, 10:22 am**](/fred-pohl/2009-06-20-them-days/)
 - [brian t](https://web.archive.org/web/20120826232512/http://stereoroid.com/) says:
 The closets I’ve come to drug-mediated writing is excessive use of coffee on a 36-hour slog, testing computer hardware and writing the reviews. It wasn’t that demanding on the imagination, but pretty hard on the system. I had to give that job up because I was seriously concerned about my health, physical and mental, and the stress may have triggered early symptoms of what I have since found out was MS. (You’re not supposed to fall off a chair in a restaurant at lunch!) 
 I like the comment in that 1959 Time magazine article you linked to: “I’d hate to have athletics get to the point where you’d have to check the winners like race horses.” How that’s what I call prescience!
-[**June 20, 2009, 10:51 am**](/posts/2009-06-20-them-days/)
+[**June 20, 2009, 10:51 am**](/fred-pohl/2009-06-20-them-days/)
 - William says:
 I’m more given to essays than fiction, and my ADD means nobody should take my experiences as necessarily relating to their brain chemistry at all. But on occasion I find ~15 mg modafinil (aka Provigil) taken first thing in the morning useful. (This means cutting the standard dose, 100mg, up into 6-8 small pieces.) I strongly avoid using more, or taking it more than every second day.
 I think there are a number of drawbacks to it, but it aids my focus substantially, and I can end up being very productive. However, I’d encourage people to treat it (or any drug with cognitive effects) with great caution. What it actually does and what you want it to do will be subtly different, and if you base your behaviors on the wrong one, trouble is guaranteed.
 With writing in particular, I think it’s dangerous to mess with your head too much. As we write, we have to be continually conscious of how our output will play with intended audiences. Those audiences by and large won’t be on whatever you’re on.
-[**June 20, 2009, 1:07 pm**](/posts/2009-06-20-them-days/)
+[**June 20, 2009, 1:07 pm**](/fred-pohl/2009-06-20-them-days/)
 - Dionubis says:
 I have had the exact same experience quite recently. I am currently finishing my dissertation, and was recently prescribed Adderall, often the poster child of “brain enhancers” or “performance enhancing” drugs  that is 72% lisdexamfetamine (a coupling of d-amphetamine and lysine). As I read your post, I chuckled knowingly to myself at the familiarity I had in regards to your experience. 
 When I first took Adderall, my head cleared as it had never done before. It was as if my thoughts had been forced into a box with a pinhole at the front, allowing an intense focus through that pinhole. I can write fluidly and fluently – breezing past the “tedious mess” of my chaotic research. I remember feeling frustrated, wondering why I hadn’t ever been prescribed before, considering the difficulty I’ve had focusing and working since high school. When I described my experience to my peers, they looked at me like I was crazy and said, “That’s how I always feel….”
 On the other hand, when I’ve had writer’s block, it acts in the same way you’ve described. I can still see how to get past all the problems, and in fact construct wonderful prose. But it never hits the page. In fact, I become *so* focused in how everything is perfectly fitting together, I sometimes look up at the clock to see that 6-7 hours have passed and I haven’t touched the keyboard at all.
 I still take it (doctor’s orders), but I have to be very aware of my state of mind when I’m getting ready to write. If I’m intent on writing, it will work wonderfully. If I’m already hesitant, blocked, or even dreading the writing to be done, Adderall’s not going to *make* me write. As I explained it to a friend, it’ll give you the focus but not the motivation.
-[**June 21, 2009, 9:25 pm**](/posts/2009-06-20-them-days/)
+[**June 21, 2009, 9:25 pm**](/fred-pohl/2009-06-20-them-days/)
 - [Jeff](https://web.archive.org/web/20120826232512/http://jeffcrook.blogspot.com/) says:
 I wrote the last 40,000 words of Dark Thane over a 4 day period while I had bronchitis. Thankfully, I also had cough medicine with codeine. The only struggle was staying awake. The story practically wrote itself.
-[**June 22, 2009, 8:38 am**](/posts/2009-06-20-them-days/)
+[**June 22, 2009, 8:38 am**](/fred-pohl/2009-06-20-them-days/)
 - John H says:
 Not another doping scandal!
-[**June 22, 2009, 4:42 pm**](/posts/2009-06-20-them-days/)
+[**June 22, 2009, 4:42 pm**](/fred-pohl/2009-06-20-them-days/)
 - JC says:
 IIRC, Humphry Davies tried nitrous oxide (then a new product, and said to deliver wonderful insights), and recorded his impressions at the time. The wonderful, meaningful, oh-so-deep insight he received was \"overall there is a smell of fried onions\".
-[**June 23, 2009, 11:22 am**](/posts/2009-06-20-them-days/)
+[**June 23, 2009, 11:22 am**](/fred-pohl/2009-06-20-them-days/)
 - [Martin Wisse](https://web.archive.org/web/20120826232512/http://cloggie.org/books/) says:
 I once foolishly ate three Special Brownies shortly after each other and about an hour later I could not stop having wonderful, awesome ideas once every thirty seconds or so –unfortunately my attention span had dropped to less then fifteen….
-[**June 23, 2009, 6:34 pm**](/posts/2009-06-20-them-days/)
+[**June 23, 2009, 6:34 pm**](/fred-pohl/2009-06-20-them-days/)
 - [Braden](https://web.archive.org/web/20120826232512/http://songsandcigarettes.blogspot.com/) says:
 Perhaps one should stick to the tried and true methods of the American greats, cigarettes and scotch.
-[**June 25, 2009, 11:05 pm**](/posts/2009-06-20-them-days/)
+[**June 25, 2009, 11:05 pm**](/fred-pohl/2009-06-20-them-days/)
 - [Todd Mason](https://web.archive.org/web/20120826232512/http://www.socialistjazz.blogspot.com/) says:
 I use some of the “smart drinks” (notably the lo-carb Monsters) but haven’t found them notably effective with fiction writing, at least…they barely count as “smart drinks,” I’m sure, so much as being essentially Mountain Dew or canned coffee with amino acid and vitamin traces. My third and fourth eyes are coming along nicely.
-[**July 6, 2009, 1:53 pm**](/posts/2009-06-20-them-days/)
+[**July 6, 2009, 1:53 pm**](/fred-pohl/2009-06-20-them-days/)
 - Al Bogdan says:
 Best enhancer for me turned out to be high doses of B12, B9 and B6 first thing in the morning. Improves my blood pressure, makes it easier for me to sleep at night, and improves focus during the day.
-[**July 12, 2009, 8:43 pm**](/posts/2009-06-20-them-days/)
+[**July 12, 2009, 8:43 pm**](/fred-pohl/2009-06-20-them-days/)
 - Mark says:
 A pack of unfiltered camels, a six pack of JOLT COLA, and 3 of my sister’s diet pills helped me finish two papers and pass calculus in the spring semester of my freshman year.  I also helped two dozen people move out of their rooms for the summer break.
-[**July 15, 2009, 9:58 pm**](/posts/2009-06-20-them-days/)
+[**July 15, 2009, 9:58 pm**](/fred-pohl/2009-06-20-them-days/)
 - Aaron says:
 I have written many a story while taking strong opiate pain-killers.  The problem was not getting the words onto the paper.  In fact, the writing was smooth and easy.  No, the problem was that I really thought everything I wrote while under the influence was great.  Only later did I learn the truth.  Opiates and writing don’t mix well.
-[**April 29, 2010, 6:44 am**](/posts/2009-06-20-them-days/)
+[**April 29, 2010, 6:44 am**](/fred-pohl/2009-06-20-them-days/)
 
 [WordPress](https://web.archive.org/web/20120826232512/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120826232512/http://dicksmithsoftware.com/)

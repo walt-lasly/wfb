@@ -4,9 +4,9 @@ date: 2012-02-05
 categories: ["Science"]
 tags: ["Aaron Levenstein", "Quotations"]
 archive_url: "https://web.archive.org/web/20131201000000/http://www.thewaythefutureblogs.com/2012/02/bright-sayings-of-bright-people-no-25/"
-prev_post_url: "/posts/2012-02-02-where-did-they-come-from-these-occupiers/"
+prev_post_url: "/fred-pohl/2012-02-02-where-did-they-come-from-these-occupiers/"
 prev_post_title: "Where did they come from, these ‘Occupiers’?"
-next_post_url: "/posts/2012-02-22-bright-sayings-of-bright-people-no-26/"
+next_post_url: "/fred-pohl/2012-02-22-bright-sayings-of-bright-people-no-26/"
 next_post_title: "Bright Sayings of Bright People, No. 26"
 translated: false
 ---
@@ -30,14 +30,14 @@ Frederik Pohl
 
 - [Michelle](https://web.archive.org/web/20120418191041/http://www.bangyoulater.com/) says:
 Hahaha, this is quite true, but also funny! I know a joke like that: Statistics are like whores, play with them long enough and they’ll do anything for you.
-[**February 17, 2012, 8:03 am**](/posts/2012-02-05-bright-sayings-of-bright-people-no-25/)
+[**February 17, 2012, 8:03 am**](/fred-pohl/2012-02-05-bright-sayings-of-bright-people-no-25/)
 - Richard Imbro says:
 Hi, been awhile between posts. . .  
 
 Love the blog, especially reminiscences of the pulp era and its icons, Campbell, Asimov, Budrys, Kornbluth.  
 So.
 You okay?
-[**February 21, 2012, 9:06 pm**](/posts/2012-02-05-bright-sayings-of-bright-people-no-25/)
+[**February 21, 2012, 9:06 pm**](/fred-pohl/2012-02-05-bright-sayings-of-bright-people-no-25/)
 
 [WordPress](https://web.archive.org/web/20120418191041/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120418191041/http://dicksmithsoftware.com/)

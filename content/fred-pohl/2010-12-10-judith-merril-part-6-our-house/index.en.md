@@ -4,9 +4,9 @@ date: 2010-12-10
 categories: ["Authors", "Personal"]
 tags: ["Carol Pohl", "Fletcher Pratt", "Futurians", "I.M. Stephens", "Judith Merril", "L. Jerome Stanton", "New York", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20150919040427/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-6-our-house/"
-prev_post_url: "/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/"
+prev_post_url: "/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/"
 prev_post_title: "Mary Byers Kornbluth, Part 1: A Fan is Born"
-next_post_url: "/posts/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
+next_post_url: "/fred-pohl/2010-12-11-bright-sayings-of-bright-people-no-6-mill/"
 next_post_title: "Bright Sayings of Bright People, No. 6: Mill"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![nj](nj.gif)
 
-Unfortunately, by the time Judy’s [**novel**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/) came out, the stresses in our marriage were growing, and Judy and I were clearly finally heading toward a (hopefully civilized) divorce.
+Unfortunately, by the time Judy’s [**novel**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/) came out, the stresses in our marriage were growing, and Judy and I were clearly finally heading toward a (hopefully civilized) divorce.
 
 
 Before we reached that point, though, we still had a few good years.  It looked as though, at whatever cost to our conflicting principles, we were able to function as married people and parents, and so we do what couples like us always did at that period in American life.  We began thinking about buying a house.
@@ -30,7 +30,7 @@ Before we reached that point, though, we still had a few good years.  It looked 
 So we spent quite a few weekends roaming around, mostly Southern Connecticut, northern New Jersey, western Long Island and so on.  Judy picked the ads out of the newspaper listings, but there wasn’t much — at a price we could afford.
 
 
-But [Inga Pratt](https://web.archive.org/web/20150919040427/http://books.google.com/books?id=PbMdeizaCNcC&lpg=PA411&ots=OCDaofLJNA&dq=I.%20M.%20Stephens%20fletcher%20pratt&pg=PA411#v=onepage&q=I.%20M.%20Stephens%20fletcher%20pratt&f=false) saved us.  We had been spending occasional weekends at the giant house [**Fletcher**](/posts/2010-12-07-fletcher-pratt/) and Inga Pratt owned, and called the Ipsy-Wipsy Institute, on the Jersey shore.  When Judy mentioned that we’d been house-hunting she said, “I know of some places.  Want to go for a ride?”
+But [Inga Pratt](https://web.archive.org/web/20150919040427/http://books.google.com/books?id=PbMdeizaCNcC&lpg=PA411&ots=OCDaofLJNA&dq=I.%20M.%20Stephens%20fletcher%20pratt&pg=PA411#v=onepage&q=I.%20M.%20Stephens%20fletcher%20pratt&f=false) saved us.  We had been spending occasional weekends at the giant house [**Fletcher**](/fred-pohl/2010-12-07-fletcher-pratt/) and Inga Pratt owned, and called the Ipsy-Wipsy Institute, on the Jersey shore.  When Judy mentioned that we’d been house-hunting she said, “I know of some places.  Want to go for a ride?”
 
 
 We did.
@@ -45,7 +45,7 @@ True, it did have a few little problems and quirks — problems like it was eigh
 We bought it, and began moving in.
 
 
-I have to say that, in spite of probable sooner or later marital discords and what were a few newly worrying financial concerns, I loved the house.  I had a great sun-drenched, third-floor room, overlooking the trees, lawn and river, for an office, with one just like it that wound up as [**Cyril’s**](/posts/2009-04-20-cyril/).
+I have to say that, in spite of probable sooner or later marital discords and what were a few newly worrying financial concerns, I loved the house.  I had a great sun-drenched, third-floor room, overlooking the trees, lawn and river, for an office, with one just like it that wound up as [**Cyril’s**](/fred-pohl/2009-04-20-cyril/).
 
 
 Red Bank was a useful little town, too.  It was across the river, but the bridge was right at the foot of our property, so it was about a ten- minute walk to the railroad or bus stations, about fifteen or twenty to Red Bank’s stores, rather decent public library, movie theaters and, say, McDonalds.  There was no reason we couldn’t live quite happily there.
@@ -74,14 +74,14 @@ It’s Judy’s, and in Judy’s life the next significant thing that happened t
 
 **Related posts:**  
 
-**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/),  [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+**Judith Merril,** [**Part 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/),  [**Part 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### One Comment
 
 - Ross Presser says:
 That is one fine looking house.
-[**December 10, 2010, 5:22 pm**](/posts/2010-12-10-judith-merril-part-6-our-house/)
+[**December 10, 2010, 5:22 pm**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/)
 
 [WordPress](https://web.archive.org/web/20150919040427/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150919040427/http://dicksmithsoftware.com/)

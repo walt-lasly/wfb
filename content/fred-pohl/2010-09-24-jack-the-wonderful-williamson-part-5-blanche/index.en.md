@@ -4,9 +4,9 @@ date: 2010-09-24
 categories: ["Authors"]
 tags: ["Academics", "Blanche Williamson", "Jack Williamson", "World War II", "Worldcons"]
 archive_url: "https://web.archive.org/web/20201201000000/http://www.thewaythefutureblogs.com/2010/09/jack-williamson-5/"
-prev_post_url: "/posts/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/"
+prev_post_url: "/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/"
 prev_post_title: "Jack the Wonderful Williamson, Part 4:The Real Story Begins"
-next_post_url: "/posts/2010-09-28-the-gateway-story/"
+next_post_url: "/fred-pohl/2010-09-28-the-gateway-story/"
 next_post_title: "TheGatewayStory"
 translated: false
 ---
@@ -59,12 +59,12 @@ Jack did not make the same mistake twice.  He courted her at once, married her a
 - [Robert Nowall](https://web.archive.org/web/20131008215720/http://www.robertnowall.com/) says:
 In a way, it’s sad that this fine reminiscence runs commentless while politics gathers up thirty-eight (so far) comments.
 But…(1) We live in interesting times, (2) I only know of Jack Williamson, and that only through constant and obsessive reading, and (3) I’ve got nothing I can add other than this.
-[**September 28, 2010, 4:18 am**](/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
+[**September 28, 2010, 4:18 am**](/fred-pohl/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
 - Dwight Decker says:
 Mr. Nowall would like to see more comments about the reminsicences… Well, let’s see. Wildside Press recently reprinted SCIENCE STORIES #1 from 1953 (with an absolutely crazed editorial by I presume Ray Palmer that has to be read to be disbelieved), which has a Williamson story, and Mr. Williamson himself contributed some autobiographical remarks that are of interest:
 “After the war, I came back to the county-seat town of Portales, New Mexico, served a short hitch as a wire editor, and married Blanche — whom I’ve known since we were in the sixth grade together. She hadn’t waited for me the first time: consequently we now have a son who is a Navy frogman, a married daughter, and two grandchildren who are usually very charming.”
 I liked that “usually” qualification…
-[**October 5, 2010, 6:13 pm**](/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
+[**October 5, 2010, 6:13 pm**](/fred-pohl/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/)
 
 [WordPress](https://web.archive.org/web/20131008215720/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131008215720/http://dicksmithsoftware.com/)

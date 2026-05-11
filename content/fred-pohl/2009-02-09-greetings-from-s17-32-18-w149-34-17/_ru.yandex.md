@@ -4,9 +4,9 @@ date: 2009-02-09
 categories: ["Authors", "Personal", "Travel"]
 tags: ["Elizabeth Anne Hull", "French Polynesia", "Hayford Peirce", "Medicine", "Robert A. Heinlein", "The Way the Future Was", "Virginia Heinlein"]
 archive_url: "https://web.archive.org/web/20090316024048/http://www.thewaythefutureblogs.com/2009/02/greetings_from_s17_degrees/"
-prev_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
+prev_post_url: "/fred-pohl/2009-02-07-seventeen-days-of-fox/"
 prev_post_title: "Seventeen Days of Fox"
-next_post_url: "/posts/2009-02-11-farewell-nuku-hiva/"
+next_post_url: "/fred-pohl/2009-02-11-farewell-nuku-hiva/"
 next_post_title: "Farewell, Nuku Hiva"
 translated: false
 translator: "Yandex"
@@ -56,23 +56,23 @@ translator: "Yandex"
 
 - [Пол](https://web.archive.org/web/20090316024048/http://www.skyseastone.net/jvstin) говорит:
 Ах! Я помню часть этой истории из "Расширенной вселенной" Хайнлайна!
-[**9 февраля 2009 года, 4:32 утра**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**9 февраля 2009 года, 4:32 утра**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [Джефф](https://web.archive.org/web/20090316024048/http://jeffcrook.blogspot.com/) говорит:
 Я говорю тебе, Гэндальф, остерегайся склонов Муреи.
-[**9 февраля 2009 года, 8:39 утра**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**9 февраля 2009 года, 8:39 утра**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - Кальмарный [шлем](https://web.archive.org/web/20090316024048/http://www.squidhelmet.com/) говорит:
 Этот блог всегда интересно читать.  Где еще вы можете услышать анекдоты из первых рук о гроссмейстерах НФ, случайно встретившихся на одном и том же таинственном острове? Тама'а майтай!
-[**9 февраля 2009 года, 10:57 утра**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**9 февраля 2009 года, 10:57 утра**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [команда блога](https://web.archive.org/web/20090316024048/http://thewaythefutureblogs.com/) говорит:
 Э-э, случайная *не* встреча.... ЛАЗ
-[**9 февраля 2009, 14:01 вечера**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**9 февраля 2009, 14:01 вечера**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - Отец [Ворон](https://web.archive.org/web/20090316024048/http://fathercrow.blogspot.com/) говорит:
 Блин, я бы с удовольствием свалился с такого острова, но, полагаю, в таких краях не совсем удобно передвигаться на инвалидных колясках. Жаль, что они еще не придумали антигравитационные ботинки. (G)
-[**10 февраля 2009, 15:54**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**10 февраля 2009, 15:54**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [киттент](https://web.archive.org/web/20090316024048/http://kittent.com/) говорит:
 Спасибо вам за эту историю.  Я надеюсь, вы прекрасно проводите время. В Каприконе по вам будут скучать.
 (Я уже на полпути к *Последней теореме(The Last Theorem)* и в полном восторге.)
-[**10 февраля 2009, 20:24 вечера**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**10 февраля 2009, 20:24 вечера**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 
 [WordPress](https://web.archive.org/web/20090316024048/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090316024048/http://dicksmithsoftware.com/)

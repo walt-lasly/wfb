@@ -4,9 +4,9 @@ date: 2011-04-21
 categories: ["Science"]
 tags: ["Dogs", "Jozsef Topal", "Milly Hull", "Psychology", "Zoology"]
 archive_url: "https://web.archive.org/web/20170620013854/http://www.thewaythefutureblogs.com/2011/04/dogs-wolves-and-babies/"
-prev_post_url: "/posts/2011-04-15-bearding-the-wild-pohl/"
+prev_post_url: "/fred-pohl/2011-04-15-bearding-the-wild-pohl/"
 prev_post_title: "Bearding the Wild Pohl"
-next_post_url: "/posts/2011-04-22-tong-guide-to-chinatown-new-york/"
+next_post_url: "/fred-pohl/2011-04-22-tong-guide-to-chinatown-new-york/"
 next_post_title: "Tong Guide to Chinatown New York"
 translated: false
 ---
@@ -56,19 +56,19 @@ It is suggested that this innate quality of dogs is what has made them particula
 - [Adam Harvey](https://web.archive.org/web/20170620013854/http://organicmechanic.org/) says:
 You might be interested in reading this National Geographic article about a generations-long experiment to domesticate the Russian Silver Fox. There’s some very interesting stuff in there about the genetics of domestication, including the dogs understanding human gestures.
 [http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text](https://web.archive.org/web/20170620013854/http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text)
-[**April 21, 2011, 7:55 am**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 7:55 am**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - Farah Mendlesohn says:
 Has it been tried with pigs? I saw pigs outperform a Jack Russell on computer tests in a programme called QED many years ago.
 [http://www.timeshighereducation.co.uk/story.asp?storyCode=100636&sectioncode=26](https://web.archive.org/web/20170620013854/http://www.timeshighereducation.co.uk/story.asp?storyCode=100636&sectioncode=26)
-[**April 21, 2011, 10:50 am**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 10:50 am**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - [Mike](https://web.archive.org/web/20170620013854/http://mikenbondi.blogspot.com/) says:
 It’s not just that the domestic dog tracks where we point – they also exhibit “left gaze bias” with human faces; uniquely looking for emotional cues.
 [http://www.suite101.com/content/study-says-dogs-detect-emotions-on-human-faces-a75900](https://web.archive.org/web/20170620013854/http://www.suite101.com/content/study-says-dogs-detect-emotions-on-human-faces-a75900)
-[**April 21, 2011, 12:16 pm**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 12:16 pm**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - [Bill Goodwin](https://web.archive.org/web/20170620013854/http://771715/) says:
 The obvious argument is that (in the case of dogs) it was domestication that led to the behavior, rather than the reverse.  Dogs that think like people are more useful to people, therefore preferentially selected.  And understanding pointing makes for a good hunting companion.  That said, the thought does occur that dogs are pack-hunters and known to point, themselves, so maybe the ability to abstract the motivations of other beings did, indeed, already operate at a high level.
 My cats understand pointing.  But cats have been up to a lot of evolving lately, most of which they conceal from us.  Ask any polydactyl.
-[**April 21, 2011, 1:50 pm**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 1:50 pm**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - [Stefan Jones](https://web.archive.org/web/20170620013854/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 I think the “human behavior cue detection” came after domestication.
 There’s an interesting updated theory on dog evolution and domestication.
@@ -77,25 +77,25 @@ Problem: It is really hard to deal with wolf puppies, much less wolves. There’
 The updated version: Neolithic villages were full of garbage. A reliable place for scavengers to nip in and eat. Some wolves adapted to scavenging there. Eventually they evolved to be a bit less cautious about being around humans . . . a crucial step. They became a “comensual” species, like the birds that hang out on rhino’s heads. Unlike fully wild wolves, they could be approached, and their young had a longer window in which to impress on other species.
 Once this was established, humans could take the deliberate next step of domestication. 
 For more: “Dogs” by Lorna and Raymon Coppinger.
-[**April 21, 2011, 1:59 pm**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 1:59 pm**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - Jay Borcherding says:
 I believe Stefan’s post is closest to the mark–early human garbage attracted wolves, and those wolves who tolerated human proximity better got a more reliable and plentiful food source.  Wolves with diminishing flight responses became, over time, dogs: intelligent  pack animals who find humans intensely interesting, including human nonverbal cues like facial expressions and pointing.
 Sheep, goats, and horses are other pack animals which are accustomed to following a leader, a trait they transposed to human leaders in the process of being domesticated.
-[**April 21, 2011, 4:34 pm**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 4:34 pm**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - Dan Gollub says:
 That scientific experiment suggests another one. Using human infants one year old or so, place a cookie in one of two cups. The cup with the cookie will be playing classical music. The cup without the reward will be playing heavy metal tunes or similar music. If the infants learn to expect rewards associated with classical music, will that affect their musical inclinations years later?
 But what I mainly want to say in this email is that I’ve been working on a novel, and in one of the scenes a character uses a phrase from one of your 1968 editorials. The character has been attending a meeting of a revolutionary movement, and he says he believes in the right to oppose authority when authority seems in error, but– and then he expresses the specific things he finds wrong with that particular group’s goals and methods.
 My girlfriend said that character is interesting and the readers would want to see more of him. The novel is already about 40,000 words in length when he appears, and it’s unclear to me how I might use him in any future scenes. But I’d be happy to send you that scene.
 Dan Gollub
-[**April 21, 2011, 4:35 pm**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 21, 2011, 4:35 pm**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - [Mike](https://web.archive.org/web/20170620013854/http://mikenbondi.blogspot.com/) says:
 There’s a BBC documentary on The Secret Life of the Dog (which was re-shown on NPR under a different name, like many such documentaries) covering many of these experiments, including the Russian Silver Fox breeding program.
 It’s all up on YouTube: [http://www.youtube.com/watch?v=xJQdYG2WHoE](https://web.archive.org/web/20170620013854/http://www.youtube.com/watch?v=xJQdYG2WHoE)
-[**April 22, 2011, 4:16 am**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 22, 2011, 4:16 am**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - [Stefan Jones](https://web.archive.org/web/20170620013854/http://www.flickr.com/photos/stefan_e_jones/) says:
 Those tame foxes are utterly adorable, but I’ve read that they have some odd quirks, like compulsively hiding food and smelling really bad . . .
 But I’d keep working on them. Foxes are as cute as buttons.
-[**April 23, 2011, 12:13 am**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**April 23, 2011, 12:13 am**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 - [steve davidson](https://web.archive.org/web/20170620013854/http://www.rimworlds.com/thecrotchetyoldfan) says:
 This reminds me of another experiment:  put one piece of dog food in a covered cup amongst many other (empty) covered cups.
 Let a 1 year old baby, a wolf puppy, a dog puppy and a bear cub into the room.
@@ -103,7 +103,7 @@ Close the door.
 Wait three days, open the door and see who or what has eaten the others.  
 Then base your estimates of intelligence on the results.
 (This experiment can be completed in 1 day if you use adult animals.)
-[**May 24, 2011, 4:33 am**](/posts/2011-04-21-dogs-wolves-and-babies/)
+[**May 24, 2011, 4:33 am**](/fred-pohl/2011-04-21-dogs-wolves-and-babies/)
 
 [WordPress](https://web.archive.org/web/20170620013854/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620013854/http://dicksmithsoftware.com/)

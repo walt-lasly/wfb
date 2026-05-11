@@ -4,9 +4,9 @@ date: 2009-06-11
 categories: ["Authors", "Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Fanzines", "Poetry"]
 archive_url: "https://web.archive.org/web/20090821145736/http://www.thewaythefutureblogs.com/2009/06/the-poetry-corner-2/"
-prev_post_url: "/posts/2009-06-07-more-fine-dining/"
+prev_post_url: "/fred-pohl/2009-06-07-more-fine-dining/"
 prev_post_title: "More Fine Dining"
-next_post_url: "/posts/2009-06-15-r-i-p-walter-schneir/"
+next_post_url: "/fred-pohl/2009-06-15-r-i-p-walter-schneir/"
 next_post_title: "R.I.P. Walter Schneir"
 translated: false
 translator: "Yandex"
@@ -54,18 +54,18 @@ translator: "Yandex"
 
 - [Шакатани](https://web.archive.org/web/20090821145736/http://shakatany.livejournal.com/) говорит:
 золотистый цвет????
-[**11 июня 2009 года, 9:39 утра**](/posts/2009-06-11-the-poetry-corner-2/)
+[**11 июня 2009 года, 9:39 утра**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 - [Стефан Джонс](https://web.archive.org/web/20090821145736/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) говорит:
 Мне нравится отрывок из урока физкультуры. Это наводит меня на мысль о детской фантастике Дэниела Пинкуотера "Чокнутый".
 Я предполагаю, что это авторское право... есть ли место, где можно попросить разрешения на его использование?
-[**11 июня 2009, 12:08 вечера**](/posts/2009-06-11-the-poetry-corner-2/)
+[**11 июня 2009, 12:08 вечера**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 - Бад Вебстер говорит:
 Я так рад, что вы, ребята, на этом не остановились.
-[**15 июня 2009 года, 2:54 ночи**](/posts/2009-06-11-the-poetry-corner-2/)
+[**15 июня 2009 года, 2:54 ночи**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 - Гэри Фарбер говорит:
 “первый из самых маленьких фэнзинов, когда-либо опубликованных”
 Боб Такер раньше издавал фэнзин для открыток.
-[**7 июля 2009 года, 11:12 утра**](/posts/2009-06-11-the-poetry-corner-2/)
+[**7 июля 2009 года, 11:12 утра**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 
 [WordPress](https://web.archive.org/web/20090821145736/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090821145736/http://dicksmithsoftware.com/)

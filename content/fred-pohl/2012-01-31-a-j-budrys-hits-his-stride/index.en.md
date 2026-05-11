@@ -4,9 +4,9 @@ date: 2012-01-31
 categories: ["Authors", "Writing"]
 tags: ["Agents", "Algis Budrys", "Carol Pohl", "Editors", "Edna Budrys", "Prozines", "Publishing", "Robert M. Guinn"]
 archive_url: "https://web.archive.org/web/20060601000000/http://www.thewaythefutureblogs.com/2012/01/a-j-budrys-hits-his-stride/"
-prev_post_url: "/posts/2012-01-30-rating-the-candidates/"
+prev_post_url: "/fred-pohl/2012-01-30-rating-the-candidates/"
 prev_post_title: "Rating the Candidates"
-next_post_url: "/posts/2012-02-02-where-did-they-come-from-these-occupiers/"
+next_post_url: "/fred-pohl/2012-02-02-where-did-they-come-from-these-occupiers/"
 next_post_title: "Where did they come from, these ‘Occupiers’?"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="budrys2.jpg" alt="Algis Budrys" caption="Algis Budrys" >}}
 
 
-[**Algis Budrys**](/posts/2010-07-26-a-j/) became my client within a matter of just months before, crippled by money troubles, I [**closed my literary agency’s door**](/posts/2010-11-28-what-my-clients-thought/) forever.  I hadn’t really had enough time to position him in the kind of publications he deserved, but I had made a pretty good start.  I had sold almost all of his backlog of science-fiction short stories and novelettes.  I got him contracts for paperbound novels — not the genteel old-line kind of publishing house I had envisioned for him, but at least a step in a better direction.  And then I turned him loose.
+[**Algis Budrys**](/fred-pohl/2010-07-26-a-j/) became my client within a matter of just months before, crippled by money troubles, I [**closed my literary agency’s door**](/fred-pohl/2010-11-28-what-my-clients-thought/) forever.  I hadn’t really had enough time to position him in the kind of publications he deserved, but I had made a pretty good start.  I had sold almost all of his backlog of science-fiction short stories and novelettes.  I got him contracts for paperbound novels — not the genteel old-line kind of publishing house I had envisioned for him, but at least a step in a better direction.  And then I turned him loose.
 
 
 By then A J had begun to have a certain reputation.  He negotiated a few contracts on his own, he got a film offer for one of them and successfully saw it through all the log-jams that lie between an expression of interest and an actual movie that people buy tickets to and then watch in a real motion-picture theater.  It wasn’t big money, but it was a sign of success denied to almost all of his colleagues.
@@ -52,31 +52,31 @@ It was, for both of us, a pretty smooth-running machine, most of the time.
 
 **Related posts:**
 
-- [**A J**](/posts/2010-07-26-a-j/)
-- [**A J, Part 2**](/posts/2010-07-28-a-j-part-2/)
-- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+- [**A J**](/fred-pohl/2010-07-26-a-j/)
+- [**A J, Part 2**](/fred-pohl/2010-07-28-a-j-part-2/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 
 
 ### 4 Comments
 
 - [TAD](https://web.archive.org/web/20120422034804/http://www.tadsbackupplan.blogspot.com/) says:
 Fred: This was great, thanks for sharing it. I’ve been a fan of Budrys’ writing ever since reading his book reviews in the pages of the old GALAXY….
-[**January 31, 2012, 3:22 am**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+[**January 31, 2012, 3:22 am**](/fred-pohl/2012-01-31-a-j-budrys-hits-his-stride/)
 - [Angie](https://web.archive.org/web/20120422034804/http://angiesdesk.blogspot.com/) says:
 *A J’s weird trait was punctuality. That is, he would give me first look at everything he wrote as long as he could get the check to pay for it the next day.*
 LOL!  Try that trick *now* and see how hard they laugh.   
 Angie
-[**January 31, 2012, 5:51 pm**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+[**January 31, 2012, 5:51 pm**](/fred-pohl/2012-01-31-a-j-budrys-hits-his-stride/)
 - [Larry Kollar](https://web.archive.org/web/20120422034804/http://farmanor.blogspot.com/) says:
 I remember reading some of his short work. It was kind of atmospheric, wasn’t it? Taking you gently by the hand and leading you into the unknown.
-[**January 31, 2012, 8:21 pm**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+[**January 31, 2012, 8:21 pm**](/fred-pohl/2012-01-31-a-j-budrys-hits-his-stride/)
 - Andre says:
 Mr. Pohl,
 At one point, Mr. Budrys became involved with L. Ron Hubbards’s Writers of the Future contest. Apparently, he would teach a course to finalists that relied heavily on Hubbard’s ideas about story construction. Do you know anything about this? Was Mr. Budrys ever a fan of Hubbard’s ideas on writing.
 I enjoy reading this web site immensely. Keep up the good work!
 All the best,
 Andre
-[**February 19, 2012, 1:54 am**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
+[**February 19, 2012, 1:54 am**](/fred-pohl/2012-01-31-a-j-budrys-hits-his-stride/)
 
 [WordPress](https://web.archive.org/web/20120422034804/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120422034804/http://dicksmithsoftware.com/)

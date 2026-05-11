@@ -4,9 +4,9 @@ date: 2010-09-28
 categories: ["Books", "Personal", "Space", "Writing"]
 tags: ["Canada", "Gateway", "Media"]
 archive_url: "https://web.archive.org/web/20191001000000/http://www.thewaythefutureblogs.com/2010/09/the-gateway-story/"
-prev_post_url: "/posts/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/"
+prev_post_url: "/fred-pohl/2010-09-24-jack-the-wonderful-williamson-part-5-blanche/"
 prev_post_title: "Jack the Wonderful Williamson, Part 5: Blanche"
-next_post_url: "/posts/2010-09-30-got-it/"
+next_post_url: "/fred-pohl/2010-09-30-got-it/"
 next_post_title: "Got it!"
 translated: false
 ---
@@ -70,37 +70,37 @@ And that’s the way, under the title *Gateway* , it got published.
 
 - [Stefan Jones](https://web.archive.org/web/20131009052337/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 *Gateway* is not only a great novel, but delved into subjects that took a while to get their “legs” in SF and futurist thinking. Like brain-downloading, or uploading, or whatever it is that the Singularity fans call it.
-[**September 28, 2010, 12:55 pm**](/posts/2010-09-28-the-gateway-story/)
+[**September 28, 2010, 12:55 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Mike G. says:
 I was just thinking it would be fun to reread Gateway and see Sigfrid on my kindle.  But d’oh, no Kindle edition…
 I guess I’ll have to find my paperback on my shelves  
-[**September 28, 2010, 1:57 pm**](/posts/2010-09-28-the-gateway-story/)
+[**September 28, 2010, 1:57 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Andy says:
 My parents had a pretty extensive library, but neither of them were big into sci-fi (my father has a particular disdain for the genre).  There were, however, three sci-fi novels on the shelves (all contributed by dad): Childhood’s End, The War of the Worlds, and Gateway.  
 Gateway was my favorite by a comfortable margin.  The sidebars so effectively sketched the outlines of the state of human society, but left the details provocatively to the reader’s imagination.  There were a lot of big ideas (or so it always seemed to me) in that slim little volume.  
 I have no idea what happened to that copy of Gateway.  No doubt it fell apart around the nth reading or got misplaced during a move, but I still occasionally revisit the story and I never leave disappointed.
-[**September 28, 2010, 4:44 pm**](/posts/2010-09-28-the-gateway-story/)
+[**September 28, 2010, 4:44 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Nathan Myers says:
 I’ve always wondered about the odd choice of your protagonist’s name.  The choice calls attention to itself, and leaves the reader wondering why.  Then it’s (I think) left unanswered.  It seems like Nabokov’s gun left unfired.
-[**September 29, 2010, 1:55 am**](/posts/2010-09-28-the-gateway-story/)
+[**September 29, 2010, 1:55 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - [Heather Massey](https://web.archive.org/web/20131009052337/http://www.thegalaxyexpress.net/) says:
 Thanks for your art, Mr. Pohl!
-[**September 29, 2010, 8:02 am**](/posts/2010-09-28-the-gateway-story/)
+[**September 29, 2010, 8:02 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - [Jeff](https://web.archive.org/web/20131009052337/http://jeffcrook.blogspot.com/) says:
 That’s pretty much how I read it, too. 
 This was one of the few books that I liked that I suggested to my wife and she actually liked it, too.
-[**September 29, 2010, 10:30 am**](/posts/2010-09-28-the-gateway-story/)
+[**September 29, 2010, 10:30 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - [Michael Parker](https://web.archive.org/web/20131009052337/http://scifipen.blogspot.com/) says:
 Gateway is one of my all-time favorite novels in any genre. And when I first read it was the only one that I knew of that started on a psychiatrist’s couch and presented therapy and mental illness in such a realistic, humanizing way. I think that’s the strength of the novel, aside from the wonderful story of the alien ships at Gateway, that we can really connect with Bob, warts and all. I think it could be adapted into a terrific film if handled correctly. It’s definitely recommended reading for anyone with an interest in sf and even for those who don’t. Love it.
-[**September 30, 2010, 12:36 am**](/posts/2010-09-28-the-gateway-story/)
+[**September 30, 2010, 12:36 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Scott Kennedy says:
 Thanks for sharing this story of Gateway’s genesis.  It’s a book that has stuck with me since I first read it.  The state of the earth predicited in it still seems prescient.  On a side note, the two text-based Legend games based on it remain among my favorites of that genre as well.
-[**September 30, 2010, 3:24 pm**](/posts/2010-09-28-the-gateway-story/)
+[**September 30, 2010, 3:24 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Marc says:
 I’m not a big book reader or even a fan of the format (for Stories) in-fact outside of Gateway there’s only one or two Novels I’ve read completely in my adult life. I grew up with Video games, TV and Film. Typically the books in my life were engineering manuals, encyclopaedias or maybe a circuit diagram or two… So after a chance reading of the Gateway synopsis in my local book store a few years ago, I was totally and utterly captivated by the concept and knew I had to buy (after first checking for Cinematic version of said Novel) and read Gateway!
 ….. Fascinating to read a little background about my favourite Novel. Such a great story, it captured my imagination and is hugely inspiring on a personal level.
 Thank you!
-[**October 4, 2010, 7:55 am**](/posts/2010-09-28-the-gateway-story/)
+[**October 4, 2010, 7:55 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - john miller says:
 Over here in England we have pubs, which are a bit different to your bars. They tend to have fewer angst-ridden drinkers.
 The most popular drinkers in the pubs are the raconteurs. Something – perhaps out of the ordinary, but sometimes in it as well – happens to them, they tell you about it in their own way and you laugh your head off.
@@ -109,10 +109,10 @@ No matter how funny the SMS joke, it\’s always worse than the raconteur\’s t
 Which seems to prove that it\’s 95% delivery and 5% content.
 Which also explains why my favourite authors are (old authors never die!) Zelazny, Delany, Stephenson and yourself.
 Congratulations on the Hugo. I toasted you with a pint of bitter and because I hold you in such high regard it seemed appropriate to do it several times. Thanks for that…
-[**October 4, 2010, 1:51 pm**](/posts/2010-09-28-the-gateway-story/)
+[**October 4, 2010, 1:51 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - [Pete Miller](https://web.archive.org/web/20131009052337/http://www.docsavagetales.blogspot.com/) says:
 Thanks for the story of the genesis of the book. Gateway is one of my favorites of yours. Congratulations on the Hugo!
-[**October 6, 2010, 5:43 pm**](/posts/2010-09-28-the-gateway-story/)
+[**October 6, 2010, 5:43 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Alan says:
 Thanks for the story of how you came up with the idea of this great book.  
 
@@ -121,28 +121,28 @@ Gateway is one of my favorite books.
 I read it every few years.  
 
 Thanks for writing it.
-[**October 10, 2010, 1:07 am**](/posts/2010-09-28-the-gateway-story/)
+[**October 10, 2010, 1:07 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - [Cliff Winnig](https://web.archive.org/web/20131009052337/http://cliffwinnig.com/) says:
 It’s heartening to know that you explore your ideas by writing the actual book.  I have described my own writing process as being like reading, only slower.  I write the first draft to find out what happens next.  Sometimes I have a pretty good, if murky idea of what’ll happen, but often the coolest parts of the plot emerge from the writing itself, totally unanticipated.
 I read Gateway at an impressionable age, when I was in junior high.  I was probably a bit young for some of the grownup themes, but in that way the book itself helped me to grow up, to understand how adults could get screwed up and develop psychological baggage.  Also, its society, imagery, and mysterious aliens have stayed with me.  One thing I liked about the Heechee was that, even after they actually appeared in the series, they stayed interesting because they were both alien and, as individuals, people I could empathize with.
-[**October 10, 2010, 3:50 am**](/posts/2010-09-28-the-gateway-story/)
+[**October 10, 2010, 3:50 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Michael R. says:
 Having only started exploring writing, I can sympathize with your methodology. I have tried the “organized” approach, and find it stifles the creativity in me.
 Came to this by way of an io9 article on “Gateway”. Now I’m going to have to go track a copy down and re-read it.
 Thanks for the great work!
-[**October 10, 2010, 4:33 pm**](/posts/2010-09-28-the-gateway-story/)
+[**October 10, 2010, 4:33 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Paul J. Kossick says:
 I was just out bookshopping today, and unfortunately had to order a used copy of Heechee Rendezvous, as I’ve recently decided to re-read the whole saga.  Books 3 through 5 seem to be out of pritn, but that got me to thinking; wouldn’t it be great to have the whole Heechee Saga in one volume, ala the ‘More Than Complete Hitchhikers Guide to the Galaxy’?  Anyways, I suppose I can dream.  Here’s hoping I can find the rest of them when I get that far!
-[**October 21, 2010, 1:49 pm**](/posts/2010-09-28-the-gateway-story/)
+[**October 21, 2010, 1:49 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - Kirk says:
 Fermi may be the scientist you are thinking of.  Timothy Ferris, in the show ‘Life beyond Earth’ had a good comeback to that.  One evening he invited a lobster to dinner.  He opened his door and waited at the dining table for the lobster to show up.  The lobster never came.  It was an example of ‘absence of proof is not proof of absence’.
-[**October 25, 2010, 3:52 pm**](/posts/2010-09-28-the-gateway-story/)
+[**October 25, 2010, 3:52 pm**](/fred-pohl/2010-09-28-the-gateway-story/)
 - shelleybear says:
 “A lot of writers have minds more orderly than my own. These tidier souls tend to write out a synopsis of what the book is going to be, all the way to the conclusion, before they write a single line of the actual text. This approach to the how-to of writing is simply alien to my nature. Instead, when I get a sort of general idea I simply start to write, making it up as I go along. Writing, then, is pretty much a process of discovery for me. As I write I see more and more of the implications of that original idea, and I shape my story line accordingly.”
 Fred, I wish my printer was working.  
 
 I want a copy of this framed and hanging over my computer.
-[**October 29, 2010, 7:26 am**](/posts/2010-09-28-the-gateway-story/)
+[**October 29, 2010, 7:26 am**](/fred-pohl/2010-09-28-the-gateway-story/)
 
 [WordPress](https://web.archive.org/web/20131009052337/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131009052337/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-01-16
 categories: ["Science", "Writing"]
 tags: ["Andrew Jarosz", "Food", "Psychology"]
 archive_url: "https://web.archive.org/web/20201201000000/http://www.thewaythefutureblogs.com/2013/01/getting-the-juices-flowing/"
-prev_post_url: "/posts/2013-01-15-the-election-s-over-now-what/"
+prev_post_url: "/fred-pohl/2013-01-15-the-election-s-over-now-what/"
 prev_post_title: "The Election’s Over, Now What?"
-next_post_url: "/posts/2013-01-18-what-s-wrong-with-age-specific-books/"
+next_post_url: "/fred-pohl/2013-01-18-what-s-wrong-with-age-specific-books/"
 next_post_title: "What’s Wrong with Age-Specific Books"
 translated: false
 ---
@@ -31,23 +31,23 @@ The vodka drinkers solved 38 percent more problems than the teetotallers and rea
 
 - D. says:
 *Not* a surprise.
-[**January 16, 2013, 2:33 pm**](/posts/2013-01-16-getting-the-juices-flowing/)
+[**January 16, 2013, 2:33 pm**](/fred-pohl/2013-01-16-getting-the-juices-flowing/)
 - [Dan Gollub](https://web.archive.org/web/20140902045024/http://dreampattern.com/) says:
 Metchnikoff had an inspiration about the true nature of phagocytes while his family had gone to the circus to see some “extraordinary performing apes.” Presumably telepathy was involved. The mental stimulation his family experienced was communicated telepathically to him and provided a valuable substrate for his inspiration. I published two articles suggesting gap junctions in the brain (which are involved in cell-to-cell communication and also are receptive to electrical stimuli) convey rudimentary telepathic information. I was glad to pay the page fees required.
-[**January 17, 2013, 7:57 am**](/posts/2013-01-16-getting-the-juices-flowing/)
+[**January 17, 2013, 7:57 am**](/fred-pohl/2013-01-16-getting-the-juices-flowing/)
 - H. E. Parmer says:
 “I take a drink, and I’m a new man. The problem is, the new man wants a drink, too.”
-[**January 17, 2013, 10:24 pm**](/posts/2013-01-16-getting-the-juices-flowing/)
+[**January 17, 2013, 10:24 pm**](/fred-pohl/2013-01-16-getting-the-juices-flowing/)
 - Alfred Kaye says:
 Dear Mr. Pohl,
 Will you be present at the WindyCon this Fall?
 Also, what is your current opinion of cryonics, and if favorable, would you try it for your self, and which cryonics organization would you choose?
 Thanks
-[**April 18, 2013, 10:43 am**](/posts/2013-01-16-getting-the-juices-flowing/)
+[**April 18, 2013, 10:43 am**](/fred-pohl/2013-01-16-getting-the-juices-flowing/)
 - [the blog team](https://web.archive.org/web/20140902045024/http://thewaythefutureblogs.com/) says:
 Alfred Kaye, you can find Fred’s posts on cryonics here: [http://www.thewaythefutureblogs.com/?s=cryonics](https://web.archive.org/web/20140902045024/http://www.thewaythefutureblogs.com/?s=cryonics)
 As for Windycon, he made an appearance there last year, but at 94, he doesn’t make plans quite so far ahead now. Check here in November.
-[**April 19, 2013, 3:34 pm**](/posts/2013-01-16-getting-the-juices-flowing/)
+[**April 19, 2013, 3:34 pm**](/fred-pohl/2013-01-16-getting-the-juices-flowing/)
 
 [WordPress](https://web.archive.org/web/20140902045024/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140902045024/http://dicksmithsoftware.com/)

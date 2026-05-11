@@ -4,9 +4,9 @@ date: 2009-08-25
 categories: ["Books", "Personal", "Writing"]
 tags: ["Arthur C. Clarke", "Medicine", "The Last Theorem"]
 archive_url: "https://web.archive.org/web/20091002095642/http://www.thewaythefutureblogs.com/2009/08/why-new-postings-have-been-sparse-lately/"
-prev_post_url: "/posts/2009-08-17-little-known-fun-facts/"
+prev_post_url: "/fred-pohl/2009-08-17-little-known-fun-facts/"
 prev_post_title: "Little Known Fun Facts"
-next_post_url: "/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
+next_post_url: "/fred-pohl/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
 next_post_title: "Fred’s Distilled Writing Wisdom, Part 1"
 translated: false
 ---
@@ -33,42 +33,42 @@ One will be next.  It comes about because I once thought that, having worn all t
 
 - [J M Hamlow](https://web.archive.org/web/20091002095642/http://www.spiritofsalt.com/) says:
 Well that’s the most exciting thing I’ve read on the internet in a long time!  I love to read writers writing about their craft.
-[**August 25, 2009, 1:49 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 1:49 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - Hamish says:
 Excellent - I am *so* looking forward to that
-[**August 25, 2009, 3:27 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 3:27 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Keith Graham](https://web.archive.org/web/20091002095642/http://www.cthreepo.com/blog) says:
 Mr. Pohl,
 Most writing books cover the same basics on how to put words on paper (or pixels), the ones that stand out have great chapters on personal experience. I like stories about first sales, first rejects, interactions with editors, collaborations, really bad stories that got published and really great stories that didn’t. These kinds of anecdotes are why I read you blog. Becoming a writer stories are better than how-to-write essays. 
 Tips on characters, plotting and world building are great, but keep them personal and try to make them relate to your own novels, stories and career. Like you say, there are a large number of really good how to books on genre writing. There are, however, no Frederick Pohl books about becoming a writer. 
 Keith
-[**August 25, 2009, 9:12 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 9:12 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Ken Houghton](https://web.archive.org/web/20091002095642/http://angrybear.blogspot.com/) says:
 And I see from Michael Swanwick\’s blog that you have graduated from high school!  Congratulations, and that you for setting the example.
-[**August 25, 2009, 9:57 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 9:57 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Jeff](https://web.archive.org/web/20091002095642/http://jeffcrook.blogspot.com/) says:
 Thanks for not writing a book about writing. I’ve never bought one, because I think they’re written more for people who are in love with the idea of being a writer than actually writing. 
 That said, I’ve been told I’m rather good at motivating people to write. 
 Now, a book about getting published, if it contained a magical formula - that I would buy.
-[**August 25, 2009, 10:14 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 10:14 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Jeremy Neiman](https://web.archive.org/web/20091002095642/http://memoryleak.co.cc/) says:
 Also been busy finally graduating high school apparently.  I guess that makes you a fellow graduate of the Brooklyn Tech class of 2009.  Congradulations!
-[**August 25, 2009, 10:36 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 10:36 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [sm](https://web.archive.org/web/20091002095642/http://tinyurl.com/avjvz/) says:
 Glad to see you back here.
-[**August 25, 2009, 10:39 am**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 10:39 am**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Robert Nowall](https://web.archive.org/web/20091002095642/http://www.robertnowall.com/) says:
 I’m happy to hear it.  Besides that there’s so little in SF that moves me to buy a book these days—I do my book buying in other sections—I’d enjoy seeing some “how-to” on writing from a master of the field.  (And not just because I’m still trying to figure out how to do it after thirty-plus years of trying.)
-[**August 25, 2009, 1:14 pm**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 1:14 pm**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - Al Bogdan says:
 Good to hear you’re back at it! I’ll be reading.
-[**August 25, 2009, 6:37 pm**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**August 25, 2009, 6:37 pm**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - Ron says:
 Mr Pohl,
  I just wanted to thank you for all your great novels you’ve written. You’re books always had a nack for balancing mystery, strategy, thrills, and character development. I really wish one of your big novels, such as Gateway, “The Other End of Time”, or “The World at the End of Time” made it to the big screen. I found the storyline of these novels very interesting and unique.
 Thank for the endless hours of entertainment your novels have brought me!
 Ron
-[**September 6, 2009, 11:03 pm**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**September 6, 2009, 11:03 pm**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 
 [WordPress](https://web.archive.org/web/20091002095642/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002095642/http://dicksmithsoftware.com/)

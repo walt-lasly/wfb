@@ -4,9 +4,9 @@ date: 2012-06-30
 categories: ["Authors"]
 tags: ["Jay Kay Klein"]
 archive_url: "https://web.archive.org/web/20240701000000/http://www.thewaythefutureblogs.com/2012/06/so-long-jay-kay-cons-wont-be-the-same-without-you/"
-prev_post_url: "/posts/2012-06-15-about-the-farm-bill/"
+prev_post_url: "/fred-pohl/2012-06-15-about-the-farm-bill/"
 prev_post_title: "About the Farm Bill"
-next_post_url: "/posts/2012-07-01-do-you-know-these-folks/"
+next_post_url: "/fred-pohl/2012-07-01-do-you-know-these-folks/"
 next_post_title: "Do you know these folks?"
 translated: false
 ---
@@ -37,7 +37,7 @@ And I must add, as a personal note of gratitude, that when already long ill but 
 - [Stefan Jones](https://web.archive.org/web/20160729011437/http://www.flickr.com/photos/stefan_e_jones) says:
 I remember being amazed, when reading LOCUS in the 1980s, how many of the photos of pros were by one guy.
 Klein was a guest for at least one I-Con, the campus convention my friends ran. It was nice to see the face of the guy behind all of those pictures. He looked just a little older than he does in the photo above. He had his camera with him, of course!
-[**July 1, 2012, 7:14 pm**](/posts/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/)
+[**July 1, 2012, 7:14 pm**](/fred-pohl/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/)
 
 [WordPress](https://web.archive.org/web/20160729011437/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160729011437/http://dicksmithsoftware.com/)

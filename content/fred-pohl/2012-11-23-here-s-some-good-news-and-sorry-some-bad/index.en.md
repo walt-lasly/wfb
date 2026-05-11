@@ -4,9 +4,9 @@ date: 2012-11-23
 categories: ["Science"]
 tags: ["Medicine"]
 archive_url: "https://web.archive.org/web/20130128063223/http://www.thewaythefutureblogs.com/2012/11/heres-some-good-news-and-sorry-some-bad/"
-prev_post_url: "/posts/2012-11-21-that-boson-give-us-your-full-name-please/"
+prev_post_url: "/fred-pohl/2012-11-21-that-boson-give-us-your-full-name-please/"
 prev_post_title: "That Boson: Give Us Your Full Name, Please"
-next_post_url: "/posts/2012-11-25-bright-sayings-of-bright-people-no-37/"
+next_post_url: "/fred-pohl/2012-11-25-bright-sayings-of-bright-people-no-37/"
 next_post_title: "Bright Sayings of Bright People, No. 37"
 translated: false
 ---
@@ -34,10 +34,10 @@ The bad part is that the same study showed that the increase could be only somet
 
 - [Dan Gollub](https://web.archive.org/web/20130128063223/http://dreampattern.com/) says:
 I’d be glad to take 50 of those pills to double my intelligence.
-[**November 23, 2012, 7:11 am**](/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
+[**November 23, 2012, 7:11 am**](/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
 - [Nestor](https://web.archive.org/web/20130128063223/http://www.krazykimchi.com/) says:
 I think I’m more on the market for brain deadening drugs right now…
-[**November 26, 2012, 5:54 am**](/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
+[**November 26, 2012, 5:54 am**](/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
 - Dwight says:
 Hi.  
 
@@ -45,7 +45,7 @@ In 2009, you posted a blog commentbabiutva Twilight Zone episode. In it, Astrona
 What episode were you referring to?  
 
 I can’t find it any where.
-[**December 9, 2012, 7:00 am**](/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
+[**December 9, 2012, 7:00 am**](/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
 
 [WordPress](https://web.archive.org/web/20130128063223/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20130128063223/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-05-09
 categories: ["Science"]
 tags: ["Frank R. Paul", "Medicine", "Zoology"]
 archive_url: "https://web.archive.org/web/20261101000000/http://www.thewaythefutureblogs.com/2011/05/are-bigger-brains-better/"
-prev_post_url: "/posts/2011-05-04-robert-silverberg-part-2-agberg-and-me/"
+prev_post_url: "/fred-pohl/2011-05-04-robert-silverberg-part-2-agberg-and-me/"
 prev_post_title: "Robert Silverberg, Part 2: Agberg and Me"
-next_post_url: "/posts/2011-05-13-how-boeing-almost-went-broke/"
+next_post_url: "/fred-pohl/2011-05-13-how-boeing-almost-went-broke/"
 next_post_title: "How Boeing Almost Went Broke"
 translated: false
 ---
@@ -57,22 +57,22 @@ current science strongly indicates thatour brains have in fact been decreasing i
 
 [http://johnhawks.net/weblog/mailbag/teacher-who-doubted-the-shrinking-brain-2010.html](https://web.archive.org/web/20170620003127/http://johnhawks.net/weblog/mailbag/teacher-who-doubted-the-shrinking-brain-2010.html)
 It’s not clear yet whether this shrinking is because our brains are becoming more efficient or, alternatively, we are taking the route that your late partner, C.M. Kornbluth, suggested in one of his most famous stories.
-[**May 9, 2011, 4:52 pm**](/posts/2011-05-09-are-bigger-brains-better/)
+[**May 9, 2011, 4:52 pm**](/fred-pohl/2011-05-09-are-bigger-brains-better/)
 - Jim Worrad says:
 There maybe something to Douglas Adams’ super intelligent mice afterall…
-[**May 9, 2011, 7:59 pm**](/posts/2011-05-09-are-bigger-brains-better/)
+[**May 9, 2011, 7:59 pm**](/fred-pohl/2011-05-09-are-bigger-brains-better/)
 - [Lisa Osman](https://web.archive.org/web/20170620003127/http://hermitism.com/) says:
 Very interesting comparisons. I wonder if it’s partly because bees fly. And I do remember reading old science fiction stories about how the human race evolves into giant brains in the future. However, in my anthropology class, we were taught that human brains have been shrinking for the past 20,000 years. What’s more, the surface of the brain is becoming more complex. I tried to find an article I could link to that would talk about both, but so far all I’m coming up with is [speculations about the shrinkage](https://web.archive.org/web/20170620003127/http://discovermagazine.com/2010/sep/25-modern-humans-smart-why-brain-shrinking). Although that one claims that our brain size is starting to rise again.
-[**May 10, 2011, 12:17 am**](/posts/2011-05-09-are-bigger-brains-better/)
+[**May 10, 2011, 12:17 am**](/fred-pohl/2011-05-09-are-bigger-brains-better/)
 - Dwight Decker says:
 A large brain would correlate in general with increased intelligence, just on account of there being more to work with. But there’s also the matter of what part of the brain is large. For intelligence of the sort people usually think of in this connection, you’d want to look at the frontal lobe or the cerebral cortex. I’ve heard the thing about shrinking human brains, too, but I wonder if again, people are thinking absolute brain size = X amount of intelligence. The question is what part of the brain has shrunk. Our ancestors could probably identify far more odors than we can, since we still carry a great many dead or inactive OR genes (Olfactory Receptor) in our genome. (See the discussion in the book WHY EVOLUTION IS TRUE by Jerry Coyne, page 69-71). If we’ve lost the ability to identify roughly half the odors our ancestors could and no longer live in a sensory world based on smell, that would mean a lot of olfactory processing space in our brains would no longer be needed — maybe that was what was lost, not intelligence per se.
-[**May 11, 2011, 12:18 pm**](/posts/2011-05-09-are-bigger-brains-better/)
+[**May 11, 2011, 12:18 pm**](/fred-pohl/2011-05-09-are-bigger-brains-better/)
 - [Bill Goodwin](https://web.archive.org/web/20170620003127/http://771715/) says:
 The brain is also a radiator.  A more convoluted surface increases it’s efficiency in this respect, meaning that it can shrink in volume.
-[**May 13, 2011, 3:07 am**](/posts/2011-05-09-are-bigger-brains-better/)
+[**May 13, 2011, 3:07 am**](/fred-pohl/2011-05-09-are-bigger-brains-better/)
 - [Adam](https://web.archive.org/web/20170620003127/http://icarusinterstellar.org/) says:
 A correction to this little comparison is the fact that different mammals pack different numbers of neurons into the same volume of brain. Rodents have a much lower neuron density compared to primates. But, as primates, human brains are about the right rize for the number of neurons. We really do have scaled-up monkey brains in our skulls. So next time some criticizes Darwinism as meaning we have monkeys as relatives remind them of that little datum.
-[**June 20, 2011, 7:30 pm**](/posts/2011-05-09-are-bigger-brains-better/)
+[**June 20, 2011, 7:30 pm**](/fred-pohl/2011-05-09-are-bigger-brains-better/)
 
 [WordPress](https://web.archive.org/web/20170620003127/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620003127/http://dicksmithsoftware.com/)

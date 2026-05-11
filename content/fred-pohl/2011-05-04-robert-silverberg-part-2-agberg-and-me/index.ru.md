@@ -4,9 +4,9 @@ date: 2011-05-04
 categories: ["Authors", "Personal"]
 tags: ["Barbara Silverberg", "California", "Carol Pohl", "Editors", "Elizabeth Anne Hull", "Frederik Pohl III", "Laurie D.T. Mann", "New York", "Prozines", "Robert Silverberg"]
 archive_url: "https://web.archive.org/web/20190901000000/http://www.thewaythefutureblogs.com/2011/05/robert-silverberg-part-2-agberg-and-me/"
-prev_post_url: "/posts/2011-05-02-robert-silverberg/"
+prev_post_url: "/fred-pohl/2011-05-02-robert-silverberg/"
 prev_post_title: "Robert Silverberg"
-next_post_url: "/posts/2011-05-09-are-bigger-brains-better/"
+next_post_url: "/fred-pohl/2011-05-09-are-bigger-brains-better/"
 next_post_title: "Are Bigger Brains Better?"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="silverberg-pohl-hull-conjos.jpg" alt="Robert Silverberg, me and Betty Anne at ConJose in 2002. (Photo by Laurie  D.T. Mann.)" caption="Robert Silverberg, me and Betty Anne at ConJose in 2002. (Photo by Laurie D.T. Mann.)" >}}
 
 
-[** Роберт Силверберг**](/posts/2011-05-02-robert-silverberg/) был хорошим другом на протяжении многих лет, но “хороший друг” не совсем описывает некоторые из наиболее обескураживающих сторон нашей дружбы.
+[** Роберт Силверберг**](/fred-pohl/2011-05-02-robert-silverberg/) был хорошим другом на протяжении многих лет, но “хороший друг” не совсем описывает некоторые из наиболее обескураживающих сторон нашей дружбы.
 
 
 Примерно в начале 1960-х, когда я только осваивался в качестве нового редактора Galaxy и его компаньонов, Боб Силверберг присылал мне почти по рассказу в месяц в соответствии с нашим соглашением, и Земля была чиста у нас под ногами.  Агберг, как он стал себя называть (Ag - это научная аббревиатура от “сильвер”, и если вы еще не знаете, почему это так, у меня нет особых причин обременять вас этим), казалось, был доволен нашим контрактом, как я и знал, и никогда не казалось, что это так. мне было особенно жутко, пока я не получил еще одно из этих писем.
@@ -72,7 +72,7 @@ translator: "Yandex"
 
 **Похожие сообщения:**
 
-[**Роберт Силверберг**](/posts/2011-05-02-robert-silverberg/)
+[**Роберт Силверберг**](/fred-pohl/2011-05-02-robert-silverberg/)
 
 [WordPress](https://web.archive.org/web/20170619211347/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619211347/http://dicksmithsoftware.com/)

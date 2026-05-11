@@ -4,9 +4,9 @@ date: 2012-01-09
 categories: ["Authors"]
 tags: ["Adolf Hitler", "Agents", "C.M. Kornbluth", "Clubs", "David Kornbluth", "Dirk Wylie", "Futurians", "George S. Patton", "John Kornbluth", "Mary Kornbluth", "Media", "Medicine", "Richard Wilson", "World War II"]
 archive_url: "https://web.archive.org/web/20170701000000/http://www.thewaythefutureblogs.com/2012/01/cyril-kornbluth-part-3/"
-prev_post_url: "/posts/2012-01-04-we-ll-tak-a-cup-o-224-billion/"
+prev_post_url: "/fred-pohl/2012-01-04-we-ll-tak-a-cup-o-224-billion/"
 prev_post_title: "We’ll Tak a Cup o’ $224 Billion"
-next_post_url: "/posts/2012-01-12-warren-buffett-s-plan-to-fix-congress/"
+next_post_url: "/fred-pohl/2012-01-12-warren-buffett-s-plan-to-fix-congress/"
 next_post_title: "Warren Buffett’s Plan to Fix Congress"
 translated: false
 ---
@@ -27,7 +27,7 @@ Cyril Begins to Blossom
 When Cyril’s bad luck dumped him into the Infantry just when Hitler caught the American Army with their pants down in the [Battle of the Bulge](https://web.archive.org/web/20120513023254/http://www.army.mil/botb/), he became a machine-gunner.  What happened with him in that worrisome period before [Patton](https://web.archive.org/web/20120513023254/http://www.generalpatton.com/), plus thousands of fresh reserves, kicked Hitler’s troops back into Germany I don’t know, because Cyril refused to talk about it.  The end result, though, was that he got two things from that period of service.  One was a Bronze Star.  The other was a bad case of what they called severe essential hypertension, which was Army talk for heart trouble.
 
 
-For a time after the war Cyril dealt with that situation by ignoring it.  At some point he had married [**Mary G. Byers**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), the Ohio femmefan he had smuggled into New York City over the efforts of the uncle who, as her guardian, had done everything he could to prevent it.  When Cyril’s draft number came up (I believe from things Cyril said), they were married.
+For a time after the war Cyril dealt with that situation by ignoring it.  At some point he had married [**Mary G. Byers**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), the Ohio femmefan he had smuggled into New York City over the efforts of the uncle who, as her guardian, had done everything he could to prevent it.  When Cyril’s draft number came up (I believe from things Cyril said), they were married.
 
 
 While Cyril was serving in Europe, Mary was (again, I understand) alone, and not doing well.  I believe that was when her drinking problem first surfaced; but when Cyril came home, he entered the University of Chicago on the G.I. Bill and, at least for a time, things went well for both of them, especially after he took on a part-time job working for the newswire service, Transradio Press.
@@ -36,7 +36,7 @@ While Cyril was serving in Europe, Mary was (again, I understand) alone, and not
 That job he got by invitation of our mutual old Futurian friend, [Dick Wilson](https://web.archive.org/web/20120513023254/http://www.juggle.com/richard-wilson), who got there a little earlier than Cyril and had already become head of Transradio’s Chicago Bureau.  (I must write something about Transradio some time, because it loved hiring Futurians, including, occasionally, me.  But not now.)
 
 
-Cyril had stopped by New York before moving on to Chicago, and he and I had kept in contact.  I was then operating the [**Dirk Wylie Literary Agency**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/), helping Dirk to make it a career (his own war injuries having made it impossible for him to hold a normal job.)  When Cyril began writing, and selling, an occasional postwar sf story  again, I coaxed him to do more.
+Cyril had stopped by New York before moving on to Chicago, and he and I had kept in contact.  I was then operating the [**Dirk Wylie Literary Agency**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/), helping Dirk to make it a career (his own war injuries having made it impossible for him to hold a normal job.)  When Cyril began writing, and selling, an occasional postwar sf story  again, I coaxed him to do more.
 
 
 He ultimately gave in, quit Transradio (and quit the university too) and moved back east.  I *think*, again from things Cyril said, that part of the reason for leaving Chicago was because Mary was involved in some drinking there.  I know (from Mary herself) that Cyril tried really hard to help her quit, including some pretty harsh measures.
@@ -48,7 +48,7 @@ He and Mary set up housekeeping near where I was living with my family in Red Ba
 Apart from  the writing, Cyril’s life was unusually ordinary — that is to say, mostly quite apparently happy in those years.  He and Mary shared many interests, not least the two sons, John and David, that Mary gave him in those years. Fatherhood, I must say, revealed a side of Cyril that I had not suspected to exist.  He was an archetypal proud papa, he worried seriously when John developed some problems that none of their doctors seemed able to cope with (but which, apparently, the boy ultimately outgrew).  From outside, even a quite close outside, the ultimate cynic seemed to have transmuted himself into a perfectly normal young married.
 
 
-There was one small puzzle.  One time when he and I were in my car, on the way to the [**Ipsy-Wipsy Institute**](/posts/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), our conversation got much more than usually personal.  And when, leaping from earlier remarks between us, I asked Cyril what he would most like to change about himself, he clenched his teeth and,  “I wish I were less cruel.”
+There was one small puzzle.  One time when he and I were in my car, on the way to the [**Ipsy-Wipsy Institute**](/fred-pohl/2011-02-02-fletcher-pratt-part-3-the-lord-of-the-ipsy-wipsies/), our conversation got much more than usually personal.  And when, leaping from earlier remarks between us, I asked Cyril what he would most like to change about himself, he clenched his teeth and,  “I wish I were less cruel.”
 
 
 I didn’t ask him any questions about that remark, but I did give it a lot of thought for a long time.
@@ -59,8 +59,8 @@ I didn’t ask him any questions about that remark, but I did give it a lot of t
 
 **Related posts:**
 
-- **Cyril Kornbluth,**[**Part 1**](/posts/2009-04-20-cyril/), [**Part 2**](/posts/2012-01-02-cyril-kornbluth-part-2/)
-- **Mary Kornbluth,** [**Part 1**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 2**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), [**Part 3**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
+- **Cyril Kornbluth,**[**Part 1**](/fred-pohl/2009-04-20-cyril/), [**Part 2**](/fred-pohl/2012-01-02-cyril-kornbluth-part-2/)
+- **Mary Kornbluth,** [**Part 1**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 2**](/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), [**Part 3**](/fred-pohl/2010-12-18-mary-kornbluth-part-3-anthologist/)
 
 
 ### 3 Comments
@@ -68,15 +68,15 @@ I didn’t ask him any questions about that remark, but I did give it a lot of t
 - J.J.S. Boyce says:
 Actually “The Little Black Bag” and “The Marching Morons” were included in The Science Fiction Hall of Fame, Volumes I and II, respectively. That anthology collection was intended to honour pre-Hugo/pre-Nebula stories that never had a chance to be nominated for an award.
 In addition, “The Little Black Bag” won a Retro Hugo in 2001 for best novelette. So you’re right Mr. Pohl, Kornbluth was an award winner who was unlucky enough to be active at the wrong time, but at least he eventually got his due.
-[**January 9, 2012, 8:20 am**](/posts/2012-01-09-cyril-kornbluth-part-3/)
+[**January 9, 2012, 8:20 am**](/fred-pohl/2012-01-09-cyril-kornbluth-part-3/)
 - [Stefan Jones](https://web.archive.org/web/20120513023254/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Keep it coming.
 I wonder what sort of SF war story that Kornbluth might have eventually written, given that he actually fought in a war. I bet it would be very different than an SF war story written by someone who (ahem) stayed on the home front.
 Also: The collection “His Share of Glory” is amazing. Kornbluth was writing snarky humorous fantasy decades before folks like Asprin and Pratchett. Searing social satire.
-[**January 9, 2012, 1:11 pm**](/posts/2012-01-09-cyril-kornbluth-part-3/)
+[**January 9, 2012, 1:11 pm**](/fred-pohl/2012-01-09-cyril-kornbluth-part-3/)
 - [TAD](https://web.archive.org/web/20120513023254/http://www.tadsbackupplan.blogspot.com/) says:
 Been meaning to say for awhile, thanks for posting this, too. I haven’t read as much of Cyril as an SF fan should, but “Two Dooms” and “The Last Man Left in the Bar” and “The Altar at Midnight” are all pretty amazing. He really was ahead of his time. Thanks again for sharing this.
-[**February 8, 2012, 2:40 am**](/posts/2012-01-09-cyril-kornbluth-part-3/)
+[**February 8, 2012, 2:40 am**](/fred-pohl/2012-01-09-cyril-kornbluth-part-3/)
 
 [WordPress](https://web.archive.org/web/20120513023254/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120513023254/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-04-21
 categories: ["Miscellaneous"]
 tags: ["Andy Warhol", "Artists", "Quotations"]
 archive_url: "https://web.archive.org/web/20170101000000/http://www.thewaythefutureblogs.com/2013/04/bright-44-warho/"
-prev_post_url: "/posts/2013-04-19-any-day-now-by-terry-bisson-a-review/"
+prev_post_url: "/fred-pohl/2013-04-19-any-day-now-by-terry-bisson-a-review/"
 prev_post_title: "Any Day Nowby Terry Bisson: A review"
-next_post_url: "/posts/2013-04-27-arrival-part-4-the-party-plan/"
+next_post_url: "/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/"
 next_post_title: "Arrival, Part 4: The Party Plan"
 translated: false
 translator: "Yandex"
@@ -32,7 +32,7 @@ translator: "Yandex"
 
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20170707102557/http://beamjockey.livejournal.com/) говорит:
 Ты когда-нибудь попадал в студию 54, Фред?
-[** 22 апреля 2013 года, 11:19 утра**](/posts/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/)
+[** 22 апреля 2013 года, 11:19 утра**](/fred-pohl/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/)
 
 [WordPress](https://web.archive.org/web/20170707102557/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707102557/http://dicksmithsoftware.com/)

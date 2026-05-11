@@ -4,9 +4,9 @@ date: 2011-06-09
 categories: ["Authors"]
 tags: ["Alden H. Norton", "Editors", "Harold S. Goldsmith", "Harry Steeger", "Jane Littell", "New York", "Prozines", "Publishing", "Pulps", "Rogers Terrill"]
 archive_url: "https://web.archive.org/web/20170620012424/http://www.thewaythefutureblogs.com/2011/06/popular-publications-part-4-continuing-down-the-corridor/"
-prev_post_url: "/posts/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
+prev_post_url: "/fred-pohl/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
 prev_post_title: "Bright Sayings of Bright People, No. 15: Stoppard"
-next_post_url: "/posts/2011-06-18-and-the-winners-are/"
+next_post_url: "/fred-pohl/2011-06-18-and-the-winners-are/"
 next_post_title: "And the Winners Are…"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="superscience1.jpg" alt="Super Science Stories, No. 1, yours truly, Editor." caption="Popular Publications ’ Super Science Stories, No. 1 &mash; yours truly, Editor." >}}
 
 
-Если вы повернете [направо у двери Джейн](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/) Литтелл, то окажетесь в деловом крыле офисов компании, где люди занимаются распространением, выставлением счетов, рекламой и всеми другими более грязными аспектами издательского бизнеса.  По крайней мере, я полагаю, что именно это они и сделали.  За те четыре года, что я проработал в популярных изданиях, я ни разу туда не заходил.  Поверните налево. тем не менее, и вы были в самом сердце процесса производства палп-бумаги.
+Если вы повернете [направо у двери Джейн](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/) Литтелл, то окажетесь в деловом крыле офисов компании, где люди занимаются распространением, выставлением счетов, рекламой и всеми другими более грязными аспектами издательского бизнеса.  По крайней мере, я полагаю, что именно это они и сделали.  За те четыре года, что я проработал в популярных изданиях, я ни разу туда не заходил.  Поверните налево. тем не менее, и вы были в самом сердце процесса производства палп-бумаги.
 
 
 Поворот в эту сторону означал, что вы направляетесь на север, параллельно соседней Ист-Ривер.  Справа от вас будет широкая глухая стена, затем два ряда офисных дверей, затем еще несколько ярдов глухих стен, прежде чем вы попадете в любой офис нормального размера.  В этот момент вы бы прошли мимо двух огромных офисов, которые были личными логовищами двух создателей и шейкеров, владевших популярными изданиями и руководивших ими, Гарольда С. Голдсмита и [Гарри Стигера](https://web.archive.org/web/20170620012424/http://homepage.mac.com/cdkalb/spider/legend/steeger.html).
@@ -57,25 +57,25 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Популярные публикации**, [** Часть 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/posts/2011-05-31-popular-publications-part-2/), [** Часть 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- ** Популярные публикации**, [** Часть 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [** Часть 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Комментария
 
 - [Майк Буллок](https://web.archive.org/web/20170620012424/http://www.pulp.runemasterstudios.com/) говорит:
 Amazing, как то, что, скорее всего, казалось обыденным в то время, когда вы испытывали это, теперь увлекает многих, кто любит читать и / или писать палп-истории в наши дни. Спасибо за путешествие и, пожалуйста, не останавливайтесь.
-[**13 июня 2011 года, 5:49 утра**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
+[**13 июня 2011 года, 5:49 утра**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 - Джон Армстронг говорит:
 Поднимал ли Мартин Гудман голову в какой-нибудь момент твоей карьеры в палп-индустрии, Фред?
 И, PS – только что закончил All The Lives He Led прошлой ночью – прекрасная история, со всеми этими прекрасными, одноразовыми штрихами, создающими мир, которые такие парни, как я, изо всех сил пытаются придумать .... все еще смеетесь над Stannish fly
 , когда выйдет следующая?
-[**13 июня 2011, 19:24 вечера**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
+[**13 июня 2011, 19:24 вечера**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20170620012424/http://beamjockey.livejournal.com/) говорит:
 Когда-нибудь это станет ценной исследовательской деталью для какого-нибудь автора, который будет писать роман, действие которого происходит в издательстве палп-журнала примерно в 1940 году…
-[**14 июня 2011 года, 14:15 вечера**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
+[**14 июня 2011 года, 14:15 вечера**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 - Уиллоу говорит:
 Он мой самый любимый автор на все времена. Люблю читать его книги и нахожу, что это просто сделало мой день лучше. У него все еще есть это, это точно.
-[**7 июля 2011 года, 19:11 вечера**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
+[**7 июля 2011 года, 19:11 вечера**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/)
 
 [WordPress](https://web.archive.org/web/20170620012424/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620012424/http://dicksmithsoftware.com/)

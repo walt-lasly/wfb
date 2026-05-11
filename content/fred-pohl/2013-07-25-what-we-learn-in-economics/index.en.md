@@ -4,9 +4,9 @@ date: 2013-07-25
 categories: ["Miscellaneous"]
 tags: ["Academics", "Allen R. Sanderson", "Economics", "John Maynard Keynes", "Politics"]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2013/07/what-we-learn-in-economics/"
-prev_post_url: "/posts/2013-07-22-what-should-we-occupiers-occupy/"
+prev_post_url: "/fred-pohl/2013-07-22-what-should-we-occupiers-occupy/"
 prev_post_title: "What Should We Occupiers Occupy?"
-next_post_url: "/posts/2013-07-29-and-the-day-came/"
+next_post_url: "/fred-pohl/2013-07-29-and-the-day-came/"
 next_post_title: "And the Day Came"
 translated: false
 ---
@@ -46,7 +46,7 @@ Wouldn’t it be interesting if every college course in economics would allow no
 - [Katja](https://web.archive.org/web/20170620025907/http://journal.brokenclay.org/) says:
 Allen Sanderson! The man from whom I have taken a college economics course! (An awesome teacher.)
 Thank you for this blast from the past.
-[**July 25, 2013, 10:12 pm**](/posts/2013-07-25-what-we-learn-in-economics/)
+[**July 25, 2013, 10:12 pm**](/fred-pohl/2013-07-25-what-we-learn-in-economics/)
 - [Keith Graham](https://web.archive.org/web/20170620025907/http://www.cthreepo.com/) says:
 As the former editor of the magazine Astounding Tales and an amateur Science Fiction writer who has been selling SF for years, I have some ideas that may help you. I know what it takes to publish both print and online magazines, and I also know the markets.  
 
@@ -75,7 +75,7 @@ In the online version, invite guest essayists in the way Steve Davidson at Astou
 This is a tremendous amount of work. Much is management. Much is technical. Very little of it is actually working with words. A good magazine will require up to a dozen people who have the specialized knowledge to keep it going.  
 
 Keith P. Graham
-[**July 26, 2013, 11:37 am**](/posts/2013-07-25-what-we-learn-in-economics/)
+[**July 26, 2013, 11:37 am**](/fred-pohl/2013-07-25-what-we-learn-in-economics/)
 
 [WordPress](https://web.archive.org/web/20170620025907/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620025907/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2016-01-31
 categories: ["Authors", "Personal"]
 tags: ["Liz Armstrong", "Ray Bradbury"]
 archive_url: "https://web.archive.org/web/20180901000000/http://www.thewaythefutureblogs.com/2016/01/frederik-pohl-vs-ray-bradbury/"
-prev_post_url: "/posts/2015-11-12-betty-s-schedule-at-windycon-2015/"
+prev_post_url: "/fred-pohl/2015-11-12-betty-s-schedule-at-windycon-2015/"
 prev_post_title: "Betty’s Schedule at WindyCon 2015"
-next_post_url: "/posts/2016-02-02-elizabeth-anne-hull-at-capricon-feb-11-14/"
+next_post_url: "/fred-pohl/2016-02-02-elizabeth-anne-hull-at-capricon-feb-11-14/"
 next_post_title: "Elizabeth Anne Hull at Capricon, Feb. 11–14"
 translated: false
 ---
@@ -47,7 +47,7 @@ Bradbury photo by Alan Light.
 
 - Lostinbooks says:
 All very true. I love both, but Frederick Pohl is not as well known as he deserved.
-[**January 31, 2016, 3:03 pm**](/posts/2016-01-31-frederik-pohl-vs-ray-bradbury/)
+[**January 31, 2016, 3:03 pm**](/fred-pohl/2016-01-31-frederik-pohl-vs-ray-bradbury/)
 
 [WordPress](https://web.archive.org/web/20160402212604/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160402212604/http://dicksmithsoftware.com/)

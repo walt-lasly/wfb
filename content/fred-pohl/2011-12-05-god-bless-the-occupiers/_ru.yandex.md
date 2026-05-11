@@ -4,9 +4,9 @@ date: 2011-12-05
 categories: ["Miscellaneous"]
 tags: ["Politics"]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2011/12/god-bless-the-occupiers/"
-prev_post_url: "/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/"
+prev_post_url: "/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/"
 prev_post_title: "Let’s Pull Grover Norquist’s Teeth!"
-next_post_url: "/posts/2011-12-07-what-keeps-me-informed/"
+next_post_url: "/fred-pohl/2011-12-07-what-keeps-me-informed/"
 next_post_title: "What Keeps Me Informed"
 translated: false
 translator: "Yandex"
@@ -43,7 +43,7 @@ translator: "Yandex"
 Мы можем использовать тактику правого крыла, чтобы уничтожить тех злодеев, которые сейчас пытаются разрушить некоторые священные и существенные части нашей политической системы, включая способность - *и требование* — Конгресса честно сотрудничать с членами противоборствующих партий.
 
 
-[**Подпишите обязательство**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)!  Отправьте копию каждому избранному республиканцу в вашем округе! Преподай им урок!
+[**Подпишите обязательство**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)!  Отправьте копию каждому избранному республиканцу в вашем округе! Преподай им урок!
 
 
 ### Один комментарий
@@ -51,7 +51,7 @@ translator: "Yandex"
 - Дэвид Стром говорит:
 Какое оружие?
 Членами NRA, скорее всего, будут сторонники чаепития, а также различные правые и либертарианцы.
-[**5 декабря 2011, 14:46**](/posts/2011-12-05-god-bless-the-occupiers/)
+[**5 декабря 2011, 14:46**](/fred-pohl/2011-12-05-god-bless-the-occupiers/)
 
 [WordPress](https://web.archive.org/web/20170717154052/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170717154052/http://dicksmithsoftware.com/)

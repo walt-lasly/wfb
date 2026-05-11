@@ -4,9 +4,9 @@ date: 2012-11-23
 categories: ["Science"]
 tags: ["Medicine"]
 archive_url: "https://web.archive.org/web/20130128063223/http://www.thewaythefutureblogs.com/2012/11/heres-some-good-news-and-sorry-some-bad/"
-prev_post_url: "/posts/2012-11-21-that-boson-give-us-your-full-name-please/"
+prev_post_url: "/fred-pohl/2012-11-21-that-boson-give-us-your-full-name-please/"
 prev_post_title: "That Boson: Give Us Your Full Name, Please"
-next_post_url: "/posts/2012-11-25-bright-sayings-of-bright-people-no-37/"
+next_post_url: "/fred-pohl/2012-11-25-bright-sayings-of-bright-people-no-37/"
 next_post_title: "Bright Sayings of Bright People, No. 37"
 translated: false
 translator: "Yandex"
@@ -36,10 +36,10 @@ translator: "Yandex"
 
 - [Дэн Голлаб](https://web.archive.org/web/20130128063223/http://dreampattern.com/) говорит:
 Я был бы рад принять 50 таких таблеток, чтобы удвоить свой интеллект.
-[** 23 ноября 2012 года, 7:11 утра**](/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
+[** 23 ноября 2012 года, 7:11 утра**](/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
 - [Нестор](https://web.archive.org/web/20130128063223/http://www.krazykimchi.com/) говорит:
 Я думаю, что сейчас я больше ориентируюсь на рынке препаратов, глушащих мозг…
-[** 26 ноября 2012 года, 5:54 утра**](/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
+[** 26 ноября 2012 года, 5:54 утра**](/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
 - Дуайт говорит:
 Привет.  
 
@@ -47,7 +47,7 @@ translator: "Yandex"
 Какой эпизод вы имели в виду?  
 
 Я нигде не могу его найти.
-[**9 декабря 2012 года, 7:00 утра**](/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
+[**9 декабря 2012 года, 7:00 утра**](/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/)
 
 [WordPress](https://web.archive.org/web/20130128063223/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20130128063223/http://dicksmithsoftware.com/)

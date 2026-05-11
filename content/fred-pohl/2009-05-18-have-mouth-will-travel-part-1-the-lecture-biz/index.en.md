@@ -4,9 +4,9 @@ date: 2009-05-18
 categories: ["Personal", "Science"]
 tags: ["Astronomy", "Computers", "Games", "Johannes Kepler", "Marvin Minsky", "Tycho Brahe"]
 archive_url: "https://web.archive.org/web/20101101000000/http://www.thewaythefutureblogs.com/2009/05/have-mouth-will-travel-part-1-the-lecture-biz/"
-prev_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
+prev_post_url: "/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/"
 prev_post_title: "Interesting Reading That You May Have Missed"
-next_post_url: "/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
+next_post_url: "/fred-pohl/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
 next_post_title: "Have Mouth, Will Travel, Part 2: The Planarians"
 translated: false
 ---
@@ -61,16 +61,16 @@ As I was just saying elsewhere on the Net, Stewart Brand wrote a tremendous *Rol
 Brand reported on Spacewar and the people who created it, and also tried to take the measure of the smaller, somewhat more personalized computers that were beginning to appear.  And other technology that came with them:
 “At present some 20 major computer centers are linked on the two-year-old ARPA Net.”
 Much later, after another couple of generations of hardware had passed by, I acquired a GCE Vectrex, a console game first marketed in 1982.  It had a vector-type display and one of its cartridges was a program to play Spacewar.  It was as close to having a PDP-1 in a fifty-dollar portable box as anything ever came.  I still take it out and play it sometimes.
-[**May 18, 2009, 7:44 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+[**May 18, 2009, 7:44 pm**](/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 - [Stefan Jones](https://web.archive.org/web/20090726214427/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) says:
 Trivia:
 In one scene in *Soylent Green*, the “furniture girls” are seen playing the arcade version of Spacewar.
 I should really rewatch that movie . . . it has Edward G. Robinson bitching about the greenhouse effect and finding a Soylent Corporation research study that shows that krill have all died off.
-[**May 19, 2009, 1:47 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+[**May 19, 2009, 1:47 pm**](/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 - Marc says:
 Fabulous post. I wasn’t alive in the PDP-1 era but watching the clip has been a nice trip down video game memory lane tonight. The fascinating thing for me is the real world physics MIT programmed into the Spacewar. I can’t recall seeing any commercially available video games that came close to that level of realism until the backend of the 1980’s!
 I was tempted after watching the Spacewar clip to commit the cardinal video game sin and fire up a ZX80 classic or two from my childhood but suspect those games are… definitely best viewed through rose tinted glasses!
-[**May 21, 2009, 5:59 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+[**May 21, 2009, 5:59 pm**](/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 
 [WordPress](https://web.archive.org/web/20090726214427/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090726214427/http://dicksmithsoftware.com/)

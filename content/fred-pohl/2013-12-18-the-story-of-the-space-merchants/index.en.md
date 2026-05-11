@@ -4,9 +4,9 @@ date: 2013-12-18
 categories: ["Books", "Personal", "Writing"]
 tags: ["Advertising", "New York", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20230201000000/http://www.thewaythefutureblogs.com/2013/12/the-story-of-the-space-merchants/"
-prev_post_url: "/posts/2009-01-01-about-this-blog/"
+prev_post_url: "/fred-pohl/2009-01-01-about-this-blog/"
 prev_post_title: "The Future of Frederik Pohl’s ‘The Way the Future Blogs’"
-next_post_url: "/posts/2013-12-19-my-first-blog-post-in-a-long-time/"
+next_post_url: "/fred-pohl/2013-12-19-my-first-blog-post-in-a-long-time/"
 next_post_title: "My First Blog Post in a Long Time"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 ![The Space Merchants](space-merchants-pb250.jpg)
 
 
-In 1944, I was an Army Air Corps weatherman attached to the [**456th Bomb Group**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/) (Heavy) at its base near the tiny town of Stornara, Italy.  For years the group had survived with a total weather complement of two, one major and one sergeant, but then at last the weather training school at [Chanute Field](https://web.archive.org/web/20160416150813/http://www.techbastard.com/afb/il/chanute.php), Illinois, had been able to put a force of several hundred trained weathermen onto a troop transport headed for Italy.  The 456th got eight of that shipment, and one of them was me.
+In 1944, I was an Army Air Corps weatherman attached to the [**456th Bomb Group**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/) (Heavy) at its base near the tiny town of Stornara, Italy.  For years the group had survived with a total weather complement of two, one major and one sergeant, but then at last the weather training school at [Chanute Field](https://web.archive.org/web/20160416150813/http://www.techbastard.com/afb/il/chanute.php), Illinois, had been able to put a force of several hundred trained weathermen onto a troop transport headed for Italy.  The 456th got eight of that shipment, and one of them was me.
 
 
 With all those weathermen, none of us had to work very hard.  When a mission was on there was a flurry of pre-dawn activity until the B-24s began to rumble and waddle down the runways to get airborne, then not a lot to do until they, or the survivors among them, came (often limping) back.  And of course if the weather was bad not even that much happened.  Then everybody had most of the day off.
@@ -41,10 +41,10 @@ Then time passed.  The war ended.  Better times did come, and I was a civilian a
 It was not a joyous experience.  I quickly realized that the story had an incapacitating flaw.  It was about the advertising business, which was a subject I knew nothing about.  It showed.
 
 
-After some thought, however, I could see a possible way of remedying that.  I picked up a copy of the Sunday Times, turned to the Help Wanted pages and found three ads for advertising copywriters.  I answered all three.  One of them was the tiny Mad Ave. advertising agency of [**Thwing and Altman**](/posts/2012-04-23-no-not-me-i-think/).  They specialized in book accounts, including the Merriam-Webster dictionaries and Doubleday’s Dollar Book Clubs, and when I showed them the house ads I had written as an editor at [**Popular Publications**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), they took me on.
+After some thought, however, I could see a possible way of remedying that.  I picked up a copy of the Sunday Times, turned to the Help Wanted pages and found three ads for advertising copywriters.  I answered all three.  One of them was the tiny Mad Ave. advertising agency of [**Thwing and Altman**](/fred-pohl/2012-04-23-no-not-me-i-think/).  They specialized in book accounts, including the Merriam-Webster dictionaries and Doubleday’s Dollar Book Clubs, and when I showed them the house ads I had written as an editor at [**Popular Publications**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), they took me on.
 
 
-And that was the beginning of a few prosperous years  spent in the advertising biz.  (Not very much of that period was spent at T & A, however.  They didn’t pay much.  On months with only four Fridays my take-home pay was not quite enough to cover the month’s rent on that nice Village apartment, and I felt that I’d really like to have a few more dollars coming in to spend on food, clothes, cigarettes and science-fiction magazines.  So when I decided to stay on for a while with this advertising racket, I went looking for, and found, a better job, which was on the payroll of the advertising and editorial departments of the [**Popular Science Publishing Company**](/posts/2011-07-28-my-life-as-book-editor-for-popular-science/).
+And that was the beginning of a few prosperous years  spent in the advertising biz.  (Not very much of that period was spent at T & A, however.  They didn’t pay much.  On months with only four Fridays my take-home pay was not quite enough to cover the month’s rent on that nice Village apartment, and I felt that I’d really like to have a few more dollars coming in to spend on food, clothes, cigarettes and science-fiction magazines.  So when I decided to stay on for a while with this advertising racket, I went looking for, and found, a better job, which was on the payroll of the advertising and editorial departments of the [**Popular Science Publishing Company**](/fred-pohl/2011-07-28-my-life-as-book-editor-for-popular-science/).
 
 
 At some time a couple of years into my new career, I had rented a summer place high up over the great [Ashokan Reservoir](https://web.archive.org/web/20160416150813/http://www.hvmag.com/Hudson-Valley-Magazine/August-2008/History-The-Ashokan-Reservoir/), maybe a hundred miles out of New York.  One of the things I liked best about the large house that came with it was the big flagstone fireplace on its second floor.

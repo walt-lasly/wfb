@@ -4,9 +4,9 @@ date: 2011-07-09
 categories: ["Miscellaneous"]
 tags: ["History", "Jon Kyl", "Jon Stewart", "Paul Revere", "Politics", "Sarah Palin", "Statistics"]
 archive_url: "https://web.archive.org/web/20210101000000/http://www.thewaythefutureblogs.com/2011/07/warning-fred-is-getting-political-again/"
-prev_post_url: "/posts/2011-07-07-a-great-one-gone-joanna-russ-1937-2011/"
+prev_post_url: "/fred-pohl/2011-07-07-a-great-one-gone-joanna-russ-1937-2011/"
 prev_post_title: "A Great One Gone: Joanna Russ (1937–2011)"
-next_post_url: "/posts/2011-07-11-yellowstone-on-the-isle-of-capri/"
+next_post_url: "/fred-pohl/2011-07-11-yellowstone-on-the-isle-of-capri/"
 next_post_title: "Yellowstone on the Isle of Capri"
 translated: false
 ---
@@ -53,7 +53,7 @@ Wouldn’t it be nicer for us, and less embarrassing for them, if the right-wing
 
 **Related post:**  
 
-[**Einstein vs. God: Who’s Ahead?**](/posts/2011-07-05-einstein-vs-god-who-s-ahead/)
+[**Einstein vs. God: Who’s Ahead?**](/fred-pohl/2011-07-05-einstein-vs-god-who-s-ahead/)
 
 
 ### 15 Comments
@@ -61,50 +61,50 @@ Wouldn’t it be nicer for us, and less embarrassing for them, if the right-wing
 - Brenda says:
 This is the internet era, when nothing a public figure does is without scrutiny. If you back down, admit you were wrong and apologize, just that apology and moment of weakness alone will be replayed again and again out of context. You can never, ever say anything that can be used against you.
 If your the sort who makes gross exaggerations or just doesn’t know what they are talking about (and you missed Michelle Bachmann, whose grasp of history seems to be random Wikipedia articles), you can hardly back down on record.
-[**July 9, 2011, 6:09 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 9, 2011, 6:09 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - David B. Williams says:
 Oh come on, the left-wing dweebs are just as bad. You don’t need a political agenda to become a self-important blowhard, but it helps.
-[**July 9, 2011, 8:00 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 9, 2011, 8:00 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - [Robert Nowall](https://web.archive.org/web/20160701212422/http://www.robertnowall.com/) says:
 I suppose everybody can’t be as well informed as those of us who live in one of the fifty-seven states—at least, that’s how many states Barack Obama says we have…
-[**July 9, 2011, 8:28 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 9, 2011, 8:28 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - [Richard](https://web.archive.org/web/20160701212422/http://estoreal.blogspot.com/) says:
 There’s no downside for these people in making wildly inaccurate statements.  Their supporters aren’t impressed by thoughtful hesitation; they’re drawn to these public figures by their absolute certitude in their own rightness.  You can only have such complete confidence with complete ignorance.  What’s more, any time their mistakes are exposed, they can say to their base “Aha, you see how those elitist liberal intellectuals who look down on you try to set themselves up as arbiters of right and wrong?  They’re sneering at me like the ivory tower coastal elitists they really are!”  To borrow the old technology cliche, for them this sort of thing is a feature, not a bug.  
 Anyway, Palin is a complete fraud — she used to speak in a normal person’s voice, but when she went on the national stage it abruptly changed to a surreal counterfeit “folksy” accent she apparently plagiarized from Marge Gunderson in the movie Fargo.  She’s playing up the routine to impress her shrinking base, and it wouldn’t surprise me at all if she were now deliberately making “mistakes” to seem more like “just folks.”
-[**July 9, 2011, 1:08 pm**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 9, 2011, 1:08 pm**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - Rick York says:
 A few weeks ago the Neilsen ratings company said that Jon Stewart has a bigger audience than any of the Fox idiots.  One piece of good news among a torrent of lies and bad news.
 Stewart and I agree: it’s ridiculous that so many people use The Daily Show as their principal. However, if they had to choose one show, they could do a lot worse than Stewart’s.
 These guys, the right wing demagogues, take Goebbels’ dictum to heart, to paraphrase, “Tell a big lie, tell it loudly and frequently and [many] people will believe it.”
-[**July 9, 2011, 4:57 pm**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 9, 2011, 4:57 pm**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - [Stefan Jones](https://web.archive.org/web/20160701212422/http://www.flickr.com/photos/stefan_e_jones/) says:
 Embarrassment is a moral weakness; giving in to it is acknowledging that you were *wrong!*
-[**July 9, 2011, 11:21 pm**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 9, 2011, 11:21 pm**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - John Traylor says:
 It is really a shame Mr. Pohl that politicians do not have to pass an IQ test before they are allowed to run for office. I wish Mark Twain were alive today to comment upon the current batch of buffoons.
-[**July 10, 2011, 8:04 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 10, 2011, 8:04 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - lorq says:
 Unfortunately, the majority of them are perfectly aware of the truth, but continue to spout falsehoods anyway, because that, as far as their corporate handlers are concerned, is their job.  (Tea Party rhetoric is most certainly corporate-driven, being a highly controlled creation of wealthy men like the Koch brothers and Rupert Murdoch.)
 They will say whatever big businesses ask them to, true or false, because they are part of those businesses’ paid staff.  Like those horrifying public relations employees of BP, spewing lies about spewing oil, because that’s what they’re paid to do. 
 That is absolutely all these politicians are.  Paid staff.
-[**July 10, 2011, 9:23 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 10, 2011, 9:23 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - H. E. Parmer says:
 Why, I’m so old I can remember when we all used to have a good time sneering at the Soviets’ clumsily Procrustean treatment of history, when it got in the way of the Party line. For a bunch that claims such a low regard for “relativism”, our own conservatives have a remarkably elastic — one might even say, Stalinist — attitude toward historical fact. 
 And why shouldn’t they? Like most humans, their equally ignorant fans aren’t particularly inclined to question statements which fit their prejudices. On those rare occasions when one of these tribal totem catches some actual flack for babbling nonsense, they just play the martyr at the hands of smarty-pants librul media. 
 The really disturbing fact of recent history is that a majority of the good citizens of Arizona and Alaska saw fit to elect these fools and grifters to major political offices.
-[**July 10, 2011, 10:22 pm**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 10, 2011, 10:22 pm**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - [Chookie Inthebackyard](https://web.archive.org/web/20160701212422/http://chookiesbackyard.blogspot.com/) says:
 Oh gosh, how embarrassing.  Even Down Under some of us know who Paul Revere was riding to!  (I couldn’t tell you anything else about him, though!)
 Of course, Phony Tony, our Leader of the Opposition, has recently asserted that Australia\’s just-announced carbon trading scheme will “wipe Whyalla [a steel-making town] off the map”;… though steel-makers are going to be compensated (overcompensated, I think).  He’s also told us that you can’t trust anything he says, unless it’s in writing.
 More proof of the septic tank theory of politics: the big lumps rise to the top!
-[**July 11, 2011, 6:20 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 11, 2011, 6:20 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - Mr. David M. Beyer says:
 “Tell a big lie, tell it loudly and frequently and [many] people will believe it.” — Case in point: every religion ever.
-[**July 13, 2011, 8:48 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 13, 2011, 8:48 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - Robbie says:
 “These guys, the right wing demagogues, take ***Goebbels’*** dictum to heart, to paraphrase, “Tell a big lie, tell it loudly and frequently and [many] people will believe it.””
 Oh the irony.
-[**July 14, 2011, 3:57 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 14, 2011, 3:57 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - [Chris](https://web.archive.org/web/20160701212422/http://none/) says:
 Mr. Pohl, I have read your books for decades. I enjoy your fiction, and I especially enjoyed your book “The Way the Future Was” (along with Damon Knights “The Futurians”, and Sam Moskowitz’s “The Immortal Storm”), as “The Space Merchants” by you and Cyril Kornbluth. I plan to pick up your newest book because I do think you are one of the greatest science fiction writers to come out of the Golden Era of science fiction, and I can’t get enough books! But there are times when you post things on your blog that do make my eyes roll! For example, regarding the issue with Sara Palins comments on Paul Revere: even the Boston Herald and local historians back her up on the issue. 
 Per the Boston Herald: “Sarah Palin yesterday insisted her claim at the Old North Church last week that Paul Revere “warned the British” during his famed 1775 ride — remarks that Democrats and the media roundly ridiculed — is actually historically accurate. And local historians are backing her up.” see – [http://www.bostonherald.com/news/us_politics/view/2011_0606you_betcha_she_was_right_experts_back_palins_historical_account/](https://web.archive.org/web/20160701212422/http://www.bostonherald.com/news/us_politics/view/2011_0606you_betcha_she_was_right_experts_back_palins_historical_account/)
@@ -115,7 +115,7 @@ Anywho, thank you for letting me vent, I hope you have a great day, and I’m lo
 Respectfully,  
 
 Chris
-[**July 14, 2011, 12:43 pm**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 14, 2011, 12:43 pm**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - TonyC says:
 @Chris:
 Even a broken clock is right twice a day…
@@ -123,7 +123,7 @@ Sarah Palin was not *right*: being right requires that you actually know whereof
 Regarding the other right wing fools alluded to by our esteemed host: you will note that even the Republican leadership are feeling challenged by their blatant disregard for reality. Defaulting on the debt will result in repercussions more damaging than those one dimensional ideologs can possibly imagine (not a surprise to anyone who can actually think).
 Welcome to the future. Not so shiny, now the Tea Partiers have gotten a hold of it.
 Thanks, Republicans!
-[**July 24, 2011, 9:40 pm**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 24, 2011, 9:40 pm**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 - [Chris](https://web.archive.org/web/20160701212422/http://none/) says:
 lol…lemme wrap my head around this one Tony (since you were polite enough to single me out for insult): Sarah Palin was factually correct relative to the actual history Paul Revere’s ride, historians are backing up her comments, I provided links to two of the many articles from non-left leaning news sources that (begrudingly in some cases) back her up, yet I’m the apologist oblivious to the fact that Palin “knows naught” because even a broke clock is right twice a day?
 As I mentioned in my post on the subject, it would be nice if there were more little fairness and courtesy when critizing people we don’t agree with, but I do appreciate your passion on the subject. 
@@ -137,7 +137,7 @@ Tony, I hope you have a good day –
 Respectfully,  
 
 Chris
-[**July 26, 2011, 8:24 am**](/posts/2011-07-09-warning-fred-is-getting-political-again/)
+[**July 26, 2011, 8:24 am**](/fred-pohl/2011-07-09-warning-fred-is-getting-political-again/)
 
 [WordPress](https://web.archive.org/web/20160701212422/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160701212422/http://dicksmithsoftware.com/)

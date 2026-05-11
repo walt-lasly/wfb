@@ -4,9 +4,9 @@ date: 2014-05-12
 categories: ["Betty's Posts", "Writing"]
 tags: ["Academics", "Elizabeth Anne Hull", "Kush Sharma", "Sophia Hoffman", "World War II"]
 archive_url: "https://web.archive.org/web/20190301000000/http://www.thewaythefutureblogs.com/2014/05/the-future-of-pronouns/"
-prev_post_url: "/posts/2014-04-24-an-ill-wind-blows-no-power-eastward/"
+prev_post_url: "/fred-pohl/2014-04-24-an-ill-wind-blows-no-power-eastward/"
 prev_post_title: "An Ill Wind Blows No Power Eastward"
-next_post_url: "/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/"
+next_post_url: "/fred-pohl/2014-06-27-frederik-pohl-memorial-celebration-aug-2/"
 next_post_title: "Frederik Pohl Memorial Celebration, Aug. 2"
 translated: false
 translator: "Yandex"
@@ -74,7 +74,7 @@ translator: "Yandex"
 Раньше я всегда цитировал статью Энн Бодин 1975 года “Андроцентризм в предписывающей грамматике: единственное число ”они", неопределенное по полу "он" и ‘он или она"” из "Языка в обществе", 4: 129-46. Теперь я процитирую книгу Энн Керзан "Гендерные сдвиги в истории английского языка" (Cambridge UP, 2012). Я никогда не упоминаю свою собственную книгу на эту тему. Это было бы неправильно.
 Признавая ценность соответствия. Желая быть таким, как все остальные. Желая вписаться в правила и подчиняться им, какие правила я должен выбрать? Мне было бы все равно, но создатели правил говорят мне, что это невозможно, и что же делать? что же делать?
 Если девять х пять равно 45, я должен быть разумным.
-[**14 мая 2014, 16:04**](/posts/2014-05-12-the-future-of-pronouns/)
+[**14 мая 2014, 16:04**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - [Дэн Голлаб](https://web.archive.org/web/20160416142116/http://www.dreampattern.com/) говорит:
 Ваш блог вдохновил меня на написание следующего стихотворения.  
 
@@ -103,16 +103,16 @@ translator: "Yandex"
 Просыпается утром в сознании и жив  
 
 Этот человек - вы?
-[** 19 мая 2014 года, 5:34 утра**](/posts/2014-05-12-the-future-of-pronouns/)
+[** 19 мая 2014 года, 5:34 утра**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - Элизабет Халл говорит:
 Ты рассмешила меня, Вирджиния.  Я планирую быть в Лоуренсе на церемонии вручения премии Кэмпбелла на следующей неделе; есть шанс, что ты там будешь?  Было бы здорово увидеть вас там или на поминальной службе по Фреду, если вы сможете прийти.  Бетти
-[**6 июня 2014, 19:42 вечера**](/posts/2014-05-12-the-future-of-pronouns/)
+[**6 июня 2014, 19:42 вечера**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - Элизабет Халл говорит:
 Дэн, я тоже надеюсь увидеть тебя на поминальной службе.  Бетти
-[**6 июня 2014, 19:44 вечера**](/posts/2014-05-12-the-future-of-pronouns/)
+[**6 июня 2014, 19:44 вечера**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - Стив Ливелл говорит:
 Если позволите спросить – Есть какие-нибудь новости о пересмотре/дополнении/сиквеле Ретроспективы Будущего (The Way The Future Was)?
-[**12 июня 2014 года, 5:25 утра**](/posts/2014-05-12-the-future-of-pronouns/)
+[**12 июня 2014 года, 5:25 утра**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 
 [WordPress](https://web.archive.org/web/20160416142116/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416142116/http://dicksmithsoftware.com/)

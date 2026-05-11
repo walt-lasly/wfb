@@ -4,9 +4,9 @@ date: 2009-01-30
 categories: ["Authors", "Personal", "Space", "Writing"]
 tags: ["Amazing Stories", "C.M. Kornbluth", "Fanzines", "James Blish", "Poetry", "Prozines", "Pulps", "T. O'Conor Sloane"]
 archive_url: "https://web.archive.org/web/19970701000000/http://www.thewaythefutureblogs.com/2009/01/the-poetry-corner/"
-prev_post_url: "/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
+prev_post_url: "/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
 prev_post_title: "Reality-Testing Response from Fred’s Wife, the Aforementioned College Professor"
-next_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
+next_post_url: "/fred-pohl/2009-02-07-seventeen-days-of-fox/"
 next_post_title: "Seventeen Days of Fox"
 translated: false
 translator: "DeepL"
@@ -72,18 +72,18 @@ translator: "DeepL"
 
 **Related post:**
 
-[**Verse Decoded**](/posts/2009-03-16-verse-decoded/)
+[**Verse Decoded**](/fred-pohl/2009-03-16-verse-decoded/)
 
 
 ### 4 комментария
 
 - Уильям сказал:
 Не мог бы ты объяснить, как ты произносишь "!"? Я могу придумать множество способов, и мне интересно узнать, какой ты имел в виду.
-[**January 30, 2009, 12:42 am**](/posts/2009-01-30-the-poetry-corner/)
+[**January 30, 2009, 12:42 am**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - [Jeff](https://web.archive.org/web/20090415165710/http://jeffcrook.blogspot.com/) сказал:
 Если бы люди только знали, что они создают, когда подбадривают пятнадцатилетних писателей.
 Иногда это срабатывает в лучшую сторону.
-[**January 30, 2009, 8:26 am**](/posts/2009-01-30-the-poetry-corner/)
+[**January 30, 2009, 8:26 am**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - adepsis сказал:
 Я воспринимаю это как нечто похожее на "ура"
 запятая, запятая, амперсанд!  
@@ -94,11 +94,11 @@ translator: "DeepL"
 
 дефис, дефис, точки в строке!
 Будет особенно весело после того, как немного "раскрепостишься" на вечеринке.
-[**31 января 2009, 11:04 pm**](/posts/2009-01-30-the-poetry-corner/)
+[**31 января 2009, 11:04 pm**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - Кент Клайн сказал:
 До того как я перешел по ссылке, чтобы прочитать комментарии, я сам делал "Восклицательный знак "ура"" и думал, улавливаю ли я дух счетчика. Обнадеживает тот факт, что у adepsis была похожая реакция на стихотворение.
 Хорошее развлечение.
-[**February 4, 2009, 12:00 am**](/posts/2009-01-30-the-poetry-corner/)
+[**February 4, 2009, 12:00 am**](/fred-pohl/2009-01-30-the-poetry-corner/)
 
 [WordPress](https://web.archive.org/web/20090415165710/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090415165710/http://dicksmithsoftware.com/)

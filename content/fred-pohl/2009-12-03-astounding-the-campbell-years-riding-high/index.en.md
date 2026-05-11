@@ -4,9 +4,9 @@ date: 2009-12-03
 categories: ["Authors", "Personal"]
 tags: ["Ben Bova", "Catherine Tarrant", "Editors", "George O. Smith", "Horace L. Gold", "John W. Campbell", "New York", "Platinum Pohl", "Prozines", "Pulps"]
 archive_url: "https://web.archive.org/web/20110922063341/http://www.thewaythefutureblogs.com/2009/12/astounding-campbell-years/"
-prev_post_url: "/posts/2009-12-01-the-death-tax-man/"
+prev_post_url: "/fred-pohl/2009-12-01-the-death-tax-man/"
 prev_post_title: "The Death Tax Man"
-next_post_url: "/posts/2009-12-07-astounding-the-campbell-years-part-2/"
+next_post_url: "/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/"
 next_post_title: "Astounding: The Campbell Years, Part 2"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="campbell300wb.jpg" alt="John W. Campbell in 1957" caption="John W. Campbell in 1957(via efanzines.com)" >}}
 
 
-The home base of [**Street & Smith**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/) at the time that [John Campbell](https://web.archive.org/web/20110922063341/http://www.empsfm.org/exhibitions/index.asp?articleID=926) came aboard to edit Astounding was a remarkably rickety old building at the corner of 17th Street and Seventh Avenue in New York.  Well, that’s not strictly true.  It wasn’t one old building.  It was several of them, stitched together by knocking through walls and rerouting hallways to connect them.
+The home base of [**Street & Smith**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/) at the time that [John Campbell](https://web.archive.org/web/20110922063341/http://www.empsfm.org/exhibitions/index.asp?articleID=926) came aboard to edit Astounding was a remarkably rickety old building at the corner of 17th Street and Seventh Avenue in New York.  Well, that’s not strictly true.  It wasn’t one old building.  It was several of them, stitched together by knocking through walls and rerouting hallways to connect them.
 
 
 This imposed a class system for getting into the offices.  When John arrived for work each morning, he had to enter through the doorway on West 17th Street, because that was where the time clock was.  (Yes, John Campbell had to punch in and out on a time clock, at least in the early days.)
@@ -70,67 +70,67 @@ Mine was the first example of what is loosely called adult prose that Ben bought
 
 **Related posts:**
 
-- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Astounding Years 30–37 BC: Clayton Magazines**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
-- [**Astounding Years 30–37 BC: Street & Smith**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/)
-- [**Astounding: The Campbell Years, Part 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
+- [**The Quadrumvirate**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Astounding Years 30–37 BC: Clayton Magazines**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+- [**Astounding Years 30–37 BC: Street & Smith**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/)
+- [**Astounding: The Campbell Years, Part 2**](/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/)
 
 
 ### 16 Comments
 
 - [Jerry](https://web.archive.org/web/20110922063341/http://triplanetary.blogspot.com/) says:
 I’ll bet you were relieved when Kay was no longer able to wash out your authorial mouth with her editorial bar of soap. Marvelous reminiscences, Fred. I hope to hear more of this storied time.
-[**December 3, 2009, 9:04 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**December 3, 2009, 9:04 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Neil Rest says:
 *More follows whenever I find time to write it.*  
 
 I do hope that implies that there are so many other things you’re writing right now . . .
-[**December 3, 2009, 9:37 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**December 3, 2009, 9:37 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Dr. Psycho](https://web.archive.org/web/20110922063341/http://doctorpsycho1960.blogspot.com/) says:
 I grew up hearing legends of the dreaded Kay Tarrant and her pencil of Trans-Neptunian Blue, but I never before heard the story of how you and Ben Bova introduced her to the new realities.  I hope it wasn’t too unpleasant for her, really I do.
-[**December 3, 2009, 12:56 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**December 3, 2009, 12:56 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Peter Weston says:
 I enjoyed reading about JWC, Fred, and sorry it took me so long to find it!  Congratulations on your birthday!
-[**December 3, 2009, 4:02 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**December 3, 2009, 4:02 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - RonB says:
 I’ve been reading the giant 6-volume Zelazny compendium from NESFA and of course your name is mentioned several times as the editor who bought certain stories.  Would love to hear any Zelazny stories if you’ve got ‘em…
 Thanks for, well, everything!
-[**December 6, 2009, 12:56 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**December 6, 2009, 12:56 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Johnny Pez](https://web.archive.org/web/20110922063341/http://johnnypez9.blogspot.com/) says:
 And I’d love to hear any Harl Vincent stories.  His stories have started popping up on Project Gutenberg, but there’s very little information available about him.
-[**December 7, 2009, 10:01 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**December 7, 2009, 10:01 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Sid](https://web.archive.org/web/20110922063341/http://mobilemassmoney.org/) says:
 “But Kay Tarrant, too, had impulses that went beyond the simple correction of faulty grammar, spelling or punctuation. She hated — hated! — smut. And she devoted her life to erasing every trace of it from the magazine.”
 Obviously a lot has changed in out modern media…too bad.  We could use a few people like Kay these days!
-[**March 29, 2011, 5:31 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**March 29, 2011, 5:31 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - billy rae says:
 great article about john campbell
-[**March 31, 2011, 8:48 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**March 31, 2011, 8:48 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Pat S.](https://web.archive.org/web/20110922063341/http://www.propertymanagement-batonrouge.com/) says:
 The “Godfather of Science Fiction” lives all around us.  Great post.
-[**April 7, 2011, 1:29 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 7, 2011, 1:29 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Roger](https://web.archive.org/web/20110922063341/http://dentistincovina.com/) says:
 That’s a funny story about the Ass. Editor! Thanks for this charming post - I really like Campbell’s work.
-[**April 7, 2011, 6:33 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 7, 2011, 6:33 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Shawn](https://web.archive.org/web/20110922063341/http://www.lastlongerreview.com/) says:
 Remarkably well written article…best I’ve read all week! I was there with walking down the long halls and going up the rickety elevator; standing in front of the rolltop desk…listening to Kay’s cluck of disapproval as she caught another editor trying to slip some naughty word past her lol. Beautiful imagery!
-[**April 10, 2011, 7:01 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 10, 2011, 7:01 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [MaryAnn](https://web.archive.org/web/20110922063341/http://www.superiordisplays.com/) says:
 I wish we had Kay’s all over the Internet who just hate - hate smut, so we can finally get rid of these smut sites once and for all. I enjoyed reading this.
-[**April 11, 2011, 9:06 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 11, 2011, 9:06 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Michael Walsh](https://web.archive.org/web/20110922063341/http://www.oldearthbooks.com/) says:
 @MaryAnn: I think their brains would melt before they got through even a small part of the ’Net.
-[**April 12, 2011, 9:13 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 12, 2011, 9:13 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Gary Gilliam](https://web.archive.org/web/20110922063341/http://www.abdvdprogramreview.com/) says:
 I really appreciate the people like Catherine Tarrant that made a great effort to keep “smut” in literature at bay. At least the writers back in the day had class. The only thing about that is, the bad language of that day and time was a little on the modest side compared to today’s filth. But that said, a little bit of naughty mixed into a well written script seems to me brings a more natural feel and flow even if its a science fiction.
-[**April 13, 2011, 10:05 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 13, 2011, 10:05 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Maryann says:
 @Michael yes, that’s true. Sad, but that’s true. There are just too many smut sites online for all the Kay’s combined. 
 Maryann
-[**April 25, 2011, 10:06 am**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**April 25, 2011, 10:06 am**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Steve](https://web.archive.org/web/20110922063341/http://www.herniahiatal.org/) says:
 @Michael - Lol…her poor heart would probably give out on something as simple as a Google images “safe” search. It’s amazing how much smut manages to even slip through that filter!
-[**September 3, 2011, 6:50 pm**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**September 3, 2011, 6:50 pm**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 
 [WordPress](https://web.archive.org/web/20110922063341/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922063341/http://dicksmithsoftware.com/)

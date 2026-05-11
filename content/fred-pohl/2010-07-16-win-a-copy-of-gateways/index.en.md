@@ -4,7 +4,7 @@ date: 2010-07-16
 categories: ["Authors", "Books"]
 tags: ["Ben Bova", "Cory Doctorow", "Editors", "Elizabeth Anne Hull", "Frank M. Robinson", "Gardner Dozois", "Gateways", "Gene Wolfe", "Harry Harrison", "Hugo Awards", "James Gunn", "Jody Lynn Nye", "Joe Haldeman", "Mike Resnick", "Publishing", "Robert Silverberg", "Sherri S. Tepper", "Vernor Vinge"]
 archive_url: "https://web.archive.org/web/20100722002709/http://www.thewaythefutureblogs.com/2010/07/win-a-copy-of-gateways/"
-prev_post_url: "/posts/2010-07-14-fred-s-dumb-thing/"
+prev_post_url: "/fred-pohl/2010-07-14-fred-s-dumb-thing/"
 prev_post_title: "Fred’s Dumb Thing"
 translated: false
 ---
@@ -22,7 +22,7 @@ Frederik Pohl
 
 ![Gateways, original stories inspired by Frederik Pohl, edited by Elizabeth Anne Hull](gateways3001-99x150.jpg)
 
-Good news, Pohl fans! Goodreads is giving away some copies of [**Gateways**](/posts/2009-01-01-elizabeth-anne-hull/), the just-released anthology of original new stories influenced by Frederik Pohl written by some of the top sf writers in the field and edited by Fred’s wife, [Elizabeth Anne Hull](https://web.archive.org/web/20100722002709/http://www.nippon2007.us/participants/hulle_participant.php). The deadline for [entering the contest](https://web.archive.org/web/20100722002709/http://www.goodreads.com/giveaway/show/4822-gateways) is July 31, so sign up soon!
+Good news, Pohl fans! Goodreads is giving away some copies of [**Gateways**](/fred-pohl/2009-01-01-elizabeth-anne-hull/), the just-released anthology of original new stories influenced by Frederik Pohl written by some of the top sf writers in the field and edited by Fred’s wife, [Elizabeth Anne Hull](https://web.archive.org/web/20100722002709/http://www.nippon2007.us/participants/hulle_participant.php). The deadline for [entering the contest](https://web.archive.org/web/20100722002709/http://www.goodreads.com/giveaway/show/4822-gateways) is July 31, so sign up soon!
 
 
 Meanwhile, Betty wrote about the book for the [Tor/Forge newsletter](https://web.archive.org/web/20100722002709/http://torforge.wordpress.com/2010/07/12/frederik-pohls-best-friends-in-sf-give-back-in-gateways):
@@ -46,7 +46,7 @@ Meanwhile, Betty wrote about the book for the [Tor/Forge newsletter](https://web
 
 > This project has been a labor of love, not just for me, but also, judging from the fact that all the super-busy contributors found time to send their new works — [Neil Gaiman’s](https://web.archive.org/web/20100722002709/http://www.neilgaiman.com/) coming all the way from China! — for everyone involved.
 
-> Oh, and one other thing I must mention: Fred has been nominated for a [**Hugo for Best Fan Writer**](/posts/2010-06-02-have-you-voted-for-the-hugo-awards/) — for [thewaythefutureblogs.com](https://web.archive.org/web/20100722002709/http://thewaythefutureblogs.com/). Be sure to check it out. The Master is still happily writing every day, and is currently putting some finishing touches on his newest novel, *All the Lives He Led*, scheduled for next spring from Tor.
+> Oh, and one other thing I must mention: Fred has been nominated for a [**Hugo for Best Fan Writer**](/fred-pohl/2010-06-02-have-you-voted-for-the-hugo-awards/) — for [thewaythefutureblogs.com](https://web.archive.org/web/20100722002709/http://thewaythefutureblogs.com/). Be sure to check it out. The Master is still happily writing every day, and is currently putting some finishing touches on his newest novel, *All the Lives He Led*, scheduled for next spring from Tor.
 
 This also seems a good time to remind you that the deadline for [voting on the Hugo Awards](https://web.archive.org/web/20100722002709/http://www.aussiecon4.org.au/hugoawards/final_ballot.php) is July 31 as well!
 
@@ -59,27 +59,27 @@ Please make it clear (at the top of the article) that the contest is only open t
 Regards,  
 
 Kam-Yung
-[**July 16, 2010, 12:50 am**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 16, 2010, 12:50 am**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - leslie devries says:
 This is super–constantly creating and inspiring as a team, and I thank you for that. (now off to vote!)
-[**July 16, 2010, 6:53 am**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 16, 2010, 6:53 am**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - [Shakatany](https://web.archive.org/web/20100722002709/http://shakatany.livejournal.com/) says:
 “To celebrate my husband’s 90th orbit of the sun.” What a lovely way to put it.
-[**July 16, 2010, 9:25 am**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 16, 2010, 9:25 am**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - [Stefan Jones](https://web.archive.org/web/20100722002709/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Thanks for the give-away, but I plan on buying a copy to support sales!
 Years ago, I went to the CONTACT worldbuilder’s conference. Someone asked guest speaker Larry Niven whom he would recommend to a presidential panel assembled to deal with imminent contact with aliens. Larry’s reply, from memory: “Well, the first pick would be Fred Pohl.” 
 That’s the only name he mentioned. I find that especially remarkable given that they come from vastly different places, politically.
-[**July 16, 2010, 1:02 pm**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 16, 2010, 1:02 pm**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - andrewc says:
 Hey this contest is limited to the US, not fair .. excluding Canadians.
-[**July 16, 2010, 1:22 pm**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 16, 2010, 1:22 pm**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - John Boland says:
 Not relevant to the Gateways, but I hope Fred finds time to describe some more of what it was like editing If and Galaxy. I suppose the answer to the question has to be “lots of different things,” but I’ve often wondered what it was like when the first Riverworld story arrived, or “The Star Pit” or “Driftglass.” Did Farmer just ship it in, without overture? Did Delany drop around with a ms. and a “Don’t know if you’ll like this”? Or the Puppeteer stories? It must have been satisfying to be an editor and have stories like those arrive. They’ve certainly stayed with this reader a long time, for which I’m grateful.
-[**July 17, 2010, 3:54 pm**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 17, 2010, 3:54 pm**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 - Blake Bolinger says:
 So far, it’s been a wonderful read.  I’m about a third of the way through, after having downloaded the Kindle iPad version (perfect format for those of us with poor vision).  This is great stuff.
-[**July 17, 2010, 9:15 pm**](/posts/2010-07-16-win-a-copy-of-gateways/)
+[**July 17, 2010, 9:15 pm**](/fred-pohl/2010-07-16-win-a-copy-of-gateways/)
 
 [WordPress](https://web.archive.org/web/20100722002709/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20100722002709/http://dicksmithsoftware.com/)

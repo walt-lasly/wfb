@@ -4,9 +4,9 @@ date: 2011-06-03
 categories: ["Authors"]
 tags: ["Dashiell Hammet", "Editors", "Ethel Klock", "George Jean Nathan", "H. L. Mencken", "Jane Littell", "Joseph T. Shaw", "Kenneth White", "New York", "Poetry", "Prozines", "Publishing", "Pulps", "Raymond Chandler", "Television"]
 archive_url: "https://web.archive.org/web/20170620010510/http://www.thewaythefutureblogs.com/2011/06/popular-publications-part-3-the-people-who-made-the-pulps/"
-prev_post_url: "/posts/2011-05-31-popular-publications-part-2/"
+prev_post_url: "/fred-pohl/2011-05-31-popular-publications-part-2/"
 prev_post_title: "Popular Publications, Part 2"
-next_post_url: "/posts/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
+next_post_url: "/fred-pohl/2011-06-05-bright-sayings-of-bright-people-no-15-stoppard/"
 next_post_title: "Bright Sayings of Bright People, No. 15: Stoppard"
 translated: false
 ---
@@ -93,18 +93,18 @@ No other time ever came.
 
 **Related posts:**
 
-- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- **Popular Publications**, [**Part 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [**Part 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 6 Comments
 
 - LeRoy Pearle says:
 Thanks so much for these great stories, Fred! It’s wonderful to get an inside view of the pulp industry and the early years of science fiction. I have a question.. since the worlds of pulps and comic books so often intersected, and you clearly had a good eye for an opportunity – were you involved in the early years of comics as well? I’m thinking of all the pulp and sci fi authors who did have comic book careers such as Harry Harrison, Manly Wade Wellman, etc and just scratching my head wondering if I had ever come across a Frederik Pohl story in the comics.
-[**June 3, 2011, 5:55 am**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**June 3, 2011, 5:55 am**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Stefan Jones](https://web.archive.org/web/20170620010510/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Great details on a lost world!
 How was art handled? Entirely freelance?
-[**June 3, 2011, 12:25 pm**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**June 3, 2011, 12:25 pm**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Bill Goodwin](https://web.archive.org/web/20170620010510/http://771715/) says:
 A carnival equestrienne  
 
@@ -121,17 +121,17 @@ She needed love: the freelance type,
 I left her unrush pile behind,  
 
 She was a peach! But overripe.
-[**June 4, 2011, 3:11 pm**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**June 4, 2011, 3:11 pm**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170620010510/http://beamjockey.livejournal.com/) says:
 Give that man two dollars!
-[**June 6, 2011, 9:26 am**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**June 6, 2011, 9:26 am**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [steve davidson](https://web.archive.org/web/20170620010510/http://www.rimworlds.com/thecrotchetyoldfan) says:
 Your mention here of ‘buying stories from yourself’ reminded me that I found inspiration and a paycheck from your original mentioning of this trick in The Way the Future Was.  I took a job editing a retail magazine on very low pay based on my knowledge that if I followed your lead I could pad the pay with checks from articles I wrote myself.  And yes, it worked.  Thanks for that, Fred.
-[**June 10, 2011, 6:40 am**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**June 10, 2011, 6:40 am**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 - [michael Walsh](https://web.archive.org/web/20170620010510/http://www.oldearthbooks.com/) says:
 A little poking of the web with Mr Google reveals that it is likely that the “Black Mask” Ken White was the same Ken White who became a literary agent.  And one of his clients was H. Beam Piper.
 Sadly, White’s sudden death led to a world of financial woe for Piper, causing Piper to take his own life
-[**June 13, 2011, 4:32 pm**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
+[**June 13, 2011, 4:32 pm**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/)
 
 [WordPress](https://web.archive.org/web/20170620010510/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620010510/http://dicksmithsoftware.com/)

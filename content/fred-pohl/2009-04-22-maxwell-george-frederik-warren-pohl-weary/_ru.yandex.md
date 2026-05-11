@@ -4,9 +4,9 @@ date: 2009-04-22
 categories: ["Personal"]
 tags: ["Colleen Pohl-Weary", "Maxwell Pohl-Weary", "Medicine", "Sasha Pohl-Weary", "Tobias Pohl-Weary"]
 archive_url: "https://web.archive.org/web/19961101000000/http://www.thewaythefutureblogs.com/2009/04/maxwell-george-frederik-warren-pohl-weary/"
-prev_post_url: "/posts/2009-04-20-cyril/"
+prev_post_url: "/fred-pohl/2009-04-20-cyril/"
 prev_post_title: "Cyril"
-next_post_url: "/posts/2009-04-23-music-calendar/"
+next_post_url: "/fred-pohl/2009-04-23-music-calendar/"
 next_post_title: "Music Calendar"
 translated: false
 translator: "Yandex"
@@ -52,16 +52,16 @@ translator: "Yandex"
 
 - [Джефф](https://web.archive.org/web/20090427003812/http://jeffcrook.blogspot.com/) говорит:
 Поздравляю!
-[** 22 апреля 2009 года, 8:32 утра**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[** 22 апреля 2009 года, 8:32 утра**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Анон говорит:
 Потрясающе! Поздравляю родителей.
-[** 22 апреля 2009 года, 10:43 утра**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[** 22 апреля 2009 года, 10:43 утра**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Патриция говорит:
 Поздравляю, мистер Пол! Я рад, что все получилось хорошо (ваш новый правнук? Сколько их у вас?).
-[**22 апреля 2009, 18:12 вечера**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[**22 апреля 2009, 18:12 вечера**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Джеймс говорит:
 У-у-у!  Действительно, добро пожаловать, Макс!
-[** 24 апреля 2009 года, 7:24 утра**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[** 24 апреля 2009 года, 7:24 утра**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 
 [WordPress](https://web.archive.org/web/20090427003812/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090427003812/http://dicksmithsoftware.com/)

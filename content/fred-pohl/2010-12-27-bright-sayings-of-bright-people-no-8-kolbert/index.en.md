@@ -4,9 +4,9 @@ date: 2010-12-27
 categories: ["Authors"]
 tags: ["Elizabeth Kolbert", "Media", "Quotations"]
 archive_url: "https://web.archive.org/web/20261201000000/http://www.thewaythefutureblogs.com/2010/12/bright-sayings-of-bright-people-no-8/"
-prev_post_url: "/posts/2010-12-26-stoning-sinners-and-other-symptoms-of-evil/"
+prev_post_url: "/fred-pohl/2010-12-26-stoning-sinners-and-other-symptoms-of-evil/"
 prev_post_title: "Stoning Sinners … and Other Symptoms of Evil"
-next_post_url: "/posts/2010-12-28-jack-robins-dr-robins-that-is/"
+next_post_url: "/fred-pohl/2010-12-28-jack-robins-dr-robins-that-is/"
 next_post_title: "Jack Robins: Dr. Robins, that is"
 translated: false
 ---
@@ -35,4 +35,4 @@ Happiness is a toddler who just learned how to run.
 Happiness is not the only thing worth pursuing, worth having, worth sharing. Happiness is not for yourself alone, but is best shared as best as you can share it. Happiness is no excuse for ignoring the pains and fears of others, nor is it a cure for anything that ails you. But if it makes you happy to help those in deep woe, then by all means help.
 Happiness is a warm puppy.
 Just some stray thoughts on happiness.
-[**December 27, 2010, 2:48 am**](/posts/2010-12-27-bright-sayings-of-bright-people-no-8-kolbert/)
+[**December 27, 2010, 2:48 am**](/fred-pohl/2010-12-27-bright-sayings-of-bright-people-no-8-kolbert/)

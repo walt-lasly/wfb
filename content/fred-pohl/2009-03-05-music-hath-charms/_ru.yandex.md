@@ -4,9 +4,9 @@ date: 2009-03-05
 categories: ["Personal"]
 tags: ["Alberto Ginastera", "Astor Piazzolla", "Beethoven", "Elgin Symphony Orchestra", "Films", "Music", "Yolanda Kondonassis"]
 archive_url: "https://web.archive.org/web/20090507215009/http://www.thewaythefutureblogs.com/2009/03/music-hath-charms/"
-prev_post_url: "/posts/2009-03-02-pictures-from-paradise/"
+prev_post_url: "/fred-pohl/2009-03-02-pictures-from-paradise/"
 prev_post_title: "Pictures from Paradise"
-next_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
+next_post_url: "/fred-pohl/2009-03-11-shipboard-book-reports-part-ii/"
 next_post_title: "Shipboard Book Reports, Part II"
 translated: false
 translator: "Yandex"
@@ -50,17 +50,17 @@ translator: "Yandex"
 Спасибо за информацию о концерте. Я занесла это в свой календарь Google! Мне очень нравится твой блог, Фред. 
 Спасибо,
 Ронан О'Дрисколл
-[**5 марта 2009 года, 9:22 утра**](/posts/2009-03-05-music-hath-charms/)
+[**5 марта 2009 года, 9:22 утра**](/fred-pohl/2009-03-05-music-hath-charms/)
 - Эрик Хорнер говорит:
 Хотя я не склоняюсь к струнным инструментам, особенно к скрипкам (я сам играю на медных и духовых инструментах), я просмотрел обе упомянутые вами аргентинские пьесы на моем любимом сайте покупки MP3 (emusic.com ). Судя по 30-секундным роликам, которые у них были, Тангазо произвел на меня большое впечатление.  Не столько концерт для арфы.  Но, с другой стороны, я не такой уж большой любитель арфы.  Возможно, мне придется включить потоковую веб-трансляцию в свой календарь.
 Продолжайте писать, мы это ценим.
-[**5 марта 2009, 14:24**](/posts/2009-03-05-music-hath-charms/)
+[**5 марта 2009, 14:24**](/fred-pohl/2009-03-05-music-hath-charms/)
 - Отец [Ворон](https://web.archive.org/web/20090507215009/http://fathercrow.blogspot.com/) говорит:
 Это звучит интересно. Вы бывали в Равинии? В июне этого года они снимаются в фильме "Камелот", который тоже должен оказаться интересным. Я просто надеюсь, что смогу сделать это в этом году.
-[**6 марта 2009 года, 3:07 утра**](/posts/2009-03-05-music-hath-charms/)
+[**6 марта 2009 года, 3:07 утра**](/fred-pohl/2009-03-05-music-hath-charms/)
 - [Фил Пейн](https://web.archive.org/web/20090507215009/http://www.philpaine.com/) говорит:
 Попробуйте блестящие выступления (и композиции!) выдающегося контрабасиста Эдгара Мейера.  Его “Двойной концерт для виолончели и контрабаса” [исполненный с Йо-Йо Ма] и его концерт ре мажор для контрабаса с оркестром прекрасны. Эти двое снова объединяются с Марком О'Коннором для интерпретации мелодий Аппалачей в “Аппалачском вальсе” (1996).  Мейер также блестяще исполняет произведения Джованни Боттезини, композитора эпохи барокко, больше всего ассоциирующегося с контрабасом.
-[**12 марта 2009, 17:03 вечера**](/posts/2009-03-05-music-hath-charms/)
+[**12 марта 2009, 17:03 вечера**](/fred-pohl/2009-03-05-music-hath-charms/)
 
 [WordPress](https://web.archive.org/web/20090507215009/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090507215009/http://dicksmithsoftware.com/)

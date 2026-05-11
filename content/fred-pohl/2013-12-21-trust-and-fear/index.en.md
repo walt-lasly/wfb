@@ -4,9 +4,9 @@ date: 2013-12-21
 categories: ["Betty's Posts", "Personal"]
 tags: ["Advertising", "Economics", "Elizabeth Anne Hull", "Leah A. Zeldes"]
 archive_url: "https://web.archive.org/web/20160416151345/http://www.thewaythefutureblogs.com/2013/12/trust-and-fear/"
-prev_post_url: "/posts/2013-12-20-fred-in-the-time-capsule/"
+prev_post_url: "/fred-pohl/2013-12-20-fred-in-the-time-capsule/"
 prev_post_title: "Fred in the Time Capsule"
-next_post_url: "/posts/2013-12-23-the-story-of-the-space-merchants-part-2/"
+next_post_url: "/fred-pohl/2013-12-23-the-story-of-the-space-merchants-part-2/"
 next_post_title: "The Story ofThe Space Merchants, Part 2"
 translated: false
 ---
@@ -56,7 +56,7 @@ We’re aware that some people cheat or are deadbeats or outright frauds, yet if
 Upon reflection, the thing I probably was most grateful for was that we didn’t get a single annoying phone call all day trying to sell us a home-security system or a device in case “[I’ve fallen and I can’t get up](https://web.archive.org/web/20160416151345/http://www.youtube.com/watch?v=bQlpDiXPZHQ).”
 
 
-I don’t [**worry so much**](/posts/2013-12-19-my-first-blog-post-in-a-long-time/) about our survival as a species and as a country, when I’m not deluged by fear mongers.
+I don’t [**worry so much**](/fred-pohl/2013-12-19-my-first-blog-post-in-a-long-time/) about our survival as a species and as a country, when I’m not deluged by fear mongers.
 
 
 ### One Comment
@@ -66,7 +66,7 @@ I don’t [**worry so much**](/posts/2013-12-19-my-first-blog-post-in-a-long-tim
 That, right there.  Yes.
 So many people — both individuals and companies — do their best every day to stir our fears, usually for their own gain in some way.  Whether they sell papers or magazines, or commercial time on TV, or some product that will supposedly protect us from the fears they’ve magnified or outright created, we’re constantly told that we and our loved ones are in deadly danger, every second of every day.  It’s become part of our society, to the point where the fear-mongering is all but invisible, while the fear it stirs is ubiquitous.  We’d all be a lot better off if the people (and companies) who profit from our fear would just shut the hell up.
 Angie
-[**December 21, 2013, 6:02 am**](/posts/2013-12-21-trust-and-fear/)
+[**December 21, 2013, 6:02 am**](/fred-pohl/2013-12-21-trust-and-fear/)
 
 [WordPress](https://web.archive.org/web/20160416151345/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416151345/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2009-10-26
 categories: ["Science", "Space"]
 tags: ["Edwin Balmer", "Future", "History", "Philip Wylie", "Politics"]
 archive_url: "https://web.archive.org/web/20240901000000/http://www.thewaythefutureblogs.com/2009/10/squabbles-in-the-stars/"
-prev_post_url: "/posts/2009-10-22-fred-the-machine-man/"
+prev_post_url: "/fred-pohl/2009-10-22-fred-the-machine-man/"
 prev_post_title: "Fred the Machine Man"
-next_post_url: "/posts/2009-11-03-lester-and-judy-lynn-del-rey/"
+next_post_url: "/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/"
 next_post_title: "Lester and Judy-Lynn del Rey"
 translated: false
 ---
@@ -74,21 +74,21 @@ But all is well.  Relax.  Have a good night’s sleep.
 - Paul A. says:
 You weren’t involved in this Latvian meteorite crater hoax, were you? Good way to call attention to the NEO problem….
 [http://www.wtkr.com/news/nationworld/sns-ap-eu-latvia-meteorite,0,1920607.story](https://web.archive.org/web/20091208090202/http://www.wtkr.com/news/nationworld/sns-ap-eu-latvia-meteorite,0,1920607.story)
-[**October 26, 2009, 1:38 pm**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**October 26, 2009, 1:38 pm**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - [Jeff](https://web.archive.org/web/20091208090202/http://jeffcrook.blogspot.com/) says:
 My first published science fiction story was about a tug pilot who goes out to the asteroid belt to harvest asteroids and drag them back to earth, to be turned into orbital real estate, and also to be turned into weapons. It was published in the Sol’s Children anthology, 2003. I have reprinted it here: [http://jeffcrookfiction.blogspot.com/2008/10/roid.html](https://web.archive.org/web/20091208090202/http://jeffcrookfiction.blogspot.com/2008/10/roid.html)
-[**October 26, 2009, 3:02 pm**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**October 26, 2009, 3:02 pm**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - [Jeff](https://web.archive.org/web/20091208090202/http://jeffcrook.blogspot.com/) says:
 Actually, there was a big pop on October 8 over Sulawesi. An asteroid estimated to be 10 meters in diameter exploded at high altitude with a force equal to 3 hiroshima bombs. It blew up high enough not to cause any damage on the ground. 
 [http://www.newscientist.com/article/dn18046-asteroid-blast-reveals-holes-in-earths-defences.html](https://web.archive.org/web/20091208090202/http://www.newscientist.com/article/dn18046-asteroid-blast-reveals-holes-in-earths-defences.html)
 Am I crazy, or do the gods seem to have it in for Indonesia?
-[**October 28, 2009, 10:37 am**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**October 28, 2009, 10:37 am**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - E. J. Garcia says:
 On the subject of NEOs, an asteroid with a payload of three Hiroshima bombs [exploded over Indonesia](https://web.archive.org/web/20091208090202/http://www.telegraph.co.uk/science/space/6444895/Asteroid-explosion-over-Indonesia-raises-fears-about-Earths-defences.html) just a few weeks back.  A coincidence, perhaps?
-[**October 28, 2009, 6:23 pm**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**October 28, 2009, 6:23 pm**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - E. J. Garcia says:
 Also, if no one has already commented on it, what are your thoughts on the infamous Apophis asteroid, Mr. Pohl?  2029 - 2036 is well beyond your time, thankfully, but the future generation can certainly benefit from your insight (if you wish add something, that is).
-[**November 3, 2009, 2:42 pm**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**November 3, 2009, 2:42 pm**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 
 [WordPress](https://web.archive.org/web/20091208090202/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091208090202/http://dicksmithsoftware.com/)

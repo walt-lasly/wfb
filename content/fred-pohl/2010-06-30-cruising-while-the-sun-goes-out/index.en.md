@@ -4,9 +4,9 @@ date: 2010-06-30
 categories: ["Personal", "Science", "Travel"]
 tags: ["Albert Einstein", "Astronomy", "Ben Bova", "Bob Guccione", "George Keene", "Hawai'i", "Joe Rao", "Kathy Keeton", "L. Richard Haugh", "Michael Collins", "Robert Sheckley"]
 archive_url: "https://web.archive.org/web/20110922143333/http://www.thewaythefutureblogs.com/2010/06/cruising-while-the-sun-goes-out/"
-prev_post_url: "/posts/2010-06-28-a-salute-to-alan-turing/"
+prev_post_url: "/fred-pohl/2010-06-28-a-salute-to-alan-turing/"
 prev_post_title: "A salute to Alan Turing"
-next_post_url: "/posts/2010-07-02-our-planet-bottom-to-top/"
+next_post_url: "/fred-pohl/2010-07-02-our-planet-bottom-to-top/"
 next_post_title: "Our Planet, Bottom to Top"
 translated: false
 ---
@@ -159,29 +159,29 @@ And on our ship, when the show was over, Michael, the  seven-year-old who had mo
 
 - [David A Smith](https://web.archive.org/web/20110922143333/http://croqueteer.blogspot.com/) says:
 More please, though your reminiscing about the past - especially of you and your colleagues - is invaluable. I grew up with you guys, and love getting insight into how it all came to be and who you were. Thanks for the blog and of course for your career.
-[**June 30, 2010, 6:40 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 6:40 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - Kirk says:
 Your editorials are OK with me
-[**June 30, 2010, 9:30 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 9:30 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - [Shakatany](https://web.archive.org/web/20110922143333/http://shakatany.livejournal.com/) says:
 Oh do continue posting these. It was a fascinating read.
-[**June 30, 2010, 9:40 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 9:40 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - [Bald Guy](https://web.archive.org/web/20110922143333/http://www.irememberjfk.com/) says:
 Mr. Pohl, I LOVED OMNI! The cartoons were some of the funniest I’ve ever seen. Example: A centaur is confused. A naked woman is running one direction, a mare the other. Hilarious! Another I liked was two old ladies watching one miniature hideous monster chasing another. One lady says “It’s one god-damned thing after another!”
 It turned me on to some great SF, too. Unfortunately, about 1981, it took a disturbing turn by publishing a cartoon feature that mocked anyone with religious beliefs. I quit reading it. I heard that the magazine apologized for the article. Sadly, that was a harbinger of things to come on the internet. If you believe in a higher being, be prepared to be skewered at most discussion boards…
-[**June 30, 2010, 10:22 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 10:22 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - [Jerry](https://web.archive.org/web/20110922143333/http://triplanetary.blogspot.com/) says:
 Around here it seems like it’s always overcast when something astronomically interesting happens. I think it’d be great if you’d post more of your old articles on the blog.
-[**June 30, 2010, 11:33 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 11:33 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - Chrissa says:
 Thank you for sharing this–it made me want to try a pinhole camera again and gave me a jolt of wonder. Please do share more.
-[**June 30, 2010, 1:21 pm**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 1:21 pm**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - Bill Goodwin says:
 I never forgot that “One damn thing…” cartoon, myself!
 And I remember this piece, and am pleased as punch to read it again, or any other gems from the past.
 OMNI is very much missed, especially its early days before the covers began to look alike (all popular science magazine covers began looking alike in the 80s, generally a blank-eyed humanoid head of some sort against a Daliesque landscape..it may say something deep about the spirit of the times, but I’m at a loss to explain it).
 First time I saw my writing in print was in the OMNI letter column…October 1979…
-[**June 30, 2010, 9:27 pm**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**June 30, 2010, 9:27 pm**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - David says:
 Mr. Pohl, I’m not ordinarily given to reminisce, but I was also aboard SS Independence for the eclipse, and I’d like to share my experience.
 My parents were given to cruising in their retirement, and my father had already reserved a room aboard the Independence, totally oblivious to the fact that a total solar eclipse would occur during the cruise.  My mother, more aware of my interest in astronomy than my father, argued him into inviting me along.  I already owned a small spotting scope, and while the tripod was checked as baggage, the scope in its case was one of my two carry-ons.
@@ -199,12 +199,12 @@ I had the shots I wanted to take carefully planned in a notebook.  Pretty much e
 I didn’t neglect to look up from the camera a few times and just enjoy the eclipse.  Unbelievable.  The eclipsed Sun looked like a hole in the sky in the midst of twilight.
 After the cruise, I stayed with my parents for a day at a beautiful hotel that no longer exists.  My parents had taken the whole family to Hawaii on vacations several times before, and we always stayed at the Waikikian.  It was a two-story tiki-style hotel surrounded by gardens, right between the Ilikai Hotel (the one Jack Lord was standing atop during the opening credits of Hawaii Five-O) and the Hilton Hawaiian Village.  Sadly, the Waikikian was torn down a few years ago to make way for tower of time-share condominiums.
 First-class going home from Hawaii was certainly comfortable, but not nearly as fun.  No champagne or macadamia nuts, certainly  The in-flight movie was a Steve Martin comedy: L.A. Story.
-[**July 1, 2010, 12:16 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**July 1, 2010, 12:16 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 - allasca says:
 Hello,  
 
 Great knowledge provided. omni magazine has also done good job. Great scientific blog is this. There are just a few of the myths and people all over the world have their own set of superstitions but they are nothing but a garbage lot. A normal natural event cannot make a person go insane who is in control of his faculties. In fact, solar eclipse is an event to witness with zeal and excitement as planets wander in the space.
-[**August 5, 2010, 4:16 am**](/posts/2010-06-30-cruising-while-the-sun-goes-out/)
+[**August 5, 2010, 4:16 am**](/fred-pohl/2010-06-30-cruising-while-the-sun-goes-out/)
 
 [WordPress](https://web.archive.org/web/20110922143333/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922143333/http://dicksmithsoftware.com/)

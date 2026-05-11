@@ -4,9 +4,9 @@ date: 2010-12-20
 categories: ["Authors", "Personal", "Science", "Space"]
 tags: ["Ann Pohl", "Canada", "Carol Pohl", "Daniel Pohl-Miranda", "Emily Pohl-Weary", "Futurians", "Juan Miranda", "Judith Merril", "Julia Pohl-Miranda", "Media", "Politics", "Television", "Tobias Pohl-Weary", "Walter Weary"]
 archive_url: "https://web.archive.org/web/20051201000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-9-friends-again-before-the-end/"
-prev_post_url: "/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
+prev_post_url: "/fred-pohl/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
 prev_post_title: "Bright Sayings of Bright People, No. 7: Mackay"
-next_post_url: "/posts/2010-12-21-early-days-at-brooklyn-tech/"
+next_post_url: "/fred-pohl/2010-12-21-early-days-at-brooklyn-tech/"
 next_post_title: "Early Days at Brooklyn Tech"
 translated: false
 ---
@@ -35,7 +35,7 @@ And what Judy wanted to know was,  “Listen, Fred, you’re pretty good at that
 I thought that was a pretty funny request.  I had also, for some time, been spending a lot of my time defending sf in general as healthy for people to watch.  True, *Dr. Who* was a pretty marginal case.  But you could find scientific lessons in almost any fantasy story once you allowed quantum reality to be defined as scientific, and I wrote a number of comments-on-the-air for Judy’s shows, and the problem passed.
 
 
-It wasn’t just the opportunities for working together that brought Judy and me together at last.  Most of all it was our growing number of descendants.  Our daughter Ann had gone and grown up, and she had married a Canadian named Walter Weary, with whom she had two children, Tobias, who is now an [**excellent chef**](/posts/2010-05-05-eat-at-red-canoe-bistro/), with [**children of his own**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/), and Emily, the granddaughter who [won the Hugo Award](https://web.archive.org/web/20150922154802/http://www.amazon.com/gp/product/1896357571?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1896357571).
+It wasn’t just the opportunities for working together that brought Judy and me together at last.  Most of all it was our growing number of descendants.  Our daughter Ann had gone and grown up, and she had married a Canadian named Walter Weary, with whom she had two children, Tobias, who is now an [**excellent chef**](/fred-pohl/2010-05-05-eat-at-red-canoe-bistro/), with [**children of his own**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/), and Emily, the granddaughter who [won the Hugo Award](https://web.archive.org/web/20150922154802/http://www.amazon.com/gp/product/1896357571?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1896357571).
 
 
 After that marriage tanked, Ann married Juan Miranda, an Argentinean immigrant to Canada who was a high-tech electronics engineer.  The reason he left Argentina for Canada is that Argentina had fallen under the rule of the brutally murderous “colonels,”  who formed the habit of picking up people who criticized them on the street, torturing them, then murdering them and burying them in unmarked graves so their families could not even have the satisfaction of being sure whether they were dead or alive.  Juan himself had been picked up by the death squads.  But it was just at the end of their power.  Legitimate law officials were arresting them and releasing their prisoners.  Whereupon Juan very sensibly decided to get the hell out of Argentina.  (His elder brother was less lucky.  He had been picked up a year or so earlier and was never seen again.)
@@ -55,7 +55,7 @@ I am pleased that, at the end of the last time I saw her, she gave me a hug.  Do
 
 **Related posts:**  
 
-**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
+**Judith Merril,** [**Part 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
 
 
 ### 4 Comments
@@ -63,14 +63,14 @@ I am pleased that, at the end of the last time I saw her, she gave me a hug.  Do
 - [Cory Doctorow](https://web.archive.org/web/20150922154802/http://craphound.com/) says:
 I’ve really, really enjoyed this series, Fred. Having been mentored by Judy (and having immensely enjoyed Emily and Judy’s book), it was really fascinating to get another lens on her life.
 One tiny thing: it’s TVOntario, not Ontario TV (I grew up watching Judy introduce Dr Who — my father and I both loved it).
-[**December 20, 2010, 1:19 am**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+[**December 20, 2010, 1:19 am**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 - Kirk says:
 This isn’t about Judith Merril, per se, but I didn’t know where else to put it.  If Fred is looking for filler material on occasion, in between the interesting biographical essays, I wonder if he would consider reprinting any of his ‘Pohlemic’ articles from the old Algol/Starship magazine.  In particular there was an excellent one on George Orwell that was printed just before Starship folded.  Just my two cents worth. . .
-[**December 20, 2010, 3:19 pm**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+[**December 20, 2010, 3:19 pm**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 - [Stefan Jones](https://web.archive.org/web/20150922154802/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Merril actually introduced Dr. Who episodes?
 Interesting . . . in the States, the first few seasons of Baker were run on commercial TV with voice-over introductions by Howard da Silva.
-[**December 21, 2010, 1:06 pm**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+[**December 21, 2010, 1:06 pm**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 - [Geoffrey Dow](https://web.archive.org/web/20150922154802/http://www.ed-rex.com/) says:
 It’s a little hard to know where to start. We met quite a few years ago, shared a few cigarettes outside the OISE building at a conference at which you spoke and which Judy had had a part in organizing. Not that you are remotely likely to remember me. Judy introduced us, but I was star-struck and determined not to allow that to bore you. So I said just about nothing, not even, “I *loved* Gateway!” as we huddled under inadequate shelter on what I remember being a miserable, chilly and drizzly day.
 I first “met” Judy when she was doing those Doctor Who intros on TVO. I’d almost certainly read That Only A Mother by then (I was 11 or 12, I think), but I don’t believe I associated that white hair “old” woman with the author of the story. I met her for real a few years after that when she taught a two or three intensive writing workshops at my high school in Toronto.
@@ -79,7 +79,7 @@ We had a falling out a few years before she died, but prior to that I had the pr
 Needless to say, for someone who had grown up on Pohl and Asimov and Heinlein and cetera in the early 1970s, who’d by that point read your memoirs, and Damon Knight’s book about the Futurians, the work was utterly fascinating to me.
 Among those letters were a great many she wrote during the period of the custody battle between the two of you. And I’m writing now, really, just to bear witness to your willingness to be honest about the good and bad bits of your own past. Granted that it’s been a quarter century or so since I was trawling those bankers’ boxes of correspondence, I’m more than a little impressed that what you’ve written pretty much matches up with what Judy was telling *her* friends and allies at the time.
 Not that the interpretations weren’t different – of course they were – but the facts as you present them now, and as Judy did back in the 1950s seem to me to have gibed much more closely than I would have thought possible for two people who had such a terrible battle against one another.
-[**January 12, 2011, 8:56 pm**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+[**January 12, 2011, 8:56 pm**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 [WordPress](https://web.archive.org/web/20150922154802/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150922154802/http://dicksmithsoftware.com/)

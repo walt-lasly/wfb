@@ -4,9 +4,9 @@ date: 2011-08-08
 categories: ["Authors", "Books", "Writing"]
 tags: ["Arthur C. Clarke", "Collaborating", "George W. Bush", "Politics"]
 archive_url: "https://web.archive.org/web/20260601000000/http://www.thewaythefutureblogs.com/2011/08/sri-lanka-war-and-collaboration/"
-prev_post_url: "/posts/2011-08-07-bright-sayings-of-bright-people-no-17-fauci/"
+prev_post_url: "/fred-pohl/2011-08-07-bright-sayings-of-bright-people-no-17-fauci/"
 prev_post_title: "Bright Sayings of Bright People, No. 17: Fauci"
-next_post_url: "/posts/2011-08-10-sf-publishing-through-the-ages-with-fred/"
+next_post_url: "/fred-pohl/2011-08-10-sf-publishing-through-the-ages-with-fred/"
 next_post_title: "SF Publishing Through the Ages(With Fred)"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 ![The Last Theorem](thelasttheorem1.jpg)
 
 
-Когда я писал Последнюю теорему([The Last Theorem](https://web.archive.org/web/20170619213153/http://www.amazon.com/gp/product/0345470214?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0345470214)) с сэром [** Артуром Кларком**](/posts/2009-01-05-sir-arthur-and-i/), я счел необходимым в сюжетных целях, чтобы герой, Ранджит Субраманьян, провел длительный период в тюрьме, в одиночной камере.
+Когда я писал Последнюю теорему([The Last Theorem](https://web.archive.org/web/20170619213153/http://www.amazon.com/gp/product/0345470214?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0345470214)) с сэром [** Артуром Кларком**](/fred-pohl/2009-01-05-sir-arthur-and-i/), я счел необходимым в сюжетных целях, чтобы герой, Ранджит Субраманьян, провел длительный период в тюрьме, в одиночной камере.
 
 
 Очевидным способом добиться этого было втянуть Ранджита в [гражданскую войну в Шри-Ланке](https://web.archive.org/web/20170619213153/http://www.globalsecurity.org/military/world/para/ltte.htm) между правящими сингальцами, у которых была привычка сохранять все властные посты за собой, и мятежными тамильскими тиграми, которые хотели участвовать в управлении.  (И сингальцы, и тамилы были незваными иммигрантами из Индии.  Сингальцы, однако, прибыли раньше.)
@@ -62,19 +62,19 @@ translator: "Yandex"
 
 - BTS говорит:
 Истории еще предстоит решить, действительно ли Буш был худшим президентом в истории. Прямо сейчас я бы сказал, что он был чертовски хорош собой, чем нынешний обитатель Белого дома, который не смог бы завести Голд-рыбку в аквариум. Но мы еще посмотрим.
-[**8 августа 2011 года, 9:08 утра**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
+[**8 августа 2011 года, 9:08 утра**](/fred-pohl/2011-08-08-sri-lanka-war-and-collaboration/)
 - Дэвид Б. Уильямс говорит:
 Худший? Вы действительно хотите, чтобы Буш занимал почетное первое место в каком-либо списке? А как насчет Эндрю Джонсона?
-[**8 августа 2011 года, 9:11 утра**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
+[**8 августа 2011 года, 9:11 утра**](/fred-pohl/2011-08-08-sri-lanka-war-and-collaboration/)
 - Джеймс Дэвис Николл говорит:
 Джеймса Бьюкенена приходится оценивать хуже, чем Буша; он позволил США развалиться на глазах. Любой другой президент на сегодняшний день, даже малыш Буш, может сказать: “Ну, по крайней мере, я не развязал следующему парню гражданскую войну, как это сделал Джеймс Бьюкенен”.
 Он также был гением, ответственным за войну в Юте.
-[**9 августа 2011 года, 12:18 утра**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
+[**9 августа 2011 года, 12:18 утра**](/fred-pohl/2011-08-08-sri-lanka-war-and-collaboration/)
 - [Роберт Новолл](https://web.archive.org/web/20170619213153/http://www.robertnowall.com/) говорит:
 Я вроде как подумал, что наши комментарии могут свести к нулю этот единственный комментарий.  Я мог бы оспорить это — на самом деле я это делаю — или подробно рассказать о недостатках нескольких других лиц, занимающих президентский пост.
 У меня есть идея получше.  Мы видели, как вы выбрали “худшего президента в истории”.  Как насчет “лучшего президента в истории”?  Не забудьте обосновать это примерами…
 Кроме того, несмотря на комментарий, мне понравился комментарий о Артуре Кларке…
-[** 11 августа 2011 года, 8:33 утра**](/posts/2011-08-08-sri-lanka-war-and-collaboration/)
+[** 11 августа 2011 года, 8:33 утра**](/fred-pohl/2011-08-08-sri-lanka-war-and-collaboration/)
 
 [WordPress](https://web.archive.org/web/20170619213153/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619213153/http://dicksmithsoftware.com/)

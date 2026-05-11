@@ -4,9 +4,9 @@ date: 2011-05-15
 categories: ["Books", "Science"]
 tags: ["Computers", "Films", "Gateway"]
 archive_url: "https://web.archive.org/web/20170619235511/http://www.thewaythefutureblogs.com/2011/05/sigfrid-von-shrink-builders-wanted/"
-prev_post_url: "/posts/2011-05-14-here-come-da-judge/"
+prev_post_url: "/fred-pohl/2011-05-14-here-come-da-judge/"
 prev_post_title: "Here Come da Judge"
-next_post_url: "/posts/2011-05-17-the-kornbluths-in-new-jersey/"
+next_post_url: "/fred-pohl/2011-05-17-the-kornbluths-in-new-jersey/"
 next_post_title: "The Kornbluths in New Jersey"
 translated: false
 ---
@@ -42,28 +42,28 @@ What you’re looking for is Eliza.
 See [http://en.wikipedia.org/wiki/ELIZA](https://web.archive.org/web/20170619235511/http://en.wikipedia.org/wiki/ELIZA) .
 There are links to a number of implementations.
 Back in the day, I ran a BBS with an Eliza program labeled “chat”.  People would talk to it thinking they were talking to me.  Good times…
-[**May 15, 2011, 2:33 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 15, 2011, 2:33 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Ace Lightning says:
 Any computer can emulate a psychologist (of a particular type). It simply requires a program like the mid-1960s ELIZA:
 [http://en.wikipedia.org/wiki/ELIZA](https://web.archive.org/web/20170619235511/http://en.wikipedia.org/wiki/ELIZA)
 This program works by taking the “patient’s” statements and manipulating them according to some surprisingly simple rules, which made the resulting responses seem as if the computer were dispassionately reflecting the “patient’s” remarks in order to elicit self-analysis. This is the style of a “Rogerian” therapist, and it also sidesteps the computer’s inability to keep abreast of human concerns such as popular entertainment, food, and daily news.
 Programs such as ELIZA take very little computing power; they can run on almost any kind of hardware, including a modern PC – I daresay there’s even a smartphone app that’ll do it.
-[**May 15, 2011, 3:50 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 15, 2011, 3:50 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - [David Dyer-Bennet](https://web.archive.org/web/20170619235511/http://dd-b.net/) says:
 There’s an Eliza version in Emacs.  There’s also a Zippy the Pinhead quote collection.
 AND there’s a command “psychoanalyze-pinhead” that hooks the two together and lets them run.
-[**May 15, 2011, 11:11 pm**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 15, 2011, 11:11 pm**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - H. E. Parmer says:
 Heck, I had a version of ELIZA — written in LISP, IIRC — that ran under CP/M on my old Kaypro II, with its twin floppy disk drives and whopping 64K of RAM. (I’ve really dated myself now, haven’t I?)
 And in answer to your first question, I read *Gateway* back when it was first published in paperback.
-[**May 16, 2011, 1:49 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 16, 2011, 1:49 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - [Keith Graham](https://web.archive.org/web/20170619235511/http://www.cthreepo.com/) says:
 I ported the classic Eliza program to Javascript a year or so ago. Javascript is a good language for this kind of thing because it runs in the browser and doesn’t need a compiler or even a website to run.
 Eliza was pretty simplistic, but the structure of question and response is there and easily extensible. Without too much trouble, you could take the text of Siggy’s questions and load them into the question list and set a bunch of keywords to trigger the appropriate questions without changing the logic much.
 See the javascript version:
 [http://www.cthreepo.com/games/eliza.shtml](https://web.archive.org/web/20170619235511/http://www.cthreepo.com/games/eliza.shtml)
 Keith
-[**May 16, 2011, 9:01 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 16, 2011, 9:01 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - [Edward Kmett](https://web.archive.org/web/20170619235511/http://comonad.com/) says:
 ELIZA was the first one.
 [http://en.wikipedia.org/wiki/ELIZA](https://web.archive.org/web/20170619235511/http://en.wikipedia.org/wiki/ELIZA) (1964-1966)
@@ -81,7 +81,7 @@ Others include
 [http://jabberwacky.com/](https://web.archive.org/web/20170619235511/http://jabberwacky.com/)
 and
 [http://www.cleverbot.com/](https://web.archive.org/web/20170619235511/http://www.cleverbot.com/)
-[**May 16, 2011, 11:57 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 16, 2011, 11:57 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Marc says:
 Although I haven’t looked at this recently, I’ve had more than a passing interest in this over the years (Ai project aspirations/concepts), so probably worth a comment.
 You’d be hard pushed to find a chatbot that has the same personality traits/defects as Sigfrid however that aside I think the best resources would be.
@@ -95,10 +95,10 @@ Chat Bots  [http://www.chatbots.org/](https://web.archive.org/web/20170619235511
 
 [http://www.personalityforge.com](https://web.archive.org/web/20170619235511/http://www.personalityforge.com/)
 Can you expand on “for reasons connected with the movie business”? This sounds like potentially very excepting news! 
-[**May 18, 2011, 4:41 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 18, 2011, 4:41 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Anant (Infinity) says:
 I recently read the novel Gateway and am convinced it is the one of the five best scince-fiction (or as I like to call them – “frontier fiction” novels ever published. If a movie is to be made of the story, may I suggest Tobey Maguire as Robinette Broadhead and Simon Baker (of “The Mentalist”) as Sigfrid von Shrink.
-[**May 23, 2011, 7:27 am**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**May 23, 2011, 7:27 am**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 
 [WordPress](https://web.archive.org/web/20170619235511/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619235511/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-12-27
 categories: ["Betty's Posts", "Science"]
 tags: ["Elizabeth Anne Hull", "Food", "Medicine"]
 archive_url: "https://web.archive.org/web/20190601000000/http://www.thewaythefutureblogs.com/2013/12/nuttiness-in-the-health-news/"
-prev_post_url: "/posts/2013-12-26-the-story-of-the-space-merchants-part-3/"
+prev_post_url: "/fred-pohl/2013-12-26-the-story-of-the-space-merchants-part-3/"
 prev_post_title: "The Story ofThe Space Merchants, Part 3"
-next_post_url: "/posts/2013-12-29-bright-sayings-of-bright-people-no-50-eisenhower/"
+next_post_url: "/fred-pohl/2013-12-29-bright-sayings-of-bright-people-no-50-eisenhower/"
 next_post_title: "Bright Sayings of Bright People, No. 50: Eisenhower"
 translated: false
 ---
@@ -57,7 +57,7 @@ For now, I intend to continue eating nuts; they are delicious, if [high fat](htt
 
 - Dan Gollub says:
 There’s an article at sciencedaily.com noting that if pregnant women eat peanuts that won’t result in the offspring being allergic to peanuts, and the opposite may be true.
-[**December 29, 2013, 5:51 pm**](/posts/2013-12-27-nuttiness-in-the-health-news/)
+[**December 29, 2013, 5:51 pm**](/fred-pohl/2013-12-27-nuttiness-in-the-health-news/)
 
 [WordPress](https://web.archive.org/web/20160416225108/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416225108/http://dicksmithsoftware.com/)

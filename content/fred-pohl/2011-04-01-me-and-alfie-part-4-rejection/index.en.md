@@ -4,9 +4,9 @@ date: 2011-04-01
 categories: ["Authors", "Books", "Miscellaneous", "Personal", "Travel", "Writing"]
 tags: ["Advertising", "Agents", "Alfred Bester", "C.M. Kornbluth", "Editors", "Frederic Wakeman", "Horace L. Gold", "Ian and Betty Ballantine", "Italy", "New York", "Prozines", "Publishing", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20220201000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-4-rejection/"
-prev_post_url: "/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
+prev_post_url: "/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
 prev_post_title: "Me and Alfie, Part 3: Ideas andThe Demolished Man"
-next_post_url: "/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
+next_post_url: "/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
 next_post_title: "Me and Alfie, Part 5: Collaboration and the Futurians"
 translated: false
 ---
@@ -72,7 +72,7 @@ And I said, “There’s no way I can do that. I have a full-time job with the a
 And he said, “I don’t care whether you can do it or not, the printers will be waiting.”
 
 
-So I went back to my home in New Jersey where my old friend [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), with whom I’d written a lot of stories before, was staying with me. He read over the part I’d written, the first third or so and said, “Yeah, yeah, we can do something with that.” So he rewrote that and added some, and I rewrote that and added some, and we barely got it into print, but actually the first part was being set before the last was written.
+So I went back to my home in New Jersey where my old friend [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/), with whom I’d written a lot of stories before, was staying with me. He read over the part I’d written, the first third or so and said, “Yeah, yeah, we can do something with that.” So he rewrote that and added some, and I rewrote that and added some, and we barely got it into print, but actually the first part was being set before the last was written.
 
 
 Bester: My God, you were living dangerously, Fred!
@@ -99,7 +99,7 @@ Bester: So was *The Demolished Man,* sir! It was bounced by everybody.
 Pohl: Well, I think it’s the same story.
 
 
-So, there was no publisher left to offer it to. Then [**Ian Ballantine**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/) started up his own company, and he was so inexperienced as a publisher that he didn’t know this was unpublishable. So he published it! You know, it’s been translated into 45 languages now.
+So, there was no publisher left to offer it to. Then [**Ian Ballantine**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/) started up his own company, and he was so inexperienced as a publisher that he didn’t know this was unpublishable. So he published it! You know, it’s been translated into 45 languages now.
 
 
 Bester: It shows you, the greatest books in the world can be bounced by anybody. Look at Fred’s!  The greatest science fiction novel of all time. Bounced by everybody! It’s preposterous!
@@ -110,31 +110,31 @@ Bester: It shows you, the greatest books in the world can be bounced by anybody.
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Part 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 5 Comments
 
 - [Richard](https://web.archive.org/web/20170707054351/http://estoreal.blogspot.com/) says:
 The repartee is terrific.  I’m so envious of the audience at that cinema in Newcastle!
-[**April 1, 2011, 3:24 am**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**April 1, 2011, 3:24 am**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - David B. Williams says:
 Hilarious. Reminds me of Dune. Poor Frank Herbert couldn’t find a book publisher for several years after the magazine serialization, until he finally sold it to a company that specialized in printing catalogues or something. Then the paperback editions, the sequels, and the estate in Hawaii.
-[**April 1, 2011, 8:55 am**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**April 1, 2011, 8:55 am**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - Mike Goldberg says:
 More, please!
-[**April 2, 2011, 8:41 am**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**April 2, 2011, 8:41 am**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - [Michael Walsh](https://web.archive.org/web/20170707054351/http://www.oldearthbooks.com/) says:
 @David B Williams: Dune was acquired by Chilton, publisher of primarily automotive repair manuals.  They also published “Wild and Outside” – an SF baseball novel by Allen Kim Lang.  
 The description from the publisher: “A hilarious blend of baseball, exobiology, extra-terrestrial ethnology, slam-bang adventure, and pure fun — the story of baseball’s introduction to an alien planet.”
 I may be wrong, but I think he was an editor at Chilton.
-[**April 2, 2011, 12:15 pm**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**April 2, 2011, 12:15 pm**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - Lars says:
 I’ve thought for a long time that “The Space Merchants” is the finest libertarian SF novel ever written. 
 Not in the sense that libertarians would like, of course. More like “We” of “1984” are quintessential collectivist novels – showing the logical outcomes of particular ideologies. “The Space Merchants” show what the libertarian right would enable. 
 Still, you’d think that the Prometheus people would be honest enough to reconize Mr. Pohl and Mr. Kornbluth as Grand Masters.
-[**April 4, 2011, 5:07 pm**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**April 4, 2011, 5:07 pm**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 
 [WordPress](https://web.archive.org/web/20170707054351/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707054351/http://dicksmithsoftware.com/)

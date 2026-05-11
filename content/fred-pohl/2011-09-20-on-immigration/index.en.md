@@ -4,9 +4,9 @@ date: 2011-09-20
 categories: ["Miscellaneous"]
 tags: ["Emma Lazarus", "Poetry", "Politics"]
 archive_url: "https://web.archive.org/web/20111005004616/http://www.thewaythefutureblogs.com/2011/09/on-immigration/"
-prev_post_url: "/posts/2011-09-16-big-thinks/"
+prev_post_url: "/fred-pohl/2011-09-16-big-thinks/"
 prev_post_title: "Big Thinks"
-next_post_url: "/posts/2011-09-22-a-little-more-about-jack-robins/"
+next_post_url: "/fred-pohl/2011-09-22-a-little-more-about-jack-robins/"
 next_post_title: "A Little More About Jack Robins"
 translated: false
 ---
@@ -43,13 +43,13 @@ If that isn’t our policy, what sort of hypocrites are we?
 
 - John Traylor says:
 What lovely words. How I wish we could live up to them, but alas from my reading of American history they are pretty much hollow words. First the English settlers weren’t too fond of the Germans, then neither liked the Irish and so it seems to go.
-[**September 20, 2011, 6:26 am**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 6:26 am**](/fred-pohl/2011-09-20-on-immigration/)
 - PJ says:
 I’ve wondered that before too… why do we have immigration policy at all?  Let whoever wants to show up, do so, and once they’ve established residency, treat them like citizens. Possibly pro-rate any fiscal benefits on their residency date. Why not?
-[**September 20, 2011, 8:39 am**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 8:39 am**](/fred-pohl/2011-09-20-on-immigration/)
 - David B. Williams says:
 The usual sort, I suppose. But this is 2011, not 1811. I’m all for continued immigration, but some kind of controls are needed or we’d be getting 30 million a year to add to our own now-teeming wretched and poor.
-[**September 20, 2011, 9:30 am**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 9:30 am**](/fred-pohl/2011-09-20-on-immigration/)
 - Walt G says:
 Someones knockin at the door  
 
@@ -62,7 +62,7 @@ Somebodys ringin the bell
 Do me a favor,  
 
 Open the door and let em in
-[**September 20, 2011, 9:39 am**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 9:39 am**](/fred-pohl/2011-09-20-on-immigration/)
 - [A.R.Yngve](https://web.archive.org/web/20111005004616/http://aryngve.com/) says:
 To be fair, xenophobia is a universal sin.  
 
@@ -72,29 +72,29 @@ Bill Bryson said, in his wonderful book MADE IN AMERICA:
 
 Succeeding generations of Americans have persuaded themselves that the country faced imminent social dislocation and eventual ruin, at the hands of grasping foreign hordes pouring into ports or across its borders.”
 Plus ca change…
-[**September 20, 2011, 11:00 am**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 11:00 am**](/fred-pohl/2011-09-20-on-immigration/)
 - [Don Sakers](https://web.archive.org/web/20111005004616/http://www.scatteredworlds.com/) says:
 Perhaps the conservatives interpret “Golden Door” to mean “those who have enough gold can come through the door.”
-[**September 20, 2011, 12:29 pm**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 12:29 pm**](/fred-pohl/2011-09-20-on-immigration/)
 - H. E. Parmer says:
 To borrow a phrase from the Nixon administration, “That statement is no longer operative.”
 If it ever was. There were certainly right and wrong classes of huddled masses, “right” being white, West European, and Protestant, and “wrong” being pretty much everyone else. 
 Besides, open borders are just so 20th Century: Welcome to the Brave New World of 20% unemployment and Fortress America.
-[**September 20, 2011, 3:14 pm**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 3:14 pm**](/fred-pohl/2011-09-20-on-immigration/)
 - [Stefan Jones](https://web.archive.org/web/20111005004616/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Heaving America’s traditions of tolerance, generosity, and social progress overboard seems to be the new mode.
 Seething in a stew of resentment, suspicion, and fear is so much easier. And politically useful.
-[**September 20, 2011, 5:10 pm**](/posts/2011-09-20-on-immigration/)
+[**September 20, 2011, 5:10 pm**](/fred-pohl/2011-09-20-on-immigration/)
 - Indi says:
 We still have one of the most liberal immigration policies on the planet, don’t we? Even getting around the  official process is still pretty easy. I can’t think of another country where just being born there automatically makes you a citizen. Forget the politics and the bigotry, the face of this country has always been changing and always will.
-[**September 24, 2011, 1:40 am**](/posts/2011-09-20-on-immigration/)
+[**September 24, 2011, 1:40 am**](/fred-pohl/2011-09-20-on-immigration/)
 - Jay Borcherding says:
 In fairness, a more rational immigration policy makes sense.  Our current system over-values family reunifications–a single legal immigrant might chain-migrate dozens of aunts, uncles, and cousins, none of whom possesses a college education–while a person on a student visa with a newly minted PhD in engineering might be forced to return home.
 Immigration has a moral and ethical component, and I support generous asylum policies for refugees.  Pakistani atheists, for example, have a good case that their beliefs put them in mortal danger.  But overall, our immigration policy should be based on our national interest.  If that means favoring highly educated people over the ‘huddled masses’, I see no reason to be ashamed–nations like Canada and Australia balance their immigration policy in that manner, and we should do the same.
-[**September 28, 2011, 5:12 am**](/posts/2011-09-20-on-immigration/)
+[**September 28, 2011, 5:12 am**](/fred-pohl/2011-09-20-on-immigration/)
 - bruce says:
 No decent person could object to importing a semi-legal helot class for the purpose of lowering the prevailing wage (Hi Republicans) and providing ward-heelers with clients (Hi Democrats). Especially when this result is not speculation, but observed since 1986.
-[**September 30, 2011, 4:31 pm**](/posts/2011-09-20-on-immigration/)
+[**September 30, 2011, 4:31 pm**](/fred-pohl/2011-09-20-on-immigration/)
 
 [WordPress](https://web.archive.org/web/20111005004616/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111005004616/http://dicksmithsoftware.com/)

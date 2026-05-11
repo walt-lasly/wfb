@@ -4,9 +4,9 @@ date: 2011-07-12
 categories: ["Authors"]
 tags: ["H.G. Wells", "Jack Williamson", "Joseph D. Olander", "Martin H. Greenberg"]
 archive_url: "https://web.archive.org/web/20131201000000/http://www.thewaythefutureblogs.com/2011/07/martin-harry-greenberg/"
-prev_post_url: "/posts/2011-07-11-yellowstone-on-the-isle-of-capri/"
+prev_post_url: "/fred-pohl/2011-07-11-yellowstone-on-the-isle-of-capri/"
 prev_post_title: "Yellowstone on the Isle of Capri"
-next_post_url: "/posts/2011-07-18-donald-a-wollheim-at-seventeen/"
+next_post_url: "/fred-pohl/2011-07-18-donald-a-wollheim-at-seventeen/"
 next_post_title: "Donald A. Wollheim (At Seventeen)"
 translated: false
 ---
@@ -44,7 +44,7 @@ Marty didn’t seem to mind, or even to think it strange that a car driver shoul
 That put a quite different complexion on some of the things both Dr. Greenberg and Dr. Olander had been saying.  I listened quite a lot more attentively as they explained some of the details of what they haad in mind.  My speaking invitation, in their plan, was not merely a one-night stand but — they hoped — simply the first step in their campaign for much bigger things.  First was to be the addition of a credit course in science fiction to the curriculum, and then perhaps a year or two later — and this made me sit up straight — they planned on hiring a science-fiction author as a Writer-in-Residence at FIU.  Unspoken but clearly implied was the item that their number one choice on their list for the job was me.
 
 
-Well, in the long run nothing came of that plan, but they had tuned in on a private fantasy of my own.  A few years earlier, while our family financial condition still needed serious amounts of improvement, I had wistfully thought of being one of those Writer-in-Residence creatures myself.  Some hopeful investigating revealed that the prospects were poor.  The only school that sounded like they might want to have me was a little one in, I think, Southern California, about which, my friend [**Jack Williamson**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/) said when I applied to him for advice,  “The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”
+Well, in the long run nothing came of that plan, but they had tuned in on a private fantasy of my own.  A few years earlier, while our family financial condition still needed serious amounts of improvement, I had wistfully thought of being one of those Writer-in-Residence creatures myself.  Some hopeful investigating revealed that the prospects were poor.  The only school that sounded like they might want to have me was a little one in, I think, Southern California, about which, my friend [**Jack Williamson**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/) said when I applied to him for advice,  “The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”
 
 
 Well, if that old wish could finally come true, I thought, it wouldn’t solve any financial problems anyway.  It couldn’t.  Writing having finally proved to be reasonably profitable, I didn’t have any.  Actually I could see that it might even create a few.  I might, for instance, be faced with maintaining two households.  But, on the other hand, it might well be fun.  And Marty Greenberg, a highly admired dean, and Joe Olander, the second highest administrator at the school, were in a good position to make it happen, especially since Florida International already had a Writer-in-Residence, a man whose name I have sadly forgotten but who had written a couple of bestsellers.  His term had another year or so to run, but then it would be possible, they planned, to have me replace him.
@@ -100,25 +100,25 @@ Joe sniffed.  “You don’t recognize our patron saint?  You’ve just been awa
 - [Joe Iriarte](https://web.archive.org/web/20160416222957/http://joeicarus.blogspot.com/) says:
 That’s a great story! 😀
 One tiny nerdish quibble: Alligator Alley doesn’t run between the airport and FIU. Alligator Alley is between Miami and the Naples/Fort Myers area.
-[**July 12, 2011, 1:28 am**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 12, 2011, 1:28 am**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20160416222957/http://beamjockey.livejournal.com/) says:
 *The only school that sounded like they might want to have me was a little one in, I think, Southern California, about which, my friend Jack Williamson said when I applied to him for advice, “The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”*
 Hearing that from somebody who hails from Portales, New Mexico, you’ve *got* to take it seriously.
-[**July 12, 2011, 1:29 pm**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 12, 2011, 1:29 pm**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)
 - Rodney Haydon says:
 This is such a great post, thank you for sharing that great story. I am saddened to hear about the passing of Martin H. Greenberg. I have many anthologies on my shelves that he edited, like the Writers of the 21st Century Series that both Joe Olander and Martin edited. He will be missed.
-[**July 12, 2011, 4:43 pm**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 12, 2011, 4:43 pm**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)
 - JohnArmstrong says:
 There is one overwhelming advantage to living a long time, despite all of the disadvantages and random humiliations of the failing body – you meet some pretty damned nice people
-[**July 13, 2011, 7:12 pm**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 13, 2011, 7:12 pm**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)
 - Kelly says:
 Herbert!  Herbert!  Herbert!
 (sorry, Trek flashback)
-[**July 13, 2011, 11:25 pm**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 13, 2011, 11:25 pm**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)
 - H. E. Parmer says:
 I too have a half-dozen or more anthologies edited by Mr. Greenberg, sitting on my bookshelves. Thanks for this glimpse at the man behind the name. He obviously had good taste in friends, as well as SF.
-[**July 15, 2011, 1:02 am**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 15, 2011, 1:02 am**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)
 - Indi says:
 “The only thing that part of the world had that was worth having was underground, and they pumped it out and sold it long ago.”
 Don’t forget the beautiful So Cal weather. I’ve enjoyed visiting most areas of the country but I’ve always enjoyed getting back home.
-[**July 16, 2011, 1:54 am**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/)
+[**July 16, 2011, 1:54 am**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/)

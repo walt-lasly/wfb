@@ -4,9 +4,9 @@ date: 2011-10-01
 categories: ["Books"]
 tags: ["Leigh Ronald Grossman"]
 archive_url: "https://web.archive.org/web/20210401000000/http://www.thewaythefutureblogs.com/2011/10/a-wonderful-but-barely-legible-book/"
-prev_post_url: "/posts/2011-09-22-a-little-more-about-jack-robins/"
+prev_post_url: "/fred-pohl/2011-09-22-a-little-more-about-jack-robins/"
 prev_post_title: "A Little More About Jack Robins"
-next_post_url: "/posts/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
+next_post_url: "/fred-pohl/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
 next_post_title: "Oh, Good!  The Computers Have Come!No More Worries, Ever!"
 translated: false
 translator: "Yandex"
@@ -47,11 +47,11 @@ translator: "Yandex"
 Спасибо за добрые слова. Действительно, очень скоро появится электронная версия.
 Большая часть текста набрана очень мелким шрифтом - в 8 пунктов, хотя и с короткими столбцами, чтобы он был удобочитаемым. Идея состояла в том, чтобы вместить как можно больше историй и при этом сделать книгу недорогой для студентов колледжа, которые станут ее основной аудиторией. К счастью, у них глаза 20-летних; я подумал, что они были бы рады получить учебник за 50 долларов мелким шрифтом, а не за 150 долларов крупным. Примерно в 2 миллионах слов, я думаю, это самая большая однотомная антология НФ в мире.
 Я хочу еще раз поблагодарить вас за ваш вклад в книгу, как прямой (рассказ и выдержки из блога, которые вы любезно разрешили использовать), так и косвенный (огромную “наставническую” роль, которую сыграли многие книги и журналы, которые вы редактировали, в том, как я подошел к редактированию этой книги). Я хотел передать взаимосвязь между написанием, редактированием и фэндом, которая так важна для этой области, но, как правило, упускается из виду в других текстах НФ.
-[**1 октября 2011, 14:06**](/posts/2011-10-01-a-wonderful-but-barely-legible-book/)
+[**1 октября 2011, 14:06**](/fred-pohl/2011-10-01-a-wonderful-but-barely-legible-book/)
 - Мегазверь говорит:
 Предложенные теги, безусловно, кое-что значат.
 Книга сама по себе звучит великолепно, но, похоже, она действительно нуждается в издании на Kindle. Спасибо вам.
-[** 1 октября 2011 года, 17:52 вечера**](/posts/2011-10-01-a-wonderful-but-barely-legible-book/)
+[** 1 октября 2011 года, 17:52 вечера**](/fred-pohl/2011-10-01-a-wonderful-but-barely-legible-book/)
 
 [WordPress](https://web.archive.org/web/20111004133811/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111004133811/http://dicksmithsoftware.com/)

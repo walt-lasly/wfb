@@ -4,9 +4,9 @@ date: 2011-08-18
 categories: ["Miscellaneous"]
 tags: ["Alden H. Norton", "Aleck Portegal", "Editors", "Harry Steeger", "Prozines", "Publishing", "Pulps"]
 archive_url: "https://web.archive.org/web/20170620023231/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-6-deadlines/"
-prev_post_url: "/posts/2011-08-16-popular-publications-part-5-there-and-back-again/"
+prev_post_url: "/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/"
 prev_post_title: "Popular Publications, Part 5: There and Back Again"
-next_post_url: "/posts/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
+next_post_url: "/fred-pohl/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
 next_post_title: "Bright Sayings of Bright People, No. 19: Hemingway"
 translated: false
 ---
@@ -61,34 +61,34 @@ That, remember, is for just one of the dozen or so in our department.
 
 **Related posts:**
 
-- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- **Popular Publications**, [**Part 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [**Part 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 7 Comments
 
 - David B. Williams says:
 Bah, offset printing was the beginning of the decline of civilization. I’m glad I was born early enough to edit a magazine with type set on a linotype machine and the page forms printed on a proper flatbed press.
-[**August 18, 2011, 9:45 am**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 18, 2011, 9:45 am**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - H. E. Parmer says:
 “I love deadlines. I like the whooshing sound they make as they fly by.”
 Douglas Adams
-[**August 19, 2011, 2:01 am**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 19, 2011, 2:01 am**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - [Chap O'Keefe](https://web.archive.org/web/20170620023231/http://blackhorsewesterns.com/) says:
 Oh, Mr Williams, how tempting it is to embrace your creed! My own professional career in writing and editing began in the early ’60s as a teenager working in a series of publishing offices in London — central and suburban backstreets thereof. And I can tell many mildly horrific stories not dissimilar to Fred’s. But as I think Fred would agree, we must move with the times if we want to stay in what successively passes for the business. I’ve experienced the introduction of cold type, word processors, computers, direct editorial input (i.e. you took on the composing room’s chores as well as your own), and much more. But I would say that writing fiction, and just about anything else, is much easier now than when we had to cope with clunky, balky typewriters! Currently, I’m tackling the task of retrieving rights and formatting my backlist novels for the Amazon Kindle. Alas, old dogs must learn new tricks unless they intend to remain mired in nostalgia.
-[**August 19, 2011, 3:33 am**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 19, 2011, 3:33 am**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - [Michael Haynes](https://web.archive.org/web/20170620023231/http://www.michaelhaynes.info/) says:
 I just wanted to write a quick note to say how wonderful it is to be able to read these personal retrospectives on the pulp days. Thank you for sharing your experiences with those of us who look back on that time fondly.
-[**August 20, 2011, 6:33 pm**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 20, 2011, 6:33 pm**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - John Traylor says:
 I assume that the text was set on a Linotype machine? When I began in the printing trade everything was hot metal and when I retired everything was digital. Much more comfortable for me as they had to A/C the rooms for the computers. I do think that proof reading was better done in the “old days” than it is today.
-[**August 21, 2011, 7:07 am**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 21, 2011, 7:07 am**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - H. E. Parmer says:
 That’s a great cover illustration, too. 
 Hopefully, the mad scientist who in his blasphemous meddling in Things Man Was Not Meant to Know created this knife-wielding cyborg(?) also had the foresight to obtain a long extension cord. You have no idea how embarassing it is — not to mention anticlimactic — when that damned plug gets yanked out of its socket right at that critical moment.
-[**August 21, 2011, 3:17 pm**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 21, 2011, 3:17 pm**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - LeRoy Pearle says:
 Thanks again! All these anecdotes and reminiscences are better than interesting, they’re valuable to all of us science fiction fans.
-[**August 23, 2011, 6:45 pm**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**August 23, 2011, 6:45 pm**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 
 [WordPress](https://web.archive.org/web/20170620023231/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620023231/http://dicksmithsoftware.com/)

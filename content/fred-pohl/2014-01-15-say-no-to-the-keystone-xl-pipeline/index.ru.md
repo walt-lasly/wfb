@@ -4,9 +4,9 @@ date: 2014-01-15
 categories: ["Miscellaneous"]
 tags: ["Ecology"]
 archive_url: "https://web.archive.org/web/20170901000000/http://www.thewaythefutureblogs.com/2014/01/say-no-to-the-keystone-xl-pipeline/"
-prev_post_url: "/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/"
+prev_post_url: "/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/"
 prev_post_title: "Stumbling Blocks to Persuasive Writing"
-next_post_url: "/posts/2014-01-28-vaccinations-personal-choice-vs-public-health/"
+next_post_url: "/fred-pohl/2014-01-28-vaccinations-personal-choice-vs-public-health/"
 next_post_title: "Vaccinations: Personal Choice vs. Public Health"
 translated: false
 translator: "Yandex"
@@ -48,7 +48,7 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20160416124453/http://www.flickr.com/photos/stefan_e_jones/) говорит:
 И... основное назначение трубопровода - доставка нефти на побережье Мексиканского залива для экспорта. Это должно принести пользу *канадской* нефтяной промышленности.
 А Канада... наш некогда замечательный и здравомыслящий сосед превращается в коррумпированное нефтяное государство.
-[**15 января 2014 г., 10:50 вечера**](/posts/2014-01-15-say-no-to-the-keystone-xl-pipeline/)
+[**15 января 2014 г., 10:50 вечера**](/fred-pohl/2014-01-15-say-no-to-the-keystone-xl-pipeline/)
 
 [WordPress](https://web.archive.org/web/20160416124453/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416124453/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-11-01
 categories: ["Authors"]
 tags: ["Agents", "Artists", "Carmine Infantino", "Charles N. Brown", "Clubs", "Comics", "Editors", "Elizabeth Anne Hull", "Fanzines", "Gardner Fox", "Julius Schwartz", "Mort Weisinger", "New York", "Pulps", "Science Fiction League", "World War II"]
 archive_url: "https://web.archive.org/web/20150601000000/http://www.thewaythefutureblogs.com/2011/11/julie-schwartz/"
-prev_post_url: "/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/"
+prev_post_url: "/fred-pohl/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/"
 prev_post_title: "Do You Enjoy Eating a Victim of Torture?"
-next_post_url: "/posts/2011-11-03-how-to-publish-a-fanzine/"
+next_post_url: "/fred-pohl/2011-11-03-how-to-publish-a-fanzine/"
 next_post_title: "How to Publish a Fanzine"
 translated: false
 ---
@@ -29,7 +29,7 @@ King of the Comics and Agent, Editor, Faaan
 The thing about [Julius Schwartz](https://web.archive.org/web/20120103205604/http://www.toonopedia.com/schwartz.htm) is that, while I myself did many things in that Early Paleozoic Era when there were no jet aircraft or nuclear submarines and people didn’t even have TV sets yet, Julie Schwartz was doing the same things even earlier than I did.
 
 
-For instance, I joined my first science-fiction fan club, the Brooklyn [**Science Fiction League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/), in 1932, but Julie had joined the first science-fiction fan club that  ever existed, the New York [Scienceers](https://web.archive.org/web/20120103205604/http://fanac.org/timebinders/scienceers.html), years before that. I edited my first fanzine (we didn’t call them that yet, just “fan magazine”) when I was twelve.  So did Julie.  But he was twelve before I was, due to his unfair advantage of having been born four or five years earlier.
+For instance, I joined my first science-fiction fan club, the Brooklyn [**Science Fiction League**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/), in 1932, but Julie had joined the first science-fiction fan club that  ever existed, the New York [Scienceers](https://web.archive.org/web/20120103205604/http://fanac.org/timebinders/scienceers.html), years before that. I edited my first fanzine (we didn’t call them that yet, just “fan magazine”) when I was twelve.  So did Julie.  But he was twelve before I was, due to his unfair advantage of having been born four or five years earlier.
 
 
 And both of us had set ourselves up as literary agents, specializing in trying to sell other writers’ stories to the science-fiction magazines, and both of us coasted from that to actual full-time jobs editing —
@@ -38,7 +38,7 @@ And both of us had set ourselves up as literary agents, specializing in trying t
 Hey, wait!  I was going to say that we then coasted into  full-time jobs as professional magazine editors.  And that did happen for both of us, but I’m getting the facts wrong, because that was the one time that I led the way for Julie.
 
 
-I broke in in 1939, when I lucked into the job of editing two science-fiction magazines, Astonishing Stories and Super Science Stories, for [Harry Steeger’s](https://web.archive.org/web/20120103205604/http://homepage.mac.com/cdkalb/spider/legend/steeger.html) giant pulp house of [**Popular Publications**](/posts/2011-05-26-rolling-back-the-years-popular-publications/).  Julie not only was still making his rounds as a literary agent at that time, I actually bought a number of stories from him for my magazines.  He didn’t get the chance to make the jump to an editorial job, with an actual salary, until 1944.  Then he was hired as an editor by a company that published comics magazines which ultimately mutated into the mighty [DC Comics](https://web.archive.org/web/20120103205604/http://www.dccomics.com/).
+I broke in in 1939, when I lucked into the job of editing two science-fiction magazines, Astonishing Stories and Super Science Stories, for [Harry Steeger’s](https://web.archive.org/web/20120103205604/http://homepage.mac.com/cdkalb/spider/legend/steeger.html) giant pulp house of [**Popular Publications**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/).  Julie not only was still making his rounds as a literary agent at that time, I actually bought a number of stories from him for my magazines.  He didn’t get the chance to make the jump to an editorial job, with an actual salary, until 1944.  Then he was hired as an editor by a company that published comics magazines which ultimately mutated into the mighty [DC Comics](https://web.archive.org/web/20120103205604/http://www.dccomics.com/).
 
 
 Oh, and there was another significant difference in our careers.  By 1944, I wasn’t working for Popular Publications anymore, anyway.  A war had come along and it required me to get into uniform so I could give it my full attention.  I never did go back to working for Popular Publications, either.
@@ -109,45 +109,45 @@ And for how many people can any of us make that same claim?
 - [Robert Nowall](https://web.archive.org/web/20120103205604/http://www.robertnowall.com/) says:
 I’ve read some comics but never been a big fan—not like SF.  But I picked up Julius Schwartz’s memoirs, and was impressed by his comment that, late in life at (I think) the World Fantasy Convention, he was the only one there who had known H. P. Lovecraft personally.  (Not just that, but he was his agent, too.)
 The whole memoir, much like “The Way the Future Was,” was a fun read…
-[**November 1, 2011, 7:43 am**](/posts/2011-11-01-julie-schwartz/)
+[**November 1, 2011, 7:43 am**](/fred-pohl/2011-11-01-julie-schwartz/)
 - [Michael Rawdon](https://web.archive.org/web/20120103205604/http://www.fascinationplace.org/) says:
 I saw Julie at a science fiction convention in the late 90s, where he mostly talked about his days as an agent for SF writers.  He easily filled the hour-plus of the panel, and probably would have just kept going if the next panel hadn’t kicked us out of the room.  If I recall correctly, he said he sold Ray Bradbury’s first story?  And also that he recruited Alfred Bester to write Green Lantern, where Bester came up with the familiar oath for the character.
 I could probably go look all this up, since I recall that most of his talk went into his later autobiography, Man of Two Worlds, but of course my copy of that is at home and I’m at work!
 I do remember him talking up Bester’s novels, and for reasons I don’t recall he picked on me to ask if I’d read them (maybe that’s what I get for sitting in the front row), which I hadn’t.  He admonished me to go read them, so I did, and The Demolished Man is now one of my favorite novels.
 That’s the only time I ever saw him, but he was so much fun I always urged my fannish friends to go see him speak if they ever had a chance to do so.
-[**November 1, 2011, 12:45 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 1, 2011, 12:45 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 - [Stefan Jones](https://web.archive.org/web/20120103205604/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Julie Schwartz was a regular at I-Con, a campus SF convention I frequently volunteered at. Great guy, as I recall. (We also had Sam Moskowitz and Raymond Z. Gallun out many times.)
 I once walked Schwartz and Stan Lee to my car for a ride back to the hotel. It was fun hearing them banter. At one point I addressed Lee as “Mr. Lee,” and they both laughed. Still kids at heart, I guess!
-[**November 1, 2011, 12:49 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 1, 2011, 12:49 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 - [Kurt Busiek](https://web.archive.org/web/20120103205604/http://www.busiek.com/) says:
 One minor correction:
 Julie was never editor-in-chief at DC. I don’t think they ever had anyone with that title until recently, actually, but back in 1986, when Julie retired, the equivalent was Dick Giordano, who was VP/Executive Editor, and in charge of the whole editorial department.
 But Julie was certainly the longest-tenured and most-respected editor there, and it was always a treat to see him at cons thereafter as DC’s “goodwill ambassador.”
-[**November 1, 2011, 1:14 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 1, 2011, 1:14 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 - CaitieCat says:
 What better legacy can a human leave, than being loved by other humans?  Thanks for this loving portrait, sir.
-[**November 2, 2011, 2:46 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 2, 2011, 2:46 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 - JohnArmstrong says:
 Did Julie ever suggest you might write some comics? DC had several long-running sf anthology books -
-[**November 2, 2011, 4:41 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 2, 2011, 4:41 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 - Jay Borcherding says:
 While I enjoy all of Fred’s reminiscences, this one struck me as particularly poignant. 
 It is hard to say precisely why, as I’d never heard of Julie previously, and as he evidently lived a long and happy life.  Best to chalk it up to the sweetness of the subject and the deft and sensitive writing of Mr. Pohl. 
 Thank you, Fred.
-[**November 5, 2011, 3:01 am**](/posts/2011-11-01-julie-schwartz/)
+[**November 5, 2011, 3:01 am**](/fred-pohl/2011-11-01-julie-schwartz/)
 - Kim Gibbs says:
 Another small correction, Weisinger started at DC in 1941 with a break from around 1942 to 1946 while he served in the army.  So Schwartz actually followed Weisinger.
-[**November 5, 2011, 10:30 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 5, 2011, 10:30 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 - [Rich Lynch](https://web.archive.org/web/20120103205604/http://www.jophan.org/mimosa/) says:
 I\’m not entirely sure that The Scienceers was the first-ever science fiction fan club.  From what I\’ve read it dates back to 1930, but so does another New York fan club, the Science Correspondence Club (which is credited with publication of the first science fiction fanzine, The Comet).
-[**November 6, 2011, 10:53 am**](/posts/2011-11-01-julie-schwartz/)
+[**November 6, 2011, 10:53 am**](/fred-pohl/2011-11-01-julie-schwartz/)
 - Keith Ray says:
 Julius Schwarz’s vacation slides from the comic “Son of Ambush Bug #6″:  
 (quote from [http://www.fourhman.com/ambushbug/](https://web.archive.org/web/20120103205604/http://www.fourhman.com/ambushbug/))
 “FEB 08 04: Julius Schwartz - comic book legend and one of the architects of DC’s Silver Age - has passed away at the age of 88. Julie was Ambush Bug’s editor during his heyday and was often featured in the books. We salute you, Julie. You are missed. (So let’s all take one last look at Julie’s vacation slides!)\"
 [http://www.fourhman.com/ambushbug/julie-vaca.htm](https://web.archive.org/web/20120103205604/http://www.fourhman.com/ambushbug/julie-vaca.htm)
-[**November 7, 2011, 3:21 pm**](/posts/2011-11-01-julie-schwartz/)
+[**November 7, 2011, 3:21 pm**](/fred-pohl/2011-11-01-julie-schwartz/)
 
 [WordPress](https://web.archive.org/web/20120103205604/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20120103205604/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-08-31
 categories: ["Authors"]
 tags: ["Alden H. Norton", "David Goodis", "Editors", "Frank A. Munsey", "Mary Gnaedinger", "Prozines", "Publishing", "Pulps", "Robert J. Hogan"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-7-the-beginning-of-the-end/"
-prev_post_url: "/posts/2011-08-30-how-to-mark-your-place-with-me-for-company/"
+prev_post_url: "/fred-pohl/2011-08-30-how-to-mark-your-place-with-me-for-company/"
 prev_post_title: "How to Mark Your Place (With Me  for Company!)"
-next_post_url: "/posts/2011-09-03-hannes-bok-futurian-artist-in-chief/"
+next_post_url: "/fred-pohl/2011-09-03-hannes-bok-futurian-artist-in-chief/"
 next_post_title: "Hannes Bok: Futurian Artist in Chief"
 translated: false
 ---
@@ -54,7 +54,7 @@ We were all too well brought up to hurt his feelings, so none of us laughed unti
 
 **Related posts:**
 
-- **Popular Publications**, [**Part 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+- **Popular Publications**, [**Part 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [**Part 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [**Part 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 
 
 ### 2 Comments
@@ -62,11 +62,11 @@ We were all too well brought up to hurt his feelings, so none of us laughed unti
 - David B. Williams says:
 I marvel that any publisher would rely on one writer to produce all the copy in each issue of a magazine. Talk about all your eggs in one basket. One stray lightning bolt and your magazine in kaput.
 But I’m glad they maintained FFM. I fondly recall myself as a young teen in the early 1960s, reading fantasy classics in tattered, funky copies of FFM from the late ’40s. The Ship of Ishtar!
-[**August 31, 2011, 1:17 pm**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+[**August 31, 2011, 1:17 pm**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 - [Stefan Jones](https://web.archive.org/web/20111005025920/http://home.comcast.net/~stefan_jones/dead_ray.jpg) says:
 David:
 After reading about the pulp industry in Frederik’s posts . . . I bet management would promote an especially bright mail boy to editor before the smell of ozone had cleared up!
-[**August 31, 2011, 9:50 pm**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+[**August 31, 2011, 9:50 pm**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 [WordPress](https://web.archive.org/web/20111005025920/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111005025920/http://dicksmithsoftware.com/)

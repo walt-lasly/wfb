@@ -4,9 +4,9 @@ date: 2011-11-30
 categories: ["Miscellaneous"]
 tags: ["Grover Norquist", "Politics"]
 archive_url: "https://web.archive.org/web/20111225072548/http://www.thewaythefutureblogs.com/2011/11/lets-pull-grover-norquists-teeth/"
-prev_post_url: "/posts/2011-11-26-my-birthday-wish-for-america/"
+prev_post_url: "/fred-pohl/2011-11-26-my-birthday-wish-for-america/"
 prev_post_title: "My Birthday Wish for America"
-next_post_url: "/posts/2011-12-05-god-bless-the-occupiers/"
+next_post_url: "/fred-pohl/2011-12-05-god-bless-the-occupiers/"
 next_post_title: "God Bless the Occupiers!"
 translated: false
 ---
@@ -74,50 +74,50 @@ Accordingly, I now pledge that I, the undersigned, will never again vote for any
 Please note that Mr. Pohl’s letter doesn’t include the words “Democrat”, “socialism,” or any of the hot-buttons that infuriated the folks in the last post.
 The alternative to “Republican” could be Libertarian, Independent, the Constitution Party, or the Very Silly Party.
 This is about opposing a pledge based on ideological purity and the threats of one unelected power-lobbyist.
-[**November 30, 2011, 10:48 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**November 30, 2011, 10:48 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Jay Borcherding says:
 It is tempting to throw one’s hands up and say that the US had a good run, but it is time to dissolve the union.  The red state yahoos can have the ultra-low-tax Christ-centered theocracy they yearn for, and the rest of us can become a normal nation like Canada, with sensible government services and sensible tax regimes to pay for them.   
 So long as the split was accomplished peacefully, and both sides retained a credible defensive deterrent (I wouldn’t want the New Confederacy to get all the nukes), I see it as a win-win.
-[**November 30, 2011, 11:38 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**November 30, 2011, 11:38 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Robert Nowall](https://web.archive.org/web/20111225072548/http://www.robertnowall.com/) says:
 Yeah, right.  First it was the Koch brothers, and now it’s Grover Norquist.  You liberals have to find an evil-hearted villain in the unlikeliest of candidates, and when that one fails to measure up, it’s on to the next one.
 As for raising taxes…I work hard for my money, and I don’t see why I should have to give a greater and greater share of it to the government so they can throw it down a sewer.  I could go outside and throw dollars down the sewer myself if I wanted to.
-[**December 1, 2011, 9:02 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 9:02 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - mark says:
 Luckily for us liberals, there are no end of evil-hearted villains on the republican side for us to find.  
 And…hypocrisy much?  Like the right didn’t demonize ACORN, Soros, Gore, and virtually any other figure on the left.  That Obama!  He ate ARIGULA!!  
 Also, please stop using that sewer. I paid for it with my hard-earned money and the taxes I pay for such services.
-[**December 1, 2011, 12:14 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 12:14 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Jeff says:
 If Grover has his way, we won’t have a sewer to throw money down. Instead, we’ll have cholera, and an army.
 If Grover is so opposed to taxes, let him put his money where his mouth is and refuse to pay another dime to the government. He should lead by example.
-[**December 1, 2011, 12:57 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 12:57 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Don Sakers](https://web.archive.org/web/20111225072548/http://www.scatteredworlds.com/) says:
 > I could go outside and throw dollars down the sewer  
 
 > myself if I wanted to.
 …And what do you think paid for that sewer? Answer: Tax money.
-[**December 1, 2011, 1:46 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 1:46 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Andrew Hickey](https://web.archive.org/web/20111225072548/http://andrewhickey.info/) says:
 Actually, Robert, you couldn’t throw your money down the sewer if the sewer were not funded by taxes. That’s kind of the point.  
 
 Also, you’re not ‘giving a greater and greater share to the government’ - income tax rates in the US are lower than at any time since the 1940s (there was a six year period from 1986 to 1992 when they were lower for the top earners, but this was made up by taxing middle and lower earners more). You might, of course, be paying a lot to your State government, but Mr Pohl was clearly talking about Federal government.  
 
 But other than everything you said being utterly wrong in every detail, you’re quite right…
-[**December 1, 2011, 8:46 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 8:46 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Jay Borcherding says:
 @ Mr. Nowall.  Uh-huh.  And right-wingers don’t have a long laundry list of evil-hearted villains?  
 Let’s see:  immigrants; gays; secular humanists and atheists; welfare queens; Barney Frank; FDR; socialists; Muslims; trial lawyers; intellectuals; feminists; Bill and Hillary Clinton; liberals; the mainstream media; Michael Moore; Planned Parenthood; gun-control advocates; criminals; potheads; hippies; academia (particularly elite institutions); Hollywood; rappers; communists; Al Franken; Harry Reid; Nancy Pelosi; Barack and Michelle Obama; bureaucrats; organized labor (particularly public sector unions); the UN; The New York Times; Dan Rather; Richard Dawkins; Charles Darwin; abortionists; Fred Pohl; and etc.
 Hypocrisy is such a charming quality.
-[**December 1, 2011, 9:28 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 9:28 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - SM says:
 I forgot to say it last time, Mr. Pohl, but happy birthday!  Its an honour to be able to listen to the perspective of someone who\’s experienced so much and met so many interesting people.  I had the pleasure of finding a copy of \"The Space Merchants\" in a used book store recently after a move that cost me most of my fiction collection.
-[**December 1, 2011, 11:29 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 1, 2011, 11:29 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Goljerp says:
 Robert: The thing is, the current anti-tax pledge isn’t just “no tax increase on the hard working middle class or below”.  It’s “no tax increase on billionaire hedge-funders”, “no tax increase on corporations getting huge tax breaks and then causing ecological disasters”, etc.
 And do you really, truly, think that *everything* the government does is useless?  You don’t ever drive on a highway?  You didn’t go to school?  You don’t want the fire department to put out a fire, should one ever happen in your house?
 The current anti-tax pledge isn’t just about cutting government waste.  It’s about shutting things down altogether.  The billionaire hedge-funders don’t really care; they can just move to another home easily if the United States goes down the toilet.  Can you?
-[**December 2, 2011, 6:52 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 2, 2011, 6:52 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Walt G says:
 I don’t see anyone trying to govern by force.  
 
@@ -126,41 +126,41 @@ If candidates freely took the pledge they must have thought it a good idea. If i
 If a representative wants to renounce it Norquist’s only weapon is to announce that fact.  
 
 Let the ballot decide.
-[**December 2, 2011, 10:31 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 2, 2011, 10:31 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Owl says:
 I applaud attempts to put an end to political purity tests.  They don’t work, and are blatant invitations to the Law of Unintended Consequences to put in an appearance.  Worst of all, they shut off all higher brain functions.
 Anyone who thinks that taxes should never be raised desperately needs to study history and economics–just for a start.  They shouldn’t begin that study as a member of either house of Congress.
 A recent Congressional special election primary in Oregon gives evidence that Norquist and his ilk are turning off many voters.  Republican Rob Cornilles defeated a candidate who spent debates bashing him over his refusal to sign Norquist’s pledge.  Cornilles’ refusal to back Norquist helped him coast to the GOP nomination.
-[**December 2, 2011, 5:48 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 2, 2011, 5:48 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Rick York says:
 I repeat a quotation from H.L. Mencken which applies here: “…there is always a well-known solution to every human problem - neat, plausible, and wrong.”
 Nordquist’s pledge is fundamentally stupid.
-[**December 2, 2011, 6:14 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 2, 2011, 6:14 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Robert Nowall](https://web.archive.org/web/20111225072548/http://www.robertnowall.com/) says:
 Of course none of these “villains” is the Guy in Charge, as you leftists think Grover Norquist is.  That a guy might disagree with you, and act on his disagreement, makes him in your books a black-hearted villain.
 As for some of the names mentioned, Barney Frank was largely responsible for the mortgage crisis, Planned Parenthood was founded by a bunch of eugenicists, Dan Rather got canned for promoting outright lies based on forged documents, and Al Franken stole an election.  Black-hearted villains?  No, but public nuisances.
 Who’s next, when Norquist fails as your devil?  John Galt?  Emmanuel Goldberg?
-[**December 3, 2011, 9:32 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 3, 2011, 9:32 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Tim says:
 Yup that “EVIL” Grover Norquist has forced Senate Majority Leader Democrat Harry Reid from proposing a budget never mind passing one for about 930 days.  Why do you suppose that is?  Because Reid would have to”get together to work out agreements for the conduct of the country that were fair to everyone.”  Yes he might have to compromise with the Republican majority in the House in order to comply with the Federal Law that we have a budget each year.
-[**December 3, 2011, 5:47 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 3, 2011, 5:47 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Steven says:
 Robert,
 Do you really believe what you just wrote? You just proved Mark and Jay’s points in one post. If you really think that what you just wrote can be supported by facts, please show us “uninformed leftists” (I’m more a “radical Moderate” myself) your sources.
-[**December 4, 2011, 3:20 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 4, 2011, 3:20 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Paula Helm Murray says:
 Happy birthday.
 And I’ll have to make something up.  I have never, ever voted for a Republican in my life and will never do so anyway.  
 And hopefully many voters are starting to see that the Repugs only have the interests of their corporate masters in mind, not the constituents who elected their sorry behinds into office.  We can hope.
-[**December 4, 2011, 8:04 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 4, 2011, 8:04 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Robert Nowall](https://web.archive.org/web/20111225072548/http://www.robertnowall.com/) says:
 Re: Steven: Do your own research.
-[**December 5, 2011, 3:20 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 5, 2011, 3:20 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Steven](https://web.archive.org/web/20111225072548/http://www.mcneese.edu/) says:
 Robert,
 I have done my research. However, in my field, when we make a statement like that, we are also expected to show our sources.
 Steven
-[**December 6, 2011, 3:10 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 6, 2011, 3:10 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Steven](https://web.archive.org/web/20111225072548/http://www.mcneese.edu/) says:
 Robert,
 Here are mine.
@@ -187,7 +187,7 @@ It’s worth mentioning that the three-judge panel selected by Justice Page to o
 On Dan Rather promoting outright lies:
 Again, you are partly right, but that does not make your statement true. If I remember right, he did get (rightfully) lambasted for that one, but that seemed much more a matter of not checking his facts as well as he should have.
 I’ll give you the last one, but you are blatantly wrong on two of them (check MY sources, which I provided), and guilty of overstating the truth on the other two (grossly overstating it on the Planned Parenthood statement, in my book–a journal reviewer would ask you to come up with better evidence than that which I found, and FactCheck.Org and the Annenberg Center for Media in the Public Interest pretty reliably calls both sides of the aisle to issue for lies, overstatements and mis-statements and hire people to do intensive research into such claims).
-[**December 6, 2011, 4:28 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 6, 2011, 4:28 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - [Robert Nowall](https://web.archive.org/web/20111225072548/http://www.robertnowall.com/) says:
 If you insist…
 On Margaret Sanger:
@@ -200,24 +200,24 @@ On Al Franken:
 [http://www.nationalreview.com/articles/227253/minnesota-101/scott-w-johnson?pg=2](https://web.archive.org/web/20111225072548/http://www.nationalreview.com/articles/227253/minnesota-101/scott-w-johnson?pg=2)
 (I review the facts and reject the conclusion.)
 Regrets that I am unable to locate an article that lays out the facts of Dan Rather and Memogate: I am pressed for time today.  This also accounts for my sources being drawn from the pool of National Review Online, but I have examined statements and quotes elsewhere.
-[**December 9, 2011, 11:57 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 9, 2011, 11:57 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Steven says:
 Robert,
 We all have other things on our hands, including research, on my part. Don’t worry, I will come back with others, after I have read your submissions thoroughly. I also review the materials, and come to my own conclusions. However, I also constantly challenge my underlying assumptions…do you? If not, you should seriously consider doing so. Traveling to parts of the world where people operate from a different set of assumptions has forced me to do so. If you have followed Pohl’s greater body of work, you will find that he has done so, which is why I am a fan.
 Steven
-[**December 13, 2011, 4:18 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 13, 2011, 4:18 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Julie says:
 All who signed this Grover Norquist pledge over the past 14 years should be charged with treason!
-[**December 13, 2011, 4:30 pm**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 13, 2011, 4:30 pm**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - TonyC says:
 @Robert Nowall & @Steven, re sources.
 @Robert: your entire list is selected from National Review - a thoroughly right-wing source with an admitted bias.  Nothing wrong with that, in itself. Bias *can* deliver insight. But it most definitely does not comport with a request for sources.  Now that may simply be due to your selection being driven by whatever is closest to hand — but it does demonstrate a significant lack of google-fu.
 Steven provided links to analysts who are recognized by all sides as bias free. Perhaps you would do us the courtesy of providing similarly neutral sources?
-[**December 19, 2011, 10:08 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 19, 2011, 10:08 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 - Ellid says:
 Anyone who draws solely on one source and one source only to justify his/her beliefs is, to put it mildly, misinformed.  That the sole source is a rag like The National Review, which has deteriorated badly since William F. Buckley joined the choir invisible, is just plain pathetic.
 Show us you’ve done some original research, Richard.  All you’ve done so far is be the poster boy for confirmation bias.
-[**December 22, 2011, 9:36 am**](/posts/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
+[**December 22, 2011, 9:36 am**](/fred-pohl/2011-11-30-let-s-pull-grover-norquist-s-teeth/)
 
 [WordPress](https://web.archive.org/web/20111225072548/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111225072548/http://dicksmithsoftware.com/)

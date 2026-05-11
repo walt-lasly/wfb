@@ -4,9 +4,9 @@ date: 2010-12-01
 categories: ["Miscellaneous", "Science"]
 tags: ["Charles Dye", "Clubs", "Ecology", "Fletcher Pratt", "Hydra Club", "Katherine MacLean", "New York"]
 archive_url: "https://web.archive.org/web/20260601000000/http://www.thewaythefutureblogs.com/2010/12/the-high-line/"
-prev_post_url: "/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/"
+prev_post_url: "/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/"
 prev_post_title: "Judith Merril, Part 1: ‘That Only a Mother’"
-next_post_url: "/posts/2010-12-02-judith-merril-part-2-more-motherhood/"
+next_post_url: "/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/"
 next_post_title: "Judith Merril, Part 2: More Motherhood"
 translated: false
 ---
@@ -26,7 +26,7 @@ Frederik Pohl
 The Hydra Club’s Free Private Park That Could Have Been
 
 
-Way back in the day, by which I mean in the years around 1950, the place to go in New York City, if you wanted to meet science fiction authors, was the [**Hydra Club**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/).  (One of these times I’m going to try to write a little piece about the Hydra Club.  This, however, is not yet that time.)
+Way back in the day, by which I mean in the years around 1950, the place to go in New York City, if you wanted to meet science fiction authors, was the [**Hydra Club**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/).  (One of these times I’m going to try to write a little piece about the Hydra Club.  This, however, is not yet that time.)
 
 
 Anyway, the club didn’t have a home of its own.  Our members-only gatherings were usually in someone’s apartment; for more [elaborate events](https://web.archive.org/web/20160429052126/http://picasaweb.google.com/lh/photo/btuMQ75AQL5Bv0ixRWG98w), we rented space from a hotel or from one of the city’s membership clubs.  A few of our members were unhappy with that arrangement, wishing we had a permanent home to call our own, so we could keep things in it.  What kind of things?  Oh, maybe furniture.  Or books.  Anyway, things.  And at one of the members-only gatherings somebody — if I remember correctly, which is not guaranteed, it may have been [Charley Dye](https://web.archive.org/web/20160429052126/http://www.isfdb.org/cgi-bin/ea.cgi?Charles%20Dye),  [Katherine MacLean’s](https://web.archive.org/web/20160429052126/http://www.sfwa.org/archive/awards/2003/KMcL-ae.html) husband — came up with a suggestion.  He knew of a neighborhood where there were a whole bunch of apartments for rent for practically nothing, so if we wanted to sing, or if [Fletcher Pratt](https://web.archive.org/web/20160429052126/http://gcwillick.com/Spacelight/pratt.html) wanted to give us a drum recital, around some midnight, we wouldn’t be disturbing anybody, because nobody lived there to disturb.
@@ -94,37 +94,37 @@ And ain’t nature grand, if you just leave it alone to do what it does best?
 
 **Related posts:**  
 
-[**Lester and Judy-Lynn del Rey**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**Lester and Judy-Lynn del Rey**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 
 
 ### 6 Comments
 
 - krjames says:
 Lovely!  Could serve as the conceptual basis for a neat science fiction story.  (No doubt there are already many SF stories that do, roughly, have this sort of premise — but they don’t spring to mind at the moment.  In any case, this yarn does feel quintessentially SF-nal in its outlook.)
-[**December 1, 2010, 8:02 am**](/posts/2010-12-01-the-high-line/)
+[**December 1, 2010, 8:02 am**](/fred-pohl/2010-12-01-the-high-line/)
 - john miller says:
 Mr Pohl, how long ago was it since you were this prolific?
 A post a day keeps the doctor away?
-[**December 1, 2010, 8:08 am**](/posts/2010-12-01-the-high-line/)
+[**December 1, 2010, 8:08 am**](/fred-pohl/2010-12-01-the-high-line/)
 - [the blog team](https://web.archive.org/web/20160429052126/http://thewaythefutureblogs.com/) says:
-John Miller: Fred writes at least [**four pages a day**](/posts/2010-10-06-fred-s-distilled-writing-wisdom-part-3/), every day. It’s just that we aren’t always so lucky as to have any of them directed toward the blog. Until recently, he was working on a novel, which has now been submitted.
-[**December 1, 2010, 1:49 pm**](/posts/2010-12-01-the-high-line/)
+John Miller: Fred writes at least [**four pages a day**](/fred-pohl/2010-10-06-fred-s-distilled-writing-wisdom-part-3/), every day. It’s just that we aren’t always so lucky as to have any of them directed toward the blog. Until recently, he was working on a novel, which has now been submitted.
+[**December 1, 2010, 1:49 pm**](/fred-pohl/2010-12-01-the-high-line/)
 - [Bill Goodwin](https://web.archive.org/web/20160429052126/http://771715/) says:
 And so we come full circle.  The flowers grow ON the track, but they are not OF it.  Our ideas and experiences appear in a certain sequence, but they are not beholden to time, place or age.
 Thus we are able to comprehend each other.  Thus the universe we percieve becomes a window onto something else.
-[**December 1, 2010, 8:38 pm**](/posts/2010-12-01-the-high-line/)
+[**December 1, 2010, 8:38 pm**](/fred-pohl/2010-12-01-the-high-line/)
 - Jim Flanagan says:
 Fred,  
 
 I thought you\’d like to know that we may have our own version of the High Line here in Chicago. There is an abandoned above grade level (about 1 story up) rail line on the near North side that goes east-west for a couple of miles. It may (I hope) soon become a linear park/bike trail. See:  
 
 [http://www.bloomingdaletrail.org/](https://web.archive.org/web/20160429052126/http://www.bloomingdaletrail.org/)
-[**December 2, 2010, 1:03 am**](/posts/2010-12-01-the-high-line/)
+[**December 2, 2010, 1:03 am**](/fred-pohl/2010-12-01-the-high-line/)
 - [Stefan Jones](https://web.archive.org/web/20160429052126/http://www.flickr.com/photos/stefan_e_jones/) says:
 My aunt and mother (and various step-siblings and close cousins) grew up in the Bronx and Greenwich Village. I’ve been filling them in on things like the High Line and the City Hall subway station.
 The weekend after Thanksgiving they took a trip to Manhattan and convinced a subway driver to let them see the City Hall station*, and hope to see the High Line next summer.
 * [Wonderful pictures](https://web.archive.org/web/20160429052126/http://www.google.com/images?q=city+hall+subway+station&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&ie=UTF-8&source=univ&ei=34H4TPnlCYiesQOh6pCjBA&sa=X&oi=image_result_group&ct=title&resnum=2&ved=0CC8QsAQwAQ&biw=1061&bih=635) of the lost station.
-[**December 2, 2010, 11:37 pm**](/posts/2010-12-01-the-high-line/)
+[**December 2, 2010, 11:37 pm**](/fred-pohl/2010-12-01-the-high-line/)
 
 [WordPress](https://web.archive.org/web/20160429052126/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160429052126/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-04-19
 categories: ["Books"]
 tags: ["Elizabeth Anne Hull", "Terry Bisson"]
 archive_url: "https://web.archive.org/web/20171101000000/http://www.thewaythefutureblogs.com/2013/04/any-day-now-by-terry-bisson-a-review/"
-prev_post_url: "/posts/2013-04-15-what-does-your-dog-think-ball-means/"
+prev_post_url: "/fred-pohl/2013-04-15-what-does-your-dog-think-ball-means/"
 prev_post_title: "What Does Your Dog Think ‘Ball’ Means?"
-next_post_url: "/posts/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/"
+next_post_url: "/fred-pohl/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/"
 next_post_title: "Bright Sayings of Bright People, No. 44: Warhol"
 translated: false
 translator: "Yandex"
@@ -28,7 +28,7 @@ translator: "Yandex"
 Это своего рода рецензия от двух человек на роман [Терри Биссона](https://web.archive.org/web/20170718034818/http://www.terrybisson.com/) 2012 года "Со дня на [день](https://web.archive.org/web/20170718034818/http://www.amazon.com/gp/product/B00AZ8KT12/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00AZ8KT12&linkCode=as2&tag=twtfb-20)".
 
 
-Один из рецензентов - блогер Олд Фред, который говорит, что был разочарован фильмом, потому что в начале была прекрасно проработанная история о маленьком мальчике и его мире, а затем она превратилась в фантазию о том, как все, кого вы считали мертвыми, снова оживают (за исключением, по какой-то причине, [**Артур Кларк**](/posts/2009-01-05-sir-arthur-and-i/)) и занимающийся красочными политическими делами с Америкой.  Мне нравился взрослеющий мальчик, не нравились бесконечные перестановки на политической сцене.
+Один из рецензентов - блогер Олд Фред, который говорит, что был разочарован фильмом, потому что в начале была прекрасно проработанная история о маленьком мальчике и его мире, а затем она превратилась в фантазию о том, как все, кого вы считали мертвыми, снова оживают (за исключением, по какой-то причине, [**Артур Кларк**](/fred-pohl/2009-01-05-sir-arthur-and-i/)) и занимающийся красочными политическими делами с Америкой.  Мне нравился взрослеющий мальчик, не нравились бесконечные перестановки на политической сцене.
 
 
 Другая - моя любимая [Элизабет Энн Халл](https://web.archive.org/web/20170718034818/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/)
@@ -48,7 +48,7 @@ translator: "Yandex"
 В целом Биссон разочаровал меня, за исключением одного рассказа о путешествии во времени, написанного несколько лет назад (возможно, под названием “Честь скаута”?), который показался мне довольно блестящим.  
 
 Вам следует больше заниматься этим обзором — может быть, более подробно в следующий раз ...?
-[**21 апреля 2013, 14:35**](/posts/2013-04-19-any-day-now-by-terry-bisson-a-review/)
+[**21 апреля 2013, 14:35**](/fred-pohl/2013-04-19-any-day-now-by-terry-bisson-a-review/)
 
 [WordPress](https://web.archive.org/web/20170718034818/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170718034818/http://dicksmithsoftware.com/)

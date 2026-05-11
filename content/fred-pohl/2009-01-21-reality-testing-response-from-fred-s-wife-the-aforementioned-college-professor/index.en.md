@@ -4,9 +4,9 @@ date: 2009-01-21
 categories: ["Personal"]
 tags: ["Academics", "Elizabeth Anne Hull", "Politics"]
 archive_url: "https://web.archive.org/web/20160801000000/http://www.thewaythefutureblogs.com/2009/01/reality-testing-response-from-freds-wife-the-aforementioned-college-professor/"
-prev_post_url: "/posts/2009-01-20-happy-inauguration-day-president-obama/"
+prev_post_url: "/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/"
 prev_post_title: "Happy Inauguration Day, President Obama"
-next_post_url: "/posts/2009-01-30-the-poetry-corner/"
+next_post_url: "/fred-pohl/2009-01-30-the-poetry-corner/"
 next_post_title: "The Poetry Corner"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="bettyhullheadshot-106x150.jpg" alt="Elizabeth Anne Hull. Photo by Barb Knoff." caption="Elizabeth Anne Hull" >}}
 
 
-Just a quick note to set [**the record**](/posts/2009-01-20-happy-inauguration-day-president-obama/) straight. Although it’s a right-wing talking point that usually goes unchallenged, the teachers’ unions (as organizations) are *not* huge financial contributors to political campaigns. The amount of money they do give is relatively insignificant compared to a corporation like, say, [ExxonMobil](https://web.archive.org/web/20090202194911/http://www.exxposeexxon.com/ExxonMobil_politics.html), the first one that pops into my mind, but there are hundreds more.  Or compared to individuals like [T. Boone Pickens](https://web.archive.org/web/20090202194911/http://www.newsmeat.com/billionaire_political_donations/T_Boone_Pickens.php) and his ilk.
+Just a quick note to set [**the record**](/fred-pohl/2009-01-20-happy-inauguration-day-president-obama/) straight. Although it’s a right-wing talking point that usually goes unchallenged, the teachers’ unions (as organizations) are *not* huge financial contributors to political campaigns. The amount of money they do give is relatively insignificant compared to a corporation like, say, [ExxonMobil](https://web.archive.org/web/20090202194911/http://www.exxposeexxon.com/ExxonMobil_politics.html), the first one that pops into my mind, but there are hundreds more.  Or compared to individuals like [T. Boone Pickens](https://web.archive.org/web/20090202194911/http://www.newsmeat.com/billionaire_political_donations/T_Boone_Pickens.php) and his ilk.
 
 
 What the teachers’ unions can and do contribute are very powerful endorsements.  Because people in general respect the integrity and wisdom of teachers, their vision of  what is appropriate and who is worthy of endorsement, such endorsements are sought after by both Democrats and Republicans alike.  The teachers’ unions’ endorsements are never based on single issues, always weighing individual candidates on their whole positions, with no single issue as a deal-breaker one way or the other.  When opposing candidates are judged roughly equal in merit or equally undeserving, the unions will refuse to make any endorsement and let their members decide for themselves to solve the dilemma.
@@ -53,23 +53,23 @@ Whereas I believe the overwhelming majority of the members of the various teache
 
 - [Jeff](https://web.archive.org/web/20090202194911/http://jeffcrook.blogspot.com/) says:
 Amen! My mom was an elementary school teacher for thirty years, in sometimes very difficult conditions at inner-city schools. Teachers should be treated with the same respect we give doctors, but too often they are treated as throwaway people. The unions give them the stability they need to be able to do their jobs effectively.
-[**January 21, 2009, 8:16 am**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 21, 2009, 8:16 am**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - Steve says:
 I love it! A few posts into your blogging career and you’re already in trouble with the wife! Keep up the good work.
-[**January 21, 2009, 9:16 am**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 21, 2009, 9:16 am**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - Chris says:
 Teachers should some of the best paid occupations. Along with trauma room doctors, police and fire fighters.
-[**January 21, 2009, 11:39 am**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 21, 2009, 11:39 am**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - [Jonathan Vos Post](https://web.archive.org/web/20090202194911/http://magicdragon.com/) says:
 I suspect and hope that Elizabeth Anne Hull can now win a race for Congress, America having shifted.
 The hot topic for conversation with my fellow teachers in California is: “Per the orders of of our Governor and Comproller, will we be paid in IOUs starting 1 Feb 2009, as happened briefly in 1992?”
 It’s great to see you guys on the blogosphere, the First Couple of SFWA grandmasterdom. Only is it First Lady and Grandmaster, or Grandmaster Professor and First Dude?
-[**January 21, 2009, 1:05 pm**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 21, 2009, 1:05 pm**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - Jacob says:
 I don’t know if I’d use the phrase “relatively insignificant” though.  I mean, look at this [OpenSecrets.org chart](https://web.archive.org/web/20090202194911/http://www.opensecrets.org/overview/topcontribs.php).  If you add the NEA and ATF contributions together the teachers’ unions would be the #5 biggest donor (at $4,063,757).
 To clarify: this was for the 2008 election cycle. Contributions from the teachers’ unions for the past 4 election cycles left them as, respectively, #2 #4 #3 and #3 biggest donors.
 Also, not to be snarky, but the teachers’ unions were bigger donors than Exxon Mobil Corp in all 5 election cycles.
-[**January 21, 2009, 5:44 pm**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 21, 2009, 5:44 pm**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - Tom says:
 Hello, ma’am. Hello, sir. Good to have you out here.
 The opposition has worked hard to exploit every dislike and resentment  
@@ -82,18 +82,18 @@ their manipulations of fact and fancy.
 Ms. Hull, I am simply gob-stopped by your connection to Harper  
 
 College. I was there part-time from ‘71 to ‘74. Who knew?
-[**January 21, 2009, 7:35 pm**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 21, 2009, 7:35 pm**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - [Andy Sawyer](https://web.archive.org/web/20090202194911/http://www.sfhub.ac.uk/) says:
 Glad to see someone sticking up for the unions:-) Nice piece. (And this looks like it’s going to be a wonderful blog. An expanded THE WAY THE FUTURE WAS will be a fine thing and I’m looking forward to it already.)
-[**January 22, 2009, 4:11 am**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 22, 2009, 4:11 am**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - jasonmitchell says:
 I’ve had several heated conversations relating to how society undervalues teachers - I am constanty amazed how many people think teachers are overpaid (because they work ‘only nine months a year’) and how few people are sympathetic to teachers that strike. News articles reporting on striking teachers often post average salaries for the district and what the highest paid teachcher made. What those articles fail to report is that the few teachers with 20 years of service and who make $80K usually not the ones behind the strike. In my neck of the woods (Chicago suburbs) starting teachers make between 28-35K and in the whealtiest districts the average salary may be in the 60’s - in those same towns, villiage workers (snow plow operators, maintainence workers, garbage collectors) with a similar number of years of experience - consistantly make more. Heck a plumber with 20 tears of experience makes more than 80K around here! I am not saying that we should not value the men and women who clear our streets of snow and trash (or their supervisiors) or plumbers or other tradesmen etc. but shouldn’t we value our teachers at least as much?  - and as for that comment about summers off etc. I am yet to meet a teacher who either tought summer school, was in continiuing education, or had a seasonal job - beacuse until you have 5-10 years in a posistion, you usually don’t make enough to pay the mortgage.
-[**January 22, 2009, 8:42 am**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 22, 2009, 8:42 am**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 - just joe says:
 Actually, teachers overwhelmingly do not work to get the right candidates elected - they work to get the LEFTY candidates elected.
 Pretend to be noble, civic minded, altruistic keepers of the flame of civilization all you want.  I don’t believe it.  You cash your paycheck just like everybody else does.  I might start believing it the day I see you support somebody who is not “Politically Correct” because you really do believe in free speech for all.  I won’t hold my breath.
 Given a choice, I would rather live next door to an NRA member than a teacher, unless he taught Auto Shop 101.
-[**January 23, 2009, 1:23 am**](/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
+[**January 23, 2009, 1:23 am**](/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/)
 
 [WordPress](https://web.archive.org/web/20090202194911/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090202194911/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-07-09
 categories: ["Authors", "Miscellaneous", "Personal", "Science", "Space", "Travel", "Writing"]
 tags: ["C.M. Kornbluth", "Dirk Wylie", "Donald A. Wollheim", "Economics", "Great Depression", "Isaac Asimov", "John B. Michel", "Prozines", "Pulps", "Richard Wilson", "Robert A.W. Lowndes", "The Early Pohl"]
 archive_url: "https://web.archive.org/web/20090501000000/http://www.thewaythefutureblogs.com/2010/07/basement-empire-3-lessons-science-fiction/"
-prev_post_url: "/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
+prev_post_url: "/fred-pohl/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
 prev_post_title: "Basement and Empire, Part 2: Science Fiction Meetings"
-next_post_url: "/posts/2010-07-12-basement-and-empire-afterwords/"
+next_post_url: "/fred-pohl/2010-07-12-basement-and-empire-afterwords/"
 next_post_title: "Basement and Empire, Afterwords"
 translated: false
 translator: "Yandex"
@@ -23,10 +23,10 @@ translator: "Yandex"
 
 ![Wonder Stories, April 1933](wonder_stories_193304.jpg)
 
-Я не знаю, каким писателем я был бы, если бы не встретил [** Дирка Уайли**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/), а через него и вместе с ним - весь мир научно-фантастического фэнд. Думаю, почти то же самое. Я почти наверняка стал бы кем—нибудь вроде писателя - вряд ли я гожусь для чего-то другого. И я пыталась написать НФ по крайней мере за год до того, как встретила Дирка, в свободные минуты на уроках в восьмом классе. Но это заняло бы гораздо больше времени.
+Я не знаю, каким писателем я был бы, если бы не встретил [** Дирка Уайли**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/), а через него и вместе с ним - весь мир научно-фантастического фэнд. Думаю, почти то же самое. Я почти наверняка стал бы кем—нибудь вроде писателя - вряд ли я гожусь для чего-то другого. И я пыталась написать НФ по крайней мере за год до того, как встретила Дирка, в свободные минуты на уроках в восьмом классе. Но это заняло бы гораздо больше времени.
 
 
-Фэндом - это мой большой долг. От [Дона Уоллхейма](https://web.archive.org/web/20110922133749/http://www.gcwillick.com/Spacelight/wollheim.html), [Джона Мишеля](https://web.archive.org/web/20110922133749/http://fancyclopedia.editme.com/MICHELIS), [**Дока Лаундса**](/posts/2009-05-08-the-quadrumvirate/) — а позже от [** Сирила Корнблата**](/posts/2009-04-20-cyril/), [Дика Уилсона](https://web.archive.org/web/20110922133749/http://www.juggle.com/richard-wilson), [** Айзека Азимова**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) и других — я узнал кое-что о том, чему они учились в писательстве; мы все показывали друг другу свои истории, хотя на самом деле мы ими не были. сотрудничаю над ними. В журналах для фэнов я приобрел навыки, необходимые для подготовки чего-либо к публичному просмотру, и смелость позволить это.
+Фэндом - это мой большой долг. От [Дона Уоллхейма](https://web.archive.org/web/20110922133749/http://www.gcwillick.com/Spacelight/wollheim.html), [Джона Мишеля](https://web.archive.org/web/20110922133749/http://fancyclopedia.editme.com/MICHELIS), [**Дока Лаундса**](/fred-pohl/2009-05-08-the-quadrumvirate/) — а позже от [** Сирила Корнблата**](/fred-pohl/2009-04-20-cyril/), [Дика Уилсона](https://web.archive.org/web/20110922133749/http://www.juggle.com/richard-wilson), [** Айзека Азимова**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) и других — я узнал кое-что о том, чему они учились в писательстве; мы все показывали друг другу свои истории, хотя на самом деле мы ими не были. сотрудничаю над ними. В журналах для фэнов я приобрел навыки, необходимые для подготовки чего-либо к публичному просмотру, и смелость позволить это.
 
 
 В чем я не так уверен, так это в том, стоило ли изучать все то, чему мы тогда научились.
@@ -73,17 +73,17 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [**Подвал и империя**](/posts/2010-07-05-basement-and-empire/)
-- [** Подвал и Империя, часть 2: Встречи по научной фантастике**](/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
-- [** Подвал и Империя, послесловия**](/posts/2010-07-12-basement-and-empire-afterwords/)
-- [** Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Пусть будет фэндом: Лига Научной Фантастики(Science Fiction League)**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
-- [**Пусть будет фэндом, часть 2: Школьные дни**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [** Пусть будет фэндом, часть 3: Бруклинское детство**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Да будет фэндом, часть 5: Высшая лига**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [** Пусть будет фэндом, часть 6: Плюсы!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
-- [**Да будет фэндом, часть 7: Крестовый поход**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+- [**Подвал и империя**](/fred-pohl/2010-07-05-basement-and-empire/)
+- [** Подвал и Империя, часть 2: Встречи по научной фантастике**](/fred-pohl/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
+- [** Подвал и Империя, послесловия**](/fred-pohl/2010-07-12-basement-and-empire-afterwords/)
+- [** Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Пусть будет фэндом: Лига Научной Фантастики(Science Fiction League)**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Пусть будет фэндом, часть 2: Школьные дни**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [** Пусть будет фэндом, часть 3: Бруклинское детство**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Да будет фэндом, часть 5: Высшая лига**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [** Пусть будет фэндом, часть 6: Плюсы!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Да будет фэндом, часть 7: Крестовый поход**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### 2 Комментария
@@ -92,12 +92,12 @@ translator: "Yandex"
 Немного печально, что в наши дни у молодежи нет сколько-нибудь реалистичного “там”, на что можно было бы рассчитывать.
 Тропы палпов, такие как летающие автомобили и роботы-слуги, сегодня по большей части являются ироничными шутками.
 Некоторые люди с нетерпением ждут Сингулярности, но это все больше и больше похоже на мессианский порыв.
-[**9 июля 2010, 14:55 вечера**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+[**9 июля 2010, 14:55 вечера**](/fred-pohl/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
 - Бека Си говорит:
 * Меркурий слишком горячий, и в нем слишком мало воздуха; Венера слишком горячая, и ее слишком много, и к тому же ядовитая.*
 Ооо, но подумайте о возможностях жизни, которая ПРОЦВЕТАЕТ в таких условиях!  Я отказываюсь верить, что тот вид жизни, который мы признаем на Земле, является единственно возможным видом жизни во Вселенной.
 Другая жизнь где-то там, снаружи.  Может быть, они тоже спорят, существуем мы или нет.
-[**11 июля 2010, 14:09**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+[**11 июля 2010, 14:09**](/fred-pohl/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
 
 [WordPress](https://web.archive.org/web/20110922133749/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922133749/http://dicksmithsoftware.com/)

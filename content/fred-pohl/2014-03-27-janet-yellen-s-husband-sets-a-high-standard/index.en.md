@@ -4,9 +4,9 @@ date: 2014-03-27
 categories: ["Betty's Posts", "Miscellaneous"]
 tags: ["Economics", "Elizabeth Anne Hull", "George Akerlof", "Janet Yellen", "Pompeia"]
 archive_url: "https://web.archive.org/web/20261201000000/http://www.thewaythefutureblogs.com/2014/03/janet-yellens-husband-sets-a-high-standard/"
-prev_post_url: "/posts/2014-03-25-save-the-date-aug-2-frederik-pohl-memorial/"
+prev_post_url: "/fred-pohl/2014-03-25-save-the-date-aug-2-frederik-pohl-memorial/"
 prev_post_title: "Save the Date: Aug. 2, Frederik Pohl Memorial"
-next_post_url: "/posts/2014-03-31-through-the-harmonic-convergence-part-2/"
+next_post_url: "/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/"
 next_post_title: "Through the Harmonic Convergence, Part 2"
 translated: false
 ---
@@ -49,7 +49,7 @@ Remember the constraints put on [Caesar’s wife](https://web.archive.org/web/20
 - [Stefan Jones](https://web.archive.org/web/20160416150012/http://www.flickr.com/photos/stefan_e_jones/) says:
 I wish more well-connected spouses were as willing to give up problematical positions.
 Keep on posting stories like this.
-[**March 27, 2014, 10:33 am**](/posts/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/)
+[**March 27, 2014, 10:33 am**](/fred-pohl/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/)
 
 [WordPress](https://web.archive.org/web/20160416150012/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416150012/http://dicksmithsoftware.com/)

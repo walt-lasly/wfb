@@ -4,9 +4,9 @@ date: 2013-12-31
 categories: ["Books", "Personal"]
 tags: ["Editors", "Ian and Betty Ballantine", "Judy-Lynn del Rey", "Lester del Rey", "Publishing", "The Space Merchants", "Thomas Dunne"]
 archive_url: "https://web.archive.org/web/20160416122741/http://www.thewaythefutureblogs.com/2013/12/the-story-of-the-space-merchants-part-4/"
-prev_post_url: "/posts/2013-12-29-bright-sayings-of-bright-people-no-50-eisenhower/"
+prev_post_url: "/fred-pohl/2013-12-29-bright-sayings-of-bright-people-no-50-eisenhower/"
 prev_post_title: "Bright Sayings of Bright People, No. 50: Eisenhower"
-next_post_url: "/posts/2014-01-02-mother-love-and-the-threat-of-global-warming/"
+next_post_url: "/fred-pohl/2014-01-02-mother-love-and-the-threat-of-global-warming/"
 next_post_title: "Mother Love and the Threat of Global Warming"
 translated: false
 translator: "Yandex"
@@ -31,7 +31,7 @@ translator: "Yandex"
 Это не означало, что они купят нашу книгу.  Как сказал один из наиболее высокооплачиваемых редакторов: “Поскольку мы друзья, Фред, я могу быть с тобой откровенен..  Эта рукопись просто не соответствует профессиональному уровню.  Что вам нужно, так это найти профессионального писателя, который соберет все это воедино".
 
 
-Что я иногда говорил по этому поводу с тех пор, так это то, что мы не смогли найти профессионального писателя, который помог бы нам, мы нашли издателя-любителя, [Иэна Баллантайна](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/), который только что основал свою собственную компанию [Ballantine Books](https://web.archive.org/web/20160416122741/http://ballantine.atrandom.com/about-ballantine-books/) и не знал, что наша книга не подлежит публикации.  Поэтому он пошел дальше и опубликовал ее, получив при этом хорошую прибыль.
+Что я иногда говорил по этому поводу с тех пор, так это то, что мы не смогли найти профессионального писателя, который помог бы нам, мы нашли издателя-любителя, [Иэна Баллантайна](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/), который только что основал свою собственную компанию [Ballantine Books](https://web.archive.org/web/20160416122741/http://ballantine.atrandom.com/about-ballantine-books/) и не знал, что наша книга не подлежит публикации.  Поэтому он пошел дальше и опубликовал ее, получив при этом хорошую прибыль.
 
 
 Эта шутка несправедлива по отношению к Йену.  У него был многолетний опыт руководства другими книгоиздательскими компаниями, прежде чем он основал свою собственную.  Но это правда, что он ничего не знал о научной фантастике.
@@ -40,7 +40,7 @@ translator: "Yandex"
 Однако он действительно знал меня, и знал в течение некоторого времени..  Он решил довериться моему суждению, и это в целом обернулось для него хорошо, не только в "Торговцах Космосом([The Space Merchants](https://web.archive.org/web/20160416122741/http://www.amazon.com/gp/product/B001JE19ME/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001JE19ME&linkCode=as2&tag=twtfb-20))" (так два его редактора переименовали книгу), но и в течение многих последующих лет, когда я служил неофициальным консультантом и устранял неполадки в фирме.  (За эти годы сам Иэн потерял контроль над своей издательской компанией, но не из-за участия в программе НФ.)
 
 
-[Торговцы Космосом(The Space Merchants](https://web.archive.org/web/20160416122741/http://www.amazon.com/gp/product/1250000157/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1250000157&linkCode=as2&tag=twtfb-20)) начали демонстрировать свои возможности другими способами, не только в продажах в Ballantine Books, но и в неожиданных других доходах.  Мы начали получать запросы на зарубежные издания и переводы, сначала из Англии и Франции, а затем, с годами, более чем на двадцать других языков, возможно, вдвое больше.  И мы очень быстро продали права на фильм за, казалось, все деньги в мире: пятьдесят тысяч долларов 1950-х годов, что равнялось, возможно, полумиллиону в сегодняшней слабой валюте.  И после этого книга стала стабильно продаваться в бэк-листе Ballantine в течение многих лет, с получением солидного чека за каждый период действия авторских прав, вплоть до того момента, когда [** Джуди-Линн дель Рей**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/) согласилась вернуть ее мне, чтобы я мог принять предложение о выпуске нескольких книг с ее участием.
+[Торговцы Космосом(The Space Merchants](https://web.archive.org/web/20160416122741/http://www.amazon.com/gp/product/1250000157/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1250000157&linkCode=as2&tag=twtfb-20)) начали демонстрировать свои возможности другими способами, не только в продажах в Ballantine Books, но и в неожиданных других доходах.  Мы начали получать запросы на зарубежные издания и переводы, сначала из Англии и Франции, а затем, с годами, более чем на двадцать других языков, возможно, вдвое больше.  И мы очень быстро продали права на фильм за, казалось, все деньги в мире: пятьдесят тысяч долларов 1950-х годов, что равнялось, возможно, полумиллиону в сегодняшней слабой валюте.  И после этого книга стала стабильно продаваться в бэк-листе Ballantine в течение многих лет, с получением солидного чека за каждый период действия авторских прав, вплоть до того момента, когда [** Джуди-Линн дель Рей**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/) согласилась вернуть ее мне, чтобы я мог принять предложение о выпуске нескольких книг с ее участием.
 
 
 Это было ошибкой: после нескольких коротких недель продаж роман быстро исчез из поля зрения в темницах "бэклиста" издательства "[Сент-Мартин Пресс](https://web.archive.org/web/20160416122741/http://us.macmillan.com/splash/publishers/st-martins-press.html)".  Хотя время от времени я умолял их вернуть ее, чтобы мы могли позволить кому-нибудь из других издательств вернуть ее к жизни, все, что я когда-либо получал от [Тома Данна](https://web.archive.org/web/20160416122741/http://us.macmillan.com/Content.aspx?publisher=smpthomasdunne&id=8775), ответственного редактора, была вежливая записка с отказом, и поэтому книга оставалась там, невидимая и убыточная, до тех пор, пока пару лет назад не вышло [издание 21-го века](https://web.archive.org/web/20160416122741/http://www.amazon.com/gp/product/1250000157/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1250000157&linkCode=as2&tag=twtfb-20). вышел.
@@ -54,7 +54,7 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** История о Торговцах Космосом(The Space Merchants)**, [**Часть 1**](/posts/2013-12-18-the-story-of-the-space-merchants/), [** Часть 2**](/posts/2013-12-23-the-story-of-the-space-merchants-part-2/), [** Часть 3**](/posts/2013-12-26-the-story-of-the-space-merchants-part-3/)
+- ** История о Торговцах Космосом(The Space Merchants)**, [**Часть 1**](/fred-pohl/2013-12-18-the-story-of-the-space-merchants/), [** Часть 2**](/fred-pohl/2013-12-23-the-story-of-the-space-merchants-part-2/), [** Часть 3**](/fred-pohl/2013-12-26-the-story-of-the-space-merchants-part-3/)
 
 [WordPress](https://web.archive.org/web/20160416122741/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416122741/http://dicksmithsoftware.com/)

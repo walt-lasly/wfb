@@ -4,9 +4,9 @@ date: 2014-03-13
 categories: ["Travel", "Writing"]
 tags: ["Astronomy", "Chernobyl", "Publishing", "Syzygy"]
 archive_url: "https://web.archive.org/web/20151001000000/http://www.thewaythefutureblogs.com/2014/03/peddling-books-through-the-harmonic-convergence/"
-prev_post_url: "/posts/2014-03-02-divide-and-conquer/"
+prev_post_url: "/fred-pohl/2014-03-02-divide-and-conquer/"
 prev_post_title: "Divide and Conquer"
-next_post_url: "/posts/2014-03-17-good-news-gateway-tv-series-in-the-works/"
+next_post_url: "/fred-pohl/2014-03-17-good-news-gateway-tv-series-in-the-works/"
 next_post_title: "Good News,GatewayTV Series in the Works!"
 translated: false
 translator: "Yandex"
@@ -105,7 +105,7 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- Распространение книг вразнос посредством Гармонической конвергенции, [** Часть 2**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/), [** Часть 3**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+- Распространение книг вразнос посредством Гармонической конвергенции, [** Часть 2**](/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/), [** Часть 3**](/fred-pohl/2014-04-10-through-the-harmonic-convergence-part-3/)
 
 
 ### 3 Комментария
@@ -113,14 +113,14 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20160416141935/http://www.flickr.com/photos/stefan_e_jones/) говорит:
 Я только начинал становиться скептиком, когда появился "Эффект Юпитера". На самом деле, это могла быть одна из тех соломинок, которые сломали спину верблюду. 
 Я с нетерпением жду возможности прочитать о создании "Чернобыля". Я прочитал ее однажды, когда она только вышла, и до сих пор живо вспоминаю некоторые места.
-[**13 марта 2014, 19:57 вечера**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/)
+[**13 марта 2014, 19:57 вечера**](/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/)
 - Эйс Лайтнинг говорит:
 Когда бесконечно пропагандировалась гармоническая конвергенция, повторение этой фразы в конце концов привело к тому, что я услышал ее как “Девственницы-гармоники”. Я рассказал об этом нескольким своим друзьям, и один из них спросил: “Название группы!” Я понял, что группа под названием the Harmonica Virgins была бы чем-то вроде этого: полностью женская хард-рок-группа (или даже хэви-метал), одетая в самые распутные, скудные, извращенные наряды, которые только могут сойти им с рук. Когда они поднимаются на сцену, диктор кричит: “Дамы и господа… ДЕВСТВЕННИЦЫ С ГУБНОЙ ГАРМОШКОЙ!”. Солист группы подходит к микрофону и ждет, пока аплодисменты немного утихнут, затем говорит: “И никто из нас тоже не играет на губной гармошке. Делайте это, девочки!”
-[** 14 марта 2014 года, 5:34 утра**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/)
+[** 14 марта 2014 года, 5:34 утра**](/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/)
 - Джей [Джей Брэннон](https://web.archive.org/web/20160416141935/http://www.youtube.com/watch?v=xPgZeOsG8sk) говорит:
 Всегда увлекательно заново переживать события, но смотреть на них с проницательной и самоуничижительно веселой точки зрения Фреда.
 JJB
-[**14 марта 2014, 19:19 вечера**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/)
+[**14 марта 2014, 19:19 вечера**](/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/)
 
 [WordPress](https://web.archive.org/web/20160416141935/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416141935/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2012-01-23
 categories: ["Miscellaneous"]
 tags: []
 archive_url: "https://web.archive.org/web/20251201000000/http://www.thewaythefutureblogs.com/2012/01/howd-you-do/"
-prev_post_url: "/posts/2012-01-21-newt-the-mewtant/"
+prev_post_url: "/fred-pohl/2012-01-21-newt-the-mewtant/"
 prev_post_title: "Newt the Mewtant"
-next_post_url: "/posts/2012-01-25-bright-sayings-of-bright-people-no-24/"
+next_post_url: "/fred-pohl/2012-01-25-bright-sayings-of-bright-people-no-24/"
 next_post_title: "Bright Sayings of Bright People, No. 24"
 translated: false
 ---
@@ -42,10 +42,10 @@ Two quibbles.
 #3 is an incomplete answer.  Cabinet officers also run the Departments of the Executive Branch, reporting to the President.
 #4 has one glitch.  The Vice President ranks above the Cabinet, and the Office of the Vice President is not a Cabinet Department.  
 The Vice President is usually a member of the Cabinet, but not every VP has been included.  Unlike the President and Vice President, the Cabinet Secretaries do not hold elected offices required by the Constitution.  The actual make-up of the Cabinet varies, at the discretion of the President.
-[**January 23, 2012, 10:46 pm**](/posts/2012-01-23-how-d-you-do/)
+[**January 23, 2012, 10:46 pm**](/fred-pohl/2012-01-23-how-d-you-do/)
 - zeph says:
 “To coin money”, not to print money. The Supreme Court ruled that the government may print money but, it’s not actually a power conveyed directly by the Constitution.
-[**January 24, 2012, 2:34 am**](/posts/2012-01-23-how-d-you-do/)
+[**January 24, 2012, 2:34 am**](/fred-pohl/2012-01-23-how-d-you-do/)
 
 [WordPress](https://web.archive.org/web/20120513023932/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120513023932/http://dicksmithsoftware.com/)

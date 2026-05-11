@@ -4,9 +4,9 @@ date: 2010-12-04
 categories: ["Authors", "Books", "Personal", "Travel"]
 tags: ["Ann Pohl", "Chandler Davis", "Conventions", "Emily Pohl-Weary", "Futurians", "George O. Smith", "Hugo Awards", "Jack Gillespie", "Judith Merril", "Sexuality", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170501000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-3-life-with-judy/"
-prev_post_url: "/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
+prev_post_url: "/fred-pohl/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
 prev_post_title: "How Much of a FAVOR Can You Afford to Do Me?"
-next_post_url: "/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
+next_post_url: "/fred-pohl/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
 next_post_title: "Bright Sayings of Bright People, No. 5: James"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![Better to Have Loved: The Life of Judith Merril](better-to-have-loved-merril.jpg)
 
-After [**Judy Merril**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) and I realized that the one thing we both most wanted from the life we had been living was to have a baby, we started looking for someone to marry us so the baby would be legitimate.  Judy quickly found someone.  I’ve forgotten his name, but he was a fairly well-known lefty New York Justice of the Peace.
+After [**Judy Merril**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/) and I realized that the one thing we both most wanted from the life we had been living was to have a baby, we started looking for someone to marry us so the baby would be legitimate.  Judy quickly found someone.  I’ve forgotten his name, but he was a fairly well-known lefty New York Justice of the Peace.
 
 
 So we were married in 1948. Then we began the process of knocking Judy up.  It didn’t take long.  Judy handled pregnancy quite well, so we simply went on with our lives.
@@ -72,7 +72,7 @@ Now over the next months — or whatever time it takes — I’m going to tell y
 However, two things: The first is that Judy at the end of her life began to write her own [memoir](https://web.archive.org/web/20150910162144/http://www.amazon.com/gp/product/1896357571?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1896357571); it was completed by our joint granddaughter, [Emily Pohl-Weary](https://web.archive.org/web/20150910162144/http://www.emilypohlweary.com/), and as a matter of fact won a Hugo Award.  Judy was quite willing to be candid in her memoir, so you can read that, and I so don’t have to be.
 
 
-And the other thing is that, against the odds — and bad luck for [**the weasel**](/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) if he ever has the impudence to suggest I’m lying — there is another person alive who knows exactly how Judy’s demand for an open marriage destroyed ours.  I give this person permission to go public with the story if he wants.  Or, if he likes, to run over the things I am about to tell and report whether I’m telling the truth.
+And the other thing is that, against the odds — and bad luck for [**the weasel**](/fred-pohl/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/) if he ever has the impudence to suggest I’m lying — there is another person alive who knows exactly how Judy’s demand for an open marriage destroyed ours.  I give this person permission to go public with the story if he wants.  Or, if he likes, to run over the things I am about to tell and report whether I’m telling the truth.
 
 
 *To be continued.*
@@ -80,7 +80,7 @@ And the other thing is that, against the odds — and bad luck for [**the weasel
 
 **Related posts:**  
 
-**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/),  [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+**Judith Merril,** [**Part 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/),  [**Part 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### 3 Comments
@@ -88,13 +88,13 @@ And the other thing is that, against the odds — and bad luck for [**the weasel
 - [Stefan Jones](https://web.archive.org/web/20150910162144/http://www.flickr.com/photos/stefan_e_jones/) says:
 I can see that the new edition is going to tell a more complex story.
 George O. Smith attended a Lunacon I went to in the early 80s. He passed away shortly afterwards. I remember being shocked at how rudely one smartass fan treated him while on a panel.
-[**December 4, 2010, 11:53 pm**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
+[**December 4, 2010, 11:53 pm**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/)
 - Jim Worrad says:
 George O should have urinated on him.
-[**December 5, 2010, 4:44 am**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
+[**December 5, 2010, 4:44 am**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/)
 - krjames says:
 Stefan’s comment puts me in mind of Harlan Ellison’s well-known lecture (whose title, however, I can’t recall) on fan nutjobbery at SF conventions.  This recent “weasel” episode suggests a prime example of that particularly obnoxious brand of sociopathy.
-[**December 5, 2010, 8:01 am**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
+[**December 5, 2010, 8:01 am**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/)
 
 [WordPress](https://web.archive.org/web/20150910162144/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150910162144/http://dicksmithsoftware.com/)

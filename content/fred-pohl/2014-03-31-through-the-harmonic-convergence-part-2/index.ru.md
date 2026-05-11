@@ -4,9 +4,9 @@ date: 2014-03-31
 categories: ["Travel"]
 tags: ["Chernobyl", "Publishing", "Religion", "Uri Geller"]
 archive_url: "https://web.archive.org/web/20151101000000/http://www.thewaythefutureblogs.com/2014/03/through-the-harmonic-convergence-part-2/"
-prev_post_url: "/posts/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/"
+prev_post_url: "/fred-pohl/2014-03-27-janet-yellen-s-husband-sets-a-high-standard/"
 prev_post_title: "Janet Yellen’s Husband Sets a High Standard"
-next_post_url: "/posts/2014-04-02-are-you-rich/"
+next_post_url: "/fred-pohl/2014-04-02-are-you-rich/"
 next_post_title: "Are You Rich?"
 translated: false
 translator: "Yandex"
@@ -78,7 +78,7 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- Распространение книг вразнос посредством Гармонической конвергенции, [** Часть 1**](/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/), [** Часть 3**](/posts/2014-04-10-through-the-harmonic-convergence-part-3/)
+- Распространение книг вразнос посредством Гармонической конвергенции, [** Часть 1**](/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/), [** Часть 3**](/fred-pohl/2014-04-10-through-the-harmonic-convergence-part-3/)
 
 
 ### Один комментарий
@@ -87,7 +87,7 @@ translator: "Yandex"
 “Главная причина в том, что у меня доброе сердце; мне не нравится быть занудой”.
 Чувак, это тоже меня описывает. Я не против высмеивать и критиковать суеверных тупиц в компании единомышленников, но я не могу заставить себя противостоять убеждениям пустоголовых и бросать им вызов в лицо из сострадания.
 Мне было бы немного труднее хранить молчание, когда имеешь дело с помешанным на вакцинации. Этот конкретный пух вредит больше, чем верующему.
-[** 31 марта 2014, 10:10 вечера**](/posts/2014-03-31-through-the-harmonic-convergence-part-2/)
+[** 31 марта 2014, 10:10 вечера**](/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/)
 
 [WordPress](https://web.archive.org/web/20160416225228/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416225228/http://dicksmithsoftware.com/)

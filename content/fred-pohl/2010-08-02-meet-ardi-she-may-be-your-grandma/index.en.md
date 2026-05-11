@@ -4,9 +4,9 @@ date: 2010-08-02
 categories: ["Science"]
 tags: ["Paleontology"]
 archive_url: "https://web.archive.org/web/20180101000000/http://www.thewaythefutureblogs.com/2010/08/meet-ardi-she-may-be-your-grandma/"
-prev_post_url: "/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/"
+prev_post_url: "/fred-pohl/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/"
 prev_post_title: "Bright Sayings of Geniuses, No. 1: Bohr"
-next_post_url: "/posts/2010-08-05-a-movie-you-won-t-expect-to-like-but-you-will/"
+next_post_url: "/fred-pohl/2010-08-05-a-movie-you-won-t-expect-to-like-but-you-will/"
 next_post_title: "A Movie You Won’t Expect to Like, But You Will"
 translated: false
 ---
@@ -34,14 +34,14 @@ Ardi doesn’t look exactly like a chimpanzee, though she’s (probably) furred 
 - Bill Goodwin says:
 She was also rather thin, therefore not named Ardi Gras. Likely because of a narrow esophagus, which would’ve made Ardichoke if she ate too quickly. No beads or carvings were found, so she wasn’t very Ardi Fardi. And of course, hunting made Ardi-miss her brother Apollo…
 I’ll be so disappointed in you if you post this.
-[**August 3, 2010, 2:10 pm**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**August 3, 2010, 2:10 pm**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - gottacook says:
 For the most thorough coverage, please go to the original source:
 [http://www.sciencemag.org/ardipithecus](https://web.archive.org/web/20140901182251/http://www.sciencemag.org/ardipithecus)  
 
 (Science, 2 October 2009)
 My favorite data analysis point among the many presented in this package of articles (which took years to prepare): Without the big-toe development seen in Ardi, upright walking might never have occurred.
-[**August 3, 2010, 3:36 pm**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**August 3, 2010, 3:36 pm**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - Troll says:
 Oh, my, god!  
 
@@ -50,16 +50,16 @@ NO! NO! NO!
 DON’T ENCOURAGE HIM!  
 
 Quick!, sombody smack Goodwin on the back of the head!
-[**August 4, 2010, 12:08 am**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**August 4, 2010, 12:08 am**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - Bill Goodwin says:
 And with a mother like that, who could have an ardi-pal complex?  (Oh don’t grimace, my humor may be labored but it’s not ardi-facial.  Getting worked up is bad for your ardi-ries  You ardi be more forgiving…)
-[**August 7, 2010, 4:07 am**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**August 7, 2010, 4:07 am**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - [Anton Sherwood](https://web.archive.org/web/20140901182251/http://ogre.nu/) says:
 Ardi ar ar. Ave you nothing better to do?
-[**August 9, 2010, 10:12 pm**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**August 9, 2010, 10:12 pm**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - Bill Goodwin says:
 Ardi bears sitting in di woods?
-[**August 11, 2010, 7:28 pm**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**August 11, 2010, 7:28 pm**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 
 [WordPress](https://web.archive.org/web/20140901182251/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140901182251/http://dicksmithsoftware.com/)

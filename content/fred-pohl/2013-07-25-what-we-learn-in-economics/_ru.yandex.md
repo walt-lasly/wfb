@@ -4,9 +4,9 @@ date: 2013-07-25
 categories: ["Miscellaneous"]
 tags: ["Academics", "Allen R. Sanderson", "Economics", "John Maynard Keynes", "Politics"]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2013/07/what-we-learn-in-economics/"
-prev_post_url: "/posts/2013-07-22-what-should-we-occupiers-occupy/"
+prev_post_url: "/fred-pohl/2013-07-22-what-should-we-occupiers-occupy/"
 prev_post_title: "What Should We Occupiers Occupy?"
-next_post_url: "/posts/2013-07-29-and-the-day-came/"
+next_post_url: "/fred-pohl/2013-07-29-and-the-day-came/"
 next_post_title: "And the Day Came"
 translated: false
 translator: "Yandex"
@@ -48,7 +48,7 @@ translator: "Yandex"
 - [Катя](https://web.archive.org/web/20170620025907/http://journal.brokenclay.org/) говорит:
 Аллен Сандерсон! Человек же, из которого я взял курс экономический колледж! (Удивительный учитель.)
 Спасибо Вам за этот взрыв из прошлого.
-[**Июль 25, 2013, 10:12 часов**](/posts/2013-07-25-what-we-learn-in-economics/)
+[**Июль 25, 2013, 10:12 часов**](/fred-pohl/2013-07-25-what-we-learn-in-economics/)
 - [Кейт Грэм](https://web.archive.org/web/20170620025907/http://www.cthreepo.com/) говорит:
 Как бывший редактор журнала Astounding сказки и любительские научная фантастика писателя, который занимается продажей НФ в течение многих лет, у меня есть несколько идей, которые могут помочь вам. Я знаю, что он принимает для публикации печатных и интернет-журналов, и я также знаю, рынков.  
 
@@ -77,7 +77,7 @@ translator: "Yandex"
 Это огромный объем работы. Многое управления. Сколько технические. Очень мало он на самом деле работает со словами. Хороший журнал будет требовать до десятков человек, которые обладают специализированными знаниями, чтобы сохранить ее.  
 
 Кит П. Грэм
-[**Июль 26, 2013, 11:37 часов**](/posts/2013-07-25-what-we-learn-in-economics/)
+[**Июль 26, 2013, 11:37 часов**](/fred-pohl/2013-07-25-what-we-learn-in-economics/)
 
 [На WordPress](https://web.archive.org/web/20170620025907/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620025907/http://dicksmithsoftware.com/)

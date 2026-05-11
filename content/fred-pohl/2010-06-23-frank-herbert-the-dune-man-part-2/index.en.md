@@ -4,9 +4,9 @@ date: 2010-06-23
 categories: ["Authors", "Personal", "Travel", "Writing"]
 tags: ["Australia", "Beverly Herbert", "Charles Lindbergh", "Conventions", "Elizabeth Anne Hull", "Films", "Frank Herbert", "Hawai'i", "Medicine", "Ted Turner", "Theresa Herbert", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170401000000/http://www.thewaythefutureblogs.com/2010/06/frank-herbert-the-dune-man-part-2/"
-prev_post_url: "/posts/2010-06-21-frank-herbert-the-dune-man/"
+prev_post_url: "/fred-pohl/2010-06-21-frank-herbert-the-dune-man/"
 prev_post_title: "Frank Herbert, the Dune Man"
-next_post_url: "/posts/2010-06-25-russians-jews-and-isaac/"
+next_post_url: "/fred-pohl/2010-06-25-russians-jews-and-isaac/"
 next_post_title: "Russians, Jews and Isaac"
 translated: false
 ---
@@ -73,41 +73,41 @@ A few weeks later, I learned that he had died in Madison after undergoing cancer
 
 **Related post:**  
 
-[**Frank Herbert, the Dune Man**](/posts/2010-06-21-frank-herbert-the-dune-man/)
+[**Frank Herbert, the Dune Man**](/fred-pohl/2010-06-21-frank-herbert-the-dune-man/)
 
 
 ### 9 Comments
 
 - Julian says:
 How sad. Don’t worry, Herbert always knew you appreciate him.
-[**June 23, 2010, 12:51 am**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 23, 2010, 12:51 am**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Bald Guy](https://web.archive.org/web/20120304202309/http://www.irememberjfk.com/) says:
 What a regular guy. The Orange catholic Bible quotes before each chapter sounded pretty presumptuous. I’m glad to know he was just a regular Joe.
-[**June 23, 2010, 1:33 am**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 23, 2010, 1:33 am**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - Jen says:
 Thank you for sharing your memories of him- not only is he one of my favourite authors, but his tribute to Bev at the end of Chapterhouse: Dune is still one of the more moving things that I’ve read. 
 (And as a side note, I re-discovered my old copy of Yesterday’s Tomorrows a few days ago, and have been thoroughly enjoying re-reading it. “Eco-Catastrophe” is unfortunately more painful to read now than it was the first time.)
-[**June 23, 2010, 8:07 am**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 23, 2010, 8:07 am**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [John Kremer](https://web.archive.org/web/20120304202309/http://www.bookmarket.com/) says:
 Your two-part post was great. Really enjoyed reading about some of my favorite authors.
-[**June 23, 2010, 7:30 pm**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 23, 2010, 7:30 pm**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - Stacey says:
 Thanks for this little vignette of Mr. Herbert, and your friendship with him. His Dune series changed my life, opened my eyes to the power plays and machinations within the high control religion with which I was involved.
-[**June 23, 2010, 10:51 pm**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 23, 2010, 10:51 pm**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Michael Walsh](https://web.archive.org/web/20120304202309/http://www.oldearthbooks.com/) says:
 Nice piece on Herbert.  I remember reading “The Prophet of Dune” in the bedsheet Analogs.  And those John Schoenherr illos … oh my.  They will stay with me forever.
-[**June 24, 2010, 5:24 pm**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 24, 2010, 5:24 pm**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Lobo7922](https://web.archive.org/web/20120304202309/http://lacuevadellobo.blogspot.com/) says:
 Thanks it’s always interesting to know more details about Frank Herbert genius
-[**June 27, 2010, 12:32 am**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**June 27, 2010, 12:32 am**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - Neil in Chicago says:
 And speaking of digressions . . .  
 
 Of the hundred Americans at Aussiecon I, two-thirds traveled in a group.  Naturally, someone had one of the flat little portable typewriters on the flight from LA (on the New Zealand Airline, so in addition to the our stopover in Honolulu, there was another in Aukland), and by the time we got to Aukland, several people were on a mission to find suitable envelopes in the airport to mail home the mimeo masters which had been cut en route, for immediate repro back home.  (for 1970′s values of “immediate”)
-[**July 4, 2010, 4:34 pm**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**July 4, 2010, 4:34 pm**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 - [Book Publishers](https://web.archive.org/web/20120304202309/http://www.schieldenver.co.uk/) says:
 The second part of your post was excellent. Also Really enjoyed reading about some of my favorite authors.
-[**August 27, 2010, 9:27 am**](/posts/2010-06-23-frank-herbert-the-dune-man-part-2/)
+[**August 27, 2010, 9:27 am**](/fred-pohl/2010-06-23-frank-herbert-the-dune-man-part-2/)
 
 [WordPress](https://web.archive.org/web/20120304202309/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120304202309/http://dicksmithsoftware.com/)

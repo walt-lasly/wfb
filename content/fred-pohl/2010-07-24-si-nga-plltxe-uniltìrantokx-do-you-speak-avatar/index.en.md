@@ -4,9 +4,9 @@ date: 2010-07-24
 categories: ["Miscellaneous"]
 tags: ["Conventions", "Films", "James Cameron", "Linguistics", "Paul Frommer"]
 archive_url: "https://web.archive.org/web/20140902175226/http://www.thewaythefutureblogs.com/2010/07/si-nga-plltxe-uniltrantokx-do-you-speak-avatar/"
-prev_post_url: "/posts/2010-07-23-fossil-fuels-and-bad-bookkeeping/"
+prev_post_url: "/fred-pohl/2010-07-23-fossil-fuels-and-bad-bookkeeping/"
 prev_post_title: "Fossil Fuels and Bad Bookkeeping"
-next_post_url: "/posts/2010-07-26-a-j/"
+next_post_url: "/fred-pohl/2010-07-26-a-j/"
 next_post_title: "A J"
 translated: false
 ---
@@ -31,13 +31,13 @@ All the time some of us put in to learn [Klingon](https://web.archive.org/web/20
 
 - [the blog team](https://web.archive.org/web/20140902175226/http://thewaythefutureblogs.com/) says:
 Sed kion pri [Esperanto](https://web.archive.org/web/20140902175226/http://web.archive.org/web/20060303003621/4forry.best.vwh.net/esper.htm)?
-[**July 24, 2010, 1:40 am**](/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
+[**July 24, 2010, 1:40 am**](/fred-pohl/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
 - James McKinney says:
 You can take this post down if you want later. I was just reading over your posts about Robert Heinlein, and you mentioned the experience of seeing the launch of Apollo 17 from a ship with him and many other SF writers and general luminaries (I was rereading Clarke’s 2061 recently and I believe he mentions the same or a similar voyage in the “Ship of Fools” chapter). With the last shuttle flight coming up, I wonder if the time might be right to post any reminiscences and reflections you might have about that unique event.
-[**July 24, 2010, 10:08 pm**](/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
+[**July 24, 2010, 10:08 pm**](/fred-pohl/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
 - Tina Black says:
 Seems the Klingons recently held their annual gathering.  They may be out of fashion, but they are still plugging along.
-[**July 25, 2010, 8:25 pm**](/posts/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
+[**July 25, 2010, 8:25 pm**](/fred-pohl/2010-07-24-si-nga-plltxe-uniltìrantokx-do-you-speak-avatar/)
 
 [WordPress](https://web.archive.org/web/20140902175226/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140902175226/http://dicksmithsoftware.com/)

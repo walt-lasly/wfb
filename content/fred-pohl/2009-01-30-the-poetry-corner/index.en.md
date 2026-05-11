@@ -4,9 +4,9 @@ date: 2009-01-30
 categories: ["Authors", "Personal", "Space", "Writing"]
 tags: ["Amazing Stories", "C.M. Kornbluth", "Fanzines", "James Blish", "Poetry", "Prozines", "Pulps", "T. O'Conor Sloane"]
 archive_url: "https://web.archive.org/web/19970701000000/http://www.thewaythefutureblogs.com/2009/01/the-poetry-corner/"
-prev_post_url: "/posts/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
+prev_post_url: "/fred-pohl/2009-01-21-reality-testing-response-from-fred-s-wife-the-aforementioned-college-professor/"
 prev_post_title: "Reality-Testing Response from Fred’s Wife, the Aforementioned College Professor"
-next_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
+next_post_url: "/fred-pohl/2009-02-07-seventeen-days-of-fox/"
 next_post_title: "Seventeen Days of Fox"
 translated: false
 ---
@@ -70,18 +70,18 @@ Then, when I was sixteen, the editor of [Amazing Stories](https://web.archive.or
 
 **Related post:**  
 
-[**Verse Decoded**](/posts/2009-03-16-verse-decoded/)
+[**Verse Decoded**](/fred-pohl/2009-03-16-verse-decoded/)
 
 
 ### 4 Comments
 
 - William says:
 Would you mind explaining how you’d recite “!”? I could think of a variety of ways, and I’m curious to know which you had in mind.
-[**January 30, 2009, 12:42 am**](/posts/2009-01-30-the-poetry-corner/)
+[**January 30, 2009, 12:42 am**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - [Jeff](https://web.archive.org/web/20090415165710/http://jeffcrook.blogspot.com/) says:
 If people only knew what they create when they give encouragement to fifteen year old writers.
 Occassionally, it works out for the best.
-[**January 30, 2009, 8:26 am**](/posts/2009-01-30-the-poetry-corner/)
+[**January 30, 2009, 8:26 am**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - adepsis says:
 I perceive it as similar to a cheer - 
 comma, comma, ampersand!  
@@ -92,11 +92,11 @@ semicolon, dollar sign!
 
 hyphen, hyphen, dots in a line!
 Would be especially fun after “loosening up” a bit at a party.
-[**January 31, 2009, 11:04 pm**](/posts/2009-01-30-the-poetry-corner/)
+[**January 31, 2009, 11:04 pm**](/fred-pohl/2009-01-30-the-poetry-corner/)
 - Kent Cline says:
 Before I clicked through to read the comments, I was doing the “Exclamation Point Cheer” myself and wondering if I was getting the spirit of the meter. It is reassuring to know that adepsis had a similar reaction to the poem.
 Good fun.
-[**February 4, 2009, 12:00 am**](/posts/2009-01-30-the-poetry-corner/)
+[**February 4, 2009, 12:00 am**](/fred-pohl/2009-01-30-the-poetry-corner/)
 
 [WordPress](https://web.archive.org/web/20090415165710/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090415165710/http://dicksmithsoftware.com/)

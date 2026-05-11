@@ -4,9 +4,9 @@ date: 2009-02-20
 categories: ["Authors", "Books", "Personal", "Travel"]
 tags: ["Arthur C. Clarke", "Bernardine Dohrn", "Ed McBain", "Evan Hunter", "Hendrik Herzberg", "Isaac Asimov", "L. Sprague de Camp", "Maureen Dowd", "Peter Galison", "Ray Bradbury", "Robert A. Heinlein", "St. Augustine", "Yoko Ono"]
 archive_url: "https://web.archive.org/web/20100501000000/http://www.thewaythefutureblogs.com/2009/02/the-book-place/"
-prev_post_url: "/posts/2009-02-18-day-of-the-plutoid/"
+prev_post_url: "/fred-pohl/2009-02-18-day-of-the-plutoid/"
 prev_post_title: "Day of the Plutoid"
-next_post_url: "/posts/2009-02-25-home-at-last/"
+next_post_url: "/fred-pohl/2009-02-25-home-at-last/"
 next_post_title: "Home at Last"
 translated: false
 ---
@@ -68,18 +68,18 @@ Well, I haven’t got around to talking about some books I’m glad to have read
 - Jen says:
 We were on the Maasdam this January, and I was surprised to find that they actually had a fairly good collection of science fiction.  Not incredibly extensive, and you did have to search through the fiction/new books section to find it, but I read the latest Ender book, my husband found a Clarke, and I’m pretty sure that Gateway was there among a good number of other new novels and series books.  
 I talked to the librarian one night (great, charming woman), and apparently it’s pretty much up to the librarians what they choose to order, so I guess that we lucked out with her selections.
-[**February 20, 2009, 5:07 am**](/posts/2009-02-20-the-book-place/)
+[**February 20, 2009, 5:07 am**](/fred-pohl/2009-02-20-the-book-place/)
 - [Jeff](https://web.archive.org/web/20090502031712/http://jeffcrook.blogspot.com/) says:
 Sorry, but Maureen Dowd is anything but an acute political writer. She is a hack. She’s a glorified gossip columnist who obsesses on gender and magnifies trivialities, when she isn’t just making things up completely. Maureen is such a terrible hack that the Times’ own public editor, Clark Hoyt, slammed her in a Times column back in July of last year. 
 If you want a detailed exposé of her sublime hackery, I suggest the writings of Bob Somerby at [http://www.dailyhowler.com](https://web.archive.org/web/20090502031712/http://www.dailyhowler.com/). Type “Dowd” in his search bar for the full bore clown show. Bob does an excellent job dissecting the circus of idiots that is the modern news media.
-[**February 20, 2009, 8:18 am**](/posts/2009-02-20-the-book-place/)
+[**February 20, 2009, 8:18 am**](/fred-pohl/2009-02-20-the-book-place/)
 - [Eunoia](https://web.archive.org/web/20090502031712/http://www.savory.de/blog.htm) says:
 Sea(sic!) it this way, Fred:-
 Looking at your deck plan, the ‘Library’ is bigger than both the ‘Art Gallery’ and the ‘Luxury Shop’, so don’t knock them too hard 
-[**February 22, 2009, 5:28 am**](/posts/2009-02-20-the-book-place/)
+[**February 22, 2009, 5:28 am**](/fred-pohl/2009-02-20-the-book-place/)
 - J. S. Jones says:
 H-A should definitely have (at least!) one of yours on each ship. And every South Pacific cruise ship should have a copy of Heinlein’s Job. *wicked grin*
-[**February 23, 2009, 1:45 am**](/posts/2009-02-20-the-book-place/)
+[**February 23, 2009, 1:45 am**](/fred-pohl/2009-02-20-the-book-place/)
 
 [WordPress](https://web.archive.org/web/20090502031712/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090502031712/http://dicksmithsoftware.com/)

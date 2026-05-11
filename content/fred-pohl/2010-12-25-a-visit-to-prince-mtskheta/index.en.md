@@ -4,9 +4,9 @@ date: 2010-12-25
 categories: ["Personal", "Travel"]
 tags: ["Communism", "Edward VII", "Ferdinand Foch", "Florence Nightingale", "Georges Clemenceau", "Heinrich Himmler", "Joseph Stalin", "Nikita Khrushchev", "Russia"]
 archive_url: "https://web.archive.org/web/20140701000000/http://www.thewaythefutureblogs.com/2010/12/a-visit-to-prince-mtskheta/"
-prev_post_url: "/posts/2010-12-24-the-poem-prince-jernikidze/"
+prev_post_url: "/fred-pohl/2010-12-24-the-poem-prince-jernikidze/"
 prev_post_title: "The Poem ‘Prince Jernikidze’"
-next_post_url: "/posts/2010-12-26-stoning-sinners-and-other-symptoms-of-evil/"
+next_post_url: "/fred-pohl/2010-12-26-stoning-sinners-and-other-symptoms-of-evil/"
 next_post_title: "Stoning Sinners … and Other Symptoms of Evil"
 translated: false
 ---
@@ -122,7 +122,7 @@ So when that particular season of fighting was over — that is, the Russian Rev
 “Sure he smiled,”  said one of the others.  “He’s the noble from this region who’s still alive.”
 
 
-And it was much later, long after I’d learned the poem “[**Prince Jernikidze**](/posts/2010-12-24-the-poem-prince-jernikidze/),” that I realized whose incarnation I had met.
+And it was much later, long after I’d learned the poem “[**Prince Jernikidze**](/fred-pohl/2010-12-24-the-poem-prince-jernikidze/),” that I realized whose incarnation I had met.
 
 
 ### 7 Comments
@@ -137,32 +137,32 @@ and
 [http://www.youtube.com/watch?v=clDW1jTvrA8](https://web.archive.org/web/20150922015316/http://www.youtube.com/watch?v=clDW1jTvrA8)
 It is in Georgian without subtitles but the music and flowers are fantastic.
 Thank you for posting this, and indeed for all your posts over the last two years!
-[**December 25, 2010, 2:03 am**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**December 25, 2010, 2:03 am**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 - Jim Flanagan says:
 Merry Christmas, Frederik!  Your books, stories and blog have given me much pleasure over the years and your continued energy in the face of old-man time continues to give me hope as I begin to battle him in earnest as I start to get older.
 Thank You  
 
 Jim
-[**December 25, 2010, 9:53 am**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**December 25, 2010, 9:53 am**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 - Kirk says:
 Great Christmas story, have a good holiday!
-[**December 25, 2010, 3:24 pm**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**December 25, 2010, 3:24 pm**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 - [Jack Deighton](https://web.archive.org/web/20150922015316/http://jackdeighton.co.uk/) says:
 Nice story. You got about a lot didn’t you?
 The Prince of Wales you mentioned would become Edward VII – or, if you’re Scottish, Edward I. The previous six Edwards were only ever Kings of England (which also encompassed Wales, bits of France and sometimes Ireland) and not of the UK as a whole.
 As a US citizen you’re quite right not to care about any of this.
-[**December 26, 2010, 2:55 pm**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**December 26, 2010, 2:55 pm**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 - [Chris](https://web.archive.org/web/20150922015316/http://www.lahatte.blogspot.com/) says:
 You touch on the role of the Georgian tamada who is in charge of the dinner party. This is a serious role, of toastmaster but with the added requirement of being good host, to ensure that all eat and drink well, but not too well, that he must be articulate and even a poet if needed. It is an ancient and honourable role, and one we could emulate. But your blog post has an element of poetry too, and perhaps in century 21 the tamada is a blogmaster too.
-[**December 26, 2010, 4:08 pm**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**December 26, 2010, 4:08 pm**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 - Rich Rostrom says:
 Fascinating story.
 I never knew that Himmler ever visited the USSR. It must have been during the period of the Hitler-Stalin Pact, as German forces never reached that part of Georgia.
-[**December 30, 2010, 2:44 am**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**December 30, 2010, 2:44 am**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 - Robert Leyland says:
 Fascinating, and really delightful.  Man’s “inhumanity” to man is so sad.
 Thanks you for sharing.
-[**January 3, 2011, 6:19 pm**](/posts/2010-12-25-a-visit-to-prince-mtskheta/)
+[**January 3, 2011, 6:19 pm**](/fred-pohl/2010-12-25-a-visit-to-prince-mtskheta/)
 
 [WordPress](https://web.archive.org/web/20150922015316/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150922015316/http://dicksmithsoftware.com/)

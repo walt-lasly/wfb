@@ -4,9 +4,9 @@ date: 2011-04-04
 categories: ["Authors", "Writing"]
 tags: ["Alfred Bester", "C.M. Kornbluth", "Clubs", "Collaborating", "Damon Knight", "Donald A. Wollheim", "Futurians", "Isaac Asimov", "Jack Williamson", "Lester del Rey", "Mary Kornbluth", "Medicine", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20210701000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-5-collaboration-futurians/"
-prev_post_url: "/posts/2011-04-01-me-and-alfie-part-4-rejection/"
+prev_post_url: "/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/"
 prev_post_title: "Me and Alfie, Part 4:  Rejection"
-next_post_url: "/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
+next_post_url: "/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
 next_post_title: "Me and Alfie, Part 6: John W. Campbell and Dianetics"
 translated: false
 ---
@@ -27,7 +27,7 @@ Frederik Pohl
 Audience: Could you elaborate on how you co-write with someone?
 
 
-Pohl: With [**Cyril Kornbluth**](/posts/2009-04-20-cyril/)? Well, it’s different with different people. It’s like being married! Incidentally, Alfie, have you ever collaborated on fiction?
+Pohl: With [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/)? Well, it’s different with different people. It’s like being married! Incidentally, Alfie, have you ever collaborated on fiction?
 
 
 Bester: Never. I’ve never collaborated in my life. I’ve strictly been a loner always.
@@ -39,7 +39,7 @@ Pohl: I’m afraid I’ve been much more promiscuous than you have!
 Bester: I’m curious, too, Fred. What was it like working with Cyril?
 
 
-Pohl: Well, Cyril Kornbluth and I grew up together. We began writing together when I was about 18 or 19 and Cyril maybe 15. We belonged to a thing called the [**Futurians**](/posts/2009-05-08-the-quadrumvirate/); it was a science-fiction fan club in New York in the late ’30s and early ’40s. There’s a book by [Damon Knight](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/DKnight.html) called [The Futurians](https://web.archive.org/web/20170619231008/http://www.amazon.com/gp/product/B0006COUA8?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0006COUA8), which I think is in print here now, full of all sorts of libelous, slanderous gossip about all of us. Much of which is true, but he shouldn’t have said it anyhow! People like [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)  and [Don Wollheim](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/wollheim.html) and others would have paid him well not to publish the book.
+Pohl: Well, Cyril Kornbluth and I grew up together. We began writing together when I was about 18 or 19 and Cyril maybe 15. We belonged to a thing called the [**Futurians**](/fred-pohl/2009-05-08-the-quadrumvirate/); it was a science-fiction fan club in New York in the late ’30s and early ’40s. There’s a book by [Damon Knight](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/DKnight.html) called [The Futurians](https://web.archive.org/web/20170619231008/http://www.amazon.com/gp/product/B0006COUA8?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0006COUA8), which I think is in print here now, full of all sorts of libelous, slanderous gossip about all of us. Much of which is true, but he shouldn’t have said it anyhow! People like [**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)  and [Don Wollheim](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/wollheim.html) and others would have paid him well not to publish the book.
 
 
 But we all belonged to this club and we all wanted to write and we all tried. Cyril and I began working together and as we were just beginning to write we developed a lot of each other’s writing habits. We started much the same way, we were used to each other. Then the war came along. He went one way and I went another. And then we got together again on [The Space Merchants](https://web.archive.org/web/20170619231008/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511). And with Cyril, because we had this background of common experience and common attitudes, writing was almost painless on most of what we wrote. We published altogether I think, seven novels and maybe 30 or 40 short stories.
@@ -72,7 +72,7 @@ Bester: I’ve another question! Timewise, sometimes the four pages would take f
 Pohl: Well, there’s a great incentive to speed when you know that the other guy is down there having a great time, and you want to break it up as quickly as possible, so usually it only took a couple of hours. You know that the other guy is waiting, and if you don’t get down there pretty soon he’ll be off to a bar somewhere. So we worked pretty fast. It’s a good way to write a book with two people who are close enough in their ways of work that they don’t kill each other.
 
 
-I wrote a novel with [**Lester del Rey**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)  once and we almost did kill each other. He was one of my closest friends up until that point. Now we’ll never write another word together.
+I wrote a novel with [**Lester del Rey**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)  once and we almost did kill each other. He was one of my closest friends up until that point. Now we’ll never write another word together.
 
 
 Bester: Why was he difficult?
@@ -87,7 +87,7 @@ Lester left to himself will sit at a typewriter and produce first lines for abou
 I can’t do that. I like to be surprised as I go along. Two or three times in my life I’ve come close to killing someone and one of them was Lester when we were writing that novel. So it’s all different with different people.
 
 
-I’ve written seven novels, I think, with [**Jack Williamson**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/) and they’re quite different.
+I’ve written seven novels, I think, with [**Jack Williamson**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/) and they’re quite different.
 
 
 Bester: How was he to work with?
@@ -114,7 +114,7 @@ Cyril tried faithfully for about three weeks to do what the doctor said. He was 
 So he made a conscious decision and said, “Well, I’ll go back to my evil ways and if I die within a year, at least I will have lived for a year!” And he did, and he died just about a year later.
 
 
-Bester: What was [**his wife**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) like?
+Bester: What was [**his wife**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/) like?
 
 
 Pohl: They met when she was a young fan. They have two children. She’s still living in upstate New York.
@@ -140,25 +140,25 @@ And he looked at me in astonishment. “My God!” he said, “Bester, you break
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
-- **Fred’s Distilled Writing Wisdom**, [**Collaboration**](/posts/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [**What the Other Guy Does**](/posts/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Part 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Fred’s Distilled Writing Wisdom**, [**Collaboration**](/fred-pohl/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [**What the Other Guy Does**](/fred-pohl/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
 
 
 ### 4 Comments
 
 - David Goldfarb says:
 I’m reminded of a quote from Flaubert:  “Be regular and orderly in your life, so that you may be violent and original in your work.”
-[**April 4, 2011, 1:00 am**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**April 4, 2011, 1:00 am**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 - [Steve Boyko](https://web.archive.org/web/20170619231008/http://www.traingeek.ca/) says:
 I’m really enjoying this series… thanks for sharing it!
-[**April 4, 2011, 9:45 am**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**April 4, 2011, 9:45 am**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 - David B. Williams says:
 Don’t rush out to find a copy of The Futurians just for the promised lurid content. I read it when it came out and again a couple of years ago, and nothing struck me as particularly outrageous. Real people, of course, and pretty interesting.
-[**April 4, 2011, 11:49 am**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**April 4, 2011, 11:49 am**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 - Forrest Leeson says:
 I loved THE FUTURIANS to bits, especially the wall newspapers.
-[**May 5, 2011, 12:10 pm**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**May 5, 2011, 12:10 pm**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 
 [WordPress](https://web.archive.org/web/20170619231008/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619231008/http://dicksmithsoftware.com/)

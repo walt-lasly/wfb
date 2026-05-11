@@ -4,9 +4,9 @@ date: 2011-03-15
 categories: ["Miscellaneous"]
 tags: ["Allen Lane", "Donald A. Wollheim", "E.J. Ballantine", "Elsie Wollheim", "Emma Goldman", "Henry Clay Frick", "Ian and Betty Ballantine", "Judy-Lynn del Rey", "Lester del Rey", "Publishing", "Stella Ballantine"]
 archive_url: "https://web.archive.org/web/20191001000000/http://www.thewaythefutureblogs.com/2011/03/ballantines/"
-prev_post_url: "/posts/2011-03-13-bright-sayings-of-bright-people-no-11-dunsany/"
+prev_post_url: "/fred-pohl/2011-03-13-bright-sayings-of-bright-people-no-11-dunsany/"
 prev_post_title: "Bright Sayings of Bright People, No. 11: Dunsany"
-next_post_url: "/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
+next_post_url: "/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
 next_post_title: "Volcanic terrorism:All the Lives He Leddue out in April"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="ballantine_betty.jpg" alt="Betty Ballantine" caption="Betty Ballantine" >}}
 
 
-Команды редакторов и издателей, состоящие из мужа и жены, не являются обычным явлением в реальном мире книг.  На самом деле, я знаю только о трех, и, что интересно, все трое добились своих самых больших успехов в области научной фантастики.   Лестер и Джуди Линн Дель Рей были первыми издателями, которые включили книги в жанре НФ и фэнтези в почитаемые еженедельные списки бестселлеров New York Times.  (Мы [** обсуждали их здесь**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/) некоторое время назад.).  Чуть позже Дональд и [Элси Уоллхейм](https://web.archive.org/web/20170619201145/http://wiki.feministsf.net/index.php?title=Elsie_Balter) забили гол своей галкой (за [Дональда Аллена Уоллхейма](https://web.archive.org/web/20170619201145/http://www.gcwillick.com/Spacelight/wollheim.html)). Книги. Мы обратимся к ним в (довольно) ближайшем будущем.
+Команды редакторов и издателей, состоящие из мужа и жены, не являются обычным явлением в реальном мире книг.  На самом деле, я знаю только о трех, и, что интересно, все трое добились своих самых больших успехов в области научной фантастики.   Лестер и Джуди Линн Дель Рей были первыми издателями, которые включили книги в жанре НФ и фэнтези в почитаемые еженедельные списки бестселлеров New York Times.  (Мы [** обсуждали их здесь**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/) некоторое время назад.).  Чуть позже Дональд и [Элси Уоллхейм](https://web.archive.org/web/20170619201145/http://wiki.feministsf.net/index.php?title=Elsie_Balter) забили гол своей галкой (за [Дональда Аллена Уоллхейма](https://web.archive.org/web/20170619201145/http://www.gcwillick.com/Spacelight/wollheim.html)). Книги. Мы обратимся к ним в (довольно) ближайшем будущем.
 
 
 Третьей командой, удостоившейся этого редкого отличия, были [Иэн и Бетти Баллантайны](https://web.archive.org/web/20170619201145/http://www.nndb.com/people/229/000174704), на которых мы сейчас посмотрим, и в некотором смысле Баллантайны были самыми замечательными из всех.
@@ -77,33 +77,33 @@ translator: "Yandex"
 А как насчет других “категорий палп”, таких как вестерны, морские истории, обычные приключения?
 Это было бы в 1939 году. Хм. У меня есть “книга в мягкой обложке” начала 1920-х годов, которая не является ни тем, ни другим. Это “современный вестерн”: западное приключение, действие которого происходит примерно во время публикации (около 1922 года), а не на Старом Западе. Формат примерно такой же, как у журнала “размер дайджеста”, то есть журналов НФ 1960-х годов, так что, возможно, это не считается “книгой”?
 Или публикации в таком формате прекратились к 1939 году, за исключением криминала / романтики?
-[**15 марта 2011, 10:38 вечера**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[**15 марта 2011, 10:38 вечера**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 - Малкольм Эдвардс говорит:
 Я не очень много знаю об истории издательства в США, но я знаю достаточно, чтобы знать, что "Кнопф" был основан и управлялся в течение многих лет Альфредом и Бланш Кнопф, а "Пантеон" был основан и управлялся Куртом и Хелен Вольф.
 Здесь, в Великобритании, различные компании — Futura, Century, Orion — были основаны и некоторое время управлялись небольшой группой, в которую входили Энтони и Рози Читэм.
-[** 16 марта 2011, 15:08**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[** 16 марта 2011, 15:08**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 - [Роберт Новолл](https://web.archive.org/web/20170619201145/http://www.robertnowall.com/) говорит:
 А как насчет пары, которая раньше управляла компанией Walker &amp; Co?
 ...и, насколько я знаю, все еще может им управлять?
-[**17 марта 2011 года, 8:17 утра**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[**17 марта 2011 года, 8:17 утра**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20170619201145/http://beamjockey.livejournal.com/) говорит:
 Мне интересно, что автор книги "Нервы ’86" — извините, Чернобыль* — думает о новостях из Японии в эти дни.
-[** 18 марта 2011 года, 9:21 утра**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[** 18 марта 2011 года, 9:21 утра**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 - [Сью Лондон](https://web.archive.org/web/20170619201145/http://suecentral.blogspot.com/) говорит:
 Получив эту информацию, я сказала своему мужу, что наш новый карьерный путь, очевидно, заключается в открытии издательства. Такая смена карьеры в наши 40 лет не должна быть проблемой, верно?
-[**19 марта 2011, 19:27 вечера**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[**19 марта 2011, 19:27 вечера**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 - Нил из Чикаго говорит:
 Иэн Баллантайн был племянником Эммы Голдман.  
 
 Я думаю, мой мозг просто застыл.  
 
 (Я полагаю, вы знаете, что она похоронена здесь, на кладбище Вальдхайм, но, возможно, вы не знали, что ее день рождения в конце июня обычно является импровизированным пикником в секции анархистов.)
-[** 20 марта 2011 года, 10:13 утра**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[** 20 марта 2011 года, 10:13 утра**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 - Изабель Рашкинд Штайн говорит:
 Мне посчастливилось работать с Иэном и Бетти в издательстве Ballantine Books в начале 1970-х годов. Они оба были замечательными, дальновидными людьми.
 Бетти была замечательным наставником для меня и очень заботливым редактором для своих авторов. Она защищала авторов научной фантастики еще до того, как научная фантастика стала очень популярной, а также очень интересовалась проблемами окружающей среды и здорового образа жизни.
 Их корги, Руфус Баллантайн, часто приходил в офис и придавал помещению домашний уют. Я слышал, что когда они только начинали, у них было так мало сотрудников, что им пришлось назначить Руфуса казначеем.
-[** 18 августа 2012 года, 11:51 утра**](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
+[** 18 августа 2012 года, 11:51 утра**](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/)
 
 [WordPress](https://web.archive.org/web/20170619201145/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619201145/http://dicksmithsoftware.com/)

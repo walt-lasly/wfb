@@ -4,9 +4,9 @@ date: 2010-06-08
 categories: ["Authors", "Books", "Personal"]
 tags: ["Arthur C. Clarke", "Brendan Behan", "James Randi", "Johnny Carson", "New York", "Religion", "The Last Theorem", "Uri Geller"]
 archive_url: "https://web.archive.org/web/20120615095150/http://www.thewaythefutureblogs.com/2010/06/more-about-sir-arthur-c-clarke/"
-prev_post_url: "/posts/2010-06-04-all-right-you-got-me/"
+prev_post_url: "/fred-pohl/2010-06-04-all-right-you-got-me/"
 prev_post_title: "All Right, You Got Me!"
-next_post_url: "/posts/2010-06-11-what-made-the-futurians-laugh-the-shaggy-dog-story/"
+next_post_url: "/fred-pohl/2010-06-11-what-made-the-futurians-laugh-the-shaggy-dog-story/"
 next_post_title: "What Made the Futurians Laugh:  The Shaggy Dog Story"
 translated: false
 ---
@@ -20,7 +20,7 @@ Frederik Pohl
 ## More about Sir Arthur C. Clarke
 
 
-I found some notes about [**Sir Arthur C. Clarke**](/posts/2009-01-05-sir-arthur-and-i/) that I had filed somewhere and didn’t have handy at the time of his unexpected death, so they got left out of the things I wrote about him at the time.  So here they are:
+I found some notes about [**Sir Arthur C. Clarke**](/fred-pohl/2009-01-05-sir-arthur-and-i/) that I had filed somewhere and didn’t have handy at the time of his unexpected death, so they got left out of the things I wrote about him at the time.  So here they are:
 
 
 * * *
@@ -59,7 +59,7 @@ By the way, if any of you happen to pass near the [Hotel Chelsea](https://web.ar
 **Related post:**
 
 
-[**Sir Arthur and I**](/posts/2009-01-05-sir-arthur-and-i/)
+[**Sir Arthur and I**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 
 
 ### 13 Comments
@@ -67,32 +67,32 @@ By the way, if any of you happen to pass near the [Hotel Chelsea](https://web.ar
 - [RAB](https://web.archive.org/web/20120615095150/http://estoreal.blogspot.com/) says:
 Yep.  It was put up on September 29, 2004…which seems a bit late if you ask me!  I don’t have a photo of my own, but here’s the first one I found online:
 [http://entropybound.blogspot.com/2008/03/arthur-c-clarke-starchild.html](https://web.archive.org/web/20120615095150/http://entropybound.blogspot.com/2008/03/arthur-c-clarke-starchild.html)
-[**June 8, 2010, 2:43 am**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 2:43 am**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Ken Houghton](https://web.archive.org/web/20120615095150/http://angrybearblog.com/) says:
 There was a petition/campaign for Clarke to get a plaque at the Chelsea several years ago.  It was clearly successful; see <a href=\"[http://www.chelseahotelblog.com/living_with_legends_the_h/2008/03/arthur-c-clarke.html](https://web.archive.org/web/20120615095150/http://www.chelseahotelblog.com/living_with_legends_the_h/2008/03/arthur-c-clarke.html)\">here</a>.
-[**June 8, 2010, 8:29 am**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 8:29 am**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Ken Houghton](https://web.archive.org/web/20120615095150/http://angrybearblog.com/) says:
 Oops, make that [here](https://web.archive.org/web/20120615095150/http://www.chelseahotelblog.com/living_with_legends_the_h/2008/03/arthur-c-clarke.html).
-[**June 8, 2010, 8:29 am**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 8:29 am**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - John H says:
 It’s amazing what you can find on the Interwebs: Here is a link to the plaque for Arthur at the Chelsea — [http://www.chelseahotelblog.com/living_with_legends_the_h/2008/03/arthur-c-clarke.html](https://web.archive.org/web/20120615095150/http://www.chelseahotelblog.com/living_with_legends_the_h/2008/03/arthur-c-clarke.html)
-[**June 8, 2010, 8:58 am**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 8:58 am**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [TJIC](https://web.archive.org/web/20120615095150/http://tjic.com/) says:
 > Unfortunately, I can’t teach it to any of you
 Happily, Google and Youtube exist.  It takes about three seconds to find dozens of folks explaining and demonstrating the trick.
-[**June 8, 2010, 9:01 am**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 9:01 am**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - Patrick Di Justo says:
 Yes indeed, there is a brass plaque right near the front door of the Chelsea, stating that Sir Arthur C Clarke wrote “2001: A Space Odyssey” right there at the Chelsea Hotel. 
-[**June 8, 2010, 12:38 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 12:38 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - Patrick Di Justo says:
 Here is a picture of the plaque:  [http://www.flickr.com/photos/shinerob/2463338431/](https://web.archive.org/web/20120615095150/http://www.flickr.com/photos/shinerob/2463338431/)
-[**June 8, 2010, 12:39 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 12:39 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - Ross Presser says:
 He sure did.  
 
 [http://famousankles.files.wordpress.com/2007/10/20071026-chelsea-hotel-04-plaque-2.jpg](https://web.archive.org/web/20120615095150/http://famousankles.files.wordpress.com/2007/10/20071026-chelsea-hotel-04-plaque-2.jpg)
 (Elapsed time from reading your post to finding this image with Google: less than 5 minutes)
-[**June 8, 2010, 4:01 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 4:01 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20120615095150/http://beamjockey.livejournal.com/) says:
 \"Well. Arthur did much the same thing and, I believe, rather expected much the same treatment. What I don’t know is whether he got it.\"
 He did.
@@ -109,23 +109,23 @@ he wrote \"2001: A Space Odyssey\"
 here at the Chelsea Hotel.
 [picture of HAL\'s camera lens]
 \"I\’m sorry, Dave. I can\’t do that.\"
-[**June 8, 2010, 6:19 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 6:19 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Karl Johanson](https://web.archive.org/web/20120615095150/http://www.neo-opsis.ca/) says:
 I wish you had a video of doing the spoon trick for Clarke. You created the image in my head though, so thank you for that!
-[**June 8, 2010, 8:52 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 8:52 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Brian](https://web.archive.org/web/20120615095150/http://astoundingartifacts.blogspot.com/) says:
 As always, a great little story. Thanks!
 To return the favor, I’m happy to report that, yes, Arthur C. Clarke is memorialized on the facade of the Chelsea Hotel. It commemorates his work overall, and in particular, the fact that he wrote a goodly portion (or was it the entirety?) of *2001: A Space Odyssey* while staying there.
-[**June 8, 2010, 9:32 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 9:32 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Gary Farber](https://web.archive.org/web/20120615095150/http://amygdalagf.blogspot.com/) says:
 “What I don’t know is whether he got it.”
 He did, [apparently](https://web.archive.org/web/20120615095150/http://www.chelseahotelblog.com/living_with_legends_the_h/2006/09/chelsea_faade_g.html):  
 
  [...] The big question now is, where are they going to mount the new plaque?  In case you haven’t looked at the facade of the hotel, there are already plaques honoring Thomas Wolfe, James Schuyler, Dylan Thomas, Brendan Behan, Arthur C. Clarke, and Virgil Thomson.
-[**June 8, 2010, 11:02 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 8, 2010, 11:02 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 - [Bald Guy](https://web.archive.org/web/20120615095150/http://www.irememberjfk.com/) says:
 I have happy memories of reading OMNI magazine in the late 70′s, and enjoying Randi’s attacks on Geller.  
-[**June 9, 2010, 12:14 pm**](/posts/2010-06-08-more-about-sir-arthur-c-clarke/)
+[**June 9, 2010, 12:14 pm**](/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/)
 
 [WordPress](https://web.archive.org/web/20120615095150/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120615095150/http://dicksmithsoftware.com/)

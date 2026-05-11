@@ -4,9 +4,9 @@ date: 2010-01-03
 categories: ["Personal", "Science", "Travel"]
 tags: ["Elizabeth Anne Hull", "Korea", "New York", "Paolo Soleri", "Religion", "Sakyo Komatsu", "Sun Myung Moon", "Yugoslavia"]
 archive_url: "https://web.archive.org/web/20011101000000/http://www.thewaythefutureblogs.com/2010/01/interesting-meetings-ive-attendedweekends-with-the-moonies/"
-prev_post_url: "/posts/2009-12-24-lem-s-opera/"
+prev_post_url: "/fred-pohl/2009-12-24-lem-s-opera/"
 prev_post_title: "Lem’s Opera"
-next_post_url: "/posts/2010-01-07-bits-and-pieces/"
+next_post_url: "/fred-pohl/2010-01-07-bits-and-pieces/"
 next_post_title: "Bits and Pieces"
 translated: false
 ---
@@ -94,7 +94,7 @@ Soleri’s a brilliant man with good ideas, but somebody should have whispered i
 
 **Related post:**  
 
-[**The Worlds of L. Ron Hubbard**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+[**The Worlds of L. Ron Hubbard**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/)
 
 
 ### 7 Comments
@@ -103,7 +103,7 @@ Soleri’s a brilliant man with good ideas, but somebody should have whispered i
 Man, you get the most interesting gigs!
 Somewhere in the 80s the term “arcology” got repurposed, from “dense sustainable housing integrated into an environment” to “gigantic mixed-use megastructure cut off from surrounding area.”
 It might have been that Niven & Pournelle novel, or *Neuromancer*.
-[**January 3, 2010, 9:30 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**January 3, 2010, 9:30 pm**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Tom says:
 The moonies have been found guilty of swindling hundreds of millions, likely billions, of dollars from the Japanese, literally targeting widows with their scams. They have doing it for decades and arrests continue because they will not stop. They see Japan as the “Eve” nation that must fund Moon’s political activities and intel gathering for his movement and its friends as part of “God’s” plan.
 So how easy is it to rationalize using money to fund your “trips” that was made conning widows? Just look the other way or as your article reflects, you have no clue who Moon is or what he is about? You just find a way to rationalize your own involvement and then never learn enough to find out how foolish you were? Or for that matter, Moon brags about how the WT helps him gain intel from around the world. How much help did you and the others give him? Seriously, do you know enough about him to tell why he had you there? Or did you buy that he was just a good old soul looking to help the world? hah
@@ -111,22 +111,22 @@ Most rationalizers claim that no one tried to “convert” them so who cares, r
 Watch this video - this is a quote from it. It’s James Whelan, the first editor of the WT, he has a message for you.
  [http://tinyurl.com/yqqbmz](https://web.archive.org/web/20111014233543/http://tinyurl.com/yqqbmz) 
 “They (the Moonies) are subverting our political system. They’re doing it through front organizations–most of them disguised–and through their funding of independent organizations–through the placement of volunteers in the inner sanctums of hard-pressed organizations. In every instance–in every instance–those who attend their conferences, those who accept their money or their volunteers, delude themselves that there is no loss of virtue because the Moonies have not proselytized. That misses the central, crucial point: the Moonies are a political movement in religious clothing. Moon seeks power, not the salvation of souls. To achieve that, he needs religious fanatics as his palace guard and shock troops. But more importantly, he needs secular conscripts–seduced by money, free trips, free services, seemingly endless bounty and booty–in order to give him respectability and, with it, that image of influence which translates as power.”
-[**January 4, 2010, 4:03 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**January 4, 2010, 4:03 pm**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - [Robert Nowall](https://web.archive.org/web/20111014233543/http://www.robertnowall.com/) says:
 Mistrust of the Moonies has kept me away from the Washington Times…much as mistrust of the Scientologists has kept me away from the Writers of the Future.  I’m leery of certain people or groups, whatever their ideological orientation.
-[**January 5, 2010, 7:57 am**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**January 5, 2010, 7:57 am**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - [Johnny Pez](https://web.archive.org/web/20111014233543/http://johnnypez9.blogspot.com/) says:
 New rule: Philadelphia must now be pronounced “Fladdleflah” because the Reverend Moon says so.
-[**January 7, 2010, 5:45 am**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**January 7, 2010, 5:45 am**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Tina Black says:
 Hey, at least Moon doesn’t drag in Space Aliens.
-[**January 7, 2010, 3:04 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**January 7, 2010, 3:04 pm**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Joe Fodor says:
 yes, Tom — By eating sushi in the US you also support Moon’s world domination plans, or so I’ve heard from similarly concerned folk. Having the planet completely controlled by Moon and his family seems a small price to pay for a steady supply of fresh tuna roll, in my opinion.  Though I guess it’s bad for the environment and I should be eating more tilapia and farm-raised catfish instead.
-[**January 8, 2010, 10:30 am**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**January 8, 2010, 10:30 am**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 - Cap'n Bob says:
 If we could get the Moonies and Scientologists to fight each other for world domination, it would be wonderful.
-[**August 18, 2011, 4:40 pm**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+[**August 18, 2011, 4:40 pm**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
 
 [WordPress](https://web.archive.org/web/20111014233543/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111014233543/http://dicksmithsoftware.com/)

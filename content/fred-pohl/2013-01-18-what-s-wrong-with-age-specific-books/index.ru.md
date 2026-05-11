@@ -4,9 +4,9 @@ date: 2013-01-18
 categories: ["Books"]
 tags: ["Marcel Proust", "Mark Twain"]
 archive_url: "https://web.archive.org/web/20150701000000/http://www.thewaythefutureblogs.com/2013/01/whats-wrong-with-age-specific-books/"
-prev_post_url: "/posts/2013-01-16-getting-the-juices-flowing/"
+prev_post_url: "/fred-pohl/2013-01-16-getting-the-juices-flowing/"
 prev_post_title: "Getting the Juices Flowing"
-next_post_url: "/posts/2013-01-20-bright-sayings-of-bright-people-no-40-zuma/"
+next_post_url: "/fred-pohl/2013-01-20-bright-sayings-of-bright-people-no-40-zuma/"
 next_post_title: "Bright Sayings of Bright People, No. 40: Zuma"
 translated: false
 translator: "Yandex"
@@ -37,7 +37,7 @@ translator: "Yandex"
 Так что, когда мне было шесть, я предпочитал читать книги, которые были помечены как предназначенные для двенадцати лет, а в двенадцать у меня терпения хватило только для объявленных “взрослых” произведений.  Может быть, поэтому, из тысяч прочитанных мною книг, прежде чем я был достаточно стар, чтобы иметь читательский билет взрослому, по-прежнему лишь немногие дали место в ящике, это был мой “книжный шкаф”.
 
 
-Там были, по сути, точно две книги, которые я не только сохранил, но читал снова и снова, раз в год или около того, и собственно говоря я их до сих пор..  Они [**Марк Твен**](/posts/2010-09-04-mark-twain-and-the-law-of-the-raft/) [Гекльберри Финн](https://web.archive.org/web/20140912005544/http://manybooks.net/titles/twainmaretext93hfinn12.html) и Марселя Пруста [Сванна сторону](https://web.archive.org/web/20140912005544/http://manybooks.net/titles/proustmaetext048swnn10.html) (сейчас на ее законное место один эпизод, что я до сих пор думаю, как *воспоминание о прошлом*.)
+Там были, по сути, точно две книги, которые я не только сохранил, но читал снова и снова, раз в год или около того, и собственно говоря я их до сих пор..  Они [**Марк Твен**](/fred-pohl/2010-09-04-mark-twain-and-the-law-of-the-raft/) [Гекльберри Финн](https://web.archive.org/web/20140912005544/http://manybooks.net/titles/twainmaretext93hfinn12.html) и Марселя Пруста [Сванна сторону](https://web.archive.org/web/20140912005544/http://manybooks.net/titles/proustmaetext048swnn10.html) (сейчас на ее законное место один эпизод, что я до сих пор думаю, как *воспоминание о прошлом*.)
 
 
 Почему эти двое и не Почти кто-нибудь еще?  Я думаю, что это как-то связано с тем, что оба они имели в первом чтении, открыла для меня стабильной и самодостаточной внешней среды я никогда не сталкивалась раньше — и это было совсем не похоже на Парк Слоуп, Бруклин, в район я жил в возрасте от десяти до двадцати.  Скорее всего, они раскрыли мне слова, которых я не знал, но иногда можно выяснить из контекста.
@@ -51,7 +51,7 @@ translator: "Yandex"
 - [эдх](https://web.archive.org/web/20140912005544/http://thespanishdisaster.blogspot.com/) ,- говорит:
 Я работаю в Испании, где детских книг часто – да почти всегда – приходят с рекомендациями возраст на обложках. Несмотря на это, когда продажа книг (я продаю детские книги на английском языке) я почти всегда на принцип, отказываются отвечать на вопросы клиентов о том, что возраст Груп любой момент книга для. Понятно, что их надо задать.
 Среди книг я продаю Гекльберри Финна. Тем не менее, содержат некоторые интересные и действительно спорный словарный запас!
-[**Январь 20, 2013, 4:33 пп**](/posts/2013-01-18-what-s-wrong-with-age-specific-books/)
+[**Январь 20, 2013, 4:33 пп**](/fred-pohl/2013-01-18-what-s-wrong-with-age-specific-books/)
 
 [На WordPress](https://web.archive.org/web/20140912005544/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140912005544/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2014-01-02
 categories: ["Betty's Posts", "Science"]
 tags: ["Ecology", "Elizabeth Anne Hull", "Psychology"]
 archive_url: "https://web.archive.org/web/20170901000000/http://www.thewaythefutureblogs.com/2014/01/mother-love-and-the-threat-of-global-warming-2/"
-prev_post_url: "/posts/2013-12-31-the-story-of-the-space-merchants-part-4/"
+prev_post_url: "/fred-pohl/2013-12-31-the-story-of-the-space-merchants-part-4/"
 prev_post_title: "The Story ofThe Space Merchants, Part 4"
-next_post_url: "/posts/2014-01-05-the-story-of-the-space-merchants-part-5/"
+next_post_url: "/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/"
 next_post_title: "The Story ofThe Space Merchants, Part 5"
 translated: false
 translator: "Yandex"
@@ -59,7 +59,7 @@ translator: "Yandex"
 
 - кэллин 18 говорит:
 У большинства людей, с которыми я общаюсь, любовь к Матери-Земле недостаточно сильна, потому что большинство экологических последствий носят долгосрочный, а не краткосрочный характер. Я часто слышу: “Я буду мертв, так почему меня это должно волновать?” Такие вещи, как смог и проблемы с питьевой водой, людям легче решить, потому что они являются неотложными. Похоже, у многих людей возникают проблемы с планированием будущего.
-[**2 января 2014 года, 11:25 утра**](/posts/2014-01-02-mother-love-and-the-threat-of-global-warming/)
+[**2 января 2014 года, 11:25 утра**](/fred-pohl/2014-01-02-mother-love-and-the-threat-of-global-warming/)
 
 [WordPress](https://web.archive.org/web/20160416122456/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416122456/http://dicksmithsoftware.com/)

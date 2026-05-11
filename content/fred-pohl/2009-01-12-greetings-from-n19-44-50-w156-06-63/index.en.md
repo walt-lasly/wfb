@@ -4,9 +4,9 @@ date: 2009-01-12
 categories: ["Books", "Personal", "Travel", "Writing"]
 tags: ["Elizabeth Anne Hull", "Gateway", "Geology", "Hawai'i", "Heechee"]
 archive_url: "https://web.archive.org/web/20090125013352/http://thewaythefutureblogs.com/2009/01/greetings-from-19-deg-4450-min-n-156-deg-0663-min-w/"
-prev_post_url: "/posts/2009-01-07-nice-to-meet-you/"
+prev_post_url: "/fred-pohl/2009-01-07-nice-to-meet-you/"
 prev_post_title: "Nice to Meet You"
-next_post_url: "/posts/2009-01-19-why-i-m-no-pen-pal/"
+next_post_url: "/fred-pohl/2009-01-19-why-i-m-no-pen-pal/"
 next_post_title: "Why I’m No Pen Pal"
 translated: false
 ---
@@ -58,16 +58,16 @@ But it was our daughter Cathy who answered the phone. When she heard that she hu
 Hello there - I want to say up front, you do not need to answer this.  It’s just a standard “Wow, I like your stuff” comment, and I don’t need a response, honestly.  I just wanted to make sure I told you that I’ve always enjoyed your work, since the day Judith Merrill put a copy of Gateway in my hand lo these many years ago.   I’m sorry to hear you’re having such difficulty with your body; I’m only just beginning to experience the slow fade of my own, here at 42.  
 Hope you enjoy your cruise!
 Cait
-[**January 19, 2009, 11:02 pm**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**January 19, 2009, 11:02 pm**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 - jasonmitchell says:
 I love Hawaii, and I love cruising (I have not yet done a Hawaiian cruise) - I hope you have an enjoyable trip.
  I have been a reader of your work for over 20 tears - and look forward to reading ‘The Last Theorem’ - 
 Cheers from chilly Chicago
-[**January 22, 2009, 8:46 am**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**January 22, 2009, 8:46 am**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 - Alli says:
 While I’ve enjoyed your writing, love to cruise and think the idea of a Pohl blog is great, tis not why I write.
 Did she really hang up on him?? Those last 2 paragraphs are hilarious; I’m still chuckling.
-[**January 22, 2009, 8:40 pm**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**January 22, 2009, 8:40 pm**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 
 [WordPress](https://web.archive.org/web/20090125013352/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090125013352/http://dicksmithsoftware.com/)

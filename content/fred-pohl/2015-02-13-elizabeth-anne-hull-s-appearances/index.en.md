@@ -4,9 +4,9 @@ date: 2015-02-13
 categories: ["Personal"]
 tags: ["Conventions", "Elizabeth Anne Hull", "Somtow Sucharitkul"]
 archive_url: "https://web.archive.org/web/20160402091435/http://www.thewaythefutureblogs.com/2015/02/elizabeth-anne-hulls-appearances/"
-prev_post_url: "/posts/2015-01-22-walter-m-miller-jr-my-last-fist-fight/"
+prev_post_url: "/fred-pohl/2015-01-22-walter-m-miller-jr-my-last-fist-fight/"
 prev_post_title: "Walter M. Miller Jr.: My last fist fight"
-next_post_url: "/posts/2015-05-24-where-s-betty-elizabeth-anne-hull-s-public-appearances/"
+next_post_url: "/fred-pohl/2015-05-24-where-s-betty-elizabeth-anne-hull-s-public-appearances/"
 next_post_title: "Where’s Betty?Elizabeth Anne Hull’s public appearances"
 translated: false
 ---
@@ -59,7 +59,7 @@ Betty moderates this panel with Dale Cozort, Mark Huston and Jody Lynn Nye.
 Dear Mrs. Hull: I received your most appreciated Christmas card (no matter the delay when the sentiment is sincere, as you so wisely pointed out. Ireplied by e-mail, since I seldom (or never)use post mail these days. I hope it reached you, for it carried my thanks for your kindness and my own greetings to you for year 2015.  
 
 Your work is amazing, as is your permanent tribute to our dear departed (but nevertheless always here)Fred.
-[**March 1, 2015, 11:42 pm**](/posts/2015-02-13-elizabeth-anne-hull-s-appearances/)
+[**March 1, 2015, 11:42 pm**](/fred-pohl/2015-02-13-elizabeth-anne-hull-s-appearances/)
 
 [WordPress](https://web.archive.org/web/20160402091435/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160402091435/http://dicksmithsoftware.com/)

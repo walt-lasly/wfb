@@ -4,9 +4,9 @@ date: 2014-01-15
 categories: ["Miscellaneous"]
 tags: ["Ecology"]
 archive_url: "https://web.archive.org/web/20170901000000/http://www.thewaythefutureblogs.com/2014/01/say-no-to-the-keystone-xl-pipeline/"
-prev_post_url: "/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/"
+prev_post_url: "/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/"
 prev_post_title: "Stumbling Blocks to Persuasive Writing"
-next_post_url: "/posts/2014-01-28-vaccinations-personal-choice-vs-public-health/"
+next_post_url: "/fred-pohl/2014-01-28-vaccinations-personal-choice-vs-public-health/"
 next_post_title: "Vaccinations: Personal Choice vs. Public Health"
 translated: false
 ---
@@ -46,7 +46,7 @@ Is this what we want?  Vast programs of permanently despoiling America’s prist
 - [Stefan Jones](https://web.archive.org/web/20160416124453/http://www.flickr.com/photos/stefan_e_jones/) says:
 And . . . the main purpose of the pipeline is shipping oil to the Gulf Coast for EXPORT. It is to benefit the *Canadian* oil industry.
 And Canada . . . our once admirable and sane neighbor is becoming a wealth-corrupted oil state.
-[**January 15, 2014, 10:50 pm**](/posts/2014-01-15-say-no-to-the-keystone-xl-pipeline/)
+[**January 15, 2014, 10:50 pm**](/fred-pohl/2014-01-15-say-no-to-the-keystone-xl-pipeline/)
 
 [WordPress](https://web.archive.org/web/20160416124453/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416124453/http://dicksmithsoftware.com/)

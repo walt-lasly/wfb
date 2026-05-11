@@ -4,9 +4,9 @@ date: 2012-01-23
 categories: ["Miscellaneous"]
 tags: []
 archive_url: "https://web.archive.org/web/20251201000000/http://www.thewaythefutureblogs.com/2012/01/howd-you-do/"
-prev_post_url: "/posts/2012-01-21-newt-the-mewtant/"
+prev_post_url: "/fred-pohl/2012-01-21-newt-the-mewtant/"
 prev_post_title: "Newt the Mewtant"
-next_post_url: "/posts/2012-01-25-bright-sayings-of-bright-people-no-24/"
+next_post_url: "/fred-pohl/2012-01-25-bright-sayings-of-bright-people-no-24/"
 next_post_title: "Bright Sayings of Bright People, No. 24"
 translated: false
 translator: "Yandex"
@@ -44,10 +44,10 @@ translator: "Yandex"
 #3 - это неполный ответ.  Члены Кабинета министров также руководят департаментами исполнительной власти, подотчетными Президенту.
 В # 4 есть один сбой.  Вице-президент стоит выше Кабинета министров, а канцелярия вице-президента не является подразделением Кабинета министров.  
 Вице-президент обычно является членом Кабинета министров, но не все вице-президенты были включены в него.  В отличие от Президента и вице-президента, секретари Кабинета министров не занимают выборных должностей, предусмотренных Конституцией.  Фактический состав Кабинета меняется по усмотрению президента.
-[**23 января 2012, 10:46 вечера**](/posts/2012-01-23-how-d-you-do/)
+[**23 января 2012, 10:46 вечера**](/fred-pohl/2012-01-23-how-d-you-do/)
 - Зеф говорит:
 “Чеканить деньги”, а не печатать деньги. Верховный суд постановил, что правительство может печатать деньги, но на самом деле это не та власть, которая прямо предусмотрена Конституцией.
-[** 24 января 2012 года, 2:34 ночи**](/posts/2012-01-23-how-d-you-do/)
+[** 24 января 2012 года, 2:34 ночи**](/fred-pohl/2012-01-23-how-d-you-do/)
 
 [WordPress](https://web.archive.org/web/20120513023932/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120513023932/http://dicksmithsoftware.com/)

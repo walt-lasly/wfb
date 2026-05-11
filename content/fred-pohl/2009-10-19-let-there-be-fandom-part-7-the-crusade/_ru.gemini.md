@@ -4,9 +4,9 @@ date: 2009-10-19
 categories: ["Authors", "Personal"]
 tags: ["Dirk Wylie", "Donald A. Wollheim", "Economics", "Great Depression", "Hugo Gernsback", "John B. Michel", "New York", "Prozines", "Pulps", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20221201000000/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-part-7-the-crusade/"
-prev_post_url: "/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/"
+prev_post_url: "/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/"
 prev_post_title: "Let There Be Fandom, Part 6: The Pros!"
-next_post_url: "/posts/2009-10-22-fred-the-machine-man/"
+next_post_url: "/fred-pohl/2009-10-22-fred-the-machine-man/"
 next_post_title: "Fred the Machine Man"
 translated: false
 translator: "Gemini"
@@ -24,7 +24,7 @@ translator: "Gemini"
 {{< figure src="wonder_stories_january_1934.jpg" alt="Wonder Stories, Jan. 1934" caption="Donald Wollheim wasn’t satisfied with having his first story published in Wonder Stories. He wanted to be paid, too." >}}
 
 
-[**Хьюго Гернсбек**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/) не платил своим писателям. [Джонни Мишель](https://web.archive.org/web/20091211211852/http://fancyclopedia.editme.com/MICHELIS) наконец-то получил свои пять долларов, но только после бесконечного раздражения, а [Дональд Уоллхейм](https://web.archive.org/web/20091211211852/http://www.gcwillick.com/Spacelight/wollheim.html) так и не получил полной суммы. Они пришли в бруклинскую [**Лигу Научной Фантастики**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/), чтобы рассказать нам свои истории и отомстить.
+[**Хьюго Гернсбек**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/) не платил своим писателям. [Джонни Мишель](https://web.archive.org/web/20091211211852/http://fancyclopedia.editme.com/MICHELIS) наконец-то получил свои пять долларов, но только после бесконечного раздражения, а [Дональд Уоллхейм](https://web.archive.org/web/20091211211852/http://www.gcwillick.com/Spacelight/wollheim.html) так и не получил полной суммы. Они пришли в бруклинскую [**Лигу Научной Фантастики**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/), чтобы рассказать нам свои истории и отомстить.
 
 
 Вся эта внутренняя информация была для меня откровением. Это было захватывающе, как ничего, что случалось со мной раньше, по крайней мере, с тех пор, как я открыл для себя научную фантастику, а может, и с тех пор, как открыл для себя секс. Я не знаю, какие воздушные предположения я строил о механизмах, с помощью которых настоящие авторы поддерживали себя своим трудом. Я полагаю, если я вообще думал, то догадывался, что как только твоя работа появлялась в печати, правительство или кто-то еще вручал тебе пустой чековый книжку, которую ты заполнял, как тебе нужно или хочется, их деньгами.
@@ -60,7 +60,7 @@ translator: "Gemini"
 Слушать мудрость, которая лилась из Джонни Мишеля и Дона Уоллхейма, было похоже на стояние на горе с посохом в руке, когда Голос говорил из горящего куста. Я не мог поверить, насколько мне повезло, и я хотел быть частью этого.
 
 
-Я вернулся со встреч и сообщил всю эту Евангелию [**Дирку Уайли**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/), который проклинал своих родителей за то, что они поселились в Квинс-Виллидж, так далеко от Бэй-Ридж и Бруклинской Лиги Научной Фантастики, и разрабатывал стратегии для следующих встреч со мной. Мы приходили. Мы сидели у ног мастеров, в одном или другом кафе-мороженом, пока мороженое таяло в наших содовых, а молочные коктейли выдыхались, и мы решили быть такими же, как они.
+Я вернулся со встреч и сообщил всю эту Евангелию [**Дирку Уайли**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/), который проклинал своих родителей за то, что они поселились в Квинс-Виллидж, так далеко от Бэй-Ридж и Бруклинской Лиги Научной Фантастики, и разрабатывал стратегии для следующих встреч со мной. Мы приходили. Мы сидели у ног мастеров, в одном или другом кафе-мороженом, пока мороженое таяло в наших содовых, а молочные коктейли выдыхались, и мы решили быть такими же, как они.
 
 
 И когда выяснилось, что Джонни и Дональд приглашают нас присоединиться к крестовому походу, чтобы исправить эти несправедливости, мы приняли это как неоспоримое, что должны были немедленно записаться. Дональд предложил, чтобы все мы, члены SFL, вышли из состава, основали свои собственные клубы, заявили о своей независимости от Зла и дали миру знать, кем он является.
@@ -71,28 +71,28 @@ translator: "Gemini"
 
 **Похожие записи:**
 
-- [**Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Да будет фэндом: Лига Научной Фантастики**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
-- [**Да будет фэндом, часть 2: Школьные дни**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**Да будет фэндом, часть 3: Бруклинское детство**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Да будет фэндом, часть 5: Большая лига**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [**Да будет фэндом, часть 6: Профессионалы!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Да будет фэндом: Лига Научной Фантастики**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Да будет фэндом, часть 2: Школьные дни**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Да будет фэндом, часть 3: Бруклинское детство**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Да будет фэндом, часть 5: Большая лига**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Да будет фэндом, часть 6: Профессионалы!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
 
 
 ### 3 комментария
 
 - [Scott Hauger](https://web.archive.org/web/20091211211852/http://www.jscotthauger.com/) says:
 Спасибо за эту увлекательную историю / автобиографию!
-[**19 октября 2009 г., 23:57**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+[**19 октября 2009 г., 23:57**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 - [Greg Costikyan](https://web.archive.org/web/20091211211852/http://playthisthing.com/) says:
 Буэнос-Айрес не так уж плох….
 Но я был в положении выбора, кому платить, и это никогда не бывает легко, когда ресурсы ограничены. Неуплата талантам редко приводит в тюрьму. Неуплата нашим бухгалтерам или юристам может.
 Не то чтобы я был большим поклонником обмана талантов.
-[**20 октября 2009 г., 23:03**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+[**20 октября 2009 г., 23:03**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 - [Steve Green](https://web.archive.org/web/20091211211852/http://shadowlibrary.blogspot.com/) says:
 В середине 1990-х у меня были похожие проблемы с парой журналов, которые наняли меня для предоставления интервью, обзоров и т. д. В конце концов я получил каждый цент, который мне был должен, но многие другие остались без денег. И, как вы говорите, всегда есть много людей, которые проигнорируют эту несправедливость просто ради того, чтобы увидеть свое имя в печати.
-[**3 декабря 2009 г., 9:05 утра**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+[**3 декабря 2009 г., 9:05 утра**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 [WordPress](https://web.archive.org/web/20091211211852/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091211211852/http://dicksmithsoftware.com/)

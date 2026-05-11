@@ -4,7 +4,7 @@ date: 2009-03-31
 categories: ["Personal"]
 tags: ["Capitalism", "John W. Gates", "Predictions", "Sylvia Porter", "Volunteerism"]
 archive_url: "https://web.archive.org/web/19960801000000/http://www.thewaythefutureblogs.com/2009/03/corporate-leisure-time/"
-prev_post_url: "/posts/2009-03-26-judgment-day-the-cruise/"
+prev_post_url: "/fred-pohl/2009-03-26-judgment-day-the-cruise/"
 prev_post_title: "Judgment Day: The Cruise"
 translated: false
 ---
@@ -53,12 +53,12 @@ Next: “The Bonus Babies.” Coming soon to a computer near you.
 
 - [Jeff](https://web.archive.org/web/20090403043405/http://jeffcrook.blogspot.com/) says:
 Amen, brother. The acquisition of wealth for wealth’s sake became a goal, without any other motivation. Honestly, I don’t see how the people who make that kind of money can possibly need it. I suppose it is possible to spend it all, but beyond a certain point the act of acquiring more wealth than you can possibly use becomes a mental illness, like filling up your house with garbage that you pick up on the side of the road.
-[**March 31, 2009, 8:42 am**](/posts/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
+[**March 31, 2009, 8:42 am**](/fred-pohl/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
 - Mike Woodhouse says:
 While I wouldn’t for a second claim that it’s either widespread or deeply embedded in corporate culture, I’d say that - in some places at least - the tiniest of seeds are germinating.
 The large German bank for which I work has a program whereby volunteers can spend a few (I just checked - two) days a year working on various sponsored community projects - on the company dime (or euro).
 Not much, but more than nothing.
-[**March 31, 2009, 8:46 am**](/posts/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
+[**March 31, 2009, 8:46 am**](/fred-pohl/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
 
 [WordPress](https://web.archive.org/web/20090403043405/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090403043405/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-03-25
 categories: ["Authors", "Books"]
 tags: ["Alfred Bester", "Anthologies", "Anthony Boucher", "C.M. Kornbluth", "Comics", "Conventions", "Economics", "Editors", "Fanzines", "Films", "Horace L. Gold", "J. Francis McComas", "Joseph McCarthy", "Kevin Williams", "Leah A. Zeldes", "Neil Jones", "Peter Roberts", "Prozines", "Publishing", "Pulps", "Radio", "Ritchie Smith", "Rob Jackson", "Search the Sky", "Sue Williams", "Television", "The Space Merchants", "United Kingdom"]
 archive_url: "https://web.archive.org/web/20260801000000/http://www.thewaythefutureblogs.com/2011/03/me-and-alfie/"
-prev_post_url: "/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
+prev_post_url: "/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
 prev_post_title: "Volcanic terrorism:All the Lives He Leddue out in April"
-next_post_url: "/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/"
+next_post_url: "/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/"
 next_post_title: "Me and Alfie, Part 2:Gatewayand the Art of Writing"
 translated: false
 ---
@@ -20,7 +20,7 @@ Frederik Pohl
 ## Me and Alfie
 
 
-As I mentioned in the short piece I wrote about [**Alfie Bester**](/posts/2011-03-08-alfie/), he and I had a joint talk for a bunch of English fans thirty-odd years or so ago.  To my total amazement, some of them recently came up with a tape of that discussion.  They transcribed it, and I thought some of you might like to read it here in the blog.
+As I mentioned in the short piece I wrote about [**Alfie Bester**](/fred-pohl/2011-03-08-alfie/), he and I had a joint talk for a bunch of English fans thirty-odd years or so ago.  To my total amazement, some of them recently came up with a tape of that discussion.  They transcribed it, and I thought some of you might like to read it here in the blog.
 
 
 Here’s what Peter Roberts’ fanzine, Checkpoint, reported at the time:
@@ -39,7 +39,7 @@ Alfred Bester and Frederik Pohl — The Conversation
 *Recorded 26 June 1978 at The Tyneside Cinema, Newcastle upon Tyne, UK, by Kevin Williams. Transcript by Sue Williams, edited by Neil Jones and Kevin Williams. Originally published in Rob Jackson’s fanzine Inca 5, December 2009. Additional editing here by Leah A. Zeldes.*
 
 
-Pohl: Let me tell you about Alfie Bester. I’ve known him for a long time, and I first encountered him when I was 19 years old and editing a magazine called [Astonishing Stories](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/B000HTLBSY?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000HTLBSY), and I bought a couple of stories of Alfie’s because I liked them. And then, some years later, [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) and I had written a book called [The Space Merchants](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511), which I sort of hoped might win a prize, but it was beaten out by something called [The Demolished Man](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD) by Alfred Bester.
+Pohl: Let me tell you about Alfie Bester. I’ve known him for a long time, and I first encountered him when I was 19 years old and editing a magazine called [Astonishing Stories](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/B000HTLBSY?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000HTLBSY), and I bought a couple of stories of Alfie’s because I liked them. And then, some years later, [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/) and I had written a book called [The Space Merchants](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511), which I sort of hoped might win a prize, but it was beaten out by something called [The Demolished Man](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD) by Alfred Bester.
 
 
 A little while later, Cyril and I were working on another novel — I think it was [Search the Sky](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/0671720120?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671720120). We’d written a couple of others by then, and I’d just begun to edit a thing called [Star Science Fiction Stories](https://web.archive.org/web/20170619205923/http://www.philsp.com/articles/anthopology_101_01.html) — a series of anthologies of original science fiction stories. I brought home a story by Alfie Bester that I had just accepted for Star.  It was called “[Disappearing Act](https://web.archive.org/web/20170619205923/http://www.amazon.com/gp/product/0679767835/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0679767835),” and I showed it to Cyril while we were working on our own book.
@@ -66,7 +66,7 @@ Bester: The one thing that you must understand is that we admire each other prof
 We are rather like the high baroque musicians: We borrow from each other, we learn from each other, we admire each other, we do the same things, or different things, and have a hell of a ball.
 
 
-Now Fred’s novel which he wrote with Cyril Kornbluth, *The Space Merchants,* is, I think, the finest novel ever written in the history of science fiction.  It is a brilliant piece of work. Many brilliant things have followed it, but this came along when everybody was obsessed with [**Doc Smith**](/posts/2009-12-22-doc-skylark-smith/) space opera, which has its own charm  — it’s great fun — and suddenly comes this realistic extrapolation of what American life, American advertising, American ecology and American psychosis will lead to eventually.
+Now Fred’s novel which he wrote with Cyril Kornbluth, *The Space Merchants,* is, I think, the finest novel ever written in the history of science fiction.  It is a brilliant piece of work. Many brilliant things have followed it, but this came along when everybody was obsessed with [**Doc Smith**](/fred-pohl/2009-12-22-doc-skylark-smith/) space opera, which has its own charm  — it’s great fun — and suddenly comes this realistic extrapolation of what American life, American advertising, American ecology and American psychosis will lead to eventually.
 
 
 [Horace Gold](https://web.archive.org/web/20170619205923/http://www.iblist.com/author2749.htm) ran it as a three parter in Galaxy. *Gravy Planet,* he called it. A tremendous piece of work — exciting, ravishing. I will never forget the scene where that crazy broad with the needle is giving him the works. Fred, that was outrageously brilliant.
@@ -111,7 +111,7 @@ Bester: I’ve always said that science fiction is the only poetry existing toda
 But you can’t do that for a magazine like Holiday, for a commercial magazine, you can’t do that for any number of the television shows that I’ve written for. Which raises a very interesting point, the economies of science fiction. You know radio and television and national magazines have priced themselves out of experiment. They can’t afford to permit people to experiment, to invest money in young writers who are trying to experiment and willing to fail.
 
 
-I’m the last of the generation of writers who came up through pulp magazines and comics, writing comic-book scripts, you know, things like [**Captain Marvel**](/posts/2011-03-25-me-and-alfie/) and  [Green Lantern](https://web.archive.org/web/20170619205923/http://www.toonopedia.com/lantern2.htm) and that nonsense. I was able to experiment because it was cheap. What the hell did they pay me for a script? 70 dollars. Big deal. Of course, in those days, you could live for a week on 70 dollars. But even so, the point is that nowadays everything is so god-damned expensive that kids can no longer experiment except in science fiction, and that doesn’t pay all that well.
+I’m the last of the generation of writers who came up through pulp magazines and comics, writing comic-book scripts, you know, things like [**Captain Marvel**](/fred-pohl/2011-03-25-me-and-alfie/) and  [Green Lantern](https://web.archive.org/web/20170619205923/http://www.toonopedia.com/lantern2.htm) and that nonsense. I was able to experiment because it was cheap. What the hell did they pay me for a script? 70 dollars. Big deal. Of course, in those days, you could live for a week on 70 dollars. But even so, the point is that nowadays everything is so god-damned expensive that kids can no longer experiment except in science fiction, and that doesn’t pay all that well.
 
 
 You know about that, Fred. How tight is the budget?
@@ -138,7 +138,7 @@ Pohl: And it just goes on, but for a writer to attempt to survive on the magazin
 Bester: A lot of the output of many splendid writers was marred because they were writing against the mortgage.
 
 
-Pohl: There’s no question that it happened. But it’s not quite the same now in science fiction. There’s a magazine in America called The Artists’ and Poets’ Newsletter — it’s published by the American branch of [**P.E.N.**](/posts/2011-03-25-me-and-alfie/), I think — and about two years ago, they ran a survey to find out how many American writers were really making anything out of it and they came to the conclusion that in all of America there were only about 100 persons who were able to support themselves by their writing.
+Pohl: There’s no question that it happened. But it’s not quite the same now in science fiction. There’s a magazine in America called The Artists’ and Poets’ Newsletter — it’s published by the American branch of [**P.E.N.**](/fred-pohl/2011-03-25-me-and-alfie/), I think — and about two years ago, they ran a survey to find out how many American writers were really making anything out of it and they came to the conclusion that in all of America there were only about 100 persons who were able to support themselves by their writing.
 
 
 They were taking about mainstream writers; they weren’t talking about category writers such as science fiction or whatever. I know of at least 100 science-fiction writers who are supporting themselves. It has turned out to be a significant part of what is going on. There were 1,200 science-fiction books published in America last year. Right now there are 14 paperback publishers in England bringing out science fiction books — I don’t know how many a month but I think it must be upwards of 30 to 40, which is possibly 500 a year, and the number grows all the time.
@@ -161,8 +161,8 @@ But nevertheless, here are these people from all over gathered for the sole purp
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 6 Comments
@@ -170,25 +170,25 @@ But nevertheless, here are these people from all over gathered for the sole purp
 - [Tim Walters](https://web.archive.org/web/20170619205923/http://doubtfulpalace.com/) says:
 *Bester’s dedications were especially witty*
 I once asked him to sign a book of his that I had just bought. When he opened it, it turned out (to my mortification) that he had already signed it at some point. Without a second’s hesitation, he wrote “That man is an impostor!” and signed it again.
-[**March 25, 2011, 1:27 pm**](/posts/2011-03-25-me-and-alfie/)
+[**March 25, 2011, 1:27 pm**](/fred-pohl/2011-03-25-me-and-alfie/)
 - [Stefan Jones](https://web.archive.org/web/20170619205923/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 This is great stuff. I hope there’s a way to get it into the revised auto-bio.
 The stuff about the McCarthy is especially poignant. It almost makes me nostalgic. Now-adays, we’re up againt something more diabolical than fear and repression; truth and insight have to struggle to be recognized in a media environment that is expert at distraction and demonization.
-[**March 25, 2011, 3:45 pm**](/posts/2011-03-25-me-and-alfie/)
+[**March 25, 2011, 3:45 pm**](/fred-pohl/2011-03-25-me-and-alfie/)
 - John H says:
 Fascinating conversation – can’t wait to read the rest! It also seems like a good piece to follow-up on, some 30-odd years later – i.e., how do those same statistics look today…
-[**March 25, 2011, 4:09 pm**](/posts/2011-03-25-me-and-alfie/)
+[**March 25, 2011, 4:09 pm**](/fred-pohl/2011-03-25-me-and-alfie/)
 - [A.R.Yngve](https://web.archive.org/web/20170619205923/http://aryngve.com/) says:
 I cannot express my gratitude for reading this discussion between two all-time greats.
-[**March 27, 2011, 2:35 pm**](/posts/2011-03-25-me-and-alfie/)
+[**March 27, 2011, 2:35 pm**](/fred-pohl/2011-03-25-me-and-alfie/)
 - [Jason Block](https://web.archive.org/web/20170619205923/http://www.phantasmacore.com/) says:
 That’s interesting about how SF managed to fly under the radar of McCarthy to some extent, seemingly because people didn’t take it seriously. In that case it was an advantage.
-[**March 27, 2011, 8:38 pm**](/posts/2011-03-25-me-and-alfie/)
+[**March 27, 2011, 8:38 pm**](/fred-pohl/2011-03-25-me-and-alfie/)
 - JohnArmstrong says:
 You can plainly see from this what kind of credit-hog Fred is ….
 “That scene was all Cyril’s but I’ll accept the credit.”
 That guy who wrote the Kornbluth book was right!  I’m sure the next edition will have this included: “Pohl has even publicly admitted ….”
-[**March 31, 2011, 12:31 pm**](/posts/2011-03-25-me-and-alfie/)
+[**March 31, 2011, 12:31 pm**](/fred-pohl/2011-03-25-me-and-alfie/)
 
 [WordPress](https://web.archive.org/web/20170619205923/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619205923/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-04-27
 categories: ["Authors", "Personal"]
 tags: ["Conventions", "Editors", "Elizabeth Anne Hull", "Food", "Joseph D. Olander", "Martin H. Greenberg", "Mary Kenny Badami", "Samuel R. Delany", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20180601000000/http://www.thewaythefutureblogs.com/2013/04/arrival-part-4-the-party-plan/"
-prev_post_url: "/posts/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/"
+prev_post_url: "/fred-pohl/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/"
 prev_post_title: "Bright Sayings of Bright People, No. 44: Warhol"
-next_post_url: "/posts/2013-04-29-the-manuscripts-that-wouldn-t-die/"
+next_post_url: "/fred-pohl/2013-04-29-the-manuscripts-that-wouldn-t-die/"
 next_post_title: "The Manuscripts That Wouldn’t Die"
 translated: false
 ---
@@ -26,7 +26,7 @@ Frederik Pohl
 Visiting the SFWA suite at [MidAmeriCon](https://web.archive.org/web/20170620022809/http://fancyclopedia.wikidot.com/midamericon) seemed worth a try, so we tried it.  Unfortunately giving it a try meant quite a lot of walking, which meant a lot of competition for body space as the eager mobs of fans, famished for PARTYPARTYPARTY! wandered the halls, now a crawling mass of fan flesh.  It was prime room-party time.
 
 
-And, I discovered,  I was getting tired.  The corridor we were walking in had a little bay that looked down into the lobby, far below.  It had chairs that were just being vacated by a few fans, their sore feet healed, charging on to the next room party.  I took action.   I didn’t say anything about wanting to rest my own feet for a moment.  I just grabbed a vacant chair and, looking grateful, so did [Professor Hull](https://web.archive.org/web/20170620022809/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/).  Leaning over to rub her toes, she looked up at me curiously.  “Tell me more about what you do at Bantam. [**Delany’s book**](/posts/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/).  Is it a big success?
+And, I discovered,  I was getting tired.  The corridor we were walking in had a little bay that looked down into the lobby, far below.  It had chairs that were just being vacated by a few fans, their sore feet healed, charging on to the next room party.  I took action.   I didn’t say anything about wanting to rest my own feet for a moment.  I just grabbed a vacant chair and, looking grateful, so did [Professor Hull](https://web.archive.org/web/20170620022809/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/).  Leaning over to rub her toes, she looked up at me curiously.  “Tell me more about what you do at Bantam. [**Delany’s book**](/fred-pohl/2011-01-10-chip-delany-part-2-the-miracle-of-dhalgren/).  Is it a big success?
 
 
 I laughed.  “Big enough.  I’m Bantam’s wonder child this week.  I paid peanuts for it, and it’s selling its head off.  Just under six hundred thousand copies last I heard, and it might go over a million.”
@@ -44,7 +44,7 @@ She didn’t fail to understand my meaning.  “Oh, right,”  she said apologet
 I laughed.  “That I don’t think you can do.  It’s a *long* one, way more than twice as big as his Ace novels.  And it’s not much like his other books.  But I think I put a couple of copies in my bag.  If I find them, I’ll put one in my pocket tomorrow and if I see you it’s yours.”
 
 
-“Thanks,”  she said, sounding as though she meant it.  But she was rubbing her feet again.  Then, looking at her watch.  “Oh,”  she said.  “Look at the time.  Listen, Frederik, how would you like to try a different kind of room party? [Mary Badami](https://web.archive.org/web/20170620022809/http://www.bloomualumni.com/s/998/social.aspx?sid=998&gid=1&pgid=252&cid=2037&ecid=2037&crid=0&calpgid=15&calcid=752) — she’s my roommate — and I agreed to have our own party tomorrow.  Not a lot of liquor but tea or coffee and soft drinks, and Mary’s  making some food. I have to help her pretty son now,  but then when the party starts tomorrow you’ll know a lot of the people — some will be the ones we ate dinner with, and I heard you mention [**Marty Greenberg**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/) and [Joe Olander](https://web.archive.org/web/20170620022809/http://www.worldcat.org/identities/lccn-n79-22070)….”
+“Thanks,”  she said, sounding as though she meant it.  But she was rubbing her feet again.  Then, looking at her watch.  “Oh,”  she said.  “Look at the time.  Listen, Frederik, how would you like to try a different kind of room party? [Mary Badami](https://web.archive.org/web/20170620022809/http://www.bloomualumni.com/s/998/social.aspx?sid=998&gid=1&pgid=252&cid=2037&ecid=2037&crid=0&calpgid=15&calcid=752) — she’s my roommate — and I agreed to have our own party tomorrow.  Not a lot of liquor but tea or coffee and soft drinks, and Mary’s  making some food. I have to help her pretty son now,  but then when the party starts tomorrow you’ll know a lot of the people — some will be the ones we ate dinner with, and I heard you mention [**Marty Greenberg**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/) and [Joe Olander](https://web.archive.org/web/20170620022809/http://www.worldcat.org/identities/lccn-n79-22070)….”
 
 
 I said,  “Can we sit down there now?  I’m in!”
@@ -82,32 +82,32 @@ She gave me a look, but it wasn’t a hostile one.  Since I was sitting on a has
 
 **Related posts:**
 
-- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
-- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
-- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
-- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
-- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
-- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
+- [**Arrival: The Happiest Airport**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 5: ‘I guess I am’**](/fred-pohl/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/fred-pohl/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/fred-pohl/2013-05-10-arrival-part-7-departure/)
 
 
 ### 5 Comments
 
 - [Stefan Jones](https://web.archive.org/web/20170620022809/http://www.flickr.com/photos/stefan_e_jones/) says:
 I’m pretty sure this is going to end with an ad in Locus!
-[**April 28, 2013, 7:51 pm**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+[**April 28, 2013, 7:51 pm**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
 - Ken says:
 Ah, young love, c’est tres bien, n’est-pas? Well, 50ish young, which now that I’ve turned 50 totally counts. The madamoiselle excepted of course, she was indeed young. 
 An improbable tale of Kansas City lodgings and copious foot rubbing, even a Grand Master could not invent such a story. Congratulations on your long and happy time together!
-[**April 28, 2013, 10:07 pm**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+[**April 28, 2013, 10:07 pm**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
 - [Gregory Benford](https://web.archive.org/web/20170620022809/http://gregorybenford.com/) says:
 this is fun!
-[**April 28, 2013, 10:21 pm**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+[**April 28, 2013, 10:21 pm**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
 - John Armstrong says:
 NIce, Fred –  never heard any of this before .
-[**April 29, 2013, 10:23 am**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+[**April 29, 2013, 10:23 am**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
 - Steve H says:
 Great stuff, Fred. Life is one long story, and you’ve always been a story-teller. It’s a natural advantage.
-[**May 2, 2013, 2:17 pm**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
+[**May 2, 2013, 2:17 pm**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
 
 [WordPress](https://web.archive.org/web/20170620022809/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620022809/http://dicksmithsoftware.com/)

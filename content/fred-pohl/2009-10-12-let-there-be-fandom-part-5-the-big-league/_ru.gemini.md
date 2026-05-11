@@ -4,9 +4,9 @@ date: 2009-10-12
 categories: ["Authors", "Personal"]
 tags: ["Arthur Selikowitz", "Charles Baudelaire", "Dirk Wylie", "Editors", "Fanzines", "G.G. Clark", "Hugo Gernsback", "J.K. Huvsmans", "James Branch Cabell", "Mark Twain", "New York", "Prozines", "Robert A.W. Lowndes", "Science Fiction League", "Stephane Mallarme", "Voltaire"]
 archive_url: "https://web.archive.org/web/20191101000000/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-part-5-the-big-league/"
-prev_post_url: "/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/"
+prev_post_url: "/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/"
 prev_post_title: "Let There Be Fandom, Part 4: New Deal, New Worlds"
-next_post_url: "/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/"
+next_post_url: "/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/"
 next_post_title: "Let There Be Fandom, Part 6: The Pros!"
 translated: false
 translator: "Gemini"
@@ -28,10 +28,10 @@ translator: "Gemini"
 
 [Странствия](https://web.archive.org/web/20091212003155/http://www.cthreepo.com/blog/2009/09/the-science-fiction-league-and-hugo-gernsback.shtml)
 
-Когда Дж. Дж. Кларк основал Бруклинскую [**Лигу Научной Фантастики**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/), я не думаю, что он знал, во что ввязывается.
+Когда Дж. Дж. Кларк основал Бруклинскую [**Лигу Научной Фантастики**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/), я не думаю, что он знал, во что ввязывается.
 
 
-Кларк был взрослым человеком, лет двадцати семи или около того. У него была работа, и у него была Коллекция, на фоне которой даже [**Дирк Уайли**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/) выглядел жалко. (Моя и так была так себе. У меня было немало книг и журналов, но складывать их было некуда, кроме как отодвигая посуду и банки с супом с кухонных полок. Это кажется мне странным. В детстве у нас дома было мало книг, кроме моих собственных. Отец читал только вестерны, которые хранил на верхней полке в шкафу своей спальни. Мать, похоже, вообще мало читала, что странно: она была весьма образованной, могла декламировать стихи наизусть, была лучшей выпускницей своего класса и даже недолго работала младшим редактором в [St. Nicholas Magazine](https://web.archive.org/web/20091212003155/http://flyingdreams.home.mindspring.com/nick.htm). Это было счастье для меня; она приносила домой книги для рецензий, предназначенные детям. Но мне было пятнадцать, прежде чем я поселился в доме с настоящим книжным шкафом.)
+Кларк был взрослым человеком, лет двадцати семи или около того. У него была работа, и у него была Коллекция, на фоне которой даже [**Дирк Уайли**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/) выглядел жалко. (Моя и так была так себе. У меня было немало книг и журналов, но складывать их было некуда, кроме как отодвигая посуду и банки с супом с кухонных полок. Это кажется мне странным. В детстве у нас дома было мало книг, кроме моих собственных. Отец читал только вестерны, которые хранил на верхней полке в шкафу своей спальни. Мать, похоже, вообще мало читала, что странно: она была весьма образованной, могла декламировать стихи наизусть, была лучшей выпускницей своего класса и даже недолго работала младшим редактором в [St. Nicholas Magazine](https://web.archive.org/web/20091212003155/http://flyingdreams.home.mindspring.com/nick.htm). Это было счастье для меня; она приносила домой книги для рецензий, предназначенные детям. Но мне было пятнадцать, прежде чем я поселился в доме с настоящим книжным шкафом.)
 
 
 У Кларка были не только все номера каждого когда-либо изданного научно-фантастического журнала, но и вид свежих, только что из типографии, будто купленных новыми в ближайшем продуктовом магазине, а не подобранных подержанными. У него даже были некоторые вариативные издания, например, копия Amazing Stories, на которой не пропечаталась красная краска трехцветной обложки, так что она была вся призрачно-сине-зеленой. У него также было больше НФ-книг, чем я когда-либо видел в одном месте, и даже научно-фантастические [фэнзины](https://web.archive.org/web/20091212003155/http://fancyclopedia.editme.com/FANZINE), о которых я раньше даже не слышал.
@@ -49,7 +49,7 @@ translator: "Gemini"
 Я не видел копию *The Brooklyn Reporter* уже много лет и сомневаюсь, что там было что-то стоящее, но для меня тогда это было невероятно волнующе. Мои слова доходили до читателей по всей стране! (Не очень многих* читателей, нет. Но географически довольно рассредоточенных.) Люди, которых я никогда не видел, писали письма, комментируя то, что я сделал.
 
 
-Именно через *The Brooklyn Reporter* я впервые встретил [**Роберта Лоундеса**](/posts/2009-05-08-the-quadrumvirate/) — сначала только как корреспондента, потому что он жил в далеком Коннектикуте, и ни один из нас не видел способа преодолеть это расстояние почти в сто миль. Но мы стали хорошими друзьями по переписке, быстро нашли общие интересы (мы оба были зависимы от популярных песен) и делились другими: он познакомил меня с [Бодлером](https://web.archive.org/web/20091212003155/http://www.poets.org/poet.php/prmPID/607), [Маларме](https://web.archive.org/web/20091212003155/http://www.julielorenzen.net/paris.html) и [Дж.К. Хьюсмансом](https://web.archive.org/web/20091212003155/http://www.huysmans.org/), а я представил ему [Джеймса Бранча Каббелла](https://web.archive.org/web/20091212003155/http://www.library.vcu.edu/jbc/speccoll/exhibit/cabell/jbclife.html).
+Именно через *The Brooklyn Reporter* я впервые встретил [**Роберта Лоундеса**](/fred-pohl/2009-05-08-the-quadrumvirate/) — сначала только как корреспондента, потому что он жил в далеком Коннектикуте, и ни один из нас не видел способа преодолеть это расстояние почти в сто миль. Но мы стали хорошими друзьями по переписке, быстро нашли общие интересы (мы оба были зависимы от популярных песен) и делились другими: он познакомил меня с [Бодлером](https://web.archive.org/web/20091212003155/http://www.poets.org/poet.php/prmPID/607), [Маларме](https://web.archive.org/web/20091212003155/http://www.julielorenzen.net/paris.html) и [Дж.К. Хьюсмансом](https://web.archive.org/web/20091212003155/http://www.huysmans.org/), а я представил ему [Джеймса Бранча Каббелла](https://web.archive.org/web/20091212003155/http://www.library.vcu.edu/jbc/speccoll/exhibit/cabell/jbclife.html).
 
 
 Видите ли, мы, фанаты научной фантастики, больше всего хотели проводить время вместе, чтобы разговаривать — о научной фантастике и о мире. Правила Роберта не предусматривали многого из этого, поэтому мы выработали привычку «Встречи после встречи». Выдержав час или около того парламентских правил, мы, солдатики, прощались с нашим лидером и шли толпой к ближайшей станции эстакадной железной дороги.
@@ -69,13 +69,13 @@ translator: "Gemini"
 
 **Похожие записи:**
 
-- [**Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Да будет фэндом: Лига Научной Фантастики**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
-- [**Да будет фэндом, часть 2: Школьные годы**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**Да будет фэндом, часть 3: Бруклинское детство**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Да будет фэндом, часть 6: Профессионалы!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
-- [**Да будет фэндом, часть 7: Крестовый поход**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Да будет фэндом: Лига Научной Фантастики**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Да будет фэндом, часть 2: Школьные годы**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Да будет фэндом, часть 3: Бруклинское детство**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Да будет фэндом, часть 6: Профессионалы!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Да будет фэндом, часть 7: Крестовый поход**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
 
 
 ### 2 комментария
@@ -83,12 +83,12 @@ translator: "Gemini"
 - [Stefan Jones](https://web.archive.org/web/20091212003155/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) says:
 «...содействие и улучшение научной фантастики».
 Я могу назвать мало, если вообще кого-то, кто выполнил это обещание лучше вас, мистер Пол.
-[**October 12, 2009, 9:32 pm**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+[**October 12, 2009, 9:32 pm**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
 - [Nate](https://web.archive.org/web/20091212003155/http://www.oddessay.com/) says:
 Это действительно замечательные истории — как об истории Нью-Йорка, так и об истории НФ-фэндома.
 «во многом, думаю, потому, что у меня была своя пишущая машинка»
 Как коллекционер (или, скорее, накопитель) старых палпов и пишущих машинок, это заставляет меня плакать о том, каким было будущее.
-[**October 13, 2009, 7:17 pm**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+[**October 13, 2009, 7:17 pm**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
 
 [WordPress](https://web.archive.org/web/20091212003155/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091212003155/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-03-19
 categories: ["Books", "Personal"]
 tags: ["All the Lives He Led", "Hugo Awards", "Italy", "Man Plus"]
 archive_url: "https://web.archive.org/web/20110501000000/http://www.thewaythefutureblogs.com/2011/03/volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
-prev_post_url: "/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/"
+prev_post_url: "/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/"
 prev_post_title: "Couples Who Mastered Publishing, No. 2:The Ballantines"
-next_post_url: "/posts/2011-03-25-me-and-alfie/"
+next_post_url: "/fred-pohl/2011-03-25-me-and-alfie/"
 next_post_title: "Me and Alfie"
 translated: false
 ---
@@ -39,29 +39,29 @@ Also in April, Orb Books will bring back into print Fred’s classic novel [Man 
 
 - Mike Goldberg says:
 Great news!
-[**March 19, 2011, 8:22 am**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**March 19, 2011, 8:22 am**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Robert Nowall](https://web.archive.org/web/20170707014906/http://www.robertnowall.com/) says:
 I guess having the swallows return to San Juan Capistrano isn’t enough honor for the feast day of St. Joseph…
-[**March 20, 2011, 7:21 am**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**March 20, 2011, 7:21 am**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [GinBerlin](https://web.archive.org/web/20170707014906/http://bigappletobigbear.blogspot.com/) says:
 Sounds really great. I love Pompeii stories and it will be great fun to read one set in the future rather than in the past.
-[**March 20, 2011, 2:15 pm**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**March 20, 2011, 2:15 pm**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Anton Sherwood](https://web.archive.org/web/20170707014906/http://bendwavy.org/) says:
 Off-topic: Mr Pohl, did you know Rex Stout?  
 
 I ask because his story “Bullet for One” (1948) has a character named Ferdinand Pohl.
-[**March 23, 2011, 1:03 pm**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**March 23, 2011, 1:03 pm**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Stefan Jones](https://web.archive.org/web/20170707014906/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 That new *Man Plus* cover looks wonderful!
 And there’s a NEW Pohl novel on the way? Dang. Not such a sucky year after all.
-[**March 23, 2011, 5:32 pm**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**March 23, 2011, 5:32 pm**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - Morey says:
 Mr. Pohl,  
 
 Is there any way to get an autographed copy of the book? I actually have a long story about the time I was supposed to get your autograph through a neigbour of yours, but I’ll save it for later. In the meantime, here’s what I’d like to propose. Since it’s unlikely I’m getting to Palatine soon (read: ever) if an autographed copy could be sent to a friend in the US, I’d be happy to pay for the book, shipping AND make a $100 donation to a charity of your choice. And, if you’re up for it, I dare other fans here to make the same offer. We get a great book and together we raise some money for a worthwhile cause. Win win.  
 
 Morey
-[**March 30, 2011, 7:21 am**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**March 30, 2011, 7:21 am**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 
 [WordPress](https://web.archive.org/web/20170707014906/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707014906/http://dicksmithsoftware.com/)

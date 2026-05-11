@@ -4,9 +4,9 @@ date: 2010-12-18
 categories: ["Authors", "Books", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Editors", "Hugo Awards", "Mary Kornbluth", "Publishing", "Walter Bradbury"]
 archive_url: "https://web.archive.org/web/20180901000000/http://www.thewaythefutureblogs.com/2010/12/mary-kornbluth-part-3-anthologist/"
-prev_post_url: "/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/"
+prev_post_url: "/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/"
 prev_post_title: "How I Lost My Oldest Friend(and Gained a Literary Agency)"
-next_post_url: "/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
+next_post_url: "/fred-pohl/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
 next_post_title: "Bright Sayings of Bright People, No. 7: Mackay"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![Science Fiction Showcase, edited by Mary Kornbluth](sf-showcase-mary-kornbluth.jpg)
 
-После [кремации Сирила](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/) я задержался еще на день или два, потому что была еще пара вещей, которые я мог сделать для Корнблатов.  Сирил оставил несколько непродаваемых и незаконченных фрагментов, которые Мэри вытащила для меня.  Я мог видеть, где он разочаровался в них, но я был более изобретательным заговорщиком, чем Сирил.  Кроме того, большинство из них обладали тем замечательным полным владением медиумом, которое Сирил начал развивать.
+После [кремации Сирила](/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/) я задержался еще на день или два, потому что была еще пара вещей, которые я мог сделать для Корнблатов.  Сирил оставил несколько непродаваемых и незаконченных фрагментов, которые Мэри вытащила для меня.  Я мог видеть, где он разочаровался в них, но я был более изобретательным заговорщиком, чем Сирил.  Кроме того, большинство из них обладали тем замечательным полным владением медиумом, которое Сирил начал развивать.
 
 
 Я сказал Мэри, что мог бы найти способы превратить большинство из них в реальные истории, и, если бы она захотела, я бы сделал это и продал их, и мы разделили бы деньги.  Она сказала, что ей понравилось, и я отнес их домой. (Один из них, “[Встреча](https://web.archive.org/web/20150920042402/http://www.amazon.com/gp/product/0671656201?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671656201)”, был удостоен премии Хьюго, единственной премии Хьюго, которую когда-либо получал Сирил.)
@@ -55,15 +55,15 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Мэри Корнблат,** [** Часть 1**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [** Часть 2**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
-- [** Кирилл**](/posts/2009-04-20-cyril/)
+- ** Мэри Корнблат,** [** Часть 1**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [** Часть 2**](/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
+- [** Кирилл**](/fred-pohl/2009-04-20-cyril/)
 
 
 ### Один комментарий
 
 - [Билл Гудвин](https://web.archive.org/web/20150920042402/http://771715/) говорит:
 И еще хорошая обложка с Ричардом Пауэрсом.  Мне нужно найти это для моей коллекции!
-[**19 декабря 2010, 12:42 вечера**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
+[**19 декабря 2010, 12:42 вечера**](/fred-pohl/2010-12-18-mary-kornbluth-part-3-anthologist/)
 
 [WordPress](https://web.archive.org/web/20150920042402/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150920042402/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-01-27
 categories: ["Authors"]
 tags: ["Oscar Wilde", "Quotations"]
 archive_url: "https://web.archive.org/web/20200601000000/http://www.thewaythefutureblogs.com/2013/01/bright-sayings-of-bright-people-no-41/"
-prev_post_url: "/posts/2013-01-23-a-diamond-as-big-as-the-what/"
+prev_post_url: "/fred-pohl/2013-01-23-a-diamond-as-big-as-the-what/"
 prev_post_title: "A Diamond As Big As the — What?"
-next_post_url: "/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/"
+next_post_url: "/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/"
 next_post_title: "Under Three (or Maybe More) Flags, Part 1"
 translated: false
 ---
@@ -30,7 +30,7 @@ Frederik Pohl
 
 - Ken says:
 McConnell and Reid must be the truest of friends.
-[**January 27, 2013, 2:57 pm**](/posts/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/)
+[**January 27, 2013, 2:57 pm**](/fred-pohl/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/)
 
 [WordPress](https://web.archive.org/web/20150922065730/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150922065730/http://dicksmithsoftware.com/)

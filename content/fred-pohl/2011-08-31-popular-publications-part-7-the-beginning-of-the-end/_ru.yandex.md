@@ -4,9 +4,9 @@ date: 2011-08-31
 categories: ["Authors"]
 tags: ["Alden H. Norton", "David Goodis", "Editors", "Frank A. Munsey", "Mary Gnaedinger", "Prozines", "Publishing", "Pulps", "Robert J. Hogan"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-7-the-beginning-of-the-end/"
-prev_post_url: "/posts/2011-08-30-how-to-mark-your-place-with-me-for-company/"
+prev_post_url: "/fred-pohl/2011-08-30-how-to-mark-your-place-with-me-for-company/"
 prev_post_title: "How to Mark Your Place (With Me  for Company!)"
-next_post_url: "/posts/2011-09-03-hannes-bok-futurian-artist-in-chief/"
+next_post_url: "/fred-pohl/2011-09-03-hannes-bok-futurian-artist-in-chief/"
 next_post_title: "Hannes Bok: Futurian Artist in Chief"
 translated: false
 translator: "Yandex"
@@ -56,7 +56,7 @@ G-8 был написан очень приятным человеком по и
 
 **Связанные должности:**
 
-- ** Популярные публикации**, [** Часть 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/posts/2011-05-31-popular-publications-part-2/), [** Часть 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [** Часть 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+- ** Популярные публикации**, [** Часть 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [** Часть 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [** Часть 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 
 
 ### 2 Комментария
@@ -64,11 +64,11 @@ G-8 был написан очень приятным человеком по и
 - Дэвид Б. Уильямс говорит:
 Я поражаюсь, что какой-либо издатель стал бы полагаться на одного автора для создания всего тиража в каждом номере журнала. Поговорите обо всех своих яйцах в одной корзине. Один случайный удар молнии - и вашему журналу капут.
 Но я рад, что они сохранили FFM. Я с нежностью вспоминаю себя молодым подростком в начале 1960-х, читающим классику фэнтези в потрепанных, обалденных экземплярах FFM конца 40-х. Корабль Иштар!
-[**31 августа 2011, 14:17 вечера**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+[**31 августа 2011, 14:17 вечера**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 - [Стефан Джонс](https://web.archive.org/web/20111005025920/http://home.comcast.net/~stefan_jones/dead_ray.jpg) говорит:
 Дэвид:
 Прочитав о производстве палп в постах Фредерика... Держу пари, руководство повысило бы особенно сообразительного рассыльного до должности редактора еще до того, как выветрился запах озона!
-[**31 августа 2011 года, 9:50 вечера**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+[**31 августа 2011 года, 9:50 вечера**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 [WordPress](https://web.archive.org/web/20111005025920/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111005025920/http://dicksmithsoftware.com/)

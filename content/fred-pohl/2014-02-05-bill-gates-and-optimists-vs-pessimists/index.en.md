@@ -4,9 +4,9 @@ date: 2014-02-05
 categories: ["Betty's Posts", "Books"]
 tags: ["Bill Gates", "Economics", "Elizabeth Anne Hull", "Kurt Vonnegut", "Predictions"]
 archive_url: "https://web.archive.org/web/20170101000000/http://www.thewaythefutureblogs.com/2014/02/bill-gates-and-optimists-vs-pessimists/"
-prev_post_url: "/posts/2014-02-04-on-the-character-of-characters/"
+prev_post_url: "/fred-pohl/2014-02-04-on-the-character-of-characters/"
 prev_post_title: "On the Character of Characters"
-next_post_url: "/posts/2014-02-17-69-of-supermarket-pork-tainted/"
+next_post_url: "/fred-pohl/2014-02-17-69-of-supermarket-pork-tainted/"
 next_post_title: "69% of Supermarket Pork Tainted"
 translated: false
 ---
@@ -49,11 +49,11 @@ Pessimists worry that we *won’t* solve our problems and it will be the end of 
 - Subrata Sircar says:
 Mr. Gates is speculating about poor countries – that is, countries that today can’t do things like feed people affordably, get them clean water, electricity, or medical care, and lift them out of a purely subsistence economy.  When he says that there will be almost no countries like that in 2035, I believe him and am hopeful.
 The implosion of the middle class and the increasing concentration of wealth in the hands of the few in the US is cause for concern, but those are – currently – orthogonal issues.
-[**February 6, 2014, 2:02 pm**](/posts/2014-02-05-bill-gates-and-optimists-vs-pessimists/)
+[**February 6, 2014, 2:02 pm**](/fred-pohl/2014-02-05-bill-gates-and-optimists-vs-pessimists/)
 - Jay says:
 What Gates is referring to is the deeply desperate poverty of those nations with per capita GDP of a dollar or two or three a day.  And he acknowledges that there might be a small handful of exceptions, suggesting that parts of landlocked Africa might be the toughest nuts to crack.
 So he’s not saying that poverty will be eradicated, but that almost all nations will be at least in something like middle-class status.  He’s predicting several more Ghana-like GDP’s, where famine is improbable, and far fewer Liberia-like or Democratic Republic of Congo-like GDP’s, societies which might easily collapse if not for outside assistance.
-[**February 7, 2014, 12:46 am**](/posts/2014-02-05-bill-gates-and-optimists-vs-pessimists/)
+[**February 7, 2014, 12:46 am**](/fred-pohl/2014-02-05-bill-gates-and-optimists-vs-pessimists/)
 - H. E. Parmer says:
 *[A] pessimist gets nothing but pleasant surprises, an optimist nothing but unpleasant.*
 — Rex Stout
@@ -64,7 +64,7 @@ I suppose it would be déclassé of me to point out that ol’ Philanthropic Bil
 Sorry for the rant, but I get positively infuriated about this. The con couldn’t be plainer if they were trying to sell us magic money-multiplying machines. The only way it succeeds is by massive corruption, enabled by this “The Free Market does *everything* better!” mythology that’s drummed into our heads from the earliest age.
 A country that short-changes its children for the benefit of the already obscenely rich doesn’t deserve to survive, and it sure as hell won’t prosper.
 The sad thing about this future I find myself in is that it’s the dystopian visions in S.F. which seem to have best caught the shape of it.
-[**February 14, 2014, 4:29 pm**](/posts/2014-02-05-bill-gates-and-optimists-vs-pessimists/)
+[**February 14, 2014, 4:29 pm**](/fred-pohl/2014-02-05-bill-gates-and-optimists-vs-pessimists/)
 
 [WordPress](https://web.archive.org/web/20160416151540/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416151540/http://dicksmithsoftware.com/)

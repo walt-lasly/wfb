@@ -4,9 +4,9 @@ date: 2009-09-01
 categories: ["Miscellaneous", "Science"]
 tags: ["Capitalism", "Cats", "Ecology", "Finance", "Politics", "Zoology"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2009/09/more-little-known-fun-facts/"
-prev_post_url: "/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
+prev_post_url: "/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
 prev_post_title: "When I Graduated from High School (After 73 Years)"
-next_post_url: "/posts/2009-09-04-the-worlds-of-l-ron-hubbard/"
+next_post_url: "/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/"
 next_post_title: "The Worlds of L. Ron Hubbard"
 translated: false
 translator: "Gemini"
@@ -55,7 +55,7 @@ translator: "Gemini"
 Может быть, но я не могу не думать, что это больше похоже на то, чтобы собрать свои истории воедино, чтобы они все давали одинаковые ответы на сложные вопросы. Вопросы вроде: Когда вы уже почти победили Талибан, Усаму бен Ладена и всю Аль-Каиду, и оставался всего один шаг, чтобы покончить с ними навсегда, почему вы отвели войска, чтобы вторгнуться в Ирак? И когда вы все-таки вторглись, почему вы не захватили сразу все иракские взрывчатые вещества и оружие, вместо того чтобы оставить их без присмотра, чтобы террористы могли их украсть и убивать американских солдат, как они делают до сих пор? И еще около сорока вопросов о действиях самой ошибочной администрации, которую когда-либо видела эта страна.
 
 
-**Related post:** [**Little Known Fun Facts**](/posts/2009-08-17-little-known-fun-facts/)
+**Related post:** [**Little Known Fun Facts**](/fred-pohl/2009-08-17-little-known-fun-facts/)
 
 
 ### 3 Comments
@@ -63,16 +63,16 @@ translator: "Gemini"
 - [Robert Nowall](https://web.archive.org/web/20091002080940/http://www.robertnowall.com/) says:
 По поводу Плодородного полумесяца… полагаю, рано или поздно это приведет к войне за воду.
 По поводу ассоциации выпускников Буша-Чейни… я бы не думал, что оставлять вооруженного врага в тылу нетронутым — особенно хорошая идея, даже если вы игнорируете нарушенные резолюции ООН и многочисленные угрозы и обещания.
-[**September 1, 2009, 4:27 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**September 1, 2009, 4:27 pm**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 - [Jeff](https://web.archive.org/web/20091002080940/http://jeffcrook.blogspot.com/) says:
 Я думаю, ответы на эти последние вопросы можно найти в произведениях Фрэнка Герберта. Афганистан — это Селуса Секундис. Ирак — Арракис. Буш — Раббан, Чейни — Барон и так далее.
 Этот человек был либо пророком, либо проницательно осознавал неизбежный ход человеческой политики.
-[**September 1, 2009, 8:56 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**September 1, 2009, 8:56 pm**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 - John H says:
 *но настоящий враг — это дамбы: огромные, которые Турция возвела вдоль Евфрата…*
 Это заставило меня почесать голову, потому что я знаю, что Евфрат течет в Ирак из Сирии. Мне пришлось поискать, чтобы понять, что исток находится в Турции. Тигр и Евфрат на самом деле начинаются почти в одном месте.
 Узнаешь что-то новое каждый день…
-[**September 3, 2009, 3:33 pm**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**September 3, 2009, 3:33 pm**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 
 [WordPress](https://web.archive.org/web/20091002080940/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002080940/http://dicksmithsoftware.com/)

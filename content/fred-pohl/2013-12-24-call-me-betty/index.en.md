@@ -4,9 +4,9 @@ date: 2013-12-24
 categories: ["Betty's Posts", "Miscellaneous"]
 tags: ["Beyonce", "Elizabeth Anne Hull", "Larry Niven", "Liberace", "Newt Gingrich", "Oprah Winfrey"]
 archive_url: "https://web.archive.org/web/20230501000000/http://www.thewaythefutureblogs.com/2013/12/call-me-betty/"
-prev_post_url: "/posts/2013-12-23-the-story-of-the-space-merchants-part-2/"
+prev_post_url: "/fred-pohl/2013-12-23-the-story-of-the-space-merchants-part-2/"
 prev_post_title: "The Story ofThe Space Merchants, Part 2"
-next_post_url: "/posts/2013-12-26-the-story-of-the-space-merchants-part-3/"
+next_post_url: "/fred-pohl/2013-12-26-the-story-of-the-space-merchants-part-3/"
 next_post_title: "The Story ofThe Space Merchants, Part 3"
 translated: false
 ---
@@ -30,7 +30,7 @@ Frederik Pohl
 Today I’m thinking about names.  Fred’s was one he generally enjoyed, uncommon enough to be distinctive but not so rare as to be a unique identifier.  He was no Beyonce or Liberace or Oprah. Though a lifelong anglophile, Fred liked the spelling of his name — the way the [Danish kings](https://web.archive.org/web/20160502195051/http://dkks.dk/the-kings-of-denmark) did, with no C, rather than the most common English and Continental way — even though throughout his life he suffered from the indignities of having people, and later spellcheck programs, hypercorrect it for him.
 
 
-What he didn’t like was the middle name on his birth certificate, George, but when he joined the U.S. military in World War II, he allowed the officials to give him the name Fred G. Pohl, Jr.  He especially despised “Junior.” Fred was quite thoroughly estranged from his father, since his teenage years, and he always tried to be his own version of what he thought a man should be. He published consistently (when he didn’t use a [**pseudonym**](/posts/2010-05-14-fred-s-pen-names/)) as Frederik Pohl.
+What he didn’t like was the middle name on his birth certificate, George, but when he joined the U.S. military in World War II, he allowed the officials to give him the name Fred G. Pohl, Jr.  He especially despised “Junior.” Fred was quite thoroughly estranged from his father, since his teenage years, and he always tried to be his own version of what he thought a man should be. He published consistently (when he didn’t use a [**pseudonym**](/fred-pohl/2010-05-14-fred-s-pen-names/)) as Frederik Pohl.
 
 
 My own name, the one my mother, obsessed with the British royal family, gave me, combines two English queens. So I spell my middle name with an E, as did Queen Anne.
@@ -63,7 +63,7 @@ To most friends, though, I am Betty, and I hope you reading this will feel frien
 I’m sure that, like Fred and I, most people prefer to have their names spelled correctly.  It shows respect.  The use of computers has seemed to bring more inadvertent errors by writers who ought to know better, through a combination of haste, hypercorrection and spellcheck programs that think they know what you want better than you do.
 
 
-My spellcheck used to regularly offer to correct [**Newt Gingrich’s**](/posts/2012-01-21-newt-the-mewtant/) name to “gibberish.”  Who says programmers have no sense of humor?
+My spellcheck used to regularly offer to correct [**Newt Gingrich’s**](/fred-pohl/2012-01-21-newt-the-mewtant/) name to “gibberish.”  Who says programmers have no sense of humor?
 
 
 ### 2 Comments
@@ -74,11 +74,11 @@ I want to thank you for carrying on Fred’s blog; as a long time lover of SF, I
 Happy Holidays,  
 
 ~*~ Tara
-[**December 24, 2013, 1:26 pm**](/posts/2013-12-24-call-me-betty/)
+[**December 24, 2013, 1:26 pm**](/fred-pohl/2013-12-24-call-me-betty/)
 - David Edmeades says:
 I totally understand!  My wife’s name also starts with “Ed”, so many people’s eyes slide over the rest of mine and assume it’s the same.  
 Even now, she has gotten flak from strangers for not having taken my name. But like you, she can whip out the Dr. if presented with a bellicose adversary 
-[**December 26, 2013, 11:28 am**](/posts/2013-12-24-call-me-betty/)
+[**December 26, 2013, 11:28 am**](/fred-pohl/2013-12-24-call-me-betty/)
 
 [WordPress](https://web.archive.org/web/20160502195051/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160502195051/http://dicksmithsoftware.com/)

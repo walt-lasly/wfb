@@ -4,9 +4,9 @@ date: 2013-04-21
 categories: ["Miscellaneous"]
 tags: ["Andy Warhol", "Artists", "Quotations"]
 archive_url: "https://web.archive.org/web/20170101000000/http://www.thewaythefutureblogs.com/2013/04/bright-44-warho/"
-prev_post_url: "/posts/2013-04-19-any-day-now-by-terry-bisson-a-review/"
+prev_post_url: "/fred-pohl/2013-04-19-any-day-now-by-terry-bisson-a-review/"
 prev_post_title: "Any Day Nowby Terry Bisson: A review"
-next_post_url: "/posts/2013-04-27-arrival-part-4-the-party-plan/"
+next_post_url: "/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/"
 next_post_title: "Arrival, Part 4: The Party Plan"
 translated: false
 ---
@@ -30,7 +30,7 @@ Frederik Pohl
 
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170707102557/http://beamjockey.livejournal.com/) says:
 Did you ever get into Studio 54, Fred?
-[**April 22, 2013, 11:19 am**](/posts/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/)
+[**April 22, 2013, 11:19 am**](/fred-pohl/2013-04-21-bright-sayings-of-bright-people-no-44-warhol/)
 
 [WordPress](https://web.archive.org/web/20170707102557/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707102557/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2009-02-07
 categories: ["Personal", "Travel"]
 tags: ["Media", "Politics", "Satellites", "Television"]
 archive_url: "https://web.archive.org/web/20070401000000/http://www.thewaythefutureblogs.com/2009/02/seventeen-days-of-fox/"
-prev_post_url: "/posts/2009-01-30-the-poetry-corner/"
+prev_post_url: "/fred-pohl/2009-01-30-the-poetry-corner/"
 prev_post_title: "The Poetry Corner"
-next_post_url: "/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/"
+next_post_url: "/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/"
 next_post_title: "Greetings from S17° 32.18′ W149° 34.17′"
 translated: false
 ---
@@ -37,39 +37,39 @@ Each of  these events Fox kept alive for days, perhaps so that they could explic
 
 - [Fathercrow](https://web.archive.org/web/20090413072430/http://fathercrow.blogspot.com/) says:
 Yeah, you got to love Fox news, it’s just so wonderfully fictional. On a lighter note, it’s 50 degrees here in S.E. Wisconsin, so maybe you can stand it in Illinois.
-[**February 7, 2009, 2:10 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 7, 2009, 2:10 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - moz says:
 If you write it “Faux News” you get a better idea of the content. Also, a guy here sells stickers “Is that the truth, or is your News Limited”… another Murdoch fan, obviously.
-[**February 7, 2009, 4:40 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 7, 2009, 4:40 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Clark Tracy says:
 You mean if they say it on the TeeVees then it doesn’t have to be true?
-[**February 8, 2009, 10:37 am**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 8, 2009, 10:37 am**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - teletypeturtle says:
 The thought of being on a ship with nothing but Fox for 17 days … oh my. You did find a way to suffer it with good humor. 
-[**February 8, 2009, 9:58 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 8, 2009, 9:58 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - [Stefan Jones](https://web.archive.org/web/20090413072430/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) says:
 Fox News reminds me something that these two guys who wrote satirical SF in the fifties would come up with, to explain why the citizens of a dystopia weren’t marching in the streets.
 Man, what were their names . . .
-[**February 9, 2009, 12:51 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 9, 2009, 12:51 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Mary Peed says:
 Oh you poor man.  I bet Betty had a good time with it as well.
-[**February 10, 2009, 8:54 am**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 10, 2009, 8:54 am**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - John H says:
 It’s bad enough going to restaurants that insist on subjecting its customers to Faux News — I would have to just turn the TeeVee off if that was the only channel available. (Not if you were the last channel on Earth, Faux!)
 I am thrilled to have discovered your blog.
-[**February 12, 2009, 2:45 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 12, 2009, 2:45 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - [Weekend Bookchat « The Opinion Mill](https://web.archive.org/web/20090413072430/http://theopinionmill.wordpress.com/2009/02/21/weekend-bookchat-19/) says:
 [...] an intrepid man, found a way to rise above such adversity: Along about the tenth day, I finally figured out that, if I tuned to that channel but turned the [...]
-[**February 21, 2009, 6:23 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 21, 2009, 6:23 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - [Hell on the high seas « STEVENHARTSITE](https://web.archive.org/web/20090413072430/http://stevenhartsite.wordpress.com/2009/02/21/hell-on-the-high-seas/) says:
 [...] an intrepid man, found a way to rise above such adversity: Along about the tenth day, I finally figured out that, if I tuned to that channel but turned the [...]
-[**February 21, 2009, 6:31 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 21, 2009, 6:31 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Banjo says:
 You prefer your news slanted left, I take it. Well, there’s no shortage out there. Virtually all the rest of the media is on call, but MSNBC gives you the purest version.
-[**February 22, 2009, 12:47 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 22, 2009, 12:47 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Kip W says:
 I’m surprised the ship didn’t go down, with such a pronounced list to starboard.
-[**March 9, 2009, 7:16 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**March 9, 2009, 7:16 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 
 [WordPress](https://web.archive.org/web/20090413072430/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090413072430/http://dicksmithsoftware.com/)

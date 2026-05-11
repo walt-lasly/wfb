@@ -4,9 +4,9 @@ date: 2009-11-03
 categories: ["Authors", "Personal"]
 tags: ["A. Bertram Chandler", "Conventions", "Donald A. Wollheim", "Editors", "Elsie Wollheim", "Hydra Club", "Ian and Betty Ballantine", "John W. Campbell", "Judy-Lynn del Rey", "L. Sprague de Camp", "Lester del Rey", "New York", "Prozines", "Ray Cummings", "Robert Guinn", "W. Olaf Stapledon"]
 archive_url: "https://web.archive.org/web/20091211203126/http://www.thewaythefutureblogs.com/2009/11/lester-and-judy-lynn-del-rey/"
-prev_post_url: "/posts/2009-10-26-squabbles-in-the-stars/"
+prev_post_url: "/fred-pohl/2009-10-26-squabbles-in-the-stars/"
 prev_post_title: "Squabbles in the Stars"
-next_post_url: "/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
+next_post_url: "/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
 next_post_title: "Astounding Years 30–37 BC:* Clayton Magazines"
 translated: false
 ---
@@ -92,23 +92,23 @@ Other husband-wife editorial teams in science fiction and fantasy — Ian and [B
 - [Stefan Jones](https://web.archive.org/web/20091211203126/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 A real powerhouse team. They were still around and influential for most of the time I was an “active” SF fan. 
 Could I suggest putting more dates in the above?
-[**November 3, 2009, 6:50 pm**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**November 3, 2009, 6:50 pm**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 - [David Dyer-Bennet](https://web.archive.org/web/20091211203126/http://dd-b.net/) says:
 I think I’ve seen that photo before somewhere!  (I’m pleased to see it here.)
 And I’m continuing to greatly enjoy the historical content that you promised us.  Thank you!
-[**November 4, 2009, 11:56 am**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**November 4, 2009, 11:56 am**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 - [Kriss](https://web.archive.org/web/20091211203126/http://www.wetgenes.com/) says:
 Sorry this isnt relevant to the post but I just noticed it go by and thought people here might be interested.
 [http://www.gutenberg.org/etext/30399](https://web.archive.org/web/20091211203126/http://www.gutenberg.org/etext/30399)
 Pythias by Frederik Pohl
 This etext was produced from Galaxy Science Fiction February 1955.
 Looks like someone is digitizing some old magazines on project gutenberg.
-[**November 4, 2009, 1:25 pm**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**November 4, 2009, 1:25 pm**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 - Michael Black says:
 I started buying more than juvenile science fiction either around the time Del Rey Books got started, or shorty before.  I assumed it was named after him, it took some years before I realized that he was doing the fantasy and his wife was doing the science fiction.
 That was a prime time for science fiction, so much of the older work getting back in print (I assume because paperback publishing was doing well, and likely also because enough of a reader base had built up) and all the history being published, not just your book, but things like “The Early Del Rey” where his early stories were interleaved with autobiographical inserts about those times.  Everyone’s lives sounded so interesting, not just the collective of the Futurians, but all that time Lester Del Rey spent on fixing up his typewriter or being interested in photography.
    Michael
-[**November 9, 2009, 1:26 pm**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/)
+[**November 9, 2009, 1:26 pm**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/)
 
 [WordPress](https://web.archive.org/web/20091211203126/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091211203126/http://dicksmithsoftware.com/)

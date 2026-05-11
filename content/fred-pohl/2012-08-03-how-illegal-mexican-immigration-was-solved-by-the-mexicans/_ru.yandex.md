@@ -4,9 +4,9 @@ date: 2012-08-03
 categories: ["Miscellaneous"]
 tags: ["Population"]
 archive_url: "https://web.archive.org/web/20111101000000/http://www.thewaythefutureblogs.com/2012/08/how-illegal-mexican-immigration-was-solved-by-the-mexicans/"
-prev_post_url: "/posts/2012-08-01-why-obama-has-to-fail/"
+prev_post_url: "/fred-pohl/2012-08-01-why-obama-has-to-fail/"
 prev_post_title: "Why Obama Has to Fail"
-next_post_url: "/posts/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/"
+next_post_url: "/fred-pohl/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/"
 next_post_title: "Bright Sayings of Bright People, No. 35: Augustine"
 translated: false
 translator: "Yandex"
@@ -39,25 +39,25 @@ translator: "Yandex"
 - [Марк Фарнум Рендино](https://web.archive.org/web/20150922014958/http://gmail.com/) говорит:
 Есть еще один важный фактор:
 Так называемые консерваторы в последнее время устроили в этой стране настоящий бардак, так что она уже не так привлекательна, как раньше.
-[**3 августа 2012 года, 5:45 утра**](/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
+[**3 августа 2012 года, 5:45 утра**](/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
 - [Кен Хоутон](https://web.archive.org/web/20150922014958/http://www.angrybearblog.com/) говорит:
 Я полагаю, вы имеете в виду, что в среднестатистической семье двое детей, что приводит к среднему размеру семьи около 4 (по сравнению с примерно 8,8 в 1979 году).
 [Таблицы Penn World](https://web.archive.org/web/20150922014958/http://pwt.econ.upenn.edu/php_site/pwt_index.php) показывают, что ВВП Мексики на душу населения в реальном выражении за это время вырос на 75% – в среднем примерно на 1,4% в год.
 Реальный рост и лучшая жизнь.
 (Хммм.  Луна ” наша собака; ее самое распространенное имя - “тик".  Но я не верю, что машина воспримет это как доказательство того, что я настойчив.)
-[**3 августа 2012 года, 7:57 утра**](/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
+[**3 августа 2012 года, 7:57 утра**](/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
 - [болдгай](https://web.archive.org/web/20150922014958/http://www.irememberjfk.com/) говорит:
 Меня всегда возмущало заявление папы римского о том, что католики всего мира не должны использовать противозачаточные средства. Приятно видеть, что здравый смысл берет верх.
-[**3 августа 2012, 18:04 вечера**](/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
+[**3 августа 2012, 18:04 вечера**](/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
 - Донн говорит:
 Кроме того, экономика (падающая с тех пор, как демократы захватили Палату представителей, с которой начинаются расходы, в 2006 г., и да, Дж.У. Бушу следовало наложить вето на увеличение расходов) (о, и закон о реинвестировании сообщества, заставляющий банки выдавать кредиты ранее неквалифицированным покупателям, что приводит к пузырю на рынке жилья) не является так хорошо, что у нас меньше стимулов приходить.
-[**4 августа 2012, 14:57**](/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
+[**4 августа 2012, 14:57**](/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
 - [Роберт Новолл](https://web.archive.org/web/20150922014958/http://www.robertnowall.com/) говорит:
 Блестящая вещь, которую можно выделить из статистики…учитывая, что Япония, по имеющимся сведениям, вероятно, обезлюдеет к концу 2000-х годов, а Западная Европа будет поддерживать себя за счет поощрения иммиграции с Ближнего Востока, единственным, что поддерживало рождаемость в США, была эта высокая рождаемость ... теперь США последуют за остальной западной цивилизацией по пути массовых социальных программ, население которых не в состоянии* поддерживать…
-[**5 августа 2012 года, 9:22 утра**](/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
+[**5 августа 2012 года, 9:22 утра**](/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
 - [Грегори Бенфорд](https://web.archive.org/web/20150922014958/http://gregorybenford.com/) говорит:
 Но есть множество стран, все еще желающих экспортировать население…
-[**5 августа 2012 года, 11:38 утра**](/posts/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
+[**5 августа 2012 года, 11:38 утра**](/fred-pohl/2012-08-03-how-illegal-mexican-immigration-was-solved-by-the-mexicans/)
 
 [WordPress](https://web.archive.org/web/20150922014958/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150922014958/http://dicksmithsoftware.com/)

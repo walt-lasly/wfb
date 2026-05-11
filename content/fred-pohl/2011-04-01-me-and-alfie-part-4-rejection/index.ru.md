@@ -4,9 +4,9 @@ date: 2011-04-01
 categories: ["Authors", "Books", "Miscellaneous", "Personal", "Travel", "Writing"]
 tags: ["Advertising", "Agents", "Alfred Bester", "C.M. Kornbluth", "Editors", "Frederic Wakeman", "Horace L. Gold", "Ian and Betty Ballantine", "Italy", "New York", "Prozines", "Publishing", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20220201000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-4-rejection/"
-prev_post_url: "/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
+prev_post_url: "/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
 prev_post_title: "Me and Alfie, Part 3: Ideas andThe Demolished Man"
-next_post_url: "/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
+next_post_url: "/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
 next_post_title: "Me and Alfie, Part 5: Collaboration and the Futurians"
 translated: false
 translator: "Yandex"
@@ -74,7 +74,7 @@ translator: "Yandex"
 И он сказал: “Мне все равно, сможете вы это сделать или нет, печатники будут ждать”.
 
 
-Итак, я вернулся к себе домой в Нью-Джерси, где у меня гостил мой старый друг [** Сирил Корнблат**](/posts/2009-04-20-cyril/), с которым я до этого написал много рассказов. Он перечитал ту часть, которую я написал, первую треть или около того, и сказал: “Да, да, мы можем что-то с этим сделать”. Так что он переписал это и кое-что добавил, а я переписал это и кое-что добавил, и мы едва успели напечатать это, но на самом деле первая часть была устанавливается до того, как был написан последний.
+Итак, я вернулся к себе домой в Нью-Джерси, где у меня гостил мой старый друг [** Сирил Корнблат**](/fred-pohl/2009-04-20-cyril/), с которым я до этого написал много рассказов. Он перечитал ту часть, которую я написал, первую треть или около того, и сказал: “Да, да, мы можем что-то с этим сделать”. Так что он переписал это и кое-что добавил, а я переписал это и кое-что добавил, и мы едва успели напечатать это, но на самом деле первая часть была устанавливается до того, как был написан последний.
 
 
 Бестер: Боже мой, ты жил опасной жизнью, Фред!
@@ -101,7 +101,7 @@ translator: "Yandex"
 Пол: Ну, я думаю, это одна и та же история.
 
 
-Итак, не осталось издателя, которому можно было бы это предложить. Затем [Иэн Баллантайн](/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/) основал свою собственную компанию, и он был настолько неопытен как издатель, что не знал, что это нельзя публиковать. Итак, он опубликовал это! Вы знаете, сейчас она переведена на 45 языков.
+Итак, не осталось издателя, которому можно было бы это предложить. Затем [Иэн Баллантайн](/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/) основал свою собственную компанию, и он был настолько неопытен как издатель, что не знал, что это нельзя публиковать. Итак, он опубликовал это! Вы знаете, сейчас она переведена на 45 языков.
 
 
 Бестер: Это показывает вам, что величайшие книги в мире могут быть проданы кем угодно. Посмотри на Фреда!  Величайший роман в области научной фантастики всех времен. Отброшенный всеми! Это нелепо!
@@ -112,31 +112,31 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [** Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [** Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 5 Комментариев
 
 - [Ричард](https://web.archive.org/web/20170707054351/http://estoreal.blogspot.com/) говорит:
 Остроумие потрясающее.  Я так завидую зрителям в этом кинотеатре в Ньюкасле!
-[**1 апреля 2011 года, 3:24 утра**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**1 апреля 2011 года, 3:24 утра**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - Дэвид Б. Уильямс говорит:
 Уморительно. Напоминает мне о Дюне(Dune). Бедный Фрэнк Герберт несколько лет после выхода журнала в свет не мог найти книгоиздателя, пока, наконец, не продал его компании, специализирующейся на печати каталогов или чего-то в этом роде. Затем издания в мягкой обложке, продолжения и поместье на Гавайях.
-[**1 апреля 2011 года, 8:55 утра**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**1 апреля 2011 года, 8:55 утра**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - Майк Голдберг говорит:
 Еще, пожалуйста!
-[**2 апреля 2011 года, 8:41 утра**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**2 апреля 2011 года, 8:41 утра**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - [Майкл Уолш](https://web.archive.org/web/20170707054351/http://www.oldearthbooks.com/) говорит:
 @David B Williams: Дюна(Dune) была приобретена компанией Chilton, издателем руководств по ремонту автомобилей.  Они также опубликовали “Дикий и посторонний” – бейсбольный роман Аллена Кима Лэнга в жанре НФ.  
 Описание от издателя: “Веселая смесь бейсбола, экзобиологии, внеземной этнологии, захватывающих приключений и чистого веселья — история знакомства бейсбола с чужой планетой”.
 Возможно, я ошибаюсь, но я думаю, что он был редактором в "Чилтоне".
-[**2 апреля 2011 года, 12:15 вечера**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**2 апреля 2011 года, 12:15 вечера**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 - Ларс говорит:
 Я долгое время думал, что “Торговцы Космосом(The Space Merchants)” - лучший либертарианский НФ-роман, когда-либо написанный. 
 Конечно, не в том смысле, в каком хотелось бы либертарианцам. Больше похоже на то, что “Мы” из “1984” являются квинтэссенцией коллективистских романов, показывающих логические следствия определенных идеологий. “Торговцы Космосом(The Space Merchants)” показывают, что позволило бы сделать либертарианское право. 
 Тем не менее, можно было бы подумать, что люди из "Прометея" будут достаточно честны, чтобы вновь признать мистера Пола и мистера Корнблата великими мастерами.
-[**4 апреля 2011, 17:07 вечера**](/posts/2011-04-01-me-and-alfie-part-4-rejection/)
+[**4 апреля 2011, 17:07 вечера**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/)
 
 [WordPress](https://web.archive.org/web/20170707054351/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707054351/http://dicksmithsoftware.com/)

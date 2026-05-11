@@ -4,9 +4,9 @@ date: 2013-05-12
 categories: ["Science"]
 tags: ["Ecology"]
 archive_url: "https://web.archive.org/web/20231001000000/http://www.thewaythefutureblogs.com/2013/05/dung-into-dollars/"
-prev_post_url: "/posts/2013-05-10-arrival-part-7-departure/"
+prev_post_url: "/fred-pohl/2013-05-10-arrival-part-7-departure/"
 prev_post_title: "Arrival, Part 7: Departure"
-next_post_url: "/posts/2013-05-14-about-brooklyn/"
+next_post_url: "/fred-pohl/2013-05-14-about-brooklyn/"
 next_post_title: "About Brooklyn"
 translated: false
 translator: "Yandex"
@@ -32,12 +32,12 @@ translator: "Yandex"
 
 - Кэти У говорит:
 Как чудесно! Если бы они могли применить тот же процесс к огромным лагунам свиного навоза (а насколько я знаю, нет причин, по которым они не могут этого сделать), этим камнем были бы убиты два зайца…
-[**17 мая 2013, 15:13 вечера**](/posts/2013-05-12-dung-into-dollars/)
+[**17 мая 2013, 15:13 вечера**](/fred-pohl/2013-05-12-dung-into-dollars/)
 - Джейсон Митчелл говорит:
 тот же процесс можно было бы использовать на муниципальных очистных сооружениях и свалках (которые естественным образом вырабатывают метан).  
 
 мусор превращается в наличные – действительно!
-[**29 мая 2013, 15:19 вечера**](/posts/2013-05-12-dung-into-dollars/)
+[**29 мая 2013, 15:19 вечера**](/fred-pohl/2013-05-12-dung-into-dollars/)
 
 [WordPress](https://web.archive.org/web/20170707032809/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707032809/http://dicksmithsoftware.com/)

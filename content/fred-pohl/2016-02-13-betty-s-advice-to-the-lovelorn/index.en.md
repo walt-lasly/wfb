@@ -4,7 +4,7 @@ date: 2016-02-13
 categories: ["Betty's Posts", "Miscellaneous"]
 tags: ["Elizabeth Anne Hull", "Judith Merril", "Quotations", "Relationships"]
 archive_url: "https://web.archive.org/web/20180401000000/http://www.thewaythefutureblogs.com/2016/02/valentine-advice-to-the-lovelorn/"
-prev_post_url: "/posts/2016-02-02-elizabeth-anne-hull-at-capricon-feb-11-14/"
+prev_post_url: "/fred-pohl/2016-02-02-elizabeth-anne-hull-at-capricon-feb-11-14/"
 prev_post_title: "Elizabeth Anne Hull at Capricon, Feb. 11–14"
 translated: false
 ---
@@ -51,7 +51,7 @@ With some apprehension, because he nearly always found something to dislike abou
 I wrote it that way because I believe any marriage has its challenges.  In fact, just living with anyone can have similar problems.
 
 
-Long before Fred and I were married, [**Judy Merril**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) once told me, “Everbody’s crazy in one way or another.  We can’t see our own craziness, but we need to look closely at our love object.  The most important thing to find out is, *in what way is this person crazy?*  And then to decide whether or not we can, or want to, live with that craziness.”
+Long before Fred and I were married, [**Judy Merril**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/) once told me, “Everbody’s crazy in one way or another.  We can’t see our own craziness, but we need to look closely at our love object.  The most important thing to find out is, *in what way is this person crazy?*  And then to decide whether or not we can, or want to, live with that craziness.”
 
 
 ### 2 Comments
@@ -60,10 +60,10 @@ Long before Fred and I were married, [**Judy Merril**](/posts/2010-11-30-judith-
 Elizabeth, it sounds like your answer appealed to Fred  for the reasons it appeals to me, and probably most others including your original recipient: its straightforward and simple truths. What we share in common, and bring to eachother that’s uncommon, certainly have a lot more bearing on the success of the relationship than simple physical attributes – including the orientation of their genatalia. 
 Why should the gender of the individuals matter to a greater extent than say eye-color?  Those details matter less in the long run, but your shared appreciation of literature could keep you happy for years!
 Happy Valentine’s Day!  Thank you for continuing to inspire!
-[**February 13, 2016, 5:05 am**](/posts/2016-02-13-betty-s-advice-to-the-lovelorn/)
+[**February 13, 2016, 5:05 am**](/fred-pohl/2016-02-13-betty-s-advice-to-the-lovelorn/)
 - [Gregory Benford](https://web.archive.org/web/20181011071737/http://gregorybenford.com/) says:
 Very smart post! Good to see you back at the podium, Betty.
-[**February 23, 2016, 8:31 pm**](/posts/2016-02-13-betty-s-advice-to-the-lovelorn/)
+[**February 23, 2016, 8:31 pm**](/fred-pohl/2016-02-13-betty-s-advice-to-the-lovelorn/)
 
 [WordPress](https://web.archive.org/web/20181011071737/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20181011071737/http://dicksmithsoftware.com/)

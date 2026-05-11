@@ -4,7 +4,7 @@ date: 2009-03-31
 categories: ["Personal"]
 tags: ["Capitalism", "John W. Gates", "Predictions", "Sylvia Porter", "Volunteerism"]
 archive_url: "https://web.archive.org/web/19960801000000/http://www.thewaythefutureblogs.com/2009/03/corporate-leisure-time/"
-prev_post_url: "/posts/2009-03-26-judgment-day-the-cruise/"
+prev_post_url: "/fred-pohl/2009-03-26-judgment-day-the-cruise/"
 prev_post_title: "Judgment Day: The Cruise"
 translated: false
 translator: "DeepL"
@@ -55,12 +55,12 @@ translator: "DeepL"
 
 - [Jeff](https://web.archive.org/web/20090403043405/http://jeffcrook.blogspot.com/) сказал:
 Аминь, брат. Приобретение богатства ради богатства стало целью, без какой-либо другой мотивации. Честно говоря, я не понимаю, как люди, которые зарабатывают такие деньги, могут в них нуждаться. Полагаю, можно потратить их все, но после определенного момента приобретение большего богатства, чем ты можешь использовать, становится психическим заболеванием, как заполнение дома мусором, который ты подбираешь на обочине дороги.
-[**Март 31, 2009, 8:42 am**](/posts/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
+[**Март 31, 2009, 8:42 am**](/fred-pohl/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
 - Майк Вудхаус сказал:
 Хотя я ни на секунду не стану утверждать, что это широко распространено или глубоко укоренилось в корпоративной культуре, я бы сказал, что - по крайней мере, в некоторых местах - мельчайшие семена прорастают.
 В крупном немецком банке, в котором я работаю, есть программа, по которой волонтеры могут провести несколько (я только что проверил - два) дней в году, работая над различными спонсируемыми общественными проектами - за счет компании (или евро).
 Не много, но больше, чем ничего.
-[**Март 31, 2009, 8:46 am**](/posts/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
+[**Март 31, 2009, 8:46 am**](/fred-pohl/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
 
 [WordPress](https://web.archive.org/web/20090403043405/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090403043405/http://dicksmithsoftware.com/)

@@ -4,7 +4,7 @@ date: 2009-03-31
 categories: ["Personal"]
 tags: ["Capitalism", "John W. Gates", "Predictions", "Sylvia Porter", "Volunteerism"]
 archive_url: "https://web.archive.org/web/19960801000000/http://www.thewaythefutureblogs.com/2009/03/corporate-leisure-time/"
-prev_post_url: "/posts/2009-03-26-judgment-day-the-cruise/"
+prev_post_url: "/fred-pohl/2009-03-26-judgment-day-the-cruise/"
 prev_post_title: "Judgment Day: The Cruise"
 translated: false
 translator: "Yandex"
@@ -55,12 +55,12 @@ translator: "Yandex"
 
 - [Джефф](https://web.archive.org/web/20090403043405/http://jeffcrook.blogspot.com/) говорит:
 Аминь, брат. Приобретение богатства ради богатства стало целью, без какой-либо другой мотивации. Честно говоря, я не понимаю, как люди, которые зарабатывают такие деньги, могут в этом нуждаться. Я полагаю, что можно потратить все это, но после определенного момента процесс приобретения большего богатства, чем вы можете использовать, становится психическим заболеванием, подобно заполнению вашего дома мусором, который вы подбираете на обочине дороги.
-[** 31 марта 2009 года, 8:42 утра**](/posts/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
+[** 31 марта 2009 года, 8:42 утра**](/fred-pohl/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
 - Майк Вудхаус говорит:
 Хотя я ни на секунду не стал бы утверждать, что это либо широко распространено, либо глубоко укоренилось в корпоративной культуре, я бы сказал, что - по крайней мере, в некоторых местах - прорастают мельчайшие семена.
 В крупном немецком банке, в котором я работаю, есть программа, по которой волонтеры могут проводить несколько (я только что проверил - два) дней в году, работая над различными спонсируемыми общественными проектами - на деньги компании (или евро).
 Немного, но больше, чем ничего.
-[** 31 марта 2009 года, 8:46 утра**](/posts/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
+[** 31 марта 2009 года, 8:46 утра**](/fred-pohl/2009-03-31-my-worst-prediction-ever-corporate-leisure-time/)
 
 [WordPress](https://web.archive.org/web/20090403043405/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090403043405/http://dicksmithsoftware.com/)

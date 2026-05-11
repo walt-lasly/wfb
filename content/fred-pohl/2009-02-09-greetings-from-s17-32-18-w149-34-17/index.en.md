@@ -4,9 +4,9 @@ date: 2009-02-09
 categories: ["Authors", "Personal", "Travel"]
 tags: ["Elizabeth Anne Hull", "French Polynesia", "Hayford Peirce", "Medicine", "Robert A. Heinlein", "The Way the Future Was", "Virginia Heinlein"]
 archive_url: "https://web.archive.org/web/20090316024048/http://www.thewaythefutureblogs.com/2009/02/greetings_from_s17_degrees/"
-prev_post_url: "/posts/2009-02-07-seventeen-days-of-fox/"
+prev_post_url: "/fred-pohl/2009-02-07-seventeen-days-of-fox/"
 prev_post_title: "Seventeen Days of Fox"
-next_post_url: "/posts/2009-02-11-farewell-nuku-hiva/"
+next_post_url: "/fred-pohl/2009-02-11-farewell-nuku-hiva/"
 next_post_title: "Farewell, Nuku Hiva"
 translated: false
 ---
@@ -54,23 +54,23 @@ I got an immediate look of extreme displeasure from Ginny.  “Don’t mention t
 
 - [Paul](https://web.archive.org/web/20090316024048/http://www.skyseastone.net/jvstin) says:
 Ah! I remember a part of this story from a bit in Heinlein’s Expanded Universe!
-[**February 9, 2009, 4:32 am**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**February 9, 2009, 4:32 am**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [Jeff](https://web.archive.org/web/20090316024048/http://jeffcrook.blogspot.com/) says:
 I say to you, Gandalf, beware the inclines of Moorea.
-[**February 9, 2009, 8:39 am**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**February 9, 2009, 8:39 am**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [Squidhelmet](https://web.archive.org/web/20090316024048/http://www.squidhelmet.com/) says:
 This blog is always a great read.  Where else can you get first-hand anecdotes about SF grand masters randomly meeting on the same mysterious island? Tama’a maitai!
-[**February 9, 2009, 10:57 am**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**February 9, 2009, 10:57 am**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [the blog team](https://web.archive.org/web/20090316024048/http://thewaythefutureblogs.com/) says:
 Er, randomly *not* meeting…. LAZ
-[**February 9, 2009, 1:01 pm**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**February 9, 2009, 1:01 pm**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [Fathercrow](https://web.archive.org/web/20090316024048/http://fathercrow.blogspot.com/) says:
 Man I’d love the chance to fall off an island like that, but I’m guessing such climes are not exactly wheelchair accessible. Pity they haven’t come up with anti-gravity boots yet. (G)
-[**February 10, 2009, 3:54 pm**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**February 10, 2009, 3:54 pm**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 - [kittent](https://web.archive.org/web/20090316024048/http://kittent.com/) says:
 Thank you for this story.  I hope you are having a wonderful time. You will be missed at Capricon.
 (I’m halfway through *The Last Theorem* and totally delighted.)
-[**February 10, 2009, 8:24 pm**](/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
+[**February 10, 2009, 8:24 pm**](/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/)
 
 [WordPress](https://web.archive.org/web/20090316024048/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090316024048/http://dicksmithsoftware.com/)

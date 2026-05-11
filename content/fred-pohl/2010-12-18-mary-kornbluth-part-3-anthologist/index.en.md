@@ -4,9 +4,9 @@ date: 2010-12-18
 categories: ["Authors", "Books", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Editors", "Hugo Awards", "Mary Kornbluth", "Publishing", "Walter Bradbury"]
 archive_url: "https://web.archive.org/web/20180901000000/http://www.thewaythefutureblogs.com/2010/12/mary-kornbluth-part-3-anthologist/"
-prev_post_url: "/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/"
+prev_post_url: "/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/"
 prev_post_title: "How I Lost My Oldest Friend(and Gained a Literary Agency)"
-next_post_url: "/posts/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
+next_post_url: "/fred-pohl/2010-12-19-bright-sayings-of-bright-people-no-7-mackay/"
 next_post_title: "Bright Sayings of Bright People, No. 7: Mackay"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![Science Fiction Showcase, edited by Mary Kornbluth](sf-showcase-mary-kornbluth.jpg)
 
-After [**Cyril’s cremation**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), I hung around a day or two longer, because there were a couple more things I could do for the Kornbluths.  Cyril had left a few unsalable and unfinished fragments, which Mary pulled out for me.  I could see where he had  given up on them, but I was a more resourceful plotter than Cyril had been.  Besides, most of them had  that wonderful total command of the medium that Cyril had begun to develop.
+After [**Cyril’s cremation**](/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/), I hung around a day or two longer, because there were a couple more things I could do for the Kornbluths.  Cyril had left a few unsalable and unfinished fragments, which Mary pulled out for me.  I could see where he had  given up on them, but I was a more resourceful plotter than Cyril had been.  Besides, most of them had  that wonderful total command of the medium that Cyril had begun to develop.
 
 
 I told Mary that I could find ways of turning most of them into actual stories, and if she liked I would do so and sell them, and we would split the money.  She said she liked, and so I took them home. (One of them, “[The Meeting](https://web.archive.org/web/20150920042402/http://www.amazon.com/gp/product/0671656201?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671656201),” won a Hugo Award, the only Hugo Cyril ever got.)
@@ -53,15 +53,15 @@ Most of the more dangerous brushfires that surrounded the Kornbluths now safely 
 
 **Related posts:**
 
-- **Mary Kornbluth,** [**Part 1**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 2**](/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
-- [**Cyril**](/posts/2009-04-20-cyril/)
+- **Mary Kornbluth,** [**Part 1**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/), [**Part 2**](/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/)
+- [**Cyril**](/fred-pohl/2009-04-20-cyril/)
 
 
 ### One Comment
 
 - [Bill Goodwin](https://web.archive.org/web/20150920042402/http://771715/) says:
 And a nice Richard Powers cover, too.  I need to find this one for my collection!
-[**December 19, 2010, 12:42 pm**](/posts/2010-12-18-mary-kornbluth-part-3-anthologist/)
+[**December 19, 2010, 12:42 pm**](/fred-pohl/2010-12-18-mary-kornbluth-part-3-anthologist/)
 
 [WordPress](https://web.archive.org/web/20150920042402/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150920042402/http://dicksmithsoftware.com/)

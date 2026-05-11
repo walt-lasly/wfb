@@ -4,9 +4,9 @@ date: 2013-08-27
 categories: ["Science"]
 tags: ["Ecology", "Geology"]
 archive_url: "https://web.archive.org/web/20160416221555/http://www.thewaythefutureblogs.com/2013/08/cheery-note-for-mountain-climbers/"
-prev_post_url: "/posts/2013-08-22-why-stop-fracking/"
+prev_post_url: "/fred-pohl/2013-08-22-why-stop-fracking/"
 prev_post_title: "Why Stop Fracking"
-next_post_url: "/posts/2013-08-30-when-you-give-it-away/"
+next_post_url: "/fred-pohl/2013-08-30-when-you-give-it-away/"
 next_post_title: "When You Give It Away"
 translated: false
 ---
@@ -32,7 +32,7 @@ This isn’t from tectonic activity.  It’s because of the rate at which their 
 
 - [Shakatany](https://web.archive.org/web/20160416221555/http://shakatany.livejournal.com/) says:
 Reminds me of the Red River in ND as it flows sluggishly north; as the land recovers from being beneath a glacier and rises it might start flowing south like other rivers.
-[**August 28, 2013, 2:53 pm**](/posts/2013-08-27-cheery-note-for-mountain-climbers/)
+[**August 28, 2013, 2:53 pm**](/fred-pohl/2013-08-27-cheery-note-for-mountain-climbers/)
 
 [WordPress](https://web.archive.org/web/20160416221555/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416221555/http://dicksmithsoftware.com/)

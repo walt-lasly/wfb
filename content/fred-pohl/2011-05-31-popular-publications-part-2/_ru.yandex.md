@@ -4,9 +4,9 @@ date: 2011-05-31
 categories: ["Authors"]
 tags: ["Alden H. Norton", "Editors", "Ethel Klock", "Harold S. Goldsmith", "Harry Steeger", "New York", "Prozines", "Publishing", "Pulps"]
 archive_url: "https://web.archive.org/web/20221001000000/http://www.thewaythefutureblogs.com/2011/05/popular-publications-part-2/"
-prev_post_url: "/posts/2011-05-26-rolling-back-the-years-popular-publications/"
+prev_post_url: "/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/"
 prev_post_title: "Rolling Back the Years: Popular Publications"
-next_post_url: "/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/"
+next_post_url: "/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/"
 next_post_title: "Popular Publications, Part 3:The People Who Made the Pulps"
 translated: false
 translator: "Yandex"
@@ -52,28 +52,28 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Популярные публикации**, [** Часть 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Часть 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [** Часть 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- ** Популярные публикации**, [** Часть 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Часть 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [** Часть 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Комментария
 
 - [Крис](https://web.archive.org/web/20170620023349/http://www.lahatte.blogspot.com/) говорит:
 Это не комментарий к этой записи в блоге, а просто хочу сказать, что я был удивлен и взволнован, получив свой подписанный экземпляр Gateways, который я и не подозревал, что выиграл. Я буду дорожить этим, поскольку познакомился с НФ, прочитав "Если в золотые годы" в начале 60-х под вашей редакцией, и у меня есть много ваших книг. . Большое вам спасибо
-[** 31 мая 2011 года, 4:34 утра**](/posts/2011-05-31-popular-publications-part-2/)
+[** 31 мая 2011 года, 4:34 утра**](/fred-pohl/2011-05-31-popular-publications-part-2/)
 - [Стефан Джонс](https://web.archive.org/web/20170620023349/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Хех! Два подъезда, два адреса, почему бы и нет?
 В конце 80-х я работал в компании, занимающейся компьютерными заказами по почте и телефону. Офицеры заметили, что количество звонков, которые они получали, увеличивалось с увеличением количества рекламных страниц, которые они размещали в крупных компьютерных журналах того времени. Очевидно, что был момент уменьшения отдачи.
 Затем им пришла в голову идея создания подставных компаний. Они разместили рекламу “Компьютер за доллар”, “Ничего, кроме ноутбуков” (*Мы продаем только ноутбуки!) и “Магазин принтеров” (мы специализируемся на принтерах!*). Появились новые телефонные линии и секретарша в приемной, которая была обучена отвечать соответствующим образом, но продавцы, работники склада и складские запасы были одинаковыми.
 Однажды меня назначили в службу технической поддержки “Ничего, кроме ноутбуков”. Я случайно неправильно ответил на телефонный звонок. (“Здравствуйте, служба технической поддержки Logicsoft, чем я могу вам помочь?”) Когда звонивший смутился, я быстро объяснил, что только что сменил работу...
-[**31 мая 2011, 12:37 вечера**](/posts/2011-05-31-popular-publications-part-2/)
+[**31 мая 2011, 12:37 вечера**](/fred-pohl/2011-05-31-popular-publications-part-2/)
 - [Брюс Артурс](https://web.archive.org/web/20170620023349/http://undulantfever.blogspot.com/) говорит:
 Редакторские псевдонимы: Когда Элинор Мавор стала редактором журнала “Amazing” в 1979 году, она первоначально использовала псевдоним "Омар Гохаген", думая, что редактор-мужчина будет более приемлемым, чем женщина.  Я думаю, кто-то указал ей на то, что Сел Голдсмит была предыдущим (и уважаемым) редактором журнала, поэтому “Омар” исчез, а Элинор несколько лет продолжала работать под своим собственным именем.
 Кстати, о Сел Голдсмит, есть ли у вас какое-нибудь отношение к упомянутому вами Гарольду Голдсмиту?
-[**4 июня 2011 года, 14:42 вечера**](/posts/2011-05-31-popular-publications-part-2/)
+[**4 июня 2011 года, 14:42 вечера**](/fred-pohl/2011-05-31-popular-publications-part-2/)
 - Джон Армстронг говорит:
 Я работал в видеокомпании, которая была канадским оптовым продавцом линейки порнофильмов из Калифорнии, а также эксклюзивным дилером продукции Disney на видеокассетах в Канаде. Мы должны были быть очень осторожны, чтобы Мышонок никогда не узнал об этой двойной жизни, которую вела компания, что требовало очень внезапной перестановки полок на складе, если представитель Disney случайно заходил без предупреждения. Это была серьезная уловка на уровне ситкома, направлявшая его в одну сторону, в то время как кто-то снял постеры в рамках со старлетками XXX и повесил Пиноккио и Белоснежку. Самым забавным было заниматься бизнесом порнокомпании на 18-дюймовом стационарном телефоне с Микки Маусом, который компания подарила нам за продажу какого-то названия. Беру телефон из трехпалой руки Микки в белой перчатке и смотрю прямо на его улыбающееся лицо, пока меняю порядок наклеек для очередной тысячи копий "Ass Bandits 2".
 Ахх – шоу-бизнес
-[**5 июня 2011, 15:48**](/posts/2011-05-31-popular-publications-part-2/)
+[**5 июня 2011, 15:48**](/fred-pohl/2011-05-31-popular-publications-part-2/)
 
 [WordPress](https://web.archive.org/web/20170620023349/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620023349/http://dicksmithsoftware.com/)

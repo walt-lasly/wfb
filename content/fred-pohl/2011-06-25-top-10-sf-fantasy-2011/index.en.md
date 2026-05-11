@@ -4,9 +4,9 @@ date: 2011-06-25
 categories: ["Books", "Personal"]
 tags: ["All the Lives He Led", "Larry Niven"]
 archive_url: "https://web.archive.org/web/20211101000000/http://www.thewaythefutureblogs.com/2011/06/top-10-sffantasy-2011/"
-prev_post_url: "/posts/2011-06-24-how-well-do-you-know-your-bible/"
+prev_post_url: "/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/"
 prev_post_title: "How Well Do You Know Your Bible?"
-next_post_url: "/posts/2011-06-30-answers-to-bible-quiz/"
+next_post_url: "/fred-pohl/2011-06-30-answers-to-bible-quiz/"
 next_post_title: "Answers to Bible Quiz"
 translated: false
 ---
@@ -33,10 +33,10 @@ heh. Congratulations, in any case!
 “Yes… well… that list was chronological, wasn’t it?”  
 
 –_A Cock And Bull Story_
-[**June 25, 2011, 6:49 am**](/posts/2011-06-25-top-10-sf-fantasy-2011/)
+[**June 25, 2011, 6:49 am**](/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/)
 - Chris says:
 I’m delighted to see that the novel is finally available for Kindle–I’ll be buying it today! I look forward to reading it just as I’ve looked forward to every Pohl novel for the past 30 years.
-[**June 26, 2011, 6:51 am**](/posts/2011-06-25-top-10-sf-fantasy-2011/)
+[**June 26, 2011, 6:51 am**](/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/)
 
 [WordPress](https://web.archive.org/web/20170717164549/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170717164549/http://dicksmithsoftware.com/)

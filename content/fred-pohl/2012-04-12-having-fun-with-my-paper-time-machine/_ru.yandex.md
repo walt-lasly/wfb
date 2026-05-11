@@ -4,9 +4,9 @@ date: 2012-04-12
 categories: ["Miscellaneous"]
 tags: ["Media", "Michelle Bachmann", "Politics", "Religion", "Rick Perry", "Tim Pawlenty"]
 archive_url: "https://web.archive.org/web/20240901000000/http://www.thewaythefutureblogs.com/2012/04/having-fun-with-my-paper-time-machine/"
-prev_post_url: "/posts/2012-04-10-remembering-robert-w-lowndes-and-the-futurians/"
+prev_post_url: "/fred-pohl/2012-04-10-remembering-robert-w-lowndes-and-the-futurians/"
 prev_post_title: "Remembering Robert W. Lowndes and the Futurians"
-next_post_url: "/posts/2012-04-15-bright-sayings-of-bright-people-no-28/"
+next_post_url: "/fred-pohl/2012-04-15-bright-sayings-of-bright-people-no-28/"
 next_post_title: "Bright Sayings of Bright People, No. 28"
 translated: false
 translator: "Yandex"
@@ -49,26 +49,26 @@ translator: "Yandex"
 Много раз происходили события, и я возвращался к старым газетам и журналам новостей в поисках какой-нибудь подсказки, которая должна была предупредить меня о том, что что-то произойдет.  Иногда что-то было (были некоторые четкие признаки в преддверии захвата Саддамом Хусейном Кувейта), но, в основном, ничего.
 С другой стороны, я уловил пару моментов.  Короткая заметка в Science News позволила мне почти на год приблизиться к пониманию серьезности проблемы СПИДа ... в то время как журнал Time продолжал утверждать, что герпес - это новая алая буква “Н”
 . Однако... возможно, вы услышите некоторые из этих имен в следующий раз, возможно, в 2016 году.
-[** 12 апреля 2012 года, 8:30 утра**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[** 12 апреля 2012 года, 8:30 утра**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 - [Шакатани](https://web.archive.org/web/20120508223215/http://shakatany.livejournal.com/) говорит:
 Надеюсь, в следующем году в это же время выяснится, кто такой Ромни.
-[** 12 апреля 2012 года, 11:05 утра**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[** 12 апреля 2012 года, 11:05 утра**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 - [ТЭД](https://web.archive.org/web/20120508223215/http://www.tadsbackupplan.blogspot.com/) говорит:
 Разве Мишель Бахманн не похожа на оленя, попавшего в свет фар? Я помню, как перед выборами в Айове она с гордостью заявила, как уроженка Айовы, что ее кампания собирается захватить Айову... и тогда она не выиграла ни одного избирательного участка. Она была так же оторвана от мира, как и все остальные...
-[** 13 апреля 2012 года, 4:20 утра**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[** 13 апреля 2012 года, 4:20 утра**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 - Джон Миллер говорит:
 Хм, я не уверен, что это - безумные глаза или кривая ухмылка, но что-то заставляет меня захотеть спрятаться за диваном…
-[**13 апреля 2012, 12:14 вечера**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[**13 апреля 2012, 12:14 вечера**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 - Джон Миллер говорит:
 P.S. Джону Миллеру 57 лет, так что исходя из того, что преклонный возраст делает вас менее пугливым (держу пари, Фред ничего не боится...) это действительно показывает, насколько пугающей является Мишель.
-[**13 апреля 2012, 12:18 вечера**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[**13 апреля 2012, 12:18 вечера**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 - Джон Трейлор говорит:
 Кажется, я припоминаю, что читал, что семья Бахманн брала доллары на субсидирование своих ферм (или что-то в этом роде) забавно, что богатые люди так настроены против правительства, но все равно берут от него подачки.
-[**14 апреля 2012 года, 6:56 утра**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[**14 апреля 2012 года, 6:56 утра**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 - Его превосходительство Пармер говорит:
 На самом деле, вместо оленя в свете фар, эта фотография Бахмана заставляет меня вспомнить эти строки из одного известного фильма:
 * И, вы знаете, кое-что об акуле… у него безжизненные глаза. Черные глаза. Как у куклы глаза. Когда он набрасывается на тебя, кажется, что он не живет... пока он не укусит тебя, и эти черные глаза не станут белыми …*
-[** 18 апреля 2012 года, 12:08 утра**](/posts/2012-04-12-having-fun-with-my-paper-time-machine/)
+[** 18 апреля 2012 года, 12:08 утра**](/fred-pohl/2012-04-12-having-fun-with-my-paper-time-machine/)
 
 [WordPress](https://web.archive.org/web/20120508223215/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120508223215/http://dicksmithsoftware.com/)

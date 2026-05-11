@@ -4,9 +4,9 @@ date: 2009-11-21
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Fletcher Pratt", "Hugo Gernsback", "Jeff Berkwits", "Joan Hon", "New York", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20180101000000/http://www.thewaythefutureblogs.com/2009/11/a-couple-more-comments-on-comments/"
-prev_post_url: "/posts/2009-11-17-astounding-years-30-37-bc-street-smith/"
+prev_post_url: "/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/"
 prev_post_title: "Astounding Years 30–37 BC:* Street & Smith"
-next_post_url: "/posts/2009-11-26-happy-birthday-dear-fred/"
+next_post_url: "/fred-pohl/2009-11-26-happy-birthday-dear-fred/"
 next_post_title: "Happy Birthday, Dear Fred"
 translated: false
 translator: "Yandex"
@@ -23,13 +23,13 @@ translator: "Yandex"
 
 ![keyboard](keyboardpd-300x198.jpg)
 
-Теперь, когда я немного лучше умею [печатать одной рукой](/posts/2009-01-19-why-i-m-no-pen-pal/), я могу немного лучше отвечать на некоторые ваши замечания.  В частности, было множество (условно говоря) откликов на мою статью о [** Лиге Научной Фантастики(Science Fiction League)**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/), и на два из них я просто не могу не ответить.
+Теперь, когда я немного лучше умею [печатать одной рукой](/fred-pohl/2009-01-19-why-i-m-no-pen-pal/), я могу немного лучше отвечать на некоторые ваши замечания.  В частности, было множество (условно говоря) откликов на мою статью о [** Лиге Научной Фантастики(Science Fiction League)**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/), и на два из них я просто не могу не ответить.
 
 
-Одно - от женщины из Сингапура, с которой я познакомился там в 1985 году и которую зовут не [**Хан Мэй**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/).  Однако это псевдоним, который она присвоила своему роману "[Звездный сапфир](https://web.archive.org/web/20091205173915/http://www.overseassingaporean.sg/forums/index.php?s=&showtopic=566&view=findpost&p=21047)", который, как оказалось, является единственным научно-фантастическим романом, когда-либо написанным сингапуркой. Рад тебя слышать, Мэй.  (И остальные из вас, пожалуйста, обратите внимание, что этот блог, возможно, не самый популярный за всю историю, но он наверняка доберется до некоторых отдаленных мест.)
+Одно - от женщины из Сингапура, с которой я познакомился там в 1985 году и которую зовут не [**Хан Мэй**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/).  Однако это псевдоним, который она присвоила своему роману "[Звездный сапфир](https://web.archive.org/web/20091205173915/http://www.overseassingaporean.sg/forums/index.php?s=&showtopic=566&view=findpost&p=21047)", который, как оказалось, является единственным научно-фантастическим романом, когда-либо написанным сингапуркой. Рад тебя слышать, Мэй.  (И остальные из вас, пожалуйста, обратите внимание, что этот блог, возможно, не самый популярный за всю историю, но он наверняка доберется до некоторых отдаленных мест.)
 
 
-Другое от [** Джеффа Берквитса**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/) (заметьте также, что я становлюсь [** смелее в использовании имен**](/posts/2009-09-25-some-feedback-finally/)), который хочет узнать что-нибудь о другой Лиге Научной Фантастики(Science Fiction League), о которой вряд ли кто-то еще слышал.
+Другое от [** Джеффа Берквитса**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/) (заметьте также, что я становлюсь [** смелее в использовании имен**](/fred-pohl/2009-09-25-some-feedback-finally/)), который хочет узнать что-нибудь о другой Лиге Научной Фантастики(Science Fiction League), о которой вряд ли кто-то еще слышал.
 
 
 Это был феномен начала 1950-х годов, и он состоял из двух молодых людей, у которых был план широко распространить научную фантастику на телевидении.  Замысел состоял в том, чтобы собрать как можно больше ведущих писателей в этой области в синдикат (да, я думаю, они назвали его Лигой Научной Фантастики(Science Fiction League), не принимая во внимание предыдущий клуб [Хьюго Гернсбека](https://web.archive.org/web/20091205173915/http://www.gernsback.com/) Wonder Stories club), который затем функционировал бы примерно так же, как ASCAP и BMI (если они вам незнакомы, погуглите их) делают для авторов и композиторов популярных песен.  И чтобы сдвинуть дело с мертвой точки, они написали всем ведущим авторам НФ в Нью-Йорке, пригласив их прийти на организационное собрание в квартиру [Флетчера Пратта](https://web.archive.org/web/20091205173915/http://gcwillick.com/Spacelight/pratt.html) на Западной 58-й улице.
@@ -43,7 +43,7 @@ translator: "Yandex"
 
 ** Сообщение по теме:**
 
-[**Да будет фэндом: Лига Научной Фантастики(Science Fiction League)**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**Да будет фэндом: Лига Научной Фантастики(Science Fiction League)**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 
 ### 2 Комментария
@@ -52,10 +52,10 @@ translator: "Yandex"
 Я провожу значительную часть своего дня, печатая на машинке.  Когда мои руки устают или у меня барахлит запястный канал, я использую программу под названием Dragon Naturally Speaking.  Это позволяет вам диктовать на компьютер.  К этому нужно немного привыкнуть, но работает это довольно хорошо.  Я использую предпочтительную версию; я слышал, что профессиональная (то есть дорогая) версия недостаточно хороша, чтобы стоить этих денег.  Самая новая версия - это версия 10.
 [http://www.nuance.com/naturallyspeaking/products/editions/preferred.asp](https://web.archive.org/web/20091205173915/http://www.nuance.com/naturallyspeaking/products/editions/preferred.asp)
 Кстати, мне нравится ваш блог.
-[**2 декабря 2009, 19:09 вечера**](/posts/2009-11-21-a-couple-more-comments-on-comments/)
+[**2 декабря 2009, 19:09 вечера**](/fred-pohl/2009-11-21-a-couple-more-comments-on-comments/)
 - Джефф Берквитс говорит:
 Большое спасибо, что нашли время ответить и прояснить ситуацию. Это отличная информация, которую стоит знать. Я знаю, что шоу продолжало включать название Лиги НФ в титры в течение некоторого времени, но никогда не был полностью уверен, как это вписывается в головоломку. Теперь у меня есть гораздо более ясная картина. Самые ценные и запоздалые пожелания в твой день рождения! Выпьем за многих, многих других!
-[**3 декабря 2009, 16:51**](/posts/2009-11-21-a-couple-more-comments-on-comments/)
+[**3 декабря 2009, 16:51**](/fred-pohl/2009-11-21-a-couple-more-comments-on-comments/)
 
 [WordPress](https://web.archive.org/web/20091205173915/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091205173915/http://dicksmithsoftware.com/)

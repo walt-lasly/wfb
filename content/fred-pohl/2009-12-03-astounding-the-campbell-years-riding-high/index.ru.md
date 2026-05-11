@@ -4,9 +4,9 @@ date: 2009-12-03
 categories: ["Authors", "Personal"]
 tags: ["Ben Bova", "Catherine Tarrant", "Editors", "George O. Smith", "Horace L. Gold", "John W. Campbell", "New York", "Platinum Pohl", "Prozines", "Pulps"]
 archive_url: "https://web.archive.org/web/20110922063341/http://www.thewaythefutureblogs.com/2009/12/astounding-campbell-years/"
-prev_post_url: "/posts/2009-12-01-the-death-tax-man/"
+prev_post_url: "/fred-pohl/2009-12-01-the-death-tax-man/"
 prev_post_title: "The Death Tax Man"
-next_post_url: "/posts/2009-12-07-astounding-the-campbell-years-part-2/"
+next_post_url: "/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/"
 next_post_title: "Astounding: The Campbell Years, Part 2"
 translated: false
 translator: "Yandex"
@@ -21,7 +21,7 @@ translator: "Yandex"
 
 {{< figure src="campbell300wb.jpg" alt="John W. Campbell in 1957" caption="John W. Campbell in 1957(via efanzines.com)" >}}
 
-Штаб-квартирой [**Street &amp; Smith**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/) в то время, когда [Джон Кэмпбелл](https://web.archive.org/web/20110922063341/http://www.empsfm.org/exhibitions/index.asp?articleID=926) пришел редактировать Astounding, было удивительно ветхое старое здание на углу 17-й улицы и Седьмой авеню в Нью-Йорке.  Ну, это не совсем так.  Это было не одно старое здание.  Их было несколько, сшитых вместе путем пробивания стен и изменения направления коридоров, чтобы соединить их.
+Штаб-квартирой [**Street &amp; Smith**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/) в то время, когда [Джон Кэмпбелл](https://web.archive.org/web/20110922063341/http://www.empsfm.org/exhibitions/index.asp?articleID=926) пришел редактировать Astounding, было удивительно ветхое старое здание на углу 17-й улицы и Седьмой авеню в Нью-Йорке.  Ну, это не совсем так.  Это было не одно старое здание.  Их было несколько, сшитых вместе путем пробивания стен и изменения направления коридоров, чтобы соединить их.
 
 Это ввело классовую систему для проникновения в офисы.  Каждое утро, когда Джон приходил на работу, ему приходилось входить через дверной проем на Западной 17-й улице, потому что именно там находились часы.  (Да, Джону Кэмпбеллу приходилось входить и выходить по часам, по крайней мере, в первые дни.)
 
@@ -53,66 +53,66 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [** Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
-- [** Astounding Years 30-37 до н.э.: Журналы Клейтона**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
-- [** Astounding Years 30-37 до н.э.: Стрит и Смит**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/)
-- [** Astounding: Годы Кэмпбелла, часть 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
+- [** Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [** Astounding Years 30-37 до н.э.: Журналы Клейтона**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+- [** Astounding Years 30-37 до н.э.: Стрит и Смит**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/)
+- [** Astounding: Годы Кэмпбелла, часть 2**](/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/)
 
 ### 16 Комментариев
 
 - [Джерри](https://web.archive.org/web/20110922063341/http://triplanetary.blogspot.com/) говорит:
 Держу пари, вы почувствовали облегчение, когда Кей больше не могла промывать ваш авторский рот своим редакторским мылом. Чудесные воспоминания, Фред. Я надеюсь услышать больше об этом легендарном времени.
-[**3 декабря 2009 года, 9:04 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**3 декабря 2009 года, 9:04 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Нил Рест говорит:
 * Продолжение следует всякий раз, когда я нахожу время написать это.*  
 
 Я очень надеюсь, что это подразумевает, что есть так много других вещей, которые вы пишете прямо сейчас...
-[**3 декабря 2009 года, 9:37 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**3 декабря 2009 года, 9:37 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Доктор Псих](https://web.archive.org/web/20110922063341/http://doctorpsycho1960.blogspot.com/) говорит:
 Я вырос, слушая легенды об ужасной Кей Таррант и ее карандаше транснептунского синего цвета, но я никогда раньше не слышал историю о том, как вы с Беном Бовой познакомили ее с новыми реалиями.  Я надеюсь, что это было не слишком неприятно для нее, правда надеюсь.
-[** 3 декабря 2009, 12:56 вечера**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[** 3 декабря 2009, 12:56 вечера**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Питер Уэстон говорит:
 Мне понравилось читать о JWC, Фред, и извини, что мне потребовалось так много времени, чтобы найти это!  Поздравляю тебя с днем рождения!
-[**3 декабря 2009, 16:02**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**3 декабря 2009, 16:02**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - РонБ говорит:
 Я читал гигантский 6-томный сборник Желязны от NESFA, и, конечно же, ваше имя упоминается несколько раз как редактора, который купил определенные рассказы.  С удовольствием послушал бы какие-нибудь истории о Желязны, если они у вас есть…
 Спасибо, ну, в общем, за все!
-[**6 декабря 2009 года, 12:56 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**6 декабря 2009 года, 12:56 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Джонни Пез](https://web.archive.org/web/20110922063341/http://johnnypez9.blogspot.com/) говорит:
 И я бы с удовольствием послушал какие-нибудь истории о Харле Винсенте.  Его истории начали появляться в проекте "Гутенберг", но о нем доступно очень мало информации.
-[** 7 декабря 2009 года, 10:01 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[** 7 декабря 2009 года, 10:01 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Сид](https://web.archive.org/web/20110922063341/http://mobilemassmoney.org/) говорит:
 “Но у Кей Таррант тоже были импульсы, которые выходили за рамки простого исправления неправильной грамматики, орфографии или пунктуации. Она ненавидела — ненавидела! — непристойность. И она посвятила свою жизнь тому, чтобы стереть все следы этого из журнала.”
 Очевидно, что многое изменилось в наших современных средствах массовой информации... очень жаль.  В наши дни нам бы не помешали несколько таких людей, как Кей!
-[**29 марта 2011, 17:31 вечера**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**29 марта 2011, 17:31 вечера**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Билли Рэй говорит:
 отличная статья о Джоне Кэмпбелле
-[**31 марта 2011, 20:48 вечера**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**31 марта 2011, 20:48 вечера**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Пэт С.](https://web.archive.org/web/20110922063341/http://www.propertymanagement-batonrouge.com/) говорит:
 “Крестный отец научной фантастики” живет повсюду вокруг нас.  Отличный пост.
-[**7 апреля 2011 года, 1:29 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**7 апреля 2011 года, 1:29 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Роджер](https://web.archive.org/web/20110922063341/http://dentistincovina.com/) говорит:
 Это забавная история о заднице. Редактор! Спасибо за этот очаровательный пост - мне действительно нравятся работы Кэмпбелла.
-[**7 апреля 2011, 18:33 вечера**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**7 апреля 2011, 18:33 вечера**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Шон](https://web.archive.org/web/20110922063341/http://www.lastlongerreview.com/) говорит:
 Замечательно хорошо написанная статья... лучшая из всех, что я читал за всю неделю! Я был там, когда шел по длинным коридорам и поднимался на шатком лифте; стоял перед столом с откидной крышкой... слушал неодобрительное кудахтанье Кей, когда она поймала другого редактора, пытающегося проскользнуть мимо нее какое-то неприличное слово. Прекрасные образы!
-[**10 апреля 2011 года, 7:01 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**10 апреля 2011 года, 7:01 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Мэриэнн](https://web.archive.org/web/20110922063341/http://www.superiordisplays.com/) говорит:
 Я бы хотел, чтобы у нас по всему Интернету были Кей, которые просто ненавидят непристойности, чтобы мы могли, наконец, избавиться от этих непристойных сайтов раз и навсегда. Мне понравилось это читать.
-[**11 апреля 2011 года, 9:06 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**11 апреля 2011 года, 9:06 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Майкл Уолш](https://web.archive.org/web/20110922063341/http://www.oldearthbooks.com/) говорит:
 @MaryAnn: Я думаю, их мозги расплавились бы прежде, чем они прошли бы хотя бы малую часть Сети.
-[**12 апреля 2011 года, 9:13 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**12 апреля 2011 года, 9:13 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Гэри Гиллиам](https://web.archive.org/web/20110922063341/http://www.abdvdprogramreview.com/) говорит:
 Я действительно ценю таких людей, как Кэтрин Таррант, которые приложили огромные усилия, чтобы держать “непристойность” в литературе на расстоянии. По крайней мере, у писателей того времени был класс. Единственное, что в этом есть, так это то, что сквернословие того дня и времени было немного скромнее по сравнению с сегодняшней грязью. Но, тем не менее, немного озорства, смешанного с хорошо написанным сценарием, как мне кажется, придает более естественное ощущение и поток, даже если это научная фантастика.
-[**13 апреля 2011, 10:05 вечера**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**13 апреля 2011, 10:05 вечера**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - Мэриэнн говорит:
 @Michael да, это правда. Печально, но это правда. В Интернете просто слишком много непристойных сайтов для всех Kay's вместе взятых. 
 Мэриэнн
-[** 25 апреля 2011 года, 10:06 утра**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[** 25 апреля 2011 года, 10:06 утра**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 - [Стив](https://web.archive.org/web/20110922063341/http://www.herniahiatal.org/) говорит:
 @Michael - Лол... ее бедное сердце, вероятно, не выдержало бы чего-то столь простого, как “безопасный” поиск изображений в Google. Amazing, сколько грязи умудряется просачиваться даже через этот фильтр!
-[**3 сентября 2011 года, 18:50 вечера**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/)
+[**3 сентября 2011 года, 18:50 вечера**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/)
 
 [WordPress](https://web.archive.org/web/20110922063341/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922063341/http://dicksmithsoftware.com/)

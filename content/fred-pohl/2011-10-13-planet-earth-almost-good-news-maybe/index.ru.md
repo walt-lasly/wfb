@@ -4,9 +4,9 @@ date: 2011-10-13
 categories: ["Science"]
 tags: ["Ecology", "Meteorology", "Murray Salby"]
 archive_url: "https://web.archive.org/web/20160901000000/http://www.thewaythefutureblogs.com/2011/10/planet-earth-almost-good-news-maybe/"
-prev_post_url: "/posts/2011-10-06-great-conferences-i-have-attended-no-1/"
+prev_post_url: "/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/"
 prev_post_title: "Great Conferences I Have Attended, No. 1"
-next_post_url: "/posts/2011-10-22-the-campbell-letters/"
+next_post_url: "/fred-pohl/2011-10-22-the-campbell-letters/"
 next_post_title: "The Campbell Letters"
 translated: false
 translator: "Yandex"
@@ -44,33 +44,33 @@ translator: "Yandex"
 
 - [Шакатани](https://web.archive.org/web/20111216174455/http://shakatany.livejournal.com/) говорит:
 Конечно, теперь такой есть и в Арктике. Кажется, мы никак не можем передохнуть, и, вероятно, это наша вина.
-[**13 октября 2011, 14:28 вечера**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[**13 октября 2011, 14:28 вечера**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 - Дэвид Голдфарб говорит:
 И... есть некоторые сообщения о том, что аналогичная озоновая дыра может образоваться над *северным* полюсом.
-[**13 октября 2011, 15:38 вечера**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[**13 октября 2011, 15:38 вечера**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 - [ТЭД](https://web.archive.org/web/20111216174455/http://www.tadsbackupplan.blogspot.com/) говорит:
 Как вы думаете, почему первое место, где я узнаю обо всем этом, находится в вашем блоге? Мне нравится думать, что я достаточно хорошо информирован.... Но СМИ, похоже, определенно не волнует, что происходит слишком далеко за пределами США, и они перестают ждать, когда такого рода информация будет упомянута на CNN.... Есть ли какой-нибудь магазин, который вы бы порекомендовали для получения более подробной информации? Спасибо за сенсацию....
-[**13 октября 2011, 16:39 вечера**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[**13 октября 2011, 16:39 вечера**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 - Джей Борчердинг говорит:
 Я не ученый, но разве фраза “затем прекращение... затем обращение вспять потока углеродистых соединений в атмосферу” не должна включать фразу “увеличение”?  Означает ли это, что целью различных попыток сократить выбросы парниковых газов в домах является не их устранение, что непрактично, а скорее сокращение и ограничение выбросов примерно до уровня 1980 года?
 Я имею в виду, например, метан, гораздо более мощный парниковый газ, чем углекислый газ, выбросы которого, вызванные деятельностью человека, никогда не будут устранены, пока крупный рогатый скот переваривает траву. 
 Спасибо вам за этот пост, с направленностью которого я всецело согласен, и приношу извинения за мое непрофессиональное придирчивое отношение.
-[**13 октября 2011, 19:47 вечера**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[**13 октября 2011, 19:47 вечера**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 - Юггот говорит:
 Хммм... итак, в 80-е и 90-е годы, в период очень высокой солнечной активности, наблюдалась растущая дыра в озоновом слое над Антарктидой.  Затем, после 00-х годов, периода снижения солнечной активности, она начинает сокращаться.  Может быть, здесь есть какая-то связь?
 Внезапный порыв избавиться от некоторых хладагентов был скорее результатом истечения срока действия патентов, чем чего-либо еще.
-[** 14 октября 2011 года, 8:23 утра**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[** 14 октября 2011 года, 8:23 утра**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 - Пэт говорит:
 Джей Борчердинг, различные соединения углерода ответственны за разрушение озонового слоя и парниковый эффект.
 [http://en.wikipedia.org/wiki/Ozone_depletion](https://web.archive.org/web/20111216174455/http://en.wikipedia.org/wiki/Ozone_depletion)
 [http://en.wikipedia.org/wiki/Global_warming](https://web.archive.org/web/20111216174455/http://en.wikipedia.org/wiki/Global_warming)
 Юггот, возможно, ты захочешь добавить эти данные к своей гипотезе:
 [http://www.bbc.co.uk/news/science-environment-15105747](https://web.archive.org/web/20111216174455/http://www.bbc.co.uk/news/science-environment-15105747)
-[** 15 октября 2011 года, 9:51 утра**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[** 15 октября 2011 года, 9:51 утра**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 - Джон Миллер говорит:
 Что ж, тогда работа выполнена.
 Поддерживайте наши выбросы "углеродных соединений" постоянными, и теперь мы можем спать спокойно.
-[**20 октября 2011, 14:34**](/posts/2011-10-13-planet-earth-almost-good-news-maybe/)
+[**20 октября 2011, 14:34**](/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/)
 
 [WordPress](https://web.archive.org/web/20111216174455/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111216174455/http://dicksmithsoftware.com/)

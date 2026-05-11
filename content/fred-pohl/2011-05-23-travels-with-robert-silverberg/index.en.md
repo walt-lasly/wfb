@@ -4,9 +4,9 @@ date: 2011-05-23
 categories: ["Authors", "Travel"]
 tags: ["China", "Clubs", "Editors", "Elizabeth Anne Hull", "History", "Italy", "Karen Haber", "L. Sprague de Camp", "Prozines", "Robert Silverberg", "Sashiko Shibano", "Takumi Shibano", "World SF", "Yang Xiao"]
 archive_url: "https://web.archive.org/web/20190201000000/http://www.thewaythefutureblogs.com/2011/05/travels-with-robert-silverberg/"
-prev_post_url: "/posts/2011-05-21-bright-sayings-of-bright-people-no-14-churchill/"
+prev_post_url: "/fred-pohl/2011-05-21-bright-sayings-of-bright-people-no-14-churchill/"
 prev_post_title: "Bright Sayings of Bright People, No. 14: Churchill"
-next_post_url: "/posts/2011-05-24-post-scriptum/"
+next_post_url: "/fred-pohl/2011-05-24-post-scriptum/"
 next_post_title: "Post Scriptum"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="4061365252_3c627cf113.jpg" alt="Robert Silverberg and Karen Haber, 2009. (Photo by Cat Sparx.)" caption="Robert Silverberg and Karen Haber, 2009. (Photo by Cat Sparx.)" >}}
 
 
-From time to time, [**Robert Silverberg**](/posts/2011-05-02-robert-silverberg/) has told the world that he had written himself out and was retiring from the field.  Fortunately for the rest of us, these periods of abstinence from the computer were so depressing to his irrepressibly auctorial psyche that he fled back to the keyboard before long each time.  Now he maintains a delicate balance between time spent in putting words on paper, as it seems God has intended for him to do, and time spent traveling the world to view art treasures in the greatest museums and the tiniest of ancient churches.
+From time to time, [**Robert Silverberg**](/fred-pohl/2011-05-02-robert-silverberg/) has told the world that he had written himself out and was retiring from the field.  Fortunately for the rest of us, these periods of abstinence from the computer were so depressing to his irrepressibly auctorial psyche that he fled back to the keyboard before long each time.  Now he maintains a delicate balance between time spent in putting words on paper, as it seems God has intended for him to do, and time spent traveling the world to view art treasures in the greatest museums and the tiniest of ancient churches.
 
 
 Betty Anne and I were lucky enough to join him once or twice when we found ourselves inhabiting the same land mass at a convenient time.  One such episode that sticks in my mind took place in Italy in 1989.  Bob with his wife, [Karen Haber](https://web.archive.org/web/20170619225956/http://karenhaber.com/), and I with my own, [Elizabeth Anne Hull](https://web.archive.org/web/20170619225956/http://www.thewaythefutureblogs.com/elizabeth-anne-hull/) — the wives both had elected to keep their maiden names, which tells you something about them, but at least they didn’t make us take theirs  — had been attending a [World SF](https://web.archive.org/web/20170619225956/http://www.worldsf.org/) annual meeting in a little town, up in the mountains, called Fanano.
@@ -60,16 +60,16 @@ Which just goes to show you what a bunch of science-fiction types can do when th
 
 - Ross Presser says:
 How the world has changed … nowadays, you’d just pull up the translation tool on Google or Bing, on your smartphone…. or download an instant translation app that would do it even easier, with speech recognition / text-to-speech.
-[**May 26, 2011, 2:20 pm**](/posts/2011-05-23-travels-with-robert-silverberg/)
+[**May 26, 2011, 2:20 pm**](/fred-pohl/2011-05-23-travels-with-robert-silverberg/)
 - Dr. What says:
 As a Chinese SF fan, I\’m familiar with SFW and Yang，and also the terrible event in Tiananmen Square. But reading these together makes me feel strange…… Anyway, Yang is really great. 
-[**June 7, 2011, 5:46 am**](/posts/2011-05-23-travels-with-robert-silverberg/)
+[**June 7, 2011, 5:46 am**](/fred-pohl/2011-05-23-travels-with-robert-silverberg/)
 - Robert Silverberg says:
 Readers who wonder where in Italy “Fanano” might be located should be advised that although Fred may indeed have gone to a convention in Fanano that year, while he was doing it Karen and Betty Anne and Brian Aldiss and Harry Harrison and I were all gathered in the hilltop republic of San Marino.  The convention was the Eurocon.  The year, I’m pretty sure, was 1989.
-[**June 17, 2011, 6:00 pm**](/posts/2011-05-23-travels-with-robert-silverberg/)
+[**June 17, 2011, 6:00 pm**](/fred-pohl/2011-05-23-travels-with-robert-silverberg/)
 - Robert Silverberg says:
 There really is a Fanano, by the way.  It’s somewhere near Modena and for all I recall the Pohls and Silverbergs passed right by it on our way from Venice to the Eurocon in 1989.  But the Eurocon itself really was held in San Marino.  What I remember most clearly about it was that the hotel bar had an assortment of green liqueurs lined up against its mirror, and that Harry Harrison, Brian Aldiss, and I methodically sampled a shot of each one of them one slow afternoon.  (I think there was a green form of Strega, and maybe a green Galliano, and perhaps the others were obscure Sammarinese liqueurs.)  The abstemious Mr. Pohl was, I think, off writing a story while the three of us were conducting our research
-[**June 18, 2011, 5:23 pm**](/posts/2011-05-23-travels-with-robert-silverberg/)
+[**June 18, 2011, 5:23 pm**](/fred-pohl/2011-05-23-travels-with-robert-silverberg/)
 
 [WordPress](https://web.archive.org/web/20170619225956/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619225956/http://dicksmithsoftware.com/)

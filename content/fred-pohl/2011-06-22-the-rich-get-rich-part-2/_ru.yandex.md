@@ -4,9 +4,9 @@ date: 2011-06-22
 categories: ["Miscellaneous"]
 tags: ["Economics", "Robert B. Reich"]
 archive_url: "https://web.archive.org/web/20240201000000/http://www.thewaythefutureblogs.com/2011/06/the-rich-get-rich-part-2/"
-prev_post_url: "/posts/2011-06-21-my-kind-of-guy/"
+prev_post_url: "/fred-pohl/2011-06-21-my-kind-of-guy/"
 prev_post_title: "My Kind of Guy"
-next_post_url: "/posts/2011-06-23-the-trap-door-spiders/"
+next_post_url: "/fred-pohl/2011-06-23-the-trap-door-spiders/"
 next_post_title: "The Trap Door Spiders"
 translated: false
 translator: "Yandex"
@@ -37,20 +37,20 @@ translator: "Yandex"
 
 ** Сообщение по теме:**
 
-[**Богатые становятся богатыми**](/posts/2011-01-28-the-rich-get-rich/)
+[**Богатые становятся богатыми**](/fred-pohl/2011-01-28-the-rich-get-rich/)
 
 
 ### 3 Комментария
 
 - окружение говорит:
 Вам следует прочитать “Совершенно законно” Дэвида Кея Джонсона ([http://www.amazon.com/Perfectly-Legal-Campaign-Rich-Everybody/dp/1591840694 /](https://web.archive.org/web/20170706235435/http://www.amazon.com/Perfectly-Legal-Campaign-Rich-Everybody/dp/1591840694/))...если сможешь.  Я сделал это всего за пять глав.  Не потому, что это было плохо написано или неточно (написано очень хорошо), а потому, что мое кровяное давление подскакивало каждый раз, когда я это читала.  Я всегда знал, что игра исправлена, но никогда не представлял, насколько все плохо на самом деле.
-[**22 июня 2011 г., 15:25 вечера**](/posts/2011-06-22-the-rich-get-rich-part-2/)
+[**22 июня 2011 г., 15:25 вечера**](/fred-pohl/2011-06-22-the-rich-get-rich-part-2/)
 - Кэт говорит:
 Вот почему США нужен справедливый налог.  Избавьтесь от кода Налоговой службы, который даже сбивает с толку налоговую службу.
-[**22 июня 2011, 17:05 вечера**](/posts/2011-06-22-the-rich-get-rich-part-2/)
+[**22 июня 2011, 17:05 вечера**](/fred-pohl/2011-06-22-the-rich-get-rich-part-2/)
 - Уолт говорит:
 Зацикленность на ставках скрывает тот факт, что богатые платят большую часть собираемых подоходных налогов.
-[** 25 июня 2011 года, 11:13 утра**](/posts/2011-06-22-the-rich-get-rich-part-2/)
+[** 25 июня 2011 года, 11:13 утра**](/fred-pohl/2011-06-22-the-rich-get-rich-part-2/)
 
 [WordPress](https://web.archive.org/web/20170706235435/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170706235435/http://dicksmithsoftware.com/)

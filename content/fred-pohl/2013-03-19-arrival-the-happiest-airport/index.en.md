@@ -4,9 +4,9 @@ date: 2013-03-19
 categories: ["Travel"]
 tags: ["C.M. Kornbluth", "Clubs", "Conventions", "Darko Suvin", "Jack Williamson", "James Gunn", "Martin H. Greenberg", "Patrice Duvic", "Robert A. Heinlein", "Sashiko Shibano", "Science Fiction Research Association", "SFWA", "Takumi Shibano", "The Space Merchants", "Worldcons", "Yuli Kagarlitsky"]
 archive_url: "https://web.archive.org/web/20160101000000/http://www.thewaythefutureblogs.com/2013/03/arrival-the-happiest-airport/"
-prev_post_url: "/posts/2013-03-18-we-re-back/"
+prev_post_url: "/fred-pohl/2013-03-18-we-re-back/"
 prev_post_title: "We’re back!"
-next_post_url: "/posts/2013-03-22-arrival-part-2-heinlein-stories/"
+next_post_url: "/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/"
 next_post_title: "Arrival, Part 2: Heinlein Stories"
 translated: false
 ---
@@ -47,7 +47,7 @@ Oh, I know what you might ask to make your trip more enjoyable still.  You might
 I admit I wasn’t happy just about going to either of the  Kansas Cities in itself.  That city is — either of those cities is — hardly anyone’s favorite gotta-go-there destination for tourism.  What elevated my mood, when it wasn’t depressing it, was what I would be doing when I got there, which was attending the annual World Science Fiction Convention, or Worldcon, which had been my custom for most of the years since 1939. (That 1939 one was the first Worldcon of all, the one that  I and a few other Futurians were unjustly kicked out of.  If you want more details on this event, simply pick up your treasured copy of [The Way the Future Was](https://web.archive.org/web/20170620012436/http://www.amazon.com/gp/product/0345260597/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345260597&linkCode=as2&tag=twtfb-20) and turn to page 76.)  Anyway, that fannish rumble was long ago.  Hardly anyone who was involved is still alive. Or cares.)
 
 
-For me, and for my nearest and dearest, the Worldcons were the places we most looked forward to visiting each year,  Sometimes they were held at places that we loved to visit anyway — London, Toronto, a couple of American cities where we had well-loved but not frequently visited friends and relatives.  The specific city didn’t all that much matter, though.  It was the con itself that was the attraction, the place where we could count on getting together with good friends that we didn’t see every day, because they lived so ridiculously far away — like [Patrice Duvic](https://web.archive.org/web/20170620012436/http://www.sfscope.com/2007/02/french-writer-patrice-duvic-dies/) from France, and Sashiko and [Takumi Shibano](https://web.archive.org/web/20170620012436/http://www.nippon2007.us/GOH/Takumi_Shibano.php) from Japan, and [**Yuli Kagarlitsky**](/posts/2010-06-25-russians-jews-and-isaac/) from what was then still called the Soviet Union, and batches of others from Italy and the UK and Sweden and Spain and Brazil, and, of course, from many of the remoter parts of the U.S.A. itself as well.
+For me, and for my nearest and dearest, the Worldcons were the places we most looked forward to visiting each year,  Sometimes they were held at places that we loved to visit anyway — London, Toronto, a couple of American cities where we had well-loved but not frequently visited friends and relatives.  The specific city didn’t all that much matter, though.  It was the con itself that was the attraction, the place where we could count on getting together with good friends that we didn’t see every day, because they lived so ridiculously far away — like [Patrice Duvic](https://web.archive.org/web/20170620012436/http://www.sfscope.com/2007/02/french-writer-patrice-duvic-dies/) from France, and Sashiko and [Takumi Shibano](https://web.archive.org/web/20170620012436/http://www.nippon2007.us/GOH/Takumi_Shibano.php) from Japan, and [**Yuli Kagarlitsky**](/fred-pohl/2010-06-25-russians-jews-and-isaac/) from what was then still called the Soviet Union, and batches of others from Italy and the UK and Sweden and Spain and Brazil, and, of course, from many of the remoter parts of the U.S.A. itself as well.
 
 
 So what I was really looking forward to was the people who comprised the con itself.  That is, I was until I got to my hotel.
@@ -68,22 +68,22 @@ Slightly rattled, I asked what I should do about, say, room service if I happene
 That part didn’t even make sense.  And this whole exercise in hostility was not taking place in some flea-bitten Bowery flophouse, but in what was actually a rather nice, and by no means cheap, hotel.  I was beginning to feel less and less welcome in Kansas City.  Either one of them.
 
 
-Still, I was already there, and I did have a room, given to me with however truculent an attitude.  I decided to look for a friend to share complaints with.  I strolled the short block or so between the hotel my room was in and the larger one where the events of the con would occur, looking for a familiar face.  I could feel the spell working.  By the time I was inside the con-headquarters hotel I began to cheer up.  The lobby was full of familiar faces, and so was its bar.  And so immediately I was chatting with people, at least some of whom I was fond of.  Most of the talk related to the con’s Guest of Honor, who was everybody’s superstar, [**Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/), and about him I had much to talk about because we were in one of the “good friends” cycles of our relationship.
+Still, I was already there, and I did have a room, given to me with however truculent an attitude.  I decided to look for a friend to share complaints with.  I strolled the short block or so between the hotel my room was in and the larger one where the events of the con would occur, looking for a familiar face.  I could feel the spell working.  By the time I was inside the con-headquarters hotel I began to cheer up.  The lobby was full of familiar faces, and so was its bar.  And so immediately I was chatting with people, at least some of whom I was fond of.  Most of the talk related to the con’s Guest of Honor, who was everybody’s superstar, [**Robert A. Heinlein**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), and about him I had much to talk about because we were in one of the “good friends” cycles of our relationship.
 
 
 I saw the usual collection of teachers, most of whom I knew.  For a high-school dropout, I knew lots of college professors, since I had given at least one of my “What Is Science Fiction All About And Why Should I Care” lectures at just about every school that was well enough supported to send at least one teacher to the con.  I knew even a larger fraction of the writers, though.  If at one time or another I hadn’t worked with each of  them as editor, agent, collaborator or critic they knew me anyhow  as a recent president of SFWA, pronounced Sifwa, for [Science Fiction Writers of America](https://web.archive.org/web/20170620012436/http://www.sfwa.org/).
 
 
-All that kept me occupied until suddenly I heard my name called, and when I sorted the voice out from all the other voices, it was [**Marty Greenberg**](/posts/2011-07-12-martin-harry-greenberg-1941-2011/), college professor from Florida International, way down in alligator country, and someone who, I never forgot, had once knocked himself out in the attempt to do me a pretty big favor.  I answered with a big “Hi,” and spread another “Hi” around the group he was with.  There were a dozen or so of them occupying one of those little islands of a couch and a couple of chairs that hotels provide for guests who are delayed on their way in or out.
+All that kept me occupied until suddenly I heard my name called, and when I sorted the voice out from all the other voices, it was [**Marty Greenberg**](/fred-pohl/2011-07-12-martin-harry-greenberg-1941-2011/), college professor from Florida International, way down in alligator country, and someone who, I never forgot, had once knocked himself out in the attempt to do me a pretty big favor.  I answered with a big “Hi,” and spread another “Hi” around the group he was with.  There were a dozen or so of them occupying one of those little islands of a couch and a couple of chairs that hotels provide for guests who are delayed on their way in or out.
 
 
-I saw that I was in the presence of the academic wing of science fiction, formally called the [Science Fiction Research Association](https://web.archive.org/web/20170620012436/http://sfra.org/sfra.html).  Barring a couple of quite young women — whom I guessed to be post-grads, probably intending to do the research here for a masters or better on the  comparatively stress-free subject of sf — I knew them all.  I spotted [Darko Suvin](https://web.archive.org/web/20170620012436/http://sf-encyclopedia.com/entry/suvin_darko), once Yugoslavia’s most respected sf critic, now teaching the subject to better-paying Canadians in Montreal, as well as [James Gunn](https://web.archive.org/web/20170620012436/http://www2.ku.edu/~sfcenter/bio.htm) from Kansas, [**Jack Williamson**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/)  from Eastern New Mexico and other old friends.  Apart from the two  young women — or, as I would have put it in those unenlightened days, the two girls.
+I saw that I was in the presence of the academic wing of science fiction, formally called the [Science Fiction Research Association](https://web.archive.org/web/20170620012436/http://sfra.org/sfra.html).  Barring a couple of quite young women — whom I guessed to be post-grads, probably intending to do the research here for a masters or better on the  comparatively stress-free subject of sf — I knew them all.  I spotted [Darko Suvin](https://web.archive.org/web/20170620012436/http://sf-encyclopedia.com/entry/suvin_darko), once Yugoslavia’s most respected sf critic, now teaching the subject to better-paying Canadians in Montreal, as well as [James Gunn](https://web.archive.org/web/20170620012436/http://www2.ku.edu/~sfcenter/bio.htm) from Kansas, [**Jack Williamson**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/)  from Eastern New Mexico and other old friends.  Apart from the two  young women — or, as I would have put it in those unenlightened days, the two girls.
 
 
 Groups that contained good looking young women sitting by themselves were an unnecessary complication for a fiftyish man who was not looking to change his luck, and I might have wished them all well and moved on, but Marty had a good grip on my arm.  Marty I could not shake off.   Back in the days when  the writing wasn’t going so well for me he had come up with an idea that really sounded worth pursuing.  Florida International had treated itself to the luxury of a Writer in Residence, which is to say a writer of at least enough renown to have some fairly good reviews and some interesting anecdotes to share with the students.
 
 
-I qualified for all that, mostly because of [The Space Merchants](https://web.archive.org/web/20170620012436/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511) and other books I’d written with [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), plus my ton of editorial background.  I would be added to the faculty as an adjunct professor, paid a modest but livable salary and given a quite nice rent-free house for me and my family to live in for a couple of years.  It wouldn’t require much hard work from me, either.  I could do plenty of writing.
+I qualified for all that, mostly because of [The Space Merchants](https://web.archive.org/web/20170620012436/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511) and other books I’d written with [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/), plus my ton of editorial background.  I would be added to the faculty as an adjunct professor, paid a modest but livable salary and given a quite nice rent-free house for me and my family to live in for a couple of years.  It wouldn’t require much hard work from me, either.  I could do plenty of writing.
 
 
 However, it didn’t happen.  The deal fell through at the last minute because the funding collapsed, but Marty had done his best.  He remained a treasured friend.
@@ -94,24 +94,24 @@ However, it didn’t happen.  The deal fell through at the last minute because t
 
 **Related posts:**
 
-- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
-- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
-- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
-- [**Arrival, Part 5: ‘I guess I am’**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
-- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
-- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
-- [**Working with Robert A. Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/)
-- [**Working with Robert A. Heinlein, Part 2**](/posts/2010-05-10-working-with-robert-a-heinlein-part-2/)
+- [**Arrival, Part 2: Heinlein Stories**](/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 5: ‘I guess I am’**](/fred-pohl/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [**Arrival, Part 6: The Deal**](/fred-pohl/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/fred-pohl/2013-05-10-arrival-part-7-departure/)
+- [**Working with Robert A. Heinlein**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/)
+- [**Working with Robert A. Heinlein, Part 2**](/fred-pohl/2010-05-10-working-with-robert-a-heinlein-part-2/)
 
 
 ### 4 Comments
 
 - [Robert Nowall](https://web.archive.org/web/20170620012436/http://www.robertnowall.com/) says:
 I’ve always heard they’ve got some crazy little women there…
-[**March 20, 2013, 5:42 am**](/posts/2013-03-19-arrival-the-happiest-airport/)
+[**March 20, 2013, 5:42 am**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
 - Johan Anglemark says:
 Looking forward to part II!
-[**March 20, 2013, 7:59 am**](/posts/2013-03-19-arrival-the-happiest-airport/)
+[**March 20, 2013, 7:59 am**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
 - [Stefan Jones](https://web.archive.org/web/20170620012436/http://www.flickr.com/photos/stefan_e_jones/) says:
 I’m so glad to see you blogging again!
 What an utterly bizarre attitude that hotel had. Had they been burned by SF convention attendees before? Was it a bad neighborhood that got lots of deadbeats?  
@@ -122,13 +122,13 @@ Back when I did business travel I visited many airports, but don’t believe I e
 The worst airport I’ve dealt with, more to have to do with its age than its design, is La Guardia in Queens. A very old airport retrofitted and re-retrofitted. To be fair, the last redesign hadn’t quite been done when I last used it. 
 JFK’s terminals are more modern, but even buildings designed in the 1960s aren’t up to today’s volume of travelers and security needs. I remember, as a boy, being utterly amazed by the space-station-like design of the manta-ray shaped TWA terminal. When I used it in the early 90s (before 9/11!) it was a mess, with security checks wedged into the too small lobby. 
 I’m grateful for Portland’s fine small airport. The light rail line leads right into one end of the terminal. From there it is less than $3 to get anywhere in the area.
-[**March 20, 2013, 11:20 pm**](/posts/2013-03-19-arrival-the-happiest-airport/)
+[**March 20, 2013, 11:20 pm**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
 - [JJ Brannon](https://web.archive.org/web/20170620012436/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 Glad to see you posting again!
 Coinkadinkly, just a scant weeks ago, after hearing a friend relate her horrible airport experiences and sharing a couple of my own, I launched into a paean of my all-time favorite airport — KCI!
 It was, in 2007 to — yes, you guessed it! — the Heinlein Centennial that was my last instance of air travel [including the return trip], where I encountered you for the third and last time in my experience.
 JJB
-[**March 21, 2013, 5:24 pm**](/posts/2013-03-19-arrival-the-happiest-airport/)
+[**March 21, 2013, 5:24 pm**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
 
 [WordPress](https://web.archive.org/web/20170620012436/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620012436/http://dicksmithsoftware.com/)

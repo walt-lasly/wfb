@@ -4,9 +4,9 @@ date: 2010-01-10
 categories: ["Authors"]
 tags: ["Agents", "Civil War", "Food", "H. Beam Piper", "John Mosby", "New York", "Rogers Terrill"]
 archive_url: "https://web.archive.org/web/20200301000000/http://www.thewaythefutureblogs.com/2010/01/h-beam-piper/"
-prev_post_url: "/posts/2010-01-07-bits-and-pieces/"
+prev_post_url: "/fred-pohl/2010-01-07-bits-and-pieces/"
 prev_post_title: "Bits and Pieces"
-next_post_url: "/posts/2010-01-14-perils-at-sea/"
+next_post_url: "/fred-pohl/2010-01-14-perils-at-sea/"
 next_post_title: "Perils at Sea"
 translated: false
 ---
@@ -84,54 +84,54 @@ Every evening, then, Beam would open the window.  When a fat pigeon landed there
 
 - [Mike Ransom](https://web.archive.org/web/20111014231405/http://tulsatvmemories.com/) says:
 I worked in France for a time in the early 90s. I once got into a discussion about SF with a French executive at the company. He told me his favorite writer was “Ahsh Bim Peeper”.
-[**January 10, 2010, 5:23 am**](/posts/2010-01-10-h-beam-piper/)
+[**January 10, 2010, 5:23 am**](/fred-pohl/2010-01-10-h-beam-piper/)
 - [Jerry](https://web.archive.org/web/20111014231405/http://triplanetary.blogspot.com/) says:
 One of the first sf books I ever bought as a boy was a ragged copy of “Space Viking,” which I found in the bargain bin one summer vacation. It still springs to mind when the phrase “space opera” is mentioned. I was always saddened by the circumstances of his death, but it’s a bit more understandable given what you say about his temperament.
-[**January 10, 2010, 2:47 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 10, 2010, 2:47 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - David H. says:
 Thanks for the memories.  I remember waylaying you briefly at the WorldCon in 1996 to ask about that Mosby piece, which I was working on tracking down.  (This was, I think, shortly before I had read GATEWAY, at which point you went from being Frederick Pohl to being FREDERIK POHL.  Funny how reading a book can change your reaction to a person.)
 For folks interested in Piper, John F. Carr has put out a truly terrific biography of Piper (H. BEAM PIPER: A BIOGRAPHY, available at Amazon.com and I’m sure through John directly), with letters and photos and all manner of terrific Piper-related material, including an inventory of his historical gun collection as it stood just before his marriage.  (Alas, the swords and modern firearms were not included in that inventory, so we just have to dream.)  John shows how much of what was believed about Piper was wrong — Piper told a number of different stories, even about his own name.
 Piper reportedly shot himself with a Colt Marshal revolver, in .38 Special.  There were only about 2500 of those made in the mid-fifties.  Curiously, Robert E. Howard shot himself with a .38 semi-auto, and while I have not read the details of the manufacturer the time period would indicate it was most likely a Colt Model 1900, 1902, or 1903.  Could have been a 1911 firing .38 Super, too, I guess.  They both went out as Colt men, either way.
-[**January 11, 2010, 9:51 am**](/posts/2010-01-10-h-beam-piper/)
+[**January 11, 2010, 9:51 am**](/fred-pohl/2010-01-10-h-beam-piper/)
 - [Robert Nowall](https://web.archive.org/web/20111014231405/http://www.robertnowall.com/) says:
 After first encountering Piper\’s work (when Ace Books reprinted the bulk of them in the mid-to-late 1970s and early 1980s), I thought the world of them, some of the best stuff I\’d read in SF.  And most of it still holds up for me.  It was years before I learned even a hint of what had happened to him.
 I wrote in a post elsewhere about how SF writers are unlikely candidates for a massive bodybuilder biography.  I have read the John F. Carr biography of Piper.  It was, well, peculiar—but since it would seem it\’s likely to be the only substantial biography of Piper that I will *ever* be able to read, I am grateful for its existence.
 (Also, I found some details of the biography enlightening—and discouraging.  I remember how great Piper\’s works were—and how little money he made from them.)
-[**January 11, 2010, 2:16 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 11, 2010, 2:16 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - [Branko Collin](https://web.archive.org/web/20111014231405/http://www.tekstadventure.nl/branko/blog/) says:
 If he shot the pigeons that were sitting on his window sill, wouldn’t land in the street instead of the pan? How did that work?
-[**January 11, 2010, 4:51 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 11, 2010, 4:51 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - [Christopher](https://web.archive.org/web/20111014231405/http://www.csdaley.com/) says:
 H. Beam Piper was a really important author to me as a young man. One of the first science fiction books I ever read was Little Fuzzy.
-[**January 25, 2010, 12:16 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 25, 2010, 12:16 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - Greg Weeks says:
 I’ve always wondered what H. Beam Piper would have written if things would have worked out just a little differently. I started reading Piper’s work when Jim Baen did the reprints at Ace in the 80’s. The earlier printings were impossible to find at the time. I think most of them still hold up. I think I’ve read everything he’s written now. Null ABC/Crisis In 2140 was the last I found.
 Greg Weeks
-[**January 25, 2010, 4:09 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 25, 2010, 4:09 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - Fuloydo says:
 One of the first, if not THE first, Science Fiction books I ever read was Little Fuzzy.  I found it on the shelf of the small bookcase full of paperbacks my father had in the spare bedroom of our house when I was about ten.  This was in 1973. I loved that book and, about ten years later, it was stolen from my car while I was eating lunch.  I hope whoever took it appreciated what they got.  My thoughts when I first heard about how he died were, sad to say, mostly selfish.  How many more Terro-Human Future History stories did he have, that we never got to share.  The man knew how to tell a story.
-[**January 26, 2010, 3:46 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 26, 2010, 3:46 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - [Michael Rawdon](https://web.archive.org/web/20111014231405/http://www.fascinationplace.org/) says:
 Piper is the writer who got me into reading science fiction - I discovered him as a teenager around 1985 or so.  I first read Empire, a collection of his later-in-the-timeline future history stories, which is probably still my favorite book of his.
 I’ve heard that he left copious notes of his future history behind, and I’d always hoped someone would bundle them up and publish them.  I suspect the chances of that get smaller every year, as his books are not even kept in print anymore.  Too bad.
-[**January 29, 2010, 5:18 pm**](/posts/2010-01-10-h-beam-piper/)
+[**January 29, 2010, 5:18 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - [Anton Sherwood](https://web.archive.org/web/20111014231405/http://ogre.nu/) says:
 Thanks for telling a fuller version of the story than had reached me before.
-[**February 27, 2010, 10:36 pm**](/posts/2010-01-10-h-beam-piper/)
+[**February 27, 2010, 10:36 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - Richard Moore says:
 I wasn’t aware that Rogers Terrill had been Piper’s agent.  He must have liked having former pulp editors as agents as his agent for several years running up to his suicide was Kenneth White.  It was White’s death that threw Piper’s financial situation (never good) to the desperation point.  White’s unexpected (Piper did not know he was ill) death meant expected payments for stories sold did not come through, nor revisions requested by John Campbell.  In the confusion left by White, Ace Books published Lord Kalvan of Otherwhen before the last novella was published by Analog.  This greatly irritated Campbell, who detailed in Brass Tacks how the mix-up had happened.  
 Carr’s biography corrects the record on Piper’s ex-wife, who some say spent all of his money on a Paris honeymoon.  As I recall the Carr biography (which I don’t have in front of me), they were married in the U.S. and her very responsible job with an international organization kept her in New York City.  Piper commuted back and forth to NYC from Altoona.  Her job took her to Paris and Piper followed.  He hated everything about Paris and within a few months, he walked out and returned to the U.S. The marriage was a personal and financial disaster for Piper, who was probably as ill-suited for marriage as could be imagined.  Yet, he missed her for the rest of his life.
-[**May 19, 2010, 12:33 pm**](/posts/2010-01-10-h-beam-piper/)
+[**May 19, 2010, 12:33 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - Bruce Netterville says:
 Thank you for this post.  I have only recently began reading Mr Piper’s works.  Some of his works remind me of Poul Anderson esp his Paratime stories match up to Anderson’s Time Patrol.  Interesting author and I plan to read his entire collection.  Thanks for the insight.
-[**September 29, 2010, 4:07 pm**](/posts/2010-01-10-h-beam-piper/)
+[**September 29, 2010, 4:07 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 - Wm. Mark Crafton says:
 Just finished Fuzzies and Other People (1984) that I found in a used book store. I’d read Little Fuzzy waay back when I was in high school in the mid 1980s, along with some of the Paratime stories.  
 
   Mr. Piper, Poul Anderson, Isaac Asimov, Stanley G. Weinbaum, and Andre Norton were some of the first SF writers I ever read.  And some of the best!  They inspired dreams that I might someday (alas, still mostly dreams!)write stories such as theirs.  
 
   Whenever I think of Mr. Piper and his wondrous worlds, I mourn that he died before he could reveal any more of them to us.
-[**December 27, 2010, 8:01 pm**](/posts/2010-01-10-h-beam-piper/)
+[**December 27, 2010, 8:01 pm**](/fred-pohl/2010-01-10-h-beam-piper/)
 
 [WordPress](https://web.archive.org/web/20111014231405/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111014231405/http://dicksmithsoftware.com/)

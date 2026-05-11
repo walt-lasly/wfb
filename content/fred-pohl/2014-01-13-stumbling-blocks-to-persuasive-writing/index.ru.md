@@ -4,9 +4,9 @@ date: 2014-01-13
 categories: ["Betty's Posts", "Writing"]
 tags: ["Academics", "Ecology", "Elizabeth Anne Hull", "Language"]
 archive_url: "https://web.archive.org/web/20190501000000/http://www.thewaythefutureblogs.com/2014/01/stumbling-blocks-to-persuasive-writing/"
-prev_post_url: "/posts/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
+prev_post_url: "/fred-pohl/2014-01-08-more-on-the-space-merchants-21st-century-edition/"
 prev_post_title: "More onThe Space Merchants, 21st Century Edition"
-next_post_url: "/posts/2014-01-15-say-no-to-the-keystone-xl-pipeline/"
+next_post_url: "/fred-pohl/2014-01-15-say-no-to-the-keystone-xl-pipeline/"
 next_post_title: "Say No to the Keystone XL Pipeline!"
 translated: false
 translator: "Yandex"
@@ -64,11 +64,11 @@ translator: "Yandex"
 * * *  
 
 Общая картина: Слишком много людей читают недостаточно, чтобы знать, как выглядят правильно составленные предложения. Что, вероятно, началось с того, что в детстве им недостаточно читали.
-[** 13 января 2014 года, 11:32 утра**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[** 13 января 2014 года, 11:32 утра**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - Нейт Уайлк говорит:
 не думаете ли вы, что это навязывание правил или что вам нужно знать, что именно вы хотите сказать?
 Серьезно, существует огромное количество идей. Если у кого-то есть идея, которую он считает замечательной, почему это не мотивирует этого человека сделать так, чтобы люди могли ее прочитать? Если они не приложат этих элементарных усилий, почему я должен тратить на это эти усилия?
-[** 13 января 2014, 10:24 вечера**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[** 13 января 2014, 10:24 вечера**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - Стив Ливелл говорит:
 Кое-что из того, что я написал несколько лет назад, когда преподавал в летней школе:
 “Апостроф к апострофу”
@@ -79,14 +79,14 @@ translator: "Yandex"
 Вы - источник постоянного беспокойства,  
 
 И объяснения ни к чему хорошему не приведут.
-[**15 января 2014, 15:27 вечера**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**15 января 2014, 15:27 вечера**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - Его превосходительство Пармер говорит:
 “У меня есть все эти замечательные идеи, но я не знаю, как их правильно сформулировать!”
 Джек Карсон в роли начинающего драматурга офицера О'Хары в фильме Фрэнка Капры “Мышьяк и старые кружева”
-[**16 января 2014, 16:26 вечера**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[**16 января 2014, 16:26 вечера**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 - пиджкамп говорит:
 Просто, чтобы вы знали, вы проделываете потрясающую работу, продолжая вести блог. Фред гордился бы мной.
-[** 19 января 2014 года, 1:56 утра**](/posts/2014-01-13-stumbling-blocks-to-persuasive-writing/)
+[** 19 января 2014 года, 1:56 утра**](/fred-pohl/2014-01-13-stumbling-blocks-to-persuasive-writing/)
 
 [WordPress](https://web.archive.org/web/20160416125329/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416125329/http://dicksmithsoftware.com/)

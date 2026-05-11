@@ -4,9 +4,9 @@ date: 2011-10-06
 categories: ["Authors", "Personal", "Science", "Travel"]
 tags: ["Arthur C. Clarke", "Conventions", "Ed Mitchell", "George Pezdirtz", "Harold Puthoff", "James Randi", "Marvin Minsky", "NASA", "Psi", "Russell Targ", "Wernher von Braun", "Willy Ley", "World War II"]
 archive_url: "https://web.archive.org/web/20170801000000/http://www.thewaythefutureblogs.com/2011/10/great-conferences-i-have-attended-no-1/"
-prev_post_url: "/posts/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
+prev_post_url: "/fred-pohl/2011-10-03-oh-good-the-computers-have-come-no-more-worries-ever/"
 prev_post_title: "Oh, Good!  The Computers Have Come!No More Worries, Ever!"
-next_post_url: "/posts/2011-10-13-planet-earth-almost-good-news-maybe/"
+next_post_url: "/fred-pohl/2011-10-13-planet-earth-almost-good-news-maybe/"
 next_post_title: "Planet Earth: Almost Good News, Maybe"
 translated: false
 ---
@@ -38,10 +38,10 @@ To start with, the conference was held on an island off the coast of Georgia.  I
 Of course another factor that made that work so well was that so many of them were in fact superstars themselves.
 
 
-Before we go any farther, let me make a confession.  I had some personal reasons for particularly enjoying it.  One was that, during a break in the proceedings, [**Arthur Clarke**](/posts/2009-01-05-sir-arthur-and-i/) found some bicycles nobody was using, and attempted a spot of bicycle jousting — I pedaling, Arthur on the handlebars.  (That was about the last time both Arthur and I were spry enough for that sort of juvenile delinquency.)
+Before we go any farther, let me make a confession.  I had some personal reasons for particularly enjoying it.  One was that, during a break in the proceedings, [**Arthur Clarke**](/fred-pohl/2009-01-05-sir-arthur-and-i/) found some bicycles nobody was using, and attempted a spot of bicycle jousting — I pedaling, Arthur on the handlebars.  (That was about the last time both Arthur and I were spry enough for that sort of juvenile delinquency.)
 
 
-And then there was the question of [**Wernher von Braun**](/posts/2009-01-05-sir-arthur-and-i/).  He and I had been aware of each other’s existence, but the only tangible connection was that he did keep inviting me to watch rocket launches at the Cape.  This troubled some mutual friends, [Willy Ley](https://web.archive.org/web/20111210015459/http://www.astronautix.com/astros/ley.htm) in particular, who thought that Von Braun and I could be good friends, but he never offered any one-on-one invitations, and I couldn’t get past the fact that he had been an officer in Hitler’s SS to take the initiative.
+And then there was the question of [**Wernher von Braun**](/fred-pohl/2009-01-05-sir-arthur-and-i/).  He and I had been aware of each other’s existence, but the only tangible connection was that he did keep inviting me to watch rocket launches at the Cape.  This troubled some mutual friends, [Willy Ley](https://web.archive.org/web/20111210015459/http://www.astronautix.com/astros/ley.htm) in particular, who thought that Von Braun and I could be good friends, but he never offered any one-on-one invitations, and I couldn’t get past the fact that he had been an officer in Hitler’s SS to take the initiative.
 
 
 But then came an evening at Spec Tech when we had all been invited to a barbecue on the far side of the island.  It was an automobile road away, and there weren’t enough cars to go around.  So we doubled up.  And for half an hour there I had Wernher Von Braun sitting in my lap. . . .  Oh, it didn’t overtly change much, but after that I couldn’t help thinking of him less as a Nazi slave-labor driver and more as a human being who shared the same interplanetary ambitions as I did.  I don’t think I would have done what he did to get there.  But I wouldn’t have got as far as he, either.
@@ -53,7 +53,7 @@ There were forty or fifty participants in the conference, from every branch of s
 And Astronaut [Ed Mitchell](https://web.archive.org/web/20111210015459/http://www.edmitchellapollo14.com/), one of the last human beings to set foot on the surface of the Moon, let it be known that, yes, he had attempted to send telepathic messages from the Moon to associates on Earth.  (The experiment was not exactly a success, although some argued that the fact that their success rate was so much worse than chance would predict could be considered as suggesting that some external psychic force was deliberately jamming their transmissions.)
 
 
-A couple of the participants, [Russell Targ](https://web.archive.org/web/20111210015459/http://archived.parapsych.org/members/r_targ.html) and [Harold Puthoff](https://web.archive.org/web/20111210015459/http://www.earthtech.org/principals/puthoffbio.htm) from [SRI International](https://web.archive.org/web/20111210015459/http://www.sri.com/), formerly known as the Stanford Research Institute, objected that the subject matter of the conference wasn’t speculative enough.  They wanted discussion of what [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) called the “psi” sciences (and others called the psi “sciences”).  Since Pezdirtz had been open-minded enough to invite as participants a couple of science-fiction writers, Arthur Clarke and me, they argued that he certainly should let psi have a spot on the program.
+A couple of the participants, [Russell Targ](https://web.archive.org/web/20111210015459/http://archived.parapsych.org/members/r_targ.html) and [Harold Puthoff](https://web.archive.org/web/20111210015459/http://www.earthtech.org/principals/puthoffbio.htm) from [SRI International](https://web.archive.org/web/20111210015459/http://www.sri.com/), formerly known as the Stanford Research Institute, objected that the subject matter of the conference wasn’t speculative enough.  They wanted discussion of what [**John Campbell**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) called the “psi” sciences (and others called the psi “sciences”).  Since Pezdirtz had been open-minded enough to invite as participants a couple of science-fiction writers, Arthur Clarke and me, they argued that he certainly should let psi have a spot on the program.
 
 
 As no one could think of a good counter to their arguments they won their place on the program, causing George to have to find a chairman for the session.  The hard scientists he approached unanimously turned him down, so he awarded it to me.
@@ -93,32 +93,32 @@ But it’s more fun with the machine.   And it was a lot of fun at the conferenc
 
 - [Ken Houghton](https://web.archive.org/web/20111210015459/http://www.angrybearblog.com/) says:
 Oh, don’t bother to roll again.  If it rolls a 4, 5, or 6, just subtract three from the number.
-[**October 6, 2011, 10:49 am**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 6, 2011, 10:49 am**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 - Nate says:
 Interesting post, but I feel compelled to ask why the experimenter would reroll the die in question.  Couldn’t you just divide the result by two and round up?  Or in some other way assign two of the faces to one outcome?
-[**October 6, 2011, 11:19 am**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 6, 2011, 11:19 am**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 - David Goldfarb says:
 Instead of re-rolling the die half the time, why not just divide the result by 2, rounding up?
-[**October 6, 2011, 12:35 pm**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 6, 2011, 12:35 pm**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 - David Ratnasabapathy says:
 Do you know how they moved the tubes?  
 Since the tubes were lightweight, one obvious way to make them move is to blow gently on them. 
 Another possibility is to conceal a strong magnet in one’s hand or mouth. But if Randi could do it on the spot without preparation that doesn’t seem likely.  Unless he has a habit of carrying magnets around on his person 
-[**October 7, 2011, 9:18 am**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 7, 2011, 9:18 am**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 - SM says:
 I had the homour to meet Mr. Randi in his recent speaking tour of Canada.  He\’s still fooling audiences and criticizing fools with that marvelous wit.  Nine cities from coast to coast in nine days- the mind boggles.  
 I would be interested to know if he and de Camp ever met … both wrote on skeptical topics, but de Camp seemed to be less enraged by con men and cheats.
-[**October 7, 2011, 7:50 pm**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 7, 2011, 7:50 pm**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 - Jay Borcherding says:
 I prefer the subtract three suggestion to the divide and round up suggestions. 
 Good post!  I respect your caution regarding Von Braun, which I suspect was a minority view, but am glad that your 30 minutes of forced intimacy was pleasant enough.  
 There’s a quaint quality to the whole business regarding Psi.  The magic box story made me think of Scientology’s E-meter:  pseudo-science for the gullible, more a gag for parties than a serious scientific instrument. 
 Oh and Fred never gave us an update regarding your insane Dell:  has the problem been fixed?
-[**October 7, 2011, 10:50 pm**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 7, 2011, 10:50 pm**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 - Robert Brown says:
 I love the image of you and Sir Clarke awkwardly jousting on a bicycle, trying to avoid meeting your collective doom as the bike totters forward, Clarke shouting instruction to you as you struggle to push the pedals…
 Not something I could have made up.  Truth is stranger than fiction.
-[**October 8, 2011, 8:50 pm**](/posts/2011-10-06-great-conferences-i-have-attended-no-1/)
+[**October 8, 2011, 8:50 pm**](/fred-pohl/2011-10-06-great-conferences-i-have-attended-no-1/)
 
 [WordPress](https://web.archive.org/web/20111210015459/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111210015459/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-03-28
 categories: ["Authors", "Books", "Writing"]
 tags: ["Alfred Bester", "Gateway", "Hugo Awards", "Prozines", "Pulps", "Richard Nixon", "Television"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2011/03/me-and-alfie-part-2-gateway/"
-prev_post_url: "/posts/2011-03-25-me-and-alfie/"
+prev_post_url: "/fred-pohl/2011-03-25-me-and-alfie/"
 prev_post_title: "Me and Alfie"
-next_post_url: "/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
+next_post_url: "/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/"
 next_post_title: "Me and Alfie, Part 3: Ideas andThe Demolished Man"
 translated: false
 ---
@@ -158,18 +158,18 @@ I think it will be done here in the UK, probably on ITV, sometime next fall or n
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Part 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### 2 Comments
 
 - [Richard](https://web.archive.org/web/20170619195315/http://estoreal.blogspot.com/) says:
 I already hate myself for asking this…but I actually did watch The Clone Master the night it aired, and I’d really like to know what it started out being.  Is there any hope Mr. Pohl could be persuaded to revisit that unfortunate experience and share any information about his original idea or the treatment he developed?
-[**April 1, 2011, 3:29 am**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
+[**April 1, 2011, 3:29 am**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
 - [Batuhan](https://web.archive.org/web/20170619195315/http://www.facebook.com/profile.php?id=100003406703046) says:
 Science fiotcin is a  genre of fiotcin that has speculations based on current or future science or technology. Science fiotcin is found in books, art, television, films, games, theater, and other media.Science fiotcin differs from fantasy in that, within the context of the story, its imaginary elements are largely possible within scientifically established or scientifically postulated laws of nature (though some elements in a story might still be pure imaginative speculation).
-[**September 25, 2012, 7:39 pm**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
+[**September 25, 2012, 7:39 pm**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/)
 
 [WordPress](https://web.archive.org/web/20170619195315/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619195315/http://dicksmithsoftware.com/)

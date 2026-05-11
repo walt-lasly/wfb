@@ -4,9 +4,9 @@ date: 2009-09-09
 categories: ["Authors", "Personal"]
 tags: ["Editors", "John W. Campbell", "Malcolm Jameson", "New York", "Publishing", "Vida Jameson"]
 archive_url: "https://web.archive.org/web/20260301000000/http://www.thewaythefutureblogs.com/2009/09/the-worlds-of-l-ron-hubbard-part-2/"
-prev_post_url: "/posts/2009-09-04-the-worlds-of-l-ron-hubbard/"
+prev_post_url: "/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/"
 prev_post_title: "The Worlds of L. Ron Hubbard"
-next_post_url: "/posts/2009-09-11-dick/"
+next_post_url: "/fred-pohl/2009-09-11-dick/"
 next_post_title: "Dick"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="lronhubbardcolor.jpg" alt="L. Ron Hubbard" caption="L. Ron Hubbard" >}}
 
 
-All right.  Now I’ve spent [**pages and pages**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) talking about [L. Ron Hubbard](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html) and Ron himself hasn’t yet appeared in person on the page even once.  What’s going on here?
+All right.  Now I’ve spent [**pages and pages**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/) talking about [L. Ron Hubbard](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html) and Ron himself hasn’t yet appeared in person on the page even once.  What’s going on here?
 
 
 One thing that has gone on is that every time I show up at some [Woffie](https://web.archive.org/web/20090917042016/http://www.writersofthefuture.com/) event, they make sure that an interviewer shows up very soon, along with a cameraman and a recordist so they can get a few sound bites from me.  They always have a lot of questions, and they all cluster around one particular subject.  Since I am one of  the few people still around who ever met him in the pre-Scientology days, they want to know what L. Ron Hubbard was really like.
@@ -77,14 +77,14 @@ Nevertheless I did, a moment ago, say that I knew a lot about Hubbard’s life a
 There were a lot, but one of them stands out, and that is the then editor of Astounding/Analog, John W. Campbell, Jr.  So, to carry on the story, we will switch to a new format.  What we’ll call it is “Campbell and Hubbard,” and it will be starting in the blog soon.
 
 
-**Related post:** [**The Worlds of L. Ron Hubbard**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+**Related post:** [**The Worlds of L. Ron Hubbard**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/)
 
 
 ### One Comment
 
 - [Sylvia](https://web.archive.org/web/20090917042016/http://www.fearoflanding.com/) says:
 So, I don\’t suppose you know what happened to Vida? Sounds like a story in its own right.
-[**September 15, 2009, 7:10 pm**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+[**September 15, 2009, 7:10 pm**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 [WordPress](https://web.archive.org/web/20090917042016/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090917042016/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-05-26
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Clubs", "Costa Carousso", "Donald A. Wollheim", "Editors", "Futurians", "Harry Steeger", "Isaac Asimov", "New York", "Peggy Graves", "Prozines", "Publishing", "Pulps", "Robert Erisman"]
 archive_url: "https://web.archive.org/web/20180301000000/http://www.thewaythefutureblogs.com/2011/05/rolling-back-the-years-popular-publications/"
-prev_post_url: "/posts/2011-05-24-post-scriptum/"
+prev_post_url: "/fred-pohl/2011-05-24-post-scriptum/"
 prev_post_title: "Post Scriptum"
-next_post_url: "/posts/2011-05-31-popular-publications-part-2/"
+next_post_url: "/fred-pohl/2011-05-31-popular-publications-part-2/"
 next_post_title: "Popular Publications, Part 2"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="harry-steeger.jpg" alt="Harry Steeger" caption="Harry Steeger" >}}
 
 
-В конце 1930-х я был подростковым фэном научной фантастики и будущим писателем.  Я познакомился со многими редакторами существующих научно-фантастических палпов, заново представившись литературным агентом и посещая их офисы, предлагая им последние рассказы, написанные некоторыми из моих друзей-фэнов.  Авторы были довольно дилетантскими, и мои продажи их работ были близки к нулю.  Тем не менее, обман не был полностью неправдоподобным.  Пара дюжин из нас, потенциальных фанатов, объединились в клуб фэнов под названием ["Футурианцы".](/posts/2009-05-08-the-quadrumvirate/)  Из этого пула моими клиентами были [** Сирил Корнблат**](/posts/2009-04-20-cyril/), [Дон Уоллхейм](https://web.archive.org/web/20170619225501/http://www.gcwillick.com/Spacelight/wollheim.html) и [Айзек Азимов](https://web.archive.org/web/20170619225501/http://www.asimovonline.com/), и все они уже были довольно близки к этому.  По крайней мере, достаточно близко, чтобы редакторы отнеслись к нему хотя бы немного серьезно.
+В конце 1930-х я был подростковым фэном научной фантастики и будущим писателем.  Я познакомился со многими редакторами существующих научно-фантастических палпов, заново представившись литературным агентом и посещая их офисы, предлагая им последние рассказы, написанные некоторыми из моих друзей-фэнов.  Авторы были довольно дилетантскими, и мои продажи их работ были близки к нулю.  Тем не менее, обман не был полностью неправдоподобным.  Пара дюжин из нас, потенциальных фанатов, объединились в клуб фэнов под названием ["Футурианцы".](/fred-pohl/2009-05-08-the-quadrumvirate/)  Из этого пула моими клиентами были [** Сирил Корнблат**](/fred-pohl/2009-04-20-cyril/), [Дон Уоллхейм](https://web.archive.org/web/20170619225501/http://www.gcwillick.com/Spacelight/wollheim.html) и [Айзек Азимов](https://web.archive.org/web/20170619225501/http://www.asimovonline.com/), и все они уже были довольно близки к этому.  По крайней мере, достаточно близко, чтобы редакторы отнеслись к нему хотя бы немного серьезно.
 
 
 Что я заметил в редакторах, так это то, что они проводили большую часть своего времени за чтением научной фантастики.  Что ж, я тоже этим занимался, только делал это напрасно.  Я набрался смелости спросить одного из самых дружелюбных редакторов, [Роберта Эрисмана](https://web.archive.org/web/20170619225501/http://www.isfdb.org/cgi-bin/ea.cgi?32390), не хотел бы он нанять меня в качестве ассистента.  Он не смеялся надо мной.  Он даже не сказал мне того, что, я уверен, было правдой, - что у него не было бюджета на помощника и не было никакой надежды на то, что ему его предоставят.  [](https://web.archive.org/web/20170619225501/http://homepage.mac.com/cdkalb/spider/legend/steeger.html)Но он сказал мне, что слышал о выходе нескольких новых журналов от Гарри Стигера[ из Popular Publications](https://web.archive.org/web/20170619225501/http://www.nypl.org/research/chss/spe/rbk/faids/popular.html), расположенного в дальнем конце 42-й улицы (офис Эрисмана находился почти так далеко на запад, как только можно было пройти по 42-й улице, в старом здании Макгроу-Хилл из зеленого стекла, в то время как Стигерs, между 2-й и 3—й авеню, было почти настолько далеко, насколько можно было пройти на восток - то есть, в любом случае, не врезавшись в реку.). Так почему же тогда я не пошел к мистеру Стигеру и не спросил, может ли он нанять меня редактировать для него научно-фантастический журнал?
@@ -48,7 +48,7 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Популярные публикации**, [** Часть 2**](/posts/2011-05-31-popular-publications-part-2/), [**Часть 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Часть 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [** Часть 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- ** Популярные публикации**, [** Часть 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [**Часть 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Часть 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [** Часть 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Комментария
@@ -56,16 +56,16 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20170619225501/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Просто так взять и стать редактором... у меня с ума сходит, чувак!
 Было бы неплохо увидеть фотографию здания, в котором находился ваш офис... при условии, что оно все еще существует!
-[**26 мая 2011, 18:55 вечера**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**26 мая 2011, 18:55 вечера**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 - [команда блога](https://web.archive.org/web/20170619225501/http://thewaythefutureblogs.com/) говорит:
 Стефан — сейчас подойдет!
-[** 27 мая 2011 года, 1:24 утра**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[** 27 мая 2011 года, 1:24 утра**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 - [Билл Гудвин](https://web.archive.org/web/20170619225501/http://771715/) говорит:
 Вот что я тебе скажу, старина Фред. Я буду издавать журнал научной фантастики – к тому же очень хороший, – и если вы отредактируете его для меня, я не только начну с того, что заработаю эти 3 доллара (плюс дополнительные проценты), но и округлю сумму до полной зарплаты за два дня. Потому что у меня есть предчувствие на твой счет!
-[**30 мая 2011 года, 2:14 ночи**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**30 мая 2011 года, 2:14 ночи**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 - SM говорит:
 Я только что обратил внимание на цифру “40 журналов у одного владельца”.  Я и не подозревал, что одновременно может быть так много палп!  Общее количество за данный месяц, должно быть, исчислялось сотнями.
-[**2 июня 2011 года, 9:42 утра**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**2 июня 2011 года, 9:42 утра**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 
 [WordPress](https://web.archive.org/web/20170619225501/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619225501/http://dicksmithsoftware.com/)

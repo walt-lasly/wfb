@@ -4,9 +4,9 @@ date: 2011-06-30
 categories: ["Books"]
 tags: ["Jennifer Wright Knust", "Politics", "Religion", "Ron Paul", "Sexuality"]
 archive_url: "https://web.archive.org/web/20260601000000/http://www.thewaythefutureblogs.com/2011/06/answers-to-bible-quiz/"
-prev_post_url: "/posts/2011-06-25-top-10-sf-fantasy-2011/"
+prev_post_url: "/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/"
 prev_post_title: "Top 10 SF/Fantasy: 2011"
-next_post_url: "/posts/2011-07-05-einstein-vs-god-who-s-ahead/"
+next_post_url: "/fred-pohl/2011-07-05-einstein-vs-god-who-s-ahead/"
 next_post_title: "Einstein vs. God: Who’s Ahead?"
 translated: false
 translator: "Yandex"
@@ -22,7 +22,7 @@ translator: "Yandex"
 ## Ответы на библейский тест
 
 
-Вот ответы на [библейский тест на прошлой неделе ***](/posts/2011-06-24-how-well-do-you-know-your-bible/):
+Вот ответы на [библейский тест на прошлой неделе ***](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/):
 
 
 {{< figure src="ron-paul.jpg" alt="Ron Paul" caption="Sodomite?" >}}
@@ -43,10 +43,10 @@ translator: "Yandex"
 
 - Рик Йорк говорит:
 Я думаю, мы должны заставить прессу всегда называть правых республиканцев и участников чаепитий содомитами.
-[**30 июня 2011, 18:34 вечера**](/posts/2011-06-30-answers-to-bible-quiz/)
+[**30 июня 2011, 18:34 вечера**](/fred-pohl/2011-06-30-answers-to-bible-quiz/)
 - Тина Блэк говорит:
 Да, ваш ответ навел меня на мысль, что повестка дня чаепития принадлежит именно Содому... не то чтобы это было чем-то неожиданным.  Ни один бог, которому я благоволю, не стал бы смотреть на их планы с улыбкой.
-[**2 июля 2011, 12:41 вечера**](/posts/2011-06-30-answers-to-bible-quiz/)
+[**2 июля 2011, 12:41 вечера**](/fred-pohl/2011-06-30-answers-to-bible-quiz/)
 
 [WordPress](https://web.archive.org/web/20150922131616/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150922131616/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2011-06-24
 categories: ["Books"]
 tags: ["Jennifer Wright Knust", "Religion", "Sexuality"]
 archive_url: "https://web.archive.org/web/20261001000000/http://www.thewaythefutureblogs.com/2011/06/how-well-do-you-know-your-bible/"
-prev_post_url: "/posts/2011-06-23-the-trap-door-spiders/"
+prev_post_url: "/fred-pohl/2011-06-23-the-trap-door-spiders/"
 prev_post_title: "The Trap Door Spiders"
-next_post_url: "/posts/2011-06-25-top-10-sf-fantasy-2011/"
+next_post_url: "/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/"
 next_post_title: "Top 10 SF/Fantasy: 2011"
 translated: false
 ---
@@ -41,17 +41,17 @@ All right, pencils down, but wait for the answers until next week when they will
 
 - Margaret says:
 Oh wow!  I believe I covet that book.  Thanks for the pointer.
-[**June 24, 2011, 8:50 am**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**June 24, 2011, 8:50 am**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - [Shakatany](https://web.archive.org/web/20170707044927/http://shakatany.livejournal.com/) says:
 I think I know the bible rather well even though I’m an atheist. I’ll see how well I did next week.
-[**June 24, 2011, 10:10 am**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**June 24, 2011, 10:10 am**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - [Ken Houghton](https://web.archive.org/web/20170707044927/http://www.angrybearblog.com/) says:
 Is it safe to assume that “all of the above,” or at least multiple answers, may be the correct answer?
 The only one I would swear has only one answer is 4. (The answer, to pun badly, is predictive.)
-[**June 25, 2011, 9:02 pm**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**June 25, 2011, 9:02 pm**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - H. E. Parmer says:
 “Most people read the Bible in small enough doses to innoculate themselves against the sense of it.”
-[**June 26, 2011, 10:56 pm**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**June 26, 2011, 10:56 pm**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - joe from brooklyn says:
 1.  All of the above.  And don’t forget St. Paul’s unsavory obsession with young St. Timothy’s foreskin!
 2. C. 
@@ -59,7 +59,7 @@ The only one I would swear has only one answer is 4. (The answer, to pun badly, 
 
 “sex with angels” is def. out — no ambiguity there. Everything else is permitted, or allowed by notable characters.
 4. B. If I were God, blasphemy would be the only sin a gave a good goddamn about.
-[**June 27, 2011, 6:40 pm**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**June 27, 2011, 6:40 pm**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 
 [WordPress](https://web.archive.org/web/20170707044927/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707044927/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-02-16
 categories: ["Miscellaneous"]
 tags: ["Elizabeth Anne Hull"]
 archive_url: "https://web.archive.org/web/20040701000000/http://www.thewaythefutureblogs.com/2010/02/college-professor-pleads-give-back-my-stolen-e/"
-prev_post_url: "/posts/2010-02-13-william-tenn-aka-phil-klass-1920-2010/"
+prev_post_url: "/fred-pohl/2010-02-13-william-tenn-aka-phil-klass-1920-2010/"
 prev_post_title: "William Tenn aka Phil Klass (1920–2010)"
-next_post_url: "/posts/2010-02-18-picc-up-question/"
+next_post_url: "/fred-pohl/2010-02-18-picc-up-question/"
 next_post_title: "PICC-up Question"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="elizabethannehullwb.jpg" alt="Elizabeth Anne Hull" caption="Elizabeth Anne Hull" >}}
 
 
-[**Доктор Элизабет Энн Халл**](/posts/2009-04-30-a-rose-by-any-other-name/) выпустила заявление, в котором она говорит: “мои горячо любимые родители, которые, к сожалению, скончался, не зовут меня[Элизабет Энн Халл](https://web.archive.org/web/20111121152958/http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=nMT&q=%22elizabeth+ann+hull%22+pohl+&btnG=Search&aq=f&aql=&aqi=&oq=).’  Вместо этого они назвали меня[Элизабет Энн Халл](https://web.archive.org/web/20111121152958/http://www.nippon2007.us/participants/hulle_participant.php),’ С Е, и я был бы признателен, если кто-то, кто имеет повод, чтобы записать мое имя будет соответствовать их пожеланиям.”
+[**Доктор Элизабет Энн Халл**](/fred-pohl/2009-04-30-a-rose-by-any-other-name/) выпустила заявление, в котором она говорит: “мои горячо любимые родители, которые, к сожалению, скончался, не зовут меня[Элизабет Энн Халл](https://web.archive.org/web/20111121152958/http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=nMT&q=%22elizabeth+ann+hull%22+pohl+&btnG=Search&aq=f&aql=&aqi=&oq=).’  Вместо этого они назвали меня[Элизабет Энн Халл](https://web.archive.org/web/20111121152958/http://www.nippon2007.us/participants/hulle_participant.php),’ С Е, и я был бы признателен, если кто-то, кто имеет повод, чтобы записать мое имя будет соответствовать их пожеланиям.”
 
 
 Доктор Халл, который является бывшим президентом [научная фантастика научные ассоциации](https://web.archive.org/web/20111121152958/http://sfra.org/sfra.html) и долгое время редактор бюллетеня для World НФ — и замуж хорошо — не желает возлагать вину за это на журнал [Локус](https://web.archive.org/web/20111121152958/http://www.locusmag.com/), хотя он был широко сообщалось, что они несут ответственность за неправильной установки.
@@ -38,40 +38,40 @@ translator: "Yandex"
 
 - [Алан Робсон](https://web.archive.org/web/20111121152958/http://tyke.net.nz/) говорит:
 Я вам сочувствую. Меня зовут Алан Робсон. Я не Алан Робертсон, Аллен Робинсон, или каких-либо других странных вариантов, которые люди так часто придумать для меня. Я Алан Робсон, но я очень редко рассматриваются в качестве таковых. Почему это так трудно?
-[**16 февраля 2010, 4:58 pm с**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**16 февраля 2010, 4:58 pm с**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - [Роберт Nowall](https://web.archive.org/web/20111121152958/http://www.robertnowall.com/) говорит:
 Я взял на защитную реакцию, не обращая внимания, когда мое имя неправильно написали.  Когда я училась в школе, я как-то пропустил, и пришлось повторить, чтобы целый семестр спортзала, потому что моя фамилия была написана с ошибкой—и если твое имя начиналось с “Н” бы *вам* посмотрите под “К”, чтобы найти себя?
-[**17 февраля 2010, 3:55 утра**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**17 февраля 2010, 3:55 утра**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - Джон Смит:
 Я слышу, что ты говоришь, Билл, я тебе сочувствую. Я не думаю, что кто-либо, и я *никогда*, получил свое имя в порядке. Может быть, г-жа холл должен подать иск на тех, Локус людей, или что-то.
-[**17 февраля 2010 года, 5:45 утра**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**17 февраля 2010 года, 5:45 утра**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - [Элизабет Энн Халл](https://web.archive.org/web/20111121152958/http://www.thewaythefutureblogs.com/) говорит:
 Пришли сегодня два новых письмах (от людей, которым следовало бы знать лучше) без “Е”.Плюс один от одного из своих поклонников, кто не считает себя членом "Менса", с “С” до финального “к” в своем имени. Вздох.
-[**17 февраля 2010, 12:44 часов**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**17 февраля 2010, 12:44 часов**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - [Chookie](https://web.archive.org/web/20111121152958/http://chookiesbackyard.blogspot.com/) говорит:
 У меня восточно-европейская фамилия, что\’ы очень трудно произносить, и я считаю, что большинство людей не заботятся.  Когда я с ними.  Проблема в людях, которые вводят его в другом месте, например, те, кто делает именные работы …
-[**17 февраля 2010, 3:52 ПП**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**17 февраля 2010, 3:52 ПП**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - ЭДС, - говорит:
 Когда я переехал в свой нынешний дом много лет назад и настройка утилиты во имя Мое, Я был очень осторожен при общении с телефонной компанией пишется мое имя оператора и повтори его мне. Я один из тех неловких Европейские имена, которые часто пишут с ошибками. Я был очень доволен собой для того, чтобы убедиться, что это будет правильно. Все напрасно. Когда в новый телефон, книга вышла, это было ужасно неправильно. Не в том, что электрический компанию, Водоканал или кабельная компания сделала на их печатают счета. Всем всегда все в порядке, хотя адресу.
-[**Февраль 17, 2010, 6:33 пп**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**Февраль 17, 2010, 6:33 пп**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - [Ironmistress](https://web.archive.org/web/20111121152958/http://takkirauta.blogspot.com/) говорит:
 Мой первый язык-финский язык, который является совершенно фонетического языка (каждое слово произносится Iexactly как написано). Финские имена отражают эту практику. Но они действительно не вызывает каких-то сложностей с skeakers языков чей языка радикально отличается от разговорного. У меня есть имя, довольно распространенное в Финляндии и является одним из обычных иудео-христианские имена, и не должны создавать трудностей. Еще я видел, как она написана, по крайней мере, шесть различных способов.
-[**Февраль 20, 2010, 3:38 утра**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**Февраль 20, 2010, 3:38 утра**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - Роберт Силверберг говорит:
 В Монреале ворлдкон забронировать worldcon вы упоминались минимум в два раза “Бетти Энн Халл” в разделе стоматологическая авторов.   Я думаю, что у вас серьезная миграция-гласный проблемы.   (Они могут быть сшиты будто на место с простой лапароскопической хирургии,.
-[**22 февраля, 2010, 5:20 часов**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**22 февраля, 2010, 5:20 часов**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - Ричард Флетчер говорит, что:
 Моя вторая половина, Аманда парк, всегда получает Аманда парки.
-[**23 февраля 2010, 4:09 часов**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**23 февраля 2010, 4:09 часов**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - [Крис Лахата](https://web.archive.org/web/20111121152958/http://www.lahatte.co.nz/) говорит:
 По моему опыту, люди в США более осторожным с именами. Мои простые, но люди настаивают на том, либо указав разрыв, или сделав ч нижнем регистре. Так что я сочувствую Элизабет Энн.
-[**1 марта 2010 г., 9:25 часов**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**1 марта 2010 г., 9:25 часов**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 - Говорит Джон :
 У меня есть куча дополнительных ч., Если вы захотите одну из них!  
 
 =)
 -Джон
-[**16 марта 2010, 7:33 утра**](/posts/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
+[**16 марта 2010, 7:33 утра**](/fred-pohl/2010-02-16-college-professor-pleads-give-back-my-stolen-e/)
 
 [На WordPress](https://web.archive.org/web/20111121152958/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111121152958/http://dicksmithsoftware.com/)

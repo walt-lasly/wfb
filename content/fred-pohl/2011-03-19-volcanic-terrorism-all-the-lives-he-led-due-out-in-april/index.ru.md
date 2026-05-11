@@ -4,9 +4,9 @@ date: 2011-03-19
 categories: ["Books", "Personal"]
 tags: ["All the Lives He Led", "Hugo Awards", "Italy", "Man Plus"]
 archive_url: "https://web.archive.org/web/20110501000000/http://www.thewaythefutureblogs.com/2011/03/volcanic-terrorism-all-the-lives-he-led-due-out-in-april/"
-prev_post_url: "/posts/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/"
+prev_post_url: "/fred-pohl/2011-03-15-couples-who-mastered-publishing-no-2-the-ballantines/"
 prev_post_title: "Couples Who Mastered Publishing, No. 2:The Ballantines"
-next_post_url: "/posts/2011-03-25-me-and-alfie/"
+next_post_url: "/fred-pohl/2011-03-25-me-and-alfie/"
 next_post_title: "Me and Alfie"
 translated: false
 translator: "Yandex"
@@ -41,29 +41,29 @@ translator: "Yandex"
 
 - Майк Голдберг говорит:
 Отличная новость!
-[** 19 марта 2011 года, 8:22 утра**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[** 19 марта 2011 года, 8:22 утра**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Роберт Новолл](https://web.archive.org/web/20170707014906/http://www.robertnowall.com/) говорит:
 Я думаю, что возвращение ласточек в Сан-Хуан-Капистрано - недостаточная честь для праздника Святого Иосифа.…
-[** 20 марта 2011 года, 7:21 утра**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[** 20 марта 2011 года, 7:21 утра**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Джинберлин](https://web.archive.org/web/20170707014906/http://bigappletobigbear.blogspot.com/) говорит:
 Звучит действительно здорово. Я люблю истории о Помпеях, и будет очень интересно прочитать одну серию в будущем, а не в прошлом.
-[**20 марта 2011, 14:15 вечера**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**20 марта 2011, 14:15 вечера**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Антон Шервуд](https://web.archive.org/web/20170707014906/http://bendwavy.org/) говорит:
 Не по теме: Мистер Пол, вы знали Рекса Стаута?  
 
 Я спрашиваю, потому что в его рассказе “Пуля за одного” (1948) есть персонаж по имени Фердинанд Пол.
-[**23 марта 2011, 14:03**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[**23 марта 2011, 14:03**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - [Стефан Джонс](https://web.archive.org/web/20170707014906/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Эта новая обложка *Человек Плюс(Man Plus)* выглядит великолепно!
 И на подходе НОВЫЙ роман Пола? Черт. В конце концов, не такой уж и отстойный год выдался.
-[** 23 марта 2011, 17:32 вечера**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[** 23 марта 2011, 17:32 вечера**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 - Мори говорит:
 Мистер Пол,  
 
 Есть ли какой-нибудь способ получить экземпляр книги с автографом? На самом деле у меня есть длинная история о том времени, когда я должен был получить твой автограф через твою соседку, но я приберегу ее на потом. А пока, вот что я хотел бы предложить. Поскольку маловероятно, что я скоро доберусь до Палатина (читай: вообще когда-либо), если бы можно было отправить копию с автографом другу в США, я был бы рад оплатить книгу, доставку и сделать пожертвование в размере 100 долларов на благотворительность по вашему выбору. И, если вы готовы к этому, я позволю другим присутствующим здесь фанатам сделать такое же предложение. Мы получаем отличную книгу и вместе собираем немного денег на стоящее дело. Беспроигрышный вариант.  
 
 Еще больше
-[** 30 марта 2011 года, 7:21 утра**](/posts/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
+[** 30 марта 2011 года, 7:21 утра**](/fred-pohl/2011-03-19-volcanic-terrorism-all-the-lives-he-led-due-out-in-april/)
 
 [WordPress](https://web.archive.org/web/20170707014906/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707014906/http://dicksmithsoftware.com/)

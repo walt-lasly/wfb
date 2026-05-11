@@ -4,9 +4,9 @@ date: 2011-05-14
 categories: ["Miscellaneous"]
 tags: ["Mark Ciavarella"]
 archive_url: "https://web.archive.org/web/20220301000000/http://www.thewaythefutureblogs.com/2011/05/here-come-da-judge/"
-prev_post_url: "/posts/2011-05-13-how-boeing-almost-went-broke/"
+prev_post_url: "/fred-pohl/2011-05-13-how-boeing-almost-went-broke/"
 prev_post_title: "How Boeing Almost Went Broke"
-next_post_url: "/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/"
+next_post_url: "/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/"
 next_post_title: "Sigfrid von Shrink Builders Wanted"
 translated: false
 ---
@@ -49,17 +49,17 @@ See why they say justice is blind?
 - Liam Hegarty says:
 Considering he was arrested in 2009 and the age of the defendants before him, I suspect that almost everyone he convicted, rightly or wrongly, has long since been released. 
 Additionally, what made this guy particularly creepy was that he dealt with juveniles only. As an ex Legal Aid lawyer in Brooklyn, NY, I cannot deny some juveniles are hard cases, but I would never call someone under 18 or 16 or whatever (I don’t know PA law) a “stone criminal.”
-[**May 16, 2011, 8:42 am**](/posts/2011-05-14-here-come-da-judge/)
+[**May 16, 2011, 8:42 am**](/fred-pohl/2011-05-14-here-come-da-judge/)
 - H. E. Parmer says:
 Prisons and hospitals are two institutions which should never be run for profit. The incentives are simply too perverse, and ultimately destructive of civil society.
 I’m hardly the first to notice we’re evolving a two-tiered justice system, a culture of almost complete impunity for our military, financial and political elites existing side-by-side with an increasingly draconian “zero-tolerance” regime for the rest of us. 
 But one thing I’d also like to know is, why the parents of a 10-year-old who accidentally set fire to her room, or a 13-year-old who threw a piece of meat at his mom’s boyfriend thought they had to involve the “justice” system? Even if they didn’t know the details of that judge’s racketeering, or his penchant for wildly excessive punishments, why this need to call in the authorities in situations which surely could have been handled better without them?
-[**May 16, 2011, 4:38 pm**](/posts/2011-05-14-here-come-da-judge/)
+[**May 16, 2011, 4:38 pm**](/fred-pohl/2011-05-14-here-come-da-judge/)
 - [Denis Drew](https://web.archive.org/web/20170707095523/http://www.ontodayspage.blogspot..com/) says:
 When ordered by a court officer in Illinois to remove my hat (the judge was not present) I retorted: “If you don’t have to salute the flag, you don’t have to rise when a judge walks in.  You certainly don’t have to remove your hat.”
 I should have said: “If you think this is church are you going to make the ladies wear hats?”  
 NOT recommended for the average user.  If you want to be a First Amendment “pioneer” in court you’d better be able to do quick constitutional footwork — gray hair and bifocals are an additional safety factor.
-[**May 17, 2011, 7:27 pm**](/posts/2011-05-14-here-come-da-judge/)
+[**May 17, 2011, 7:27 pm**](/fred-pohl/2011-05-14-here-come-da-judge/)
 
 [WordPress](https://web.archive.org/web/20170707095523/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707095523/http://dicksmithsoftware.com/)

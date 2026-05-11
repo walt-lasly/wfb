@@ -4,9 +4,9 @@ date: 2014-01-05
 categories: ["Books", "Personal"]
 tags: ["C.M. Kornbluth", "Horace L. Gold", "Kingsley Amis", "Publishing", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20180501000000/http://www.thewaythefutureblogs.com/2014/01/the-story-of-the-space-merchants-part-5/"
-prev_post_url: "/posts/2014-01-02-mother-love-and-the-threat-of-global-warming/"
+prev_post_url: "/fred-pohl/2014-01-02-mother-love-and-the-threat-of-global-warming/"
 prev_post_title: "Mother Love and the Threat of Global Warming"
-next_post_url: "/posts/2014-01-07-some-words-in-english-about-english-words/"
+next_post_url: "/fred-pohl/2014-01-07-some-words-in-english-about-english-words/"
 next_post_title: "Some Words in English About English Words"
 translated: false
 translator: "Yandex"
@@ -31,7 +31,7 @@ translator: "Yandex"
 Пришло время для [нового издания](https://web.archive.org/web/20160416223651/http://www.amazon.com/gp/product/1250000157/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1250000157&linkCode=as2&tag=twtfb-20)!  Некоторые торговые марки утратили свою актуальность — сколько людей в наши дни владеют Kelvinator или ездят на Nash? — но заменить эти названия на более современные было несложно.
 
 
-Единственной вещи, которая сделала бы всю работу проще и намного веселее, с нами больше не было.  Это было присутствие самого [**Сирила Корнблата**](/posts/2009-04-20-cyril/), вечно изящного в использовании слов и еще более достоверно сардонического в своем понимании мира, в котором мы живем.
+Единственной вещи, которая сделала бы всю работу проще и намного веселее, с нами больше не было.  Это было присутствие самого [**Сирила Корнблата**](/fred-pohl/2009-04-20-cyril/), вечно изящного в использовании слов и еще более достоверно сардонического в своем понимании мира, в котором мы живем.
 
 
 * * *
@@ -48,7 +48,7 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** История о Торговцах Космосом(The Space Merchants)**, [**Часть 1**](/posts/2013-12-18-the-story-of-the-space-merchants/), [** Часть 2**](/posts/2013-12-23-the-story-of-the-space-merchants-part-2/), [** Часть 3**](/posts/2013-12-26-the-story-of-the-space-merchants-part-3/), [часть 4](https://web.archive.org/web/20160416223651/http://www.thewaythefutureblogs.com/?p=6096)
+- ** История о Торговцах Космосом(The Space Merchants)**, [**Часть 1**](/fred-pohl/2013-12-18-the-story-of-the-space-merchants/), [** Часть 2**](/fred-pohl/2013-12-23-the-story-of-the-space-merchants-part-2/), [** Часть 3**](/fred-pohl/2013-12-26-the-story-of-the-space-merchants-part-3/), [часть 4](https://web.archive.org/web/20160416223651/http://www.thewaythefutureblogs.com/?p=6096)
 
 
 ### 2 Комментария
@@ -58,10 +58,10 @@ translator: "Yandex"
 —  
 
 - Алан
-[**5 января 2014 года, 11:20 вечера**](/posts/2014-01-05-the-story-of-the-space-merchants-part-5/)
+[**5 января 2014 года, 11:20 вечера**](/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/)
 - Дэвид говорит:
 Я рад, что ты все-таки выкладываешь новые фрагменты. В последние месяцы я время от времени останавливался в надежде на большее, но я просто видел сообщение с черной каймой вверху и думал: “Ну и ладно”.
-[**7 января 2014 года, 10:10 вечера**](/posts/2014-01-05-the-story-of-the-space-merchants-part-5/)
+[**7 января 2014 года, 10:10 вечера**](/fred-pohl/2014-01-05-the-story-of-the-space-merchants-part-5/)
 
 [WordPress](https://web.archive.org/web/20160416223651/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416223651/http://dicksmithsoftware.com/)

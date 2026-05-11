@@ -4,9 +4,9 @@ date: 2009-03-22
 categories: ["Personal"]
 tags: ["Cooking", "Food"]
 archive_url: "https://web.archive.org/web/20090327080022/http://www.thewaythefutureblogs.com/2009/03/gracious-dining/"
-prev_post_url: "/posts/2009-03-20-me-and-the-biz-part-ii-continued/"
+prev_post_url: "/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/"
 prev_post_title: "Me and the Biz, Part II (continued)"
-next_post_url: "/posts/2009-03-26-judgment-day-the-cruise/"
+next_post_url: "/fred-pohl/2009-03-26-judgment-day-the-cruise/"
 next_post_title: "Judgment Day: The Cruise"
 translated: false
 translator: "Yandex"
@@ -36,21 +36,21 @@ translator: "Yandex"
 
 - [Стивен Питерс](https://web.archive.org/web/20090327080022/http://poptrope.blogspot.com/) говорит:
 Это не только вкусно звучит, но и похоже на то, что парень мог бы приготовить самостоятельно, не спалив кухню дотла.
-[** 22 марта 2009, 18:45 вечера**](/posts/2009-03-22-gracious-dining/)
+[** 22 марта 2009, 18:45 вечера**](/fred-pohl/2009-03-22-gracious-dining/)
 - А. говорит:
 Один кошерный франк, как в хот-доге или сосиске?  Простите меня, если ответ очевиден, но я не спала всю ночь, и мне бы очень хотелось попробовать этот рецепт.
-[** 23 марта 2009 года, 7:14 утра**](/posts/2009-03-22-gracious-dining/)
+[** 23 марта 2009 года, 7:14 утра**](/fred-pohl/2009-03-22-gracious-dining/)
 - [Джефф](https://web.archive.org/web/20090327080022/http://jeffcrook.blogspot.com/) говорит:
 Ух ты, одна целая луковица! Вот что придает этому блюду такой приятный вкус. Вы, должно быть, любите лук.
 Это простые вещи. В эти выходные я приготовила большую кастрюлю говяжьего бульона - для супа или в качестве ингредиента для других блюд, - но я могла бы пить бульон неразбавленным, ложкой по желанию. Моя жена говорит, что, по ее мнению, я становлюсь японцем.
-[** 23 марта 2009 года, 11:34 утра**](/posts/2009-03-22-gracious-dining/)
+[** 23 марта 2009 года, 11:34 утра**](/fred-pohl/2009-03-22-gracious-dining/)
 - [команда блога](https://web.archive.org/web/20090327080022/http://thewaythefutureblogs.com/) говорит:
 О.: Да, откровенный, как во франкфуртерской колбасе. Только не Барни.
 Если кто-нибудь попытается это сделать, пожалуйста, сообщите об этом. Бетти говорит: “Это мерзко”.
-[** 23 марта 2009, 15:04**](/posts/2009-03-22-gracious-dining/)
+[** 23 марта 2009, 15:04**](/fred-pohl/2009-03-22-gracious-dining/)
 - А. говорит:
 Ты только еще больше сбил меня с толку.  ЛОЛ
-[**24 марта 2009, 17:45 вечера**](/posts/2009-03-22-gracious-dining/)
+[**24 марта 2009, 17:45 вечера**](/fred-pohl/2009-03-22-gracious-dining/)
 
 [WordPress](https://web.archive.org/web/20090327080022/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090327080022/http://dicksmithsoftware.com/)

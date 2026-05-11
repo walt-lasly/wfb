@@ -4,9 +4,9 @@ date: 2013-12-20
 categories: ["Miscellaneous"]
 tags: ["Dave Wolverton", "Isaac Asimov", "Matt Novak", "Orson Scott Card", "Predictions"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2013/12/frederik-poh-time-capsule/"
-prev_post_url: "/posts/2013-12-19-my-first-blog-post-in-a-long-time/"
+prev_post_url: "/fred-pohl/2013-12-19-my-first-blog-post-in-a-long-time/"
 prev_post_title: "My First Blog Post in a Long Time"
-next_post_url: "/posts/2013-12-21-trust-and-fear/"
+next_post_url: "/fred-pohl/2013-12-21-trust-and-fear/"
 next_post_title: "Trust and Fear"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="1987-Pohl_Wolverton-WoTF.jpg" alt="Frederik Pohl and Dave Wolverton, 1987." caption="Fred with Dave Wolverton at the 1987 Writers of the Future Awards." >}}
 
 
-В [Paleofuture](https://web.archive.org/web/20160416221612/http://paleofuture.gizmodo.com/rip-sci-fi-author-frederik-pohl-his-1987-predictions-f-1241239510), Мэтт Новак появился письме Фрэд писал на 1987 [**писатели будущего**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/) капсула времени. Новак пишет:
+В [Paleofuture](https://web.archive.org/web/20160416221612/http://paleofuture.gizmodo.com/rip-sci-fi-author-frederik-pohl-his-1987-predictions-f-1241239510), Мэтт Новак появился письме Фрэд писал на 1987 [**писатели будущего**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/) капсула времени. Новак пишет:
 
 &gt; “Один из прогнозов был от пола, к которому я обратился по электронной почте, чтобы спросить о его письме в будущее. Там было более десятка писем в капсулу времени с людьми, как Орсон Скотт Кард и Айзек Азимов. Но это был Поль письмо, что действительно привлекло мое внимание, потому что он намекнул на скептицизм окружающих весь практика прогнозирования, в частности, справки с работы холодного читатели и прочих шарлатанов, которые считают, что они могут смотреть в будущее с уверенностью”.
 

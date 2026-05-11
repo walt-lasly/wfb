@@ -4,9 +4,9 @@ date: 2010-12-15
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Editors", "Futurians", "Judith Merril", "Mike Tilden", "Prozines", "Pulps", "Scott Meredith"]
 archive_url: "https://web.archive.org/web/20110201000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-8-spymaster/"
-prev_post_url: "/posts/2010-12-14-cordwainer-smith-the-ballad-of-lost-linebarger-part-2/"
+prev_post_url: "/fred-pohl/2010-12-14-cordwainer-smith-the-ballad-of-lost-linebarger-part-2/"
 prev_post_title: "Cordwainer Smith: The Ballad of Lost Linebarger, Part 2"
-next_post_url: "/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
+next_post_url: "/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
 next_post_title: "Mary Kornbluth, Part 2: The Death of Cyril"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![Secret Squirrel](squirrel.gif)
 
-У меня есть еще одна маленькая история, которую я хочу рассказать вам о наших [** Войнах за опеку**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), и тогда мы сможем навсегда оставить эту неприятную тему.  Это касается того, как Джуди смогла заставить людей, которые должны были сохранять нейтралитет, заявить о своей лояльности по отношению к ней.
+У меня есть еще одна маленькая история, которую я хочу рассказать вам о наших [** Войнах за опеку**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), и тогда мы сможем навсегда оставить эту неприятную тему.  Это касается того, как Джуди смогла заставить людей, которые должны были сохранять нейтралитет, заявить о своей лояльности по отношению к ней.
 
 
 Однажды я работал в своем литературном агентстве на Пятой авеню, когда открылась дверь и вошел человек по имени Сэм.  (На самом деле его звали не Сэм, но я не вижу причин говорить вам, как его звали на самом деле, хотя вокруг довольно много людей, которым не составило бы труда догадаться об этом.) Сэм сказал, что причина, по которой он пришел, заключалась в том, что он работал в агентстве [Скотта Мередита](https://web.archive.org/web/20150921185203/http://www.scottmeredith.com/pages/history.html), Скотт был его уволили, и ему нужна была работа.  Хотел бы я нанять его?
@@ -67,14 +67,14 @@ translator: "Yandex"
 
 **Связанные должности:**  
 
-** Джудит Меррил,** [** Часть 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [** Часть 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [** Часть 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [** Часть 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Часть 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Часть 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+** Джудит Меррил,** [** Часть 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [** Часть 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [** Часть 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [** Часть 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Часть 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [**Часть 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### Один комментарий
 
 - [Стефан Джонс](https://web.archive.org/web/20150921185203/http://www.flickr.com/photos/stefan_e_jones/) говорит:
 Я представляю, как тяжело пересказывать все это, но именно из этого состоят великие и честные биографии.
-[**15 декабря 2010, 10:46 вечера**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
+[**15 декабря 2010, 10:46 вечера**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
 
 [WordPress](https://web.archive.org/web/20150921185203/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150921185203/http://dicksmithsoftware.com/)

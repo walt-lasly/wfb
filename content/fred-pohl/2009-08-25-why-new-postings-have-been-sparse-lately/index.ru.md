@@ -4,9 +4,9 @@ date: 2009-08-25
 categories: ["Books", "Personal", "Writing"]
 tags: ["Arthur C. Clarke", "Medicine", "The Last Theorem"]
 archive_url: "https://web.archive.org/web/20091002095642/http://www.thewaythefutureblogs.com/2009/08/why-new-postings-have-been-sparse-lately/"
-prev_post_url: "/posts/2009-08-17-little-known-fun-facts/"
+prev_post_url: "/fred-pohl/2009-08-17-little-known-fun-facts/"
 prev_post_title: "Little Known Fun Facts"
-next_post_url: "/posts/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
+next_post_url: "/fred-pohl/2009-08-25-fred-s-distilled-writing-wisdom-part-1/"
 next_post_title: "Fred’s Distilled Writing Wisdom, Part 1"
 translated: false
 translator: "Gemini"
@@ -34,42 +34,42 @@ translator: "Gemini"
 
 - [J M Hamlow](https://web.archive.org/web/20091002095642/http://www.spiritofsalt.com/) пишет:
 Ну, это самое захватывающее, что я читал в интернете за долгое время! Я люблю читать, как писатели пишут о своем ремесле.
-[**25 августа 2009 г., 1:49**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 1:49**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - Hamish пишет:
 Отлично — я *очень* жду этого
-[**25 августа 2009 г., 3:27**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 3:27**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Keith Graham](https://web.archive.org/web/20091002095642/http://www.cthreepo.com/blog) пишет:
 Мистер Пол,
 Большинство книг о писательстве охватывают одни и те же основы того, как писать слова на бумаге (или пикселях), а те, что выделяются, имеют отличные главы о личном опыте. Мне нравятся истории о первых продажах, первых отказах, взаимодействиях с редакторами, сотрудничестве, действительно плохих историях, которые были опубликованы, и действительно отличных историях, которые не были. Именно такие анекдоты заставляют меня читать ваш блог. Истории о становлении писателем лучше эссе о том, как писать.
 Советы по персонажам, сюжету и построению мира — это здорово, но держите их личными и старайтесь связать с вашими собственными романами, рассказами и карьерой. Как вы говорите, существует большое количество действительно хороших книг о том, как писать жанровую литературу. Однако нет ни одной книги Фредерика Пола о том, как стать писателем.
 Кит
-[**25 августа 2009 г., 9:12**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 9:12**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Ken Houghton](https://web.archive.org/web/20091002095642/http://angrybear.blogspot.com/) пишет:
 И я вижу из блога Майкла Свонвика, что вы закончили школу! Поздравляю и спасибо за пример.
-[**25 августа 2009 г., 9:57**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 9:57**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Jeff](https://web.archive.org/web/20091002095642/http://jeffcrook.blogspot.com/) пишет:
 Спасибо, что не написали книгу о писательстве. Я никогда не покупал ни одной, потому что думаю, что они написаны скорее для людей, которые влюблены в идею быть писателем, чем для тех, кто действительно пишет.
 Тем не менее, мне говорили, что я довольно хорош в мотивации людей писать.
 Теперь книга о том, как быть опубликованным, если бы она содержала волшебную формулу — вот это я бы купил.
-[**25 августа 2009 г., 10:14**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 10:14**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Jeremy Neiman](https://web.archive.org/web/20091002095642/http://memoryleak.co.cc/) пишет:
 Тоже был занят, наконец-то закончил школу, судя по всему. Думаю, это делает вас моим коллегой по выпуску Бруклинской Технической школы 2009 года. Поздравляю!
-[**25 августа 2009 г., 10:36**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 10:36**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [sm](https://web.archive.org/web/20091002095642/http://tinyurl.com/avjvz/) пишет:
 Рад видеть вас снова здесь.
-[**25 августа 2009 г., 10:39**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 10:39**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - [Robert Nowall](https://web.archive.org/web/20091002095642/http://www.robertnowall.com/) пишет:
 Я рад это слышать. Кроме того, в НФ так мало того, что заставляет меня покупать книгу в наши дни — я покупаю книги в других разделах — я бы с удовольствием увидел что-то вроде «как это сделать» от мастера своего дела. (И не только потому, что я все еще пытаюсь понять, как это сделать после тридцати с лишним лет попыток.)
-[**25 августа 2009 г., 13:14**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 13:14**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - Al Bogdan пишет:
 Хорошо слышать, что вы вернулись к этому! Буду читать.
-[**25 августа 2009 г., 18:37**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**25 августа 2009 г., 18:37**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 - Ron пишет:
 Мистер Пол,
 Я просто хотел поблагодарить вас за все ваши замечательные романы, которые вы написали. Ваши книги всегда отличались умением балансировать тайну, стратегию, острые ощущения и развитие персонажей. Я очень хотел бы, чтобы один из ваших больших романов, таких как «Врата», «Другой конец времени» или «Мир на краю времени», был экранизирован. Я нашел сюжеты этих романов очень интересными и уникальными.
 Спасибо за бесконечные часы развлечений, которые принесли мне ваши романы!
 Рон
-[**6 сентября 2009 г., 23:03**](/posts/2009-08-25-why-new-postings-have-been-sparse-lately/)
+[**6 сентября 2009 г., 23:03**](/fred-pohl/2009-08-25-why-new-postings-have-been-sparse-lately/)
 
 [WordPress](https://web.archive.org/web/20091002095642/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002095642/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2014-05-12
 categories: ["Betty's Posts", "Writing"]
 tags: ["Academics", "Elizabeth Anne Hull", "Kush Sharma", "Sophia Hoffman", "World War II"]
 archive_url: "https://web.archive.org/web/20190301000000/http://www.thewaythefutureblogs.com/2014/05/the-future-of-pronouns/"
-prev_post_url: "/posts/2014-04-24-an-ill-wind-blows-no-power-eastward/"
+prev_post_url: "/fred-pohl/2014-04-24-an-ill-wind-blows-no-power-eastward/"
 prev_post_title: "An Ill Wind Blows No Power Eastward"
-next_post_url: "/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/"
+next_post_url: "/fred-pohl/2014-06-27-frederik-pohl-memorial-celebration-aug-2/"
 next_post_title: "Frederik Pohl Memorial Celebration, Aug. 2"
 translated: false
 ---
@@ -72,7 +72,7 @@ The “rule” is, I think, the first — certainly the most salient — of the 
 I used to always quote Ann Bodine’s 1975 article “Androcentrisism in Prescriptive Grammar: Singular ‘they,” Sex-indefinite ‘he,’ and ‘he or she'” from _Language in Society_ 4: 129-46. Now I quote Anne Curzan’s _Gender Shifts in the History of English_ (Cambridge UP 2012). I never mention my own book on the subject. That would be wrong.
 Recognizing the value of conformity. Wanting to be like everyone else. Wanting to fit in and obey the rules, which rules should I choose? I could care less, but the rule makers tell me I couldn’t possibly and so what to do? what to do?
 If nine x five is 45, I must be sentient.
-[**May 14, 2014, 4:04 pm**](/posts/2014-05-12-the-future-of-pronouns/)
+[**May 14, 2014, 4:04 pm**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - [Dan Gollub](https://web.archive.org/web/20160416142116/http://www.dreampattern.com/) says:
 Your blog helped inspire the following poem.  
 
@@ -101,16 +101,16 @@ Thinks there should be a better pronoun than his/her and he/she
 Awakens in the morning and is conscious and alive  
 
 Is that person you?
-[**May 19, 2014, 5:34 am**](/posts/2014-05-12-the-future-of-pronouns/)
+[**May 19, 2014, 5:34 am**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - Elizabeth Hull says:
 You made me laugh, Virginia.  I’m planning to be in Lawrence for the Campbell Awards next week; any chance you will be there?  It would be great to see you there, or at Fred’s memorial service, if you can make that.  Betty
-[**June 6, 2014, 9:42 pm**](/posts/2014-05-12-the-future-of-pronouns/)
+[**June 6, 2014, 9:42 pm**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - Elizabeth Hull says:
 Dan, I hope to see you at the memorial service as well.  Betty
-[**June 6, 2014, 9:44 pm**](/posts/2014-05-12-the-future-of-pronouns/)
+[**June 6, 2014, 9:44 pm**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 - Steve Leavell says:
 If I may ask–Any news on a revision/expansion/sequel to The Way the Future Was?
-[**June 12, 2014, 5:25 am**](/posts/2014-05-12-the-future-of-pronouns/)
+[**June 12, 2014, 5:25 am**](/fred-pohl/2014-05-12-the-future-of-pronouns/)
 
 [WordPress](https://web.archive.org/web/20160416142116/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416142116/http://dicksmithsoftware.com/)

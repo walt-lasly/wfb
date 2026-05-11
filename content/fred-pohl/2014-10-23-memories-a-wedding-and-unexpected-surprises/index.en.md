@@ -4,9 +4,9 @@ date: 2014-10-23
 categories: ["Betty's Posts", "Personal"]
 tags: ["Christine Wintczak", "Elizabeth Anne Hull", "Fanzines", "Joseph McElwee", "Melissa Claussen", "Steve Claussen"]
 archive_url: "https://web.archive.org/web/20130101000000/http://www.thewaythefutureblogs.com/2014/10/memories-a-wedding-and-unexpected-surprises/"
-prev_post_url: "/posts/2014-09-15-the-circle-a-book-for-2014-and-beyond-a-review/"
+prev_post_url: "/fred-pohl/2014-09-15-the-circle-a-book-for-2014-and-beyond-a-review/"
 prev_post_title: "The Circle: A book for 2014 and beyond, a review"
-next_post_url: "/posts/2014-10-24-the-famous-wedding-garter/"
+next_post_url: "/fred-pohl/2014-10-24-the-famous-wedding-garter/"
 next_post_title: "The Famous Wedding Garter"
 translated: false
 ---
@@ -43,10 +43,10 @@ In particular, Steve Claussen really put the icing on the cake for me.  (Steve a
 - Mike Page says:
 Betty,
 Thanks so much for the shout-out.  The book is approaching the production phase and hopefully will be released sometime next year in the University of Illinois’ “Modern Masters of Science Fiction” series.
-[**October 23, 2014, 11:21 pm**](/posts/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
+[**October 23, 2014, 11:21 pm**](/fred-pohl/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
 - [Dan Gollub](https://web.archive.org/web/20160416222829/http://www.dreampattern.com/) says:
 I admired Mr. Pohl for, among other reasons, his concern for the well being of the planetary ecosystem. I read in Science News that the drought in California likely will continue because El Nino won’t come to its rescue. The winds that blow across the Pacific toward California haven’t been strong enough to stir up El Nino. Is there any way to create those stronger winds? If Mr. Pohl were alive, I’d be curious whether and how he might respond to that topic.
-[**October 30, 2014, 1:19 pm**](/posts/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
+[**October 30, 2014, 1:19 pm**](/fred-pohl/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
 
 [WordPress](https://web.archive.org/web/20160416222829/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416222829/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2009-06-01
 categories: ["Miscellaneous"]
 tags: ["Anita Hill", "Arlen Specter", "Clarence Thomas", "Politics"]
 archive_url: "https://web.archive.org/web/20090723071203/http://www.thewaythefutureblogs.com/2009/06/welcome-we-think-senator-arlen-specter-d-pa/"
-prev_post_url: "/posts/2009-05-30-caturday/"
+prev_post_url: "/fred-pohl/2009-05-30-caturday/"
 prev_post_title: "Caturday"
-next_post_url: "/posts/2009-06-04-i-m-photic-how-are-you/"
+next_post_url: "/fred-pohl/2009-06-04-i-m-photic-how-are-you/"
 next_post_title: "I’m Photic, How Are You?"
 translated: false
 translator: "DeepL"
@@ -42,13 +42,13 @@ translator: "DeepL"
 - [Роберт Новалл](https://web.archive.org/web/20090723071203/http://www.robertnowall.com/) сказал:
 Подумай об Арлене Спектере по-другому: его позиции подорвали его поддержку среди республиканцев, и он увидел, что проиграет партийную номинацию в следующий раз, поэтому *switcheroo* он теперь демократ.
 Пусть тебе с ним повезет больше.
-[**June 1, 2009, 1:21 pm**](/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
+[**June 1, 2009, 1:21 pm**](/fred-pohl/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
 - [Todd Mason](https://web.archive.org/web/20090723071203/http://www.socialistjazz.blogspot.com/) сказал:
 Спектер в принципе знает, где его хлеб с маслом... всегда готовый поднять шум, выступая против более нелепых инициатив GOP, он обычно в конце концов падал в строй и голосовал по партийной линии.  Кроме того, однажды мы были в одном спортзале и раздевалке в одно и то же время... Если бы мне пришлось выбирать, кого из сенаторов США я увижу в естественной обстановке, Спектер не стал бы моим первым выбором, даже если бы у меня был скудный выбор.
-[**June 3, 2009, 7:19 pm**](/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
+[**June 3, 2009, 7:19 pm**](/fred-pohl/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
 - [Jeff](https://web.archive.org/web/20090723071203/http://jeffcrook.blogspot.com/) сказал:
 Когда я думаю об Арлене Спектере, я не могу не думать о волшебной пуле, которую он изобрел.
-[**June 4, 2009, 12:10 pm**](/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
+[**June 4, 2009, 12:10 pm**](/fred-pohl/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
 
 [WordPress](https://web.archive.org/web/20090723071203/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090723071203/http://dicksmithsoftware.com/)

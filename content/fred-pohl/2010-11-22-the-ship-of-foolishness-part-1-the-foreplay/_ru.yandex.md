@@ -4,9 +4,9 @@ date: 2010-11-22
 categories: ["Space", "Travel"]
 tags: ["Carl Sagan", "Conventions", "Isaac Asimov", "Katherine Anne Porter", "Moon", "NASA", "Norman Mailer", "Robert A. Heinlein", "Theodore Sturgeon", "Walter Cronkite", "Worldcons"]
 archive_url: "https://web.archive.org/web/20140501000000/http://www.thewaythefutureblogs.com/2010/11/the-ship-of-foolishness-part-1-the-foreplay/"
-prev_post_url: "/posts/2010-11-21-what-fogbanks-cost/"
+prev_post_url: "/fred-pohl/2010-11-21-what-fogbanks-cost/"
 prev_post_title: "What Fogbanks Cost"
-next_post_url: "/posts/2010-11-23-the-ship-of-foolishness-part-2/"
+next_post_url: "/fred-pohl/2010-11-23-the-ship-of-foolishness-part-2/"
 next_post_title: "The Ship of Foolishness, Part 2"
 translated: false
 translator: "Yandex"
@@ -43,7 +43,7 @@ translator: "Yandex"
 
 Это было немного сложнее, чем казалось на первый взгляд.  Лос-Анджелес - один из самых разросшихся городов, и, хотя отель "конвент" находился рядом с аэропортом, трем интриганам было все ясно с другой стороны, в гораздо более классном отеле Century Plaza в Сенчури-Сити.  И все же я хотел их увидеть, и, кроме того, по опыту знал, что мне нравилось обедать в ресторанах Century Plaza.  Поэтому я изменил несколько пунктов в своем расписании Ворлдкона и проехал на арендованной машине через весь Лалаленд, чтобы присоединиться к Джеку, Джо и Джиму за очень веселым ланчем.
 
-По их словам, все шло великолепно.  Они работали со списком приглашенных.  [** Приезжал Роберт Хайнлайн**](/posts/2010-05-03-working-with-robert-a-heinlein/), и [Тед Старджон](https://web.archive.org/web/20141009145836/http://www.gcwillick.com/Spacelight/sturgeon.html), и [** Айзек Азимов**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) и по меньшей мере дюжина других ведущих писателей-фантастов, сказал Джо.  И другие знаменитости тоже, добавил Джек, такие люди, как [Карл Саган](https://web.archive.org/web/20141009145836/http://www.carlsagan.com/), [Норман Мейлер](https://web.archive.org/web/20141009145836/http://normanmailersociety.org/about/) и [Кэтрин Энн Портер](https://web.archive.org/web/20141009145836/http://www.lib.umd.edu/Guests/KAP/), чей роман "[Корабль дураков](https://web.archive.org/web/20141009145836/http://www.amazon.com/gp/product/0848811291?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0848811291)" 1962 года произвел фурор в издательском мире (приглашение вызвало немало шуток со стороны Джима и Джо, когда Джек упомянул название).
+По их словам, все шло великолепно.  Они работали со списком приглашенных.  [** Приезжал Роберт Хайнлайн**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), и [Тед Старджон](https://web.archive.org/web/20141009145836/http://www.gcwillick.com/Spacelight/sturgeon.html), и [** Айзек Азимов**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) и по меньшей мере дюжина других ведущих писателей-фантастов, сказал Джо.  И другие знаменитости тоже, добавил Джек, такие люди, как [Карл Саган](https://web.archive.org/web/20141009145836/http://www.carlsagan.com/), [Норман Мейлер](https://web.archive.org/web/20141009145836/http://normanmailersociety.org/about/) и [Кэтрин Энн Портер](https://web.archive.org/web/20141009145836/http://www.lib.umd.edu/Guests/KAP/), чей роман "[Корабль дураков](https://web.archive.org/web/20141009145836/http://www.amazon.com/gp/product/0848811291?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0848811291)" 1962 года произвел фурор в издательском мире (приглашение вызвало немало шуток со стороны Джима и Джо, когда Джек упомянул название).
 
 - И, ” вставил Джо, одарив меня ухмылкой, - конечно, каждый приводит с собой свою жену, или мужа, или главную подружку.  И мы все в восторге от всего круиза, любезно предоставленного компанией "Холланд Америка".  В твоем случае, Фред, тебе даже не нужно беспокоиться о стоимости авиабилета, потому что ты живешь недалеко от Нью-Йорка, и именно там начинается и заканчивается этот круиз.”
 
@@ -71,19 +71,19 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Корабль глупости,** [** Часть 2**](/posts/2010-11-23-the-ship-of-foolishness-part-2/), [** Часть 3**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
-- [** Жены (и приводы) Роберта Хайнлайна, часть 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
-- [** Исаак, часть 7**](/posts/2010-11-15-isaac-part-7/)
+- ** Корабль глупости,** [** Часть 2**](/fred-pohl/2010-11-23-the-ship-of-foolishness-part-2/), [** Часть 3**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+- [** Жены (и приводы) Роберта Хайнлайна, часть 1**](/fred-pohl/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [** Исаак, часть 7**](/fred-pohl/2010-11-15-isaac-part-7/)
 
 ### 2 Комментария
 
 - Том Гэллоуэй говорит:
 Одна небольшая поправка; в то время как "Аполлон-17" действительно стартовал 7 декабря, а именно в 00:33, первоначально его запуск был запланирован как первый ночной запуск 6 декабря незадолго до 22:00. Запуск был отложен на 2 часа 40 минут, что перенесло его на раннее утро следующего дня. Полная информация по адресу [http://history.nasa.gov/SP-4029/Apollo_17a_Summary.htm](https://web.archive.org/web/20141009145836/http://history.nasa.gov/SP-4029/Apollo_17a_Summary.htm)
 Почему я это помню? Потому что в детстве я был большим помешанным на космосе, и эти несколько часов ожидания означали, что запуск в конечном итоге состоялся в мой день рождения. Лучший неожиданный и непреднамеренный подарок на свете. : -)
-[** 23 ноября 2010 года, 3:06 утра**](/posts/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
+[** 23 ноября 2010 года, 3:06 утра**](/fred-pohl/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
 - [Тамфанг](https://web.archive.org/web/20141009145836/http://ogre.nu/) говорит:
 Пожив в Лос-Анджелесе, я посмеиваюсь, описывая аэропорт Сенчури-Сити как “проходной” практически по всему.
-[** 13 января 2011 года, 1:38 утра**](/posts/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
+[** 13 января 2011 года, 1:38 утра**](/fred-pohl/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
 
 [WordPress](https://web.archive.org/web/20141009145836/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20141009145836/http://dicksmithsoftware.com/)

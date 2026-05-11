@@ -4,9 +4,9 @@ date: 2012-06-15
 categories: ["Miscellaneous"]
 tags: ["Agriculture", "Food", "Politics"]
 archive_url: "https://web.archive.org/web/20160416230121/http://www.thewaythefutureblogs.com/2012/06/about-the-farm-bill/"
-prev_post_url: "/posts/2012-06-12-the-bradbury-chronicles-conclusion/"
+prev_post_url: "/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/"
 prev_post_title: "The Bradbury Chronicles: Conclusion"
-next_post_url: "/posts/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/"
+next_post_url: "/fred-pohl/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/"
 next_post_title: "So long, Jay Kay: Cons Won’t Be the Same Without You"
 translated: false
 ---
@@ -39,25 +39,25 @@ If you feel moved to write your congressman about this, all you need say is “s
 
 - [Leah A. Zeldes](https://web.archive.org/web/20160416230121/http://www.zeldes.comm/) says:
 Even more worrisome are devastating cuts to food stamps that are part of the bill. [http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html](https://web.archive.org/web/20160416230121/http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html)
-[**June 15, 2012, 1:18 pm**](/posts/2012-06-15-about-the-farm-bill/)
+[**June 15, 2012, 1:18 pm**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - [Larry Sanderson](https://web.archive.org/web/20160416230121/http://lsanderson.net/) says:
 Hey! I like my farm subsidies! Besides, you can’t grow no greens in NoDak…
-[**June 16, 2012, 9:40 am**](/posts/2012-06-15-about-the-farm-bill/)
+[**June 16, 2012, 9:40 am**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - Howard Brazee says:
 The farm bill is not about food, it is about Big Business which buys politicians. 
 (Competing with other Big Business)
-[**June 18, 2012, 7:36 am**](/posts/2012-06-15-about-the-farm-bill/)
+[**June 18, 2012, 7:36 am**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - John says:
 Can we just stop with the darn subsidies?
-[**June 19, 2012, 1:02 pm**](/posts/2012-06-15-about-the-farm-bill/)
+[**June 19, 2012, 1:02 pm**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - John Behnken says:
 Right on, Mr. Pohl.  Already done.  
 
 We might also mention that the majority of corn that is grown goes to feed cows and grow them BIG, which produces BIG beef.   We should let the cows eat grass, like they were born to do, and use the unsubsidized corn industry to feed people.  One might even say that the corn subsidy is truly a beef subsidy. But that sounds too much like a conspiracy.  
-[**June 21, 2012, 9:17 am**](/posts/2012-06-15-about-the-farm-bill/)
+[**June 21, 2012, 9:17 am**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - [Eric](https://web.archive.org/web/20160416230121/http://orbitalmass.com/) says:
 I read your books in an attempt to avoid thinking about the horrible decline of American politics. It works quite marvelously in the short term.
-[**July 21, 2012, 12:41 pm**](/posts/2012-06-15-about-the-farm-bill/)
+[**July 21, 2012, 12:41 pm**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 
 [WordPress](https://web.archive.org/web/20160416230121/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416230121/http://dicksmithsoftware.com/)

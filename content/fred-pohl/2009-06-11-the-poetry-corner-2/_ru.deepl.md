@@ -4,9 +4,9 @@ date: 2009-06-11
 categories: ["Authors", "Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Fanzines", "Poetry"]
 archive_url: "https://web.archive.org/web/20090821145736/http://www.thewaythefutureblogs.com/2009/06/the-poetry-corner-2/"
-prev_post_url: "/posts/2009-06-07-more-fine-dining/"
+prev_post_url: "/fred-pohl/2009-06-07-more-fine-dining/"
 prev_post_title: "More Fine Dining"
-next_post_url: "/posts/2009-06-15-r-i-p-walter-schneir/"
+next_post_url: "/fred-pohl/2009-06-15-r-i-p-walter-schneir/"
 next_post_title: "R.I.P. Walter Schneir"
 translated: false
 translator: "DeepL"
@@ -54,18 +54,18 @@ Gym Class
 
 - [Шакатаны](https://web.archive.org/web/20090821145736/http://shakatany.livejournal.com/) говорит:
 aureuscid????
-[**June 11, 2009, 9:39 am**](/posts/2009-06-11-the-poetry-corner-2/)
+[**June 11, 2009, 9:39 am**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 - [Stefan Jones](https://web.archive.org/web/20090821145736/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) говорит:
 Мне нравится фрагмент "Gym Class". Оно заставляет меня думать о чокнутой детской фантастике Дэниела Пинкуотера.
 Я предполагаю, что это авторское произведение... есть ли место, где можно попросить разрешения использовать его?
-[**June 11, 2009, 12:08 pm**](/posts/2009-06-11-the-poetry-corner-2/)
+[**June 11, 2009, 12:08 pm**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 - Бад Вебстер сказал:
 Я так рад, что вы не остановились на этом.
-[**15 июня 2009, 2:54 am**](/posts/2009-06-11-the-poetry-corner-2/)
+[**15 июня 2009, 2:54 am**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 - Гэри Фарбер сказал:
 "Первый из самых маленьких фэнзинов, которые когда-либо издавались"
 Боб Такер издавал фэнзин с открытками.
-[**7 июля 2009, 11:12 am**](/posts/2009-06-11-the-poetry-corner-2/)
+[**7 июля 2009, 11:12 am**](/fred-pohl/2009-06-11-the-poetry-corner-2/)
 
 [WordPress](https://web.archive.org/web/20090821145736/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090821145736/http://dicksmithsoftware.com/)

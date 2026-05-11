@@ -4,9 +4,9 @@ date: 2009-01-07
 categories: ["Books", "Personal"]
 tags: []
 archive_url: "https://web.archive.org/web/20090123052955/http://thewaythefutureblogs.com/2009/01/nice-to-meet-you/"
-prev_post_url: "/posts/2009-01-05-sir-arthur-and-i/"
+prev_post_url: "/fred-pohl/2009-01-05-sir-arthur-and-i/"
 prev_post_title: "Sir Arthur and I"
-next_post_url: "/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/"
+next_post_url: "/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/"
 next_post_title: "Greetings from N19° 44.50′ W156° 06.63′"
 translated: false
 ---
@@ -30,7 +30,7 @@ So what will I be writing about?
 Well, if you’ve ever read my experiment in autobiography, *The Way the Future Was,* you have a pretty good idea of what to expect. Very possibly you haven’t, since it’s been out of print for twenty-odd years (though I have to say that I am continually astonished by the number of battered and dog-eared copies that people produce for me to autograph every time I do a book signing.) So I’ll try to give you an idea.
 
 
-Actually, the way this blog began was for two reasons. One was that one of my editors has been coaxing me to do something of the sort for publicity purposes, but the one that tipped the scales was that I’ve been for some time toying with the idea of publishing either an expanded and updated edition of that book or a sequel to it. A big part of this will be talk about sf writers I have known — as clients when I was a literary agent, as contributors when I was editing books or magazines, as collaborators, as traveling companions over a big part of the world — which is basically all of the writers anyone has ever heard of over the last many years. (For a sample of what I mean, see “[**Sir Arthur and I**](/posts/2009-01-05-sir-arthur-and-i/).”)
+Actually, the way this blog began was for two reasons. One was that one of my editors has been coaxing me to do something of the sort for publicity purposes, but the one that tipped the scales was that I’ve been for some time toying with the idea of publishing either an expanded and updated edition of that book or a sequel to it. A big part of this will be talk about sf writers I have known — as clients when I was a literary agent, as contributors when I was editing books or magazines, as collaborators, as traveling companions over a big part of the world — which is basically all of the writers anyone has ever heard of over the last many years. (For a sample of what I mean, see “[**Sir Arthur and I**](/fred-pohl/2009-01-05-sir-arthur-and-i/).”)
 
 
 Now and then I might talk about any other subject that interests me. But there too if you aren’t interested you can skim. And in case you just wandered in on this chat and have never in your life heard of me, a condition which tragically is shared by a large fraction of the human race, I also attach a [biographical sketch](https://web.archive.org/web/20090123052955/http://www.frederikpohl.com/). (Which you can certainly skim or skip entirely. In fact, I recommend it.)
@@ -45,28 +45,28 @@ So let’s get on with it. I hope it’ll be fun!
 Once upon a time, I came across a remainder table where a stack of *The Way the Future Was* was offered for a dollar apiece.  
 I bought every one.  Even though I already owned a copy.  It’s a terrific book.  Over the years, I have given them away to friends who wondered how science fiction got to be the way it is.   Or what kind of adventures you had along the way.
 I’m glad to see you’ve started a blog– I always enjoy reading what you write, so I look forward to seeing what you have to say here.
-[**January 19, 2009, 4:50 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 19, 2009, 4:50 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Stefan Jones](https://web.archive.org/web/20090123052955/http://home.comcast.net/%7Estefan_jones/kira_sitting_lo.jpg) says:
 I read “The Way the Future Was” in college . . . cripes, twenty years ago. A great read. I remembered, just the other day, a scene regarding leaving a bag of boiled eggs out for a drifter.
-[**January 19, 2009, 10:27 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 19, 2009, 10:27 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Fred Kiesche](https://web.archive.org/web/20090123052955/http://theeternalgoldenbraid.blogspot.com/) says:
 “The Way the Future Was” is one of my favorite SF-autobiographies, along with the one by that Williamson fella. (Which is a hint that I hope you’ll talk about your experiences co-writing with him at some point!)
 Glad to see you blogging!
-[**January 20, 2009, 11:55 am**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 20, 2009, 11:55 am**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Shirley Hicks](https://web.archive.org/web/20090123052955/http://www.velochic.ca/) says:
 Talk to Charlie Stroll over at http//www.antipope.org. He test flies a lot of his writing via his blog readership and has grown quite a community of devoted fans.
 Great to see you joining the blogosphere. I was pointed here from Jame’s Nicoll’s LiveJournal entry.
-[**January 20, 2009, 6:15 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 20, 2009, 6:15 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Kent Cline says:
 After many, many years of reading your words, it is an honor to think that I can write a couple of words that you might read. Simply and sincerely, thank you.
-[**January 20, 2009, 6:38 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 20, 2009, 6:38 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Matt Tan in Singapore says:
 I loved reading my first Fred Pohl novel “Gateway” in the 80s and eagerly read all the sequels. I also loved his collaboration with Isaac Asimov ,”Our Angry Earth”. It’s good to be able to read your thoughts and opinions regularly on the interwebs. Please continue for a long, long time. Thanks.
-[**January 20, 2009, 11:00 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 20, 2009, 11:00 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Peter Nel says:
 Mr Pohl, we know who you are, and believe me, we are honored to be in your presence. Keep ‘em coming! A blog by you is wonderful news, and it’s going straight into “favorites”.
 Thank you!
-[**January 21, 2009, 2:39 am**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 2:39 am**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Zdeslav Benzon says:
 I just received Wonder Effect, first paperback edition from 1962. and am waiting for a number of magazines You edited in the sixties (Galaxy and If), before I had even been born. One of my favourite SF books is Space Merchants  
 
@@ -85,47 +85,47 @@ I just want to wish you good luck with your health and may You write this blog
 for many years to come.  
 
 Thank You
-[**January 21, 2009, 4:17 am**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 4:17 am**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Ian says:
 Oh man, this is so cool. “Day Million” remains one of my favorite short science fiction stories ever, along with “The Midas Plague” and “The Gold At Starbow’s End”… Not to mention your novels *Gravy Planet and the undersea trilogy you did with Jack Williamson, plus Gateway and Man Plus and The Years of the City.* And lots more I probably forgot.  It’s totally mind-blowing that you’ve got a blog. This qualifies as a must-read, every day.
-[**January 21, 2009, 4:48 am**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 4:48 am**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Neal Asher](https://web.archive.org/web/20090123052955/http://theskinner.blogspot.com/) says:
 It’s gone straight into my favourites too. Excellent to have one of the SF greats blogging!
-[**January 21, 2009, 5:49 am**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 5:49 am**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - JustAnotherJohn says:
 Mr. Pohl, welcome to the blogosphere!  Thanks for writing, I’ll be checking back on you.  Adding this site to my favorites, now.
-[**January 21, 2009, 1:13 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 1:13 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Christopher Hawley says:
 Another grateful reader joins the growing mob… Thank you for taking the plunge and writing entries in the same wonderfully readable style as your books!  
 
 * favorites site *
 Chris
-[**January 21, 2009, 1:37 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 1:37 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Jeff Zugale](https://web.archive.org/web/20090123052955/http://www.jeffzugale.com/justabitoff/) says:
 Subscribed. Thanks for all the wonderful stories, Mr. Pohl. Welcome to a bit of our own tiny first steps at being “vastened.”  
 (I’m just happy the ‘net lets me say hello and thanks!)
-[**January 21, 2009, 6:28 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 6:28 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Charlie (Colorado)](https://web.archive.org/web/20090123052955/http://explorations.chasrmartin.com/) says:
 Fred, did you ever see the old Playboy cartoon in which four people are seated at a card table; they’re dressed in scanty, and obviously Roman, clothing, while around them is a classic cartoon Roman orgy.  A fifth person is standing near the table, looking inquisitively at them.  The caption reads “At an orgy, you’re supposed to do whatever you want.  Well, we want to play bridge!”
 It’s your damn orgy, Fred.  Do whatever you like.
 Good to see you here.
-[**January 21, 2009, 8:48 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 8:48 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [Mark Hennessy-Barrett](https://web.archive.org/web/20090123052955/http://www.imaginetix.co.uk/) says:
 Mr. Pohl, the simple knowledge that there will frequently be more of your thoughts and words to read is quite fantastic.   Welcome to the Blogosphere - I hope that we your commentors will be able to give back even a small measure of the provoked thoughts, stimulated synapses and broadened brainpannery that you’ve given us over the years.  I shall stop here, lest I gush.   *bookmarks as a favourite*
-[**January 21, 2009, 10:53 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 21, 2009, 10:53 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - [wrathex](https://web.archive.org/web/20090123052955/http://wrathex.blogspot.com/) says:
 Dear Mr Pohl, 
 Thank you, for Digits and Dastards, Day Million, Survival Kit, Jem, Preferred Risk and the tales of the Heechee and much much more.
 Thank you for the many years of delightful reading and for broadening and engaging my intelligence and imagination.
 You will always be and remain a favourite SF author.
-[**January 22, 2009, 12:27 am**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 22, 2009, 12:27 am**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Anthony Cunningham says:
 Nice to meet you too. I’m looking forward to hearing more.
 BTW, Charlie’s surname is Stross, not Stroll.
-[**January 22, 2009, 1:57 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 22, 2009, 1:57 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 - Dave Robinson says:
 I’ve read the Way the Future Was, and I’m glad to see the blog.
-[**January 22, 2009, 3:26 pm**](/posts/2009-01-07-nice-to-meet-you/)
+[**January 22, 2009, 3:26 pm**](/fred-pohl/2009-01-07-nice-to-meet-you/)
 
 
 ![Feeds](feed-icon-14x14.png)

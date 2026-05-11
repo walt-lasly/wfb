@@ -4,9 +4,9 @@ date: 2009-11-12
 categories: ["Authors"]
 tags: ["Douglas M. Dold", "Editors", "Elliott Dold", "Great Depression", "Harry Bates", "History", "Hugo Gernsback", "John W. Campbell", "Lilith Lorraine", "Murray Leinster", "Prozines", "Pulps", "Ray Cummings", "Robert A. Heinlein", "S.P. Meek"]
 archive_url: "https://web.archive.org/web/20030401000000/http://www.thewaythefutureblogs.com/2009/11/astounding-years-3037-bc/"
-prev_post_url: "/posts/2009-11-03-lester-and-judy-lynn-del-rey/"
+prev_post_url: "/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/"
 prev_post_title: "Lester and Judy-Lynn del Rey"
-next_post_url: "/posts/2009-11-17-astounding-years-30-37-bc-street-smith/"
+next_post_url: "/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/"
 next_post_title: "Astounding Years 30–37 BC:* Street & Smith"
 translated: false
 ---
@@ -61,32 +61,32 @@ So for a bit, Astounding Stories — the trailing words “of Super Science” h
 
 **Related post:**  
 
-[**Astounding Years 30–37 BC: Street & Smith**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/)
+[**Astounding Years 30–37 BC: Street & Smith**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/)
 
 
 ### 5 Comments
 
 - E. J. Garcia says:
 Very good read, Fred!  The little I have already known about Astounding was with the days of John Campbell ([the official site](https://web.archive.org/web/20091201104029/http://www.analogsf.com/information/what_is_asf.shtml) quite literally skipped the entire prehistory!), of course as you’ve shown, there is certainly a lot more to the magazine than that.  I wish I could add more to the subject, though I would like to say that I have just recently finished reading your fabulous “Gateway” novel, now a personal favorite of mine.  *Cheers!*
-[**November 12, 2009, 8:05 pm**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**November 12, 2009, 8:05 pm**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [Scott Hauger](https://web.archive.org/web/20091201104029/http://www.jscotthauger.com/) says:
 Thank you for these invaluable histories!  
 
 Scott
-[**November 12, 2009, 11:26 pm**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**November 12, 2009, 11:26 pm**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [steve davidson](https://web.archive.org/web/20091201104029/http://www.rimworlds.com/thecrotchetyoldfan) says:
 Great subject Fred!  Interestingly enough, I happen to be re-reading Alva Roger’s Requiem for Astounding (Advent, 1964) which includes introductions from Bates, Tremaine and Campbell.
 In the first intro by Bates, Harry states that he had originally thought that it was he alone who suggested the Astounding title to Clayton, but that in preparing his piece for the book he became aware that both Douglas Dold and Harold Hersey also make similar claims.  Harry settles on allowing everyone a share of the credit.
 He also states that the covers for the Clayton magazines were printed four by four, leaving three blank spaces on the proof, not just one: “Now, there were blank spaces on this sheet. The proofs occupied places arranged in four rows of four columns each, only thirteen of the sixteen places being filled. This meant that month after month three of the sixteen places would stare empty at Clayton…”
 Of course my information comes second-hand, while yours is first hand, and I suspect that your next parts will go into your own editorial career which I am more interested in learning about than I am Bates’ or Campbell’s (we’ve heard plenty about both over the years).  The man responsible for bringing us Cordwainer Smith deserves at least a little mention, right?
 Besides, I own every single one of the first issues of the magazines you edited which number far more than a single title…
-[**November 13, 2009, 6:34 am**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**November 13, 2009, 6:34 am**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [Nate](https://web.archive.org/web/20091201104029/http://www.oddessay.com/) says:
 Hoo-ray!  These histories should be incorporated into a “history of the business of writing” course to be required of all creative writing majors.
-[**November 13, 2009, 2:04 pm**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**November 13, 2009, 2:04 pm**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [Todd Mason](https://web.archive.org/web/20091201104029/http://www.socialistjazz.blogspot.com/) says:
 What did you make of the Dolds’ magazine MIRACLE SCIENCE AND FANTASY STORIES?
-[**November 13, 2009, 6:07 pm**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**November 13, 2009, 6:07 pm**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 
 [WordPress](https://web.archive.org/web/20091201104029/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091201104029/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-08-23
 categories: ["Personal", "Writing"]
 tags: ["Conventions", "Editors", "Food", "Gene Roddenberry", "Hollywood", "Hugo Awards", "Majel Barrett", "Prozines", "Television", "Worldcons"]
 archive_url: "https://web.archive.org/web/20131010195428/http://www.thewaythefutureblogs.com/2010/08/gene-roddenberry/"
-prev_post_url: "/posts/2010-08-20-evolution-in-italy/"
+prev_post_url: "/fred-pohl/2010-08-20-evolution-in-italy/"
 prev_post_title: "Evolution in Italy"
-next_post_url: "/posts/2010-08-27-raising-star-trek-from-the-dead/"
+next_post_url: "/fred-pohl/2010-08-27-raising-star-trek-from-the-dead/"
 next_post_title: "RaisingStar Trekfrom the Dead"
 translated: false
 translator: "Yandex"
@@ -90,23 +90,23 @@ translator: "Yandex"
 
 **Похожие сообщения:**
 
-[** Воскрешение "Звездного пути" из мертвых**](/posts/2010-08-27-raising-star-trek-from-the-dead/)
+[** Воскрешение "Звездного пути" из мертвых**](/fred-pohl/2010-08-27-raising-star-trek-from-the-dead/)
 
 
 ### 4 Комментария
 
 - Грего говорит:
 Спасибо за подсказку, Фред.  Я с нетерпением жду продолжения вашей истории!
-[** 23 августа 2010 года, 1:23 утра**](/posts/2010-08-23-gene-roddenberry/)
+[** 23 августа 2010 года, 1:23 утра**](/fred-pohl/2010-08-23-gene-roddenberry/)
 - [Джерри](https://web.archive.org/web/20131010195428/http://triplanetary.blogspot.com/) говорит:
 Очень жаль, что вам не повезло с написанием эпизодов для шоу. Мне всегда нравились те, что готовил Старджон, и я уверена, что ваши были бы такими же вкусными.
-[**23 августа 2010, 19:01 вечера**](/posts/2010-08-23-gene-roddenberry/)
+[**23 августа 2010, 19:01 вечера**](/fred-pohl/2010-08-23-gene-roddenberry/)
 - Нил из Чикаго говорит:
 Это, возможно, самое грандиозное *Продолжение следует. . . .* в истории.
-[**29 августа 2010, 16:44**](/posts/2010-08-23-gene-roddenberry/)
+[**29 августа 2010, 16:44**](/fred-pohl/2010-08-23-gene-roddenberry/)
 - Алекс Деринг говорит:
 Отличная история. Я буду думать об этом каждый раз, когда увижу белый ковер.
-[**6 сентября 2010 года, 10:35 утра**](/posts/2010-08-23-gene-roddenberry/)
+[**6 сентября 2010 года, 10:35 утра**](/fred-pohl/2010-08-23-gene-roddenberry/)
 
 [WordPress](https://web.archive.org/web/20131010195428/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131010195428/http://dicksmithsoftware.com/)

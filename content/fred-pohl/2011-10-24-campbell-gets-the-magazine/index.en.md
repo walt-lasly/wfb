@@ -4,9 +4,9 @@ date: 2011-10-24
 categories: ["Authors", "Books"]
 tags: ["Editors", "F. Orlin Tremaine", "Fanzines", "History", "John W. Campbell", "Milton A. Rothman", "Prozines", "Pulps", "Robert D. Swisher"]
 archive_url: "https://web.archive.org/web/20170201000000/http://www.thewaythefutureblogs.com/2011/10/campbell-gets-the-magazine/"
-prev_post_url: "/posts/2011-10-22-the-campbell-letters/"
+prev_post_url: "/fred-pohl/2011-10-22-the-campbell-letters/"
 prev_post_title: "The Campbell Letters"
-next_post_url: "/posts/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/"
+next_post_url: "/fred-pohl/2011-10-29-do-you-enjoy-eating-a-victim-of-torture/"
 next_post_title: "Do You Enjoy Eating a Victim of Torture?"
 translated: false
 ---
@@ -31,7 +31,7 @@ Part 2 of Review of the Campbell-Swisher Letters
 **Sam Moskowitz and A. Langley Searles Memorial Issue, Special Double Issue, Nos. 59 & 60.**
 
 
-On October 5, 1937, [**John W. Campbell’s**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) world changed.  The powers at Street & Smith, on [**F. Orlin Tremaine’s**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/) advice, appointed him to replace Tremaine as editor of Astounding Stories.  That must have been a shock to Campbell, who’d been worriedly wondering who would get the job, as well as a solution to the worst of his money worries.
+On October 5, 1937, [**John W. Campbell’s**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) world changed.  The powers at Street & Smith, on [**F. Orlin Tremaine’s**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/) advice, appointed him to replace Tremaine as editor of Astounding Stories.  That must have been a shock to Campbell, who’d been worriedly wondering who would get the job, as well as a solution to the worst of his money worries.
 
 
 I had guessed elsewhere the his weekly paycheck was probably $35, but I was wrong.  Actually it was $30.  Yet that was a sum the young Campbells had only dreamed of having — was enough,  indeed, to permit him to buy a Ford (presumably on the installment plan), and thus to manage, among other things, that long desired trip back to New England to visit old friends.  But that didn’t happen right away.  Getting used to his new job kept him jumping
@@ -57,23 +57,23 @@ Well, this got longer and more detailed than a review should.  I apologize for t
 
 **Related posts:**
 
-- [**The Campbell Letters**](/posts/2011-10-22-the-campbell-letters/)
-- **Astounding: The Campbell Years, Riding High**, [**Part 1**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
-- [**Me and Alfie, Part 6: John W. Campbell and Dianetics**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+- [**The Campbell Letters**](/fred-pohl/2011-10-22-the-campbell-letters/)
+- **Astounding: The Campbell Years, Riding High**, [**Part 1**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/), [**Part 2**](/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/)
+- [**Me and Alfie, Part 6: John W. Campbell and Dianetics**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 
 
 ### 3 Comments
 
 - Grego says:
 Fred, your reminisces are relevant and interesting, and given those, not at all too long.  Thank you again for sharing your knowledge and memories with us.
-[**October 24, 2011, 1:43 am**](/posts/2011-10-24-campbell-gets-the-magazine/)
+[**October 24, 2011, 1:43 am**](/fred-pohl/2011-10-24-campbell-gets-the-magazine/)
 - Jay Borcherding says:
 I suppose their dogma is no more implausible than that of any devout monotheist, but I have special contempt for devout believers of Hubbard’s unique brand of nonsense.  Is it mere bias on my part, or is it rational to easily forgive Graham Greene’s Catholicism, for example, but to be reluctant to forgive Campbell’s fervent embrace of Dianetics?
 New religions have a disadvantage in that their outrageous claims are less familiar than those of old religions, but I still can’t shake the conviction that there’s a more profound silliness in being a Scientologist than there is in being a Jew, Christian, or Muslim.
-[**October 26, 2011, 1:07 am**](/posts/2011-10-24-campbell-gets-the-magazine/)
+[**October 26, 2011, 1:07 am**](/fred-pohl/2011-10-24-campbell-gets-the-magazine/)
 - [Chris](https://web.archive.org/web/20111226103442/http://none/) says:
 Love your writing, Mr. Pohl! It’s never “too long” when one is trying to make sure that people and history of any sort are not forgotten. Thoroughly enjoyed the details and info in the last two posts! Thank you -
-[**October 27, 2011, 9:10 am**](/posts/2011-10-24-campbell-gets-the-magazine/)
+[**October 27, 2011, 9:10 am**](/fred-pohl/2011-10-24-campbell-gets-the-magazine/)
 
 [WordPress](https://web.archive.org/web/20111226103442/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111226103442/http://dicksmithsoftware.com/)

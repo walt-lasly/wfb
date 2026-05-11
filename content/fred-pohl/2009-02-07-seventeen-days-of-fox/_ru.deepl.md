@@ -4,9 +4,9 @@ date: 2009-02-07
 categories: ["Personal", "Travel"]
 tags: ["Media", "Politics", "Satellites", "Television"]
 archive_url: "https://web.archive.org/web/20070401000000/http://www.thewaythefutureblogs.com/2009/02/seventeen-days-of-fox/"
-prev_post_url: "/posts/2009-01-30-the-poetry-corner/"
+prev_post_url: "/fred-pohl/2009-01-30-the-poetry-corner/"
 prev_post_title: "The Poetry Corner"
-next_post_url: "/posts/2009-02-09-greetings-from-s17-32-18-w149-34-17/"
+next_post_url: "/fred-pohl/2009-02-09-greetings-from-s17-32-18-w149-34-17/"
 next_post_title: "Greetings from S17° 32.18′ W149° 34.17′"
 translated: false
 translator: "DeepL"
@@ -39,39 +39,39 @@ translator: "DeepL"
 
 - [Fathercrow](https://web.archive.org/web/20090413072430/http://fathercrow.blogspot.com/) говорит:
 Да, ты должен любить новости Fox, они просто замечательно выдуманы. На более легкой ноте, здесь, в юго-восточном Висконсине, 50 градусов, так что, может быть, ты выдержишь это в Иллинойсе.
-[**February 7, 2009, 2:10 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 7, 2009, 2:10 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - moz сказал:
 Если ты напишешь "Faux News", то получишь лучшее представление о содержании. А еще один парень здесь продает наклейки "Это правда, или ваши News Limited"... еще один фэн Мердока, очевидно.
-[**February 7, 2009, 4:40 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 7, 2009, 4:40 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Кларк Трейси сказал:
 То есть если они говорят это по TeeVees, то это не обязательно должно быть правдой?
-[**February 8, 2009, 10:37 am**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 8, 2009, 10:37 am**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - teletypeturtle говорит:
 Мысль о том, чтобы 17 дней находиться на корабле, где нет ничего, кроме Фокса... о боже. Ты нашел способ перенести это с хорошим юмором.
-[**February 8, 2009, 9:58 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 8, 2009, 9:58 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - [Стефан Джонс](https://web.archive.org/web/20090413072430/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) сказал:
 Fox News напоминает мне что-то, что придумали бы эти два парня, писавшие сатирические НФ в пятидесятых, чтобы объяснить, почему граждане антиутопии не маршируют на улицах.
 Блин, как же их звали...
-[**9 февраля 2009, 12:51 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**9 февраля 2009, 12:51 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Мэри Пид говорит:
 Ах ты, бедняга.  Держу пари, Бетти тоже неплохо провела время.
-[**10 февраля 2009, 8:54 am**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**10 февраля 2009, 8:54 am**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - John H сказал:
 Достаточно плохо ходить в рестораны, которые настаивают на том, чтобы подвергать своих клиентов Faux News, - мне пришлось бы просто выключить TeeVee, если бы это был единственный доступный канал. (Нет, если бы ты был последним каналом на Земле, Faux!)
 Я в восторге от того, что обнаружил твой блог.
-[**February 12, 2009, 2:45 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 12, 2009, 2:45 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - [Weekend Bookchat " The Opinion Mill](https://web.archive.org/web/20090413072430/http://theopinionmill.wordpress.com/2009/02/21/weekend-bookchat-19/) говорит:
 [...] бесстрашный человек, нашел способ подняться над такими невзгодами: Примерно на десятый день я наконец понял, что, если настроиться на этот канал, но повернуть [...]
-[**February 21, 2009, 6:23 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 21, 2009, 6:23 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - [Ад в открытом море " STEVENHARTSITE](https://web.archive.org/web/20090413072430/http://stevenhartsite.wordpress.com/2009/02/21/hell-on-the-high-seas/) говорит:
 [...] бесстрашный человек, нашел способ подняться над такими невзгодами: Примерно на десятый день я наконец понял, что, если настроиться на этот канал, но повернуть [...]
-[**February 21, 2009, 6:31 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 21, 2009, 6:31 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Банджо сказал:
 Как я понимаю, ты предпочитаешь новости с левым уклоном. Ну, в этом нет недостатка. Практически все остальные СМИ - дежурные, но MSNBC дает тебе самую чистую версию.
-[**February 22, 2009, 12:47 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**February 22, 2009, 12:47 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 - Kip W сказал:
 Я удивлен, что корабль не пошел ко дну, с таким выраженным креном на правый борт.
-[**Март 9, 2009, 7:16 pm**](/posts/2009-02-07-seventeen-days-of-fox/)
+[**Март 9, 2009, 7:16 pm**](/fred-pohl/2009-02-07-seventeen-days-of-fox/)
 
 [WordPress](https://web.archive.org/web/20090413072430/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090413072430/http://dicksmithsoftware.com/)

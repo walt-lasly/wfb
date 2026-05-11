@@ -4,9 +4,9 @@ date: 2011-05-15
 categories: ["Books", "Science"]
 tags: ["Computers", "Films", "Gateway"]
 archive_url: "https://web.archive.org/web/20170619235511/http://www.thewaythefutureblogs.com/2011/05/sigfrid-von-shrink-builders-wanted/"
-prev_post_url: "/posts/2011-05-14-here-come-da-judge/"
+prev_post_url: "/fred-pohl/2011-05-14-here-come-da-judge/"
 prev_post_title: "Here Come da Judge"
-next_post_url: "/posts/2011-05-17-the-kornbluths-in-new-jersey/"
+next_post_url: "/fred-pohl/2011-05-17-the-kornbluths-in-new-jersey/"
 next_post_title: "The Kornbluths in New Jersey"
 translated: false
 translator: "Yandex"
@@ -44,28 +44,28 @@ translator: "Yandex"
 Видишь [http://en.wikipedia.org/wiki/ELIZA](https://web.archive.org/web/20170619235511/http://en.wikipedia.org/wiki/ELIZA) .
 Есть ссылки на ряд реализаций.
 Когда-то я запускал BBS с программой Eliza под названием “чат”.  Люди разговаривали с ним, думая, что разговаривают со мной.  Хорошие времена…
-[**15 мая 2011 года, 2:33 ночи**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**15 мая 2011 года, 2:33 ночи**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Эйс Лайтнинг говорит:
 Любой компьютер может имитировать психолога (определенного типа). Для этого просто требуется программа, подобная ELIZA середины 1960-х годов:
 [http://en.wikipedia.org/wiki/ELIZA](https://web.archive.org/web/20170619235511/http://en.wikipedia.org/wiki/ELIZA)
 Эта программа работает, беря заявления “пациента” и манипулируя ими в соответствии с некоторыми удивительно простыми правилами, из-за чего результирующие ответы выглядят так, как будто компьютер бесстрастно отражает замечания “пациента”, чтобы вызвать самоанализ. Это стиль “роджерианского” терапевта, и он также позволяет обойти неспособность компьютера быть в курсе человеческих проблем, таких как популярные развлечения, еда и ежедневные новости.
 Такие программы, как ELIZA, потребляют очень мало вычислительной мощности; они могут работать практически на любом оборудовании, включая современный ПК – осмелюсь предположить, что для этого есть даже приложение для смартфонов.
-[**15 мая 2011 года, 3:50 утра**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**15 мая 2011 года, 3:50 утра**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - [Дэвид Дайер-Беннет](https://web.archive.org/web/20170619235511/http://dd-b.net/) говорит:
 В Emacs есть версия Eliza.  Есть также коллекция цитат Zippy the Pinhead.
 И есть команда “психоанализ-булавочная головка”, которая связывает их вместе и позволяет им работать.
-[**15 мая 2011, 11:11 вечера**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**15 мая 2011, 11:11 вечера**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Его превосходительство Пармер говорит:
 Черт возьми, у меня была версия ELIZA, написанная на LISP, IIRC, которая работала под управлением CP/M на моем старом Kaypro II, с двумя дисководами для гибких дисков и колоссальными 64 КБ ОЗУ. (Теперь я действительно встречалась сама с собой, не так ли?)
 И в ответ на ваш первый вопрос, я прочитал * Врата(Gateway)* еще тогда, когда она была впервые опубликована в мягкой обложке.
-[** 16 мая 2011 года, 1:49 утра**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[** 16 мая 2011 года, 1:49 утра**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - [Кит Грэм](https://web.archive.org/web/20170619235511/http://www.cthreepo.com/) говорит:
 Я портировал классическую программу Eliza на Javascript около года назад. Javascript - хороший язык для такого рода вещей, потому что он запускается в браузере и не нуждается в компиляторе или даже веб-сайте для запуска.
 Элиза была довольно упрощенной, но структура вопроса и ответа присутствует и легко расширяется. Без особых проблем вы могли бы взять текст вопросов Зигги и загрузить их в список вопросов, а также задать набор ключевых слов, чтобы вызвать соответствующие вопросы, не сильно меняя логику.
 Смотрите версию javascript:
 [http://www.cthreepo.com/games/eliza.shtml](https://web.archive.org/web/20170619235511/http://www.cthreepo.com/games/eliza.shtml)
 Кейт
-[**16 мая 2011 года, 9:01 утра**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[**16 мая 2011 года, 9:01 утра**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - [Эдвард Кметт](https://web.archive.org/web/20170619235511/http://comonad.com/) говорит:
 ЭЛИЗА была первой.
 [http://en.wikipedia.org/wiki/ELIZA](https://web.archive.org/web/20170619235511/http://en.wikipedia.org/wiki/ELIZA) (1964-1966)
@@ -83,7 +83,7 @@ http://alice.pandorabots.com /](https://web.archive.org/web/20170619235511/http:
 [http://jabberwacky.com /](https://web.archive.org/web/20170619235511/http://jabberwacky.com/)
 и [
 http://www.cleverbot.com /](https://web.archive.org/web/20170619235511/http://www.cleverbot.com/)
-[** 16 мая 2011 года, 11:57 утра**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[** 16 мая 2011 года, 11:57 утра**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Марк говорит:
 Хотя я не рассматривал это в последнее время, на протяжении многих лет у меня был более чем мимолетный интерес к этому (стремления / концепции проекта искусственного интеллекта), так что, вероятно, стоит прокомментировать.
 Вам было бы трудно найти чат-бота, обладающего теми же личностными чертами / дефектами, что и Зигфрид, однако, если оставить это в стороне, я думаю, что лучшими ресурсами были бы.
@@ -97,10 +97,10 @@ http://www.cleverbot.com /](https://web.archive.org/web/20170619235511/http://ww
 
 [http://www.personalityforge.com](https://web.archive.org/web/20170619235511/http://www.personalityforge.com/)
 Не могли бы вы подробнее остановиться на “по причинам, связанным с кинобизнесом”? Это звучит как потенциально очень исключительная новость! 
-[** 18 мая 2011 года, 4:41 утра**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[** 18 мая 2011 года, 4:41 утра**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 - Анант (Бесконечность) говорит:
 Недавно я прочитал роман “Врата(Gateway)” и убежден, что это один из пяти лучших романов в жанре научной фантастики (или, как мне нравится их называть, "пограничной фантастики"), когда-либо опубликованных. Если по этой истории будет снят фильм, могу я предложить Тоби Магуайра в роли Робинетт Броудхед и Саймона Бейкера (из “Менталиста”) в роли Зигфрида фон Шринка.
-[** 23 мая 2011 года, 7:27 утра**](/posts/2011-05-15-sigfrid-von-shrink-builders-wanted/)
+[** 23 мая 2011 года, 7:27 утра**](/fred-pohl/2011-05-15-sigfrid-von-shrink-builders-wanted/)
 
 [WordPress](https://web.archive.org/web/20170619235511/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619235511/http://dicksmithsoftware.com/)

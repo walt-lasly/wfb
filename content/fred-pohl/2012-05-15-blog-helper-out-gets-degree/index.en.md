@@ -4,9 +4,9 @@ date: 2012-05-15
 categories: ["Personal"]
 tags: ["Academics", "Catherine Pizarro", "Elizabeth Anne Hull", "Tony Pizarro"]
 archive_url: "https://web.archive.org/web/20250501000000/http://www.thewaythefutureblogs.com/2012/05/blog-helper-out-gets-degree/"
-prev_post_url: "/posts/2012-05-13-bright-sayings-of-bright-people-no-32/"
+prev_post_url: "/fred-pohl/2012-05-13-bright-sayings-of-bright-people-no-32/"
 prev_post_title: "Bright Sayings of Bright People, No. 32"
-next_post_url: "/posts/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/"
+next_post_url: "/fred-pohl/2012-05-18-kathy-keeton-the-best-looking-sf-editor-ever/"
 next_post_title: "Kathy Keeton: The Best-Looking SF Editor Ever"
 translated: false
 ---
@@ -36,22 +36,22 @@ Congratulations to her.
 You’re both inspirations to those of us who have yet to decide what we’re going to be when we grow up.
 It’s never too late!
 JJB
-[**May 15, 2012, 11:32 pm**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+[**May 15, 2012, 11:32 pm**](/fred-pohl/2012-05-15-blog-helper-out-gets-degree/)
 - Paul Wolf says:
 Congratulations!  I hope she feels proud of herself!
-[**May 16, 2012, 12:12 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+[**May 16, 2012, 12:12 am**](/fred-pohl/2012-05-15-blog-helper-out-gets-degree/)
 - Don Sakers says:
 Congratulations, Cathy!
-[**May 16, 2012, 10:50 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+[**May 16, 2012, 10:50 am**](/fred-pohl/2012-05-15-blog-helper-out-gets-degree/)
 - [Ken Houghton](https://web.archive.org/web/20120810061407/http://www.angrybearblog.com/) says:
 Mazel tov! (And sadness about why she’s in Chicago instead of New York.)
-[**May 16, 2012, 1:48 pm**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+[**May 16, 2012, 1:48 pm**](/fred-pohl/2012-05-15-blog-helper-out-gets-degree/)
 - James Flanagan says:
 Wonderful!!!
-[**May 17, 2012, 1:38 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+[**May 17, 2012, 1:38 am**](/fred-pohl/2012-05-15-blog-helper-out-gets-degree/)
 - Mike Goldberg says:
 Congratulations!
-[**May 17, 2012, 9:15 am**](/posts/2012-05-15-blog-helper-out-gets-degree/)
+[**May 17, 2012, 9:15 am**](/fred-pohl/2012-05-15-blog-helper-out-gets-degree/)
 
 [WordPress](https://web.archive.org/web/20120810061407/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120810061407/http://dicksmithsoftware.com/)

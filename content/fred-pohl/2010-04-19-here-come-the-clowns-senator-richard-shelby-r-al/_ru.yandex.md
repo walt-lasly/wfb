@@ -4,9 +4,9 @@ date: 2010-04-19
 categories: ["Miscellaneous"]
 tags: ["Barack Obama", "Politics", "Richard Shelby"]
 archive_url: "https://web.archive.org/web/20160301000000/http://www.thewaythefutureblogs.com/2010/04/here-come-the-clowns-senator-richard-shelby-r-al/"
-prev_post_url: "/posts/2010-04-12-meat-grinding/"
+prev_post_url: "/fred-pohl/2010-04-12-meat-grinding/"
 prev_post_title: "Meat Grinding"
-next_post_url: "/posts/2010-04-25-jack-vance-the-master-of-the-dragons/"
+next_post_url: "/fred-pohl/2010-04-25-jack-vance-the-master-of-the-dragons/"
 next_post_title: "Jack Vance: The Master of the Dragons"
 translated: false
 translator: "Yandex"
@@ -44,18 +44,18 @@ translator: "Yandex"
 
 - [Роберт Новолл](https://web.archive.org/web/20100426073520/http://www.robertnowall.com/) говорит:
 Конечно, сенаторы-демократы, которые приостановили выдвижение кандидатур администрацией Буша, используя тот же обычай, действовали только в интересах общества, не так ли?
-[** 20 апреля 2010 года, 5:57 утра**](/posts/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
+[** 20 апреля 2010 года, 5:57 утра**](/fred-pohl/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
 - Роберт Би Милетич-старший говорит:
 Я согласен. Клоун - это абсурд.
-[**20 апреля 2010, 20:48 вечера**](/posts/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
+[**20 апреля 2010, 20:48 вечера**](/fred-pohl/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
 - Джон Трейлор говорит:
 Этот парень кажется мне таким же жутким, как продавец подержанных автомобилей.  Мне грустно это говорить, но я полагаю, что мы получаем то правительство, которого заслуживаем.
-[** 21 апреля 2010 года, 7:39 утра**](/posts/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
+[** 21 апреля 2010 года, 7:39 утра**](/fred-pohl/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
 - Энди говорит:
 Несомненно, он заслужил признание, хотя, боюсь, оно мимолетно.  
 Пришлите клоунов / Не беспокойтесь, они здесь.  (Сондхейм)
 Я должен добавить, что есть уважаемые сенаторы и члены Конгресса, но их часто перекрикивают.
-[**21 апреля 2010, 11:53 вечера**](/posts/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
+[**21 апреля 2010, 11:53 вечера**](/fred-pohl/2010-04-19-here-come-the-clowns-senator-richard-shelby-r-al/)
 
 [WordPress](https://web.archive.org/web/20100426073520/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20100426073520/http://dicksmithsoftware.com/)

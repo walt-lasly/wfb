@@ -4,9 +4,9 @@ date: 2014-04-02
 categories: ["Betty's Posts"]
 tags: ["Economics", "Elizabeth Anne Hull", "Politics"]
 archive_url: "https://web.archive.org/web/20210201000000/http://www.thewaythefutureblogs.com/2014/04/are-you-rich/"
-prev_post_url: "/posts/2014-03-31-through-the-harmonic-convergence-part-2/"
+prev_post_url: "/fred-pohl/2014-03-31-through-the-harmonic-convergence-part-2/"
 prev_post_title: "Through the Harmonic Convergence, Part 2"
-next_post_url: "/posts/2014-04-06-bright-sayings-of-bright-people-no-51-frey/"
+next_post_url: "/fred-pohl/2014-04-06-bright-sayings-of-bright-people-no-51-frey/"
 next_post_title: "Bright Sayings of Bright People, No. 51: Frey"
 translated: false
 ---
@@ -80,17 +80,17 @@ Somehow, being a simple millionaire (by the old definition) doesn’t seem to be
 Common wisdom: A million dollars in investments is what a couple needs to have by age 65 to have a classic middle-class-American-dream retirement (no need to work, own home, chance to do some travel and other liesure activities).
 A million given to a couple just starting out means they have a lot of security, but they’ll still have to work and live within a budget to live out the American dream lifestyle (house, good car, college for the kids, vacations).
 I can’t picture “needing” a million dollars a year in personal income. Ten average families could live quite comfortably on that.
-[**April 3, 2014, 10:52 am**](/posts/2014-04-02-are-you-rich/)
+[**April 3, 2014, 10:52 am**](/fred-pohl/2014-04-02-are-you-rich/)
 - Tom Galloway says:
 It really isn’t. A basic definition of “rich” is a sort of combination of net worth and yearly “income”, namely, could you quit your job and not have to work for pay again for the rest of your life. To play it really safe, that means taking a fairly advanced age you could live to, such as 90 or 100, and subtracting your current age. So let’s say you’re 50. Using 100, that means your net worth would have to last 50 years, meaning you’d need to get back at least an after-tax return equal to inflation. Assuming you get that and no more, it means you’d be spending 2% of your net worth each year. 
 2% of $1,000,000 is a whopping $20,000. Admittedly that $20,000 is the equivalent of take-home pay, not pre-taxes salary, but I don’t think most people would call someone living on $20,000 a year “rich”. You’d need $5 million net worth just to get up to $100,000 take home a year, certainly comfortable but not what most people, especially in California and larger cities would call rich.
 These days, I’d say $10,000,000 is borderline rich, $50,000,000, where you could spend $500K-$1 million a year depending on age is definitely rich. $1,000,000 is just definitely not living paycheck to paycheck, better off than a lot of folk, but by any real long-term living standard doesn’t count as rich any more.
-[**April 3, 2014, 4:56 pm**](/posts/2014-04-02-are-you-rich/)
+[**April 3, 2014, 4:56 pm**](/fred-pohl/2014-04-02-are-you-rich/)
 - Ken says:
 As Tom points out, in today’s environment of abnormally low interest rates you’ll only make $20K on 1 million in annual interest – that’s poverty level. Only way to make more is to take very real risk, possible, but hardly set for life secure. 
 In order to reach escape velocity rich, the point where you’d have to be a complete idiot not to keep getting richer, or at least maintain your capital while living a “rich” lifestyle, I’d say you need a minimum 10-15 million.
 No middle class anymore, the one percent rocket higher and higher while the 99 percent are stuck in decaying orbits one or two paychecks removed from a flaming crash and burn. A sad and very likely unsustainable imbalance that will no doubt end badly – think deep recession/depression, or possibly riots in the streets.
-[**April 6, 2014, 10:29 am**](/posts/2014-04-02-are-you-rich/)
+[**April 6, 2014, 10:29 am**](/fred-pohl/2014-04-02-are-you-rich/)
 
 [WordPress](https://web.archive.org/web/20160416142012/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416142012/http://dicksmithsoftware.com/)

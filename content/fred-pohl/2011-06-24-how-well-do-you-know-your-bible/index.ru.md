@@ -4,9 +4,9 @@ date: 2011-06-24
 categories: ["Books"]
 tags: ["Jennifer Wright Knust", "Religion", "Sexuality"]
 archive_url: "https://web.archive.org/web/20261001000000/http://www.thewaythefutureblogs.com/2011/06/how-well-do-you-know-your-bible/"
-prev_post_url: "/posts/2011-06-23-the-trap-door-spiders/"
+prev_post_url: "/fred-pohl/2011-06-23-the-trap-door-spiders/"
 prev_post_title: "The Trap Door Spiders"
-next_post_url: "/posts/2011-06-25-top-10-sf-fantasy-2011/"
+next_post_url: "/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/"
 next_post_title: "Top 10 SF/Fantasy: 2011"
 translated: false
 translator: "Yandex"
@@ -43,17 +43,17 @@ translator: "Yandex"
 
 - Маргарет говорит:
 О, вау!  Мне кажется, я страстно желаю эту книгу.  Спасибо за подсказку.
-[** 24 июня 2011 года, 8:50 утра**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[** 24 июня 2011 года, 8:50 утра**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - [Шакатани](https://web.archive.org/web/20170707044927/http://shakatany.livejournal.com/) говорит:
 Мне кажется, я довольно хорошо знаю Библию, хотя я атеист. Я посмотрю, насколько хорошо я справился на следующей неделе.
-[** 24 июня 2011 года, 10:10 утра**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[** 24 июня 2011 года, 10:10 утра**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - [Кен Хоутон](https://web.archive.org/web/20170707044927/http://www.angrybearblog.com/) говорит:
 Можно ли с уверенностью предположить, что “все вышеперечисленное” или, по крайней мере, несколько ответов могут быть правильным ответом?
 Единственный, на который, я готов поклясться, есть только один ответ - 4. (Ответ, мягко говоря, предсказательный.)
-[**25 июня 2011, 19:02 вечера**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**25 июня 2011, 19:02 вечера**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - Его превосходительство Пармер говорит:
 “Большинство людей читают Библию в достаточно малых дозах, чтобы обезопасить себя от ее смысла”. [
-** 26 июня 2011 г., 10:56 вечера**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+** 26 июня 2011 г., 10:56 вечера**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 - Джо из Бруклина говорит:
 1. Все вышеперечисленное.  И не забывайте о сомнительной одержимости Святого Павла крайней плотью юного святого Тимофея!
 2. С. 
@@ -61,7 +61,7 @@ translator: "Yandex"
 
 “секс с ангелами” - это деф. выход — никакой двусмысленности здесь нет. Все остальное разрешено или позволено известными персонажами.
 4. Б. Если бы я был Богом, богохульство было бы единственным грехом, на который мне было бы наплевать.
-[**27 июня 2011 года, 18:40 вечера**](/posts/2011-06-24-how-well-do-you-know-your-bible/)
+[**27 июня 2011 года, 18:40 вечера**](/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/)
 
 [WordPress](https://web.archive.org/web/20170707044927/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707044927/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-06-14
 categories: ["Personal"]
 tags: ["History", "World War II"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2013/06/my-war-part-3-picture-perfect/"
-prev_post_url: "/posts/2013-06-07-about-the-hydra-club/"
+prev_post_url: "/fred-pohl/2013-06-07-about-the-hydra-club/"
 prev_post_title: "About the Hydra Club"
-next_post_url: "/posts/2013-06-16-bright-sayings-of-bright-people-no-47-fermi/"
+next_post_url: "/fred-pohl/2013-06-16-bright-sayings-of-bright-people-no-47-fermi/"
 next_post_title: "Bright Sayings of Bright People, No. 47: Fermi"
 translated: false
 translator: "Yandex"
@@ -63,9 +63,9 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- **Моя война**, [** Часть 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/), [** Часть 2**](/posts/2013-05-21-my-war-part-2-flying-a-desk/)
-- [** Хэл Клемент: майор Гарри Стаббс**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
-- [** Как я потерял своего самого старого друга (и приобрел литературное агентство)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
+- **Моя война**, [** Часть 1**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/), [** Часть 2**](/fred-pohl/2013-05-21-my-war-part-2-flying-a-desk/)
+- [** Хэл Клемент: майор Гарри Стаббс**](/fred-pohl/2011-03-01-hal-clement-major-harry-stubbs/)
+- [** Как я потерял своего самого старого друга (и приобрел литературное агентство)**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### Один комментарий
@@ -74,7 +74,7 @@ translator: "Yandex"
 В 1972 году я прошел подготовку в качестве техника фотолаборатории армии США в Форт-Монмуте, штат Нью-Джерси (насколько я помню, недалеко от вас, хотя у меня никогда не хватало наглости постучать в вашу дверь и попросить вас подписать книгу).  По умолчанию по-прежнему использовалась камера Speed Graphics, хотя у нас была примерно одна неделя из двенадцати, чтобы использовать 35-миллиметровую камеру.  (В большинстве случаев на курсах лабораторной техники преподавались методы проявки и фотолаборатории.)
 Как вы сказали, негативы размером 4 × 5 дюймов на Speed Graphics позволяют получать удивительно четкие и детализированные фотографии.  Тяжелые неудачники, с довольно крутой кривой обучения, но я все еще испытываю к ним ностальгическое уважение.
 Как оказалось, как только я окончил курс, меня отправили на должность лаборанта в сигнальную компанию на другую должность, где фактически не требовалось выполнять никакой лабораторной работы.  После нескольких месяцев стрижки газонов, мытья грузовиков и время от времени салютования из винтовок над могилами умерших ветеранов мне удалось добиться перевода в роту водителей грузовиков, где я провел остаток своей службы в качестве ротного писаря.  Так и не вернулся к фотографии, пока не появились цифровые фотоаппараты.
-[** 20 июня 2013 года, 2:13 ночи**](/posts/2013-06-14-my-war-part-3-picture-perfect/)
+[** 20 июня 2013 года, 2:13 ночи**](/fred-pohl/2013-06-14-my-war-part-3-picture-perfect/)
 
 [WordPress](https://web.archive.org/web/20170620014951/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620014951/http://dicksmithsoftware.com/)

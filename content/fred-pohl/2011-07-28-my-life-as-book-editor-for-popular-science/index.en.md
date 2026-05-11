@@ -4,9 +4,9 @@ date: 2011-07-28
 categories: ["Authors", "Books", "Personal"]
 tags: ["Academics", "Advertising", "Editors", "Eugene Watson", "George Spoerer", "Publishing", "Tiffany Thayer", "William Tenn"]
 archive_url: "https://web.archive.org/web/20220301000000/http://www.thewaythefutureblogs.com/2011/07/my-life-as-book-editor-for-popular-science/"
-prev_post_url: "/posts/2011-07-19-fred-the-predictor-predicts/"
+prev_post_url: "/fred-pohl/2011-07-19-fred-the-predictor-predicts/"
 prev_post_title: "Fred the Predictor Predicts"
-next_post_url: "/posts/2011-07-29-twenty-chernobyls/"
+next_post_url: "/fred-pohl/2011-07-29-twenty-chernobyls/"
 next_post_title: "Twenty Chernobyls"
 translated: false
 ---
@@ -50,7 +50,7 @@ I hung up, meditating violence.  But time passed and I cooled down.  And, more i
 “Well, no,”  I said.  “Let’s not do that.  I’ll call him for an appointment myself.  And, don’t worry, I won’t forget about your commission on my first week’s salary.”
 
 
-I had been worrying a little myself about what this hard to please Mr. Spoerer might be like, but on the phone he sounded like a reasonable human being and when I got to his office he looked and acted that way too.  Not only that, but, when I showed him some of the house ads I’d written at [**Popular Publications**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), he revealed himself as at least a part-time science-fiction fan.  And when George Spoerer had decided I could do the job he walked me into the office of his boss, the Circulation Manager of the company, Eugene Watson, and he wasn’t bad either.  And twenty minutes later I had the job.
+I had been worrying a little myself about what this hard to please Mr. Spoerer might be like, but on the phone he sounded like a reasonable human being and when I got to his office he looked and acted that way too.  Not only that, but, when I showed him some of the house ads I’d written at [**Popular Publications**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), he revealed himself as at least a part-time science-fiction fan.  And when George Spoerer had decided I could do the job he walked me into the office of his boss, the Circulation Manager of the company, Eugene Watson, and he wasn’t bad either.  And twenty minutes later I had the job.
 
 
 I didn’t know how my account executive at the employment agency would take that news.  When I phoned he just sighed a long sigh and began reminding me that, under New York law, their commission was a collectible debt and they would expect weekly checks from me until it was paid off.  “All right,”  I said, and hung up.”
@@ -101,7 +101,7 @@ The *Gallery had gone through five or six attempts at making a mail-order appeal
 As it happened, I did in fact devise a mailing that ultimately cleaned out every last copy of the *Gallery and managed a save on a smaller edition of Paper Flowers* as well.  But, although faint stirrings of a desire to publish books of other kinds had begun to rumble in my chest, the evidence of  those books put the fire out pretty easily.  So much for my second editorial job.
 
 
-When I decided to quit PopSci (in the face of invitations to stay with yet another raise), I chanced to mention the matter at a little party, most of the attendees of which were sf writers, or at least wished they were..  One was Phil Klass, the real name of the author [**William Tenn**](/posts/2010-02-13-william-tenn-aka-phil-klass-1920-2010/), a name that was rapidly becoming famous for his sardonic view of the future.  Phil looked so interested in my news that I got suspicious and asked him if he thought he might be interested in the job I was leaving.
+When I decided to quit PopSci (in the face of invitations to stay with yet another raise), I chanced to mention the matter at a little party, most of the attendees of which were sf writers, or at least wished they were..  One was Phil Klass, the real name of the author [**William Tenn**](/fred-pohl/2010-02-13-william-tenn-aka-phil-klass-1920-2010/), a name that was rapidly becoming famous for his sardonic view of the future.  Phil looked so interested in my news that I got suspicious and asked him if he thought he might be interested in the job I was leaving.
 
 
 “Oh,”  he said,  “I surely would.  Have you ever tried to live on the income from writing short stories?”  I had.  So I agreed to help him, and so a few days later. I took him into George Spoerer’s office to meet my boss, who, after we had talked for a bit, took us both to Gene Watson’s office.  But Gene had other ideas.  He thanked Phil for coming in, but it turned out he had already made up his mind about who he wanted to hire for the job.  It was the young woman who, for the last five years, had been my secretary, and had the unbeatable advantage of already knowing the job so well there wouldn’t have to be any breaking-in period..
@@ -116,12 +116,12 @@ Phil got something out of the experience, though.  He created a stand-up farce o
 I have fond memories of reading Dad’s old PopSci magazines from the 50s, when I was a child back in the early 60s: Nuclear-powered jets, giant atoic cargo subs plying the short route to the Pacific under the polar ice cap, hovercars, home breeder reactors and all-plastic vacation cabins in the mountains.
 Like the man said: “The Future ain’t what it used to be.”
 Which, in the case of the nuclear-powered jets and the home breeder reactors, is probably a good thing. A hovercar would be pretty cool, though I’d bet the mileage would really suck.
-[**July 29, 2011, 1:28 am**](/posts/2011-07-28-my-life-as-book-editor-for-popular-science/)
+[**July 29, 2011, 1:28 am**](/fred-pohl/2011-07-28-my-life-as-book-editor-for-popular-science/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20160305041818/http://beamjockey.livejournal.com/) says:
 Thanks for that, Fred. For reasons too complicated to explain, I am putting together a talk on Henry H. Windsor, Sr., who in 1902 founded *Popular Mechanics, the chief rival of Popular Science*.
 Windsor produced books much like the ones you described, mining past issues of his magazine for how-to articles.  I like *The Boy Mechanic* (1913, and many succeeding editions). The order of the articles is so hodgepodge that I suspect it was laid out just the way your books were.
 It’s full of projects that modern parents wouldn’t let their kids NEAR.  For example, in the first volume, the words “nitric acid” and “sulphuric acid” appear together in four different articles.  Because sometimes, a boy just has to etch something, you know?
-[**July 29, 2011, 3:40 pm**](/posts/2011-07-28-my-life-as-book-editor-for-popular-science/)
+[**July 29, 2011, 3:40 pm**](/fred-pohl/2011-07-28-my-life-as-book-editor-for-popular-science/)
 
 [WordPress](https://web.archive.org/web/20160305041818/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160305041818/http://dicksmithsoftware.com/)

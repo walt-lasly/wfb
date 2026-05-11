@@ -4,9 +4,9 @@ date: 2014-02-22
 categories: ["Personal"]
 tags: ["Critics", "Dave Truesdale", "Fanzines"]
 archive_url: "https://web.archive.org/web/20161001000000/http://www.thewaythefutureblogs.com/2014/02/timebinding-with-fred-and-dave-truesdale/"
-prev_post_url: "/posts/2014-02-20-paper-or-plastic-i-e-new-trees-or-ancient-ones/"
+prev_post_url: "/fred-pohl/2014-02-20-paper-or-plastic-i-e-new-trees-or-ancient-ones/"
 prev_post_title: "Paper or Plastic?  (i.e. New Trees or Ancient Ones?)"
-next_post_url: "/posts/2014-03-02-divide-and-conquer/"
+next_post_url: "/fred-pohl/2014-03-02-divide-and-conquer/"
 next_post_title: "Divide and Conquer"
 translated: false
 translator: "Yandex"
@@ -46,7 +46,7 @@ translator: "Yandex"
 Я помню, что многие партии в номер Джорджа Р. Р. Мартина в Couleecon около трех лет спустя, отчасти потому, что он был таким запоминающимся Конвент, и отчасти для егобору Фред дал мне в этом разговоре.  
 
 Предмет удосужился *Далгрен (dhalgren)*, что Фред купил после любого другого живого редактора, который говорил по-английски отверг его.  Я сказал, Если вы хотите жаловаться, что ему не хватает вещей, которые вы вправе ожидать от чего-то с надписью “роман”, у вас есть хорошее дело, но когда я прочитал это, я понял, в реальной жизни я никогда не видел на страницу Пред.  Фред сказал: “Да!  Правильно!”
-[**23 февраля 2014, 8:22 часов**](/posts/2014-02-22-timebinding-with-fred-and-dave-truesdale/)
+[**23 февраля 2014, 8:22 часов**](/fred-pohl/2014-02-22-timebinding-with-fred-and-dave-truesdale/)
 
 [На WordPress](https://web.archive.org/web/20160416144951/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416144951/http://dicksmithsoftware.com/)

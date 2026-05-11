@@ -4,9 +4,9 @@ date: 2010-12-17
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Arthur C. Clarke", "C.M. Kornbluth", "Clubs", "Damon Knight", "Dirk Wylie", "Donald A. Wollheim", "Futurians", "Medicine", "Publishing", "Richard Wilson", "Rosalind Cohen", "Scott Meredith", "World War II"]
 archive_url: "https://web.archive.org/web/20220601000000/http://www.thewaythefutureblogs.com/2010/12/how-i-lost-my-oldest-friendand-gained-a-literary-agency/"
-prev_post_url: "/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
+prev_post_url: "/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
 prev_post_title: "Mary Kornbluth, Part 2: The Death of Cyril"
-next_post_url: "/posts/2010-12-18-mary-kornbluth-part-3-anthologist/"
+next_post_url: "/fred-pohl/2010-12-18-mary-kornbluth-part-3-anthologist/"
 next_post_title: "Mary Kornbluth, Part 3: Anthologist"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="bulge.jpg" alt="The Battle of the Bulge left Dirk Wylie unable to hold a regular job, so we made him � and ultimately, me � into a literary agent." caption="The Battle of the Bulge left Dirk Wylie unable to hold a regular job, so we made him — and ultimately, me — into a literary agent." >}}
 
 
-After World War II had grabbed most of us [**Futurians**](/posts/2009-05-08-the-quadrumvirate/) by the scruff of the necks and flung us to various odd destinations in all sorts of unexpected parts of  this planet of ours, it did, somehow get itself ended and there we were, civilians again, and back in New York.  I had had a relatively undemanding war, ending up with doing public relations at the Mediterranean Theater of Operations in Caserta, Italy (with my spare time spent in a resort hotel on the slopes of Mount Vesuvius). [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/), however, hadn’t had anywhere nearly  as nice a war as I did.
+After World War II had grabbed most of us [**Futurians**](/fred-pohl/2009-05-08-the-quadrumvirate/) by the scruff of the necks and flung us to various odd destinations in all sorts of unexpected parts of  this planet of ours, it did, somehow get itself ended and there we were, civilians again, and back in New York.  I had had a relatively undemanding war, ending up with doing public relations at the Mediterranean Theater of Operations in Caserta, Italy (with my spare time spent in a resort hotel on the slopes of Mount Vesuvius). [**Dirk Wylie**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/), however, hadn’t had anywhere nearly  as nice a war as I did.
 
 
 Dirk’s war hit bottom in the early winter of 1944–45.  That was when Hitler’s Wehrmacht made one last attempt to take back control of the western front in the [Battle of the Bulge](https://web.archive.org/web/20150920024308/http://www.pbs.org/wgbh/amex/bulge).  It was a vicious and protracted fight, and Dirk, then an MP sergeant, was in the middle of it.  This cost him.  At one point, he jumped hastily out of a truck and landed in a very wrong way, doing something seriously bad to his spine.
@@ -59,13 +59,13 @@ You can see right away how this sort of thing could be a racket.  Your suspicion
 Sometimes — as was the case with the extremely successful [Scott Meredith](https://web.archive.org/web/20150920024308/http://www.scottmeredith.com/pages/history.html) Literary Agency — the reading-fee business was what kept him going until the professional clients became successful.  Scott, of course, didn’t necessarily write the reading-fee letters that went out to the people who had mailed in their checks.  Most of the time the people who read those manuscripts and wrote those critiques were not much past the amateur stage themselves, perhaps best described as the juvenile would-be fraction of the New York science-fiction community.  In fact, Scott himself in his younger days used to hang around the Futurians to pick up trade talk.
 
 
-He nevertheless became one of the most prosperous New York agents.  If there is anything I would criticize about Scott’s agency, it was that he instructed his reading-fee writers to end every letter with the invitation to the writer to send more manuscripts — and checks — along, and that he kept on with the reading fee business even when the actual agency work was doing well.  But when I say the woods have been full of so-called agents who lived by the checks of the innocents, and gave little or nothing of value in return, it isn’t the likes of Scott Meredith I’m talking about.  I didn’t particularly like Scott, but for some of his clients — [**Arthur Clarke**](/posts/2009-01-05-sir-arthur-and-i/), for one — he did an admirable job.
+He nevertheless became one of the most prosperous New York agents.  If there is anything I would criticize about Scott’s agency, it was that he instructed his reading-fee writers to end every letter with the invitation to the writer to send more manuscripts — and checks — along, and that he kept on with the reading fee business even when the actual agency work was doing well.  But when I say the woods have been full of so-called agents who lived by the checks of the innocents, and gave little or nothing of value in return, it isn’t the likes of Scott Meredith I’m talking about.  I didn’t particularly like Scott, but for some of his clients — [**Arthur Clarke**](/fred-pohl/2009-01-05-sir-arthur-and-i/), for one — he did an admirable job.
 
 
 Ah, I’m digressing.  Anyway, the only thing the Dirk Wylie agency needed to collect some reading-fee money for ourselves was some customers, and I knew how to get those.  When I worked for Popular Publications, I had observed that they collected all the envelopes from their “slush-pile” — that is, unsolicited — manuscripts that had arrived in thar week and sold them to someone (perhaps Scott, I never inquired). I bought a few weeks’ worth from them and converted the return addresses to a mailing list.  I then wrote a letter inviting these writers to send a story and check to the Dirk Wylie agency, and mailed it out, and the mss. and checks began to arrive.  We had rented a room in the Fifth Avenue offices of [Transradio Press](https://web.archive.org/web/20150920024308/http://www.time.com/time/magazine/article/0,9171,764084,00.html), for which fellow-Futurian [Dick Wilson](https://web.archive.org/web/20150920024308/http://www.juggle.com/richard-wilson) was working as New York bureau chief, to use mostly as a mailing address, and we were in business.
 
 
-Dirk wrote the reading-fee letters.  He had a little help from me, but he didn’t need much.  All those long old gab sessions with [**Cyril Kornbluth**](/posts/2009-04-20-cyril/) and [Damon Knight](https://web.archive.org/web/20150920024308/http://www.gcwillick.com/Spacelight/DKnight.html) and [Don Wollheim](https://web.archive.org/web/20150920024308/http://www.gcwillick.com/Spacelight/wollheim.html) and all the other Futurians had given Dirk a good grasp of where beginning writers went wrong and what to do about it.  We enlisted some of the Futurians as clients and began to make some actual sales for them — me making up a marketing list and writing the submission letters, while the scripts were run along to the editors by another would-be writer, a protege of Dirk’s wife, Rosalind, Roz herself coming along for secretarial duties.  Things were quite promising.
+Dirk wrote the reading-fee letters.  He had a little help from me, but he didn’t need much.  All those long old gab sessions with [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/) and [Damon Knight](https://web.archive.org/web/20150920024308/http://www.gcwillick.com/Spacelight/DKnight.html) and [Don Wollheim](https://web.archive.org/web/20150920024308/http://www.gcwillick.com/Spacelight/wollheim.html) and all the other Futurians had given Dirk a good grasp of where beginning writers went wrong and what to do about it.  We enlisted some of the Futurians as clients and began to make some actual sales for them — me making up a marketing list and writing the submission letters, while the scripts were run along to the editors by another would-be writer, a protege of Dirk’s wife, Rosalind, Roz herself coming along for secretarial duties.  Things were quite promising.
 
 
 There was only one serious problem.  Dirk wasn’t slowly recovering, as we had hoped.  Au contraire.  He was rapidly weakening. It had reached the point where it was getting hard for him to sit up long enough to type the letters.
@@ -77,20 +77,20 @@ And then he died.
 Those of us who loved him did our share of mourning, and then Roz and I sat down for a talk about the future of the agency.  Roz wanted to continue with it, and she wanted me to stay on as an active partner.   I hadn’t planned on any such thing, but I was pleased to see how the business was steadily growing.  So I thought it over carefully and then made the wrong decision.  I said yes.
 
 
-There’s not much more to tell on the story of my old pal Dirk Wylie.  But as the story has been inexorably moving itself into an account of the agency and how, by means of talent and hard work, I ultimately became the [**most successful dead-broke literary agent**](/posts/2010-11-28-what-my-clients-thought/) in New York, I will continue that tale in these pages, perhaps under the title of “What You Should Not Do to Become a Wealthy Literary Agent” … as soon as I write it.
+There’s not much more to tell on the story of my old pal Dirk Wylie.  But as the story has been inexorably moving itself into an account of the agency and how, by means of talent and hard work, I ultimately became the [**most successful dead-broke literary agent**](/fred-pohl/2010-11-28-what-my-clients-thought/) in New York, I will continue that tale in these pages, perhaps under the title of “What You Should Not Do to Become a Wealthy Literary Agent” … as soon as I write it.
 
 
 **Related posts:**
 
-- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**What My Clients Thought**](/posts/2010-11-28-what-my-clients-thought/)
+- [**Let There Be Fandom, Part 2: School Days**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**What My Clients Thought**](/fred-pohl/2010-11-28-what-my-clients-thought/)
 
 
 ### One Comment
 
 - [Stefan Jones](https://web.archive.org/web/20150920024308/http://www.flickr.com/photos/stefan_e_jones/) says:
 When I read about Wylie and Kornbluth, and think about the physical damage they suffered in the war and how it shortened their lives . . . how many stories like theirs must be playing out now? Stuff that you don’t read about in most SF war stories.
-[**December 17, 2010, 11:51 pm**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
+[**December 17, 2010, 11:51 pm**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 [WordPress](https://web.archive.org/web/20150920024308/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150920024308/http://dicksmithsoftware.com/)

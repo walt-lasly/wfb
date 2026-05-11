@@ -4,9 +4,9 @@ date: 2010-01-07
 categories: ["Authors", "Science"]
 tags: ["Ecology", "Economics", "Henry David Thoreau"]
 archive_url: "https://web.archive.org/web/20211201000000/http://www.thewaythefutureblogs.com/2010/01/bits-and-pieces/"
-prev_post_url: "/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/"
+prev_post_url: "/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/"
 prev_post_title: "Interesting Meetings I’ve Attended:Weekends with the Moonies"
-next_post_url: "/posts/2010-01-10-h-beam-piper/"
+next_post_url: "/fred-pohl/2010-01-10-h-beam-piper/"
 next_post_title: "H. Beam Piper"
 translated: false
 ---
@@ -34,7 +34,7 @@ Frederik Pohl
 2.  Poor bastard (emphasis on *bastard*, however).  I am currently studying Thoreau and other authors of the [“American Romantic Period”](https://web.archive.org/web/20111121092026/http://en.wikipedia.org/wiki/Romanticism) at my English class in high school.
 3.  Apparently, the [Pickens Plan](https://web.archive.org/web/20111121092026/http://www.pickensplan.com/) goes much deeper than I actually thought it did.
   Just trying to have a little fun, have a nice day!
-[**January 7, 2010, 9:10 pm**](/posts/2010-01-07-bits-and-pieces/)
+[**January 7, 2010, 9:10 pm**](/fred-pohl/2010-01-07-bits-and-pieces/)
 
 [WordPress](https://web.archive.org/web/20111121092026/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111121092026/http://dicksmithsoftware.com/)

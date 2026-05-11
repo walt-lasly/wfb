@@ -4,9 +4,9 @@ date: 2009-09-09
 categories: ["Authors", "Personal"]
 tags: ["Editors", "John W. Campbell", "Malcolm Jameson", "New York", "Publishing", "Vida Jameson"]
 archive_url: "https://web.archive.org/web/20260301000000/http://www.thewaythefutureblogs.com/2009/09/the-worlds-of-l-ron-hubbard-part-2/"
-prev_post_url: "/posts/2009-09-04-the-worlds-of-l-ron-hubbard/"
+prev_post_url: "/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/"
 prev_post_title: "The Worlds of L. Ron Hubbard"
-next_post_url: "/posts/2009-09-11-dick/"
+next_post_url: "/fred-pohl/2009-09-11-dick/"
 next_post_title: "Dick"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="lronhubbardcolor.jpg" alt="L. Ron Hubbard" caption="L. Ron Hubbard" >}}
 
 
-Все в порядке.  Теперь я потратил [** страницы за страницами**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/), рассказывая о [Л. Роне Хаббарде](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html), а сам Рон еще ни разу лично не появился на этой странице.  Что здесь происходит?
+Все в порядке.  Теперь я потратил [** страницы за страницами**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/), рассказывая о [Л. Роне Хаббарде](https://web.archive.org/web/20090917042016/http://www.gcwillick.com/Spacelight/hubblron.html), а сам Рон еще ни разу лично не появился на этой странице.  Что здесь происходит?
 
 
 Одна вещь, которая произошла, заключается в том, что каждый раз, когда я появляюсь на каком[-](https://web.archive.org/web/20090917042016/http://www.writersofthefuture.com/)нибудь мероприятии Woffie, они следят за тем, чтобы как можно скорее появился интервьюер вместе с оператором и звукорежиссером, чтобы они могли получить от меня несколько звуковых фрагментов.  У них всегда много вопросов, и все они группируются вокруг одной конкретной темы.  Поскольку я один из немногих оставшихся в живых людей, которые когда-либо встречались с ним в досаентологические времена, они хотят знать, каким на самом деле был Л. Рон Хаббард.
@@ -79,14 +79,14 @@ translator: "Yandex"
 Их было много, но один из них выделяется, и это тогдашний редактор Astounding/Analog, Джон В. Кэмпбелл-младший. Итак, чтобы продолжить рассказ, мы перейдем к новому формату.  Мы назовем это “Кэмпбелл и Хаббард”, и скоро это появится в блоге.
 
 
-** Сообщение по теме:** [** Миры Л. Рона Хаббарда **](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
+** Сообщение по теме:** [** Миры Л. Рона Хаббарда **](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/)
 
 
 ### Один комментарий
 
 - [Сильвия](https://web.archive.org/web/20090917042016/http://www.fearoflanding.com/) говорит:
 Итак, я полагаю, вы не знаете, что случилось с Вайдой? Звучит как история сама по себе.
-[**15 сентября 2009 года, 19:10 вечера**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+[**15 сентября 2009 года, 19:10 вечера**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 [WordPress](https://web.archive.org/web/20090917042016/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090917042016/http://dicksmithsoftware.com/)

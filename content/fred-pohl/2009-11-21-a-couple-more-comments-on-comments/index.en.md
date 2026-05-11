@@ -4,9 +4,9 @@ date: 2009-11-21
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Fletcher Pratt", "Hugo Gernsback", "Jeff Berkwits", "Joan Hon", "New York", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20180101000000/http://www.thewaythefutureblogs.com/2009/11/a-couple-more-comments-on-comments/"
-prev_post_url: "/posts/2009-11-17-astounding-years-30-37-bc-street-smith/"
+prev_post_url: "/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/"
 prev_post_title: "Astounding Years 30–37 BC:* Street & Smith"
-next_post_url: "/posts/2009-11-26-happy-birthday-dear-fred/"
+next_post_url: "/fred-pohl/2009-11-26-happy-birthday-dear-fred/"
 next_post_title: "Happy Birthday, Dear Fred"
 translated: false
 ---
@@ -21,13 +21,13 @@ Frederik Pohl
 
 ![keyboard](keyboardpd-300x198.jpg)
 
-Now that I’m getting marginally better at [**one-hand typing**](/posts/2009-01-19-why-i-m-no-pen-pal/), I can respond a little better to some of your remarks.  In particular there were a ton (relatively speaking) of responses to my piece on the [**Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/), and two that I just can’t not reply to.
+Now that I’m getting marginally better at [**one-hand typing**](/fred-pohl/2009-01-19-why-i-m-no-pen-pal/), I can respond a little better to some of your remarks.  In particular there were a ton (relatively speaking) of responses to my piece on the [**Science Fiction League**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/), and two that I just can’t not reply to.
 
 
-One is from a woman from Singapore whom I met there in 1985 and who is not named [**Han May**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/).  That, however, is the pen name she attached to her novel, [Star Sapphire](https://web.archive.org/web/20091205173915/http://www.overseassingaporean.sg/forums/index.php?s=&showtopic=566&view=findpost&p=21047), which just happens to be the only science-fiction novel ever written by a Singaporean. Grand to hear from you, May.  (And the rest of you please note that this blog may not be the most popular ever, but it sure does get to some far-off places.)
+One is from a woman from Singapore whom I met there in 1985 and who is not named [**Han May**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/).  That, however, is the pen name she attached to her novel, [Star Sapphire](https://web.archive.org/web/20091205173915/http://www.overseassingaporean.sg/forums/index.php?s=&showtopic=566&view=findpost&p=21047), which just happens to be the only science-fiction novel ever written by a Singaporean. Grand to hear from you, May.  (And the rest of you please note that this blog may not be the most popular ever, but it sure does get to some far-off places.)
 
 
-The other is from [**Jeff Berkwits**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/) (note also that I’m getting [**braver about using names**](/posts/2009-09-25-some-feedback-finally/)), who wants to know something about the other science fiction league, the one that hardly anybody else has heard of.
+The other is from [**Jeff Berkwits**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/) (note also that I’m getting [**braver about using names**](/fred-pohl/2009-09-25-some-feedback-finally/)), who wants to know something about the other science fiction league, the one that hardly anybody else has heard of.
 
 
 This was a phenomenon of the early 1950s and it consisted of two young men who had a plan to bring science fiction to television in a big way.  The design was to get as many of the field’s top writers into a syndicate (yes, I think they called it the Science Fiction League, disregarding  [Hugo Gernsback’s](https://web.archive.org/web/20091205173915/http://www.gernsback.com/) prior Wonder Stories club), which would then  function sort of the way ASCAP and BMI (if those are unfamiliar to you, Google them) do for writers and composers of popular songs.  And to get it off the ground, they had written to all the top sf writers in the New York area inviting them to come to an organization meeting in [Fletcher Pratt’s](https://web.archive.org/web/20091205173915/http://gcwillick.com/Spacelight/pratt.html) apartment on West 58th Street.
@@ -41,7 +41,7 @@ Unfortunately, there was not a great deal to handle.  The two organizers were pe
 
 **Related post:**  
 
-[**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+[**Let There Be Fandom: The Science Fiction League**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
 
 
 ### 2 Comments
@@ -50,10 +50,10 @@ Unfortunately, there was not a great deal to handle.  The two organizers were pe
 I spend a significant part of my day typing.  When my hands get tired or my carpal tunnel acts up I use some software called Dragon Naturally Speaking.  It allows you to dictate into the computer.  It takes some getting used to, but it works fairly well.  I use the Preferred version; I’ve heard the Professional (i.e., expensive) version isn’t enough better to be worth the money.  The newest version is version 10.
 [http://www.nuance.com/naturallyspeaking/products/editions/preferred.asp](https://web.archive.org/web/20091205173915/http://www.nuance.com/naturallyspeaking/products/editions/preferred.asp)
 By the way I love your blog.
-[**December 2, 2009, 9:09 pm**](/posts/2009-11-21-a-couple-more-comments-on-comments/)
+[**December 2, 2009, 9:09 pm**](/fred-pohl/2009-11-21-a-couple-more-comments-on-comments/)
 - Jeff Berkwits says:
 Thanks so much for taking the time to answer and clear things up. That’s great info to know. I know the show continued to incorporate the SF League name in its credits for some time, but never was entirely sure how it fit into the puzzle. Now I have a much clearer picture. Most appreciated, and belated wishes on your birthday! Here’s to many, many more!
-[**December 3, 2009, 4:51 pm**](/posts/2009-11-21-a-couple-more-comments-on-comments/)
+[**December 3, 2009, 4:51 pm**](/fred-pohl/2009-11-21-a-couple-more-comments-on-comments/)
 
 [WordPress](https://web.archive.org/web/20091205173915/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091205173915/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2013-08-12
 categories: ["Miscellaneous"]
 tags: ["Food"]
 archive_url: "https://web.archive.org/web/20170619233024/http://www.thewaythefutureblogs.com/2013/08/where-the-oinkers-go/"
-prev_post_url: "/posts/2013-07-29-and-the-day-came/"
+prev_post_url: "/fred-pohl/2013-07-29-and-the-day-came/"
 prev_post_title: "And the Day Came"
-next_post_url: "/posts/2013-08-21-stop-fracking/"
+next_post_url: "/fred-pohl/2013-08-21-stop-fracking/"
 next_post_title: "Stop Fracking!"
 translated: false
 ---
@@ -39,7 +39,7 @@ To the legal owners of those pigs, facing a loss of some $200 a pig, this was an
 
 - ミケ says:
 There’s a game about Viking raiders called Pig Wars, because pigs were one of the more valuable things in the Dark Ages. I’d like to imagine that these latter day barbarians kept the tradition alive by wearing plastic Viking helmets during their nefarious pignapping.
-[**August 13, 2013, 3:25 pm**](/posts/2013-08-12-where-the-oinkers-go/)
+[**August 13, 2013, 3:25 pm**](/fred-pohl/2013-08-12-where-the-oinkers-go/)
 - [Shakatany](https://web.archive.org/web/20170619233024/http://shakatany.livejournal.com/) says:
 Well of course they don’t care the poor things end up dead either way.
-[**August 14, 2013, 3:00 pm**](/posts/2013-08-12-where-the-oinkers-go/)
+[**August 14, 2013, 3:00 pm**](/fred-pohl/2013-08-12-where-the-oinkers-go/)

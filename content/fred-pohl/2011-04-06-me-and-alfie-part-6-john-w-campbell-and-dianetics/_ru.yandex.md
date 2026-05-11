@@ -4,9 +4,9 @@ date: 2011-04-06
 categories: ["Authors"]
 tags: ["A.E. van Vogt", "Alfred Bester", "Catherine Tarrant", "Editors", "Food", "Isaac Asimov", "John W. Campbell", "L. Ron Hubbard", "Prozines", "Religion", "Robert A. Heinlein"]
 archive_url: "https://web.archive.org/web/20170619220141/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-6-john-w-campbell-dianetics/"
-prev_post_url: "/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
+prev_post_url: "/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/"
 prev_post_title: "Me and Alfie, Part 5: Collaboration and the Futurians"
-next_post_url: "/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/"
+next_post_url: "/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/"
 next_post_title: "Me and Alfie, Part 7: Cyclothymia"
 translated: false
 translator: "Yandex"
@@ -23,9 +23,9 @@ translator: "Yandex"
 
 * Часть 6 “Альфред Бестер и Фредерик Пол — беседа”, записанная 26 июня 1978 года в кинотеатре "Тайнсайд", Ньюкасл-апон-Тайн, Великобритания.*
 
-Пол: Я только что осознал кое-что очень важное. Из всех авторов научной фантастики в англоязычном мире, которые начинали в конце 30-х и 40-х годах, выжили с тех пор и добились достаточно хороших результатов, есть только двое, на которых в значительной степени и непосредственно не повлиял [** Джон Кэмпбелл**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/). Это ты и я!
+Пол: Я только что осознал кое-что очень важное. Из всех авторов научной фантастики в англоязычном мире, которые начинали в конце 30-х и 40-х годах, выжили с тех пор и добились достаточно хороших результатов, есть только двое, на которых в значительной степени и непосредственно не повлиял [** Джон Кэмпбелл**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/). Это ты и я!
 
-Джон Кэмпбелл - тот самый парень, который в конце 30-х взял научную фантастику за шиворот и изменил ее.  Сделал это намного лучше. И такие люди, как [** Айзек Азимов**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [Ван Вогт](https://web.archive.org/web/20170619220141/http://www.gcwillick.com/Spacelight/vanvogt.html) и [** Боб Хайнлайн**](/posts/2010-05-03-working-with-robert-a-heinlein/), и почти все остальные, кто действительно стал значимыми писателями в тот период, в большом долгу перед Кэмпбеллом. Они были опубликованы в основном в его журнале и получили от него множество советов и наставлений. И я знаю, что я этого не делал.
+Джон Кэмпбелл - тот самый парень, который в конце 30-х взял научную фантастику за шиворот и изменил ее.  Сделал это намного лучше. И такие люди, как [** Айзек Азимов**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [Ван Вогт](https://web.archive.org/web/20170619220141/http://www.gcwillick.com/Spacelight/vanvogt.html) и [** Боб Хайнлайн**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/), и почти все остальные, кто действительно стал значимыми писателями в тот период, в большом долгу перед Кэмпбеллом. Они были опубликованы в основном в его журнале и получили от него множество советов и наставлений. И я знаю, что я этого не делал.
 
 Джон Кэмпбелл был моим хорошим другом, но у него была одна безвкусная черта характера — он никогда не покупал у меня никаких историй! Я продолжала пытаться, но он никогда их не покупал. А как насчет тебя, Альфи?
 
@@ -49,11 +49,11 @@ translator: "Yandex"
 
 - Нет, психиатрия на сегодня закончена. Ты не знаешь об этом? Прочтите эти статьи.”
 
-И он протягивает мне пробную версию первого произведения [**L. Рон Хаббард**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/) о [дианетике](https://web.archive.org/web/20170619220141/http://www.amazon.com/gp/product/1403144869/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1403144869)! Там около 20 таких длинных галер, и я говорю ему: “Боже, это ужасно много для чтения, мистер Кэмпбелл. Могу я забрать набор домой?”
+И он протягивает мне пробную версию первого произведения [**L. Рон Хаббард**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/) о [дианетике](https://web.archive.org/web/20170619220141/http://www.amazon.com/gp/product/1403144869/ref=as_li_ss_tl?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1403144869)! Там около 20 таких длинных галер, и я говорю ему: “Боже, это ужасно много для чтения, мистер Кэмпбелл. Могу я забрать набор домой?”
 
 “Нет, - сказал он, - это единственный набор. Я переделываю весь журнал, это так важно".
 
-Я сказал: “Хорошо”, и я сижу там, и читаю первую часть этой чепухи, и меня начинает трясти от смеха, но я держу рот на замке. Я прочитал "Вторую галеру", и с меня хватит. Но у него очень острый глаз, и хотя он разговаривает со своей помощницей [Кэтрин Таррант](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) о других вещах, я знаю, что он наблюдает за мной. Поэтому я их не читаю. Я просто даю себе достаточно времени, чтобы посмотреть на них, пока думаю о том, как справятся "Янкиз" или что-то в этом роде.
+Я сказал: “Хорошо”, и я сижу там, и читаю первую часть этой чепухи, и меня начинает трясти от смеха, но я держу рот на замке. Я прочитал "Вторую галеру", и с меня хватит. Но у него очень острый глаз, и хотя он разговаривает со своей помощницей [Кэтрин Таррант](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) о других вещах, я знаю, что он наблюдает за мной. Поэтому я их не читаю. Я просто даю себе достаточно времени, чтобы посмотреть на них, пока думаю о том, как справятся "Янкиз" или что-то в этом роде.
 
 Я доел галеты и поставил их на стол, и он сказал: “Ну, что ты об этом думаешь? Получит ли он Нобелевскую премию?”
 
@@ -119,44 +119,44 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [** Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
-- ** Astounding: Годы Кэмпбелла, ** [** Часть 1**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), [** Часть 2**](/posts/2009-12-07-astounding-the-campbell-years-part-2/)
-- ** Миры Л. Рона Хаббарда,** [** Часть 1**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/), [** Часть 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [** Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Astounding: Годы Кэмпбелла, ** [** Часть 1**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/), [** Часть 2**](/fred-pohl/2009-12-07-astounding-the-campbell-years-part-2/)
+- ** Миры Л. Рона Хаббарда,** [** Часть 1**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/), [** Часть 2**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
 
 ### 8 Комментариев
 
 - [Роберт Новолл](https://web.archive.org/web/20170619220141/http://www.robertnowall.com/) говорит:
 Никогда бы не подумал, что мне так понравятся комментарии по дианетике, но…что ж, это была одна из самых забавных вещей, с которыми я сталкивался в этом году.  К тому времени, как я дошла до “Боже милостивый, не дай мне рассмеяться ему в лицо”, я уже потеряла самообладание…
-[**6 апреля 2011 года, 7:13 утра**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**6 апреля 2011 года, 7:13 утра**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - [Стефан Джонс](https://web.archive.org/web/20170619220141/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Святой... карп.
 Заставляет задуматься, к каким НФ-тропам мы сейчас относимся серьезно - кашляющая сингулярность, кашель! в конечном счете на него будут оглядываться как на утопический либертарианизм, хотя! на как бросающийся в глаза идеологический отвлекающий маневр.
 Извините, мне нужно прочистить горло.
-[**6 апреля 2011, 14:04 вечера**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**6 апреля 2011, 14:04 вечера**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Марвин говорит:
 Это чудесно. Спасибо вам, мистер Пол.
-[**6 апреля 2011, 15:29**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**6 апреля 2011, 15:29**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Фил Палмер говорит:
 “Еще многое впереди”.
 Это быстро становится одной из десяти моих лучших фраз за всю историю.
-[**6 апреля 2011, 17:33 вечера**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**6 апреля 2011, 17:33 вечера**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Джон Армстронг говорит:
 Меня озадачивает, как некоторые в остальном очень проницательные люди были проданы и проглочены целиком аферой с дианетикой/Саентологией.
 Вам будет трудно продать это как вымысел – не “религию”, а идею о том, что Хаббарду удалось превратить эту непонятную страну в империю
 , если вы еще этого не сделали, прочтите статью в New Yorker о побеге Пола Хаггиса из церкви. Реплики саентологов напомнили мне бред Линдона Ларуша
 [http://www.newyorker.com/reporting/2011/02/14/110214fa_fact_wright](https://web.archive.org/web/20170619220141/http://www.newyorker.com/reporting/2011/02/14/110214fa_fact_wright)
 Большое спасибо за это Фреду – желаю удачи с новой книгой. Ты еще можешь сделать карьеру на этом писательском поприще
-[**9 апреля 2011, 19:03 вечера**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**9 апреля 2011, 19:03 вечера**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Аарон говорит:
 Я могу вспомнить еще одного писателя той эпохи, на которого не оказал влияния Кэмпбелл, и это Джек Вэнс.
-[**12 мая 2011 года, 5:47 утра**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**12 мая 2011 года, 5:47 утра**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - [Антон Шервуд](https://web.archive.org/web/20170619220141/http://bendwavy.org/) говорит:
 Так почему же Бестер чувствовал необходимость подлизываться к Кэмпбеллу?
-[**6 апреля 2012, 12:20 вечера**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**6 апреля 2012, 12:20 вечера**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 - Джон Лиз говорит:
 Это было весело!
-[**7 августа 2012 года, 9:41 утра**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
+[**7 августа 2012 года, 9:41 утра**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/)
 
 [WordPress](https://web.archive.org/web/20170619220141/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619220141/http://dicksmithsoftware.com/)

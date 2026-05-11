@@ -4,9 +4,9 @@ date: 2012-05-31
 categories: ["Miscellaneous"]
 tags: ["Artists", "Brian McFadden", "Media", "Politics"]
 archive_url: "https://web.archive.org/web/20201001000000/http://www.thewaythefutureblogs.com/2012/05/reading-the-funnies-in-the-times/"
-prev_post_url: "/posts/2012-05-29-gene-wolfe-the-unknowable/"
+prev_post_url: "/fred-pohl/2012-05-29-gene-wolfe-the-unknowable/"
 prev_post_title: "Gene Wolfe: The Unknowable?"
-next_post_url: "/posts/2012-06-08-those-death-panels/"
+next_post_url: "/fred-pohl/2012-06-08-those-death-panels/"
 next_post_title: "Those Death Panels"
 translated: false
 translator: "Yandex"
@@ -42,16 +42,16 @@ translator: "Yandex"
 Как мне вам за это заплатить? О, и сколько же?
 Искренне,
 Марк Х.
-[**1 июня 2012 года, 18:35 вечера**](/posts/2012-05-31-reading-the-funnies-in-the-times/)
+[**1 июня 2012 года, 18:35 вечера**](/fred-pohl/2012-05-31-reading-the-funnies-in-the-times/)
 - [Микаэль Бергстрем](https://web.archive.org/web/20120810055510/http://www.krank.se/) говорит:
 Работы Брайана также доступны на его собственном веб-сайте, [http://www.bigfatwhale.com /](https://web.archive.org/web/20120810055510/http://www.bigfatwhale.com/) . Я уверен, что вы уже знаете об этом (это упоминалось в интервью по ссылке), но я просто подумал, что хотел бы поделиться…
-[**2 июня 2012 года, 1:53 утра**](/posts/2012-05-31-reading-the-funnies-in-the-times/)
+[**2 июня 2012 года, 1:53 утра**](/fred-pohl/2012-05-31-reading-the-funnies-in-the-times/)
 - Пэт говорит:
 Марк, я думаю, единственный способ сделать пожертвование - это купить книги мистера Пола или еще что-нибудь из его книг, если у вас уже есть. Вы снова выигрываете, он выигрывает.
-[**3 июня 2012, 20:47 вечера**](/posts/2012-05-31-reading-the-funnies-in-the-times/)
+[**3 июня 2012, 20:47 вечера**](/fred-pohl/2012-05-31-reading-the-funnies-in-the-times/)
 - [Марк Хенли](https://web.archive.org/web/20120810055510/http://don'thaveone/) говорит:
 Спасибо тебе, Пэт!
-[**5 июня 2012, 16:02**](/posts/2012-05-31-reading-the-funnies-in-the-times/)
+[**5 июня 2012, 16:02**](/fred-pohl/2012-05-31-reading-the-funnies-in-the-times/)
 
 [WordPress](https://web.archive.org/web/20120810055510/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120810055510/http://dicksmithsoftware.com/)

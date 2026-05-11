@@ -4,9 +4,9 @@ date: 2009-06-01
 categories: ["Miscellaneous"]
 tags: ["Anita Hill", "Arlen Specter", "Clarence Thomas", "Politics"]
 archive_url: "https://web.archive.org/web/20090723071203/http://www.thewaythefutureblogs.com/2009/06/welcome-we-think-senator-arlen-specter-d-pa/"
-prev_post_url: "/posts/2009-05-30-caturday/"
+prev_post_url: "/fred-pohl/2009-05-30-caturday/"
 prev_post_title: "Caturday"
-next_post_url: "/posts/2009-06-04-i-m-photic-how-are-you/"
+next_post_url: "/fred-pohl/2009-06-04-i-m-photic-how-are-you/"
 next_post_title: "I’m Photic, How Are You?"
 translated: false
 ---
@@ -40,13 +40,13 @@ All the same it [wouldn’t hurt you](https://web.archive.org/web/20090723071203
 - [Robert Nowall](https://web.archive.org/web/20090723071203/http://www.robertnowall.com/) says:
 Think of Arlen Specter another way: that his positions eroded his support among Republicans, and he saw he would lose the party nomination next time ’round, so *switcheroo* he’s a Democrat now.
 May you have better luck with him.
-[**June 1, 2009, 1:21 pm**](/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
+[**June 1, 2009, 1:21 pm**](/fred-pohl/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
 - [Todd Mason](https://web.archive.org/web/20090723071203/http://www.socialistjazz.blogspot.com/) says:
 Specter basically knows where his bread is buttered…always willing to make some noise about opposing the more ridiculous GOP initiatives, he usually fell into line eventually and voted party line.  Also, once were at the same gym and locker room at the same time…if I had to choose which US senator I was to see au naturale, Specter would not, even give the slim pickings, be my first choice.
-[**June 3, 2009, 7:19 pm**](/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
+[**June 3, 2009, 7:19 pm**](/fred-pohl/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
 - [Jeff](https://web.archive.org/web/20090723071203/http://jeffcrook.blogspot.com/) says:
 When I think of Arlen Specter, I cannot help but think of the magic bullet he invented.
-[**June 4, 2009, 12:10 pm**](/posts/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
+[**June 4, 2009, 12:10 pm**](/fred-pohl/2009-06-01-welcome-we-think-senator-arlen-specter-d-pa/)
 
 [WordPress](https://web.archive.org/web/20090723071203/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090723071203/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-12-04
 categories: ["Authors", "Books", "Personal", "Travel"]
 tags: ["Ann Pohl", "Chandler Davis", "Conventions", "Emily Pohl-Weary", "Futurians", "George O. Smith", "Hugo Awards", "Jack Gillespie", "Judith Merril", "Sexuality", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170501000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-3-life-with-judy/"
-prev_post_url: "/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
+prev_post_url: "/fred-pohl/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
 prev_post_title: "How Much of a FAVOR Can You Afford to Do Me?"
-next_post_url: "/posts/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
+next_post_url: "/fred-pohl/2010-12-05-bright-sayings-of-bright-people-no-5-james/"
 next_post_title: "Bright Sayings of Bright People, No. 5: James"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![Better to Have Loved: The Life of Judith Merril](better-to-have-loved-merril.jpg)
 
-После того, как мы с [Джуди Меррил](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) поняли, что единственное, чего мы оба больше всего хотели от жизни, которой жили, - это завести ребенка, мы начали искать кого-нибудь, кто женился бы на нас, чтобы ребенок был законным.  Джуди быстро нашла кого-то.  Я забыл его имя, но он был довольно известным мировым судьей-левшой из Нью-Йорка.
+После того, как мы с [Джуди Меррил](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/) поняли, что единственное, чего мы оба больше всего хотели от жизни, которой жили, - это завести ребенка, мы начали искать кого-нибудь, кто женился бы на нас, чтобы ребенок был законным.  Джуди быстро нашла кого-то.  Я забыл его имя, но он был довольно известным мировым судьей-левшой из Нью-Йорка.
 
 
 Итак, мы поженились в 1948 году. Затем мы начали процесс обрюхатывания Джуди.  Это не заняло много времени.  Джуди довольно хорошо переносила беременность, так что мы просто продолжали жить своей жизнью.
@@ -74,7 +74,7 @@ translator: "Yandex"
 Однако есть две вещи: во-первых, Джуди в конце своей жизни начала писать свои собственные [мемуары](https://web.archive.org/web/20150910162144/http://www.amazon.com/gp/product/1896357571?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1896357571); они были завершены нашей общей внучкой [Эмили Пол-Вири](https://web.archive.org/web/20150910162144/http://www.emilypohlweary.com/) и, собственно говоря, получили Хьюго.  Джуди была вполне готова быть откровенной в своих мемуарах, так что вы можете это прочитать, а мне это и не нужно.
 
 
-И другое дело, что, несмотря ни на что — и не повезло [**проныре**](/posts/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/), если у него когда—нибудь хватит наглости предположить, что я лгу, - есть еще один живой человек, который точно знает, как требование Джуди о свободном браке разрушило наш.  Я даю этому человеку разрешение обнародовать эту историю, если он захочет.  Или, если ему нравится, пробежаться по тому, что я собираюсь рассказать, и сообщить, говорю ли я правду.
+И другое дело, что, несмотря ни на что — и не повезло [**проныре**](/fred-pohl/2010-11-27-cleaning-up-the-hater-s-mess-goes-on/), если у него когда—нибудь хватит наглости предположить, что я лгу, - есть еще один живой человек, который точно знает, как требование Джуди о свободном браке разрушило наш.  Я даю этому человеку разрешение обнародовать эту историю, если он захочет.  Или, если ему нравится, пробежаться по тому, что я собираюсь рассказать, и сообщить, говорю ли я правду.
 
 
 *Продолжение следует.*
@@ -82,7 +82,7 @@ translator: "Yandex"
 
 **Связанные должности:**  
 
-** Джудит Меррил,** [** Часть 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [** Часть 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Часть 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [** Часть 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [** Часть 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Часть 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+** Джудит Меррил,** [** Часть 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Часть 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [** Часть 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Часть 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [** Часть 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [** Часть 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Часть 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Часть 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### 3 Комментария
@@ -90,13 +90,13 @@ translator: "Yandex"
 - [Стефан Джонс](https://web.archive.org/web/20150910162144/http://www.flickr.com/photos/stefan_e_jones/) говорит:
 Я вижу, что в новом издании будет рассказана более сложная история.
 Джордж О. Смит посещал Лунакон, на который я ходил в начале 80-х. Вскоре после этого он скончался. Я помню, как был шокирован тем, как грубо один умник-фэн обошелся с ним во время обсуждения.
-[**4 декабря 2010, 11:53 вечера**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
+[**4 декабря 2010, 11:53 вечера**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/)
 - Джим Уоррад говорит:
 Джорджу О следовало бы помочиться на него.
-[** 5 декабря 2010 года, 4:44 утра**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
+[** 5 декабря 2010 года, 4:44 утра**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/)
 - Криймс говорит:
 Комментарий Стефана напоминает мне о хорошо известной лекции Харлана Эллисона (название которой, однако, я не могу вспомнить) о помешательстве фэнов на конвенциях НФ.  Этот недавний эпизод с “лаской” является ярким примером этой особенно неприятной разновидности социопатии.
-[**5 декабря 2010 года, 8:01 утра**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/)
+[**5 декабря 2010 года, 8:01 утра**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/)
 
 [WordPress](https://web.archive.org/web/20150910162144/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150910162144/http://dicksmithsoftware.com/)

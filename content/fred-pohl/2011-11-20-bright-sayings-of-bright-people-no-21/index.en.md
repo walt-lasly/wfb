@@ -4,9 +4,9 @@ date: 2011-11-20
 categories: ["Miscellaneous"]
 tags: ["Quotations", "Robin Ince"]
 archive_url: "https://web.archive.org/web/20150401000000/http://www.thewaythefutureblogs.com/2011/11/bright-sayings-of-bright-people-no-21/"
-prev_post_url: "/posts/2011-11-15-he-has-a-right-to-speak-said-the-cop-to-the-banker/"
+prev_post_url: "/fred-pohl/2011-11-15-he-has-a-right-to-speak-said-the-cop-to-the-banker/"
 prev_post_title: "‘He has a right to speak,’said the cop to the banker"
-next_post_url: "/posts/2011-11-25-you-re-invited-help-me-celebrate-my-birthday/"
+next_post_url: "/fred-pohl/2011-11-25-you-re-invited-help-me-celebrate-my-birthday/"
 next_post_title: "You’re Invited: Help Me Celebrate My Birthday"
 translated: false
 ---
@@ -30,24 +30,24 @@ Frederik Pohl
 
 - Eric says:
 Not to disagree with your (usually) spot on opinions Fred, but, I think “Congress” would be a location where zero intelligent life exists on Earth.  Just sayin’.
-[**November 21, 2011, 11:02 am**](/posts/2011-11-20-bright-sayings-of-bright-people-no-21/)
+[**November 21, 2011, 11:02 am**](/fred-pohl/2011-11-20-bright-sayings-of-bright-people-no-21/)
 - Mike says:
 As stated, Ince makes an assertion that cannot be proven.  He probably meant to say, “Wherever you are on Earth, there is more life *known to be* present than is *known to be present* in the rest of the known universe.”   The precise version does not flow as trippingly off the tongue as the imprecise one but the imprecise one is… well… imprecise.
-[**November 21, 2011, 1:19 pm**](/posts/2011-11-20-bright-sayings-of-bright-people-no-21/)
+[**November 21, 2011, 1:19 pm**](/fred-pohl/2011-11-20-bright-sayings-of-bright-people-no-21/)
 - James Hardy says:
 He didn’t say “intelligent”, and besides, I am sure there are some fairly bright woodworm in those desks, even if you ignore the slime-mold “working” at them
-[**November 22, 2011, 5:30 am**](/posts/2011-11-20-bright-sayings-of-bright-people-no-21/)
+[**November 22, 2011, 5:30 am**](/fred-pohl/2011-11-20-bright-sayings-of-bright-people-no-21/)
 - H. E. Parmer says:
 “I’m what you would call a teleological, existential atheist. I believe that there’s an intelligence to the universe … with the exception of certain parts of New Jersey.”
 [Receives quick elbow to the side from his wife, the New Jersey girl.]
-[**November 23, 2011, 12:31 am**](/posts/2011-11-20-bright-sayings-of-bright-people-no-21/)
+[**November 23, 2011, 12:31 am**](/fred-pohl/2011-11-20-bright-sayings-of-bright-people-no-21/)
 - Pat says:
 Mike, I would say that the “known” adjective used with universe in Mr Ince’s version can be parsed in exactly the form you stated the phrase. Much as you might like to think that we “know” Pluto, we don’t know much about it except for a few photons we collected, a lot of stories we made up and a groovy name. I would say Ince’s version also covers the possibility of life but not as we know it, as that is not known.
 Being a stand-up comedian, Mr Ince was probably making a fast, punchy, well-crafted quote to get his message across. Judge for yourself by the short interview for New Scientist from which the quote was taken: 
 [http://www.newscientist.com/article/mg21028165.800-robin-ince-who-needs-religion.html](https://web.archive.org/web/20111130040817/http://www.newscientist.com/article/mg21028165.800-robin-ince-who-needs-religion.html)
 My only pedantry would be to suggest that the comma should have been in a different place. That is likely to be the fault of New Scientist rather than Mr Ince.
 “Wherever you are, on Earth there is more life present than in the rest of the known universe.” Otherwise the “Wherever” could be London and so the US would be part of “the rest of the known universe”.
-[**November 24, 2011, 1:31 am**](/posts/2011-11-20-bright-sayings-of-bright-people-no-21/)
+[**November 24, 2011, 1:31 am**](/fred-pohl/2011-11-20-bright-sayings-of-bright-people-no-21/)
 
 [WordPress](https://web.archive.org/web/20111130040817/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111130040817/http://dicksmithsoftware.com/)

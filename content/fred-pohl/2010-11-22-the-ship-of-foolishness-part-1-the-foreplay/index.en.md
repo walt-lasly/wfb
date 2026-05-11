@@ -4,9 +4,9 @@ date: 2010-11-22
 categories: ["Space", "Travel"]
 tags: ["Carl Sagan", "Conventions", "Isaac Asimov", "Katherine Anne Porter", "Moon", "NASA", "Norman Mailer", "Robert A. Heinlein", "Theodore Sturgeon", "Walter Cronkite", "Worldcons"]
 archive_url: "https://web.archive.org/web/20140501000000/http://www.thewaythefutureblogs.com/2010/11/the-ship-of-foolishness-part-1-the-foreplay/"
-prev_post_url: "/posts/2010-11-21-what-fogbanks-cost/"
+prev_post_url: "/fred-pohl/2010-11-21-what-fogbanks-cost/"
 prev_post_title: "What Fogbanks Cost"
-next_post_url: "/posts/2010-11-23-the-ship-of-foolishness-part-2/"
+next_post_url: "/fred-pohl/2010-11-23-the-ship-of-foolishness-part-2/"
 next_post_title: "The Ship of Foolishness, Part 2"
 translated: false
 ---
@@ -56,7 +56,7 @@ I planned to attend — actually I was their Guest of Honor that year — and wh
 That was a little bit trickier than it looked.  Los Angeles is one of the sprawliest of cities and, while the con hotel was next to the airport, the three schemers were clear on the other side of everything at the much classier Century Plaza Hotel in Century City.  Still I did want to see them, and, besides, from experience I liked eating in the Century Plaza’s restaurants.  So I shifted a few items in my Worldcon schedule around and drove my rental car clear across LaLaLand to join Jack, Joe and Jim for a very upbeat lunch.
 
 
-Things were going splendidly, they said.  They had been working the invitation list.  [**Robert Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/) was coming, and [Ted Sturgeon](https://web.archive.org/web/20141009145836/http://www.gcwillick.com/Spacelight/sturgeon.html) and [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and at least a dozen other top science-fiction writers, said Joe.  And other celebrities, too, Jack added, people like [Carl Sagan](https://web.archive.org/web/20141009145836/http://www.carlsagan.com/) and [Norman Mailer](https://web.archive.org/web/20141009145836/http://normanmailersociety.org/about/) and [Katherine Anne Porter](https://web.archive.org/web/20141009145836/http://www.lib.umd.edu/Guests/KAP/), whose 1962 novel [Ship of Fools](https://web.archive.org/web/20141009145836/http://www.amazon.com/gp/product/0848811291?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0848811291) had created a stir in the world of publishing (an invitation which produced quite a lot of joking from Jim and Joe when Jack mentioned the title).
+Things were going splendidly, they said.  They had been working the invitation list.  [**Robert Heinlein**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/) was coming, and [Ted Sturgeon](https://web.archive.org/web/20141009145836/http://www.gcwillick.com/Spacelight/sturgeon.html) and [**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and at least a dozen other top science-fiction writers, said Joe.  And other celebrities, too, Jack added, people like [Carl Sagan](https://web.archive.org/web/20141009145836/http://www.carlsagan.com/) and [Norman Mailer](https://web.archive.org/web/20141009145836/http://normanmailersociety.org/about/) and [Katherine Anne Porter](https://web.archive.org/web/20141009145836/http://www.lib.umd.edu/Guests/KAP/), whose 1962 novel [Ship of Fools](https://web.archive.org/web/20141009145836/http://www.amazon.com/gp/product/0848811291?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0848811291) had created a stir in the world of publishing (an invitation which produced quite a lot of joking from Jim and Joe when Jack mentioned the title).
 
 
 “And,”  Joe put in, giving me a grin,  “of course everybody brings his wife or husband or main squeeze.  And we’re all comped, for the whole cruise, courtesy of Holland America.  In your case, Fred, you don’t even have to worry about air fare,  because you live near New York and that’s where this cruise starts and finishes.”
@@ -97,9 +97,9 @@ They hadn’t come aboard.
 
 **Related posts:**
 
-- **The Ship of Foolishness,** [**Part 2**](/posts/2010-11-23-the-ship-of-foolishness-part-2/), [**Part 3**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
-- [**The Wives (and Drives) of Robert Heinlein, Part 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
-- [**Isaac, Part 7**](/posts/2010-11-15-isaac-part-7/)
+- **The Ship of Foolishness,** [**Part 2**](/fred-pohl/2010-11-23-the-ship-of-foolishness-part-2/), [**Part 3**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+- [**The Wives (and Drives) of Robert Heinlein, Part 1**](/fred-pohl/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [**Isaac, Part 7**](/fred-pohl/2010-11-15-isaac-part-7/)
 
 
 ### 2 Comments
@@ -107,10 +107,10 @@ They hadn’t come aboard.
 - Tom Galloway says:
 One minor correction; while Apollo 17 did launch on December 7th, specifically at 00:33, it was originally scheduled to launch as the first night launch on December 6th at just before 22:00. There were 2 hours 40 minutes of launch holds that pushed it to early the next day. Full details at [http://history.nasa.gov/SP-4029/Apollo_17a_Summary.htm](https://web.archive.org/web/20141009145836/http://history.nasa.gov/SP-4029/Apollo_17a_Summary.htm)
 Why do I remember this? Because I was a big space nut as a kid, and those few hours of holds meant that the launch ended up happening on my birthday. Best unexpected and inadvertent present ever. : -)
-[**November 23, 2010, 3:06 am**](/posts/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
+[**November 23, 2010, 3:06 am**](/fred-pohl/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
 - [Tamfang](https://web.archive.org/web/20141009145836/http://ogre.nu/) says:
 Having lived in Los Angeles, I chuckle at describing airport to Century City as “clear across” much of anything.
-[**January 13, 2011, 1:38 am**](/posts/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
+[**January 13, 2011, 1:38 am**](/fred-pohl/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/)
 
 [WordPress](https://web.archive.org/web/20141009145836/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20141009145836/http://dicksmithsoftware.com/)

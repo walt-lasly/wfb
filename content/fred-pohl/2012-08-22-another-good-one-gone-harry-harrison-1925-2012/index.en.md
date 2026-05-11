@@ -4,9 +4,9 @@ date: 2012-08-22
 categories: ["Authors"]
 tags: ["Anne McCaffrey", "Artists", "Damon Knight", "Evelyn Harrison", "Harry Harrison", "Ireland", "Judith Merril", "L. Jerome Stanton", "Leon Stover", "Moira Harrison", "New York", "Todd Harrison"]
 archive_url: "https://web.archive.org/web/20210901000000/http://www.thewaythefutureblogs.com/2012/08/another-good-one-gone-harry-harrison-19252012/"
-prev_post_url: "/posts/2012-08-21-harry-harrison-dead-at-87/"
+prev_post_url: "/fred-pohl/2012-08-21-harry-harrison-dead-at-87/"
 prev_post_title: "Harry Harrison Dead at 87"
-next_post_url: "/posts/2012-08-23-harry-harrison-part-2-of-farewell/"
+next_post_url: "/fred-pohl/2012-08-23-harry-harrison-part-2-of-farewell/"
 next_post_title: "Harry Harrison (Part 2 of Farewell)"
 translated: false
 ---
@@ -32,7 +32,7 @@ I said,  “Of course you can.  Coats go in the first bedroom, food and drinks a
 So that made two historic events for that evening — one being the first time I saw Harry Harrison, the other being the last time I observed him being diffident.  By the time I got back to the party he had three or four people around him, all clamoring to be taught how to say dirty words in Esperanto.
 
 
-We became friends quickly — in fact, a particular kind of friends, something akin to a double-dating foursome except that we were all married, Harry to his then wife Evelyn, me to my own then wife [**Judy Merril**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/).  We seemed to have a lot of interests in common, and Harry in particular liked to talk about the art and business of writing.  He wasn’t himself a writer but instead an artist, mostly of comics.  I supposed that was simply the normal fannish interest, with a touch of wanting to do illustrations for the magazines.
+We became friends quickly — in fact, a particular kind of friends, something akin to a double-dating foursome except that we were all married, Harry to his then wife Evelyn, me to my own then wife [**Judy Merril**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/).  We seemed to have a lot of interests in common, and Harry in particular liked to talk about the art and business of writing.  He wasn’t himself a writer but instead an artist, mostly of comics.  I supposed that was simply the normal fannish interest, with a touch of wanting to do illustrations for the magazines.
 
 
 That was my bad guess.  The truth came out considerably later, when he turned up one day with a manuscript in his hands.  “Want to read it?”  he asked.  I said,  “Sure,”  although I didn’t really.  (It is no fun to have to tell a friend in what ways his story sucks.)  That problem didn’t come up, though.  The story had a good premise — something about machines that traveled underground as well as submarines did underwater.  What’s more, I was only a couple pages into it when I realized it was actually quite a good enough story to make me wish I was still an editor myself so I could accept it on the spot.  
@@ -57,7 +57,7 @@ I lost touch with Harry from time to time over the next years, owing largely to 
 That didn’t last, though.  By the time Todd and Moira were beginning to get good in their native tongue, Harry had another yearning.  He really hated to pay income tax.  What’s more, he and I had from time to time discussed the very attractive standing offer the Republic of Ireland had made to any foreign-born but part Irish person, which was instant citizenship and the chance to take advantage of Ireland’s grant of waiver of all income tax for professional artists, including writers.   Each of us having the required minimum of at least one Irish grandfather, we were both eligible.
 
 
-For me those chats were fantasy, because America was the only country I was willing to call mine.  Harry, though, was made of sterner stuff  With a little help from [**Anne McCaffrey**](/posts/2012-01-17-which-death/), who had taken the offer years earlier, and after some talks with Irish embassy people, all of a sudden Harry was miraculously transmuted to Irish and, wife and kids included, was living in a little town outside of Dublin.  And Irish he profitably remained for the rest of his life.
+For me those chats were fantasy, because America was the only country I was willing to call mine.  Harry, though, was made of sterner stuff  With a little help from [**Anne McCaffrey**](/fred-pohl/2012-01-17-which-death/), who had taken the offer years earlier, and after some talks with Irish embassy people, all of a sudden Harry was miraculously transmuted to Irish and, wife and kids included, was living in a little town outside of Dublin.  And Irish he profitably remained for the rest of his life.
 
 
 *Part 2 to come.*
@@ -65,8 +65,8 @@ For me those chats were fantasy, because America was the only country I was will
 
 **Related Posts:**
 
-- [**Harry Harrison, Part 2**](/posts/2012-08-23-harry-harrison-part-2-of-farewell/)
-- [**Harry Harrison Dead at 87**](/posts/2012-08-21-harry-harrison-dead-at-87/)
+- [**Harry Harrison, Part 2**](/fred-pohl/2012-08-23-harry-harrison-part-2-of-farewell/)
+- [**Harry Harrison Dead at 87**](/fred-pohl/2012-08-21-harry-harrison-dead-at-87/)
 
 [WordPress](https://web.archive.org/web/20130101045226/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20130101045226/http://dicksmithsoftware.com/)

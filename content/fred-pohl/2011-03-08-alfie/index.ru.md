@@ -4,9 +4,9 @@ date: 2011-03-08
 categories: ["Authors", "Personal"]
 tags: ["Advertising", "Agents", "Alfred Bester", "Broadway", "Comics", "Editors", "Horace L. Gold", "John W. Campbell", "Mort Weisinger", "New York", "Prozines", "Pulps", "Radio", "Rolly Bester", "World War II"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2011/03/alfie/"
-prev_post_url: "/posts/2011-03-05-want-some-seafood-mama/"
+prev_post_url: "/fred-pohl/2011-03-05-want-some-seafood-mama/"
 prev_post_title: "Want Some Seafood, Mama?"
-next_post_url: "/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/"
+next_post_url: "/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/"
 next_post_title: "Alfie, Part 2: When Bester was the Best"
 translated: false
 translator: "Yandex"
@@ -76,7 +76,7 @@ translator: "Yandex"
 То, чего Хорас хотел от Альфи, было не просто каким-то старым сериалом.  Это была особая история, идея сериала, о которой они говорили вдвоем.  И говорили, и говорили об этом, и продолжали говорить об этом.
 
 
-Гораций, возможно, и не был лучшим редактором научной фантастики, который когда-либо был у научной фантастики, хотя он, безусловно, был рядом с [** Джоном Кэмпбеллом**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/), но он был едва ли не самым настойчивым.  Если Гораций хотел вытянуть из вас историю, он, как правило, ее получал.  И то, что он, наконец, получил от Альфи Бестера, был трехсерийный сериал под названием Разрушенный Человек([The Demolished Man](https://web.archive.org/web/20170619215634/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD)).
+Гораций, возможно, и не был лучшим редактором научной фантастики, который когда-либо был у научной фантастики, хотя он, безусловно, был рядом с [** Джоном Кэмпбеллом**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/), но он был едва ли не самым настойчивым.  Если Гораций хотел вытянуть из вас историю, он, как правило, ее получал.  И то, что он, наконец, получил от Альфи Бестера, был трехсерийный сериал под названием Разрушенный Человек([The Demolished Man](https://web.archive.org/web/20170619215634/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD)).
 
 
 *Продолжение следует.*
@@ -84,8 +84,8 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [** Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Альфи,** [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [** Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### Один комментарий
@@ -94,7 +94,7 @@ translator: "Yandex"
 “Разрушенный Человек(The Demolished Man)” - одна из тех книг, которые я перечитываю каждые несколько лет и всегда нахожу в ней что-то новое, вызывающее восхищение. Это, и, конечно же, “Тиграх!Тиграх! (The Stars My Destination)”.
 Помимо разностороннего воображения Бестера и огромного мастерства рассказчика, я должен признать: требуется некоторая Amazing наглость, чтобы заимствовать свои сюжеты у Достоевского и Дюма соответственно. И я не имею в виду это в плохом смысле, просто это довольно высокие стандарты, которые нужно установить для себя. И он блестяще преуспел в этом. (В частности, TSMD, похоже, становится все более актуальным с каждым годом.)
 Спасибо, что поделились этим. Я с нетерпением жду вашего следующего выпуска.
-[** 10 марта 2011 года, 12:29 утра**](/posts/2011-03-08-alfie/)
+[** 10 марта 2011 года, 12:29 утра**](/fred-pohl/2011-03-08-alfie/)
 
 [WordPress](https://web.archive.org/web/20170619215634/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619215634/http://dicksmithsoftware.com/)

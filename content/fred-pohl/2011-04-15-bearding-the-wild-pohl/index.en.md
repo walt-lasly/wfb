@@ -4,9 +4,9 @@ date: 2011-04-15
 categories: ["Authors", "Books"]
 tags: ["All the Lives He Led", "Ben Bova", "Beyond the Blue Event Horizon", "Chasing Science", "Conventions", "Editors", "Gateway", "Gordon R. Dickson", "Ivor Rogers", "James Frenkel", "Lester del Rey", "New York", "Patrick Nielsen Hayden", "Platinum Pohl", "Poul Anderson", "Publishing", "The Voices of Heaven"]
 archive_url: "https://web.archive.org/web/20170619233459/http://www.thewaythefutureblogs.com/2011/04/james-frenkel-editing-frederik-pohl/"
-prev_post_url: "/posts/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
+prev_post_url: "/fred-pohl/2011-04-13-bright-sayings-of-bright-people-no-12-milton/"
 prev_post_title: "Bright Sayings of Bright People, No. 12: Milton"
-next_post_url: "/posts/2011-04-21-dogs-wolves-and-babies/"
+next_post_url: "/fred-pohl/2011-04-21-dogs-wolves-and-babies/"
 next_post_title: "Dogs, Wolves and Babies"
 translated: false
 ---
@@ -31,7 +31,7 @@ How I Came to Edit Frederik Pohl
 For years I wanted to edit the works of Frederik Pohl. I loved his fiction, and not just the novels, but a lot of his stories as well. I also thought he was a terrific editor, because I read Galaxy and Worlds of If magazines in the 1960s, and when Fred was the editor they published a lot of great science fiction. So when I starting to work in book publishing and then began to edit science fiction for Dell Books, I thought it would be extremely cool to get Fred to write for Dell.
 
 
-But I didn’t have a chance. The first time I ever really talked with him, at, I think, the Secondary Universe Conference at Queensborough Community College in New York City in 1969, he was polite, but I was  not even close to being an editor yet. I was still in college, and meeting a bunch of big-name science fiction people all at once, and overwhelmed by the experience. It seemed to me that everywhere I looked was someone whose books or stories I had read: [Poul Anderson](https://web.archive.org/web/20170619233459/http://www.nndb.com/people/744/000023675/), [Ben Bova](https://web.archive.org/web/20170619233459/http://www.benbova.net/), [**Lester Del Rey**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/), [Gordon R. Dickson](https://web.archive.org/web/20170619233459/http://www.nndb.com/people/729/000023660/), Frederik Pohl … and lots of others, including [Ivor Rogers](https://web.archive.org/web/20170619233459/http://www.uwgb.edu/univcomm/news/logarchive/logarchive34/2002oct16.htm#rogers), who wasn’t an SF writer, but did write the occasional article for Time Magazine. and was a fascinating participant.
+But I didn’t have a chance. The first time I ever really talked with him, at, I think, the Secondary Universe Conference at Queensborough Community College in New York City in 1969, he was polite, but I was  not even close to being an editor yet. I was still in college, and meeting a bunch of big-name science fiction people all at once, and overwhelmed by the experience. It seemed to me that everywhere I looked was someone whose books or stories I had read: [Poul Anderson](https://web.archive.org/web/20170619233459/http://www.nndb.com/people/744/000023675/), [Ben Bova](https://web.archive.org/web/20170619233459/http://www.benbova.net/), [**Lester Del Rey**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/), [Gordon R. Dickson](https://web.archive.org/web/20170619233459/http://www.nndb.com/people/729/000023660/), Frederik Pohl … and lots of others, including [Ivor Rogers](https://web.archive.org/web/20170619233459/http://www.uwgb.edu/univcomm/news/logarchive/logarchive34/2002oct16.htm#rogers), who wasn’t an SF writer, but did write the occasional article for Time Magazine. and was a fascinating participant.
 
 
 So years later, when I was now editing SF for Dell, I knew who Fred was, and I knew that he was hot — [Gateway](https://web.archive.org/web/20170619233459/http://www.amazon.com/gp/product/0345475836?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345475836) had just been published, and if he hadn’t been famous enough before, for all of his previous accomplishments, *Gateway* made him nothing short of the hottest SF writer on the planet. He was published by Del Rey Books, which was arguably the best sf and fantasy publisher in the world at that moment. It took enormous courage for me to even introduce myself to him, but I managed to do it — I think it was during Lunacon, New York’s annual SF convention. And then I asked him if he’d like to have lunch sometime and maybe talk about publishing a book with Dell.
@@ -93,32 +93,32 @@ In short, he’s just a lot of goddamned fun! I’m just so glad that when I fir
 
 - David B. Williams says:
 Speaking of small letters, take a look at the title on the book cover just above.  I guess a writter knows he’s arrived when his name on a book cover is ten times bigger than the title.
-[**April 15, 2011, 9:05 am**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 15, 2011, 9:05 am**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - Dwight Decker says:
 This may be just a little off-topic, but I’m not sure where else to mention it. I was at the Windy City Pulp and Paperback Convention in Lombard, IL this weekend (15-17 April ’11), and noticed there’s a picture of Mr. Pohl on the back cover of the program book. (Along with a whole slew of other people.) The explanation is that the program book’s theme this year is the pulp empire of Popular Publications, and the Pohl pic comes from a trade magazine article spotlighting the company in 1940, when he was editing SUPER SCIENCE and ASTONISHING STORIES. Yet another sighting of the elusive wild Pohl…?
-[**April 16, 2011, 2:31 am**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 16, 2011, 2:31 am**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - [lawyers](https://web.archive.org/web/20170619233459/http://lawyer.laws.com/) says:
 I did not seen him that day at I might never have gotten to buy that first book. It never hurts to have a little bit of luck….
-[**April 19, 2011, 7:30 am**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 19, 2011, 7:30 am**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - Allison Bell says:
 Off-topic, because of severe horror: I just found out that some if Andre Norton’s books are in the public domain because no one bothered to renew the rights. 
 I can see her maybe donating the rights to some kind of copyleft, fame through free stuff kind of organization, by the fact that they’re in the public domain because of neglect seems sad. 
 It would be good if someone could develop an automated search to let fans know when grandmasters’ works were falling into the public domain so someone could rescue them.
-[**April 22, 2011, 11:33 pm**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 22, 2011, 11:33 pm**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - [John Cowan](https://web.archive.org/web/20170619233459/http://www.ccil.org/~cowan) says:
 Not a bit sad.  The public domain is where all the wonderful characters who saw the light of day before 1923 live, from Odysseus to Cinderella.  Anyone can tell their stories now, and that’s a good thing.
 In any event, the loophole you mention is now closed: works are copyright as soon as you write them down, and remain so until 70 years after your death.  An awfully long time to lock them away, don’t you think?
-[**April 25, 2011, 11:59 am**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 25, 2011, 11:59 am**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - [David Dyer-Bennet](https://web.archive.org/web/20170619233459/http://dd-b.net/) says:
 As often as not, entering the public domain is precisely what is rescuing them from being unobtainable.  A few things from the very early 20th century are in print and still selling, but the vast majority is just gone, and they’re old enough that even used copies aren’t always easy to find. 
 I’m terrified that the horrid extension of copyright to life+70 years will cause many works to die because they can’t be published.  70 years after the author’s death, there will generally be NO fans of the work left to evangelize the next generation.  (Meanwhile, the great grandchildren of a very few authors will make modest profits long into the future, and Disney will still own The Mouse.)
-[**April 26, 2011, 11:13 pm**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 26, 2011, 11:13 pm**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - [Cliff Winnig](https://web.archive.org/web/20170619233459/http://cliffwinnig.com/) says:
 That’s a great story about serendipity and persistence, and how each one feeds the other.  I’m looking forward to reading All the Lives He Led.  A new Pohl novel is cause for celebration!
-[**April 27, 2011, 2:34 am**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 27, 2011, 2:34 am**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 - [Anton Sherwood](https://web.archive.org/web/20170619233459/http://bendwavy.org/) says:
 How much less would writers be motivated to write if copyright were absolutely limited to, say, thirty years?
-[**April 9, 2012, 2:06 am**](/posts/2011-04-15-bearding-the-wild-pohl/)
+[**April 9, 2012, 2:06 am**](/fred-pohl/2011-04-15-bearding-the-wild-pohl/)
 
 [WordPress](https://web.archive.org/web/20170619233459/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619233459/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2009-04-23
 categories: ["Miscellaneous"]
 tags: ["Alberto Ginastera", "Astor Piazzolla", "Beethoven", "Elgin Symphony Orchestra", "Music"]
 archive_url: "https://web.archive.org/web/20090427193836/http://www.thewaythefutureblogs.com/2009/04/music-calendar/"
-prev_post_url: "/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/"
+prev_post_url: "/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/"
 prev_post_title: "Maxwell George Frederik Warren Pohl-Weary"
-next_post_url: "/posts/2009-04-27-robert-p-mills/"
+next_post_url: "/fred-pohl/2009-04-27-robert-p-mills/"
 next_post_title: "Robert P. Mills"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![Elgin Symphony Orchestra](elgin_logo2.gif)
 
-Просто напоминаю, что концерт [симфонического оркестра Элджина](https://web.archive.org/web/20090427193836/http://www.elginsymphony.org/) [**, о котором я вам рассказывал**](/posts/2009-03-05-music-hath-charms/), с 6-й симфонией Бетховена и произведениями аргентинских композиторов [Астора Пьяццоллы](https://web.archive.org/web/20090427193836/http://www.piazzolla.org/) и [Альберто Гинастеры](https://web.archive.org/web/20090427193836/http://www.naxos.com/composerinfo/Alberto_Ginastera/26054.htm), состоится завтра в 20:00 по восточному времени на [WFMT-FM](https://web.archive.org/web/20090427193836/http://www.wfmt.com/) “Музыка в Чикаго”. Если вы не в Чикаго, вы можете послушать это [онлайн](https://web.archive.org/web/20090427193836/http://www.wfmt.com/main.taf?p=4,5,8).
+Просто напоминаю, что концерт [симфонического оркестра Элджина](https://web.archive.org/web/20090427193836/http://www.elginsymphony.org/) [**, о котором я вам рассказывал**](/fred-pohl/2009-03-05-music-hath-charms/), с 6-й симфонией Бетховена и произведениями аргентинских композиторов [Астора Пьяццоллы](https://web.archive.org/web/20090427193836/http://www.piazzolla.org/) и [Альберто Гинастеры](https://web.archive.org/web/20090427193836/http://www.naxos.com/composerinfo/Alberto_Ginastera/26054.htm), состоится завтра в 20:00 по восточному времени на [WFMT-FM](https://web.archive.org/web/20090427193836/http://www.wfmt.com/) “Музыка в Чикаго”. Если вы не в Чикаго, вы можете послушать это [онлайн](https://web.archive.org/web/20090427193836/http://www.wfmt.com/main.taf?p=4,5,8).
 
 
 Мне было бы интересно узнать, что вы думаете.
@@ -35,7 +35,7 @@ translator: "Yandex"
 Увы, мне не удалось послушать концерт.  Но поскольку я немного знаком с Пьяццоллой и Гинастерой, если не с этими конкретными произведениями, я могу немного прокомментировать те моменты, которые показались вам интересными, когда вы просматривали концерт вживую.
 Если вы привыкли к тому, что скрипки доминируют в струнном ансамбле, значит, вы слушали много музыки до 20-го века.  Даже там часто встречаются мелодические линии, отданные виолончелям или альтам.  Но есть также произведения для оркестра, в которых вообще нет скрипок (в эту категорию также входит Бранденбургский концерт № 6 Баха), и другие, в которых доминируют нижние струнные.  Симфония печальных песен Генрика Горецкого (симфония № 3), вероятно, самое популярное произведение “классической” музыки, написанное за последние 50 лет (хотя люди, которые ее ненавидят, на самом деле ее ненавидят), начинается с длинного медленного канона, который начинается с контрабасов и медленно продвигается вверх, хотя разделенные секции, в конечном счете переходящие к скрипкам.  В конце движения она снова медленно уменьшается вниз.
 Что касается оркестровки: я заметил во многих произведениях современной музыки, что некоторые композиторы являются блестяще четкими оркестровщиками, которые могут сделать так, чтобы все было слышно, а другие превращают все в грязную мешанину.  Я слышал и то, и другое от одних и тех же исполнителей в одном зале, так что дело не только в акустике и качестве исполнения.
-[**25 апреля 2009, 12:09 вечера**](/posts/2009-04-23-music-calendar/)
+[**25 апреля 2009, 12:09 вечера**](/fred-pohl/2009-04-23-music-calendar/)
 
 [WordPress](https://web.archive.org/web/20090427193836/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090427193836/http://dicksmithsoftware.com/)

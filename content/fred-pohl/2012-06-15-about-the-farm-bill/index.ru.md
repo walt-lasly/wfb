@@ -4,9 +4,9 @@ date: 2012-06-15
 categories: ["Miscellaneous"]
 tags: ["Agriculture", "Food", "Politics"]
 archive_url: "https://web.archive.org/web/20160416230121/http://www.thewaythefutureblogs.com/2012/06/about-the-farm-bill/"
-prev_post_url: "/posts/2012-06-12-the-bradbury-chronicles-conclusion/"
+prev_post_url: "/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/"
 prev_post_title: "The Bradbury Chronicles: Conclusion"
-next_post_url: "/posts/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/"
+next_post_url: "/fred-pohl/2012-06-30-so-long-jay-kay-cons-won-t-be-the-same-without-you/"
 next_post_title: "So long, Jay Kay: Cons Won’t Be the Same Without You"
 translated: false
 translator: "Yandex"
@@ -41,25 +41,25 @@ translator: "Yandex"
 
 - [Лия А. Зельдес](https://web.archive.org/web/20160416230121/http://www.zeldes.comm/) говорит:
 Еще большее беспокойство вызывают катастрофические сокращения продовольственных талонов, которые являются частью законопроекта. [http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html](https://web.archive.org/web/20160416230121/http://www.nytimes.com/2012/06/13/opinion/food-stamps-and-the-farm-bill.html)
-[**15 июня 2012, 14:18 вечера**](/posts/2012-06-15-about-the-farm-bill/)
+[**15 июня 2012, 14:18 вечера**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - [Ларри Сандерсон](https://web.archive.org/web/20160416230121/http://lsanderson.net/) говорит:
 Эй! Мне нравятся субсидии на мою ферму! Кроме того, в Нодаке нельзя выращивать зелень…
-[** 16 июня 2012 года, 9:40 утра**](/posts/2012-06-15-about-the-farm-bill/)
+[** 16 июня 2012 года, 9:40 утра**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - Говард Брейзи говорит:
 Законопроект о фермерстве касается не продовольствия, а крупного бизнеса, который покупает политиков. 
 (Конкурируя с другим крупным бизнесом)
-[** 18 июня 2012 года, 7:36 утра**](/posts/2012-06-15-about-the-farm-bill/)
+[** 18 июня 2012 года, 7:36 утра**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - Джон говорит:
 Можем ли мы просто покончить с этими чертовыми субсидиями?
-[**19 июня 2012, 14:02**](/posts/2012-06-15-about-the-farm-bill/)
+[**19 июня 2012, 14:02**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - Джон Бенкен говорит:
 Отлично, мистер Пол.  Уже сделано.  
 
 Мы могли бы также упомянуть, что большая часть выращиваемой кукурузы идет на корм коровам и выращивание их КРУПНЫМИ, что позволяет получать КРУПНУЮ говядину.   Мы должны позволить коровам есть траву, для чего они были рождены, и использовать несубсидируемую кукурузную промышленность, чтобы накормить людей.  Можно даже сказать, что субсидия на кукурузу на самом деле является субсидией на говядину. Но это слишком похоже на заговор.  
-[** 21 июня 2012 года, 9:17 утра**](/posts/2012-06-15-about-the-farm-bill/)
+[** 21 июня 2012 года, 9:17 утра**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 - [Эрик](https://web.archive.org/web/20160416230121/http://orbitalmass.com/) говорит:
 Я читаю ваши книги в попытке избежать мыслей об ужасном упадке американской политики. В краткосрочной перспективе это работает просто чудесно.
-[**21 июля 2012, 12:41 вечера**](/posts/2012-06-15-about-the-farm-bill/)
+[**21 июля 2012, 12:41 вечера**](/fred-pohl/2012-06-15-about-the-farm-bill/)
 
 [WordPress](https://web.archive.org/web/20160416230121/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416230121/http://dicksmithsoftware.com/)

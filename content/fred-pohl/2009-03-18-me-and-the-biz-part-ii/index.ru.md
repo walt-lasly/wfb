@@ -4,9 +4,9 @@ date: 2009-03-18
 categories: ["Books", "Personal"]
 tags: ["Agents", "Arnold Perl", "Ballet", "Broadway", "C.M. Kornbluth", "Collaborating", "Films", "H.N. Swanson", "Hollywood", "Jerry Bock", "Joseph Stein", "New York", "Sheldon Harnick", "Sholom Aleichem", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20090324084347/http://www.thewaythefutureblogs.com/2009/03/me-and-the-biz-part-2/"
-prev_post_url: "/posts/2009-03-16-verse-decoded/"
+prev_post_url: "/fred-pohl/2009-03-16-verse-decoded/"
 prev_post_title: "Verse Decoded"
-next_post_url: "/posts/2009-03-20-me-and-the-biz-part-ii-continued/"
+next_post_url: "/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/"
 next_post_title: "Me and the Biz, Part II (continued)"
 translated: false
 translator: "DeepL"
@@ -68,14 +68,14 @@ translator: "DeepL"
 "Фред?" - сказал голос в трубке.  "Свани говорит, что какие-то англичане под названием Redifusion Television предлагают 750 долларов за права на фильм *Торговцы Космосом*, и что ты хочешь, чтобы он с этим сделал?"
 
 
-[**Продолжение следует. . . .**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
+[**Продолжение следует. . . .**](/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/)
 
 
 **Связанные посты:*
 
-[**Me and the Biz**](/posts/2009-02-15-me-and-the-biz/)
+[**Me and the Biz**](/fred-pohl/2009-02-15-me-and-the-biz/)
 
-[**Me and the Biz, часть II (продолжение)**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
+[**Me and the Biz, часть II (продолжение)**](/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/)
 
 [WordPress](https://web.archive.org/web/20090324084347/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090324084347/http://dicksmithsoftware.com/)

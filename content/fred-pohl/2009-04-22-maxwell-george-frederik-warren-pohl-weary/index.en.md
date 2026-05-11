@@ -4,9 +4,9 @@ date: 2009-04-22
 categories: ["Personal"]
 tags: ["Colleen Pohl-Weary", "Maxwell Pohl-Weary", "Medicine", "Sasha Pohl-Weary", "Tobias Pohl-Weary"]
 archive_url: "https://web.archive.org/web/19961101000000/http://www.thewaythefutureblogs.com/2009/04/maxwell-george-frederik-warren-pohl-weary/"
-prev_post_url: "/posts/2009-04-20-cyril/"
+prev_post_url: "/fred-pohl/2009-04-20-cyril/"
 prev_post_title: "Cyril"
-next_post_url: "/posts/2009-04-23-music-calendar/"
+next_post_url: "/fred-pohl/2009-04-23-music-calendar/"
 next_post_title: "Music Calendar"
 translated: false
 ---
@@ -50,16 +50,16 @@ Welcome to the world, Max!
 
 - [Jeff](https://web.archive.org/web/20090427003812/http://jeffcrook.blogspot.com/) says:
 Congratulations!
-[**April 22, 2009, 8:32 am**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[**April 22, 2009, 8:32 am**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Anon says:
 Fabulous! Congratulations to the parents.
-[**April 22, 2009, 10:43 am**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[**April 22, 2009, 10:43 am**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - Patricia says:
 Congratulations Mr. Pohl! I\’m glad everything turned out well (your newest great-grandchild? How many do you have?).
-[**April 22, 2009, 6:12 pm**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[**April 22, 2009, 6:12 pm**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 - James says:
 Woohoo!  Welcome indeed, Max!
-[**April 24, 2009, 7:24 am**](/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
+[**April 24, 2009, 7:24 am**](/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/)
 
 [WordPress](https://web.archive.org/web/20090427003812/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090427003812/http://dicksmithsoftware.com/)

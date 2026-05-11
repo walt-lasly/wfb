@@ -4,9 +4,9 @@ date: 2009-02-20
 categories: ["Authors", "Books", "Personal", "Travel"]
 tags: ["Arthur C. Clarke", "Bernardine Dohrn", "Ed McBain", "Evan Hunter", "Hendrik Herzberg", "Isaac Asimov", "L. Sprague de Camp", "Maureen Dowd", "Peter Galison", "Ray Bradbury", "Robert A. Heinlein", "St. Augustine", "Yoko Ono"]
 archive_url: "https://web.archive.org/web/20100501000000/http://www.thewaythefutureblogs.com/2009/02/the-book-place/"
-prev_post_url: "/posts/2009-02-18-day-of-the-plutoid/"
+prev_post_url: "/fred-pohl/2009-02-18-day-of-the-plutoid/"
 prev_post_title: "Day of the Plutoid"
-next_post_url: "/posts/2009-02-25-home-at-last/"
+next_post_url: "/fred-pohl/2009-02-25-home-at-last/"
 next_post_title: "Home at Last"
 translated: false
 translator: "DeepL"
@@ -70,18 +70,18 @@ translator: "DeepL"
 - Джен сказала:
 Мы были на корабле Maasdam в январе этого года, и я была удивлена, обнаружив, что у них на самом деле есть довольно хорошая коллекция научной фантастики.  Не очень обширная, и чтобы найти ее, нужно было порыться в разделе фантастики/новых книг, но я прочитала последнюю книгу Эндера, мой муж нашел Кларка, и я почти уверена, что "Врата (Gateway)" были там среди большого количества других новых романов и серий.  
 Однажды вечером я поговорил с библиотекарем (отличная, очаровательная женщина), и, судя по всему, библиотекари сами решают, что им заказывать, так что, думаю, нам повезло с ее выбором.
-[**February 20, 2009, 5:07 am**](/posts/2009-02-20-the-book-place/)
+[**February 20, 2009, 5:07 am**](/fred-pohl/2009-02-20-the-book-place/)
 - [Jeff](https://web.archive.org/web/20090502031712/http://jeffcrook.blogspot.com/) сказал:
 Извини, но Морин Дауд - это что угодно, только не острый политический писатель. Она просто халтурщица. Она - прославленный обозреватель сплетен, который зацикливается на гендерных вопросах и превозносит мелочи, когда не выдумывает их полностью. Морин настолько ужасная халтурщица, что собственный общественный редактор "Таймс" Кларк Хойт обрушился на нее в колонке "Таймс" еще в июле прошлого года.
 Если тебе нужно подробное разоблачение ее возвышенного хакерства, советую труды Боба Сомерби на [http://www.dailyhowler.com](https://web.archive.org/web/20090502031712/http://www.dailyhowler.com/). Набери в строке поиска "Dowd", и ты увидишь полномасштабное клоунское шоу. Боб проделывает отличную работу, препарируя цирк идиотов, которым являются современные новостные СМИ.
-[**February 20, 2009, 8:18 am**](/posts/2009-02-20-the-book-place/)
+[**February 20, 2009, 8:18 am**](/fred-pohl/2009-02-20-the-book-place/)
 - [Eunoia](https://web.archive.org/web/20090502031712/http://www.savory.de/blog.htm) говорит:
 Море(sic!) это так, Фред:-
 Если посмотреть на твой план палубы, то "Библиотека" больше и "Художественной галереи", и "Магазина роскоши", так что не стучи по ним слишком сильно..
-[**February 22, 2009, 5:28 am**](/posts/2009-02-20-the-book-place/)
+[**February 22, 2009, 5:28 am**](/fred-pohl/2009-02-20-the-book-place/)
 - Дж. С. Джонс сказал:
 У H-A определенно должно быть (как минимум!) по одному вашему на каждом корабле. А на каждом круизном лайнере в южной части Тихого океана должна быть копия "Работы" Хайнлайна. *wicked grin*
-[**23 февраля 2009, 1:45 am**](/posts/2009-02-20-the-book-place/)
+[**23 февраля 2009, 1:45 am**](/fred-pohl/2009-02-20-the-book-place/)
 
 [WordPress](https://web.archive.org/web/20090502031712/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090502031712/http://dicksmithsoftware.com/)

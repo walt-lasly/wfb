@@ -4,9 +4,9 @@ date: 2013-04-03
 categories: ["Authors", "Personal", "Travel"]
 tags: ["Academics", "Clubs", "Conventions", "Editors", "Elizabeth Anne Hull", "Gerald Ford", "Gordon R. Dickson", "Jimmy Carter", "Politics", "Publishing", "Science Fiction Research Association", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20160801000000/http://www.thewaythefutureblogs.com/2013/04/arrival-part-3-kc-in-the-gops-wake/"
-prev_post_url: "/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/"
+prev_post_url: "/fred-pohl/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/"
 prev_post_title: "Bright Sayings of Bright People, No. 43: Garcia"
-next_post_url: "/posts/2013-04-15-what-does-your-dog-think-ball-means/"
+next_post_url: "/fred-pohl/2013-04-15-what-does-your-dog-think-ball-means/"
 next_post_title: "What Does Your Dog Think ‘Ball’ Means?"
 translated: false
 translator: "Yandex"
@@ -71,40 +71,40 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [** Прибытие: Самый счастливый аэропорт**](/posts/2013-03-19-arrival-the-happiest-airport/)
-- [** Прибытие, часть 2: Рассказы Хайнлайна**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
-- [** Прибытие, Часть 4: План вечеринки**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
-- [** Прибытие, часть 5: "Наверное, так оно и есть"**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
-- [** Прибытие, часть 6: Сделка**](/posts/2013-05-08-arrival-part-6-the-deal/)
-- [**Прибытие, часть 7: Отъезд**](/posts/2013-05-08-arrival-part-6-the-deal/)
+- [** Прибытие: Самый счастливый аэропорт**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
+- [** Прибытие, часть 2: Рассказы Хайнлайна**](/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/)
+- [** Прибытие, Часть 4: План вечеринки**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
+- [** Прибытие, часть 5: "Наверное, так оно и есть"**](/fred-pohl/2013-05-06-arrival-part-5-i-guess-i-am/)
+- [** Прибытие, часть 6: Сделка**](/fred-pohl/2013-05-08-arrival-part-6-the-deal/)
+- [**Прибытие, часть 7: Отъезд**](/fred-pohl/2013-05-08-arrival-part-6-the-deal/)
 
 ### 8 Комментариев
 
 - [Роберт Новолл](https://web.archive.org/web/20170620000530/http://www.robertnowall.com/) говорит:
 Никогда не позволяйте никому, кто занимается политикой, подписывать что—либо - заставляйте их платить наличными.  Это касается любой из сторон.
-[**7 апреля 2013 года, 9:42 утра**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**7 апреля 2013 года, 9:42 утра**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - [Майкл Уолш](https://web.archive.org/web/20170620000530/http://www.oldearthbooks.com/) говорит:
 МидАмериКон был моим вторым Ворлдконом (Discon II был первым), и из моих воспоминаний - место рядом с отелем под названием Pioneer Grill, где я работал допоздна. Это было место, где проститутки тусовались между, э-э... свиданиями. Они, очевидно, были рады, что большая часть фэнд-сообщества не была заинтересована в их услугах и не нуждалась в них, поскольку были очень заняты каким-то предыдущим соглашением.
-[**7 апреля 2013, 12:07 вечера**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**7 апреля 2013, 12:07 вечера**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Кен говорит:
 Даже при том, что я думаю, что знаю финал, неизвестность убивает меня!
-[**8 апреля 2013, 20:08 вечера**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**8 апреля 2013, 20:08 вечера**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Раджа Тиагараджан говорит:
 Еще раз здравствуйте, мистер Пол! Я жду, затаив дыхание, чтобы услышать продолжение этой истории 😉
-[**10 апреля 2013, 14:01**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**10 апреля 2013, 14:01**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Его превосходительство Пармер говорит:
 * [Делегаты-республиканцы] опустошили индустрию развлечений Канзас-Сити бурей фальшивых чеков и недействительных кредитных карт …*
 И всего четыре года спустя они смогли сделать то же самое со всей страной!
-[** 11 апреля 2013 года, 12:30 утра**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[** 11 апреля 2013 года, 12:30 утра**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20170620000530/http://beamjockey.livejournal.com/) говорит:
 Я не могу дождаться, чтобы увидеть, чем все это обернется.
-[**11 апреля 2013 г., 17:35 вечера**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**11 апреля 2013 г., 17:35 вечера**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Джон Армстронг говорит:
 Продолжай в том же духе, Фред – обожаю читать это
 PS – потерян ваш личный адрес электронной почты. Я хотел бы отправить вам первую часть моей новой книги, чтобы вы могли ознакомиться с посвящением. Задействовано недостаточно книг, чтобы подвергнуть вас опасности в связи с юридическими вопросами.
 Всего наилучшего,
 Джон
-[**13 апреля 2013, 15:23**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**13 апреля 2013, 15:23**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 - Нил из Чикаго говорит:
 Я был на двух Ворлдконах, которые следовали за республиканскими национальными съездами, и персонал отеля был действительно рад нас видеть...  
 
@@ -115,7 +115,7 @@ PS – потерян ваш личный адрес электронной по
 А потом мы заполнили оставшееся время, пока не пришло время для вопросов.  
 
 Один из школьных учителей спросил, как насчет того, чтобы взять класс на один из этих съездов по научной фантастике, что-то вроде экскурсии?  Мы сидели в ошеломленном молчании, пока Бак, благослови господь его душу, не сказал: “Только если у тебя есть должность!”
-[**2 мая 2013 года, 9:35 вечера**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+[**2 мая 2013 года, 9:35 вечера**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
 
 [WordPress](https://web.archive.org/web/20170620000530/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620000530/http://dicksmithsoftware.com/)

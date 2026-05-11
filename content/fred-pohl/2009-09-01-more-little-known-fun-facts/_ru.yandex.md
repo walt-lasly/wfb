@@ -4,9 +4,9 @@ date: 2009-09-01
 categories: ["Miscellaneous", "Science"]
 tags: ["Capitalism", "Cats", "Ecology", "Finance", "Politics", "Zoology"]
 archive_url: "https://web.archive.org/web/20230601000000/http://www.thewaythefutureblogs.com/2009/09/more-little-known-fun-facts/"
-prev_post_url: "/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
+prev_post_url: "/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/"
 prev_post_title: "When I Graduated from High School (After 73 Years)"
-next_post_url: "/posts/2009-09-04-the-worlds-of-l-ron-hubbard/"
+next_post_url: "/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/"
 next_post_title: "The Worlds of L. Ron Hubbard"
 translated: false
 translator: "Yandex"
@@ -56,7 +56,7 @@ translator: "Yandex"
 Может и так, но я не могу не думать больше, как собирает свои истории, а они все давали одинаковые ответы на трудные вопросы.  Вопросы наподобие: когда вы талибов и Усамы бен Ладена и "Аль-Каиды" вылизано и работает, и понадобилось всего лишь одно усилие, чтобы положить их подальше, чтобы остановить войска, чтобы вторгнуться в Ирак?  И если все-таки идти вперед и вторгнуться, почему вы сразу не захватить все Иракский взрывчатых веществ и оружия, а не оставлять их без присмотра для террористов, чтобы украсть, убить американских солдат, как они делали с тех пор?  И около сорока других вопросов, о том, что делают большинство не так-во главе руководства страны не видел, никогда.
 
 
-**Похожие темы:** [**малоизвестные факты**](/posts/2009-08-17-little-known-fun-facts/)
+**Похожие темы:** [**малоизвестные факты**](/fred-pohl/2009-08-17-little-known-fun-facts/)
 
 
 ### 3 комментариев
@@ -64,16 +64,16 @@ translator: "Yandex"
 - [Роберт Nowall](https://web.archive.org/web/20091002080940/http://www.robertnowall.com/) говорит:
 На плодородном Полумесяце…Я думаю, рано или поздно, это будет означать войну из-за воды.
 На Буша-Чейни Ассоциации выпускников …Я не думаю, что в результате вооруженного противника unfought в ваш тыл будет особенно хорошей идеей, даже если вы откажитесь нарушением резолюций ООН и многочисленных угроз и обещаний.
-[**1 сентября 2009 г., 4:27 утра.**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**1 сентября 2009 г., 4:27 утра.**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 - [Джефф](https://web.archive.org/web/20091002080940/http://jeffcrook.blogspot.com/) говорит:
 Я думаю, что ответы на эти вопросы можно найти в трудах Фрэнка Герберта. Афганистан является Selusa Secundis. Ирак Арракис. Раббан Буш, Чейни, Барон, и т. д. 
 Человек или пророк, или проницательно осознает неизбежный ход человеческой политике.
-[**1 сентября 2009 г., 8:56 ПП**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**1 сентября 2009 г., 8:56 ПП**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 - Джон говорит, ч:
 *но настоящий враг-это плотины — самые крупные Турция возвела вдоль Евфрата…*
 Что заставило меня почесать голову, потому что я знаю, что Евфрат течет в Ирак из Сирии.  Мне пришлось искать его, чтобы понять источник в Турции.  Тигр и Евфрат начинаются в почти одном и том же месте.
 Вы узнаете что-то новое каждый день…
-[**Сентябрь 3, 2009, 3:33 часов**](/posts/2009-09-01-more-little-known-fun-facts/)
+[**Сентябрь 3, 2009, 3:33 часов**](/fred-pohl/2009-09-01-more-little-known-fun-facts/)
 
 [На WordPress](https://web.archive.org/web/20091002080940/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091002080940/http://dicksmithsoftware.com/)

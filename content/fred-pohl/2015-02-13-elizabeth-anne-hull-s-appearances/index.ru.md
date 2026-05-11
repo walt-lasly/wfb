@@ -4,9 +4,9 @@ date: 2015-02-13
 categories: ["Personal"]
 tags: ["Conventions", "Elizabeth Anne Hull", "Somtow Sucharitkul"]
 archive_url: "https://web.archive.org/web/20160402091435/http://www.thewaythefutureblogs.com/2015/02/elizabeth-anne-hulls-appearances/"
-prev_post_url: "/posts/2015-01-22-walter-m-miller-jr-my-last-fist-fight/"
+prev_post_url: "/fred-pohl/2015-01-22-walter-m-miller-jr-my-last-fist-fight/"
 prev_post_title: "Walter M. Miller Jr.: My last fist fight"
-next_post_url: "/posts/2015-05-24-where-s-betty-elizabeth-anne-hull-s-public-appearances/"
+next_post_url: "/fred-pohl/2015-05-24-where-s-betty-elizabeth-anne-hull-s-public-appearances/"
 next_post_title: "Where’s Betty?Elizabeth Anne Hull’s public appearances"
 translated: false
 translator: "Yandex"
@@ -61,7 +61,7 @@ translator: "Yandex"
 Уважаемая миссис Халл: Я получила вашу самую ценную рождественскую открытку (независимо от задержки, когда чувства искренни, как вы так мудро заметили. Я ответил по электронной почте, так как в наши дни я редко (или никогда) не пользуюсь почтовой почтой. Я надеюсь, что оно дошло до вас, потому что в нем была моя благодарность за вашу доброту и мои собственные поздравления вам с 2015 годом.  
 
 Ваша работа Amazing, как и ваша постоянная дань уважения нашему дорогому ушедшему (но, тем не менее, всегда здесь) Фреду.
-[**1 марта 2015, 11:42 вечера**](/posts/2015-02-13-elizabeth-anne-hull-s-appearances/)
+[**1 марта 2015, 11:42 вечера**](/fred-pohl/2015-02-13-elizabeth-anne-hull-s-appearances/)
 
 [WordPress](https://web.archive.org/web/20160402091435/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160402091435/http://dicksmithsoftware.com/)

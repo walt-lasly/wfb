@@ -4,7 +4,7 @@ date: 2009-01-05
 categories: ["Authors", "Books", "Space", "Travel", "Writing"]
 tags: ["Arthur C. Clarke", "Collaborating", "Cyril Kornbluth", "Hydra Club", "Isaac Asimov", "Jack Williamson", "Lester del Rey", "Math", "NASA", "Pierre Fermat", "The Last Theorem", "Wernher von Braun", "World War II"]
 archive_url: "https://web.archive.org/web/20221201000000/http://thewaythefutureblogs.com/2009/01/sir-arthur-and-i/"
-next_post_url: "/posts/2009-01-07-nice-to-meet-you/"
+next_post_url: "/fred-pohl/2009-01-07-nice-to-meet-you/"
 next_post_title: "Nice to Meet You"
 translated: false
 ---
@@ -170,16 +170,16 @@ Because I was privileged to read the detailed and good-humored instructions Arth
 I’m in the midst of reading Sir Arthur’s _Astounding Days_, and just stumbled across your story of collaborating with him on _The Last Theorem_, and it fit right in somehow.  I also have very fond memories of your memoir that you’ve named this blog after.
 It’s probably not an important part of the story, and you probably already know, but Fermat’s last theorem WAS finally proved in 1995.  A lot of people do think that he didn’t actually have a proof; at least the proofs we have so far are very unlikely to have been one he had (though the first one certainly would NOT fit in that margin!)
 I’ve read your entry about your right hand problems, and related typing problems, and am not expecting you to use your scarce writing time on me!
-[**January 19, 2009, 11:23 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 19, 2009, 11:23 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [File 770 » Blog Archive » Fred Pohl Arrives in the Future](https://web.archive.org/web/20090123111018/http://file770.com/?p=789) says:
 [...] of Pohl’s first posts explains how he started collaborating with Arthur C. Clarke on The Last [...]
-[**January 20, 2009, 12:04 am**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 12:04 am**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Daniel Boone says:
 Thanks ever so much for this bit of memoir!  A book of Arthur Clarke’s was I think the second-ever volume of science fiction to fall into my hands about thirty years ago, and it wasn’t a young volume then.  It’s good to hear he was himself to the end.
-[**January 20, 2009, 12:28 am**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 12:28 am**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - steve baker says:
 Enjoyed many of your books over the years. Years when sci-fiction was still fantasy. Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.
-[**January 20, 2009, 11:13 am**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 11:13 am**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Anne Kamper says:
 Reply not expected, reading optional.  
   You will be your last collaborator and therefor complete the  
@@ -187,50 +187,50 @@ Reply not expected, reading optional.
  “lethality of collaborating on a book with Fred Pohl” record.  
 
  However I beg you not to rush to this conclusion. May your body hold up for you until you are ready. Thank you for the wonderful worlds you create.
-[**January 20, 2009, 2:17 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 2:17 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [You Have the Power » Blog Archive » No Recession Here, Alang Shipyard Flourishes | Market News …](https://web.archive.org/web/20090123111018/http://power.trippinpipe.com/no-recession-here-alang-shipyard-flourishes-market-news/) says:
 [...] The Way the Future Blogs » Blog Archive » Sir Arthur and I [...]
-[**January 20, 2009, 3:40 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 3:40 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Chris Norris says:
 I cannot believe my good fortune in finding this blog. To read the musings first hand of a person who was a hero to me and many others of my generation is a feeling for which I have few words. You and your fellows taught us to dream and made us thirst for creating tomorrow today.
-[**January 20, 2009, 5:04 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 5:04 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [Stephen Peters](https://web.archive.org/web/20090123111018/http://poptrope.blogspot.com/) says:
 If this is indicative of what you’ll be sharing I look forward to every word. I’m certainly looking forward to hearing about your experiences with others, and even the writing process. And now I’m off to buy “The Last Theorem.”
-[**January 20, 2009, 6:15 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 6:15 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20090123111018/http://beamjockey.livejournal.com/) says:
 Steve Baker writes:
 *Today a hydrogen breathing talking spider from an advanced civilization that ceased to exist a billion years ago could turn up, and thanks to you and your comrades, no one would stare.*
 With all due respect, Steve, I’m afraid I would stare.
-[**January 20, 2009, 6:59 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 6:59 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [Jerry Wright](https://web.archive.org/web/20090123111018/http://www.bewilderingstories.com/) says:
 I just finished “The Last Theorem”, and found it delightful.  And then Boing Boing sent me to the blog!  A terrific coincidence.
-[**January 20, 2009, 9:34 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 20, 2009, 9:34 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Simon says:
 What a remarkable occasion today has been. First, Mr Obama is in the White House, and secondly, dear old Mr Pohl is writing a blog! Your account of your final communications with Arthur C Clarke made me moist around the eyes, tempered with the joy that one of my favourite childhood authors (I think I was around 11 or 12 when I first read Gateway and have only recently had the pleasure to revisit it) is on-line to share with us. I blame you sir with corrupting me at an impressionable young age with such fanciful thoughts, and hope you accept this blame in the spirit of which it is given, lovingly and with deep appreciation. You are now in my thoughts (and my favourites list). I too am off to track down a copy of The Last Theorum.
-[**January 21, 2009, 2:48 am**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 21, 2009, 2:48 am**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Bud Webster says:
 Fred, this is terrific news!  Now I can pick your brains for information online, and not have to suffer the vagaries of the USPS.
 I suspect that this is going to be a very popular blog indeed.
-[**January 21, 2009, 6:09 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 21, 2009, 6:09 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Gardner Dozois says:
 Great to “see” you here, Fred, or whatever it is we’re doing, “wherever” it is we are.  It’s a strange world we live in, isn’t it?
 Was recently reminded that you were one of the few SF writers to predict anything even remotely like today’s internet world, in AGE OF THE PUSSYFOOT.
-[**January 21, 2009, 8:26 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 21, 2009, 8:26 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [Linkblogging for 22/01/09 « Sci-Ence! Justice Leak!](https://web.archive.org/web/20090123111018/http://andrewhickey.info/2009/01/22/linkblogging-for-220109/) says:
 [...] Pohl’s started blogging. Here’s the story of his recent book, a collaboration with the late Arthur C [...]
-[**January 22, 2009, 1:19 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 22, 2009, 1:19 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [John Wright](https://web.archive.org/web/20090123111018/http://www.sff.net/people/John-c-wright/) says:
 It is indeed a strange world we live in. A beautiful, puzzling, intricate and logically-constructed world, but a strange one. Arthur Clarke was one of the men who, in my misspent youth, first convinced me of that. He will be missed. 
 Heh. You and my lovely and talented wife have the same editor, good ol’ Jim Frenkel.
-[**January 22, 2009, 2:55 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 22, 2009, 2:55 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - Allan Maurer says:
 I loved THE WAY THE FUTURE WAS, and when I heard about your blog in Locus, looked forward to reading it. Both the Pohl/Kornbluth novels of the 1950s and your editing of Galaxy and IF, not to mention your occasional non-fiction, remain high on my list of good reads. Its as good as I expected and I hope you live another 89 years (c’mon, biotech, catch up with SF).  
 
 You might want to try using one of the speech recognition systems to do some writing. They’re better than they used to be.
-[**January 22, 2009, 3:30 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 22, 2009, 3:30 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 - [Soon Lee](https://web.archive.org/web/20090123111018/http://soon-lee.livejournal.com/) says:
 Thank you, sir, for sharing your experiences.
-[**January 22, 2009, 4:47 pm**](/posts/2009-01-05-sir-arthur-and-i/)
+[**January 22, 2009, 4:47 pm**](/fred-pohl/2009-01-05-sir-arthur-and-i/)
 
 
 ![Feeds](feed-icon-14x14.png)

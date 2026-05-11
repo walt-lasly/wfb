@@ -4,9 +4,9 @@ date: 2014-02-20
 categories: ["Betty's Posts", "Science"]
 tags: ["Ecology", "Elizabeth Anne Hull"]
 archive_url: "https://web.archive.org/web/20170401000000/http://www.thewaythefutureblogs.com/2014/02/paper-or-plastic-i-e-new-trees-or-ancient-ones/"
-prev_post_url: "/posts/2014-02-17-69-of-supermarket-pork-tainted/"
+prev_post_url: "/fred-pohl/2014-02-17-69-of-supermarket-pork-tainted/"
 prev_post_title: "69% of Supermarket Pork Tainted"
-next_post_url: "/posts/2014-02-22-timebinding-with-fred-and-dave-truesdale/"
+next_post_url: "/fred-pohl/2014-02-22-timebinding-with-fred-and-dave-truesdale/"
 next_post_title: "Timebinding with Fred and Dave Truesdale"
 translated: false
 translator: "Yandex"
@@ -56,7 +56,7 @@ translator: "Yandex"
 
 - пиджкамп говорит:
 Я знаю, что лично у меня гораздо большая склонность к беглому просмотру электронного текста, чем к чтению текста на бумаге. Не совсем уверен, почему это так и насколько большой тренировочный эффект это дает.
-[** 23 февраля 2014 года, 1:19 утра**](/posts/2014-02-20-paper-or-plastic-i-e-new-trees-or-ancient-ones/)
+[** 23 февраля 2014 года, 1:19 утра**](/fred-pohl/2014-02-20-paper-or-plastic-i-e-new-trees-or-ancient-ones/)
 
 [WordPress](https://web.archive.org/web/20160416124623/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416124623/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-12-15
 categories: ["Authors", "Personal"]
 tags: ["Agents", "Editors", "Futurians", "Judith Merril", "Mike Tilden", "Prozines", "Pulps", "Scott Meredith"]
 archive_url: "https://web.archive.org/web/20110201000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-8-spymaster/"
-prev_post_url: "/posts/2010-12-14-cordwainer-smith-the-ballad-of-lost-linebarger-part-2/"
+prev_post_url: "/fred-pohl/2010-12-14-cordwainer-smith-the-ballad-of-lost-linebarger-part-2/"
 prev_post_title: "Cordwainer Smith: The Ballad of Lost Linebarger, Part 2"
-next_post_url: "/posts/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
+next_post_url: "/fred-pohl/2010-12-16-mary-kornbluth-part-2-the-death-of-cyril/"
 next_post_title: "Mary Kornbluth, Part 2: The Death of Cyril"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![Secret Squirrel](squirrel.gif)
 
-I have one more little story that I want to tell you about our [**Custody Wars**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), and then we can leave that unpleasant subject forever.  It concerns the way in which Judy was able to make people who should have been neutral declare loyalty to her.
+I have one more little story that I want to tell you about our [**Custody Wars**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), and then we can leave that unpleasant subject forever.  It concerns the way in which Judy was able to make people who should have been neutral declare loyalty to her.
 
 
 I was working in my Fifth Avenue literary agency one day when the door opened and a man named Sam walked in.  (His name wasn’t actually Sam, but I see no reason to tell you what his real name was, although there are quite a few people around who would have no trouble guessing it.)  Sam said the reason he had come was that he had been working for the [Scott Meredith](https://web.archive.org/web/20150921185203/http://www.scottmeredith.com/pages/history.html) agency, Scott had fired him and he needed a job.  Would I like to hire him?
@@ -65,14 +65,14 @@ Remember what I said about Judy’s phenomenal ability to attract loyalty from o
 
 **Related posts:**  
 
-**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/posts/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/),  [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+**Judith Merril,** [**Part 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 2**](/fred-pohl/2010-12-02-judith-merril-part-2-more-motherhood/), [**Part 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/),  [**Part 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 
 ### One Comment
 
 - [Stefan Jones](https://web.archive.org/web/20150921185203/http://www.flickr.com/photos/stefan_e_jones/) says:
 I imagine it’s rough going over this stuff, but these are the things great and honest biographies are made of.
-[**December 15, 2010, 10:46 pm**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
+[**December 15, 2010, 10:46 pm**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/)
 
 [WordPress](https://web.archive.org/web/20150921185203/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150921185203/http://dicksmithsoftware.com/)

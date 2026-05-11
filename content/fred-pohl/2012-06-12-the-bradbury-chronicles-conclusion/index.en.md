@@ -4,9 +4,9 @@ date: 2012-06-12
 categories: ["Authors"]
 tags: ["Conventions", "Films", "Forrest J Ackerman", "Hannes Bok", "Ray Bradbury", "Worldcons"]
 archive_url: "https://web.archive.org/web/20210501000000/http://www.thewaythefutureblogs.com/2012/06/the-bradbury-chronicles-conclusion/"
-prev_post_url: "/posts/2012-06-08-those-death-panels/"
+prev_post_url: "/fred-pohl/2012-06-08-those-death-panels/"
 prev_post_title: "Those Death Panels"
-next_post_url: "/posts/2012-06-15-about-the-farm-bill/"
+next_post_url: "/fred-pohl/2012-06-15-about-the-farm-bill/"
 next_post_title: "About the Farm Bill"
 translated: false
 ---
@@ -26,7 +26,7 @@ Frederik Pohl
 A few days ago, I received a telephone call to tell me that [Ray Bradbury](https://web.archive.org/web/20120822031017/http://www.raybradbury.com/) had just died.
 
 
-I can’t write a proper obituary about the man who had been a friend for very nearly three-quarters of a century, ever since that day in 1939 when both of us — kid fans, yearning to be writers, though neither of us had sold a story yet — ran into each other at the [very first World Science Fiction Convention](https://web.archive.org/web/20120822031017/http://fanac.org/worldcon/NYcon/w39-p00.html) ever.  Ray had dreamed of going, but didn’t have the price of bus fare until the great father figure of fandom, [Forrest J Ackerman](https://web.archive.org/web/20120822031017/http://www.time.com/time/magazine/article/0,9171,1865977,00.html), loaned it to him — and, once present, Ray spent most of his time trying to interest New York editors in the cover art of his friend, [**Hannes Bok**](/posts/2011-09-03-hannes-bok-futurian-artist-in-chief/).
+I can’t write a proper obituary about the man who had been a friend for very nearly three-quarters of a century, ever since that day in 1939 when both of us — kid fans, yearning to be writers, though neither of us had sold a story yet — ran into each other at the [very first World Science Fiction Convention](https://web.archive.org/web/20120822031017/http://fanac.org/worldcon/NYcon/w39-p00.html) ever.  Ray had dreamed of going, but didn’t have the price of bus fare until the great father figure of fandom, [Forrest J Ackerman](https://web.archive.org/web/20120822031017/http://www.time.com/time/magazine/article/0,9171,1865977,00.html), loaned it to him — and, once present, Ray spent most of his time trying to interest New York editors in the cover art of his friend, [**Hannes Bok**](/fred-pohl/2011-09-03-hannes-bok-futurian-artist-in-chief/).
 
 
 In the seventy-odd years since then, our lives intersected from time to time.  Now and then I would buy something of his for some magazine or anthology I was editing; sometimes we would appear on some con program together, occasionally I would take him to lunch in the endeavor, usually unsuccessful, to persuade him to write more for me.
@@ -45,45 +45,45 @@ So long, Ray.  You’re leaving me feeling a little lonesome.
 
 - Steven says:
 Thanks, Fred for a very touching eulogy of another of the greats of science fiction. I was lucky enough to see him give a talk at LSU in the 1990s. They wheeled him in in a wheelchair, so I thought he might be near the end back then, but then he gave the most animated, humorous, and enlightening talk I had seen. And he made it another decade-and-a-half. He will be missed. Here’s hoping you will be with us for some time yet, you are still my favorite of yours, or any, era of science fiction.
-[**June 12, 2012, 9:28 pm**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 12, 2012, 9:28 pm**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - James Flanagan says:
 Fred, I am so sorry at your loss. A remote but important loss to all of us but such a personal one for you. I only have a few lifetime freinds and I cannot imagine how I will feel if any of them pass.
 Thank you though, for giving someone in the next generation a really wonderful model of how to live a complete, long, meaningful life.
-[**June 13, 2012, 12:58 am**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 13, 2012, 12:58 am**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - [Steven](https://web.archive.org/web/20120822031017/http://www.mcneese.edu/) says:
 Thank you, Mr. Pohl for the thoughtful memorial on Mr. Bradbury. I had the good fortune of seeing him give a talk in the 90s at LSU. One of the better such talks I have seen, as he was quite the raconteur. And thank you for all of the insights into your generation of science fiction writers, which is still my favorite, btw.
-[**June 13, 2012, 1:26 pm**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 13, 2012, 1:26 pm**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - [Phil Nichols](https://web.archive.org/web/20120822031017/http://www.bradburymedia.co.uk/) says:
 Fred, thanks for posting this. I was at the Eaton conference in 2008, and met you and Ray. I (and many others) have wonderful photos of you and Ray playing with the planet Mars.
 His passing is very sad, and the end of an era. But, as Ray would have said, “Onward!”
-[**June 14, 2012, 2:43 am**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 14, 2012, 2:43 am**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - [TAD](https://web.archive.org/web/20120822031017/http://www.tadsbackupplan.blogspot.com/) says:
 Bradbury’s MARTIAN CHRONICLES was the first SF book I ever read. I’ll miss him.
-[**June 14, 2012, 5:01 am**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 14, 2012, 5:01 am**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - ironchefoklahoma says:
 Thank you for sharing your thoughts on Ray Bradbury. The small details in his life aren’t available to any but those who knew him personally, and that group is dwindling. I’m sorry for your loss.
-[**June 15, 2012, 1:50 pm**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 15, 2012, 1:50 pm**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - [Bill Goodwin](https://web.archive.org/web/20120822031017/http://771715/) says:
 Thanks for these memories Mr. Pohl.  I can add that the hamburger joints in Ray’s neighborhood also knew him, and knew how to make a Bradbury burger: lots of onions and mustard, but no lettuce!
 Ray was a dear buddy; I spoke at his funeral.  My words at the services can be found on the message boards at the official Ray Bradbury website, which Phil Nichols moderates (see “What I said at Ray’s funeral” under “Resources”).
 The stories about Ray are really true.  He was pure gold.
-[**June 16, 2012, 8:17 pm**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 16, 2012, 8:17 pm**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - Rob Hansen says:
 I never met Ray or Forry, alas, but I’ve just posted photos of those gentleman – both recent and from the 1930s/40s – that may be of interest:
 [http://www.fiawol.org.uk/FanStuff/THEN%20Archive/Brad4sj/Brad4sj.htm](https://web.archive.org/web/20120822031017/http://www.fiawol.org.uk/FanStuff/THEN%20Archive/Brad4sj/Brad4sj.htm)
-[**June 18, 2012, 12:59 pm**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 18, 2012, 12:59 pm**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - H. E. Parmer says:
 Ray was one of those rare birds: a poet who worked mainly in prose. I was a big fan from the moment my 10-year-old self checked out *R Is for Rocket* from my elementary school library. (And I owe a belated “Thanks!” to that librarian, who didn’t turn her nose up at sf.)
 Ray had a truly unique sensibility, not to mention a marvellously skewed take on life. And he was friends with my other favorite Ray (Harryhausen). 
 Judging by the shelves and stacks of books which are currently crowding me out of our small house, though, it may have been a big mistake for me to  have read *Fahrenheit 451* at such an impressionable age …
-[**June 18, 2012, 3:06 pm**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 18, 2012, 3:06 pm**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 - [John Armstrong](https://web.archive.org/web/20120822031017/http://from-ashes.com/) says:
 Summer vacation when I was 13 I walked up to the high school one day with 3 or 4 dollars in my pocket, to register in the Creative Writing summer course. An hour later it was stil juts me and the instructor and the course was cancelled.  
 
 On the way home I went into the drugstore and bought Martian Chronicles off the paperback spinner rack. I’m pretty sure I learned more from that book than I could have from the course.  
 
 Ray was the most persuasive writer about Joy I have ever read.
-[**June 21, 2012, 12:20 am**](/posts/2012-06-12-the-bradbury-chronicles-conclusion/)
+[**June 21, 2012, 12:20 am**](/fred-pohl/2012-06-12-the-bradbury-chronicles-conclusion/)
 
 [WordPress](https://web.archive.org/web/20120822031017/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120822031017/http://dicksmithsoftware.com/)

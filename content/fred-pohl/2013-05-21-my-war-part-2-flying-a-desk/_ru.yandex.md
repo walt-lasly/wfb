@@ -4,9 +4,9 @@ date: 2013-05-21
 categories: ["Personal"]
 tags: ["Italy", "World War II"]
 archive_url: "https://web.archive.org/web/20201201000000/http://www.thewaythefutureblogs.com/2013/05/my-war-part-2-flying-a-desk/"
-prev_post_url: "/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
+prev_post_url: "/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/"
 prev_post_title: "My War: The Night of the Invasion of Southern France"
-next_post_url: "/posts/2013-05-22-did-you-get-any/"
+next_post_url: "/fred-pohl/2013-05-22-did-you-get-any/"
 next_post_title: "Did You Get Any?"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 ![Air Corps poster](Air-Corps-poster.jpg)
 
 
-Мое пребывание в [** 456-й бомбардировочной группе**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/) было прервано, когда кто-то в штабе ВВС в Казерте, Италия, заметил, что, будучи гражданским лицом, я был писателем и редактором журнала, и немедленно отозвал меня обратно в штаб, чтобы я писал рекламные материалы для метеорологической эскадрильи.  Ничто из того, что я делал в этом качестве, уверяю вас, не причинило ни малейшего вреда немецкому вермахту или хотя бы вообразимой пользы союзникам — нет, подождите минутку.  Черт возьми, я действительно кое-что сделал для рядовых 12-й [метеорологической эскадрильи](https://web.archive.org/web/20170620034616/http://www.ibiblio.org/hyperwar/AAF/VII/AAF-VII-11.html).  Видите ли, их поимели, а они даже не подозревали об этом.
+Мое пребывание в [** 456-й бомбардировочной группе**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/) было прервано, когда кто-то в штабе ВВС в Казерте, Италия, заметил, что, будучи гражданским лицом, я был писателем и редактором журнала, и немедленно отозвал меня обратно в штаб, чтобы я писал рекламные материалы для метеорологической эскадрильи.  Ничто из того, что я делал в этом качестве, уверяю вас, не причинило ни малейшего вреда немецкому вермахту или хотя бы вообразимой пользы союзникам — нет, подождите минутку.  Черт возьми, я действительно кое-что сделал для рядовых 12-й [метеорологической эскадрильи](https://web.archive.org/web/20170620034616/http://www.ibiblio.org/hyperwar/AAF/VII/AAF-VII-11.html).  Видите ли, их поимели, а они даже не подозревали об этом.
 
 
 12-я метеорологическая эскадрилья была необычна среди небольших воинских подразделений тем, что она была разделена на совсем крошечные группы, по четыре-пять офицеров и полдюжины рядовых, или ровно столько, чтобы укомплектовать метеостанцию для каждой бомбардировочной группы.  Люди из этих отрядов редко видели кого-либо из двух-трех тысяч других человек в отряде.
@@ -45,9 +45,9 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- **Моя война**, [** Часть 1**](/posts/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
-- [** Хэл Клемент: майор Гарри Стаббс**](/posts/2011-03-01-hal-clement-major-harry-stubbs/)
-- [** Как я потерял своего самого старого друга (и приобрел литературное агентство)**](/posts/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
+- **Моя война**, [** Часть 1**](/fred-pohl/2013-05-20-my-war-the-night-of-the-invasion-of-southern-france/)
+- [** Хэл Клемент: майор Гарри Стаббс**](/fred-pohl/2011-03-01-hal-clement-major-harry-stubbs/)
+- [** Как я потерял своего самого старого друга (и приобрел литературное агентство)**](/fred-pohl/2010-12-17-how-i-lost-my-oldest-friend-and-gained-a-literary-agency/)
 
 
 ### Один комментарий
@@ -56,7 +56,7 @@ translator: "Yandex"
 Отличный материал, продолжайте в том же духе.
 Отель для отдыха? Черт. Реальные рассказы о войне рисуют гораздо более сложную картину, чем вымысел.
 В наше время вы были бы редактором веб-сайта эскадрильи.
-[**21 мая 2013, 12:01 вечера**](/posts/2013-05-21-my-war-part-2-flying-a-desk/)
+[**21 мая 2013, 12:01 вечера**](/fred-pohl/2013-05-21-my-war-part-2-flying-a-desk/)
 
 [WordPress](https://web.archive.org/web/20170620034616/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620034616/http://dicksmithsoftware.com/)

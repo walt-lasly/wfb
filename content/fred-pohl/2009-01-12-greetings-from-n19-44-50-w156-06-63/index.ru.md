@@ -4,9 +4,9 @@ date: 2009-01-12
 categories: ["Books", "Personal", "Travel", "Writing"]
 tags: ["Elizabeth Anne Hull", "Gateway", "Geology", "Hawai'i", "Heechee"]
 archive_url: "https://web.archive.org/web/20090125013352/http://thewaythefutureblogs.com/2009/01/greetings-from-19-deg-4450-min-n-156-deg-0663-min-w/"
-prev_post_url: "/posts/2009-01-07-nice-to-meet-you/"
+prev_post_url: "/fred-pohl/2009-01-07-nice-to-meet-you/"
 prev_post_title: "Nice to Meet You"
-next_post_url: "/posts/2009-01-19-why-i-m-no-pen-pal/"
+next_post_url: "/fred-pohl/2009-01-19-why-i-m-no-pen-pal/"
 next_post_title: "Why I’m No Pen Pal"
 translated: false
 translator: "DeepL"
@@ -60,16 +60,16 @@ translator: "DeepL"
 Приветик - хочу сразу сказать, что тебе не нужно отвечать на это.  Это просто стандартный комментарий "Вау, мне нравятся твои вещи", и мне не нужен ответ, честно говоря.  Я просто хотел убедиться, что сказал тебе, что мне всегда нравились твои работы, с того самого дня, когда Джудит Меррил вложила мне в руки копию "Врата (Gateway)" много лет назад.   Мне жаль слышать, что у тебя такие проблемы с телом; я только начинаю ощущать медленное угасание своего тела в 42 года.  
 Надеюсь, тебе понравится твой круиз!
 Cait
-[**Январь 19, 2009, 11:02 pm**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**Январь 19, 2009, 11:02 pm**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 - jasonmitchell сказал:
 Я люблю Гавайи и обожаю круизы (я еще не был в гавайском круизе) - надеюсь, у тебя будет приятное путешествие.
  Я читаю твои работы уже более 20 лет - и с нетерпением жду прочтения "Последней теоремы"
 За твое здоровье из прохладного Чикаго
-[**Январь 22, 2009, 8:46 am**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**Январь 22, 2009, 8:46 am**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 - Алли говорит:
 Хотя я наслаждаюсь твоей писаниной, люблю круиз и считаю идею блога Пола отличной, я пишу не для этого.
 Она действительно повесила трубку? Последние 2 абзаца просто уморительны; я до сих пор хихикаю.
-[**January 22, 2009, 8:40 pm**](/posts/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
+[**January 22, 2009, 8:40 pm**](/fred-pohl/2009-01-12-greetings-from-n19-44-50-w156-06-63/)
 
 [WordPress](https://web.archive.org/web/20090125013352/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090125013352/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-07-31
 categories: ["Science"]
 tags: ["Niels Bohr", "Quotations"]
 archive_url: "https://web.archive.org/web/20161201000000/http://www.thewaythefutureblogs.com/2010/07/bright-sayings-of-geniuses-no-1/"
-prev_post_url: "/posts/2010-07-28-a-j-part-2/"
+prev_post_url: "/fred-pohl/2010-07-28-a-j-part-2/"
 prev_post_title: "A J, Part 2"
-next_post_url: "/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/"
+next_post_url: "/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/"
 next_post_title: "Meet Ardi …  She May Be Your Grandma"
 translated: false
 ---
@@ -28,14 +28,14 @@ Frederik Pohl
 
 **Related post:**  
 
-Bright Sayings of Geniuses, [**No. 2**](/posts/2010-09-15-bright-sayings-of-geniuses-no-2-asimov/)
+Bright Sayings of Geniuses, [**No. 2**](/fred-pohl/2010-09-15-bright-sayings-of-geniuses-no-2-asimov/)
 
 
 ### One Comment
 
 - Bill Goodwin says:
 Makes sense to me, don’t it?
-[**August 1, 2010, 12:13 pm**](/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/)
+[**August 1, 2010, 12:13 pm**](/fred-pohl/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/)
 
 [WordPress](https://web.archive.org/web/20140806045648/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140806045648/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2012-08-21
 categories: ["Authors", "Writing"]
 tags: ["Charles Platt", "Douglas Martin", "Frank Olynyk", "Harry Harrison", "Media"]
 archive_url: "https://web.archive.org/web/20260201000000/http://www.thewaythefutureblogs.com/2012/08/harry-harrison-dead-at-87/"
-prev_post_url: "/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/"
+prev_post_url: "/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/"
 prev_post_title: "Fowler Schocken Starts ’Em Young!(Evolutionarily Speaking)"
-next_post_url: "/posts/2012-08-22-another-good-one-gone-harry-harrison-1925-2012/"
+next_post_url: "/fred-pohl/2012-08-22-another-good-one-gone-harry-harrison-1925-2012/"
 next_post_title: "Another good one gone — Harry Harrison, 1925–2012"
 translated: false
 translator: "Yandex"
@@ -42,24 +42,24 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [** Гарри Харрисон, часть 1**](/posts/2012-08-22-another-good-one-gone-harry-harrison-1925-2012/)
-- [** Гарри Харрисон, часть 2**](/posts/2012-08-23-harry-harrison-part-2-of-farewell/)
+- [** Гарри Харрисон, часть 1**](/fred-pohl/2012-08-22-another-good-one-gone-harry-harrison-1925-2012/)
+- [** Гарри Харрисон, часть 2**](/fred-pohl/2012-08-23-harry-harrison-part-2-of-farewell/)
 
 
 ### 4 Комментария
 
 - [Бесконечное множество черепах](https://web.archive.org/web/20160617153134/http://www.zazzle.com/infinitudetortoises?rf=238757806594649553) говорит:
 Увы — и неудивительно — некролог в "Таймс" не появился на странице А1 печатного издания (см. [http://www.nytimes.com/images/2012/08/17/nytfrontpage/scan.jpg](https://web.archive.org/web/20160617153134/http://www.nytimes.com/images/2012/08/17/nytfrontpage/scan.jpg) ).  Рад, однако, видеть, что я был не единственным, кто заметил то беспричинное пренебрежение к НФ, с которого мистер Мартин счел нужным начать свою статью.  Не можешь упустить хорошую возможность побросать фекалии, а?  Гарри заслуживал гораздо большего — хотя, как вы заметили, качество игры улучшилось после того ужасного старта.
-[**21 августа 2012, 19:46 вечера**](/posts/2012-08-21-harry-harrison-dead-at-87/)
+[**21 августа 2012, 19:46 вечера**](/fred-pohl/2012-08-21-harry-harrison-dead-at-87/)
 - [Майкл Уолш](https://web.archive.org/web/20160617153134/http://www.oldearthbooks.com/) говорит:
 Кристофер Прист написал очень хороший некролог: [http://www.guardian.co.uk/books/2012/aug/15/harry-harrison](https://web.archive.org/web/20160617153134/http://www.guardian.co.uk/books/2012/aug/15/harry-harrison)
-[**21 августа 2012, 10:48 вечера**](/posts/2012-08-21-harry-harrison-dead-at-87/)
+[**21 августа 2012, 10:48 вечера**](/fred-pohl/2012-08-21-harry-harrison-dead-at-87/)
 - Бретт Деллинджер говорит:
 Мне очень понравился Гарри Харрисон. Как заядлый читатель, по свидетельству моей бабушки-библиотекаря, несколько книг ушли со мной в море в 80-х годах, когда настала наша с товарищами по кораблю очередь работать на "Генри Л. Стимсоне". "Крыса из нержавеющей стали" отправилась в море вместе со мной, и пока мои товарищи по кораблю смотрели еще один фильм, который они уже видели дюжину раз, я был готов насладиться его уникальным юмором.
-[** 22 августа 2012, 14:42 вечера**](/posts/2012-08-21-harry-harrison-dead-at-87/)
+[** 22 августа 2012, 14:42 вечера**](/fred-pohl/2012-08-21-harry-harrison-dead-at-87/)
 - Джон Армстронг говорит:
 В моей привязанности к Биллу, герою Галактики, всегда занимало особое место, и "Освободи место"
-[** 23 августа 2012 года, 19:00 вечера**](/posts/2012-08-21-harry-harrison-dead-at-87/)
+[** 23 августа 2012 года, 19:00 вечера**](/fred-pohl/2012-08-21-harry-harrison-dead-at-87/)
 
 [WordPress](https://web.archive.org/web/20160617153134/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160617153134/http://dicksmithsoftware.com/)

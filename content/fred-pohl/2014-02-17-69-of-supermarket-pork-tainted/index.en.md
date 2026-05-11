@@ -4,9 +4,9 @@ date: 2014-02-17
 categories: ["Science"]
 tags: ["Food", "Leah A. Zeldes", "Medicine"]
 archive_url: "https://web.archive.org/web/20181101000000/http://www.thewaythefutureblogs.com/2014/02/69-of-supermarket-pork-tainted/"
-prev_post_url: "/posts/2014-02-05-bill-gates-and-optimists-vs-pessimists/"
+prev_post_url: "/fred-pohl/2014-02-05-bill-gates-and-optimists-vs-pessimists/"
 prev_post_title: "Bill Gates and Optimists vs. Pessimists"
-next_post_url: "/posts/2014-02-20-paper-or-plastic-i-e-new-trees-or-ancient-ones/"
+next_post_url: "/fred-pohl/2014-02-20-paper-or-plastic-i-e-new-trees-or-ancient-ones/"
 next_post_title: "Paper or Plastic?  (i.e. New Trees or Ancient Ones?)"
 translated: false
 ---
@@ -35,7 +35,7 @@ How to protect against infection?  Always cook pork to at least 145 degrees F. T
 Antibiotic overuse is going to bite us back something awful.
 The thing is, it won’t only effect us *humans*. The arrogant, short-sided livestock industry is going to get hit hard. Mass die-offs of critters are not out of the question.
 Charging a special tax that supports research into new antibiotics might be a good move. And if “big data” can be used to keep track of us, why not of livestock health and bacterial strains? Grab samples of waste and flesh, and do genetic assays of it all.
-[**February 17, 2014, 10:00 pm**](/posts/2014-02-17-69-of-supermarket-pork-tainted/)
+[**February 17, 2014, 10:00 pm**](/fred-pohl/2014-02-17-69-of-supermarket-pork-tainted/)
 
 [WordPress](https://web.archive.org/web/20160416130305/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416130305/http://dicksmithsoftware.com/)

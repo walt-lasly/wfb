@@ -4,9 +4,9 @@ date: 2009-10-01
 categories: ["Science"]
 tags: ["Cats"]
 archive_url: "https://web.archive.org/web/20251101000000/http://www.thewaythefutureblogs.com/2009/10/deborah-websters-solution/"
-prev_post_url: "/posts/2009-09-28-let-there-be-fandom-part-2-school-days/"
+prev_post_url: "/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/"
 prev_post_title: "Let There Be Fandom, Part 2: School Days"
-next_post_url: "/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/"
+next_post_url: "/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/"
 next_post_title: "Let There Be Fandom, Part 3: A Brooklyn Boyhood"
 translated: false
 translator: "Gemini"
@@ -36,22 +36,22 @@ translator: "Gemini"
 
 - Moz says:
 Интересно, что она предлагает в качестве предпочтительного питомца инвазивный вид вредителей. Интересно, пытается ли она помочь «ученым» (этой неопределенной группе бесчувственных других) развить эмпатию; или показать им, насколько раздражают питомцы, чтобы они были более склонны проводить эксперименты, которые приводят к гибели большого количества одичавших вредителей. Мне также интересно, что, по ее мнению, произойдет с вредителями после окончания эксперимента, поскольку, предположительно, они либо вернутся в лабораторию, либо будут утилизированы.
-[**October 1, 2009, 2:30 am**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**October 1, 2009, 2:30 am**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - [Lee Gold](https://web.archive.org/web/20091204224043/http://www.conchord.org/xeno/leegold.html) says:
 Явный случай кошачьей одержимости: собака могла бы быть не менее полезной. Хорошая собака могла бы научить ученого бросать мячи, покупать правильный корм для собак, делиться приемлемыми объедками со стола и научиться получать удовольствие от мытья морды.
-[**October 2, 2009, 12:32 am**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**October 2, 2009, 12:32 am**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - [Jeff](https://web.archive.org/web/20091204224043/http://jeffcrook.blogspot.com/) says:
 Я только что завел двух. Фотографии здесь: [http://jeffcrook.blogspot.com/2009/09/behold-week-of-cats.html](http://jeffcrook.blogspot.com/2009/09/behold-week-of-cats.html)
 Хотя, я не ученый.
-[**October 2, 2009, 8:14 am**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**October 2, 2009, 8:14 am**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - Paul Camp says:
 Ученые не справляются с кошками, потому что Природа — это здравый смысл.
-[**October 3, 2009, 10:41 pm**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**October 3, 2009, 10:41 pm**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 - Patricia says:
 Независимо от того, как долго живешь с домашней кошкой, никогда не сможешь понять ее лучше.
 Я смирилась с этим.
 Мне пора идти, моя кошка хочет есть.
-[**October 4, 2009, 10:11 pm**](/posts/2009-10-01-deborah-webster-s-solution/)
+[**October 4, 2009, 10:11 pm**](/fred-pohl/2009-10-01-deborah-webster-s-solution/)
 
 [WordPress](https://web.archive.org/web/20091204224043/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091204224043/http://dicksmithsoftware.com/)

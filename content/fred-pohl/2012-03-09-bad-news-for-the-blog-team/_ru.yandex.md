@@ -4,9 +4,9 @@ date: 2012-03-09
 categories: ["Miscellaneous"]
 tags: ["Dick Smith"]
 archive_url: "https://web.archive.org/web/20120501000000/http://www.thewaythefutureblogs.com/2012/03/bad-news-for-the-blog-team/"
-prev_post_url: "/posts/2012-03-02-jack-robins-and-robert-a-w-lowndes/"
+prev_post_url: "/fred-pohl/2012-03-02-jack-robins-and-robert-a-w-lowndes/"
 prev_post_title: "Jack Robins and Robert A.W. Lowndes"
-next_post_url: "/posts/2012-03-16-wait-for-the-reunion/"
+next_post_url: "/fred-pohl/2012-03-16-wait-for-the-reunion/"
 next_post_title: "Wait for the Reunion"
 translated: false
 translator: "Yandex"
@@ -38,48 +38,48 @@ translator: "Yandex"
 
 - мегазверь говорит:
 Соболезнования.
-[**9 марта 2012 года, 10:46 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012 года, 10:46 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Кошка говорит:
 Мои соболезнования близким мистера Смита людям.  Милость, случившаяся так быстро, трагедия, случившаяся неожиданно.
-[**9 марта 2012 года, 10:54 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012 года, 10:54 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Дон Сейкерс](https://web.archive.org/web/20120617114935/http://www.scatteredworlds.com/) говорит:
 Я уверен, что все постоянные читатели этого блога присоединяются ко мне в выражении скорби по поводу потери Дика Смита. Он и его семья всегда в моих мыслях и в моем сердце.
-[**9 марта 2012, 12:47 вечера**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012, 12:47 вечера**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Кит](https://web.archive.org/web/20120617114935/http://futurespastandpresent.blogspot.com/) говорит:
 Дик, пожалуйста, прими мои соболезнования в связи с твоей потерей.
-[**9 марта 2012, 12:47 вечера**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012, 12:47 вечера**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Боб Джонс говорит:
 РАЗРЫВ
-[**9 марта 2012, 14:29**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012, 14:29**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Джей [Джей Брэннон](https://web.archive.org/web/20120617114935/http://www.youtube.com/watch?v=xPgZeOsG8sk) говорит:
 Мое сочувствие и соболезнования в связи с твоей потерей, Дик.
 JJB
-[**9 марта 2012, 10:41 вечера**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012, 10:41 вечера**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Ларри Коллар](https://web.archive.org/web/20120617114935/http://farmanor.blogspot.com/) говорит:
 Пусть мы внесем хотя бы половину того, что сделал этот человек. *снимаю шляпу*
-[**9 марта 2012, 11:12 вечера**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**9 марта 2012, 11:12 вечера**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Стив Бойко](https://web.archive.org/web/20120617114935/http://www.traingeek.ca/) говорит:
 Я сожалею о вашей потере.
-[**10 марта 2012 года, 9:43 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**10 марта 2012 года, 9:43 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Майк Голдберг говорит:
 Я сожалею о вашей потере.
-[** 12 марта 2012 года, 10:16 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[** 12 марта 2012 года, 10:16 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - Сова говорит:
 Дик, приношу соболезнования тебе и твоей семье.
-[** 12 марта 2012 года, 10:32 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[** 12 марта 2012 года, 10:32 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Джон Армстронг](https://web.archive.org/web/20120617114935/http://from-ashes.com/) говорит:
 Мои соболезнования Дику и его семье. Слов недостаточно для описания этих вещей.
-[** 13 марта 2012 года, 8:59 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[** 13 марта 2012 года, 8:59 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - [Майкл Уолш](https://web.archive.org/web/20120617114935/http://www.oldearthbooks.com/) говорит:
 Соболезнования.
-[**14 марта 2012, 12:28 вечера**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**14 марта 2012, 12:28 вечера**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - xxx говорит:
 Соболезную его семье и упокой, господи, его душу. Он был великим человеком.
-[** 16 марта 2012 года, 6:37 утра**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[** 16 марта 2012 года, 6:37 утра**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 - ворчун-марксист говорит:
 Мои соболезнования его семье и друзьям. 
 Похоже, в конечном счете, он сделал свой уголок планеты лучше, и тем, кто его знал, будет его не хватать. Хотя выжившим всегда тяжело, тем не менее, это хороший способ выйти из игры.
-[**16 марта 2012, 17:20 вечера**](/posts/2012-03-09-bad-news-for-the-blog-team/)
+[**16 марта 2012, 17:20 вечера**](/fred-pohl/2012-03-09-bad-news-for-the-blog-team/)
 
 [WordPress](https://web.archive.org/web/20120617114935/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120617114935/http://dicksmithsoftware.com/)

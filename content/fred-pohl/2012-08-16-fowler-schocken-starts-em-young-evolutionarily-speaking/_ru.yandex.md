@@ -4,9 +4,9 @@ date: 2012-08-16
 categories: ["Books", "Miscellaneous"]
 tags: ["Advertising", "The Space Merchants"]
 archive_url: "https://web.archive.org/web/20160702094343/http://www.thewaythefutureblogs.com/2012/08/fowler-schocken-starts-em-youngevolutionarily-speaking/"
-prev_post_url: "/posts/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/"
+prev_post_url: "/fred-pohl/2012-08-05-bright-sayings-of-bright-people-no-35-augustine/"
 prev_post_title: "Bright Sayings of Bright People, No. 35: Augustine"
-next_post_url: "/posts/2012-08-21-harry-harrison-dead-at-87/"
+next_post_url: "/fred-pohl/2012-08-21-harry-harrison-dead-at-87/"
 next_post_title: "Harry Harrison Dead at 87"
 translated: false
 translator: "Yandex"
@@ -34,7 +34,7 @@ translator: "Yandex"
 Чего они не сообщают, так это того, какой товар они пытались заинтересовать обезьян, но если это побудит других рекламодателей обратиться к этой неиспользованной дочеловеческой аудитории, мы обязательно дадим вам знать.
 
 
-Если вы не знаете, кто такой Фаулер Шокен, загляните на обложки этого великого старого классического романа Торговцев Космосом ([The Space Merchants](https://web.archive.org/web/20160702094343/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=twtfw-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511)), написанного двумя моими любимыми писателями (одним из которых является [** К.М. Корнблат**](/posts/2009-04-20-cyril/)), который теперь доступен в красивом [издании 21-го века](https://web.archive.org/web/20160702094343/http://www.amazon.com/The-Space-Merchants-Frederik-Pohl/dp/1250000157?ie=UTF8&tag=twtfw-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1250000157).  Доступно у всех хороших поставщиков письменного слова.)
+Если вы не знаете, кто такой Фаулер Шокен, загляните на обложки этого великого старого классического романа Торговцев Космосом ([The Space Merchants](https://web.archive.org/web/20160702094343/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=twtfw-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511)), написанного двумя моими любимыми писателями (одним из которых является [** К.М. Корнблат**](/fred-pohl/2009-04-20-cyril/)), который теперь доступен в красивом [издании 21-го века](https://web.archive.org/web/20160702094343/http://www.amazon.com/The-Space-Merchants-Frederik-Pohl/dp/1250000157?ie=UTF8&tag=twtfw-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1250000157).  Доступно у всех хороших поставщиков письменного слова.)
 
 
 ### 10 Комментариев
@@ -43,43 +43,43 @@ translator: "Yandex"
 Как раз в это время появилось в продаже новое издание “Торговцев Космосом(The Space Merchants)” — на самом деле я купил экземпляр некоторое время назад, но успел прочитать — э-э, перечитать — только вступление и первую главу.
 Я должен сказать, что некоторые “современные” правки в этой главе приводили в замешательство — ссылки на вещи, которых, как я знаю, не существовало, когда она была впервые опубликована, а некоторых из них, возможно, даже не было, когда я впервые прочитал ее, — но у меня еще не было времени достать свою старую книгу Баллантайна в мягкой обложке из библиотеки. файлы для правильного сравнения.
 Несмотря на это, я бы порекомендовал его всем студентам, изучающим НФ.
-[**16 августа 2012 года, 9:07 утра**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**16 августа 2012 года, 9:07 утра**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - Ларс говорит:
 Да, я удивлен, что он так и не получил премию "Прометей гроссмейстер". В конце концов, это изображает триумф либертарианства.
-[**16 августа 2012, 15:14 вечера**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**16 августа 2012, 15:14 вечера**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - [ミケ](https://web.archive.org/web/20160702094343/http://www.aeonity.com/ultrawave) говорит:
 Проблема с рекламой для обезьян заключается в том, что за нее платят сущие гроши. 
 Поразительно, насколько актуальными по-прежнему остаются Торговцы Космосом(The Space Merchants). Если это не вечная классика, то я не знаю, что это такое.
-[**16 августа 2012, 15:58**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**16 августа 2012, 15:58**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - Герхард Штольц говорит:
 Этим летом начал читать "Торговцев Космосом(The Space Merchants)" ( readingSpace Merchants reading). Действительно занимательный роман. Это ужасно в той жизнерадостной футуристической манере, которую я знаю и люблю по многим другим вашим романам. Спасибо за них всех!
-[**17 августа 2012, 14:27**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**17 августа 2012, 14:27**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - Джей Борчердинг говорит:
 Мне кажется, что гениталии обезьяны-капуцина, в зависимости от контекста, подходят для этого блога.  Поскольку ваши намерения не были бы непристойными, я думаю, вы могли бы избежать возможной негативной реакции со стороны родителей предположительно редкого, на грани несуществования, подростка-фундаменталиста, который читает этот блог.  
 Но я понимаю, что подобные опасения являются второй натурой мужчины в возрасте 90 лет, который провел большую часть своей жизни без доступа к огромным запасам порнографии, которые свободно и легко доступны в Интернете.
-[**17 августа 2012, 20:26 вечера**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**17 августа 2012, 20:26 вечера**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - [Патрик Уолден](https://web.archive.org/web/20160702094343/https://www.triumf.info/wiki/pwalden/index.php/Eaarth) говорит:
 Гарри Харрисон скончался 15 августа. Вы его знали?
-[** 18 августа 2012, 19:35 вечера**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[** 18 августа 2012, 19:35 вечера**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - [Патрик Уолден](https://web.archive.org/web/20160702094343/https://www.triumf.info/wiki/pwalden/index.php/The_Box_of_Books) говорит:
 [https://www.triumf.info/wiki/pwalden/images/9/98/6635968041_fb9c93a8b3_o.jpg](https://web.archive.org/web/20160702094343/https://www.triumf.info/wiki/pwalden/images/9/98/6635968041_fb9c93a8b3_o.jpg)
 Нашел эту интересную иллюстрацию Гарри Харрисона. К нему прилагается статья вашей тогдашней супруги Джудит Меррил. На нем видно, как тебя поджаривают на вертеле, в то время как Джудит с невозмутимым видом стоит рядом. Айзек Азимов нетерпеливо поворачивает вертел, в то время как Филип Класс (Уильям Тенн) поджаривает сосиску на огне. Здесь происходит какая-то личная шутка, или это полет воображения Гарри Харрисона?
-[**19 августа 2012, 14:34**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**19 августа 2012, 14:34**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - Ламонт Крэнстон говорит:
 Вы когда-нибудь видели австралийскую программу Gruen Transfer?  
 
 [http://www.abc.net.au/tv/gruentransfer /](https://web.archive.org/web/20160702094343/http://www.abc.net.au/tv/gruentransfer/)  
 
 Руководители рекламных компаний и маркетологи с открытой откровенностью обсуждают, что они делают, свои намерения и способы, которыми они привлекают людей /манипулируют ими.
-[**19 августа 2012, 20:31 вечера**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**19 августа 2012, 20:31 вечера**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - [Билл Хиггинс - жокей на бревне](https://web.archive.org/web/20160702094343/http://beamjockey.livejournal.com/) говорит:
 Патрик, это замечательная находка! Спасибо вам.  Не у многих из нас есть доступ к предыдущим выпускам "научной фантастики Marvel".
 (Знаете ли вы, что в Википедии нет статьи о клубе Hydra?)
-[** 22 августа 2012, 14:04 вечера**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[** 22 августа 2012, 14:04 вечера**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 - [Дана Габбард](https://web.archive.org/web/20160702094343/http://socata.net/) говорит:
 “Знаете ли вы, что в Википедии нет статьи о клубе Hydra?)”
 Я могу поработать, чтобы исправить это…
-[**29 августа 2012 года, 9:25 вечера**](/posts/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
+[**29 августа 2012 года, 9:25 вечера**](/fred-pohl/2012-08-16-fowler-schocken-starts-em-young-evolutionarily-speaking/)
 
 [WordPress](https://web.archive.org/web/20160702094343/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160702094343/http://dicksmithsoftware.com/)

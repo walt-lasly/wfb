@@ -4,9 +4,9 @@ date: 2015-01-22
 categories: ["Authors", "Personal"]
 tags: ["Ann Pohl", "John W. Campbell", "Judith Merril", "Prozines", "Walter M. Miller Jr."]
 archive_url: "https://web.archive.org/web/20141101000000/http://www.thewaythefutureblogs.com/2015/01/walter-m-miller-jr-my-last-fist-fight/"
-prev_post_url: "/posts/2014-12-15-fred-on-de-camp/"
+prev_post_url: "/fred-pohl/2014-12-15-fred-on-de-camp/"
 prev_post_title: "Fred on de Camp"
-next_post_url: "/posts/2015-02-13-elizabeth-anne-hull-s-appearances/"
+next_post_url: "/fred-pohl/2015-02-13-elizabeth-anne-hull-s-appearances/"
 next_post_title: "Elizabeth Anne Hull’s Appearances"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="WalterMMiller-wb.jpg" alt="Walter M. Miller, Jr." caption="Walter M. Miller, Jr." >}}
 
 
-В 1950-х, история, носящих название бренда-новый автор - [Уолтер М. Миллер-младший](https://web.archive.org/web/20160402222023/http://www.kirjasto.sci.fi/wmiller.htm), пришел в [**Джон Кэмпбелл по**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) журнал, в настоящее время известный как [Analog](https://web.archive.org/web/20160402222023/http://www.analogsf.com/).  Это был довольно хороший рассказ и вскоре последовал еще один, написанный той же рукой и так же хорошо.  А потом еще.
+В 1950-х, история, носящих название бренда-новый автор - [Уолтер М. Миллер-младший](https://web.archive.org/web/20160402222023/http://www.kirjasto.sci.fi/wmiller.htm), пришел в [**Джон Кэмпбелл по**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) журнал, в настоящее время известный как [Analog](https://web.archive.org/web/20160402222023/http://www.analogsf.com/).  Это был довольно хороший рассказ и вскоре последовал еще один, написанный той же рукой и так же хорошо.  А потом еще.
 
 
 Они не появляются в Analog.  Некоторые даже не научная фантастика, но они выходили в значительных объемах и научной фантастики Мир начал замечать, что появилась незапланированная новый крупный писатель.
@@ -37,10 +37,10 @@ translator: "Yandex"
 Они не просто хорошие, либо некоторые из них были немедленно расценена как пра — [гимн Лейбовицу (a canticle for Leibowitz)](https://web.archive.org/web/20160402222023/http://www.amazon.com/gp/product/0060892994/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060892994&linkCode=as2&tag=twtfb-20&linkId=PT2BTMCGLPA34IMT), например.  Вскоре стало очевидно, что сильная новой силой возникли в американской научная фантастика, и его имя было [Уолтер Миллер-младший](https://web.archive.org/web/20160402222023/http://www.amazon.com/Walter-M.-Miller-Jr./e/B001IGWZ0S/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=twtfb-20&linkId=SRUMZFI4GZNRIVEV)
 
 
-Все верно, друзья.  Теперь мы подходим к трудной части, потому что я стараюсь говорить порой горькую правду.  Миллер был не просто писатель уважал он был также человеком, моя бывшая жена [**Джуди Меррил**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) приняли.
+Все верно, друзья.  Теперь мы подходим к трудной части, потому что я стараюсь говорить порой горькую правду.  Миллер был не просто писатель уважал он был также человеком, моя бывшая жена [**Джуди Меррил**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/) приняли.
 
 
-Сначала мы все вели себя довольно цивилизованно об этом.  Потом, когда Джуди и я попал в наши бесконечные [**Энни войны**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/) за хранение, что очень миленький ребенок, [**Энн Похл**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), что двое из нас вместе произвели на свет, Миллер полностью встал на ее сторону.
+Сначала мы все вели себя довольно цивилизованно об этом.  Потом, когда Джуди и я попал в наши бесконечные [**Энни войны**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/) за хранение, что очень миленький ребенок, [**Энн Похл**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), что двое из нас вместе произвели на свет, Миллер полностью встал на ее сторону.
 
 
 Я не имею в виду только словесные поединки.  Я имею в виду, что однажды, когда я направился к дому мельника и Джуди взяла — моя дочь Энн живет с ними, потому что мы все пытаемся сделать систему чередований в том, чтобы Энн жила с нами работать — и пошел к их дому, чтобы забрать Энни, потому что настала моя очередь, двое из них отказались ее отдать.
@@ -73,7 +73,7 @@ translator: "Yandex"
 Вау!  Это было захватывающе!
 Будущих блогов с кулаками и автоматами наперевес.
 Джей-Джей-Би
-[**26 января 2015, 5:14 часов**](/posts/2015-01-22-walter-m-miller-jr-my-last-fist-fight/)
+[**26 января 2015, 5:14 часов**](/fred-pohl/2015-01-22-walter-m-miller-jr-my-last-fist-fight/)
 
 [На WordPress](https://web.archive.org/web/20160402222023/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160402222023/http://dicksmithsoftware.com/)

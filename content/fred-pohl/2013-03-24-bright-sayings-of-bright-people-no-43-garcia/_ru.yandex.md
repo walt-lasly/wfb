@@ -4,9 +4,9 @@ date: 2013-03-24
 categories: ["Science"]
 tags: ["Maria Isabel Garcia", "Paleontology", "Quotations"]
 archive_url: "https://web.archive.org/web/20190201000000/http://www.thewaythefutureblogs.com/2013/03/bright-sayings-of-bright-people-no-43-garcia/"
-prev_post_url: "/posts/2013-03-22-arrival-part-2-heinlein-stories/"
+prev_post_url: "/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/"
 prev_post_title: "Arrival, Part 2: Heinlein Stories"
-next_post_url: "/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/"
+next_post_url: "/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/"
 next_post_title: "Arrival, Part 3: KC in the GOP’s Wake"
 translated: false
 translator: "Yandex"
@@ -33,14 +33,14 @@ translator: "Yandex"
 
 - Билл Гудвин говорит:
 Ну что ж, тогда!
-[**24 марта 2013, 10:02 вечера**](/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
+[**24 марта 2013, 10:02 вечера**](/fred-pohl/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
 - [Уолт Джи](https://web.archive.org/web/20170707073732/http://cocktailputsch.blogspot.com/) говорит:
 Это уже отмечено в моем завещании.
-[**25 марта 2013, 12:49 вечера**](/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
+[**25 марта 2013, 12:49 вечера**](/fred-pohl/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
 - Его превосходительство Пармер говорит:
 Ну, да, но если вы хотите оставить *действительно* детализированное ископаемое, вам нужно расположить его так, чтобы ваш труп оказался в анаэробной среде и быстро покрылся илом.
 Хотя, в крайнем случае, я думаю, подойдет торфяное болото.
-[** 26 марта 2013 года, 2:12 ночи**](/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
+[** 26 марта 2013 года, 2:12 ночи**](/fred-pohl/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
 - [Кэти](https://web.archive.org/web/20170707073732/http://www.tedxyse.com/nike-air-jordan.html) говорит:
 Сегодня я пошла со своими детьми на пляж.
 Я нашла морскую раковину и отдала ее своей 4-летней дочери, а  
@@ -52,7 +52,7 @@ translator: "Yandex"
 Она никогда не захочет возвращаться! ЛоЛ, я знаю, что это совершенно неуместно  
 
 тема, но я должен был кому-то рассказать!
-[** 23 мая 2013 года, 7:40 утра**](/posts/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
+[** 23 мая 2013 года, 7:40 утра**](/fred-pohl/2013-03-24-bright-sayings-of-bright-people-no-43-garcia/)
 
 [WordPress](https://web.archive.org/web/20170707073732/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707073732/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2009-03-16
 categories: ["Personal", "Writing"]
 tags: ["Audio", "Poetry", "Radio"]
 archive_url: "https://web.archive.org/web/20090326021758/http://www.thewaythefutureblogs.com/2009/03/verse-decoded/"
-prev_post_url: "/posts/2009-03-11-shipboard-book-reports-part-ii/"
+prev_post_url: "/fred-pohl/2009-03-11-shipboard-book-reports-part-ii/"
 prev_post_title: "Shipboard Book Reports, Part II"
-next_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+next_post_url: "/fred-pohl/2009-03-18-me-and-the-biz-part-ii/"
 next_post_title: "Me and the Biz, Part II"
 translated: false
 ---
@@ -21,7 +21,7 @@ Frederik Pohl
 
 ![exclamation point](exclam-sm.gif)
 
-[**A while ago**](/posts/2009-01-30-the-poetry-corner/), I gave some early examples of my poetic period (which, roughly, lasted from age 14 to age 19, with a few later relapses).  One was a sort of puzzle, entitled “!” which went like this:
+[**A while ago**](/fred-pohl/2009-01-30-the-poetry-corner/), I gave some early examples of my poetic period (which, roughly, lasted from age 14 to age 19, with a few later relapses).  One was a sort of puzzle, entitled “!” which went like this:
 
 
 {{< poem title="!" >}}
@@ -34,7 +34,7 @@ Frederik Pohl
 {{< /poem >}}
 
 
-[**Some of you**](/posts/2009-01-30-the-poetry-corner/) managed to interpret this pretty well, but for those who didn’t, I will read it to you:
+[**Some of you**](/fred-pohl/2009-01-30-the-poetry-corner/) managed to interpret this pretty well, but for those who didn’t, I will read it to you:
 
 {{< audio src="frederik-pohl_exclamation-point_2009.mp3" caption="Fred Pohl reads \"Exclamation Point\" (2009)" >}}
 
@@ -56,7 +56,7 @@ The words “my frand” are in there only because I was stuck for a rhyme, but 
 
 **Related post:**  
 
-[**The Poetry Corner**](/posts/2009-01-30-the-poetry-corner/)
+[**The Poetry Corner**](/fred-pohl/2009-01-30-the-poetry-corner/)
 
 
 ### 2 Comments
@@ -64,10 +64,10 @@ The words “my frand” are in there only because I was stuck for a rhyme, but 
 - PJ says:
 Cool, a precursor to this: [http://poetry.about.com/od/poetryplay/l/blwakawaka.htm](https://web.archive.org/web/20090326021758/http://poetry.about.com/od/poetryplay/l/blwakawaka.htm)
 You were breaking ground even then 
-[**March 16, 2009, 10:33 pm**](/posts/2009-03-16-verse-decoded/)
+[**March 16, 2009, 10:33 pm**](/fred-pohl/2009-03-16-verse-decoded/)
 - Marcel says:
 This is just beautiful. Genius.
-[**March 21, 2009, 9:28 pm**](/posts/2009-03-16-verse-decoded/)
+[**March 21, 2009, 9:28 pm**](/fred-pohl/2009-03-16-verse-decoded/)
 
 [WordPress](https://web.archive.org/web/20090326021758/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090326021758/http://dicksmithsoftware.com/)

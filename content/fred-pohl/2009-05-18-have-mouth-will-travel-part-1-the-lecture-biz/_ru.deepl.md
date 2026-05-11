@@ -4,9 +4,9 @@ date: 2009-05-18
 categories: ["Personal", "Science"]
 tags: ["Astronomy", "Computers", "Games", "Johannes Kepler", "Marvin Minsky", "Tycho Brahe"]
 archive_url: "https://web.archive.org/web/20101101000000/http://www.thewaythefutureblogs.com/2009/05/have-mouth-will-travel-part-1-the-lecture-biz/"
-prev_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
+prev_post_url: "/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/"
 prev_post_title: "Interesting Reading That You May Have Missed"
-next_post_url: "/posts/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
+next_post_url: "/fred-pohl/2009-05-21-have-mouth-will-travel-part-2-the-planarians/"
 next_post_title: "Have Mouth, Will Travel, Part 2: The Planarians"
 translated: false
 translator: "DeepL"
@@ -63,16 +63,16 @@ translator: "DeepL"
 Брэнд рассказывал о Spacewar и людях, которые его создали, а также попытался взять за образец маленькие, несколько более персонализированные компьютеры, которые начинали появляться.  И другие технологии, которые появились вместе с ними:
 "В настоящее время около 20 крупных компьютерных центров связаны между собой двухлетней сетью ARPA Net"
 Гораздо позже, когда сменилась еще пара поколений аппаратного обеспечения, я приобрел GCE Vectrex, консольную игру, впервые появившуюся на рынке в 1982 году.  У нее был векторный дисплей, а на одном из картриджей находилась программа для игры Spacewar.  Это было так близко к тому, чтобы иметь PDP-1 в пятидесятидолларовой портативной коробке, как ничто другое.  Я до сих пор иногда достаю его и играю.
-[**May 18, 2009, 7:44 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+[**May 18, 2009, 7:44 pm**](/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 - [Stefan Jones](https://web.archive.org/web/20090726214427/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) говорит:
 Мелочи:
 В одной из сцен *Soylent Green* видно, как "мебельщицы" играют в аркадную версию Spacewar.
 Я должен пересмотреть этот фильм... там Эдвард Г. Робинсон рассуждает о парниковом эффекте и находит исследование корпорации "Сойлент", которое показывает, что криль вымер.
-[**May 19, 2009, 1:47 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+[**May 19, 2009, 1:47 pm**](/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 - Marc сказал:
 Потрясающий пост. Я не жил в эпоху PDP-1, но просмотр этого ролика стал для меня приятным путешествием по дорожкам видеоигровой памяти. Самое интересное для меня - это физика реального мира, которую MIT запрограммировал в Spacewar. Я не могу вспомнить, чтобы я видел какие-либо коммерческие видеоигры, которые были бы близки к такому уровню реализма до конца 1980-х годов!
 После просмотра ролика Spacewar у меня возникло искушение совершить кардинальный грех видеоигр и запустить пару классических ZX80 из моего детства, но я подозреваю, что эти игры... определенно лучше смотреть через розовые очки!
-[**May 21, 2009, 5:59 pm**](/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
+[**May 21, 2009, 5:59 pm**](/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/)
 
 [WordPress](https://web.archive.org/web/20090726214427/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090726214427/http://dicksmithsoftware.com/)

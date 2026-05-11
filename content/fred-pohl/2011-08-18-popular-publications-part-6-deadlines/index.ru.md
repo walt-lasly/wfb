@@ -4,9 +4,9 @@ date: 2011-08-18
 categories: ["Miscellaneous"]
 tags: ["Alden H. Norton", "Aleck Portegal", "Editors", "Harry Steeger", "Prozines", "Publishing", "Pulps"]
 archive_url: "https://web.archive.org/web/20170620023231/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-6-deadlines/"
-prev_post_url: "/posts/2011-08-16-popular-publications-part-5-there-and-back-again/"
+prev_post_url: "/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/"
 prev_post_title: "Popular Publications, Part 5: There and Back Again"
-next_post_url: "/posts/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
+next_post_url: "/fred-pohl/2011-08-21-bright-sayings-of-bright-people-no-19-hemingway/"
 next_post_title: "Bright Sayings of Bright People, No. 19: Hemingway"
 translated: false
 translator: "Yandex"
@@ -63,34 +63,34 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Популярные публикации**, [** Часть 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/posts/2011-05-31-popular-publications-part-2/), [** Часть 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [** Часть 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- ** Популярные публикации**, [** Часть 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [** Часть 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [** Часть 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Часть 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 7 Комментариев
 
 - Дэвид Б. Уильямс говорит:
 Ба, офсетная печать стала началом упадка цивилизации. Я рад, что родился достаточно рано, чтобы редактировать журнал с набором шрифта на линотипной машине и формулярами страниц, напечатанными на обычном планшетном прессе.
-[** 18 августа 2011 года, 9:45 утра**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[** 18 августа 2011 года, 9:45 утра**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - Его превосходительство Пармер говорит:
 “Я люблю крайние сроки. Мне нравится свистящий звук, который они издают, пролетая мимо".
 Дуглас Адамс
-[**19 августа 2011 года, 2:01 ночи**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**19 августа 2011 года, 2:01 ночи**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - [Парень О'Киф](https://web.archive.org/web/20170620023231/http://blackhorsewesterns.com/) говорит:
 О, мистер Уильямс, как заманчиво принять ваше кредо! Моя собственная профессиональная карьера писателя и редактора началась в начале 60—х, когда я был подростком и работал в ряде издательств в Лондоне - в его центральных и пригородных закоулках. И я могу рассказать много слегка ужасающих историй, не отличающихся от истории Фреда. Но, я думаю, Фред согласился бы с тем, что мы должны идти в ногу со временем, если хотим оставаться в том, что постепенно становится бизнесом. Я испытал на себе внедрение холодного набора текста, текстовых процессоров, компьютеров, непосредственного редакторского ввода (т.е. вы брали на себя как работу в редакторской, так и свою собственную) и многое другое. Но я бы сказал, что писать художественную литературу и почти все остальное сейчас намного проще, чем когда нам приходилось иметь дело с неуклюжими, неповоротливыми пишущими машинками! В настоящее время я решаю задачу по получению прав и форматированию своих романов из списка литературы для Amazon Kindle. Увы, старым собакам приходится осваивать новые трюки, если они не намерены и дальше погрязать в ностальгии.
-[** 19 августа 2011 года, 3:33 утра**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[** 19 августа 2011 года, 3:33 утра**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - [Майкл Хейнс](https://web.archive.org/web/20170620023231/http://www.michaelhaynes.info/) говорит:
 Я просто хотел написать короткую заметку, чтобы сказать, как замечательно иметь возможность читать эти личные ретроспективы в дни палп. Спасибо вам за то, что поделились своим опытом с теми из нас, кто с нежностью вспоминает то время.
-[**20 августа 2011, 18:33 вечера**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**20 августа 2011, 18:33 вечера**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - Джон Трейлор говорит:
 Я предполагаю, что текст был набран на линотипном станке? Когда я начинал заниматься полиграфией, все было из горячего металла, а когда я вышел на пенсию, все было цифровым. Мне было гораздо удобнее, так как в комнатах для компьютеров были установлены кондиционеры. Я действительно думаю, что корректура в “старые времена” проводилась лучше, чем сегодня.
-[** 21 августа 2011 года, 7:07 утра**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[** 21 августа 2011 года, 7:07 утра**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - Его превосходительство Пармер говорит:
 Это тоже отличная иллюстрация для обложки. 
 Будем надеяться, что безумный ученый, который в своем богохульном вмешательстве в то, о чем человеку знать не полагалось, создал этого киборга с ножом (?), также предусмотрительно обзавелся длинным удлинителем. Вы даже не представляете, как это неловко — не говоря уже о разочаровании, — когда эту чертову вилку выдергивают из розетки именно в этот критический момент.
-[**21 августа 2011, 15:17 вечера**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**21 августа 2011, 15:17 вечера**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 - Лерой Перл говорит:
 Еще раз спасибо! Все эти анекдоты и воспоминания более чем интересны, они ценны для всех нас, поклонников научной фантастики.
-[**23 августа 2011 года, 18:45 вечера**](/posts/2011-08-18-popular-publications-part-6-deadlines/)
+[**23 августа 2011 года, 18:45 вечера**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/)
 
 [WordPress](https://web.archive.org/web/20170620023231/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620023231/http://dicksmithsoftware.com/)

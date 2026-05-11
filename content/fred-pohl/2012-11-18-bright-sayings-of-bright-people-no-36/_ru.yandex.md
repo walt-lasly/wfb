@@ -4,9 +4,9 @@ date: 2012-11-18
 categories: ["Miscellaneous"]
 tags: ["Douglas MacArthur", "Quotations"]
 archive_url: "https://web.archive.org/web/20130301000000/http://www.thewaythefutureblogs.com/2012/11/bright-sayings-of-bright-people-no-36/"
-prev_post_url: "/posts/2012-11-17-how-one-little-factory-is-hiring-more-workers/"
+prev_post_url: "/fred-pohl/2012-11-17-how-one-little-factory-is-hiring-more-workers/"
 prev_post_title: "How One Little Factory is Hiring More Workers"
-next_post_url: "/posts/2012-11-19-poul-anderson-stanislaw-lem-philip-k-dick-and-me/"
+next_post_url: "/fred-pohl/2012-11-19-poul-anderson-stanislaw-lem-philip-k-dick-and-me/"
 next_post_title: "Poul Anderson, Stanislaw Lem, Philip K. Dick and me"
 translated: false
 translator: "Yandex"
@@ -32,7 +32,7 @@ translator: "Yandex"
 
 - Кен говорит:
 Есть причина, по которой большинство людей не курят трубку из кукурузных початков – ты выглядишь как идиот.
-[**19 ноября 2012, 20:05 вечера**](/posts/2012-11-18-bright-sayings-of-bright-people-no-36/)
+[**19 ноября 2012, 20:05 вечера**](/fred-pohl/2012-11-18-bright-sayings-of-bright-people-no-36/)
 
 [WordPress](https://web.archive.org/web/20130128062954/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20130128062954/http://dicksmithsoftware.com/)

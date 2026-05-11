@@ -4,9 +4,9 @@ date: 2014-10-23
 categories: ["Betty's Posts", "Personal"]
 tags: ["Christine Wintczak", "Elizabeth Anne Hull", "Fanzines", "Joseph McElwee", "Melissa Claussen", "Steve Claussen"]
 archive_url: "https://web.archive.org/web/20130101000000/http://www.thewaythefutureblogs.com/2014/10/memories-a-wedding-and-unexpected-surprises/"
-prev_post_url: "/posts/2014-09-15-the-circle-a-book-for-2014-and-beyond-a-review/"
+prev_post_url: "/fred-pohl/2014-09-15-the-circle-a-book-for-2014-and-beyond-a-review/"
 prev_post_title: "The Circle: A book for 2014 and beyond, a review"
-next_post_url: "/posts/2014-10-24-the-famous-wedding-garter/"
+next_post_url: "/fred-pohl/2014-10-24-the-famous-wedding-garter/"
 next_post_title: "The Famous Wedding Garter"
 translated: false
 translator: "Yandex"
@@ -45,10 +45,10 @@ translator: "Yandex"
 - Майк Пейдж говорит:
 Бетти,
 Большое спасибо за поддержку.  Книга приближается к стадии производства и, надеюсь, выйдет где-нибудь в следующем году в серии “Современные мастера научной фантастики” Иллинойского университета.
-[** 23 октября 2014, 11:21 вечера**](/posts/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
+[** 23 октября 2014, 11:21 вечера**](/fred-pohl/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
 - [Дэн Голлаб](https://web.archive.org/web/20160416222829/http://www.dreampattern.com/) говорит:
 Я восхищался мистером Полем, среди прочего, за его заботу о благополучии планетарной экосистемы. Я читал в Science News, что засуха в Калифорнии, вероятно, продолжится, потому что Эль-Ниньо не придет ей на помощь. Ветры, которые дуют через Тихий океан в сторону Калифорнии, недостаточно сильны, чтобы вызвать Эль-Ниньо. Есть ли какой-нибудь способ создать эти более сильные ветры? Если бы мистер Пол был жив, мне было бы любопытно, мог ли бы он отреагировать на эту тему и как бы он это сделал.
-[**30 октября 2014, 14:19 вечера**](/posts/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
+[**30 октября 2014, 14:19 вечера**](/fred-pohl/2014-10-23-memories-a-wedding-and-unexpected-surprises/)
 
 [WordPress](https://web.archive.org/web/20160416222829/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416222829/http://dicksmithsoftware.com/)

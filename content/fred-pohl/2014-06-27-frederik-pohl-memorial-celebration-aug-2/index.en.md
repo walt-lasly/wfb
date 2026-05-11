@@ -4,9 +4,9 @@ date: 2014-06-27
 categories: ["Miscellaneous"]
 tags: ["Conventions"]
 archive_url: "https://web.archive.org/web/20251001000000/http://www.thewaythefutureblogs.com/2014/06/frederik-pohl-memorial-celebration-aug-2/"
-prev_post_url: "/posts/2014-05-12-the-future-of-pronouns/"
+prev_post_url: "/fred-pohl/2014-05-12-the-future-of-pronouns/"
 prev_post_title: "The Future of Pronouns"
-next_post_url: "/posts/2014-09-15-the-circle-a-book-for-2014-and-beyond-a-review/"
+next_post_url: "/fred-pohl/2014-09-15-the-circle-a-book-for-2014-and-beyond-a-review/"
 next_post_title: "The Circle: A book for 2014 and beyond, a review"
 translated: false
 ---
@@ -43,10 +43,10 @@ For further details, email the blog team at blog@thewaythefutureblogs.com.
 
 - John Armstrong says:
 I’ll be there in spirit. Fred was a huge influence over the last 45 years. He’s greatly missed
-[**July 14, 2014, 1:46 pm**](/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/)
+[**July 14, 2014, 1:46 pm**](/fred-pohl/2014-06-27-frederik-pohl-memorial-celebration-aug-2/)
 - Carlos Federici says:
 Dear Mrs. Pohl: Thanks for sending the bulletin about the Master’s Memorial. He deserves that hommage and our remembrance. I shared the notice through my “Facebook” account. I do not like the social nets a lot, but in occasions like this I gladly use it. My greetings to you.
-[**July 19, 2014, 1:25 am**](/posts/2014-06-27-frederik-pohl-memorial-celebration-aug-2/)
+[**July 19, 2014, 1:25 am**](/fred-pohl/2014-06-27-frederik-pohl-memorial-celebration-aug-2/)
 
 [WordPress](https://web.archive.org/web/20160416225831/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416225831/http://dicksmithsoftware.com/)

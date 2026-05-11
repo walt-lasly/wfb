@@ -4,9 +4,9 @@ date: 2010-01-21
 categories: ["Personal", "Writing"]
 tags: ["Leah A. Zeldes", "Poetry"]
 archive_url: "https://web.archive.org/web/20200201000000/http://www.thewaythefutureblogs.com/2010/01/third-hit-of-poetry/"
-prev_post_url: "/posts/2010-01-14-perils-at-sea/"
+prev_post_url: "/fred-pohl/2010-01-14-perils-at-sea/"
 prev_post_title: "Perils at Sea"
-next_post_url: "/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/"
+next_post_url: "/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/"
 next_post_title: "IsaacPart 1 of I don’t know how many"
 translated: false
 translator: "Yandex"
@@ -55,10 +55,10 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- [** Уголок поэзии**](/posts/2009-01-30-the-poetry-corner/)
-- [** Уголок поэзии 2**](/posts/2009-01-30-the-poetry-corner/)
-- [** Стих расшифрован**](/posts/2009-03-16-verse-decoded/)
-- [** Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
+- [** Уголок поэзии**](/fred-pohl/2009-01-30-the-poetry-corner/)
+- [** Уголок поэзии 2**](/fred-pohl/2009-01-30-the-poetry-corner/)
+- [** Стих расшифрован**](/fred-pohl/2009-03-16-verse-decoded/)
+- [** Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 
 
 * Иллюстрация Лии А. Зельдес.*
@@ -68,16 +68,16 @@ translator: "Yandex"
 
 - [Роберт Новолл](https://web.archive.org/web/20110922100616/http://www.robertnowall.com/) говорит:
 Каким-то образом первая и последняя строчки запомнились мне с тех пор, как я впервые их прочитал…
-[**22 января 2010, 12:11 вечера**](/posts/2010-01-21-third-hit-of-poetry/)
+[**22 января 2010, 12:11 вечера**](/fred-pohl/2010-01-21-third-hit-of-poetry/)
 - [Босоногий бродяга](https://web.archive.org/web/20110922100616/http://barefootbum.blogspot.com/) говорит:
 Я большой фэн; я прочитал десяток или больше ваших работ, и вы никогда не оставляли меня равнодушным. И все же, при всем моем уважении, я не могу так высоко оценить ваш талант и мастерство в поэзии, как в прозе.
-[**22 января 2010, 20:49 вечера**](/posts/2010-01-21-third-hit-of-poetry/)
+[**22 января 2010, 20:49 вечера**](/fred-pohl/2010-01-21-third-hit-of-poetry/)
 - [Ралан](https://web.archive.org/web/20110922100616/http://www.ralan.com/) говорит:
 Мне это очень понравилось. Я бы не хотел показывать стихи, которые написал в семнадцать лет.
-[** 23 января 2010 года, 4:47 утра**](/posts/2010-01-21-third-hit-of-poetry/)
+[** 23 января 2010 года, 4:47 утра**](/fred-pohl/2010-01-21-third-hit-of-poetry/)
 - Дин говорит:
 Это намного лучше, чем все, что я писал, когда мне было 17.
-[** 25 января 2010 года, 9:30 утра**](/posts/2010-01-21-third-hit-of-poetry/)
+[** 25 января 2010 года, 9:30 утра**](/fred-pohl/2010-01-21-third-hit-of-poetry/)
 
 [WordPress](https://web.archive.org/web/20110922100616/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922100616/http://dicksmithsoftware.com/)

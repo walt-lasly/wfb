@@ -4,9 +4,9 @@ date: 2010-11-24
 categories: ["Space", "Travel"]
 tags: ["Moon", "NASA"]
 archive_url: "https://web.archive.org/web/20160801000000/http://www.thewaythefutureblogs.com/2010/11/the-ship-of-foolishness-part-3-apollo-17/"
-prev_post_url: "/posts/2010-11-23-the-ship-of-foolishness-part-2/"
+prev_post_url: "/fred-pohl/2010-11-23-the-ship-of-foolishness-part-2/"
 prev_post_title: "The Ship of Foolishness, Part 2"
-next_post_url: "/posts/2010-11-25-happy-thanksgiving/"
+next_post_url: "/fred-pohl/2010-11-25-happy-thanksgiving/"
 next_post_title: "Happy Thanksgiving!"
 translated: false
 ---
@@ -67,49 +67,49 @@ That was it, the last manned Apollo mission to the Moon.  There has never been a
 
 **Related posts:**
 
-- **The Ship of Foolishness,** [**Part 1**](/posts/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/), [**Part 2**](/posts/2010-11-23-the-ship-of-foolishness-part-2/)
-- [**The Wives (and Drives) of Robert Heinlein, Part 1**](/posts/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
-- [**Isaac, Part 7**](/posts/2010-11-15-isaac-part-7/)
+- **The Ship of Foolishness,** [**Part 1**](/fred-pohl/2010-11-22-the-ship-of-foolishness-part-1-the-foreplay/), [**Part 2**](/fred-pohl/2010-11-23-the-ship-of-foolishness-part-2/)
+- [**The Wives (and Drives) of Robert Heinlein, Part 1**](/fred-pohl/2010-05-17-the-wives-and-drives-of-robert-heinlein-part-1/)
+- [**Isaac, Part 7**](/fred-pohl/2010-11-15-isaac-part-7/)
 
 
 ### 11 Comments
 
 - [Michael Rawdon](https://web.archive.org/web/20150925203931/http://www.fascinationplace.org/) says:
 Surely that’s not the end of the story? What happened to Jack, Joe & Jim, and why hadn’t they come along on the cruise that they’d initiated?
-[**November 24, 2010, 1:08 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 1:08 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - David S. says:
 Oh Mr Pohl I so hate to have to get picky about your wonderful and inspiring description of the Apollo 17 launch, but I’m afraid those five supernovas you were lucky enough to see were not the result of hydrogen burning in air – those mighty F1 engines were powered by plain old kerosene. Only the second and third stages of the Saturn V were hydrogen powered.
-[**November 24, 2010, 5:53 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 5:53 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - Roy says:
 That last sentence may be one of the saddest I’ve read in a while.
-[**November 24, 2010, 7:41 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 7:41 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - Richard Welty says:
 one nit: the first stage of the Saturn V used Kerosene, not Hydrogen.
-[**November 24, 2010, 8:14 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 8:14 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - [Stefan Jones](https://web.archive.org/web/20150925203931/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Darn! Other pedantic dweebs beat me in posting the kerosene thing. 
 Nice piece. I remember staying up late to watch Apollo 17 lift off on TV. It would have been a crummy B&W set. But still, such a thrill for a budding young space nerd!
 I didn’t make it to the space center until the year before last; my parent’s vacation trailer is a block from the Indian river, right across from the Cape. My mom and I took the bus tour and saw the Saturn V they have on display. Man, that this is huge. I’m sorry I never had a chance to see a Saturn or Shuttle liftoff.
-[**November 24, 2010, 12:50 pm**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 12:50 pm**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - Ken says:
 Yeah, what about Jack, Joe, and Jim?
-[**November 24, 2010, 3:45 pm**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 3:45 pm**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - [Don Sakers](https://web.archive.org/web/20150925203931/http://www.scatteredworlds.com/) says:
 Your description of the upturned faces of those great sf writers witnessing the fulfillment of their dreams…brought tears to my eyes. What a stunning moment. Thank you for sharing it so eloquently.
-[**November 24, 2010, 6:57 pm**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 24, 2010, 6:57 pm**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - [Joseph Green](https://web.archive.org/web/20150925203931/http://greenhousescribes.com/) says:
 Joseph Green sez: Sorry your cruise ship/Apollo launch convention didn’t work out so well, Fred.  (Did you know a chap who claimed to be an organizer called me from the ship, while I was on duty at the NASA Press Site, and got me to help expedite a trip ashore to Orlando for Carl Sagan and a few others?)  We had a completely successful party on land at the Greenhouse, the last of the series then-wife Nita and I threw for all the moon launches. The list of eminent writers in attendance might not quite match yours, and I can’t recall who specifically attended Apollo 17. But over the seven moon landing attempts (of which only Apollo 13 failed), most of the then current SF writers deeply interested in the real space program attended one or more. Among many others the list included Heinlein, Clarke, Van Vogt and Larry Niven, with the Russian poet Yuri Yevchenko as a soupcon (he and Poul Anderson got into a serious disagreement over the Vietnam war, and the party host (me) intervened to restore peace and a party atmosphere.) Poul, along with Gordon Dickson, Sterling Lanier, Chris Moscowitz and several others, seldom missed a party.  (I remember inviting you once, but seem to recall you had already received an invite from NASA to attend as a VIP, and took that instead.)  Our parties were much less expensive then your $2000 cruise, being free to guests, and I’ll bet you we had a lot more fun!
-[**November 25, 2010, 1:36 pm**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 25, 2010, 1:36 pm**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - [Panov20NIKOLAJ](https://web.archive.org/web/20150925203931/http://www.uslugi.kiev.ua/) says:
 опытный [сантехник](https://web.archive.org/web/20150925203931/http://www.uslugi.kiev.ua/) по Киеву, недорого
-[**November 26, 2010, 10:29 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 26, 2010, 10:29 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20150925203931/http://beamjockey.fnal.gov/) says:
 I note, wistfully, that the last Shuttle is about to launch.
 If anybody is organizing a cruise to witness it, and they need a guest speaker, I’m available…
-[**November 26, 2010, 11:38 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**November 26, 2010, 11:38 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 - James Van Hise says:
 I’m not surprised the cruise sold so few tickets to SF fans if it cost two thousand dollars. In 1972 there were not many wealthy sf fans and in 1972, two thousand dollars was like 20 thousand dollars today. In 1972 it would have taken me 6 months to earn two thousand dollars. In 1972 you could fly anywhere in the US round trip for less than $200. Hotels were $25 a night. So attending the Worldcon or any SF convention was not expensive, like it is today. In 1972 two thousand was more than it would have cost to fly to Hawaii and stay at a top hotel for two weeks. So while the cruise sounds like it would have been great, two thousand dollars would have priced it out of reach of 99% of SF fans in those days. Had those three unnamed guys attended the Worldcon and pitched their idea to fans, they would have realized that quickly.
-[**May 1, 2011, 11:08 am**](/posts/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
+[**May 1, 2011, 11:08 am**](/fred-pohl/2010-11-24-the-ship-of-foolishness-part-3-apollo-17/)
 
 [WordPress](https://web.archive.org/web/20150925203931/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150925203931/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-07-09
 categories: ["Authors", "Miscellaneous", "Personal", "Science", "Space", "Travel", "Writing"]
 tags: ["C.M. Kornbluth", "Dirk Wylie", "Donald A. Wollheim", "Economics", "Great Depression", "Isaac Asimov", "John B. Michel", "Prozines", "Pulps", "Richard Wilson", "Robert A.W. Lowndes", "The Early Pohl"]
 archive_url: "https://web.archive.org/web/20090501000000/http://www.thewaythefutureblogs.com/2010/07/basement-empire-3-lessons-science-fiction/"
-prev_post_url: "/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
+prev_post_url: "/fred-pohl/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
 prev_post_title: "Basement and Empire, Part 2: Science Fiction Meetings"
-next_post_url: "/posts/2010-07-12-basement-and-empire-afterwords/"
+next_post_url: "/fred-pohl/2010-07-12-basement-and-empire-afterwords/"
 next_post_title: "Basement and Empire, Afterwords"
 translated: false
 ---
@@ -21,10 +21,10 @@ Frederik Pohl
 
 ![Wonder Stories, April 1933](wonder_stories_193304.jpg)
 
-I don’t know what kind of a writer I would have been if I hadn’t met [**Dirk Wylie**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/) and, through him and with him, the whole world of science-fiction fandom. Much the same, I imagine. I almost certainly would have been some kind of a writer — I’m hardly fit for anything else. And I had been trying to write sf at least a year before I met Dirk, in idle moments in classes in the eighth grade. But it would have taken a lot longer.
+I don’t know what kind of a writer I would have been if I hadn’t met [**Dirk Wylie**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/) and, through him and with him, the whole world of science-fiction fandom. Much the same, I imagine. I almost certainly would have been some kind of a writer — I’m hardly fit for anything else. And I had been trying to write sf at least a year before I met Dirk, in idle moments in classes in the eighth grade. But it would have taken a lot longer.
 
 
-I owe a lot to fandom. From [Don Wollheim](https://web.archive.org/web/20110922133749/http://www.gcwillick.com/Spacelight/wollheim.html), [John Michel](https://web.archive.org/web/20110922133749/http://fancyclopedia.editme.com/MICHELIS), [**Doc Lowndes**](/posts/2009-05-08-the-quadrumvirate/) — and later from [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), [Dick Wilson](https://web.archive.org/web/20110922133749/http://www.juggle.com/richard-wilson), [**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and others — I learned something about what they were learning about writing; we all showed each other our stories, when we weren’t actually collaborating on them. In the fan mags, I acquired the skills necessary to prepare something for public viewing — and the courage to permit it.
+I owe a lot to fandom. From [Don Wollheim](https://web.archive.org/web/20110922133749/http://www.gcwillick.com/Spacelight/wollheim.html), [John Michel](https://web.archive.org/web/20110922133749/http://fancyclopedia.editme.com/MICHELIS), [**Doc Lowndes**](/fred-pohl/2009-05-08-the-quadrumvirate/) — and later from [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/), [Dick Wilson](https://web.archive.org/web/20110922133749/http://www.juggle.com/richard-wilson), [**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/) and others — I learned something about what they were learning about writing; we all showed each other our stories, when we weren’t actually collaborating on them. In the fan mags, I acquired the skills necessary to prepare something for public viewing — and the courage to permit it.
 
 
 What I am not as sure of is whether all the things we learned then were worth learning.
@@ -71,17 +71,17 @@ But we believed.
 
 **Related posts:**
 
-- [**Basement and Empire**](/posts/2010-07-05-basement-and-empire/)
-- [**Basement and Empire, Part 2: Science Fiction Meetings**](/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
-- [**Basement and Empire, Afterwords**](/posts/2010-07-12-basement-and-empire-afterwords/)
-- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
-- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
-- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+- [**Basement and Empire**](/fred-pohl/2010-07-05-basement-and-empire/)
+- [**Basement and Empire, Part 2: Science Fiction Meetings**](/fred-pohl/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
+- [**Basement and Empire, Afterwords**](/fred-pohl/2010-07-12-basement-and-empire-afterwords/)
+- [**The Quadrumvirate**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### 2 Comments
@@ -90,12 +90,12 @@ But we believed.
 It’s kind of sad that now-a-days that the young folk have no somewhat-realistic “out there” to look forward to.
 Tropes of the pulps, like flying cars and robot servants, are  for the most part ironic jokes today.
 Some folks look forward to The Singularity, but that seems more and more like a messianic impulse.
-[**July 9, 2010, 1:55 pm**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+[**July 9, 2010, 1:55 pm**](/fred-pohl/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
 - Beka C. says:
 *Mercury is too hot and has too little air; Venus is too hot and has too much, and poisonous at that.*
 Ooo, but think of the possibilities of life that THRIVES in those environments!  I refuse to believe that the kind of life we recognise on Earth is the only kind of life possible in the universe.
 Other life is out there, somewhere.  Maybe they’re debating whether or not we exist, too.
-[**July 11, 2010, 2:09 pm**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+[**July 11, 2010, 2:09 pm**](/fred-pohl/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
 
 [WordPress](https://web.archive.org/web/20110922133749/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922133749/http://dicksmithsoftware.com/)

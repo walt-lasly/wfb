@@ -4,9 +4,9 @@ date: 2010-06-04
 categories: ["Books", "Personal"]
 tags: ["Conventions", "Dick Smith", "Editors", "Elizabeth Anne Hull", "Fanzines", "Gateways", "Hugo Awards", "James Frenkel", "Leah A. Zeldes", "Medicine", "Publishing", "Worldcons"]
 archive_url: "https://web.archive.org/web/20211001000000/http://www.thewaythefutureblogs.com/2010/06/all-right-you-got-me/"
-prev_post_url: "/posts/2010-06-02-have-you-voted-for-the-hugo-awards/"
+prev_post_url: "/fred-pohl/2010-06-02-have-you-voted-for-the-hugo-awards/"
 prev_post_title: "Have you voted for the Hugo Awards?"
-next_post_url: "/posts/2010-06-08-more-about-sir-arthur-c-clarke/"
+next_post_url: "/fred-pohl/2010-06-08-more-about-sir-arthur-c-clarke/"
 next_post_title: "More about Sir Arthur C. Clarke"
 translated: false
 translator: "Yandex"
@@ -64,28 +64,28 @@ translator: "Yandex"
 - Пэт говорит:
 Ты только что скрасил мой день. Хотя, возможно, это произойдет в следующем году, поскольку я нахожусь в Великобритании, планируется ли выпуск Врата(Gateway) здесь?
 Держись хорошо.
-[**4 июня 2010 года, 12:45 утра**](/posts/2010-06-04-all-right-you-got-me/)
+[**4 июня 2010 года, 12:45 утра**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 - [РЭБ](https://web.archive.org/web/20111012172009/http://estoreal.blogspot.com/) говорит:
 Два комментария:
 Во-первых, я действительно с нетерпением жду Врата(Gateway).  Это звучит фантастически.
 Во-вторых, огромное спасибо Элизабет, Лии и Дику за все, что вы делаете.
-[**4 июня 2010 года, 2:40 утра**](/posts/2010-06-04-all-right-you-got-me/)
+[**4 июня 2010 года, 2:40 утра**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 - [Стефан Джонс](https://web.archive.org/web/20111012172009/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 В этой антологии довольно много разных авторов. И это только судя по тем, что попали на обложку.
-[**4 июня 2010, 12:08 вечера**](/posts/2010-06-04-all-right-you-got-me/)
+[**4 июня 2010, 12:08 вечера**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 - [Джеймс Дэвис Николл](https://web.archive.org/web/20111012172009/http://james-nicoll.livejournal.com/) говорит:
 Я не предполагаю, что оглавление где-то есть в Сети?
-[**5 июня 2010 года, 8:58 утра**](/posts/2010-06-04-all-right-you-got-me/)
+[**5 июня 2010 года, 8:58 утра**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 - [Марк](https://web.archive.org/web/20111012172009/http://www.facebook.com/MrNovak) говорит:
 Потрясающе! Я только что предварительно заказала копию, она выйдет 6 июля!
 Спасибо вам, Элизабет Энн, Фредерик и остальной команде, вы скрасили довольно скучный и дождливый день по эту сторону пруда.
-[**8 июня 2010 года, 3:58 утра**](/posts/2010-06-04-all-right-you-got-me/)
+[**8 июня 2010 года, 3:58 утра**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 - Саймон говорит:
 Мистер Пол, мое воображение стольким вам обязано. Выросший в холодном, мокром, грязном английском городке, я каждый день после школы проводил в библиотеке, ожидая пересадки на автобус, чтобы добраться домой, и именно там я случайно попробовал Врата (Gateway), за которыми сразу же последовали "За голубым горизонтом событий" За Синим Горизонтом Событий(Beyond The Blue Event Horizon), а оттуда и вселенная. Благодаря вашим работам я прочитал Воннегута, Азимова, Балларда, Кэмпбелла, Желязны, Брэдбери, Адамса, список слишком велик, чтобы продолжать. Спасибо вам.
-[**8 июня 2010 года, 6:13 утра**](/posts/2010-06-04-all-right-you-got-me/)
+[**8 июня 2010 года, 6:13 утра**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 - [Лысый парень](https://web.archive.org/web/20111012172009/http://www.irememberjfk.com/) говорит:
 Пусть благодаря вашим изобретениям вам будет комфортно среди нас долгое-долгое время, мистер Пол.
-[**9 июня 2010, 12:18 вечера**](/posts/2010-06-04-all-right-you-got-me/)
+[**9 июня 2010, 12:18 вечера**](/fred-pohl/2010-06-04-all-right-you-got-me/)
 
 [WordPress](https://web.archive.org/web/20111012172009/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111012172009/http://dicksmithsoftware.com/)

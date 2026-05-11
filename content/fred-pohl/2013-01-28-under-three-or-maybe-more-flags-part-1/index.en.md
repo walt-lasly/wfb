@@ -4,9 +4,9 @@ date: 2013-01-28
 categories: ["Travel", "Writing"]
 tags: ["Carol Pohl", "Carolie Ulf", "Films", "Isaac Asimov", "Italy", "Jack Williamson"]
 archive_url: "https://web.archive.org/web/20100901000000/http://www.thewaythefutureblogs.com/2013/01/under-three-or-maybe-more-flags-part-1/"
-prev_post_url: "/posts/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/"
+prev_post_url: "/fred-pohl/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/"
 prev_post_title: "Bright Sayings of Bright People, No. 41: Wilde"
-next_post_url: "/posts/2013-01-30-three-flags-part-2/"
+next_post_url: "/fred-pohl/2013-01-30-three-flags-part-2/"
 next_post_title: "Three Flags, Part 2"
 translated: false
 ---
@@ -28,7 +28,7 @@ When the great world of non-English-speaking science fiction fans began to flex 
 When some fan asked what country it was in, some wise guy — it may have been me — asked,  “What country was it in *when?*”   Because in the memory of living people — -that is, of people who were living in the 1960s — Trieste had alternately been Austro-Hungarian, Yugoslavian or Italian.  And that doesn’t count those periods when the wars that changed things were over, but the old men with the chalk in their hands hadn’t quite finished drawing those map lines that dictated who would live where, and what they. would call themselves.
 
 
-By the time Trieste hosted *Il Festivale di Fantascienza*, though, it was irrevocably (they said) Italian, and that’s what got us there.  We were sitting on our porch in Red Bank, New Jersey, my then wife Carol and I, me reading the final  pages of my latest collaboration with [**Jack Williamson**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), the Old Master himself, and Carol studying a map of eastern Europe.
+By the time Trieste hosted *Il Festivale di Fantascienza*, though, it was irrevocably (they said) Italian, and that’s what got us there.  We were sitting on our porch in Red Bank, New Jersey, my then wife Carol and I, me reading the final  pages of my latest collaboration with [**Jack Williamson**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), the Old Master himself, and Carol studying a map of eastern Europe.
 
 
 I had just finished the final pages, having made only a handful of penciled improvements, none that required retyping whole pages, which meant all I had to do just then was put it in the mail for a final lookover by Jack.  Unless he found something he wanted me to do over, which he almost never did, the next thing I would have to do with that one would be to deposit the check for the on-delivery half of my part of the advance when it turned up in the day’s mail.
@@ -67,7 +67,7 @@ Missing another look at Lake Garda was bad enough.  But just a couple of hours l
 But that was the last of the Tempter’s snares to beguile us that evening, because next thing we knew the landscape had turned hilly, and then we saw the lights of a small city beginning to blossom around us, and then Carol squinted at something just ahead and read,  “‘Jolly Hotel.’  Is that where we’ll be living?”
 
 
-It was, and as we were checking in a young man appeared who was wearing a tee-shirt that spelled out *“Sempre Fantascienza!”* and then the name of the city, and the date.  Which, I am embarrassed to confess, I don’t.at the moment remember.  See, among the many other confessions I feel obliged to offer on a regular basis, one involves the fact that[**Isaac Asimov**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)  was in several ways a lot smarter than I was.  Isaac was, for instance, intelligent and disciplined enough to keep a daily diary, from which, at need, he could pluck any desired quantity of names, dates and verbatim offhand jokes and comments.
+It was, and as we were checking in a young man appeared who was wearing a tee-shirt that spelled out *“Sempre Fantascienza!”* and then the name of the city, and the date.  Which, I am embarrassed to confess, I don’t.at the moment remember.  See, among the many other confessions I feel obliged to offer on a regular basis, one involves the fact that[**Isaac Asimov**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/)  was in several ways a lot smarter than I was.  Isaac was, for instance, intelligent and disciplined enough to keep a daily diary, from which, at need, he could pluck any desired quantity of names, dates and verbatim offhand jokes and comments.
 
 
 I wasn’t.
@@ -81,7 +81,7 @@ So I have to work with just what I remember.
 
 **Related post:**
 
-- [**Three Flags, Part 2**](/posts/2013-01-30-three-flags-part-2/)
+- [**Three Flags, Part 2**](/fred-pohl/2013-01-30-three-flags-part-2/)
 
 
 ### 4 Comments
@@ -89,19 +89,19 @@ So I have to work with just what I remember.
 - [JJ Brannon](https://web.archive.org/web/20150920034357/http://www.youtube.com/watch?v=xPgZeOsG8sk) says:
 You do have a photo, though Fred, in my copy of your autobiography of your stay in Italy during WWII.
 JJB
-[**January 28, 2013, 11:38 pm**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+[**January 28, 2013, 11:38 pm**](/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 - [Jeff B.](https://web.archive.org/web/20150920034357/http://intothedarkdimension.blogspot.com/) says:
 This is a fascinating glimpse not just into science fiction fandom history, but history in general. I was particularly enthralled by your description of that night at Lake Garda with the German military burning off ammo. There is something at once lovely, chilling, and haunting about that imagery.
-[**January 29, 2013, 1:02 am**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+[**January 29, 2013, 1:02 am**](/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 - Michael Black says:
 I thought “Trieste” was the name of the bathyscape that went into the Challenger Deep, and then was used to look for the submarine Thresher.  
 
 I remember well the article in National Geograpic about that later search.
   Michael
-[**January 29, 2013, 12:54 pm**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+[**January 29, 2013, 12:54 pm**](/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 - [Stefan Jones](https://web.archive.org/web/20150920034357/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 I’m looking forward to more of this entry, and more like it!
-[**January 29, 2013, 3:09 pm**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+[**January 29, 2013, 3:09 pm**](/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 
 [WordPress](https://web.archive.org/web/20150920034357/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150920034357/http://dicksmithsoftware.com/)

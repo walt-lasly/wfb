@@ -4,9 +4,9 @@ date: 2009-10-19
 categories: ["Authors", "Personal"]
 tags: ["Dirk Wylie", "Donald A. Wollheim", "Economics", "Great Depression", "Hugo Gernsback", "John B. Michel", "New York", "Prozines", "Pulps", "Science Fiction League"]
 archive_url: "https://web.archive.org/web/20221201000000/http://www.thewaythefutureblogs.com/2009/10/let-there-be-fandom-part-7-the-crusade/"
-prev_post_url: "/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/"
+prev_post_url: "/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/"
 prev_post_title: "Let There Be Fandom, Part 6: The Pros!"
-next_post_url: "/posts/2009-10-22-fred-the-machine-man/"
+next_post_url: "/fred-pohl/2009-10-22-fred-the-machine-man/"
 next_post_title: "Fred the Machine Man"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 {{< figure src="wonder_stories_january_1934.jpg" alt="Wonder Stories, Jan. 1934" caption="Donald Wollheim wasn’t satisfied with having his first story published in Wonder Stories. He wanted to be paid, too." >}}
 
 
-[** Хьюго Гернсбек**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/) не платил своим сценаристам. [Джонни Мишель](https://web.archive.org/web/20091211211852/http://fancyclopedia.editme.com/MICHELIS) наконец-то получил свои пять долларов, но не без бесконечного раздражения, а [Дональду Уоллхейму](https://web.archive.org/web/20091211211852/http://www.gcwillick.com/Spacelight/wollheim.html) даже тогда не заплатили полностью. Они пришли в Бруклинскую [** Лигу Научной Фантастики(Science Fiction League)**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/), чтобы рассказать нам свои истории и отомстить.
+[** Хьюго Гернсбек**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/) не платил своим сценаристам. [Джонни Мишель](https://web.archive.org/web/20091211211852/http://fancyclopedia.editme.com/MICHELIS) наконец-то получил свои пять долларов, но не без бесконечного раздражения, а [Дональду Уоллхейму](https://web.archive.org/web/20091211211852/http://www.gcwillick.com/Spacelight/wollheim.html) даже тогда не заплатили полностью. Они пришли в Бруклинскую [** Лигу Научной Фантастики(Science Fiction League)**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/), чтобы рассказать нам свои истории и отомстить.
 
 
 Вся эта внутренняя информация была для меня откровением. Это было более захватывающе, чем все, что случалось со мной раньше, по крайней мере, с тех пор, как я открыл для себя научную фантастику, может быть, с тех пор, как я открыл для себя секс. Я не знаю, какие легкомысленные предположения я делал о механизмах, с помощью которых настоящие авторы поддерживали себя в своей работе. Я полагаю, если бы я вообще думал, то догадался бы, что как только ваша работа появилась в печати, правительство или кто-то еще вручил вам чистую чековую книжку, которую вы заполнили так, как вам было нужно, или по своему усмотрению захотели получить их деньги.
@@ -61,7 +61,7 @@ Astounding Clayton Magazines платила своим авторам пункт
 Слушать мудрость, исходившую от Джонни Мишеля и Дона Уоллхейма, было все равно что стоять на горе с посохом в руке, в то время как Голос звучал из горящего куста. Я не мог поверить, что мне так повезло, и я хотел быть частью этого.
 
 
-Я вернулся со встреч и рассказал [обо всем этом Дирку Уайли](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/), который проклинал своих родителей за то, что они поселились в Куинс-Виллидж, так далеко от Бэй-Риджа и Бруклинской Лиги Научной Фантастики (Brooklyn Science Fiction League), и разработал стратегию проведения следующих встреч со мной. Мы пришли. Мы сидели у ног хозяев, то в одном, то в другом фонтанчике с газировкой, пока мороженое таяло в наших газировках, а солодовый сироп становился плоским, и мы решили быть такими же, как они.
+Я вернулся со встреч и рассказал [обо всем этом Дирку Уайли](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/), который проклинал своих родителей за то, что они поселились в Куинс-Виллидж, так далеко от Бэй-Риджа и Бруклинской Лиги Научной Фантастики (Brooklyn Science Fiction League), и разработал стратегию проведения следующих встреч со мной. Мы пришли. Мы сидели у ног хозяев, то в одном, то в другом фонтанчике с газировкой, пока мороженое таяло в наших газировках, а солодовый сироп становился плоским, и мы решили быть такими же, как они.
 
 
 И когда выяснилось, что Джонни и Дональд приглашают нас присоединиться к крестовому походу, чтобы исправить эти беззакония, мы сочли неоспоримым, что нам следует немедленно записаться. Дональд предложил, чтобы все мы, члены ЛНФ(SFL), отделились, основали свои собственные клубы, отстаивали свою независимость от Лукавого и позволили миру узнать его таким, каким он был.
@@ -72,28 +72,28 @@ Astounding Clayton Magazines платила своим авторам пункт
 
 **Связанные должности:**
 
-- [** Квадрумвират**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Пусть будет фэндом: Лига Научной Фантастики(Science Fiction League)**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
-- [**Пусть будет фэндом, часть 2: Школьные дни**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [** Пусть будет фэндом, часть 3: Бруклинское детство**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Да будет фэндом, часть 5: Высшая лига**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [** Пусть будет фэндом, часть 6: Плюсы!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [** Квадрумвират**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Пусть будет фэндом: Лига Научной Фантастики(Science Fiction League)**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Пусть будет фэндом, часть 2: Школьные дни**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [** Пусть будет фэндом, часть 3: Бруклинское детство**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Да будет фэндом, часть 4: Новый курс, новые миры**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Да будет фэндом, часть 5: Высшая лига**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [** Пусть будет фэндом, часть 6: Плюсы!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
 
 
 ### 3 Комментария
 
 - [Скотт Хаугер](https://web.archive.org/web/20091211211852/http://www.jscotthauger.com/) говорит:
 Спасибо ypu за эту увлекательную историю / автобиографию!
-[**19 октября 2009, 11:57 вечера**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+[**19 октября 2009, 11:57 вечера**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 - [Грег Костикян](https://web.archive.org/web/20091211211852/http://playthisthing.com/) говорит:
 Буэнос-Айрес не так уж плох....
 Но я был в положении, когда выбирал, кому платить, а это никогда не бывает легко, когда ресурсов не хватает. Неуплата таланта редко приводит к тюремному заключению. Возможно, вы не заплатите своим бухгалтерам или юристам.
 Не то чтобы я большой фэн поимки талантов.
-[**20 октября 2009, 11:03 вечера**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+[**20 октября 2009, 11:03 вечера**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 - [Стив Грин](https://web.archive.org/web/20091211211852/http://shadowlibrary.blogspot.com/) говорит:
 Еще в середине 1990-х у меня были аналогичные проблемы с парой журналов, которые наняли меня для предоставления интервью, обзоров и т.д. В конце концов я получил все причитающиеся мне пенни, но многие другие остались без средств. И, как вы сказали, всегда найдется много людей, которые проигнорируют эту несправедливость только для того, чтобы увидеть свое имя в печати.
-[**3 декабря 2009 года, 9:05 утра**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+[**3 декабря 2009 года, 9:05 утра**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 [WordPress](https://web.archive.org/web/20091211211852/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091211211852/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-12-30
 categories: ["Miscellaneous"]
 tags: ["Carol Pohl", "Clubs", "Futurians", "Jack Gillespie", "Lois Miles", "Richard Wagner", "World War II"]
 archive_url: "https://web.archive.org/web/20170707112302/http://www.thewaythefutureblogs.com/2010/12/jack-gillespie-elf-among-the-authors/"
-prev_post_url: "/posts/2010-12-29-walter-kubilius-the-tall-one/"
+prev_post_url: "/fred-pohl/2010-12-29-walter-kubilius-the-tall-one/"
 prev_post_title: "Walter Kubilius: The Tall One"
-next_post_url: "/posts/2010-12-31-fred-s-op-ed/"
+next_post_url: "/fred-pohl/2010-12-31-fred-s-op-ed/"
 next_post_title: "Fred’s Op Ed"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="jackgillespie.jpg" alt="Jack Gillespie" caption="Jack Gillespie" >}}
 
 
-Jack Gillespie was the shortest of the [**Futurians**](/posts/2009-05-08-the-quadrumvirate/) and the most likely to be up for any fun idea anyone had.
+Jack Gillespie was the shortest of the [**Futurians**](/fred-pohl/2009-05-08-the-quadrumvirate/) and the most likely to be up for any fun idea anyone had.
 
 
 Jack’s parents were divorced.  He lived with his mother, a devotee of, among other composers, [Richard Wagner](https://web.archive.org/web/20170707112302/http://users.utu.fi/hansalmi/wagner.html). His father ran a trucking service with an unwonted record of having merchandise fall off the backs of the trucks, so Jack always had plenty of cigarettes and Milky Ways.
@@ -42,7 +42,7 @@ We exchanged letters in regard to a number of little-known American poets for a 
 
 - [Robert Nowall](https://web.archive.org/web/20170707112302/http://www.robertnowall.com/) says:
 Washington DC or Washington state?  I’m pretty sure of which one, from what I’ve read over the years, but just want to be sure…
-[**December 30, 2010, 9:03 am**](/posts/2010-12-30-jack-gillespie-elf-among-the-authors/)
+[**December 30, 2010, 9:03 am**](/fred-pohl/2010-12-30-jack-gillespie-elf-among-the-authors/)
 
 [WordPress](https://web.archive.org/web/20170707112302/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707112302/http://dicksmithsoftware.com/)

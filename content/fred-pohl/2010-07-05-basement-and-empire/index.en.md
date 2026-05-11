@@ -4,9 +4,9 @@ date: 2010-07-05
 categories: ["Authors", "Books", "Personal"]
 tags: ["Andrew I. Porter", "Clubs", "Dirk Wylie", "Fanzines", "Food", "Franklin Delano Roosevelt", "Great Depression", "Media", "New York", "Prozines", "Science Fiction League", "The Early Pohl", "The Way the Future Was", "Will Sykora", "Willy Ley", "World War II"]
 archive_url: "https://web.archive.org/web/20030301000000/http://www.thewaythefutureblogs.com/2010/07/basement-and-empire/"
-prev_post_url: "/posts/2010-07-02-our-planet-bottom-to-top/"
+prev_post_url: "/fred-pohl/2010-07-02-our-planet-bottom-to-top/"
 prev_post_title: "Our Planet, Bottom to Top"
-next_post_url: "/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
+next_post_url: "/fred-pohl/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/"
 next_post_title: "Basement and Empire, Part 2: Science Fiction Meetings"
 translated: false
 ---
@@ -41,7 +41,7 @@ BASEMENT AND EMPIRE
 In the winter of 1933, when I was just turned thirteen, I discovered three new truths.
 
 
-The first truth was that the world was in a hell of a mess. The second was that I really was not going to spend my life being a chemical engineer, no matter what I had told my guidance counselor at [**Brooklyn Technical High School**](/posts/2009-08-28-when-i-graduated-from-high-school-after-73-years/). And the third was that in my conversion to science fiction as a way of life I Was Not Alone.
+The first truth was that the world was in a hell of a mess. The second was that I really was not going to spend my life being a chemical engineer, no matter what I had told my guidance counselor at [**Brooklyn Technical High School**](/fred-pohl/2009-08-28-when-i-graduated-from-high-school-after-73-years/). And the third was that in my conversion to science fiction as a way of life I Was Not Alone.
 
 
 All of these new discoveries were important to me, and in a way they were all related. I had just started the second semester of my freshman year at [Brooklyn Tech](https://web.archive.org/web/20110922134338/http://www.bths.edu/). It was a cold, grimy winter in the deepest depths of the Great Depression. There was not much joy to be found. Men were selling apples in the streets. The unemployed stood in [bread lines](https://web.archive.org/web/20110922134338/http://minnesota.publicradio.org/collections/special/columns/news_cut/content_images/bread_line_depression.jpg%22) and prayed for snow — that meant there would be work shoveling it off the sidewalks. Roosevelt had just been elected President but hadn’t yet taken office — Inauguration Day, still geared to the stagecoach schedules of 1789, had not yet been moved up from March 4. Banks were going broke.
@@ -53,19 +53,19 @@ There was not much money around, but on the other hand you didn’t need a lot. 
 Brooklyn Tech was an honor school, which is possibly why I decided to go to it in the first place. Like many of my colleagues, I regret to say that as a kid I was always something of an intellectual snob. (I do not wish to discuss what I am now.) Tech had been born in an ancient factory building, next to the entrance to the Manhattan Bridge in the grimiest part of Brooklyn’s industrial riverside district. It had outgrown that and was now spread around a clutch of decrepit ex-grammar schools in the same area. We commuted from building to building, class to class.
 
 
-I found myself walking from my Mechanical Drawing class in P.S. No. 5 to my Forge and Foundry class in the main building in the company of a tall, skinny kid named [**Joseph Harold Dockweiler**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/). Along about the third time we crossed Flatbush Avenue together I discovered that we had something of great urgency in common. He, too, was a Science-Fiction Fan, Third Degree. That is, he didn’t merely read the stuff, or even stop at collecting back issues and searching the secondhand bookstores for overlooked works. He, like me, had the firm intention of writing it someday.
+I found myself walking from my Mechanical Drawing class in P.S. No. 5 to my Forge and Foundry class in the main building in the company of a tall, skinny kid named [**Joseph Harold Dockweiler**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/). Along about the third time we crossed Flatbush Avenue together I discovered that we had something of great urgency in common. He, too, was a Science-Fiction Fan, Third Degree. That is, he didn’t merely read the stuff, or even stop at collecting back issues and searching the secondhand bookstores for overlooked works. He, like me, had the firm intention of writing it someday.
 
 
 Six or seven years later Joseph Harold Dockweiler renamed himself Dirk Wylie.  Later still, he and I went partners in a literary agency and later, but tragically not very much later, he died, at the appalling age of twenty-eight, of the aftereffects of his service in the [Battle of the Bulge](https://web.archive.org/web/20110922134338/http://www.pbs.org/wgbh/amex/bulge) in World War II.
 
 
-Dirk was the first person I had found like myself. Having learned that we were not unique, we contemplated the possibility of finding still others who would be able and anxious to compare the merits of Amazing vs. Wonder Stories and discuss the galaxy-ranging glamour of [**E.E. Smith’s**](/posts/2009-12-22-doc-skylark-smith/) [Skylark](https://web.archive.org/web/20110922134338/http://manybooks.net/titles/smithee2086920869-8.html) stories. In a word, we went looking for science-fiction fandom.
+Dirk was the first person I had found like myself. Having learned that we were not unique, we contemplated the possibility of finding still others who would be able and anxious to compare the merits of Amazing vs. Wonder Stories and discuss the galaxy-ranging glamour of [**E.E. Smith’s**](/fred-pohl/2009-12-22-doc-skylark-smith/) [Skylark](https://web.archive.org/web/20110922134338/http://manybooks.net/titles/smithee2086920869-8.html) stories. In a word, we went looking for science-fiction fandom.
 
 
 The bad part of that was that fandom did not yet quite exist.
 
 
-The good part was that it was just about to be born, when Wonder Stories started a circulation-boosting correspondence club called the [**Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/). We joined instanter, and began attending club meetings as soon as a local chapter was formed, where we met others like ourselves.
+The good part was that it was just about to be born, when Wonder Stories started a circulation-boosting correspondence club called the [**Science Fiction League**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/). We joined instanter, and began attending club meetings as soon as a local chapter was formed, where we met others like ourselves.
 
 
 *More to come. . . .*
@@ -73,17 +73,17 @@ The good part was that it was just about to be born, when Wonder Stories started
 
 **Related posts:**
 
-- [**Basement and Empire, Part 2: Science Fiction Meetings**](/posts/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
-- [**Basement and Empire, Part 3: Lessons in SF**](/posts/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
-- [**Basement and Empire, Afterwords**](/posts/2010-07-12-basement-and-empire-afterwords/)
-- [**The Quadrumvirate**](/posts/2009-05-08-the-quadrumvirate/)
-- [**Let There Be Fandom: The Science Fiction League**](/posts/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
-- [**Let There Be Fandom, Part 2: School Days**](/posts/2009-09-28-let-there-be-fandom-part-2-school-days/)
-- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/posts/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
-- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/posts/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
-- [**Let There Be Fandom, Part 5: The Big League**](/posts/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
-- [**Let There Be Fandom, Part 6: The Pros!**](/posts/2009-10-15-let-there-be-fandom-part-6-the-pros/)
-- [**Let There Be Fandom, Part 7: The Crusade**](/posts/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
+- [**Basement and Empire, Part 2: Science Fiction Meetings**](/fred-pohl/2010-07-07-basement-and-empire-part-2-science-fiction-meetings/)
+- [**Basement and Empire, Part 3: Lessons in SF**](/fred-pohl/2010-07-09-basement-and-empire-part-3-lessons-in-sf/)
+- [**Basement and Empire, Afterwords**](/fred-pohl/2010-07-12-basement-and-empire-afterwords/)
+- [**The Quadrumvirate**](/fred-pohl/2009-05-08-the-quadrumvirate/)
+- [**Let There Be Fandom: The Science Fiction League**](/fred-pohl/2009-09-17-let-there-be-fandom-the-science-fiction-league/)
+- [**Let There Be Fandom, Part 2: School Days**](/fred-pohl/2009-09-28-let-there-be-fandom-part-2-school-days/)
+- [**Let There Be Fandom, Part 3: A Brooklyn Boyhood**](/fred-pohl/2009-10-02-let-there-be-fandom-part-3-a-brooklyn-boyhood/)
+- [**Let There Be Fandom, Part 4: New Deal, New Worlds**](/fred-pohl/2009-10-08-let-there-be-fandom-part-4-new-deal-new-worlds/)
+- [**Let There Be Fandom, Part 5: The Big League**](/fred-pohl/2009-10-12-let-there-be-fandom-part-5-the-big-league/)
+- [**Let There Be Fandom, Part 6: The Pros!**](/fred-pohl/2009-10-15-let-there-be-fandom-part-6-the-pros/)
+- [**Let There Be Fandom, Part 7: The Crusade**](/fred-pohl/2009-10-19-let-there-be-fandom-part-7-the-crusade/)
 
 
 ### 2 Comments
@@ -91,11 +91,11 @@ The good part was that it was just about to be born, when Wonder Stories started
 - [Stefan Jones](https://web.archive.org/web/20110922134338/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) says:
 Keep ‘em coming!
 My, Willy Ley looks young in that picture! I have a couple of plastic model space ship kits, re-issues of models issued in the late 50s. The boxes ([1](https://web.archive.org/web/20110922134338/http://www.fantastic-plastic.com/SPACE%20TAXI%20PAGE.htm)  , [2](https://web.archive.org/web/20110922134338/http://www.fantastic-plastic.com/MONOGRAM%20PASSENGER%20ROCKET%20PAGE.htm)) show Willy Ley showing the finished models to neatly dressed kids.
-[**July 5, 2010, 7:13 pm**](/posts/2010-07-05-basement-and-empire/)
+[**July 5, 2010, 7:13 pm**](/fred-pohl/2010-07-05-basement-and-empire/)
 - [Bald Guy](https://web.archive.org/web/20110922134338/http://www.irememberjfk.com/) says:
 What Stefan said!
 Mr. Pohl, sometime, could you give a remembrance about Analog? It was good stuff for a young Boomer in the early 70’s…
-[**July 6, 2010, 4:53 pm**](/posts/2010-07-05-basement-and-empire/)
+[**July 6, 2010, 4:53 pm**](/fred-pohl/2010-07-05-basement-and-empire/)
 
 [WordPress](https://web.archive.org/web/20110922134338/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20110922134338/http://dicksmithsoftware.com/)

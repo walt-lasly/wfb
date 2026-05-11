@@ -4,9 +4,9 @@ date: 2010-12-02
 categories: ["Authors", "Personal"]
 tags: ["Communism", "Futurians", "Judith Merril", "Merril Zissman"]
 archive_url: "https://web.archive.org/web/20140901000000/http://www.thewaythefutureblogs.com/2010/12/judith-merril-part-2-more-motherhood/"
-prev_post_url: "/posts/2010-12-01-the-high-line/"
+prev_post_url: "/fred-pohl/2010-12-01-the-high-line/"
 prev_post_title: "The High Line"
-next_post_url: "/posts/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
+next_post_url: "/fred-pohl/2010-12-03-how-much-of-a-favor-can-you-afford-to-do-me/"
 next_post_title: "How Much of a FAVOR Can You Afford to Do Me?"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="judithmerrilwb.jpg" alt="Judith Merril" caption="Judith Merril" >}}
 
 
-So, take it all in all, by that part of the ’40s, [**Judy**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/) and I were doing quite well.
+So, take it all in all, by that part of the ’40s, [**Judy**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/) and I were doing quite well.
 
 
 Was Judy happy?
@@ -67,7 +67,7 @@ Well, it wasn’t a guarantee of peace and harmony.  But we could take a chance,
 
 **Related posts:**  
 
-**Judith Merril,** [**Part 1**](/posts/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 3**](/posts/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/posts/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/posts/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/posts/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/posts/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/posts/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/posts/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
+**Judith Merril,** [**Part 1**](/fred-pohl/2010-11-30-judith-merril-part-1-that-only-a-mother/), [**Part 3**](/fred-pohl/2010-12-04-judith-merril-part-3-life-with-judy/), [**Part 4**](/fred-pohl/2010-12-06-judith-merril-part-4-last-attempts-at-having-a-family/), [**Part 5**](/fred-pohl/2010-12-08-judith-merril-part-5-a-good-successful-novel-all-of-her-own/), [**Part 6**](/fred-pohl/2010-12-10-judith-merril-part-6-our-house/), [**Part 7**](/fred-pohl/2010-12-12-judith-merril-part-7-when-it-all-hit-the-fan/), [**Part 8**](/fred-pohl/2010-12-15-judith-merril-part-8-spymaster-in-the-custody-wars/), [**Part 9**](/fred-pohl/2010-12-20-judith-merril-part-9-friends-again-before-the-end/)
 
 [WordPress](https://web.archive.org/web/20160416132442/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416132442/http://dicksmithsoftware.com/)

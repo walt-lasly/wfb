@@ -4,9 +4,9 @@ date: 2012-11-21
 categories: ["Science"]
 tags: ["C.R. Hagen", "Francois Englert", "Gerald Guralnik", "Peter Higgs", "Physics", "Robert Brout", "Tom Kibble"]
 archive_url: "https://web.archive.org/web/20130128063024/http://www.thewaythefutureblogs.com/2012/11/that-boson-give-us-your-full-name-please/"
-prev_post_url: "/posts/2012-11-19-poul-anderson-stanislaw-lem-philip-k-dick-and-me/"
+prev_post_url: "/fred-pohl/2012-11-19-poul-anderson-stanislaw-lem-philip-k-dick-and-me/"
 prev_post_title: "Poul Anderson, Stanislaw Lem, Philip K. Dick and me"
-next_post_url: "/posts/2012-11-23-here-s-some-good-news-and-sorry-some-bad/"
+next_post_url: "/fred-pohl/2012-11-23-here-s-some-good-news-and-sorry-some-bad/"
 next_post_title: "Here’s Some Good News — and (Sorry) Some Bad"
 translated: false
 translator: "Yandex"
@@ -32,17 +32,17 @@ translator: "Yandex"
 
 - [Нестор](https://web.archive.org/web/20130128063024/http://www.krazykimchi.com/) говорит:
 Бозон BEHGHK? Боюсь, у Хиггса есть одно но: права на первое присвоение имен трудно поколебать, как только они утвердятся в общественном сознании.
-[** 21 ноября 2012 года, 8:29 утра**](/posts/2012-11-21-that-boson-give-us-your-full-name-please/)
+[** 21 ноября 2012 года, 8:29 утра**](/fred-pohl/2012-11-21-that-boson-give-us-your-full-name-please/)
 - Гарри Пейн говорит:
 Пожалуйста, вспомните Сатьендру Нат Бозе, в честь которого Поль Дирак назвал бозон.
 Причину отсутствия профессора Боуза при обсуждении частицы Хиггса, возможно, можно определить по его полному имени.
-[** 23 ноября 2012, 17:40 вечера**](/posts/2012-11-21-that-boson-give-us-your-full-name-please/)
+[** 23 ноября 2012, 17:40 вечера**](/fred-pohl/2012-11-21-that-boson-give-us-your-full-name-please/)
 - Его превосходительство Пармер говорит:
 Подумать только, если бы не случайность судьбы, мы бы назвали это Крошечной частицей.
-[** 26 ноября 2012 года, 1:22 утра**](/posts/2012-11-21-that-boson-give-us-your-full-name-please/)
+[** 26 ноября 2012 года, 1:22 утра**](/fred-pohl/2012-11-21-that-boson-give-us-your-full-name-please/)
 - [Андрей](https://web.archive.org/web/20130128063024/http://trytolearnmore.com/) говорит:
 По какой-то причине вокруг этой темы стало очень тихо
-[**28 ноября 2012, 14:11 вечера**](/posts/2012-11-21-that-boson-give-us-your-full-name-please/)
+[**28 ноября 2012, 14:11 вечера**](/fred-pohl/2012-11-21-that-boson-give-us-your-full-name-please/)
 
 [WordPress](https://web.archive.org/web/20130128063024/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20130128063024/http://dicksmithsoftware.com/)

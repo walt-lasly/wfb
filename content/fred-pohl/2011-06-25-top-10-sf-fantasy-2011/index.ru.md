@@ -4,9 +4,9 @@ date: 2011-06-25
 categories: ["Books", "Personal"]
 tags: ["All the Lives He Led", "Larry Niven"]
 archive_url: "https://web.archive.org/web/20211101000000/http://www.thewaythefutureblogs.com/2011/06/top-10-sffantasy-2011/"
-prev_post_url: "/posts/2011-06-24-how-well-do-you-know-your-bible/"
+prev_post_url: "/fred-pohl/2011-06-24-how-well-do-you-know-your-bible/"
 prev_post_title: "How Well Do You Know Your Bible?"
-next_post_url: "/posts/2011-06-30-answers-to-bible-quiz/"
+next_post_url: "/fred-pohl/2011-06-30-answers-to-bible-quiz/"
 next_post_title: "Answers to Bible Quiz"
 translated: false
 translator: "Yandex"
@@ -35,10 +35,10 @@ translator: "Yandex"
 “Да... хорошо… этот список был составлен в хронологическом порядке, не так ли?”  
 
 –_ История о петухе и быке_
-[** 25 июня 2011 года, 6:49 утра**](/posts/2011-06-25-top-10-sf-fantasy-2011/)
+[** 25 июня 2011 года, 6:49 утра**](/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/)
 - Крис говорит:
 Я рад видеть, что роман наконец–то доступен для Kindle - я куплю его сегодня! Я с нетерпением жду возможности прочитать его точно так же, как я с нетерпением ждал каждого романа Пола за последние 30 лет.
-[** 26 июня 2011 года, 6:51 утра**](/posts/2011-06-25-top-10-sf-fantasy-2011/)
+[** 26 июня 2011 года, 6:51 утра**](/fred-pohl/2011-06-25-top-10-sf-fantasy-2011/)
 
 [WordPress](https://web.archive.org/web/20170717164549/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170717164549/http://dicksmithsoftware.com/)

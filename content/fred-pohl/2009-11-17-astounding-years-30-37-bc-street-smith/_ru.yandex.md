@@ -4,9 +4,9 @@ date: 2009-11-17
 categories: ["Authors", "Personal"]
 tags: ["Editors", "F. Orlin Tremaine", "Fanzines", "John W. Campbell", "L. Sprague de Camp", "Prozines"]
 archive_url: "https://web.archive.org/web/20091126115012/http://www.thewaythefutureblogs.com/2009/11/astounding-years-3037-bc-street-smith/"
-prev_post_url: "/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
+prev_post_url: "/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/"
 prev_post_title: "Astounding Years 30–37 BC:* Clayton Magazines"
-next_post_url: "/posts/2009-11-21-a-couple-more-comments-on-comments/"
+next_post_url: "/fred-pohl/2009-11-21-a-couple-more-comments-on-comments/"
 next_post_title: "A Couple More Comments on Comments"
 translated: false
 translator: "Yandex"
@@ -55,7 +55,7 @@ translator: "Yandex"
 
 ** Сообщение по теме:**
 
-[** Astounding Years 30-37 до н.э.: Журналы Clayton Magazines**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[** Astounding Years 30-37 до н.э.: Журналы Clayton Magazines**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 
 
 ### Один комментарий
@@ -64,7 +64,7 @@ translator: "Yandex"
 Коллекция научной фантастики моего покойного отца включала серию Astounding, относящихся к его юности, но только один выпуск был посвящен периоду Тремейна. Это был потрепанный номер без обложки, который, как я недавно определил, был издан в 1935 году. В юности я много читал старые журналы моего отца, и этот Astounding 1935 года очаровал меня. 
 В моей памяти остались две истории. Одним из них была “Голубая бесконечность”, “роман, в котором земля движется”, пример изящно написанной, но быстро развивающейся научной фантастики, разрушающей Galaxy, которая, я думаю, развлекла многих Astounding читателей. Читая это в 1970-х годах, я подумал, что это шутка.
 С другой стороны, на меня произвела большое впечатление другая история, столь же безрассудно амбициозная, но которая на самом деле показалась мне более правдоподобной. Хотя я не могу вспомнить псевдонауку, которую она использовала, я точно помню, что история закончилась тем, что все на земле (возможно, и за ее пределами) медленно размягчилось, превратившись в своего рода молекулярную кашу. Я полагаю, что в данном случае земля не была спасена в самый последний момент. Мне понравилась эта история.
-[**21 ноября 2009, 19:51 вечера**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/)
+[**21 ноября 2009, 19:51 вечера**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/)
 
 [WordPress](https://web.archive.org/web/20091126115012/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091126115012/http://dicksmithsoftware.com/)

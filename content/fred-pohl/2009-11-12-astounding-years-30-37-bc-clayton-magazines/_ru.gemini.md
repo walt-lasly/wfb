@@ -4,9 +4,9 @@ date: 2009-11-12
 categories: ["Authors"]
 tags: ["Douglas M. Dold", "Editors", "Elliott Dold", "Great Depression", "Harry Bates", "History", "Hugo Gernsback", "John W. Campbell", "Lilith Lorraine", "Murray Leinster", "Prozines", "Pulps", "Ray Cummings", "Robert A. Heinlein", "S.P. Meek"]
 archive_url: "https://web.archive.org/web/20030401000000/http://www.thewaythefutureblogs.com/2009/11/astounding-years-3037-bc/"
-prev_post_url: "/posts/2009-11-03-lester-and-judy-lynn-del-rey/"
+prev_post_url: "/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/"
 prev_post_title: "Lester and Judy-Lynn del Rey"
-next_post_url: "/posts/2009-11-17-astounding-years-30-37-bc-street-smith/"
+next_post_url: "/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/"
 next_post_title: "Astounding Years 30–37 BC:* Street & Smith"
 translated: false
 translator: "Gemini"
@@ -63,33 +63,33 @@ translator: "Gemini"
 **Связанный пост:**
 
 
-[**Годы Astounding 30–37 до н.э.: Street & Smith**](/posts/2009-11-17-astounding-years-30-37-bc-street-smith/)
+[**Годы Astounding 30–37 до н.э.: Street & Smith**](/fred-pohl/2009-11-17-astounding-years-30-37-bc-street-smith/)
 
 
 ### 5 комментариев
 
 - E. J. Garcia говорит:
 Очень хорошее чтение, Фред! То немногое, что я уже знал об Astounding, было связано с временами Джона Кэмпбелла ([официальный сайт](https://web.archive.org/web/20091201104029/http://www.analogsf.com/information/what_is_asf.shtml) буквально пропустил всю предысторию!), конечно, как вы показали, в журнале есть гораздо больше, чем это. Мне хотелось бы добавить больше к этой теме, хотя я хотел бы сказать, что недавно закончил читать ваш сказочный роман «Врата», теперь это мой личный фаворит. *Удачи!*
-[**12 ноября 2009 г., 20:05**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**12 ноября 2009 г., 20:05**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [Scott Hauger](https://web.archive.org/web/20091201104029/http://www.jscotthauger.com/) говорит:
 Спасибо за эти бесценные истории!
 
 
 Скотт
-[**12 ноября 2009 г., 23:26**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**12 ноября 2009 г., 23:26**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [steve davidson](https://web.archive.org/web/20091201104029/http://www.rimworlds.com/thecrotchetyoldfan) говорит:
 Отличная тема, Фред! Интересно, что я перечитываю «Реквием по Astounding» Элвы Роджерса (Advent, 1964), который включает в себя вступления от Бейтса, Тремейна и Кэмпбелла.
 В первом вступлении Бейтса Гарри утверждает, что изначально он думал, что именно он один предложил название Astounding компании Clayton, но при подготовке своей статьи для книги он узнал, что Дуглас Долд и Гарольд Херси также делают аналогичные заявления. Гарри решает разделить заслуги между всеми.
 Он также утверждает, что обложки для журналов Clayton печатались по четыре за раз, оставляя три пустых места на пробнике, а не одно: «Теперь на этом листе были пустые места. Пробы занимали места, расположенные в четыре ряда по четыре столбца каждый, причем были заполнены только тринадцать из шестнадцати мест. Это означало, что месяц за месяцем три из шестнадцати мест будут смотреть на Clayton пустыми…»
 Конечно, моя информация получена из вторых рук, а ваша — из первых, и я подозреваю, что в ваших следующих частях будет рассказано о вашей собственной редакторской карьере, о которой мне интереснее узнать, чем о Бейтсе или Кэмпбелле (мы много слышали о них обоих за эти годы). Человек, ответственный за то, что мы получили Кордвайнера Смита, заслуживает хотя бы небольшого упоминания, не так ли?
 Кроме того, я владею каждым из первых выпусков журналов, которые вы редактировали, и их гораздо больше, чем одно название…
-[**13 ноября 2009 г., 6:34**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**13 ноября 2009 г., 6:34**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [Nate](https://web.archive.org/web/20091201104029/http://www.oddessay.com/) говорит:
 Ура! Эти истории должны быть включены в курс «история бизнеса писательства», который должен быть обязательным для всех студентов, изучающих творческое письмо.
-[**13 ноября 2009 г., 14:04**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**13 ноября 2009 г., 14:04**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 - [Todd Mason](https://web.archive.org/web/20091201104029/http://www.socialistjazz.blogspot.com/) говорит:
 Что ты думаешь о журнале Долдов MIRACLE SCIENCE AND FANTASY STORIES?
-[**13 ноября 2009 г., 18:07**](/posts/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
+[**13 ноября 2009 г., 18:07**](/fred-pohl/2009-11-12-astounding-years-30-37-bc-clayton-magazines/)
 
 [WordPress](https://web.archive.org/web/20091201104029/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091201104029/http://dicksmithsoftware.com/)

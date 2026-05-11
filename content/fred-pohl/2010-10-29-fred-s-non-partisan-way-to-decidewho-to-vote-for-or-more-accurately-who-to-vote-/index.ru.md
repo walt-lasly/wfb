@@ -4,9 +4,9 @@ date: 2010-10-29
 categories: ["Miscellaneous"]
 tags: ["Media", "Politics"]
 archive_url: "https://web.archive.org/web/20201101000000/http://www.thewaythefutureblogs.com/2010/10/freds-non-partisan-way-to-decidewho-to-vote-foror-more-accurately-who-to-vote-against/"
-prev_post_url: "/posts/2010-10-20-robert-heinlein-we-never-knew-ye/"
+prev_post_url: "/fred-pohl/2010-10-20-robert-heinlein-we-never-knew-ye/"
 prev_post_title: "Robert Heinlein, We Never Knew Ye"
-next_post_url: "/posts/2010-10-31-good-news-for-the-rest-of-the-world/"
+next_post_url: "/fred-pohl/2010-10-31-good-news-for-the-rest-of-the-world/"
 next_post_title: "Good News for the Rest of the World"
 translated: false
 translator: "Yandex"
@@ -40,25 +40,25 @@ translator: "Yandex"
 
 - Сильвио Сосио говорит:
 Я согласен. В Италии у нас есть более простой метод: просто подсчитайте, сколькими телевизионными сетями владеет кандидат, и проголосуйте за другого. – S*
-[** 29 октября 2010 года, 6:45 утра**](/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
+[** 29 октября 2010 года, 6:45 утра**](/fred-pohl/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
 - Идран говорит:
 Разве это не должно зависеть от их фактического источника финансирования?  Не обязательно для _ всех_ политиков основным источником финансирования их предвыборных кампаний являются коммерческие компании и ассоциации.  Для некоторых, честно говоря, большая часть их источников - это общественные пожертвования от граждан или даже от законных некоммерческих организаций.  И еще есть сверхбогатые кандидаты, которые финансируют себя из собственного кармана; возвращаясь немного назад, вряд ли можно сказать, что Росс Перо получал большую часть своего финансирования из внешних коммерческих источников.  И эти данные тоже находятся в открытом доступе.  Я бы сказал, что если это тот показатель, который вы хотите использовать для определения своего выбора, то лучший способ придерживаться его - проголосовать за того, у кого больше всего государственного финансирования в процентном отношении (а не в долларах США), а не просто за того, кто тратит меньше всего.
 Кроме того, только потому, что они потратили меньше всего, почему это автоматически делает их менее обязанными корпоративным источникам этих крупных пожертвований?  Разве это вызывает меньше беспокойства, если кто-то обязан только одной корпорации, а не пяти, например?  Сколько корпораций является пределом?
-[**31 октября 2010, 14:52**](/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
+[**31 октября 2010, 14:52**](/fred-pohl/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
 - [Кевин](https://web.archive.org/web/20131011092114/http://kevingamble.com/) говорит:
 Отличная, емкая мысль, с которой трудно поспорить, основываясь на прошлом опыте. Деньги стали величайшим ядом выборов, и Верховный суд США значительно ухудшил ситуацию своим продолжающимся превозношением корпоративной гражданственности над реальными гражданами из плоти и крови – денег как речи над реальной человеческой речью.
 Идран, ты высказал несколько хороших замечаний, но Пол не предлагает использовать это в качестве полного критерия отбора. Он представляет эту концепцию как способ разорвать связь между двумя в остальном сопоставимыми кандидатами (и, если я правильно читаю между строк, как общий мыслительный прием для того, чтобы отойти от индивидуальной гонки и рассмотреть силы, которые формируют поведение должностных лиц).
 Если бы только больше избирателей использовали этот критерий на выборах 2000 года, от какого хаоса мы все были бы избавлены…
-[**1 ноября 2010, 12:21 вечера**](/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
+[**1 ноября 2010, 12:21 вечера**](/fred-pohl/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
 - Ли говорит:
 В советской России реклама учитывала вас!
-[**1 ноября 2010, 20:35 вечера**](/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
+[**1 ноября 2010, 20:35 вечера**](/fred-pohl/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
 - Сэм говорит:
 Отлично! Это поддерживает мой алгоритм голосования: всегда голосуйте за третью сторону!
-[**6 ноября 2010, 14:27 вечера**](/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
+[**6 ноября 2010, 14:27 вечера**](/fred-pohl/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
 - [Тамфанг](https://web.archive.org/web/20131011092114/http://ogre.nu/) говорит:
 Я голосую против двух наиболее стремящихся расширить список мотивов для взяточничества.
-[**8 ноября 2010, 11:49 вечера**](/posts/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
+[**8 ноября 2010, 11:49 вечера**](/fred-pohl/2010-10-29-fred-s-non-partisan-way-to-decidewho-to-vote-for-or-more-accurately-who-to-vote-/)
 
 [WordPress](https://web.archive.org/web/20131011092114/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20131011092114/http://dicksmithsoftware.com/)

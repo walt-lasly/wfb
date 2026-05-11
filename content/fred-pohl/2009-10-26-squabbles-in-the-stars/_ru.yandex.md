@@ -4,9 +4,9 @@ date: 2009-10-26
 categories: ["Science", "Space"]
 tags: ["Edwin Balmer", "Future", "History", "Philip Wylie", "Politics"]
 archive_url: "https://web.archive.org/web/20240901000000/http://www.thewaythefutureblogs.com/2009/10/squabbles-in-the-stars/"
-prev_post_url: "/posts/2009-10-22-fred-the-machine-man/"
+prev_post_url: "/fred-pohl/2009-10-22-fred-the-machine-man/"
 prev_post_title: "Fred the Machine Man"
-next_post_url: "/posts/2009-11-03-lester-and-judy-lynn-del-rey/"
+next_post_url: "/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/"
 next_post_title: "Lester and Judy-Lynn del Rey"
 translated: false
 translator: "Yandex"
@@ -76,21 +76,21 @@ translator: "Yandex"
 - Пол А. говорит:
 Вы ведь не были замешаны в этой афере с латвийским метеоритным кратером, не так ли? Хороший способ привлечь внимание к проблеме NEO....
 [http://www.wtkr.com/news/nationworld/sns-ap-eu-latvia-meteorite ,0,1920607.история](https://web.archive.org/web/20091208090202/http://www.wtkr.com/news/nationworld/sns-ap-eu-latvia-meteorite,0,1920607.story)
-[**26 октября 2009, 14:38 вечера**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**26 октября 2009, 14:38 вечера**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - [Джефф](https://web.archive.org/web/20091208090202/http://jeffcrook.blogspot.com/) говорит:
 Мой первый опубликованный рассказ в жанре научной фантастики был о пилоте буксира, который отправляется в пояс астероидов, чтобы собирать астероиды и доставлять их обратно на Землю, чтобы превратить в орбитальную недвижимость, а также в оружие. Она была опубликована в антологии "Дети Сола" в 2003 году. Я перепечатал это здесь: [http://jeffcrookfiction .blogspot.com/2008/10/roid.html](https://web.archive.org/web/20091208090202/http://jeffcrookfiction.blogspot.com/2008/10/roid.html)
-[**26 октября 2009, 15:02**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**26 октября 2009, 15:02**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - [Джефф](https://web.archive.org/web/20091208090202/http://jeffcrook.blogspot.com/) говорит:
 На самом деле, 8 октября над Сулавеси произошел сильный хлопок. Астероид, диаметр которого оценивался в 10 метров, взорвался на большой высоте с силой, равной 3 бомбам, сброшенным на Хиросиму. Он взорвался достаточно высоко, чтобы не нанести никакого ущерба земле. 
 [http://www.newscientist.com/article/dn18046-asteroid-blast-reveals-holes-in-earths-defences.html](https://web.archive.org/web/20091208090202/http://www.newscientist.com/article/dn18046-asteroid-blast-reveals-holes-in-earths-defences.html)
 Я сошел с ума, или боги, похоже, имеют зуб на Индонезию?
-[** 28 октября 2009 года, 10:37 утра**](/posts/2009-10-26-squabbles-in-the-stars/)
+[** 28 октября 2009 года, 10:37 утра**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - Э. Джей Гарсия говорит:
 Что касается ОСЗ, то всего несколько недель назад [над Индонезией взорвался](https://web.archive.org/web/20091208090202/http://www.telegraph.co.uk/science/space/6444895/Asteroid-explosion-over-Indonesia-raises-fears-about-Earths-defences.html) астероид с полезной нагрузкой в три бомбы, сброшенные на Хиросиму.  Может быть, совпадение?
-[** 28 октября 2009, 18:23 вечера**](/posts/2009-10-26-squabbles-in-the-stars/)
+[** 28 октября 2009, 18:23 вечера**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 - Э. Джей Гарсия говорит:
 Кроме того, если никто еще не прокомментировал это, что вы думаете о печально известном астероиде Апофис, мистер Пол?  К счастью, 2029-2036 годы намного опережают ваше время, но будущее поколение, безусловно, может извлечь пользу из вашей проницательности (если вы пожелаете что-то добавить).
-[**3 ноября 2009, 14:42**](/posts/2009-10-26-squabbles-in-the-stars/)
+[**3 ноября 2009, 14:42**](/fred-pohl/2009-10-26-squabbles-in-the-stars/)
 
 [WordPress](https://web.archive.org/web/20091208090202/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20091208090202/http://dicksmithsoftware.com/)

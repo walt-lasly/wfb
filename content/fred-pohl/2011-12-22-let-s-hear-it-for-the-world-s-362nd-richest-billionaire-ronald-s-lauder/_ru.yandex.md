@@ -4,9 +4,9 @@ date: 2011-12-22
 categories: ["Miscellaneous"]
 tags: ["Economics", "Estee Lauder", "Ronald S. Lauder"]
 archive_url: "https://web.archive.org/web/20210801000000/http://www.thewaythefutureblogs.com/2011/12/lets-hear-it-for-the-worlds-362nd-richest-billionaire-ronald-s-lauder/"
-prev_post_url: "/posts/2011-12-20-the-poorest-set-a-new-all-time-record/"
+prev_post_url: "/fred-pohl/2011-12-20-the-poorest-set-a-new-all-time-record/"
 prev_post_title: "The Poorest Set a New All-Time Record!"
-next_post_url: "/posts/2011-12-23-get-ready-for-number-six/"
+next_post_url: "/fred-pohl/2011-12-23-get-ready-for-number-six/"
 next_post_title: "Get Ready for Number Six"
 translated: false
 translator: "Yandex"
@@ -41,14 +41,14 @@ translator: "Yandex"
 
 - [ТЭД](https://web.archive.org/web/20170707153432/http://www.tadsbackupplan.blogspot.com/) говорит:
 Фред: Вы видели, что главы JP Morgan/Chase и Home Depot (среди прочих) открыто говорят о своих высоких доходах, говоря, что “быть успешным - это нормально"? Очевидно, генеральный директор JP Morgan/Chase является самым высокооплачиваемым банковским директором в стране. Так что, да, быть успешным - это нормально, НО.... Эти парни Этого Не Понимают.
-[** 22 декабря 2011 года, 5:09 утра**](/posts/2011-12-22-let-s-hear-it-for-the-world-s-362nd-richest-billionaire-ronald-s-lauder/)
+[** 22 декабря 2011 года, 5:09 утра**](/fred-pohl/2011-12-22-let-s-hear-it-for-the-world-s-362nd-richest-billionaire-ronald-s-lauder/)
 - [Стефан Джонс](https://web.archive.org/web/20170707153432/http://home.comcast.net/~stefan_jones/kira_park_lo.jpg) говорит:
 Нет ничего плохого в том, чтобы зарабатывать деньги или быть богатым. Проблема в том, что когда это ударяет вам в голову, вы в конечном итоге воображаете себя частью аристократии, которая ничего не должна обществу.
-[** 23 декабря 2011 года, 12:22 утра**](/posts/2011-12-22-let-s-hear-it-for-the-world-s-362nd-richest-billionaire-ronald-s-lauder/)
+[** 23 декабря 2011 года, 12:22 утра**](/fred-pohl/2011-12-22-let-s-hear-it-for-the-world-s-362nd-richest-billionaire-ronald-s-lauder/)
 - Джей Борчердинг говорит:
 Некоторые из этих ОТДЕЛЬНЫХ миллиардеров обладают состоянием, превышающим ВВП многих членов ООН.  Предположим, что у Билла Гейтса или Уоррена Баффета по 50 миллиардов долларов на каждого: 111 из 183 стран имеют ВВП ниже 50 миллиардов долларов по данным МВФ, 118 из 190 стран относятся к этой категории по данным Всемирного банка и 116 из 190 стран по данным CIA World Fact Book.   
 Недавно меня удивил один странный маленький анекдот: на долю единственного завода Intel по производству чипов в Коста-Рике приходится 9% от общего объема внутреннего производства в этой стране.  Как правило, с Intel все в порядке – хорошие рабочие места, большие расходы на исследования, она по-прежнему занимается крупными инвестициями и производством здесь, в США.  Так что они одни из хороших парней, как и все крупные корпорации, но это иллюстрирует, как крупные корпорации и состоятельные люди занимают огромное место в мире, в некоторых случаях затмевая суверенные государства.
-[** 23 декабря 2011 года, 1:03 утра**](/posts/2011-12-22-let-s-hear-it-for-the-world-s-362nd-richest-billionaire-ronald-s-lauder/)
+[** 23 декабря 2011 года, 1:03 утра**](/fred-pohl/2011-12-22-let-s-hear-it-for-the-world-s-362nd-richest-billionaire-ronald-s-lauder/)
 
 [WordPress](https://web.archive.org/web/20170707153432/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170707153432/http://dicksmithsoftware.com/)

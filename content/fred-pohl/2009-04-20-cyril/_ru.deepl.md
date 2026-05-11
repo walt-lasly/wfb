@@ -4,9 +4,9 @@ date: 2009-04-20
 categories: ["Authors", "Personal", "Writing"]
 tags: ["C.M. Kornbluth", "Collaborating", "Editors", "Fritz Leiber", "Horace L. Gold", "Medicine", "Poetry", "Prozines", "Robert P. Mills", "World War II"]
 archive_url: "https://web.archive.org/web/20090425195253/http://www.thewaythefutureblogs.com/2009/04/cyril/"
-prev_post_url: "/posts/2009-04-15-is-the-bell-curve-a-crystal-ball/"
+prev_post_url: "/fred-pohl/2009-04-15-is-the-bell-curve-a-crystal-ball/"
 prev_post_title: "Is the Bell Curve a Crystal Ball?"
-next_post_url: "/posts/2009-04-22-maxwell-george-frederik-warren-pohl-weary/"
+next_post_url: "/fred-pohl/2009-04-22-maxwell-george-frederik-warren-pohl-weary/"
 next_post_title: "Maxwell George Frederik Warren Pohl-Weary"
 translated: false
 translator: "DeepL"
@@ -76,22 +76,22 @@ translator: "DeepL"
 
 - [Стив Дэвидсон](https://web.archive.org/web/20090425195253/http://www.rimworlds.com/thecrotchetyoldfan) сказал:
 Фред, спасибо тебе большое за то, что поделился с нами этим.  Я любил и Сирила, и твои произведения и очень люблю романы, которые вы написали вместе.  Это сблизило меня с Сирилом, я узнал о нем некоторые вещи, которых не знал.
-[**April 20, 2009, 8:49 am**](/posts/2009-04-20-cyril/)
+[**April 20, 2009, 8:49 am**](/fred-pohl/2009-04-20-cyril/)
 - [Luke McGuff](https://web.archive.org/web/20090425195253/http://holyoutlaw.livejournal.com/) говорит:
 Спасибо, что написал эти воспоминания. Я тоже причисляю ваши совместные работы к любимым НФ-романам моего золотого века.
-[**April 20, 2009, 12:47 pm**](/posts/2009-04-20-cyril/)
+[**April 20, 2009, 12:47 pm**](/fred-pohl/2009-04-20-cyril/)
 - [Стефан Джонс](https://web.archive.org/web/20090425195253/http://home.comcast.net/%7Estefan_jones/kira_grinning_lo.JPG) говорит:
 Представленный сборник (*His Share of Glory*) полон замечательных вещей и очень рекомендуется. Корнблат писал сатирическое фэнтези за десятилетия до того, как такие парни, как Аспирин и Пратчетт, сделали его популярным.
 Примечание для путешественников во времени, которые могут прочитать это: Подумай о том, чтобы перепрыгнуть в 1958 год, арендовать джип и подвезти этого парня.
-[**April 20, 2009, 1:39 pm**](/posts/2009-04-20-cyril/)
+[**April 20, 2009, 1:39 pm**](/fred-pohl/2009-04-20-cyril/)
 - [Elio M. García, Jr.](https://web.archive.org/web/20090425195253/http://www.westeros.org/) рассказывает:
 Я только начал учиться в младшей школе (сейчас это можно отнести к 19 годам), когда влюбился в научную фантастику. Я поглощал книги, которые были в моей школьной и местной библиотеках, и, конечно же, они склонялись к романам и сборникам, содержащим великих, классических авторов. Азимов, Хайнлайн, Кларк... и Корнблат (и, если можно так выразиться, Поль). В раннем детстве я прочитал биографический отрывок о Сириле, и он поразил меня (даже в том юном возрасте) как настоящая трагедия, что он умер таким молодым, когда писал такие замечательные истории.
 Спасибо, что поделился своими воспоминаниями о нем.
-[**April 21, 2009, 2:53 am**](/posts/2009-04-20-cyril/)
+[**April 21, 2009, 2:53 am**](/fred-pohl/2009-04-20-cyril/)
 - Говорит Скотт Хаугер:
 Просто хочу сообщить тебе, что я очень ценю и наслаждаюсь чтением твоего блога, особенно биографических мемуаров авторов НФ.  Я достаточно взрослый, чтобы прочитать пару твоих совместных работ с Сирилом Корнблатом, когда они только вышли (а также почти все \"juveniles\"} Хайнлайна.  
 Но больше всего мне нравятся романы о Вратах (Gateway).  Как ты пришел к их основной концепции?
-[**April 21, 2009, 9:23 pm**](/posts/2009-04-20-cyril/)
+[**April 21, 2009, 9:23 pm**](/fred-pohl/2009-04-20-cyril/)
 
 [WordPress](https://web.archive.org/web/20090425195253/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090425195253/http://dicksmithsoftware.com/)

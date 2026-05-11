@@ -4,9 +4,9 @@ date: 2011-04-04
 categories: ["Authors", "Writing"]
 tags: ["Alfred Bester", "C.M. Kornbluth", "Clubs", "Collaborating", "Damon Knight", "Donald A. Wollheim", "Futurians", "Isaac Asimov", "Jack Williamson", "Lester del Rey", "Mary Kornbluth", "Medicine", "The Space Merchants", "World War II"]
 archive_url: "https://web.archive.org/web/20210701000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-5-collaboration-futurians/"
-prev_post_url: "/posts/2011-04-01-me-and-alfie-part-4-rejection/"
+prev_post_url: "/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/"
 prev_post_title: "Me and Alfie, Part 4:  Rejection"
-next_post_url: "/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
+next_post_url: "/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
 next_post_title: "Me and Alfie, Part 6: John W. Campbell and Dianetics"
 translated: false
 translator: "Yandex"
@@ -25,7 +25,7 @@ translator: "Yandex"
 
 Аудитория: Не могли бы вы подробнее рассказать о том, как вы пишете в соавторстве с кем-то?
 
-Пол: С [**Сирилом Корнблатом**](/posts/2009-04-20-cyril/)? Что ж, с разными людьми все по-разному. Это все равно что быть женатым! Кстати, Альфи, ты когда-нибудь сотрудничал с художественной литературой?
+Пол: С [**Сирилом Корнблатом**](/fred-pohl/2009-04-20-cyril/)? Что ж, с разными людьми все по-разному. Это все равно что быть женатым! Кстати, Альфи, ты когда-нибудь сотрудничал с художественной литературой?
 
 Бестер: Никогда. Я никогда в жизни не сотрудничал. Я всегда был абсолютным одиночкой.
 
@@ -33,7 +33,7 @@ translator: "Yandex"
 
 Бестер: Мне тоже любопытно, Фред. Каково было работать с Сирилом?
 
-Пол: Ну, мы с Сирилом Корнблатом выросли вместе. Мы начали писать вместе, когда мне было лет 18 или 19, а Сирилу, может быть, 15. Мы принадлежали к организации под названием ["Футурианцы";](/posts/2009-05-08-the-quadrumvirate/) это был клуб фэнов научной фантастики в Нью-Йорке в конце 30-х и начале 40-х. Есть книга [Деймона Найта](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/DKnight.html) под названием "[Футурианцы](https://web.archive.org/web/20170619231008/http://www.amazon.com/gp/product/B0006COUA8?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0006COUA8)", которая, я думаю, сейчас печатается здесь, полная всевозможных клеветнических сплетен обо всех нас. Многое из этого правда, но ему все равно не следовало этого говорить! Такие люди, как [** Айзек Азимов**](/posts/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [Дон Уоллхейм](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/wollheim.html) и другие, хорошо заплатили бы ему за то, чтобы он не публиковал эту книгу.
+Пол: Ну, мы с Сирилом Корнблатом выросли вместе. Мы начали писать вместе, когда мне было лет 18 или 19, а Сирилу, может быть, 15. Мы принадлежали к организации под названием ["Футурианцы";](/fred-pohl/2009-05-08-the-quadrumvirate/) это был клуб фэнов научной фантастики в Нью-Йорке в конце 30-х и начале 40-х. Есть книга [Деймона Найта](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/DKnight.html) под названием "[Футурианцы](https://web.archive.org/web/20170619231008/http://www.amazon.com/gp/product/B0006COUA8?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0006COUA8)", которая, я думаю, сейчас печатается здесь, полная всевозможных клеветнических сплетен обо всех нас. Многое из этого правда, но ему все равно не следовало этого говорить! Такие люди, как [** Айзек Азимов**](/fred-pohl/2010-01-25-isaac-part-1-of-i-don-t-know-how-many/), [Дон Уоллхейм](https://web.archive.org/web/20170619231008/http://www.gcwillick.com/Spacelight/wollheim.html) и другие, хорошо заплатили бы ему за то, чтобы он не публиковал эту книгу.
 
 Но мы все принадлежали к этому клубу, и мы все хотели писать, и мы все старались. Мы с Сирилом начали работать вместе, и поскольку мы только начинали писать, то переняли многие писательские привычки друг друга. Мы начинали почти одинаково, мы привыкли друг к другу. А потом началась война. Он пошел в одну сторону, а я - в другую. А потом мы снова собрались вместе на Торговцах Космосом([The Space Merchants](https://web.archive.org/web/20170619231008/http://www.amazon.com/gp/product/0312749511?ie=UTF8&tag=7159-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312749511)). А с Сирилом, поскольку у нас был общий опыт и общие взгляды, написание большей части того, что мы писали, проходило почти безболезненно. Всего мы опубликовали, по-моему, семь романов и, может быть, 30 или 40 коротких рассказов.
 
@@ -55,7 +55,7 @@ translator: "Yandex"
 
 Пол: Ну, есть отличный стимул ускориться, когда ты знаешь, что другой парень там, внизу, отлично проводит время, и ты хочешь покончить с этим как можно быстрее, так что обычно это занимало всего пару часов. Ты знаешь, что другой парень ждет, и если ты не спустишься туда в ближайшее время, он отправится в какой-нибудь бар. Так что мы сработали довольно быстро. Это хороший способ написать книгу с участием двух людей, которые достаточно близки по своим способам работы, чтобы не убивать друг друга.
 
-Однажды я написал роман с [** Лестером дель Реем**](/posts/2009-11-03-lester-and-judy-lynn-del-rey/), и мы чуть не убили друг друга. До этого момента он был одним из моих самых близких друзей. Теперь мы никогда больше не напишем вместе ни слова.
+Однажды я написал роман с [** Лестером дель Реем**](/fred-pohl/2009-11-03-lester-and-judy-lynn-del-rey/), и мы чуть не убили друг друга. До этого момента он был одним из моих самых близких друзей. Теперь мы никогда больше не напишем вместе ни слова.
 
 Бестер: Почему с ним было трудно?
 
@@ -65,7 +65,7 @@ translator: "Yandex"
 
 Я не могу этого сделать. Мне нравится удивляться по ходу дела. Два или три раза в своей жизни я был близок к тому, чтобы убить кого-то, и одним из них был Лестер, когда мы писали этот роман. Так что у разных людей все по-разному.
 
-Я написал, по-моему, семь романов с [** Джеком Уильямсоном**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), и они совершенно разные.
+Я написал, по-моему, семь романов с [** Джеком Уильямсоном**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), и они совершенно разные.
 
 Бестер: Как с ним было работать?
 
@@ -83,7 +83,7 @@ translator: "Yandex"
 
 Поэтому он принял сознательное решение и сказал: “Что ж, я вернусь к своим злым путям, и если я умру в течение года, то, по крайней мере, я проживу год!” И он это сделал, и умер примерно через год.
 
-Бестер: Какой была [**его жена**](/posts/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/)?
+Бестер: Какой была [**его жена**](/fred-pohl/2010-12-09-mary-byers-kornbluth-part-1-a-fan-is-born/)?
 
 Пол: Они познакомились, когда она была юной фэн. У них двое детей. Она все еще живет на севере штата Нью-Йорк.
 
@@ -101,24 +101,24 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Альфи,** [** Часть 1**](/posts/2011-03-08-alfie/), [** Часть 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- ** Я и Альфи,** [** Часть 1**](/posts/2011-03-25-me-and-alfie/), [** Часть 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
-- ** Дистиллированная писательская мудрость Фреда **, [** Сотрудничество **](/posts/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [** Что делает другой парень **](/posts/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
+- ** Альфи,** [** Часть 1**](/fred-pohl/2011-03-08-alfie/), [** Часть 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- ** Я и Альфи,** [** Часть 1**](/fred-pohl/2011-03-25-me-and-alfie/), [** Часть 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [** Часть 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [** Часть 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [** Часть 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [** Часть 7**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/), [**Часть 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- ** Дистиллированная писательская мудрость Фреда **, [** Сотрудничество **](/fred-pohl/2010-04-27-fred-s-distilled-writing-wisdom-part-2-collaboration/), [** Что делает другой парень **](/fred-pohl/2010-10-06-fred-s-distilled-writing-wisdom-part-3/)
 
 ### 4 Комментария
 
 - Дэвид Голдфарб говорит:
 Мне вспоминается цитата из Флобера: “Будьте регулярны и упорядоченны в своей жизни, чтобы вы могли быть жестокими и оригинальными в своей работе”.
-[** 4 апреля 2011 года, 1:00 утра**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[** 4 апреля 2011 года, 1:00 утра**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 - [Стив Бойко](https://web.archive.org/web/20170619231008/http://www.traingeek.ca/) говорит:
 Мне действительно нравится эта серия ... спасибо, что поделились ею!
-[**4 апреля 2011 года, 9:45 утра**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**4 апреля 2011 года, 9:45 утра**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 - Дэвид Б. Уильямс говорит:
 Не спешите искать экземпляр "Футурианцев" только ради обещанного зловещего контента. Я прочитал ее, когда она вышла, и еще раз пару лет назад, и ничто не показалось мне особенно возмутительным. Реальные люди, конечно, и довольно интересные.
-[**4 апреля 2011 года, 11:49 утра**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**4 апреля 2011 года, 11:49 утра**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 - Форрест Лисон говорит:
 Я безумно любил Футурианцев, особенно стенгазеты.
-[**5 мая 2011 года, 12:10 вечера**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
+[**5 мая 2011 года, 12:10 вечера**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/)
 
 [WordPress](https://web.archive.org/web/20170619231008/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619231008/http://dicksmithsoftware.com/)

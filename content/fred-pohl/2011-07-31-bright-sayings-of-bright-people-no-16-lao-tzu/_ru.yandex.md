@@ -4,9 +4,9 @@ date: 2011-07-31
 categories: ["Miscellaneous"]
 tags: ["Lao Tzu", "Quotations"]
 archive_url: "https://web.archive.org/web/20151201000000/http://www.thewaythefutureblogs.com/2011/07/bright-sayings-of-bright-people-no-16/"
-prev_post_url: "/posts/2011-07-30-the-ipsy-wipsy-institute/"
+prev_post_url: "/fred-pohl/2011-07-30-the-ipsy-wipsy-institute/"
 prev_post_title: "The Ipsy-Wipsy Institute"
-next_post_url: "/posts/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/"
+next_post_url: "/fred-pohl/2011-07-31-the-cryonics-institute-s-106th-patient-robert-c-w-ettinger/"
 next_post_title: "The Cryonics Institute’s 106th Patient:Robert C.W. Ettinger"
 translated: false
 translator: "Yandex"
@@ -32,38 +32,38 @@ translator: "Yandex"
 
 - Дэвид Ратнасабапати говорит:
 Я этого не понимаю.  Просто связка спиц не сработает, они будут вонзаться в землю.  Если вы едете по асфальту, вам все равно придется ехать по ухабам.  Колесу нужен обод.
-[**31 июля 2011 года, 9:14 утра**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**31 июля 2011 года, 9:14 утра**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - Уолт Джи говорит:
 Твердое колесо было бы весьма полезно; колесо, сделанное из пространства, бесполезно. В этом вопросе философии нужен лучший представитель.
-[** 31 июля 2011 года, 11:23 утра**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[** 31 июля 2011 года, 11:23 утра**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - [Майк Тейлор](https://web.archive.org/web/20160221173900/http://reprog.wordpress.com/) говорит:
 ”В этом вопросе философии нужен лучший представитель".
 ...или пресс-секретарю нужна лучшая философия.
 ...или философу нужны спицы получше.
-[**31 июля 2011, 18:22 вечера**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**31 июля 2011, 18:22 вечера**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - Дэвид Ратнасабапати говорит:
 О, подождите, я понял — он говорит, что люди, которые называют 30 спиц колесом, идиоты!
-[**31 июля 2011, 19:51 вечера**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**31 июля 2011, 19:51 вечера**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - [Чуки на заднем дворе](https://web.archive.org/web/20160221173900/http://chookiesbackyard.blogspot.com/) говорит:
 Хм, а разве “пространство, где ничего нет” - это не отверстие для оси?
-[**1 августа 2011 года, 5:32 утра**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**1 августа 2011 года, 5:32 утра**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - Дэвид Б. Уильямс говорит:
 Я согласен с первыми тремя постерами. Он говорит о “полезности колеса”. Эта полезность полностью зависит от обода, независимо от того, поддерживается ли он спицами или сплошным диском. Поскольку оригинал был на древнекитайском, возможно, мы имеем дело скорее с плохим переводом, чем с плохим философом.
-[**1 августа 2011 года, 9:30 утра**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**1 августа 2011 года, 9:30 утра**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - Ларс говорит:
 Чуки прав; то, о чем идет речь, - это отверстие посередине, куда входит ось.  
 
 Я не уверен, что это очень хороший перевод. Когда я прочитал эту фразу в своем экземпляре "Дао Дэ Цзин", она сразу же обрела для меня смысл, и я ни в коем случае не просветленный.
-[**1 августа 2011 года, 9:36 вечера**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**1 августа 2011 года, 9:36 вечера**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - [Билл Гудвин](https://web.archive.org/web/20160221173900/http://771715/) говорит:
 Или, может быть, он имеет в виду пространство прямо перед колесом: Будущее.
-[**1 августа 2011 года, 10:16 вечера**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**1 августа 2011 года, 10:16 вечера**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - Уолт Джи говорит:
 Полезно твердое ограничение отверстия в оси, а не пустота посередине. Если бы это было не так, можно было бы обойтись без колеса, поскольку здесь много всего, что можно объехать.
-[**3 августа 2011 года, 11:31 утра**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**3 августа 2011 года, 11:31 утра**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 - [Эмма](https://web.archive.org/web/20160221173900/http://www.bing.com/) говорит:
 AFAIC, это лучший ответ на данный момент!
-[**12 августа 2011 года, 19:10 вечера**](/posts/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
+[**12 августа 2011 года, 19:10 вечера**](/fred-pohl/2011-07-31-bright-sayings-of-bright-people-no-16-lao-tzu/)
 
 [WordPress](https://web.archive.org/web/20160221173900/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160221173900/http://dicksmithsoftware.com/)

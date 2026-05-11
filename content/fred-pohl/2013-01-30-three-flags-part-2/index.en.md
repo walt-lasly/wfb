@@ -4,9 +4,9 @@ date: 2013-01-30
 categories: ["Travel"]
 tags: ["Italy", "Jack Gillespie", "World War II", "Yugoslavia"]
 archive_url: "https://web.archive.org/web/20140301000000/http://www.thewaythefutureblogs.com/2013/01/three-flags-part-2/"
-prev_post_url: "/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/"
+prev_post_url: "/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/"
 prev_post_title: "Under Three (or Maybe More) Flags, Part 1"
-next_post_url: "/posts/2013-02-05-when-the-bad-news-is-actually-pretty-good/"
+next_post_url: "/fred-pohl/2013-02-05-when-the-bad-news-is-actually-pretty-good/"
 next_post_title: "When the Bad News is Actually Pretty Good"
 translated: false
 ---
@@ -25,7 +25,7 @@ Frederik Pohl
 When my speaking-tour bookers at Foggy Bottom (as we insiders term the State Department) told me what my next port of call would be, in my world-girdling  pilgrimage in the attempt to make foreigners like the U.S.A. better than their own daily papers did, it was Yugoslavia.
 
 
-That didn’t thrill me as much as you might have thought it would.  One of the reasons I jumped, as I usually did when the State Department said “frog!” was that I was trying to beat my friend [**Jack Gillespie’s**](/posts/2010-12-30-jack-gillespie-elf-among-the-authors/) record of number of countries any [**Futurian**](/posts/2009-05-08-the-quadrumvirate/) had set foot in.  (His lead was unfair.  During the War, he had been Merchant Marine, serving mostly in little freighters that cruised up and down the coasts of both Americas.)  Against the odds, though, this time I had already been there.
+That didn’t thrill me as much as you might have thought it would.  One of the reasons I jumped, as I usually did when the State Department said “frog!” was that I was trying to beat my friend [**Jack Gillespie’s**](/fred-pohl/2010-12-30-jack-gillespie-elf-among-the-authors/) record of number of countries any [**Futurian**](/fred-pohl/2009-05-08-the-quadrumvirate/) had set foot in.  (His lead was unfair.  During the War, he had been Merchant Marine, serving mostly in little freighters that cruised up and down the coasts of both Americas.)  Against the odds, though, this time I had already been there.
 
 
 When we went across the Italian border into Yugoslavia, to tell the truth, the border guards of both nations were more interested in the American comic books they were puzzling over than in what terrorist, regicide or cigarette smuggler was sneaking past them.  There was a fair quantity of traffic going through,  which led me to make the first of my dumb-headed remarks for that day.
@@ -69,28 +69,28 @@ Dubrovnik was preserved intact because it’s really hard for an attacking army 
 
 **Related posts:**
 
-- [**Under Three (or Maybe More) Flags, Part 1**](/posts/2013-01-28-under-three-or-maybe-more-flags-part-1/)
+- [**Under Three (or Maybe More) Flags, Part 1**](/fred-pohl/2013-01-28-under-three-or-maybe-more-flags-part-1/)
 
 
 ### 5 Comments
 
 - Good God says:
 Being an avid SF fan for my whole life and being from Slovenia, ex-Yugoslavia country, I can only say I am thrilled by these series of your blog posts, mr. Pohl. For all the bad things that went on in Yugoslavia, there was also certain charm of living there, mainly because it was a melting pot pot of cultures. All that interesting and funny and colorful pecularities are now unfortunately lost in time, but I am glad you got to experience it, albeit only a bit. What you wrote so far is only a tip of a tip of a tip of an iceberg. Looking forward to your next posts on this subject. 
-[**January 30, 2013, 2:20 am**](/posts/2013-01-30-three-flags-part-2/)
+[**January 30, 2013, 2:20 am**](/fred-pohl/2013-01-30-three-flags-part-2/)
 - [Phillip Helbig](https://web.archive.org/web/20150922065331/http://www.astro.multivax.de:8000/helbig/helbig.html) says:
 My wife is from Macedonia, and we have been on holiday in Croatia (many times) and Montenegro.  She has relatives in Serbia, so we have been there, and of course have travelled through Slovenia (and Croatia and Serbia) on the way to somewhere else.  Many things have changed since you have been there (though the clock is still stopped), but the variety still exists.
-[**January 30, 2013, 3:24 am**](/posts/2013-01-30-three-flags-part-2/)
+[**January 30, 2013, 3:24 am**](/fred-pohl/2013-01-30-three-flags-part-2/)
 - [Mike Culpepper](https://web.archive.org/web/20150922065331/http://shrineodreams.wordpress.com/) says:
 One of the great travel books of all time is Rebecca West’s  *Black Lamb and Grey Falcon*  where she, also, finds Yugoslavia endlessly interesting. (Since she was once H.G. Wells’ paramour, I could probably work in the SF angle, but I won’t.)
-[**January 30, 2013, 8:06 pm**](/posts/2013-01-30-three-flags-part-2/)
+[**January 30, 2013, 8:06 pm**](/fred-pohl/2013-01-30-three-flags-part-2/)
 - Alex Klimkewicz says:
 How many countries have you visited Fred?
-[**January 31, 2013, 7:54 am**](/posts/2013-01-30-three-flags-part-2/)
+[**January 31, 2013, 7:54 am**](/fred-pohl/2013-01-30-three-flags-part-2/)
 - Steven says:
 I am working on beating Jack Gillespie’s record in the Americas, although I still have a ways to go (USA, Canada, Mexico, Guatemala, Honduras, Brazil and Bolivia, so far). Speaking of Bolivia, my wife and I experienced a similar cultural phenomenon to the one you had in Skopje. In the Bolivian town of Guayera-Mirin, across the border and Mamore River from its Brazilian twin-city of Guajara-Mirim, we found ourselves staying in a hotel off the main plaza while waiting for a puddle jumper up to La Paz.
 We spent two days waiting for a decent price on last-minute tickets, and entertained ourselves watching the promenade of young men and women around the plaza…a ritual I have seen repeated in many Latin American small towns. The difference in this case is that they were all riding scooters a la Gregory Peck and Audrey Hepburn in Roman Holiday. They would do this for hours, with pairs of young women and pairs of young men riding their scooters around and around the plaza, flirting and gossiping all the while. This was about 11 years ago, but Brazilian friends who go there for the cheap prices, like your Italian friends all those years ago say they still do it.
 It was quite a sight, and a memory that will stay with me for a lifetime.
-[**January 31, 2013, 12:54 pm**](/posts/2013-01-30-three-flags-part-2/)
+[**January 31, 2013, 12:54 pm**](/fred-pohl/2013-01-30-three-flags-part-2/)
 
 [WordPress](https://web.archive.org/web/20150922065331/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20150922065331/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2012-10-30
 categories: ["Miscellaneous"]
 tags: ["Paul Ryan", "Politics", "Religion"]
 archive_url: "https://web.archive.org/web/20250501000000/http://www.thewaythefutureblogs.com/2012/10/reading-congresss-mail/"
-prev_post_url: "/posts/2012-10-30-a-vote-for-the-gop-is-a-vote-against-the-earth/"
+prev_post_url: "/fred-pohl/2012-10-30-a-vote-for-the-gop-is-a-vote-against-the-earth/"
 prev_post_title: "A vote for the GOP is a vote against the Earth"
-next_post_url: "/posts/2012-11-02-what-do-i-do-now/"
+next_post_url: "/fred-pohl/2012-11-02-what-do-i-do-now/"
 next_post_title: "What Do I Do Now?"
 translated: false
 translator: "Yandex"
@@ -35,21 +35,21 @@ translator: "Yandex"
 
 - [Севестин](https://web.archive.org/web/20170619231450/http://www.sevesteen.com/) говорит:
 Если бы существовали гораздо менее всеобъемлющие государственные системы социальной защиты - стали бы вы лично делать пожертвования благотворительным организациям, чтобы помочь нуждающимся беднякам?
-[**30 октября 2012, 10:57 вечера**](/posts/2012-10-30-reading-congress-s-mail/)
+[**30 октября 2012, 10:57 вечера**](/fred-pohl/2012-10-30-reading-congress-s-mail/)
 - Крис говорит:
 Вероятно, меньше, чем число демократов, которые вскрыли гигантские конверты с наличными от своих профсоюзных руководителей…  
 
 Серьезно, единственные люди с такими же коричневыми носами - это участники чаепитий.  
 
 Дайте мне знать, что делает для вас главный продавец змеиного масла, когда его "план медицинского обслуживания" вынуждает вас тратить больше, чем вы тратите сейчас. Или как вам приходится ждать специализированного лечения.
-[** 30 октября 2012 года, 11:00 вечера**](/posts/2012-10-30-reading-congress-s-mail/)
+[** 30 октября 2012 года, 11:00 вечера**](/fred-pohl/2012-10-30-reading-congress-s-mail/)
 - [Роберт Новолл](https://web.archive.org/web/20170619231450/http://www.robertnowall.com/) говорит:
 Конференция католических епископов США не выступает от имени Католической церкви.
-[**1 ноября 2012 года, 9:23 утра**](/posts/2012-10-30-reading-congress-s-mail/)
+[**1 ноября 2012 года, 9:23 утра**](/fred-pohl/2012-10-30-reading-congress-s-mail/)
 - [Стив Дэвидсон](https://web.archive.org/web/20170619231450/http://asmblog.amazingstoriesmag.com/) говорит:
 Я тут наверстывал упущенное из-за своего Пола, и должен сказать, что я удивлен количеством людей с, скажем так, мммм, "разными точками зрения", которые приходят сюда, чтобы излить свой яд.  Я бы подумал, что большинство будет относиться к Фреду с большим уважением и к тому факту, что это его игровая площадка.  Реквизит для демонстрации толерантности.
 (Я также предполагаю, что эти комментаторы с разными точками зрения практически не знакомы с работами Фреда.  Я думаю, у некоторых людей просто много свободного времени.)
-[** 7 ноября 2012 года, 7:40 утра**](/posts/2012-10-30-reading-congress-s-mail/)
+[** 7 ноября 2012 года, 7:40 утра**](/fred-pohl/2012-10-30-reading-congress-s-mail/)
 
 [WordPress](https://web.archive.org/web/20170619231450/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619231450/http://dicksmithsoftware.com/)

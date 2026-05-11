@@ -4,9 +4,9 @@ date: 2011-08-16
 categories: ["Personal"]
 tags: ["Alden H. Norton", "Dorothy LesTina", "Editors", "Frank A. Munsey", "Harold S. Goldsmith", "Harry Steeger", "Jane Littell", "Leslie Perri", "Mary Gnaedinger", "Olga Mae Quadland", "Poetry", "Prozines", "Publishing", "Pulps", "Robert Frost", "Rogers Terrill", "T.S. Eliot"]
 archive_url: "https://web.archive.org/web/20170901000000/http://www.thewaythefutureblogs.com/2011/08/popular-publications-part-5-there-and-back-again/"
-prev_post_url: "/posts/2011-08-14-bright-sayings-of-bright-people-no-18-hertzberg/"
+prev_post_url: "/fred-pohl/2011-08-14-bright-sayings-of-bright-people-no-18-hertzberg/"
 prev_post_title: "Bright Sayings of Bright People, No. 18: Hertzberg"
-next_post_url: "/posts/2011-08-18-popular-publications-part-6-deadlines/"
+next_post_url: "/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/"
 next_post_title: "Popular Publications, Part 6: Deadlines"
 translated: false
 translator: "Yandex"
@@ -23,7 +23,7 @@ translator: "Yandex"
 
 ![Famous Fantastic Mysteries](famousfantasticmysteries.jpg)
 
-Я не работал в [** Популярных изданиях**](/posts/2011-05-26-rolling-back-the-years-popular-publications/) в течение пяти или шести месяцев, в течение которых я не искал другую работу.  Вместо этого я решил посвятить полный рабочий день писательству, но когда этот период закончился - когда я получил телеграмму от [Эла Нортона](https://web.archive.org/web/20170619223221/http://www.isfdb.org/cgi-bin/ea.cgi?Alden_H._Norton) с просьбой вернуться в качестве его помощника, почти вдвое больше, чем я зарабатывал как редактор двух моих собственных журналов, — я сказал "конечно".
+Я не работал в [** Популярных изданиях**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/) в течение пяти или шести месяцев, в течение которых я не искал другую работу.  Вместо этого я решил посвятить полный рабочий день писательству, но когда этот период закончился - когда я получил телеграмму от [Эла Нортона](https://web.archive.org/web/20170619223221/http://www.isfdb.org/cgi-bin/ea.cgi?Alden_H._Norton) с просьбой вернуться в качестве его помощника, почти вдвое больше, чем я зарабатывал как редактор двух моих собственных журналов, — я сказал "конечно".
 
 
 Все, что я написал за этот период, продавалось, причем некоторые из них со скоростью, вдвое превышающей мою самую высокую до этого, при общем доходе за неделю работы, который на самом деле был немного выше, чем я получал от редакторской зарплаты плюс мое писательское время в свободное от работы. Однако не все продавалось сразу, и в целом этот опыт подтвердил то, о чем я уже давно говорил: фриланс оплачивался довольно хорошо, но чеки приходили тогда, когда они приходили, и ни минутой раньше.  Это было не то, на что можно было бы профинансировать брак.
@@ -38,7 +38,7 @@ translator: "Yandex"
 Единственным журналом, который они продолжали практически без изменений, был "[Знаменитые фантастические тайны](https://web.archive.org/web/20170619223221/http://www.philsp.com/mags/famous_fantastic_mysteries.html)" вместе с его редактором Мэри Гнедингер, дружелюбной и способной женщиной чуть старше меня, которая поселилась в помещении, которое когда-то было моим офисом.  У Стигера были большие планы на Аргоси.  Он подумывал о том, чтобы сделать его мужским журналом, возможно, немного похожим на Esquire, но не торопился с этим.
 
 
-Моим самым большим сюрпризом было то, что [Джейн Литтел](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/) исчезла, а мужчина средних лет, спасенный из зарплаты Манси, редактировал "Любовную кашу".  Я никогда не встречался с ним, но он вызвал у меня небольшое раздражение. Он нашел мое стихотворение в описи и, поскольку ему не сказали, что оно предназначено для использования под псевдонимом, пошел дальше и опубликовал его как написанное Фредериком Полом.
+Моим самым большим сюрпризом было то, что [Джейн Литтел](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/) исчезла, а мужчина средних лет, спасенный из зарплаты Манси, редактировал "Любовную кашу".  Я никогда не встречался с ним, но он вызвал у меня небольшое раздражение. Он нашел мое стихотворение в описи и, поскольку ему не сказали, что оно предназначено для использования под псевдонимом, пошел дальше и опубликовал его как написанное Фредериком Полом.
 
 
 Я не утверждаю, что мои опубликованные стихи вызвали бы зависть у [Фроста](https://web.archive.org/web/20170619223221/http://www.poets.org/poet.php/prmPID/192) или [Элиота](https://web.archive.org/web/20170619223221/http://www.poets.org/poet.php/prmPID/18), но я не хотел, чтобы меня запомнили за мои сочные излияния по 25 центов за строчку. Оказалось, что это не имеет значения, поскольку, по-видимому, никто из читателей "любовной мякоти" все равно никогда обо мне не слышал.
@@ -55,7 +55,7 @@ translator: "Yandex"
 
 **Связанные должности:**
 
-- ** Популярные публикации**, [** Часть 1**](/posts/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/posts/2011-05-31-popular-publications-part-2/), [** Часть 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [** Часть 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- ** Популярные публикации**, [** Часть 1**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/), [** Часть 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [** Часть 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [** Часть 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [** Часть 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Часть 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 [WordPress](https://web.archive.org/web/20170619223221/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619223221/http://dicksmithsoftware.com/)

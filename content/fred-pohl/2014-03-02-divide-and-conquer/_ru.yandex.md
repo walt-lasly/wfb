@@ -4,9 +4,9 @@ date: 2014-03-02
 categories: ["Betty's Posts", "Miscellaneous"]
 tags: ["Film", "Medicine"]
 archive_url: "https://web.archive.org/web/20220501000000/http://www.thewaythefutureblogs.com/2014/03/divide-and-conquer/"
-prev_post_url: "/posts/2014-02-22-timebinding-with-fred-and-dave-truesdale/"
+prev_post_url: "/fred-pohl/2014-02-22-timebinding-with-fred-and-dave-truesdale/"
 prev_post_title: "Timebinding with Fred and Dave Truesdale"
-next_post_url: "/posts/2014-03-13-peddling-books-through-the-harmonic-convergence/"
+next_post_url: "/fred-pohl/2014-03-13-peddling-books-through-the-harmonic-convergence/"
 next_post_title: "Peddling Books Through the Harmonic Convergence"
 translated: false
 translator: "Yandex"
@@ -56,12 +56,12 @@ translator: "Yandex"
 
 - [Дэн Голлаб](https://web.archive.org/web/20160416142612/http://www,dreampattern.com/) говорит:
 Когда страна совершает нападение либо на иностранную страну, либо на свое собственное население, ее телевизионные программы должны показывать причиняемые страдания. Такие программы могут побудить жителей страны протестовать и бунтовать против такого применения силы.
-[**2 марта 2014, 18:09 вечера**](/posts/2014-03-02-divide-and-conquer/)
+[**2 марта 2014, 18:09 вечера**](/fred-pohl/2014-03-02-divide-and-conquer/)
 - [Стефан Джонс](https://web.archive.org/web/20160416142612/http://www.flickr.com/photos/stefan_e_jones/) говорит:
 Я всю жизнь играю, но те игры, которые мне нравятся, как правило, относятся к разновидности “песочницы” и ролевым играм типа Dungeons &amp; Dragons. Когда я играю в такую игру, как "Цивилизация", я стремлюсь к победе в исследованиях / индустриализации / дипломатии / культурном доминировании. Война с помощью мягкой силы.
 Я никогда не увлекался зрительскими видами спорта, соревновательными игровыми шоу или чем-то подобным. Бустеризм и насмешки над фанатами другой стороны... все это мне очень чуждо. Чуждый и отчасти пугающий.
 Мне понравился фильм "Голодные игры", но сценарий меня действительно расстроил. Я не уверен, увижу ли я второй фильм... хотя он обещает показать трещины, появляющиеся в тирании “Капитала”.
-[**2 марта 2014, 10:19 вечера**](/posts/2014-03-02-divide-and-conquer/)
+[**2 марта 2014, 10:19 вечера**](/fred-pohl/2014-03-02-divide-and-conquer/)
 
 [WordPress](https://web.archive.org/web/20160416142612/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160416142612/http://dicksmithsoftware.com/)

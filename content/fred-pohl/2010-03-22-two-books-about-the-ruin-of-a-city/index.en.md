@@ -4,9 +4,9 @@ date: 2010-03-22
 categories: ["Books"]
 tags: ["Abdulrahman Zeitoun", "Dave Eggers", "George W. Bush", "John Farmer", "Kathleen Blanco", "Meteorology", "New Orleans", "New York", "Politics", "Religion", "Terrorism", "Washington"]
 archive_url: "https://web.archive.org/web/20220501000000/http://www.thewaythefutureblogs.com/2010/03/two-books-about-the-ruin-of-a-city/"
-prev_post_url: "/posts/2010-03-05-isaac-part-5-in-our-continuing-series/"
+prev_post_url: "/fred-pohl/2010-03-05-isaac-part-5-in-our-continuing-series/"
 prev_post_title: "Isaac,Part 5 in our continuing series"
-next_post_url: "/posts/2010-04-05-the-first-contacter/"
+next_post_url: "/fred-pohl/2010-04-05-the-first-contacter/"
 next_post_title: "The First Contacter"
 translated: false
 ---
@@ -87,27 +87,27 @@ We know what the “ground truth” of New Orleans was in the time of Katrina, t
 While I’m loath to defend Bush (I think he was/is an incompetent boob) I feel compelled to point out that events like 9/11 are immensely confusing when they are actually occurring. Using words like “blunder” to describe the government’s actions is flame bait (and yes, I’ve taken it) because, while mistakes were certainly made, most (if not all) of them were probably the best choice at the time, given the limited information available.  With the gift of historical hindsight decisions are easily viewed more harshly, especially by people with an axe to grind.
 Frankly, I consider it almost remarkable that *any* military aircraft were scrambled while even *one* of the planes was still in the air.  Because the terrorists chose aircraft whose flight paths took them near their targets, it was very, very difficult for anyone to determine which aircraft were threats until they were in the terminal part of their flights.  Of course, the military could have shot them ALL down, but that would kinda defeat the purpose.
 As for Katrina, that was a joint screw up by the federal government, the state government, and in some ways, the people who live there.  Hurricanes don’t magically appear (at least, not at Cat 5) and people living in a hurricane catcher’s mitt should be prepared for such emergencies or should not choose to live there (I live on Florida’s East coast and *am* prepared for at least a week without power or any way to get out of the house).  That said, it definitely took longer than anyone expected to get relief to the area and showed that places like the area devastated by Katrina need some infrastructure designed for use *after* emergencies like this (like better shelters with their own power for medication, refrigeration and communication).
-[**March 23, 2010, 5:37 am**](/posts/2010-03-22-two-books-about-the-ruin-of-a-city/)
+[**March 23, 2010, 5:37 am**](/fred-pohl/2010-03-22-two-books-about-the-ruin-of-a-city/)
 - [Jeff](https://web.archive.org/web/20111106214531/http://jeffcrook.blogspot.com/) says:
 Politics has consequences, and voting for the person you’d most like to have a beer with (or sacrifice a white calf to on a burning altar) is no more basis for a system of government than strange women lying in ponds distributing swords. 
 Egads, I say. Egads.
-[**March 23, 2010, 9:56 am**](/posts/2010-03-22-two-books-about-the-ruin-of-a-city/)
+[**March 23, 2010, 9:56 am**](/fred-pohl/2010-03-22-two-books-about-the-ruin-of-a-city/)
 - [Jeff](https://web.archive.org/web/20111106214531/http://jeffcrook.blogspot.com/) says:
 Of course, the greatest disaster of all, affecting hundreds of cities and possibly changing them forever, could be the banking crisis.
-[**March 24, 2010, 8:52 am**](/posts/2010-03-22-two-books-about-the-ruin-of-a-city/)
+[**March 24, 2010, 8:52 am**](/fred-pohl/2010-03-22-two-books-about-the-ruin-of-a-city/)
 - [Richard](https://web.archive.org/web/20111106214531/http://www.f1reth0rns.blogspot.com/) says:
 Fred,
 My father-in-law died 9/11/2001, unrelated to the terrorism, but still very depressing. So it is incredibly uplifting to think that someone else who had a very great impact on my life might respond to these words. When I rewrote a novella you had previously seen, and asked you to recommend an agent, you took my novella from me, you handed it to Kirby McCauley, you told Kirby to give it to Judy-Lynn Del Rey, and you told Judy-Lynn to publish it. She did. Thank you. I\\\’ve been waiting 34 years to tell you that. I am currently in tears writing these words. Thank you. Thank you. Thank you.
-[**March 24, 2010, 3:05 pm**](/posts/2010-03-22-two-books-about-the-ruin-of-a-city/)
+[**March 24, 2010, 3:05 pm**](/fred-pohl/2010-03-22-two-books-about-the-ruin-of-a-city/)
 - John H says:
 Errors made during the ‘Fog of War’ are forgivable — when a trained professional makes a snap judgment call based on limited information that turns out to be inaccurate, I don’t find fault with that call.  What is unforgivable are errors made through willful ignorance, such as Bush and his cabinet dismissing the intelligence handed them by the outgoing Clinton administration regarding the threat of al Qaeda and Osama bin Laden, or not following through on the recommended changes to New Orleans’ emergency response plans.
-[**March 30, 2010, 9:52 am**](/posts/2010-03-22-two-books-about-the-ruin-of-a-city/)
+[**March 30, 2010, 9:52 am**](/fred-pohl/2010-03-22-two-books-about-the-ruin-of-a-city/)
 - Honest Bikco says:
 \"Fog of War\" blononey….JFK was blown away because he wouldn\’t go to war and was actually in correspondance with Kruschev and Castro. LBJ, who Texas was the place of the coup, was backed by \’Brown and Root\’ a small local firm that over the decades, with LBJ\’s fingeling, got major \’New Deal\’ contracts. It was merged with Halliburton later on.
 As for 9/11….apart from Martin Sheen, David Lynch, Ed Asner, Charlie Sheen and a whole host of engineers, physics experts, architects and scholars who say that 9/11 goes against the laws of physics, darn it - just check it out for yourselves….
 [http://video.google.com/videoplay?docid=2361717427531377078#](https://web.archive.org/web/20111106214531/http://video.google.com/videoplay?docid=2361717427531377078)
 best regards, Sam Bikco
-[**October 2, 2010, 10:23 pm**](/posts/2010-03-22-two-books-about-the-ruin-of-a-city/)
+[**October 2, 2010, 10:23 pm**](/fred-pohl/2010-03-22-two-books-about-the-ruin-of-a-city/)
 
 [WordPress](https://web.archive.org/web/20111106214531/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111106214531/http://dicksmithsoftware.com/)

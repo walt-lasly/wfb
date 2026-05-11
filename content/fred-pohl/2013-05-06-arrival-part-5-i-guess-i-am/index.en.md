@@ -4,9 +4,9 @@ date: 2013-05-06
 categories: ["Authors", "Personal"]
 tags: ["Carol Pohl", "Conventions", "Elizabeth Anne Hull", "Jack Williamson", "SFWA", "Worldcons"]
 archive_url: "https://web.archive.org/web/20170619233954/http://www.thewaythefutureblogs.com/2013/05/arrival-part-5-i-guess-i-am/"
-prev_post_url: "/posts/2013-05-04-bright-sayings-of-bright-people-no-45-voltaire/"
+prev_post_url: "/fred-pohl/2013-05-04-bright-sayings-of-bright-people-no-45-voltaire/"
 prev_post_title: "Bright Sayings of Bright People, No. 45: Voltaire"
-next_post_url: "/posts/2013-05-08-arrival-part-6-the-deal/"
+next_post_url: "/fred-pohl/2013-05-08-arrival-part-6-the-deal/"
 next_post_title: "Arrival, Part 6: The Deal"
 translated: false
 ---
@@ -41,7 +41,7 @@ She didn’t stop outwaiting me, just reached up for the hot coffeepot and refil
 “Or not,”  I said.  “See, this was happening on this last New Year’s Day, when we were making jokey resolutions.  Only when we started making resolutions about staying married, it stopped being a joke.  Shall we hit the SFWA room party now?”
 
 
-We hit it, and once  we got past the guardian at the gate she didn’t need any further help from me. [**Jack Williamson**](/posts/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/)  and a few other old-timers were looking at some foreign sf magazines near the door, and when she caught sight of him and started toward him, he gave her a big “Hello.”  Turned out they had met at some Midwest thing a year or so before.
+We hit it, and once  we got past the guardian at the gate she didn’t need any further help from me. [**Jack Williamson**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/)  and a few other old-timers were looking at some foreign sf magazines near the door, and when she caught sight of him and started toward him, he gave her a big “Hello.”  Turned out they had met at some Midwest thing a year or so before.
 
 
 I spent the next half hour talking SFWA business with whoever happened by, and just when I was thinking of telling her I needed to leave, she came over to me to say she had to get up in the morning but Jack’s room was on the same floor as hers in that other hotel, and he had offered to walk her home.
@@ -55,19 +55,19 @@ I spent the next half hour talking SFWA business with whoever happened by, and j
 
 **Related posts:**
 
-- [**Arrival: The Happiest Airport**](/posts/2013-03-19-arrival-the-happiest-airport/)
-- [**Arrival, Part 2: Heinlein Stories**](/posts/2013-03-22-arrival-part-2-heinlein-stories/)
-- [**Arrival, Part 3: KC in the GOP’s Wake**](/posts/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
-- [**Arrival, Part 4: The Party Plan**](/posts/2013-04-27-arrival-part-4-the-party-plan/)
-- [**Arrival, Part 6: The Deal**](/posts/2013-05-08-arrival-part-6-the-deal/)
-- [**Arrival, Part 7: Departure**](/posts/2013-05-10-arrival-part-7-departure/)
+- [**Arrival: The Happiest Airport**](/fred-pohl/2013-03-19-arrival-the-happiest-airport/)
+- [**Arrival, Part 2: Heinlein Stories**](/fred-pohl/2013-03-22-arrival-part-2-heinlein-stories/)
+- [**Arrival, Part 3: KC in the GOP’s Wake**](/fred-pohl/2013-04-03-arrival-part-3-kc-in-the-gop-s-wake/)
+- [**Arrival, Part 4: The Party Plan**](/fred-pohl/2013-04-27-arrival-part-4-the-party-plan/)
+- [**Arrival, Part 6: The Deal**](/fred-pohl/2013-05-08-arrival-part-6-the-deal/)
+- [**Arrival, Part 7: Departure**](/fred-pohl/2013-05-10-arrival-part-7-departure/)
 
 
 ### One Comment
 
 - Ken says:
 Yikes, a false ending! I thought the story was concluded with chapter four.
-[**May 6, 2013, 6:25 pm**](/posts/2013-05-06-arrival-part-5-i-guess-i-am/)
+[**May 6, 2013, 6:25 pm**](/fred-pohl/2013-05-06-arrival-part-5-i-guess-i-am/)
 
 [WordPress](https://web.archive.org/web/20170619233954/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619233954/http://dicksmithsoftware.com/)

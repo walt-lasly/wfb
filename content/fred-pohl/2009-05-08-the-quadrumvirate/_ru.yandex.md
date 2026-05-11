@@ -4,9 +4,9 @@ date: 2009-05-08
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Catherine Tarrant", "Chester Cohen", "Collaborating", "Dirk Wylie", "Donald A. Wollheim", "Editors", "Futurians", "G.G. Clark", "Great Depression", "Hugo Gernsback", "Isaac Asimov", "Jack Gillespie", "Jack Robins", "James Blish", "John B. Michel", "John W. Campbell", "Louis Silberkleit", "Poetry", "Prozines", "Richard Wilson", "Robert A.W. Lowndes", "Science Fiction League", "Walter Kubilius"]
 archive_url: "https://web.archive.org/web/20090819125413/http://www.thewaythefutureblogs.com/2009/05/the-quadrumvirate/"
-prev_post_url: "/posts/2009-05-05-me-and-the-guys-at-abu-ghraib/"
+prev_post_url: "/fred-pohl/2009-05-05-me-and-the-guys-at-abu-ghraib/"
 prev_post_title: "Me and the Guys at Abu Ghraib"
-next_post_url: "/posts/2009-05-13-interesting-reading-that-you-may-have-missed/"
+next_post_url: "/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/"
 next_post_title: "Interesting Reading That You May Have Missed"
 translated: false
 translator: "Yandex"
@@ -98,26 +98,26 @@ translator: "Yandex"
 Никогда больше.
 Кто-нибудь из других Футурианцев еще жив?  После смерти 4SJ я все больше и больше думал о том, как наши основатели уходят из жизни...
 Джозеф Ти мажор
-[**9 мая 2009 года, 9:33 вечера**](/posts/2009-05-08-the-quadrumvirate/)
+[**9 мая 2009 года, 9:33 вечера**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Патриция говорит:
 Я обожаю эти истории о золотых днях НФ! Вы настоящий клад, мистер Пол.
-[**10 мая 2009 года, 9:18 утра**](/posts/2009-05-08-the-quadrumvirate/)
+[**10 мая 2009 года, 9:18 утра**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - [Шэрон Э. Дрейер](https://web.archive.org/web/20090819125413/http://www.scifi4free.com/) говорит:
 Мистер Пол: Спасибо вам за все ваши замечательные романы и рассказы. Ваши рассказы и другие авторы научной фантастики вдохновили меня на написание собственных историй. Еще раз спасибо вам. Ознакомьтесь с моим недавно вышедшим романом "Долгое путешествие в Ринадал". Этот роман представляет собой романтический приключенческий боевик в космосе. Берегите себя и благодарим за часы развлечений.
-[**11 мая 2009 года, 6:23 утра**](/posts/2009-05-08-the-quadrumvirate/)
+[**11 мая 2009 года, 6:23 утра**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - [Тодд Маосн](https://web.archive.org/web/20090819125413/http://www.socialistjazz.com/) говорит:
 Насколько я знаю, Джозеф Мейджор, Дэвид Кайл все еще с нами. Но это могут быть единственные выжившие, по крайней мере среди “основных” Футурианцев…
-[**14 мая 2009, 11:48 вечера**](/posts/2009-05-08-the-quadrumvirate/)
+[**14 мая 2009, 11:48 вечера**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Джек Робинс говорит:
 Джозеф Ти Мейджор спрашивает: ”Кто-нибудь из других Футурианцев еще жив?”  Да!!! Я все еще жив, и мне исполнилось 90 лет.  Извините, я не так хорошо известен, как большинство других Футурианцев, но я продавал статьи – личный опыт, и я все еще пишу.  
 
 Джек Робинс
-[**15 мая 2009, 19:11 вечера**](/posts/2009-05-08-the-quadrumvirate/)
+[**15 мая 2009, 19:11 вечера**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 - Томас Байро говорит:
 Во-первых, я хотел бы выразить свою огромную признательность за ваши достижения на посту редактора IF. Будучи старшеклассником, я с трудом мог дождаться выхода следующего номера  
 
 Что касается Футурианцев, я считаю, что они породили фанатиков. Фанокласты, в свою очередь, породили ФИСТФУ. Я запускаю последнюю версию FISTFA в течение последних 4 лет. Я подумал, что вам, возможно, захочется посмотреть фотографии с последней встречи, которые я разместил на Bubbleshare. [http://www.bubbleshare.com/myalbum/595814.d3e80de806e/editor](https://web.archive.org/web/20090819125413/http://www.bubbleshare.com/myalbum/595814.d3e80de806e/editor)
-[** 24 мая 2009 года, 8:50 утра**](/posts/2009-05-08-the-quadrumvirate/)
+[** 24 мая 2009 года, 8:50 утра**](/fred-pohl/2009-05-08-the-quadrumvirate/)
 
 [WordPress](https://web.archive.org/web/20090819125413/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090819125413/http://dicksmithsoftware.com/)

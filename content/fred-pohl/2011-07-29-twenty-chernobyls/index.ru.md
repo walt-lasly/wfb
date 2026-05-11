@@ -4,9 +4,9 @@ date: 2011-07-29
 categories: ["Science"]
 tags: ["Arnold Gundersen", "Ecology", "Japan"]
 archive_url: "https://web.archive.org/web/20120601000000/http://www.thewaythefutureblogs.com/2011/07/twenty-chernobyls/"
-prev_post_url: "/posts/2011-07-28-my-life-as-book-editor-for-popular-science/"
+prev_post_url: "/fred-pohl/2011-07-28-my-life-as-book-editor-for-popular-science/"
 prev_post_title: "My Life as Book Editor for Popular Science"
-next_post_url: "/posts/2011-07-30-the-ipsy-wipsy-institute/"
+next_post_url: "/fred-pohl/2011-07-30-the-ipsy-wipsy-institute/"
 next_post_title: "The Ipsy-Wipsy Institute"
 translated: false
 translator: "Yandex"
@@ -43,16 +43,16 @@ translator: "Yandex"
 
 - [Крис Маккиттерик](https://web.archive.org/web/20160313015721/http://www.sff.net/people/mckitterick/) говорит:
 Это ужасно.
-[**29 июля 2011, 14:51**](/posts/2011-07-29-twenty-chernobyls/)
+[**29 июля 2011, 14:51**](/fred-pohl/2011-07-29-twenty-chernobyls/)
 - Дэн Голлаб говорит:
 В романе, который я написал, мой персонаж отмечает странную и загадочную корреляцию между циклами появления солнечных пятен и усилением распада радиоактивных частиц, а затем он размышляет о возможном эффекте помещения радиоактивного материала в камеру, в которой он подвергался бы экстремальным колебаниям магнитного поля, а также колебаниям температуры в диапазоне от от почти абсолютного нуля до точки, когда радиоактивный материал почти плавится. Повлияет ли совокупный эффект этих колебаний на процесс распада? Персонаж смеется и говорит, что, возможно, единственный эффект заключается в том, что он, возможно, немного маниакален, надеясь на такой исход.
-[**29 июля 2011, 18:59 вечера**](/posts/2011-07-29-twenty-chernobyls/)
+[**29 июля 2011, 18:59 вечера**](/fred-pohl/2011-07-29-twenty-chernobyls/)
 - [ТЭД](https://web.archive.org/web/20160313015721/http://www.tadsbackupplan.blogspot.com/) говорит:
 Как вы думаете, почему Си-Эн-ЭН не сообщила об этой части истории? Слишком сложно для понимания среднестатистического американского зрителя...?
-[** 30 июля 2011 года, 3:43 утра**](/posts/2011-07-29-twenty-chernobyls/)
+[** 30 июля 2011 года, 3:43 утра**](/fred-pohl/2011-07-29-twenty-chernobyls/)
 - [Чуки на заднем дворе](https://web.archive.org/web/20160313015721/http://chookiesbackyard.blogspot.com/) говорит:
 Это очень по-детски с моей стороны, но я хочу, чтобы высшее руководство Tepco само отправилось туда и собрало липкую массу.
-[** 31 июля 2011 года, 8:19 утра**](/posts/2011-07-29-twenty-chernobyls/)
+[** 31 июля 2011 года, 8:19 утра**](/fred-pohl/2011-07-29-twenty-chernobyls/)
 
 [WordPress](https://web.archive.org/web/20160313015721/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20160313015721/http://dicksmithsoftware.com/)

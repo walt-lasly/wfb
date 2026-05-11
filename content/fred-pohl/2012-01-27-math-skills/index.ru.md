@@ -4,9 +4,9 @@ date: 2012-01-27
 categories: ["Science"]
 tags: ["Economics"]
 archive_url: "https://web.archive.org/web/20220901000000/http://www.thewaythefutureblogs.com/2012/01/mat/"
-prev_post_url: "/posts/2012-01-25-bright-sayings-of-bright-people-no-24/"
+prev_post_url: "/fred-pohl/2012-01-25-bright-sayings-of-bright-people-no-24/"
 prev_post_title: "Bright Sayings of Bright People, No. 24"
-next_post_url: "/posts/2012-01-30-rating-the-candidates/"
+next_post_url: "/fred-pohl/2012-01-30-rating-the-candidates/"
 next_post_title: "Rating the Candidates"
 translated: false
 translator: "Yandex"
@@ -39,17 +39,17 @@ translator: "Yandex"
 
 - [Джек Уильям Белл](https://web.archive.org/web/20120513024954/http://www.jackwilliambell.com/) говорит:
 Это известно как эффект Даннинга Крюгера. Это применимо и к другим вещам, помимо математических навыков. [http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect](https://web.archive.org/web/20120513024954/http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-[** 27 января 2012 года, 10:49 утра**](/posts/2012-01-27-math-skills/)
+[** 27 января 2012 года, 10:49 утра**](/fred-pohl/2012-01-27-math-skills/)
 - [Кит](https://web.archive.org/web/20120513024954/http://futurespastandpresent.blogspot.com/) говорит:
 Просто из любопытства, откуда ты взял эту статистику, Фред?
-[** 27 января 2012 года, 11:26 утра**](/posts/2012-01-27-math-skills/)
+[** 27 января 2012 года, 11:26 утра**](/fred-pohl/2012-01-27-math-skills/)
 - Феофилакт говорит:
 Ах, да: [Эффект Даннинга-Крюгера](https://web.archive.org/web/20120513024954/http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) снова поднимает свою уродливую голову.
-[** 27 января 2012 года, 11:57 утра**](/posts/2012-01-27-math-skills/)
+[** 27 января 2012 года, 11:57 утра**](/fred-pohl/2012-01-27-math-skills/)
 - [Ларри Коллар](https://web.archive.org/web/20120513024954/http://farmanor.blogspot.com/) говорит:
 Кто это сказал, что образованные люди мучаются над проблемой, в то время как невежественные полностью верят в свой неправильный ответ? (Я уверен, что исказил цитату, но кто-нибудь поймет, что я имел в виду.)
 Кажется уместным, что для публикации комментария к этому блогу требуется простой математический вопрос.  
-[**27 января 2012, 10:56 вечера**](/posts/2012-01-27-math-skills/)
+[**27 января 2012, 10:56 вечера**](/fred-pohl/2012-01-27-math-skills/)
 
 [WordPress](https://web.archive.org/web/20120513024954/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120513024954/http://dicksmithsoftware.com/)

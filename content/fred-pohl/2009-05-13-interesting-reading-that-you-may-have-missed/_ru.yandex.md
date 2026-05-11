@@ -4,9 +4,9 @@ date: 2009-05-13
 categories: ["Miscellaneous"]
 tags: ["Capitalism", "Media"]
 archive_url: "https://web.archive.org/web/20090726215213/http://www.thewaythefutureblogs.com/2009/05/interesting-reading-that-you-may-have-missed/"
-prev_post_url: "/posts/2009-05-08-the-quadrumvirate/"
+prev_post_url: "/fred-pohl/2009-05-08-the-quadrumvirate/"
 prev_post_title: "The Quadrumvirate"
-next_post_url: "/posts/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
+next_post_url: "/fred-pohl/2009-05-18-have-mouth-will-travel-part-1-the-lecture-biz/"
 next_post_title: "Have Mouth, Will Travel, Part 1: The Lecture Biz"
 translated: false
 translator: "Yandex"
@@ -54,7 +54,7 @@ translator: "Yandex"
 Кругман также писал об экологических проблемах Китая, в частности о выбросах CO2. [http://www.nytimes.com/2009/05/15/opinion/15krugman.html?_r=1&amp;partner=rssnyt&amp;emc=rss](https://web.archive.org/web/20090726215213/http://www.nytimes.com/2009/05/15/opinion/15krugman.html?_r=1&partner=rssnyt&emc=rss)
 На мой взгляд, Китай сидит на экологической бомбе замедленного действия. Они отравляют свою землю, воду и воздух с неприемлемой скоростью. Сегодня они могут быть экономическим локомотивом, но в долгосрочной перспективе их страна станет непригодной для жизни. Затраты на устранение беспорядка, который они устроили в своем стремлении стать экономической сверхдержавой, в конечном счете подорвут китайскую экономику, что, в свою очередь, еще больше уведет остальной мир от той самой экономической модели, основанной на потреблении, которая создала китайскую сверхдержаву. 
 Мое мнение - следующие 20 лет будут... интересными. В ближайшие 20 лет мир изменится так же сильно, как и за последние 100. Перемены неизбежны, но как они изменятся, еще предстоит увидеть.
-[** 18 мая 2009 года, 9:30 утра**](/posts/2009-05-13-interesting-reading-that-you-may-have-missed/)
+[** 18 мая 2009 года, 9:30 утра**](/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/)
 - [Даг Кей](https://web.archive.org/web/20090726215213/http://dkretzmann.blogspot.com/) говорит:
 Джеймс Фэллоуз на самом деле не является "финансовым" писателем как таковым. Впрочем, его стоит почитать на любую тему. Найдите его веб-блог по адресу
 
@@ -63,11 +63,11 @@ translator: "Yandex"
 Теперь мы все кейнсианцы..  
 
 “Рынок может оставаться иррациональным дольше, чем вы можете оставаться платежеспособным”. Джон Мейнард Кейнс
-[**18 мая 2009, 16:55 вечера**](/posts/2009-05-13-interesting-reading-that-you-may-have-missed/)
+[**18 мая 2009, 16:55 вечера**](/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/)
 - Тина Блэк говорит:
 Я вывел все свои рыночные активы, когда индекс ДОУ-Джонса был на уровне 14 000.  Хороший ход.
  
-[** 31 мая 2009 года, 10:53 утра**](/posts/2009-05-13-interesting-reading-that-you-may-have-missed/)
+[** 31 мая 2009 года, 10:53 утра**](/fred-pohl/2009-05-13-interesting-reading-that-you-may-have-missed/)
 
 [WordPress](https://web.archive.org/web/20090726215213/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090726215213/http://dicksmithsoftware.com/)

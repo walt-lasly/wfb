@@ -4,9 +4,9 @@ date: 2013-01-23
 categories: ["Science", "Space"]
 tags: ["Astronomy"]
 archive_url: "https://web.archive.org/web/20240101000000/http://www.thewaythefutureblogs.com/2013/01/a-diamond-as-big-as/"
-prev_post_url: "/posts/2013-01-20-bright-sayings-of-bright-people-no-40-zuma/"
+prev_post_url: "/fred-pohl/2013-01-20-bright-sayings-of-bright-people-no-40-zuma/"
 prev_post_title: "Bright Sayings of Bright People, No. 40: Zuma"
-next_post_url: "/posts/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/"
+next_post_url: "/fred-pohl/2013-01-27-bright-sayings-of-bright-people-no-41-wilde/"
 next_post_title: "Bright Sayings of Bright People, No. 41: Wilde"
 translated: false
 translator: "Yandex"
@@ -38,15 +38,15 @@ translator: "Yandex"
 
 - [Стефан Джонс](https://web.archive.org/web/20141018142439/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) говорит:
 Это напоминает мне роман Пола Андерсона (*Миркхайм*). Поверхность планеты, вращающейся вокруг остатка сверхновой, была покрыта различными видами унобтания, образовавшегося в результате взрыва. Сверхтяжелые элементы, если я правильно помню.
-[** 23 января 2013, 14:29**](/posts/2013-01-23-a-diamond-as-big-as-the-what/)
+[** 23 января 2013, 14:29**](/fred-pohl/2013-01-23-a-diamond-as-big-as-the-what/)
 - Его превосходительство Пармер говорит:
 А в менее престижной части Galaxy был обнаружен кубический цирконий, в три раза превышающий размер Земли …
-[**23 января 2013, 14:57**](/posts/2013-01-23-a-diamond-as-big-as-the-what/)
+[**23 января 2013, 14:57**](/fred-pohl/2013-01-23-a-diamond-as-big-as-the-what/)
 - [Грегори Бенфорд](https://web.archive.org/web/20141018142439/http://gregorybenford.com/) говорит:
 В 1980—х годах я написал повесть “Бриллиант размером с отель ”Ритц"", основанную на моделировании планет того времени. Так что это блестящее открытие... обратите внимание также на ссылку на Фитцджеральда.  
 
 Привет, Фред!
-[** 24 января 2013 года, 9:30 вечера**](/posts/2013-01-23-a-diamond-as-big-as-the-what/)
+[** 24 января 2013 года, 9:30 вечера**](/fred-pohl/2013-01-23-a-diamond-as-big-as-the-what/)
 
 [WordPress](https://web.archive.org/web/20141018142439/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20141018142439/http://dicksmithsoftware.com/)

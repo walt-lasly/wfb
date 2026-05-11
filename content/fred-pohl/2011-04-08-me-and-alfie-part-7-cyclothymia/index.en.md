@@ -4,9 +4,9 @@ date: 2011-04-08
 categories: ["Authors"]
 tags: ["Alfred Bester", "C.L. Moore", "Clubs", "Editors", "Films", "Futurians", "Horace L. Gold", "James Tiptree Jr.", "Joanna Russ", "John Brunner", "John W. Campbell", "Leslie F. Stone", "Prozines", "Psychology", "Ray Bradbury", "Robert A. Heinlein", "Television", "Theodore Sturgeon", "Ursula K. Le Guin", "Vonda McIntyre"]
 archive_url: "https://web.archive.org/web/20220501000000/http://www.thewaythefutureblogs.com/2011/04/me-and-alfie-part-7-cyclothymia/"
-prev_post_url: "/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
+prev_post_url: "/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/"
 prev_post_title: "Me and Alfie, Part 6: John W. Campbell and Dianetics"
-next_post_url: "/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/"
+next_post_url: "/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/"
 next_post_title: "Me and Alfie, Part 8: Hollywood and the Name Game"
 translated: false
 ---
@@ -26,7 +26,7 @@ Frederik Pohl
 {{< figure src="bester-ca1964.jpg" alt="Alfred Bester, ca. 1964." caption="Alfred Bester, ca. 1964." >}}
 
 
-Pohl: I want to tell you something about this arrogance that you were talking about. It is not just editors, although the best in science fiction have been pretty insufferable in one way or another. We’ve mentioned [Horace Gold](https://web.archive.org/web/20170619232625/http://www.gcwillick.com/Spacelight/gold_hl.html), who was also demented. [**John Campbell**](/posts/2009-12-03-astounding-the-campbell-years-riding-high/) clearly had a very decisive personality and impressed it on everybody around him all the time.
+Pohl: I want to tell you something about this arrogance that you were talking about. It is not just editors, although the best in science fiction have been pretty insufferable in one way or another. We’ve mentioned [Horace Gold](https://web.archive.org/web/20170619232625/http://www.gcwillick.com/Spacelight/gold_hl.html), who was also demented. [**John Campbell**](/fred-pohl/2009-12-03-astounding-the-campbell-years-riding-high/) clearly had a very decisive personality and impressed it on everybody around him all the time.
 
 
 Some years ago two psychologists decided they wanted to find out what science-fiction writers were like. They sent out a questionnaire to a bunch of science-fiction writers and asked them to answer the sort of questions you get on psychological-testing papers. How do you feel about your mother and this and that. And from these they prepared a group psychological profile of science fiction writers.
@@ -89,7 +89,7 @@ As to the kinds of stories, to the content, what I said about the obstinacy and 
 Alfie and I both write science fiction but neither of us could write the other’s books. Alfie’s [The Demolished Man](https://web.archive.org/web/20170619232625/http://www.amazon.com/gp/product/B0000CIPKD?ie=UTF8&tag=twtfb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000CIPKD) —”  — and many other books — have always impressed me, but they’re not anything I could write. And what I write about would be fairly hard for someone else to do, because a lot of what any writer has to say is his own view of the world. And the better the book, the more it is personal to that writer — personal and specific and not something someone else could have done.
 
 
-So some new [**Heinlein**](/posts/2010-05-03-working-with-robert-a-heinlein/) or [Ray Bradbury](https://web.archive.org/web/20170619232625/http://www.raybradbury.com/) or [John Brunner](https://web.archive.org/web/20170619232625/http://www.nndb.com/people/720/000023651/) or Alfie Bester will come along and write something and change the whole scene for science fiction because of his personal stubborn individualism and then other people will copy it. But I don’t know what that will be until he does it.
+So some new [**Heinlein**](/fred-pohl/2010-05-03-working-with-robert-a-heinlein/) or [Ray Bradbury](https://web.archive.org/web/20170619232625/http://www.raybradbury.com/) or [John Brunner](https://web.archive.org/web/20170619232625/http://www.nndb.com/people/720/000023651/) or Alfie Bester will come along and write something and change the whole scene for science fiction because of his personal stubborn individualism and then other people will copy it. But I don’t know what that will be until he does it.
 
 
 Audience: Do you see any major talents emerging in the ’70s?
@@ -106,15 +106,15 @@ No woman writer has been in any way handicapped by being female in science ficti
 
 **Related posts:**
 
-- **Alfie,** [**Part 1**](/posts/2011-03-08-alfie/), [**Part 2**](/posts/2011-03-10-alfie-part-2-when-bester-was-the-best/)
-- **Me and Alfie,** [**Part 1**](/posts/2011-03-25-me-and-alfie/), [**Part 2**](/posts/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/posts/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/posts/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/posts/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/posts/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 8**](/posts/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
+- **Alfie,** [**Part 1**](/fred-pohl/2011-03-08-alfie/), [**Part 2**](/fred-pohl/2011-03-10-alfie-part-2-when-bester-was-the-best/)
+- **Me and Alfie,** [**Part 1**](/fred-pohl/2011-03-25-me-and-alfie/), [**Part 2**](/fred-pohl/2011-03-28-me-and-alfie-part-2-gateway-and-the-art-of-writing/), [**Part 3**](/fred-pohl/2011-03-30-me-and-alfie-part-3-ideas-and-the-demolished-man/), [**Part 4**](/fred-pohl/2011-04-01-me-and-alfie-part-4-rejection/), [**Part 5**](/fred-pohl/2011-04-04-me-and-alfie-part-5-collaboration-and-the-futurians/), [**Part 6**](/fred-pohl/2011-04-06-me-and-alfie-part-6-john-w-campbell-and-dianetics/), [**Part 8**](/fred-pohl/2011-04-11-me-and-alfie-part-8-hollywood-and-the-name-game/)
 
 
 ### One Comment
 
 - [Bill Higgins-- Beam Jockey](https://web.archive.org/web/20170619232625/http://beamjockey.livejournal.com/) says:
 Those curious about the psychologists who tested science fiction writers in 1958 may wish to read “[Personality and creativity in artists and writers](https://web.archive.org/web/20170619232625/http://onlinelibrary.wiley.com/doi/10.1002/1097-4679%28195804%2914:2%3C107::AID-JCLP2270140202%3E3.0.CO;2-T/abstract)“, by John E. Drevdahl and Raymond B. Cattell, in *Journal of Clinical Psychology*, volume 14, pages 107–111.
-[**April 8, 2011, 9:15 am**](/posts/2011-04-08-me-and-alfie-part-7-cyclothymia/)
+[**April 8, 2011, 9:15 am**](/fred-pohl/2011-04-08-me-and-alfie-part-7-cyclothymia/)
 
 [WordPress](https://web.archive.org/web/20170619232625/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619232625/http://dicksmithsoftware.com/)

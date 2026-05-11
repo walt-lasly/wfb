@@ -4,9 +4,9 @@ date: 2011-11-08
 categories: ["Miscellaneous"]
 tags: ["Conventions", "Donald A. Wollheim", "History", "John B. Michel", "Mark Olson", "Milton A. Rothman", "Will Sykora"]
 archive_url: "https://web.archive.org/web/20200401000000/http://www.thewaythefutureblogs.com/2011/11/happy-75th-anniversary-to-us/"
-prev_post_url: "/posts/2011-11-03-how-to-publish-a-fanzine/"
+prev_post_url: "/fred-pohl/2011-11-03-how-to-publish-a-fanzine/"
 prev_post_title: "How to Publish a Fanzine"
-next_post_url: "/posts/2011-11-12-dickens-had-it-right/"
+next_post_url: "/fred-pohl/2011-11-12-dickens-had-it-right/"
 next_post_title: "Dickens Had It Right"
 translated: false
 ---
@@ -33,19 +33,19 @@ Three-quarters of a century!  My, how time flies when you’re having fun!
 
 - David B. Williams says:
 But obviously, the standards of fannish dress have declined precipitously over the past three quarter-centuries.
-[**November 8, 2011, 9:07 am**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+[**November 8, 2011, 9:07 am**](/fred-pohl/2011-11-08-happy-75th-anniversary-to-us/)
 - Jay Borcherding says:
 What a dapper group of young men.  You might be G-Men, or Dillinger gang wannabes.  The photo certainly illustrates the precipitous sartorial decline in American society generally, and comic-con/sci-fi-con attendees specifically.
-[**November 9, 2011, 1:36 am**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+[**November 9, 2011, 1:36 am**](/fred-pohl/2011-11-08-happy-75th-anniversary-to-us/)
 - [Susan Kaye Quinn](https://web.archive.org/web/20111115202137/http://www.susankayequinn.com/) says:
 I think if your younger self time-traveled to Comic Con, they would think you were straight out of a Marvel Comic. Which would be awesome. 
-[**November 9, 2011, 7:51 pm**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+[**November 9, 2011, 7:51 pm**](/fred-pohl/2011-11-08-happy-75th-anniversary-to-us/)
 - [jess](https://web.archive.org/web/20111115202137/http://drfleck.com/) says:
 thats an epic picture, congrats on your 75th anniversary
-[**November 12, 2011, 7:16 pm**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+[**November 12, 2011, 7:16 pm**](/fred-pohl/2011-11-08-happy-75th-anniversary-to-us/)
 - [Michael Walsh](https://web.archive.org/web/20111115202137/http://www.oldearthbooks.com/) says:
 Of the 10 people at this grand event, three remain with us: the esteemed proprietor of this site, Dave Kyle (who is on Facebook!), and Bob Madle … who is still selling books and mags.
-[**November 13, 2011, 1:14 pm**](/posts/2011-11-08-happy-75th-anniversary-to-us/)
+[**November 13, 2011, 1:14 pm**](/fred-pohl/2011-11-08-happy-75th-anniversary-to-us/)
 
 [WordPress](https://web.archive.org/web/20111115202137/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20111115202137/http://dicksmithsoftware.com/)

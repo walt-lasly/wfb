@@ -4,9 +4,9 @@ date: 2013-01-15
 categories: ["Science"]
 tags: ["Barack Obama", "Ecology", "Meteorology", "Politics"]
 archive_url: "https://web.archive.org/web/20131201000000/http://www.thewaythefutureblogs.com/2013/01/the-elections-over-now-what/"
-prev_post_url: "/posts/2012-12-23-how-gassy-is-america-really/"
+prev_post_url: "/fred-pohl/2012-12-23-how-gassy-is-america-really/"
 prev_post_title: "How Gassy is America, Really?"
-next_post_url: "/posts/2013-01-16-getting-the-juices-flowing/"
+next_post_url: "/fred-pohl/2013-01-16-getting-the-juices-flowing/"
 next_post_title: "Getting the Juices Flowing"
 translated: false
 translator: "Yandex"
@@ -45,11 +45,11 @@ translator: "Yandex"
 - Марк Бросиус говорит:
 Уже за полночь, и я только что закончил перечитывать одну из ваших замечательных книг, “Мир На Краю Времени(The World atTheEnd of Time)”.  Отложил это, вышел в Интернет, чтобы посмотреть, как у тебя дела.  Мне было приятно наткнуться на эту заставляющую задуматься статью после того, как я только что прочитал о проблеме восстановления дома на планете Ньюман.  
 спасибо вам за все проделанные вами работы!
-[** 16 января 2013 года, 1:25 утра**](/posts/2013-01-15-the-election-s-over-now-what/)
+[** 16 января 2013 года, 1:25 утра**](/fred-pohl/2013-01-15-the-election-s-over-now-what/)
 - Кен говорит:
 Очень жаль, что решение этой проблемы требует действий от недееспособных правительств всего мира. Если это не в духе дня, избранных должностных лиц можно не беспокоить. Думаю, от нас зависит, чтобы это стало изюминкой дня. 
 Бог, может быть, и не играет в кости, но политики, безусловно, играют.
-[**16 января 2013, 19:47 вечера**](/posts/2013-01-15-the-election-s-over-now-what/)
+[**16 января 2013, 19:47 вечера**](/fred-pohl/2013-01-15-the-election-s-over-now-what/)
 
 [WordPress](https://web.archive.org/web/20140807151219/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140807151219/http://dicksmithsoftware.com/)

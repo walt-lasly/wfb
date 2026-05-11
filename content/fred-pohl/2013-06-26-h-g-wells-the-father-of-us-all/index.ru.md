@@ -4,9 +4,9 @@ date: 2013-06-26
 categories: ["Authors"]
 tags: ["H.G. Wells"]
 archive_url: "https://web.archive.org/web/20170620033552/http://www.thewaythefutureblogs.com/2013/06/h-g-wells-the-father-of-us-all/"
-prev_post_url: "/posts/2013-06-23-bright-sayings-of-bright-people-no-48-sachs/"
+prev_post_url: "/fred-pohl/2013-06-23-bright-sayings-of-bright-people-no-48-sachs/"
 prev_post_title: "Bright Sayings of Bright People, No. 48: Sachs"
-next_post_url: "/posts/2013-06-28-why-the-greedy-old-party-needs-a-licking/"
+next_post_url: "/fred-pohl/2013-06-28-why-the-greedy-old-party-needs-a-licking/"
 next_post_title: "Why the Greedy Old Party Needs a Licking"
 translated: false
 translator: "Yandex"
@@ -38,10 +38,10 @@ translator: "Yandex"
 
 - Барри Трейлор говорит:
 И что самое Amazing в Герберте Уэллсе, так это то, что его работы все еще так читаемы в 21 веке.
-[** 12 июля 2013 года, 5:34 утра**](/posts/2013-06-26-h-g-wells-the-father-of-us-all/)
+[** 12 июля 2013 года, 5:34 утра**](/fred-pohl/2013-06-26-h-g-wells-the-father-of-us-all/)
 - [Б. Моррис Аллен](https://web.archive.org/web/20170620033552/http://www.bmorrisallen.com/) говорит:
 Некоторое время назад я взял в руки роман Уэлла "Анна-Вероника" (тогдашний современный роман), и мне напомнили, каким хорошим писателем он был на самом деле. Я продолжил работу над * На четвертом курсе: Ожидания мира во всем мире* (политическая статья со взлетами и падениями) и был удивлен, обнаружив очень ясное и по-прежнему актуальное описание голосования с возможностью передачи по одному голосованию - то, что большинство стран до сих пор не удосужились принять.
-[**26 июля 2013, 12:41 вечера**](/posts/2013-06-26-h-g-wells-the-father-of-us-all/)
+[**26 июля 2013, 12:41 вечера**](/fred-pohl/2013-06-26-h-g-wells-the-father-of-us-all/)
 
 [WordPress](https://web.archive.org/web/20170620033552/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170620033552/http://dicksmithsoftware.com/)

@@ -4,9 +4,9 @@ date: 2010-08-02
 categories: ["Science"]
 tags: ["Paleontology"]
 archive_url: "https://web.archive.org/web/20180101000000/http://www.thewaythefutureblogs.com/2010/08/meet-ardi-she-may-be-your-grandma/"
-prev_post_url: "/posts/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/"
+prev_post_url: "/fred-pohl/2010-07-31-bright-sayings-of-geniuses-no-1-bohr/"
 prev_post_title: "Bright Sayings of Geniuses, No. 1: Bohr"
-next_post_url: "/posts/2010-08-05-a-movie-you-won-t-expect-to-like-but-you-will/"
+next_post_url: "/fred-pohl/2010-08-05-a-movie-you-won-t-expect-to-like-but-you-will/"
 next_post_title: "A Movie You Won’t Expect to Like, But You Will"
 translated: false
 translator: "Yandex"
@@ -36,14 +36,14 @@ translator: "Yandex"
 - Билл Гудвин говорит:
 Она также была довольно худощавой, поэтому ее не звали Арди Гра. Вероятно, из-за узкого пищевода, из-за которого получился бы ардишок, если бы она ела слишком быстро. Не было найдено ни бус, ни резьбы по дереву, так что она не была очень похожа на Арди Фарди. И, конечно же, охота заставила Арди скучать по своему брату Аполлону…
 Я буду так разочарована в тебе, если ты опубликуешь это.
-[**3 августа 2010 года, 14:10 вечера**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**3 августа 2010 года, 14:10 вечера**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - готтакук говорит:
 Для получения наиболее подробного освещения, пожалуйста, перейдите к первоисточнику:
 [http://www.sciencemag.org/ardipithecus](https://web.archive.org/web/20140901182251/http://www.sciencemag.org/ardipithecus)  
 
 (Наука, 2 октября 2009 г.)
 Мой любимый момент анализа данных среди многих, представленных в этом пакете статей (на подготовку которых ушли годы): без развития большого пальца ноги, наблюдаемого у Ardi, прямохождение могло бы никогда не произойти.
-[**3 августа 2010, 15:36 вечера**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**3 августа 2010, 15:36 вечера**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - Тролль говорит:
 О, боже мой!  
 
@@ -52,16 +52,16 @@ translator: "Yandex"
 НЕ ПООЩРЯЙТЕ ЕГО!  
 
 Быстро!, кто-нибудь, ударь Гудвина по затылку!
-[**4 августа 2010 года, 12:08 утра**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**4 августа 2010 года, 12:08 утра**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - Билл Гудвин говорит:
 И у кого с такой матерью может быть комплекс арди-пал?  (О, не гримасничай, мой юмор, может быть, и натянутый, но он не наигранный.  Нервничать вредно для твоего здоровья, тебе следует быть более снисходительным...)
-[**7 августа 2010 года, 4:07 утра**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**7 августа 2010 года, 4:07 утра**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - [Антон Шервуд](https://web.archive.org/web/20140901182251/http://ogre.nu/) говорит:
 Арди ар ар. Тебе больше нечем заняться?
-[**9 августа 2010, 10:12 вечера**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**9 августа 2010, 10:12 вечера**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 - Билл Гудвин говорит:
 Медведи Арди сидят в лесу?
-[**11 августа 2010, 19:28 вечера**](/posts/2010-08-02-meet-ardi-she-may-be-your-grandma/)
+[**11 августа 2010, 19:28 вечера**](/fred-pohl/2010-08-02-meet-ardi-she-may-be-your-grandma/)
 
 [WordPress](https://web.archive.org/web/20140901182251/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20140901182251/http://dicksmithsoftware.com/)

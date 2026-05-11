@@ -4,9 +4,9 @@ date: 2012-05-08
 categories: ["Authors"]
 tags: ["Algis Budrys", "Editors", "Edna Budrys", "L. Ron Hubbard", "Prozines", "Religion"]
 archive_url: "https://web.archive.org/web/20260201000000/http://www.thewaythefutureblogs.com/2012/05/algis-budrys-the-iron-thorn/"
-prev_post_url: "/posts/2012-05-06-bright-sayings-of-bright-people-no-31/"
+prev_post_url: "/fred-pohl/2012-05-06-bright-sayings-of-bright-people-no-31/"
 prev_post_title: "Bright Sayings of Bright People, No. 31"
-next_post_url: "/posts/2012-05-10-consequences/"
+next_post_url: "/fred-pohl/2012-05-10-consequences/"
 next_post_title: "Consequences"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="algis_-edna-budrys_1985wb.jpg" alt="Algis and Edna Budrys, 1985 (Photo by William Shunn)." caption="Algis and Edna Budrys, 1985 (Photo by William Shunn)." >}}
 
 
-Everything, you see, was [**going beautifully**](/posts/2012-01-31-a-j-budrys-hits-his-stride/).  So then, guess what [**AJ**](/posts/2010-07-26-a-j/) did next.
+Everything, you see, was [**going beautifully**](/fred-pohl/2012-01-31-a-j-budrys-hits-his-stride/).  So then, guess what [**AJ**](/fred-pohl/2010-07-26-a-j/) did next.
 
 
 I’ll tell you what he did next.  Basically, he quit writing.
@@ -38,13 +38,13 @@ He found what he was looking for, more or less, although the money and the perma
 But public relations, glamorous though it was said to be, was not just what he wanted to devote his life to.  Over the next few years he worked at various jobs, including a couple of years as Book Editor for the magazine Playboy,  with occasional stints of writing.
 
 
-Then he met the [**Scientologists**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/).
+Then he met the [**Scientologists**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/).
 
 
 I don’t know how AJ first hooked up with the Scientologists.  He had formed the habit of roaming around the country in his car — coast to coast, Mexico to the Canadian line, dropping in on assorted clubs, cons and individuals.  Perhaps he dictated stories as he went.  He never mentioned it, and I never asked.  But, as it happened, theScientologists headquarters building in Hollywood, California was one of his ports of call.  And they urgently needed to buy something and AJ had it to sell.
 
 
-The Scientologists had decided to exalt the name of their founder, [**L. Ron Hubbard**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/), by getting as many as possible of the books he had written long ago back into print, and also to fund an annual award for the best new writers who were as yet unpublished in the fields of science fiction and fantasy.
+The Scientologists had decided to exalt the name of their founder, [**L. Ron Hubbard**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/), by getting as many as possible of the books he had written long ago back into print, and also to fund an annual award for the best new writers who were as yet unpublished in the fields of science fiction and fantasy.
 
 
 That was a sensible move, but there was one thing wrong with it.  Nobody around Scientology Central knew anything about publishing, or running an annual award, or how to get any part of it off the ground.
@@ -118,26 +118,26 @@ So he crossed his fingers, emptied out his bank account and started his own scie
 
 **Related posts:**
 
-- [**A J Budrys Hits His Stride**](/posts/2012-01-31-a-j-budrys-hits-his-stride/)
-- [**A J**](/posts/2010-07-26-a-j/)
-- [**The Worlds of L. Ron Hubbard**](/posts/2009-09-04-the-worlds-of-l-ron-hubbard/)
-- [**The Worlds of L. Ron Hubbard, Part 2**](/posts/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
-- [**Weekends with the Moonies**](/posts/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
-- [**Robert A. Heinlein, Algis Budrys and Me**](/posts/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
+- [**A J Budrys Hits His Stride**](/fred-pohl/2012-01-31-a-j-budrys-hits-his-stride/)
+- [**A J**](/fred-pohl/2010-07-26-a-j/)
+- [**The Worlds of L. Ron Hubbard**](/fred-pohl/2009-09-04-the-worlds-of-l-ron-hubbard/)
+- [**The Worlds of L. Ron Hubbard, Part 2**](/fred-pohl/2009-09-09-the-worlds-of-l-ron-hubbard-part-2/)
+- [**Weekends with the Moonies**](/fred-pohl/2010-01-03-interesting-meetings-i-ve-attended-weekends-with-the-moonies/)
+- [**Robert A. Heinlein, Algis Budrys and Me**](/fred-pohl/2010-05-12-robert-a-heinlein-algis-budrys-and-me/)
 
 
 ### 2 Comments
 
 - [TAD](https://web.archive.org/web/20120713043619/http://www.tadsbackupplan.blogspot.com/) says:
 Looking forward to where this goes next. I received a couple of rejection slips from Algis — one of which made a pretty good point about the story in question — and always loved his book reviews….
-[**May 9, 2012, 2:07 am**](/posts/2012-05-08-algis-budrys-the-iron-thorn/)
+[**May 9, 2012, 2:07 am**](/fred-pohl/2012-05-08-algis-budrys-the-iron-thorn/)
 - Walt G says:
 I saw Mr. Budrys give a talk on building a story at one Norwescon.  
 
 He described a very simple situation, about a violin student, stopping along the way to show structure and necessary elements and when he reached the end I actually got a little choked up.  
 
 Now that is a story teller.
-[**May 11, 2012, 12:19 pm**](/posts/2012-05-08-algis-budrys-the-iron-thorn/)
+[**May 11, 2012, 12:19 pm**](/fred-pohl/2012-05-08-algis-budrys-the-iron-thorn/)
 
 [WordPress](https://web.archive.org/web/20120713043619/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120713043619/http://dicksmithsoftware.com/)

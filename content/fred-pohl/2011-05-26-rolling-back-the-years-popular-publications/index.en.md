@@ -4,9 +4,9 @@ date: 2011-05-26
 categories: ["Authors", "Personal"]
 tags: ["Agents", "C.M. Kornbluth", "Clubs", "Costa Carousso", "Donald A. Wollheim", "Editors", "Futurians", "Harry Steeger", "Isaac Asimov", "New York", "Peggy Graves", "Prozines", "Publishing", "Pulps", "Robert Erisman"]
 archive_url: "https://web.archive.org/web/20180301000000/http://www.thewaythefutureblogs.com/2011/05/rolling-back-the-years-popular-publications/"
-prev_post_url: "/posts/2011-05-24-post-scriptum/"
+prev_post_url: "/fred-pohl/2011-05-24-post-scriptum/"
 prev_post_title: "Post Scriptum"
-next_post_url: "/posts/2011-05-31-popular-publications-part-2/"
+next_post_url: "/fred-pohl/2011-05-31-popular-publications-part-2/"
 next_post_title: "Popular Publications, Part 2"
 translated: false
 ---
@@ -23,7 +23,7 @@ Frederik Pohl
 {{< figure src="harry-steeger.jpg" alt="Harry Steeger" caption="Harry Steeger" >}}
 
 
-In the late 1930s, I was a teenage science-fiction fan and would-be writer.  I had come to know a number of editors of the existing science-fiction pulps by reinventing myself as a literary agent and visiting them at their offices, offering them the latest stories written by some of my fan friends.  The writers were pretty amateurish and my sales of them around zero.  Still, the deception wasn’t entirely implausible.  A couple dozen of us would-bes had formed ourselves into a fan club called [**The Futurians**](/posts/2009-05-08-the-quadrumvirate/).  Drawn from that pool, some of my clients were [**Cyril Kornbluth**](/posts/2009-04-20-cyril/), [Don Wollheim](https://web.archive.org/web/20170619225501/http://www.gcwillick.com/Spacelight/wollheim.html) and [Isaac Asimov](https://web.archive.org/web/20170619225501/http://www.asimovonline.com/), and  they were all already coming fairly close.  Close enough, at least, to be taken at least slightly seriously by the editors.
+In the late 1930s, I was a teenage science-fiction fan and would-be writer.  I had come to know a number of editors of the existing science-fiction pulps by reinventing myself as a literary agent and visiting them at their offices, offering them the latest stories written by some of my fan friends.  The writers were pretty amateurish and my sales of them around zero.  Still, the deception wasn’t entirely implausible.  A couple dozen of us would-bes had formed ourselves into a fan club called [**The Futurians**](/fred-pohl/2009-05-08-the-quadrumvirate/).  Drawn from that pool, some of my clients were [**Cyril Kornbluth**](/fred-pohl/2009-04-20-cyril/), [Don Wollheim](https://web.archive.org/web/20170619225501/http://www.gcwillick.com/Spacelight/wollheim.html) and [Isaac Asimov](https://web.archive.org/web/20170619225501/http://www.asimovonline.com/), and  they were all already coming fairly close.  Close enough, at least, to be taken at least slightly seriously by the editors.
 
 
 What I noticed about the editors was that they spent much of their time reading science fiction.  Well, that’s what I was doing, too, only I was doing it for nothing.  I summoned up the nerve to ask one of the friendlier editors, [Robert Erisman](https://web.archive.org/web/20170619225501/http://www.isfdb.org/cgi-bin/ea.cgi?32390), if he would like to hire me as an assistant.  He didn’t laugh at me.  He didn’t even tell me what I am sure was true, that he didn’t have a budget for an assistant or any hope of being given one.  But he did tell me that he had heard that some new magazines were coming out from [Harry Steeger](https://web.archive.org/web/20170619225501/http://homepage.mac.com/cdkalb/spider/legend/steeger.html) of [Popular Publications](https://web.archive.org/web/20170619225501/http://www.nypl.org/research/chss/spe/rbk/faids/popular.html), way at the far end of 42nd Street  (Erisman’s office was almost as far west as you could go on 42nd Street, in the old green glass McGraw-Hill Building, while Steeger’s, between 2nd and 3rd Avenues, was almost as far as you could go east — that is, in either case, without running into a river.). So why didn’t I, then, go see Mr. Steeger and see if he might hire me to edit a science-fiction magazine for him?
@@ -46,7 +46,7 @@ Would you believe it, I was 19 years old and actually a professional editor.
 
 **Related posts:**
 
-- **Popular Publications**, [**Part 2**](/posts/2011-05-31-popular-publications-part-2/), [**Part 3**](/posts/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/posts/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/posts/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/posts/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/posts/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
+- **Popular Publications**, [**Part 2**](/fred-pohl/2011-05-31-popular-publications-part-2/), [**Part 3**](/fred-pohl/2011-06-03-popular-publications-part-3-the-people-who-made-the-pulps/), [**Part 4**](/fred-pohl/2011-06-09-popular-publications-part-4-continuing-down-the-corridor/), [**Part 5**](/fred-pohl/2011-08-16-popular-publications-part-5-there-and-back-again/), [**Part 6**](/fred-pohl/2011-08-18-popular-publications-part-6-deadlines/), [**Part 7**](/fred-pohl/2011-08-31-popular-publications-part-7-the-beginning-of-the-end/)
 
 
 ### 4 Comments
@@ -54,16 +54,16 @@ Would you believe it, I was 19 years old and actually a professional editor.
 - [Stefan Jones](https://web.archive.org/web/20170619225501/http://home.comcast.net/~stefan_jones/tan_jacket_lo.jpg) says:
 Just jumping in and becoming an editor like that . . . blows my mind, man!
 It would be nice to see a photo of the building your office was in . . . assuming it still exists!
-[**May 26, 2011, 6:55 pm**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**May 26, 2011, 6:55 pm**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 - [the blog team](https://web.archive.org/web/20170619225501/http://thewaythefutureblogs.com/) says:
 Stefan — coming right up!
-[**May 27, 2011, 1:24 am**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**May 27, 2011, 1:24 am**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 - [Bill Goodwin](https://web.archive.org/web/20170619225501/http://771715/) says:
 Tell you what, Fred old boy. I’ll publish a science fiction magazine–a real nice one too–and if you’ll edit it for me, I’ll not only start by making good on that $3 (plus compounded interest), but round off the sum to a full two days pay. ‘Cause I’ve got a feeling about you!
-[**May 30, 2011, 2:14 am**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**May 30, 2011, 2:14 am**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 - SM says:
 I just noticed the “40 magazines under one owner” figure.  I hadn’t realized there were so many pulps at one time!  The total in a given month must have been hundreds.
-[**June 2, 2011, 9:42 am**](/posts/2011-05-26-rolling-back-the-years-popular-publications/)
+[**June 2, 2011, 9:42 am**](/fred-pohl/2011-05-26-rolling-back-the-years-popular-publications/)
 
 [WordPress](https://web.archive.org/web/20170619225501/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20170619225501/http://dicksmithsoftware.com/)

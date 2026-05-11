@@ -4,9 +4,9 @@ date: 2009-03-20
 categories: ["Personal", "Travel"]
 tags: ["Agents", "Arnold Perl", "C.M. Kornbluth", "Films", "H.G. Wells", "H.N. Swanson", "Hollywood", "Joseph Conrad", "New York", "Rudyard Kipling", "Television"]
 archive_url: "https://web.archive.org/web/20090327075222/http://www.thewaythefutureblogs.com/2009/03/me-and-the-biz-2-continued/"
-prev_post_url: "/posts/2009-03-18-me-and-the-biz-part-ii/"
+prev_post_url: "/fred-pohl/2009-03-18-me-and-the-biz-part-ii/"
 prev_post_title: "Me and the Biz, Part II"
-next_post_url: "/posts/2009-03-22-gracious-dining/"
+next_post_url: "/fred-pohl/2009-03-22-gracious-dining/"
 next_post_title: "Gracious Dining"
 translated: false
 translator: "DeepL"
@@ -64,7 +64,7 @@ translator: "DeepL"
 А когда я заселился в отель в Денвере, они стоили $22 500, в Сиэтле - $27 500, и к тому времени, когда я был дома, цена перевалила за $30 000, и британский Redifusion пытался вбить в меня хоть какой-то смысл - "Свани собирается испортить тебе все дело, ты же знаешь.  Мы можем просто уйти" - и безуспешно.
 
 
-Даже [**Арнольд Перл**](/posts/2009-03-18-me-and-the-biz-part-ii/) проявлял некоторое беспокойство: "Ты же говорил, что у семьи Корнблат какие-то проблемы с деньгами.  Может пройти немало времени, прежде чем наши переговоры достигнут таких цифр"
+Даже [**Арнольд Перл**](/fred-pohl/2009-03-18-me-and-the-biz-part-ii/) проявлял некоторое беспокойство: "Ты же говорил, что у семьи Корнблат какие-то проблемы с деньгами.  Может пройти немало времени, прежде чем наши переговоры достигнут таких цифр"
 
 
 И когда я позвонил Свани на следующий день, он сказал: "Они на уровне 50 000 долларов.  Что ты хочешь, чтобы я сделал?"
@@ -87,16 +87,16 @@ translator: "DeepL"
 
 **Сопутствующие посты:**
 
-[**Me and the Biz**](/posts/2009-02-15-me-and-the-biz/)
+[**Me and the Biz**](/fred-pohl/2009-02-15-me-and-the-biz/)
 
-[**Me and the Biz, Part II**](/posts/2009-03-18-me-and-the-biz-part-ii/)
+[**Me and the Biz, Part II**](/fred-pohl/2009-03-18-me-and-the-biz-part-ii/)
 
 
 ### Один комментарий
 
 - [Sharon E. Dreyer](https://web.archive.org/web/20090327075222/http://www.eloquentbooks.com/LongJourneyToRneadal.html) говорит:
 Звучит так, как будто война торгов была хорошей вещью в 1950-х годах! А как начинающий автор я бы и сейчас не отказался от тендерной войны!
-[**Март 20, 2009, 8:32 am**](/posts/2009-03-20-me-and-the-biz-part-ii-continued/)
+[**Март 20, 2009, 8:32 am**](/fred-pohl/2009-03-20-me-and-the-biz-part-ii-continued/)
 
 [WordPress](https://web.archive.org/web/20090327075222/http://wordpress.org/)
 [TWTFB](https://web.archive.org/web/20090327075222/http://dicksmithsoftware.com/)

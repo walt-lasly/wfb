@@ -4,9 +4,9 @@ date: 2010-05-24
 categories: ["Authors", "Space"]
 tags: ["Clubs", "Donald A. Wollheim", "Ecology", "Futurians", "Poetry"]
 archive_url: "https://web.archive.org/web/20110801000000/http://www.thewaythefutureblogs.com/2010/05/futurian-poetry-i/"
-prev_post_url: "/posts/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/"
+prev_post_url: "/fred-pohl/2010-05-21-the-wives-and-drives-of-robert-heinlein-ginny/"
 prev_post_title: "The Wives (and Drives) of Robert Heinlein: Ginny"
-next_post_url: "/posts/2010-05-28-why-i-love-the-new-york-times-magazine/"
+next_post_url: "/fred-pohl/2010-05-28-why-i-love-the-new-york-times-magazine/"
 next_post_title: "Why I love the New York Times Magazine"
 translated: false
 ---
@@ -50,7 +50,7 @@ For they’d get lost without their maps
 
 Being naught but Homo Saps.
 The final reference is the abbreviation for “Homo sapiens sapiens.” Bob also told me that the Futurians sang these lyrics at Christmas-time on street corners to tease passers-by.
-[**June 1, 2010, 3:50 pm**](/posts/2010-05-24-futurian-poetry-i/)
+[**June 1, 2010, 3:50 pm**](/fred-pohl/2010-05-24-futurian-poetry-i/)
 
 [WordPress](https://web.archive.org/web/20120308112311/http://wordpress.org/)
 [TWTFB2](https://web.archive.org/web/20120308112311/http://dicksmithsoftware.com/)
