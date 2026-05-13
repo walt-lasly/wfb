@@ -143,6 +143,15 @@
   });
   </script>
   {{ end }}
+  {{ else if and (eq .Language.Lang "en") $ru $ru.Params.translator }}
+  {{/* EN page whose RU counterpart is a machine translation */}}
+  <div class="translated-banner">
+    <span>{{ i18n "translated_by_note" $ru.Params.translator }}</span>
+    <a class="translator-btn active-btn" href="{{ $ru.RelPermalink }}">{{ i18n "read_translation" }} →</a>
+  </div>
+  <div class="single-column" data-pagefind-body>
+    {{ .Content }}
+  </div>
   {{ else }}
   <div class="no-translation-banner">
     <span>{{ i18n "not_translated_note" }}</span>
