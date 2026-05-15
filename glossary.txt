@@ -176,6 +176,7 @@ Gravy Planet	Торговцы Космосом (Gravy Planet)
 All the Lives He Led	All the Lives He Led
 The Last Theorem	Последняя теорема (The Last Theorem)
 Our Angry Earth	Our Angry Earth
+The Gold at the Starbow’s End	The Gold at the Starbow’s End
 
 # ── Book titles by other authors ─────────────────────────────────────────────
 The Demolished Man	Разрушенный Человек (The Demolished Man)
