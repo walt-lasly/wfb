@@ -7,6 +7,8 @@ archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondenc
 translated: false
 volume: corr085
 pages: "211"
+next_post_url: /heinleinarchive/1961-10-29-letter-bester-to-rah/
+next_post_title: "Bester → RAH: F&SF's loss (Holiday, undated Sunday)"
 translator: "Yandex"
 ---
 <!-- translated by Yandex Translate -->

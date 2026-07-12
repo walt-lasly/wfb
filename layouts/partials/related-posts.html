@@ -22,7 +22,9 @@
   {{- range $groups }}
   <ul class="related-posts__list">
     {{- range .posts }}
-    <li><a href="{{ print $base (.url | strings.TrimPrefix "/") }}">{{ .title | markdownify }}</a></li>
+    {{- $external := or (hasPrefix .url "http://") (hasPrefix .url "https://") -}}
+    {{- $href := cond $external .url (print $base (.url | strings.TrimPrefix "/")) -}}
+    <li><a href="{{ $href }}"{{ if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .title | markdownify }}</a></li>
     {{- end }}
   </ul>
   {{- with .note }}<p class="related-posts__note">{{ . }}</p>{{ end -}}
