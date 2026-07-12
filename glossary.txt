@@ -124,6 +124,7 @@ Saberhagen	Саберхаген
 Cele Goldsmith	Сил Голдсмит
 Cele	Сил
 Marion Zimmer Bradley	Мэрион Зиммер Брэдли
+Brunner	Браннер
 
 
 # ── Publications (do not translate titles) ───────────────────────────────────
