@@ -1,7 +1,7 @@
 {{- $canonicalPath := print "/" .File.Dir -}}
 {{- $base := site.Home.RelPermalink -}}
 {{- $groups := slice -}}
-{{- range $group := hugo.Data.relationships -}}
+{{- range $group := site.Data.relationships -}}
   {{- $matched := false -}}
   {{- $others := slice -}}
   {{- range $post := $group.posts -}}
