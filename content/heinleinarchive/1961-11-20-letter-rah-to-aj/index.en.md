@@ -2,7 +2,7 @@
 title: "Letter from RAH to Algis Budrys (bomb shelter)"
 date: 1961-11-20
 categories: [correspondence, "cold war", publishing]
-tags: ["Algis Budrys", "Bay of Pigs", Hungary, Lithuania, "bomb shelter", "civil defense", "Cyril Kornbluth", "Not This August", "Regency Books", "book proposal", "Fred Pohl", "Virginia Heinlein", "Rogue Moon", "Colorado Springs"]
+tags: ["Algis Budrys", "Bay of Pigs", Hungary, Lithuania, "bomb shelter", "civil defense", "C.M. Kornbluth", "Not This August", "Regency Books", "book proposal", "Fred Pohl", "Virginia Heinlein", "Rogue Moon", "Colorado Springs"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
