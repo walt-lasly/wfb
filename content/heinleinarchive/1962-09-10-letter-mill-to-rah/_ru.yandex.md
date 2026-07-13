@@ -2,7 +2,7 @@
 title: "Письмо Вирджинии Милл к Р.Э.Х. (обсуждение на радио KHJ)"
 date: 1962-09-10
 categories: [correspondence, radio]
-tags: ["Virginia Mill", "A. E. Van Vogt", "Kris Neville", "Joe Dolan", "KHJ", "radio"]
+tags: ["Virginia Mill", "A.E. Van Vogt", "Kris Neville", "Joe Dolan", "KHJ", "radio"]
 archive_url: "https://www.heinleinarchive.org/product-page/corr085-correspondence-1961-62"
 translated: false
 volume: corr085
