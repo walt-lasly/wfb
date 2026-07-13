@@ -16,3 +16,10 @@ content/**/ir[*
 deepl.key
 
 github-recovery-codes.txt
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
