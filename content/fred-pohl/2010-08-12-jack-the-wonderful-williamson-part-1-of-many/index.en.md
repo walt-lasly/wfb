@@ -47,7 +47,7 @@ It is true, of course, that in the judgment of most authorities *The Stone from 
 
 **Related posts:**
 
-- **Jack the Wonderful Williamson, Part 2, Part 3, Part 4**
+- **Jack the Wonderful Williamson,** [**Part 2**](/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/), [**Part 3**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/), [**Part 4**](/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/)
 
 
 ### One Comment

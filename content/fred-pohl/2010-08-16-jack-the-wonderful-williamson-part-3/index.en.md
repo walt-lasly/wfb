@@ -52,8 +52,7 @@ None of that might have happened, though, if it hadn’t been sparked by what wa
 
 **Related posts:**
 
-
-**Jack the Wonderful Williamson: Part 1, Part 2, Part 4**
+- **Jack the Wonderful Williamson,** [**Part 1**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), [**Part 2**](/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/), [**Part 4**](/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/)
 
 
 ### 6 Comments

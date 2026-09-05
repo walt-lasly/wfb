@@ -49,7 +49,8 @@ translator: "DeepL"
 
 **Похожие посты:**
 
-- **Джек «Чудесный» Уильямсон, Часть 2, Часть 3, Часть 4**
+- **Джек «Чудесный» Уильямсон**, [**Часть 2**](/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/), [**Часть 3**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/), [**Часть 4**](/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/)
+
 
 
 ### Один комментарий

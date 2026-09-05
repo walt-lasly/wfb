@@ -52,7 +52,7 @@ Jack did not make the same mistake twice.  He courted her at once, married her a
 
 **Related posts:**
 
-**Jack the Wonderful Williamson, Part 1, Part 2, Part 3, Part 4**
+- **Jack the Wonderful Williamson,** [**Part 1**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), [**Part 2**](/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/), [**Part 3**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/), [**Part 4**](/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/)
 
 ### 2 Comments
 

@@ -52,9 +52,9 @@ translator: "Yandex"
 * Продолжение будет, когда я доберусь до этого. . . .*
 
 
-**Связанные должности:**
+**Связанные посты:**
 
-** Джек Замечательный Уильямсон, Часть 1, Часть 2, Часть 3, Часть 4**
+- **Джек Замечательный Уильямсон,** [**Часть 1**](/fred-pohl/2010-08-12-jack-the-wonderful-williamson-part-1-of-many/), [**Часть 2**](/fred-pohl/2010-08-13-jack-the-wonderful-williamson-part-2/), [**Часть 3**](/fred-pohl/2010-08-16-jack-the-wonderful-williamson-part-3/), [**Часть 4**](/fred-pohl/2010-09-22-jack-the-wonderful-williamson-part-4-the-real-story-begins/)
 
 ### 2 Комментария
 
