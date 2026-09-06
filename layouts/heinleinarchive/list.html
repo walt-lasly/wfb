@@ -1,7 +1,20 @@
 {{ define "main" }}
 {{ $pages := .Pages }}
+{{ $currentSection := .Section }}
+{{ if eq $currentSection "" }}{{ $currentSection = "all" }}{{ end }}
 
 <div class="list-page archive-list-page">
+
+  <nav class="filter-bar filter-bar--archives" aria-label="Browse archive sections">
+    <span class="filter-label">Archives</span>
+    <a class="filter-chip filter-chip--archive {{ if eq $currentSection "all" }}filter-chip--active{{ end }}"
+       href="{{ .Site.Home.RelPermalink }}">All</a>
+    {{ $sections := sort .Site.Sections "Title" }}
+    {{ range $sections }}
+      <a class="filter-chip filter-chip--archive {{ if eq $currentSection .Section }}filter-chip--active{{ end }}"
+         href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+  </nav>
 
   {{/* ── Layout switch ── */}}
   <div class="archive-view-switch">

@@ -1,3 +1,3 @@
 ---
-title: "National Fantasy Fan Federation"
+title: "N3F"
 ---

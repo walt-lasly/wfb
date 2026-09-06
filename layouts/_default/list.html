@@ -1,8 +1,21 @@
 {{ define "main" }}
 <div class="list-page">
 
-  {{/* ── Category filter bar ── */}}
-  <nav class="filter-bar">
+  {{/* ── Top-level archive selector ── */}}
+  {{ $currentSection := .Section }}
+  {{ if eq $currentSection "" }}{{ $currentSection = "all" }}{{ end }}
+  <nav class="filter-bar filter-bar--archives" aria-label="Browse archive sections">
+    <span class="filter-label">Archives</span>
+    <a class="filter-chip filter-chip--archive {{ if eq $currentSection "all" }}filter-chip--active{{ end }}"
+       href="{{ .Site.Home.RelPermalink }}">All</a>
+    {{ $sections := sort .Site.Sections "Title" }}
+    {{ range $sections }}
+      <a class="filter-chip filter-chip--archive {{ if eq $currentSection .Section }}filter-chip--active{{ end }}"
+         href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+  </nav>
+
+  <nav class="filter-bar filter-bar--categories" aria-label="Filter posts by category">
     <a class="filter-chip {{ if .IsHome }}filter-chip--active{{ end }}"
        href="{{ .Site.Home.RelPermalink }}">{{ i18n "all_posts" }}</a>
     {{ range .Site.Taxonomies.categories.ByCount }}

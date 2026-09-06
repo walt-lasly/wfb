@@ -1,3 +1,3 @@
 ---
-title: "eFanzines — Earl Kemp"
+title: "eFanzines"
 ---
